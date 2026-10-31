@@ -1,0 +1,112 @@
+'use client';
+
+import Link from 'next/link';
+import { useId, useLayoutEffect, useRef, useState } from 'react';
+import { LANES, TREATMENTS, countWords, type LaneKey, type Treatment } from '@/lib/library';
+import { Label, Pill } from './ext';
+
+type Row = Treatment & { lane: LaneKey; laneName: string };
+const ROWS: Row[] = LANES.flatMap((l) => TREATMENTS[l.key].map((t) => ({ ...t, lane: l.key, laneName: l.name })));
+
+/** Case-insensitive, ignoring hyphens, spaces and punctuation: "bpc157" finds BPC-157. */
+const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9+]/g, '');
+const matches = (r: Row, q: string) => !q || [r.name, r.laneName, r.peptide ? 'Peptide' : ''].some((f) => norm(f).includes(q));
+
+/**
+ * The treatment finder: a search box, lane tabs ("All" and the nine lanes, each with its count) and the treatment rows.
+ * Search and tab work together (a search narrows within the selected tab). Switching tabs swaps the list in place; the page
+ * holds still. `lane` starts on (or, with `hideTabs`, locks to) one lane.
+ */
+export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hideTabs?: boolean }) {
+  const [tab, setTab] = useState<LaneKey | 'all'>(lane ?? 'all');
+  const [text, setText] = useState('');
+  const id = useId();
+  const tabsRef = useRef<HTMLDivElement>(null);
+  const tabBtns = useRef<(HTMLButtonElement | null)[]>([]);
+  const anchor = useRef<number | null>(null);
+
+  const q = norm(text);
+  const inTab = (r: Row) => tab === 'all' || r.lane === tab;
+  const shown = ROWS.filter((r) => inTab(r) && matches(r, q));
+  const countFor = (k: LaneKey | 'all') => ROWS.filter((r) => (k === 'all' || r.lane === k) && matches(r, q)).length;
+
+  // Hold the page still across a tab switch (a shorter list must not pull the page up).
+  useLayoutEffect(() => {
+    if (anchor.current == null || !tabsRef.current) return;
+    const drift = tabsRef.current.getBoundingClientRect().top - anchor.current;
+    if (Math.abs(drift) > 0.5) window.scrollBy(0, drift);
+    anchor.current = null;
+  }, [tab]);
+
+  const tabs: { key: LaneKey | 'all'; name: string }[] = [{ key: 'all', name: 'All' }, ...LANES.map((l) => ({ key: l.key, name: l.name }))];
+  const choose = (i: number, focus = false) => {
+    anchor.current = tabsRef.current?.getBoundingClientRect().top ?? null;
+    setTab(tabs[i].key);
+    if (focus) tabBtns.current[i]?.focus({ preventScroll: true });
+  };
+  const onKey = (e: React.KeyboardEvent, i: number) => {
+    const n = tabs.length;
+    const to = { ArrowRight: (i + 1) % n, ArrowLeft: (i - 1 + n) % n, Home: 0, End: n - 1 }[e.key];
+    if (to === undefined) return;
+    e.preventDefault(); choose(to, true);
+  };
+
+  const groups = tab === 'all' && !hideTabs
+    ? LANES.map((l) => ({ lane: l, rows: shown.filter((r) => r.lane === l.key) })).filter((g) => g.rows.length)
+    : [{ lane: null, rows: shown }];
+  const panelId = `${id}-results`;
+
+  return (
+    <div className="finder">
+      <label htmlFor={`${id}-q`} className="finderLabel">Search treatments</label>
+      <input id={`${id}-q`} type="search" className="finderSearch" value={text} onChange={(e) => setText(e.target.value)}
+        placeholder="Try testosterone, semaglutide, BPC-157…" autoComplete="off" aria-controls={panelId} />
+
+      {hideTabs ? null : (
+        <div className="finderTabs" role="tablist" aria-label="Lanes" ref={tabsRef}>
+          {tabs.map((t, i) => (
+            <button key={t.key} type="button" role="tab" id={`${id}-tab-${t.key}`} aria-selected={tab === t.key} aria-controls={panelId}
+              tabIndex={tab === t.key ? 0 : -1} ref={(el) => { tabBtns.current[i] = el; }} onClick={() => choose(i)} onKeyDown={(e) => onKey(e, i)}>
+              <span className="ftName">{t.name}</span>
+              <span className="ftCount">{countWords(countFor(t.key))}</span>
+            </button>
+          ))}
+        </div>
+      )}
+
+      <p className="srOnly" aria-live="polite">{countWords(shown.length)}</p>
+      <div id={panelId} role={hideTabs ? 'region' : 'tabpanel'} aria-labelledby={hideTabs ? undefined : `${id}-tab-${tab}`} aria-label={hideTabs ? 'Treatments' : undefined} className="finderResults">
+        {shown.length === 0 ? (
+          <p className="finderEmpty">No treatment matches ‘{text}’. Pages are added as each record is checked.</p>
+        ) : (
+          <div className="tableBox" tabIndex={0} aria-label="Treatments">
+            <table className="index">
+              <thead>
+                <tr><th scope="col">Treatment</th><th scope="col">Lane</th><th scope="col">Human evidence</th><th scope="col">FDA</th><th scope="col">Sport (WADA)</th></tr>
+              </thead>
+              {groups.map((g) => (
+                <tbody key={g.lane?.key ?? 'rows'}>
+                  {g.lane ? <tr className="laneRow"><th colSpan={5} scope="rowgroup"><Link href={`/lanes/${g.lane.key}`}>{g.lane.name}</Link></th></tr> : null}
+                  {g.rows.map((t) => (
+                    <tr key={`${t.lane}-${t.name}`}>
+                      <th scope="row" className="txName">
+                        {t.page ? <Link href={t.page.href}>{t.name}</Link> : t.name}
+                        {t.peptide ? <Label className="labelTag">Peptide</Label> : null}
+                      </th>
+                      <td>{t.laneName}</td>
+                      {t.page ? (
+                        <><td>{t.page.evidence}</td><td><Pill kind="rust">{t.page.fda}</Pill></td><td><Pill kind="ink">{t.page.sport}</Pill></td></>
+                      ) : (
+                        <><td><Pill kind="sand">Page coming</Pill></td><td><Pill kind="sand">Page coming</Pill></td><td><Pill kind="sand">Page coming</Pill></td></>
+                      )}
+                    </tr>
+                  ))}
+                </tbody>
+              ))}
+            </table>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}

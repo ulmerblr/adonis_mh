@@ -438,3 +438,33 @@ span.tone-none { background: #d9d0bd; }
 .popClose { position: absolute; top: 2px; right: 2px; width: 44px; height: 44px; background: none; border: 0; font-size: 26px; line-height: 1; cursor: pointer; color: var(--ink); }
 @media (max-width: 600px) { .mapPop { font-size: 14px; } }
 .tabSources { margin-top: 36px; }
+
+/* PROMPT 7: lead photo, placeholders, treatment finder, summary cards */
+.leadPhoto { background: var(--navy); color: #c7d4e6; display: grid; place-items: center; text-align: center; font-weight: 700; aspect-ratio: 16 / 7; min-height: 180px; border-radius: 4px; margin-bottom: 18px; padding: 16px; }
+.ph, .ph p, .ph span { color: #8d8478 !important; font-style: italic; font-weight: 500 !important; }
+.ph.articleHead { font-weight: 600 !important; }
+.columns.ph { column-count: 1; }
+.finderLabel { display: block; font-size: 12px; font-weight: 800; letter-spacing: 2.5px; text-transform: uppercase; color: var(--leather); margin-bottom: 6px; }
+.finderSearch { width: 100%; min-height: 52px; padding: 10px 14px; font-family: var(--sans); font-size: 18px; color: var(--ink); background: var(--white); border: 2px solid var(--ink); border-radius: 4px; }
+.finderSearch:focus-visible { outline: 3px solid var(--punch); outline-offset: 2px; }
+.finderSearch::placeholder { color: #8d8478; }
+.finderTabs { display: flex; overflow-x: auto; margin: 16px 0 18px; border-top: 4px double var(--ink); border-bottom: 4px double var(--ink); scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
+.finderTabs [role='tab'] { flex: 1 0 auto; min-width: 104px; min-height: 72px; padding: 10px 12px; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 4px; background: transparent; border: 0; border-left: 1px solid var(--rule); color: var(--ink); cursor: pointer; text-align: left; font-family: var(--sans); }
+.finderTabs [role='tab']:first-child { border-left: 0; }
+.finderTabs [role='tab']:hover { background: var(--sand); }
+.finderTabs [role='tab'][aria-selected='true'] { background: var(--punch); color: var(--white); }
+.finderTabs [role='tab'][aria-selected='true'] .ftCount { color: rgba(255, 255, 255, 0.85); }
+.finderTabs [role='tab']:focus-visible { outline: 3px solid var(--ink); outline-offset: -3px; }
+.ftName { font-family: var(--anton); font-size: 22px; text-transform: uppercase; letter-spacing: 0.4px; line-height: 1; white-space: nowrap; }
+.ftCount { font-size: 13px; font-weight: 600; color: var(--soft); white-space: nowrap; }
+.finder .finderSearch + .finderResults { margin-top: 16px; }
+.finderEmpty { background: var(--sand); padding: 16px 18px; border-radius: 4px; font-weight: 600; }
+.summaryCards { list-style: none; margin: 0; padding: 0; display: grid; gap: 16px; }
+@media (min-width: 760px) { .summaryCards { grid-template-columns: repeat(3, 1fr); } }
+.summaryCard { background: var(--white); border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; display: flex; flex-direction: column; }
+.cardPhoto { background: var(--navy); color: #c7d4e6; display: grid; place-items: center; font-weight: 700; min-height: 140px; }
+.summaryBody { padding: 14px 16px 16px; }
+.summaryTitle { font-family: var(--slab); font-weight: 700; font-size: 21px; line-height: 1.2; margin: 6px 0 8px; }
+.summaryBody .more { display: inline-flex; align-items: center; min-height: 44px; font-weight: 800; }
+.leadPhoto { min-height: 0; width: 100%; aspect-ratio: 16 / 9; }
+@media (min-width: 760px) { .leadPhoto { aspect-ratio: 16 / 7; } }
