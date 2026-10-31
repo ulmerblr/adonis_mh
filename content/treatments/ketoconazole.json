@@ -1,0 +1,486 @@
+{
+  "slug": "ketoconazole",
+  "name": "Ketoconazole",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Few small studies",
+    "fda": "Approved (Nizoral)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Two mouse studies, per a 2020 review",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small studies; one controlled study in 1998",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No hair-loss phase I record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No hair-loss phase II record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No hair-loss phase III record found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Nizoral, approved for fungal skin conditions",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Ketoconazole is an antifungal medicine. It blocks the making of ergosterol, a part of the fungal cell wall.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea56cddf-94c9-46b6-8791-995b741cfbd7",
+            "label": "Ketoconazole cream 2% label, DailyMed",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "On the skin and scalp it is used against fungi such as Malassezia, which is linked to dandruff and seborrheic dermatitis.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea56cddf-94c9-46b6-8791-995b741cfbd7",
+            "label": "Ketoconazole cream 2% label, DailyMed",
+            "date": "published Sep 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8dd6b2f1-f438-4be1-a6c4-4f6c8902dfb6",
+            "label": "Nizoral Anti-Dandruff 1% label, DailyMed",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry ketoconazole on its own. It is one ingredient in a compounded hair spray from the Beluga catalog that also contains minoxidil, finasteride and latanoprost, sprayed on the scalp."
+      },
+      {
+        "t": "callout",
+        "text": "Using ketoconazole for hair loss is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Evidence for ketoconazole in pattern hair loss is small. A 2020 review found five human studies and said randomized controlled trials are still needed."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Belgium · 1998 · Controlled comparison",
+        "title": "Ketoconazole 2% shampoo versus plain shampoo, with or without minoxidil",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Controlled comparison of ketoconazole shampoo with an unmedicated shampoo, used with or without minoxidil 2%"
+          },
+          {
+            "k": "People",
+            "v": "Men with pattern hair loss (number not given in the abstract)"
+          },
+          {
+            "k": "Length",
+            "v": "Long-term use (length not given in the abstract)"
+          },
+          {
+            "k": "Measured",
+            "v": "Hair density, hair size, share of growing (anagen) hairs, scalp oil"
+          }
+        ],
+        "found": "Hair density, size and the share of growing hairs improved about the same with the ketoconazole and minoxidil regimens. The authors said a larger controlled study was needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9669136/",
+            "label": "Piérard-Franchimont et al., Dermatology, 1998",
+            "date": "published 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2020 · Systematic review",
+        "title": "Topical ketoconazole for pattern hair loss",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Systematic review of published studies"
+          },
+          {
+            "k": "People",
+            "v": "5 human studies (318 people) and 2 animal studies"
+          },
+          {
+            "k": "Length",
+            "v": "Not applicable"
+          },
+          {
+            "k": "Measured",
+            "v": "Hair shaft diameter, hair cycle, photo and self-rated change"
+          }
+        ],
+        "found": "Human studies reported thicker hair shafts and some improvement. The review called for randomized controlled trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31858672/",
+            "label": "Fields et al., Dermatol Ther, 2020 (systematic review)",
+            "date": "published Jan 2020"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "The same review reported that two mouse studies found more hair regrowth with ketoconazole than in untreated mice. These results are in animals only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31858672/",
+            "label": "Fields et al., Dermatol Ther, 2020 (systematic review)",
+            "date": "published Jan 2020"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA has approved ketoconazole products for fungal infections and dandruff, not for hair loss."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Prescription shampoo:",
+            "text": "Ketoconazole 2% shampoo is approved for tinea versicolor, a fungal skin infection. The brand Nizoral shampoo 2% was approved in 1990 and is now discontinued; generics remain.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99da5233-2760-46f6-8fb3-d9df5da70bfb",
+                "label": "Ketoconazole shampoo 2% label, DailyMed",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019927",
+                "label": "Drugs@FDA data (openFDA), NDA 019927 (Nizoral shampoo 2%)",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Over-the-counter shampoo:",
+            "text": "Nizoral Anti-Dandruff (ketoconazole 1%) was approved in 1997 and is sold over the counter to control dandruff flaking, scaling and itching.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020310",
+                "label": "Drugs@FDA data (openFDA), NDA 020310 (Nizoral Anti-Dandruff 1%)",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8dd6b2f1-f438-4be1-a6c4-4f6c8902dfb6",
+                "label": "Nizoral Anti-Dandruff 1% label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Cream:",
+            "text": "Ketoconazole 2% cream is approved for ringworm-type infections (tinea), tinea versicolor, skin candidiasis and seborrheic dermatitis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea56cddf-94c9-46b6-8791-995b741cfbd7",
+                "label": "Ketoconazole cream 2% label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Oral ketoconazole is restricted"
+      },
+      {
+        "t": "p",
+        "text": "Ketoconazole tablets carry a boxed warning. They can cause serious liver injury, including deaths and liver transplants, can cause dangerous heart-rhythm problems with some other drugs, and can lower adrenal hormone output. The label says they are not for skin or nail fungal infections and should be used only when other antifungals are not available or tolerated.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d598696-c6f3-4b7c-ad73-949d2089df35",
+            "label": "Ketoconazole tablets label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA records show a priority safety-labeling change to Nizoral tablets approved on July 25, 2013.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018533",
+            "label": "Drugs@FDA data (openFDA), NDA 018533 (Nizoral tablets)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The hair spray Adonis carries through Beluga is a compounded product applied to the scalp. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+      }
+    ],
+    "world": {
+      "lead": "Topical ketoconazole is an approved antifungal in the US, Canada and the EU. In the EU, oral ketoconazole for fungal infections was suspended in 2013. No regulator we checked has approved it for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (shampoos and cream for fungal skin conditions and dandruff; 1% shampoo over the counter). Oral tablets restricted under a boxed warning. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020310",
+              "label": "Drugs@FDA data (openFDA), NDA 020310 (Nizoral Anti-Dandruff 1%)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99da5233-2760-46f6-8fb3-d9df5da70bfb",
+              "label": "Ketoconazole shampoo 2% label, DailyMed",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d598696-c6f3-4b7c-ad73-949d2089df35",
+              "label": "Ketoconazole tablets label, DailyMed",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "A Nizoral product is marketed as a non-prescription drug. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=nizoral",
+              "label": "Drug Product Database, Health Canada (Nizoral)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=44259",
+              "label": "Drug Product Database status, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=44259",
+              "label": "Drug Product Database schedule, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Oral ketoconazole for fungal infections suspended across the EU in 2013; topical forms (creams, ointments, shampoos) can still be used. A separate oral product is authorised for Cushing’s syndrome. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/ketoconazole-containing-medicines",
+              "label": "Ketoconazole-containing medicines referral, EMA",
+              "date": "published Jun 2014"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ketoconazole-hra",
+              "label": "Ketoconazole Esteve (previously Ketoconazole HRA) EPAR, EMA",
+              "date": "published Jan 2015"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Ketoconazole is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side effects below come from the US labels for ketoconazole shampoo and cream. No label covers a scalp spray mixed with other drugs."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Hair loss:",
+            "text": "In 11 double-blind trials of 2% shampoo (264 people), an increase in normal hair loss and irritation each occurred in under 1%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99da5233-2760-46f6-8fb3-d9df5da70bfb",
+                "label": "Ketoconazole shampoo 2% label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Hair and scalp:",
+            "text": "Hair discoloration, abnormal hair texture, and oiliness or dryness of hair and scalp have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99da5233-2760-46f6-8fb3-d9df5da70bfb",
+                "label": "Ketoconazole shampoo 2% label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Allergy:",
+            "text": "Severe allergic reactions, including anaphylaxis, have been reported with the 2% shampoo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99da5233-2760-46f6-8fb3-d9df5da70bfb",
+                "label": "Ketoconazole shampoo 2% label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Cream:",
+            "text": "In cream trials, 5% of 905 people reported side effects, mainly severe irritation, itching and stinging. The cream contains a sulfite that can cause allergic-type reactions.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea56cddf-94c9-46b6-8791-995b741cfbd7",
+                "label": "Ketoconazole cream 2% label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The serious liver, heart-rhythm and adrenal warnings apply to ketoconazole tablets taken by mouth. EMA says topical forms are absorbed into the body in very low amounts.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d598696-c6f3-4b7c-ad73-949d2089df35",
+            "label": "Ketoconazole tablets label, DailyMed",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/referrals/ketoconazole-containing-medicines",
+            "label": "Ketoconazole-containing medicines referral, EMA",
+            "date": "published Jun 2014"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open FDA’s July 2013 Drug Safety Communication on oral ketoconazole (fda.gov returned not found); the page cites the tablet label and FDA’s Drugs@FDA data instead.",
+    "The 1998 Piérard-Franchimont study’s number of people and length were not in the abstract, and we could not open the full paper.",
+    "We could not confirm ketoconazole’s UK status from an MHRA record; the MHRA products site did not load without scripts.",
+    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending.",
+    "The Canadian Nizoral record did not state its dosage form when we checked."
+  ],
+  "surprises": [
+    "FDA’s label for ketoconazole 2% shampoo lists an increase in normal hair loss (under 1% of trial users) and abnormal hair texture as side effects, though the shampoo is often promoted for hair loss.",
+    "The prescription 2% shampoo label is approved only for tinea versicolor, not dandruff; the dandruff product is the 1% over-the-counter shampoo."
+  ]
+}

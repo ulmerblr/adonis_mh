@@ -1,0 +1,372 @@
+{
+  "slug": "melatonin",
+  "name": "Melatonin (topical)",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "1 pilot RCT; open studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal and cell work on hair follicles published",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Pilot RCT in 40 women (2004); open studies",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No phase I hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No phase II hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No phase III hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; sold as a supplement in the US",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Melatonin is a hormone the body makes, mainly at night, that helps run the sleep-wake cycle. Most melatonin products are made synthetically.",
+        "src": [
+          {
+            "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+            "label": "Melatonin: what you need to know, NIH NCCIH",
+            "date": "published May 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry topical melatonin on its own. It is part of a compounded hair-loss preparation from the Beluga catalog. We do not have a record of that product’s form, so this page does not describe it."
+      },
+      {
+        "t": "callout",
+        "text": "Using melatonin on the scalp for hair loss is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "One small randomized trial and a set of open, uncontrolled studies have tested melatonin solution on the scalp."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2004 · Randomized trial",
+        "title": "Melatonin 0.1% scalp solution in women",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled pilot"
+          },
+          {
+            "k": "People",
+            "v": "40 women with pattern hair loss or diffuse hair loss"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Share of growing (anagen) and resting (telogen) hairs on trichograms; blood melatonin"
+          }
+        ],
+        "found": "Melatonin raised the share of growing hairs at the back of the scalp in women with pattern hair loss (12 women) and at the front in women with diffuse hair loss (28 women). Other sites rose but not significantly. Blood melatonin rose but stayed below the normal night peak.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14996107/",
+            "label": "Fischer et al., Br J Dermatol, 2004",
+            "date": "published Feb 2004"
+          }
+        ],
+        "badge": "Pilot"
+      },
+      {
+        "t": "study",
+        "meta": "Europe · 2012 · Open studies",
+        "title": "A cosmetic melatonin solution in men and women",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "One drug-level study and four before-and-after studies, without placebo groups"
+          },
+          {
+            "k": "People",
+            "v": "Groups of 30, 35 and 60 people, and over 1,800 volunteers at 200 centers"
+          },
+          {
+            "k": "Length",
+            "v": "Up to 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Questionnaires, hair density by imaging, hair counts and hair-pull tests"
+          }
+        ],
+        "found": "The authors reported improvement in each study and good tolerance. Without placebo groups, these studies cannot show whether melatonin caused the changes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23766606/",
+            "label": "Fischer et al., Int J Trichology, 2012",
+            "date": "published Oct 2012"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "In the US, melatonin is sold as a dietary supplement. It is not an FDA-approved drug for hair loss."
+      },
+      {
+        "t": "p",
+        "text": "NIH says melatonin is regulated as a dietary supplement in the US, under less strict rules than prescription or over-the-counter drugs.",
+        "src": [
+          {
+            "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+            "label": "Melatonin: what you need to know, NIH NCCIH",
+            "date": "published May 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA does not approve dietary supplements before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+            "label": "Questions and answers on dietary supplements, FDA",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The Beluga preparation Adonis carries is compounded. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+      }
+    ],
+    "world": {
+      "lead": "Melatonin is a supplement in the US but a prescription-only medicine in the UK, and the EU has authorised it as a prescription medicine for sleep. No regulator we checked has approved it for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Sold as a dietary supplement. Not an approved drug.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+              "label": "Melatonin: what you need to know, NIH NCCIH",
+              "date": "published May 2024"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "A melatonin medicine (Slenyto) is marketed as a prescription drug. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=slenyto",
+              "label": "Drug Product Database, Health Canada (Slenyto)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106382",
+              "label": "Drug Product Database status, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=106382",
+              "label": "Drug Product Database schedule, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Prescription-only medicine, authorised for certain sleep problems in adults and in children over 6. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/parents-and-caregivers-advised-to-stop-all-use-of-specific-brand-of-kids-magnesium-gummies-due-to-the-presence-of-an-undeclared-prescription-only-med",
+              "label": "MHRA press release on undeclared melatonin, GOV.UK",
+              "date": "published Aug 2025"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Circadin (melatonin) is authorised across the EU for short-term insomnia in people 55 and over. Prescription-only. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/circadin",
+              "label": "Circadin EPAR, EMA",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Melatonin is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "No label covers melatonin on the scalp. The side effects below are for melatonin taken by mouth."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Supplements:",
+            "text": "Short-term studies in adults reported mild effects: headache, dizziness, nausea and sleepiness. Long-term effects are unclear.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Circadin:",
+            "text": "EMA lists uncommon side effects including irritability, restlessness, abnormal dreams, migraine, dizziness, sleepiness, high blood pressure, stomach pain and abnormal liver tests. It can cause drowsiness.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/circadin",
+                "label": "Circadin EPAR, EMA",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the 2004 scalp trial, blood melatonin rose with treatment but stayed below the normal night peak.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14996107/",
+            "label": "Fischer et al., Br J Dermatol, 2004",
+            "date": "published Feb 2004"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We have no record of the form of the Beluga product that contains melatonin, so the form is not described.",
+    "We could not open Health Canada’s natural health product records for melatonin; only the prescription drug Slenyto was confirmed.",
+    "We did not confirm whether low-dose melatonin food supplements are allowed in individual EU countries.",
+    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending."
+  ],
+  "surprises": [
+    "Melatonin is sold freely as a supplement in the US, but the UK’s MHRA treats it as a prescription-only medicine and has pulled a supplement found to contain it.",
+    "Most of the hair research on topical melatonin is open studies of a cosmetic solution without placebo groups; only one small placebo-controlled trial (40 women, 2004) was found."
+  ]
+}

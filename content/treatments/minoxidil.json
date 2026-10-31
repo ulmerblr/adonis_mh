@@ -1,0 +1,599 @@
+{
+  "slug": "minoxidil",
+  "name": "Minoxidil",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Topical: RCTs; oral: few",
+    "fda": "Topical OTC (Rogaine)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal heart and cancer studies on the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Oral pilots for hair loss, off-label",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Studied before the 1988 topical approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Studied before the 1988 topical approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "48-week RCT of 5% vs 2% topical, 393 men",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Rogaine 1988 topical; oral tablets for blood pressure",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Minoxidil is a vasodilator: it widens small arteries. Taken by mouth it lowers blood pressure. A side effect, extra body hair, was seen in about 80% of people taking the tablets.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+            "label": "Minoxidil tablets label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It comes in two approved forms in the US. A solution or foam put on the scalp is sold over the counter for hair regrowth on the top of the head. Tablets are prescription-only and approved only for severe high blood pressure.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccaecec5-5348-4b24-9190-5464c50f6d80",
+            "label": "Men's Rogaine Extra Strength label, DailyMed",
+            "date": "published Sep 2024"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+            "label": "Minoxidil tablets label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Scalp sprays:",
+            "text": "compounded sprays of minoxidil with finasteride, and in some versions with tretinoin, or with latanoprost and ketoconazole."
+          },
+          {
+            "lead": "Oral strips:",
+            "text": "compounded strips with minoxidil, finasteride and biotin, dissolved on the tongue. Taking minoxidil by mouth for hair loss is off-label."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "These Adonis products are compounded and are not FDA approved. No FDA-approved product combines minoxidil with finasteride, and oral minoxidil is not approved for hair loss."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Topical minoxidil has randomized trials behind its approval. Oral minoxidil for hair loss is off-label: one randomized trial, small open-label studies and a large retrospective safety review."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: topical"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2002 · Randomized trial",
+        "title": "5% vs 2% topical minoxidil (Olsen et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, randomized, multicenter"
+          },
+          {
+            "k": "People",
+            "v": "393 men aged 18 to 49 with male pattern hair loss: 157 on 5%, 158 on 2%, 78 on placebo"
+          },
+          {
+            "k": "Length",
+            "v": "48 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "scalp hair counts in a target area, patient and investigator ratings"
+          }
+        ],
+        "found": "5% beat 2% and placebo on hair counts and ratings. Itching and local irritation were more common with 5%. No systemic effects were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12196747/",
+            "label": "Olsen et al., J Am Acad Dermatol",
+            "date": "published Sep 2002"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: oral (off-label)"
+      },
+      {
+        "t": "study",
+        "meta": "Brazil · 2024 · Randomized trial",
+        "title": "Oral vs topical minoxidil (Penha et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled randomized trial at one clinic"
+          },
+          {
+            "k": "People",
+            "v": "90 men aged 18 to 55 with male pattern hair loss; 68 finished"
+          },
+          {
+            "k": "What was given",
+            "v": "oral minoxidil 5 mg daily with a placebo solution, or topical 5% twice daily with a placebo tablet"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "terminal hair density on the front and crown, total density, photos"
+          }
+        ],
+        "found": "Oral minoxidil was not superior to topical on hair density. Photo review favored oral on the crown only. On oral minoxidil, 49% had extra body hair and 14% had headache.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38598226/",
+            "label": "Penha et al., JAMA Dermatology",
+            "date": "published Jun 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Thailand · 2020 · Open-label study",
+        "title": "Oral minoxidil in 30 men (Panchaprateep and Lueangarun)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, single arm. No control group, no placebo."
+          },
+          {
+            "k": "People",
+            "v": "30 men aged 24 to 59 with male pattern hair loss"
+          },
+          {
+            "k": "What was given",
+            "v": "oral minoxidil 5 mg once daily"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "hair counts, hair diameter, photos, questionnaire, exams and lab tests"
+          }
+        ],
+        "found": "Total hair count rose by a mean of 35.1 hairs/cm² at week 24. Extra body hair occurred in 93% and ankle swelling in 10%. No serious heart events were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32970299/",
+            "label": "Panchaprateep and Lueangarun, Dermatol Ther (Heidelb)",
+            "date": "published Dec 2020"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2021 · Retrospective safety review",
+        "title": "Low-dose oral minoxidil safety, 1,404 patients (Vañó-Galván et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "retrospective chart review at several centers. No control group."
+          },
+          {
+            "k": "People",
+            "v": "1,404 patients (943 women, 461 men), mean age 43, any type of hair loss"
+          },
+          {
+            "k": "Length",
+            "v": "at least 3 months of treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "side effects recorded in charts"
+          }
+        ],
+        "found": "Extra body hair in 15.1%. Lightheadedness 1.7%, fluid retention 1.3%, fast heartbeat 0.9%, headache 0.4%, swelling around the eyes 0.3%. 1.7% stopped for side effects. No life-threatening events were recorded.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33639244/",
+            "label": "Vañó-Galván et al., J Am Acad Dermatol",
+            "date": "published Jun 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No trial has tested the compounded strips that combine oral minoxidil with finasteride and biotin, or the compounded combination sprays."
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In dogs, minipigs and rats, minoxidil caused heart lesions, including scarring in the heart muscle and bleeding in the heart wall. Some were produced by topical minoxidil absorbed into the blood. The label says their meaning for humans is not clear.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+            "label": "Minoxidil tablets label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Topical minoxidil (Rogaine) was approved in 1988 and is sold over the counter today. Oral minoxidil (Loniten, 1979) is approved only for severe high blood pressure. Using it for hair loss is off-label."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Rogaine 2%:",
+            "text": "NDA 019501, approved August 17, 1988. Now over the counter for men and women.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019501",
+                "label": "Drugs@FDA, NDA 019501",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Rogaine Extra Strength 5%:",
+            "text": "NDA 020834, approved November 14, 1997. Over the counter, for men only, for hair regrowth on the top of the scalp. Not for a receding hairline.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020834",
+                "label": "Drugs@FDA, NDA 020834",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccaecec5-5348-4b24-9190-5464c50f6d80",
+                "label": "Men's Rogaine Extra Strength label, DailyMed",
+                "date": "published Sep 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Loniten (oral tablets):",
+            "text": "NDA 018154, approved October 18, 1979. The brand is discontinued; FDA found it was not withdrawn for safety or effectiveness reasons. Generic tablets are prescription-only.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=018154",
+                "label": "Drugs@FDA, NDA 018154",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Tablet indication:",
+            "text": "only high blood pressure that causes symptoms or organ damage and is not controlled by a diuretic plus two other blood pressure drugs.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+                "label": "Minoxidil tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "the tablet label says: \"Use of minoxidil tablets, in any formulation, to promote hair growth is not an approved indication.\" It adds that home-made or pharmacy-made topical forms should be treated as carrying the full range of the tablet's warnings.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+                "label": "Minoxidil tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold. The minoxidil sprays and strips Adonis carries are compounded."
+      }
+    ],
+    "world": {
+      "lead": "Topical minoxidil is an approved hair-loss medicine in the US, Canada, the UK and across the EU. In the US, oral minoxidil tablets are approved only for severe high blood pressure; no record checked here approves oral minoxidil for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine. Topical Rogaine (1988) sold over the counter for hair loss. Oral tablets prescription-only, for severe high blood pressure.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019501",
+              "label": "Drugs@FDA, NDA 019501",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+              "label": "Minoxidil tablets label, DailyMed",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine. Men's Rogaine (2% solution, 5% foam) authorised for male pattern hair loss on the crown. Loniten tablets are also marketed.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/7084",
+              "label": "Health Canada product record, Men's Rogaine",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://pdf.hres.ca/dpd_pm/00082938.PDF",
+              "label": "Men's Rogaine product monograph, Health Canada",
+              "date": "published Dec 2025"
+            },
+            {
+              "url": "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/4011",
+              "label": "Health Canada product record, Loniten 2.5 mg",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine. Regaine topical products hold UK licences (PL numbers), per EMA's 2024 list. Loniten tablets were UK-licensed per EMA's 2016 list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/minoxidil-topical-formulation-list-nationally-authorised-medicinal-products-psusa-00002067-202310_en.pdf",
+              "label": "EMA list of nationally authorised products, topical minoxidil",
+              "date": "published Jun 2024"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/minoxidil-non-topical-formulation-list-nationally-authorised-medicinal-products-psusa0002066201510_en.pdf",
+              "label": "EMA list of nationally authorised products, oral minoxidil",
+              "date": "published Jul 2016"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Approved medicine, authorised nationally. Topical minoxidil solutions, sprays and foams are authorised in many member states. Loniten tablets authorised in several.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/minoxidil-topical-formulation-list-nationally-authorised-medicinal-products-psusa-00002067-202310_en.pdf",
+              "label": "EMA list of nationally authorised products, topical minoxidil",
+              "date": "published Jun 2024"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/minoxidil-non-topical-formulation-list-nationally-authorised-medicinal-products-psusa0002066201510_en.pdf",
+              "label": "EMA list of nationally authorised products, oral minoxidil",
+              "date": "published Jul 2016"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Minoxidil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Oral minoxidil carries a boxed warning: it can cause fluid around the heart and worsen chest pain. Topical minoxidil mostly causes scalp itching and irritation, but the label warns about heart symptoms and unwanted facial hair."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Boxed warning (tablets):",
+            "text": "minoxidil \"may produce serious adverse effects. It can cause pericardial effusion, occasionally progressing to tamponade, and angina pectoris may be exacerbated.\" The label reserves it for blood pressure that does not respond to a diuretic and two other drugs, given under close supervision, usually with a beta-blocker and a diuretic.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+                "label": "Minoxidil tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Tablets, other effects on the label:",
+            "text": "salt and water retention (temporary swelling in 7%), fluid around the heart in about 3% of patients not on dialysis, faster heart rate, extra body hair in about 80%, ECG changes in about 60%, rashes including rare Stevens-Johnson syndrome, and rare low platelet or white cell counts.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+                "label": "Minoxidil tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Low-dose oral use for hair loss (off-label):",
+            "text": "in the studies above, extra body hair was the most common effect (15% to 93%). Others were lightheadedness, fluid retention, fast heartbeat, headache and ankle or eye swelling.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33639244/",
+                "label": "Vañó-Galván et al., J Am Acad Dermatol",
+                "date": "published Jun 2021"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32970299/",
+                "label": "Panchaprateep and Lueangarun, Dermatol Ther (Heidelb)",
+                "date": "published Dec 2020"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38598226/",
+                "label": "Penha et al., JAMA Dermatology",
+                "date": "published Jun 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Topical:",
+            "text": "the Rogaine label says to stop and ask a doctor for chest pain, rapid heartbeat, faintness or dizziness, sudden weight gain, swollen hands or feet, scalp irritation or unwanted facial hair. Ask a doctor first with heart disease. Hair color or texture may change. In the 48-week trial, itching and irritation were more common with 5% than 2%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccaecec5-5348-4b24-9190-5464c50f6d80",
+                "label": "Men's Rogaine Extra Strength label, DailyMed",
+                "date": "published Sep 2024"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12196747/",
+                "label": "Olsen et al., J Am Acad Dermatol",
+                "date": "published Sep 2002"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "the Rogaine label says it may be harmful when pregnant or breast-feeding. The tablet label notes extra hair in newborns after exposure in pregnancy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccaecec5-5348-4b24-9190-5464c50f6d80",
+                "label": "Men's Rogaine Extra Strength label, DailyMed",
+                "date": "published Sep 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+                "label": "Minoxidil tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Combined with tretinoin:",
+            "text": "in 19 healthy men, tretinoin cream raised minoxidil absorption through the skin nearly threefold.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/2328551/",
+                "label": "Ferry et al., Clin Pharmacol Ther",
+                "date": "published Apr 1990"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Australia's TGA (ARTG) could not be reached, so minoxidil's Australian status is not confirmed.",
+    "The year topical Rogaine moved from prescription to over the counter could not be confirmed from an FDA record.",
+    "The UK status comes from EMA's lists of nationally authorised products (UK licence numbers); MHRA's own product records could not be read, and the UK sale category was not confirmed.",
+    "Canada's Loniten product monograph could not be downloaded, so its Canadian indication and Rogaine's non-prescription status were not confirmed from the monograph.",
+    "The oral minoxidil list from EMA dates from 2016; current EU authorisations of oral minoxidil were not confirmed."
+  ],
+  "surprises": [
+    "The oral minoxidil label states that using it \"in any formulation, to promote hair growth is not an approved indication,\" and that pharmacy-made topical forms should be treated as sharing the tablet's full warnings, which runs against common claims that compounded minoxidil sprays are low-risk.",
+    "The only randomized trial found here comparing oral and topical minoxidil (90 men, 24 weeks) found oral 5 mg was not superior to topical 5% on hair density, despite common claims that oral is stronger."
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "slug": "finasteride",
+  "name": "Finasteride",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Approved; many RCTs",
+    "fda": "Approved (Propecia)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "5α-reductase studies; rat and monkey fetal studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Studied before the 1997 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Drug levels studied in 15 healthy young men",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Studied before the 1997 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Three 12-month randomized trials, 1,879 men",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Propecia, 1997, male pattern hair loss",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Finasteride is a synthetic 4-azasteroid. It blocks Type II 5α-reductase, the enzyme that turns testosterone into dihydrotestosterone (DHT). A 1 mg tablet lowered blood DHT by about 65% within 24 hours. Blood testosterone rose by about 15% but stayed in the normal range.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+            "label": "Propecia label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The label says balding scalp has shrunken hair follicles and more DHT than scalp with hair. Finasteride lowers DHT in the scalp and blood. How much each drop matters to the effect has not been defined.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+            "label": "Propecia label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is sold as two FDA-approved tablets: Proscar (5 mg), for an enlarged prostate, and Propecia (1 mg), for male pattern hair loss.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+            "label": "FDA alert on compounded topical finasteride",
+            "date": "published Apr 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Scalp sprays:",
+            "text": "compounded sprays that combine finasteride with minoxidil, and in some versions with tretinoin, or with latanoprost and ketoconazole."
+          },
+          {
+            "lead": "Oral strips:",
+            "text": "compounded strips with minoxidil, finasteride and biotin, dissolved on the tongue."
+          },
+          {
+            "lead": "Tablet:",
+            "text": "a 1 mg finasteride tablet, listed in the catalog as \"Propecia (Finasteride)\"."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No FDA-approved product puts finasteride in a spray, a strip or a mix with other drugs. Those Adonis forms are compounded and are not FDA approved."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Propecia was approved on three double-blind, randomized, placebo-controlled trials of 12 months in 1,879 men aged 18 to 41, with extensions up to 5 years. A topical spray has had one Phase III trial in Europe. A trial in women showed no effect."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 1998 · Randomized trials",
+        "title": "Vertex hair loss, two trials (Kaufman et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two double-blind, randomized, placebo-controlled trials, with blinded extensions"
+          },
+          {
+            "k": "People",
+            "v": "1,553 men aged 18 to 41 with male pattern hair loss on the crown; 1,215 continued into year 2"
+          },
+          {
+            "k": "What was given",
+            "v": "oral finasteride 1 mg a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "1 year, then a second blinded year"
+          },
+          {
+            "k": "Measured",
+            "v": "hair counts in a 1-inch circle of the crown, patient and investigator ratings, expert photo review"
+          }
+        ],
+        "found": "Hair count was 107 hairs higher than placebo at 1 year and 138 higher at 2 years (baseline about 876). The placebo group kept losing hair. The authors called adverse effects minimal. The study was run by Merck, the maker.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9777765/",
+            "label": "Kaufman et al., J Am Acad Dermatol",
+            "date": "published Oct 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · label data · Extension studies",
+        "title": "Five-year follow-up of the vertex trials",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled extensions of the two vertex trials"
+          },
+          {
+            "k": "People",
+            "v": "323 men on Propecia and 23 on placebo entered year 5"
+          },
+          {
+            "k": "Length",
+            "v": "up to 5 years"
+          },
+          {
+            "k": "Measured",
+            "v": "hair counts, investigator ratings, photo panel"
+          }
+        ],
+        "found": "At 5 years the photo panel rated 48% of men on Propecia as having more hair, 42% no change and 10% less. On placebo: 6% more, 19% no change, 75% less. Men switched from Propecia to placebo lost the gained hair count within 12 months.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+            "label": "Propecia label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Label data · Randomized trial",
+        "title": "Postmenopausal women",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "137 postmenopausal women with androgenetic alopecia (67 on Propecia, 70 on placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "12 months"
+          },
+          {
+            "k": "Measured",
+            "v": "hair counts, self-assessment, investigator ratings, photos"
+          }
+        ],
+        "found": "No improvement over placebo on any measure. Propecia is not indicated for women.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+            "label": "Propecia label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Europe · 2022 · Randomized Phase III trial",
+        "title": "Topical finasteride spray (Piraccini et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, double-dummy trial: topical finasteride spray vs placebo, with an oral finasteride arm"
+          },
+          {
+            "k": "People",
+            "v": "458 adult men with androgenetic alopecia at 45 sites in Europe; 323 finished"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "target-area hair count, blood finasteride, testosterone and DHT"
+          }
+        ],
+        "found": "Hair count rose 20.2 hairs with the spray vs 6.7 with placebo. Peak blood finasteride was over 100 times lower than with the tablet. Blood DHT fell 34.5% with the spray vs 55.6% with the tablet. Adverse events were similar to placebo. The study was run by Almirall, the spray's developer. It tested Almirall's spray, not a compounded product.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34634163/",
+            "label": "Piraccini et al., J Eur Acad Dermatol Venereol",
+            "date": "published Feb 2022"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No trial has tested the compounded sprays or strips Adonis carries, which mix finasteride with other drugs."
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In pregnant rats, finasteride caused hypospadias (an abnormal opening of the penis) in 3.6% to 100% of male offspring, rising with dose. In monkeys, high oral doses also caused genital abnormalities in male fetuses. These findings are why the drug is banned in pregnancy.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+            "label": "Propecia label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA approved finasteride as Proscar (5 mg, enlarged prostate) on June 19, 1992 and as Propecia (1 mg, male pattern hair loss in men only) on December 19, 1997. No topical finasteride is FDA approved."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Propecia:",
+            "text": "NDA 020788, Organon. A prescription tablet for male pattern hair loss in men only. It is not indicated for women or children.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020788",
+                "label": "Drugs@FDA, NDA 020788",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Proscar:",
+            "text": "NDA 020180, Organon. A prescription tablet for symptoms of an enlarged prostate (benign prostatic hyperplasia). Its label was last revised in March 2026.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020180",
+                "label": "Drugs@FDA, NDA 020180",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b",
+                "label": "Proscar label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "2012 label change:",
+            "text": "FDA approved adding \"erectile dysfunction that continued after discontinuation of treatment\" and male infertility or poor semen quality to the Propecia label.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020788s020,s021,s023ltr.pdf",
+                "label": "FDA approval letter, Propecia S-020/021/023",
+                "date": "published Apr 2012"
+              }
+            ]
+          },
+          {
+            "lead": "2022 label change:",
+            "text": "On May 31, 2022 FDA ordered a safety labeling change for the risk of suicidal ideation and behavior, more sexual dysfunction and psychoneurocognitive adverse events. The revised label was approved August 1, 2022.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/020788Orig1s030ltr.pdf",
+                "label": "FDA approval letter, Propecia S-030",
+                "date": "published Aug 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Topical finasteride:",
+            "text": "FDA says there is no FDA-approved topical finasteride, alone or mixed with other drugs. In April 2025 it warned about compounded topical finasteride after 32 adverse event reports from 2019 to 2024.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+                "label": "FDA alert on compounded topical finasteride",
+                "date": "published Apr 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold. The finasteride sprays and strips Adonis carries are compounded."
+      }
+    ],
+    "world": {
+      "lead": "Finasteride tablets are approved medicines in the US, Canada, the UK and the EU. Europe also has a finasteride skin spray for hair loss. Regulators in Europe, the UK and Canada have all reviewed the risk of suicidal thoughts since 2024.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Propecia (1 mg, male pattern hair loss, 1997) and Proscar (5 mg, enlarged prostate, 1992). Prescription-only. No topical form is approved.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020788",
+              "label": "Drugs@FDA, NDA 020788",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+              "label": "FDA alert on compounded topical finasteride",
+              "date": "published Apr 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved prescription drug. Propecia (1 mg) marketed since 1998 for male pattern hair loss; Proscar (5 mg) since 1992. Health Canada continues to find a link with suicidal ideation.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1781100269999",
+              "label": "Health Canada summary safety review, finasteride and dutasteride",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/61606",
+              "label": "Health Canada product record, Propecia",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine. 1 mg for male pattern hair loss, 5 mg for an enlarged prostate. Packs carry a patient card on psychiatric and sexual side effects.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction",
+              "label": "MHRA Drug Safety Update",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Approved medicine, authorised nationally: 1 mg tablets and a finasteride skin spray for hair loss, 5 mg tablets for an enlarged prostate. 2025 EU review added suicidal ideation as a tablet side effect.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products",
+              "label": "EMA referral, finasteride and dutasteride",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Finasteride was added to the WADA Prohibited List on January 1, 2005 as a masking agent, according to a 2006 Court of Arbitration for Sport award. It is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.usada.org/wp-content/uploads/CAS-Decision_Zach-Lund_Feb-20061.pdf",
+              "label": "CAS award, WADA v. Lund (hosted by USADA)",
+              "date": "published Feb 2006"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Finasteride can lower sex drive and cause erection problems in some men. Some men report these continued after stopping. Depression and suicidal thoughts are on the label. It can harm a male fetus, so it is banned in pregnancy."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Sexual side effects in the trials:",
+            "text": "in the 12-month hair-loss trials, lower libido occurred in 1.8% on Propecia vs 1.3% on placebo, erectile dysfunction in 1.3% vs 0.7%, and ejaculation disorder in 1.2% vs 0.7%. Overall, 3.8% of men on Propecia reported one or more vs 2.1% on placebo. A questionnaire found differences favoring placebo in sexual interest, erections and perception of sexual problems.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Problems that continued after stopping:",
+            "text": "since approval, reports describe erectile dysfunction, libido, ejaculation and orgasm disorders that continued after treatment ended. The label also lists male infertility or poor semen quality, testicular pain and blood in semen. These are voluntary reports, so how often they happen is not known.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Mood, depression and suicidal thoughts:",
+            "text": "the US label lists depression and suicidal ideation and behavior. EMA confirmed suicidal ideation as a side effect of 1 and 5 mg tablets in 2025; most cases were in men taking 1 mg for hair loss. The UK and EU advise men on 1 mg to stop and contact a doctor if they develop low mood or suicidal thoughts.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products",
+                "label": "EMA referral, finasteride and dutasteride",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction",
+                "label": "MHRA Drug Safety Update",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "contraindicated in women who are or may be pregnant. It may cause abnormal genitals in a male fetus. Women who are or may be pregnant should not handle crushed or broken tablets.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Topical forms:",
+            "text": "FDA's 32 reports for compounded topical finasteride included erectile dysfunction, anxiety, suicidal ideation, brain fog, depression, fatigue, insomnia, lower libido and testicular pain. Most said the problems continued after stopping. FDA also notes skin irritation and a higher risk of the drug transferring to others, including women, because sprays have no tablet coating.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+                "label": "FDA alert on compounded topical finasteride",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Prostate cancer testing and risk:",
+            "text": "finasteride lowers PSA, so PSA results need adjusting. In a 7-year trial of 18,882 men aged 55 and over taking 5 mg, high-grade (Gleason 8-10) prostate cancer occurred in 1.8% vs 1.1% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Other:",
+            "text": "breast tenderness and enlargement, male breast cancer (reported after approval), and allergic reactions including rash, hives and swelling of the lips, tongue, throat and face.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+                "label": "Propecia label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Australia's TGA (ARTG) could not be reached, so finasteride's Australian status is not confirmed.",
+    "The brand name, approval date and countries of the European finasteride skin spray could not be confirmed from a national register; EMA's referral page confirms only that a finasteride skin spray is used for hair loss in the EU.",
+    "Whether the 1 mg tablet Adonis lists as \"Propecia (Finasteride)\" is the Organon brand or a generic is not stated in the catalog.",
+    "Health Canada's Drug Product Database API and product monograph PDFs could not be reached; Canadian status comes from Health Canada's safety review and product record pages.",
+    "DEA controlled-substance status was not checked against a DEA record."
+  ],
+  "surprises": [
+    "FDA says no topical finasteride is FDA approved, and its 2025 alert records patients who were told a topical product carried no risk because it was topical; the reports describe the same side effects as the tablets, most continuing after stopping.",
+    "EMA's 2025 review found no evidence linking suicidal ideation to the approved finasteride skin spray, while FDA's reports on compounded topical finasteride include suicidal ideation; the two records cover different products.",
+    "Finasteride was once a banned masking agent in sport (from 2005), a fact still repeated; its current WADA status could not be confirmed from WADA's own list."
+  ]
+}

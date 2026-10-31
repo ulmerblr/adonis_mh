@@ -1,0 +1,439 @@
+{
+  "slug": "latanoprost",
+  "name": "Latanoprost",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "2 pilots; 1 trial running",
+    "fda": "Approved (Xalatan)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Cell tests reported in a 2026 pilot paper",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Two small trials: 16 men (2012), 29 women (2026)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "No phase I hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No phase II hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "A combination spray trial is recruiting (2026)",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Xalatan, 1996, eye pressure; not hair loss",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Latanoprost is a prostaglandin F2α analogue. As an eye drop it lowers pressure inside the eye.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+            "label": "Xalatan label, DailyMed",
+            "date": "published May 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The eye-drop label lists changes to the eyelashes as a known effect: longer, thicker, darker and more lashes. That effect is why it has been tried on scalp hair.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+            "label": "Xalatan label, DailyMed",
+            "date": "published May 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry latanoprost on its own. It is one ingredient in a compounded hair spray from the Beluga catalog that also contains minoxidil, finasteride and ketoconazole, sprayed on the scalp."
+      },
+      {
+        "t": "callout",
+        "text": "Using latanoprost for hair loss is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two small pilot trials have tested latanoprost on scalp hair. A larger trial of a different combination product is under way, with no results yet. None has tested the spray Adonis carries."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2012 · Randomized trial",
+        "title": "Latanoprost 0.1% on two small scalp zones",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled pilot. Each man had one zone treated with latanoprost and one with placebo."
+          },
+          {
+            "k": "People",
+            "v": "16 men with mild pattern hair loss (Hamilton II–III)"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Hair growth, density, diameter, pigmentation and anagen/telogen ratio"
+          }
+        ],
+        "found": "Hair density was higher on the latanoprost zone than at the start and than on the placebo zone at 24 weeks. The authors note only young men with mild hair loss took part, and the results may not apply to others.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21875758/",
+            "label": "Blume-Peytavi et al., J Am Acad Dermatol, 2012",
+            "date": "published May 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Poland · 2026 · Randomized trial",
+        "title": "Latanoprost acid in women with pattern hair loss",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, dose-ranging pilot, one center"
+          },
+          {
+            "k": "People",
+            "v": "29 women: 2 on vehicle, 27 on one of three strengths of latanoprost acid"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in hair count in a target area; scalp-imaging signs"
+          }
+        ],
+        "found": "Hair counts rose in all three active groups, with no significant difference between them. No serious side effects were reported. Three authors hold a patent on this use. The authors say larger trials are needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42430069/",
+            "label": "Rakowska et al., Pharmacol Rep, 2026",
+            "date": "published Aug 2026"
+          }
+        ],
+        "badge": "Pilot"
+      },
+      {
+        "t": "p",
+        "text": "This trial used latanoprost acid, a different form from the latanoprost in the eye drop.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42430069/",
+            "label": "Rakowska et al., Pharmacol Rep, 2026",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 2026 · Randomized trial",
+        "title": "TH07: minoxidil, finasteride and latanoprost solution",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase III, randomized, triple-blind, multicenter; TH07 compared with minoxidil 5% and with placebo"
+          },
+          {
+            "k": "People",
+            "v": "Men with pattern hair loss; 420 planned"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Hair count and safety"
+          }
+        ],
+        "found": "Recruiting. No results have been posted. The sponsor is a company, Triple Hair Inc. TH07 is a different product from the Beluga spray Adonis carries.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07435012",
+            "label": "NCT07435012, ClinicalTrials.gov",
+            "date": "published Feb 2026"
+          }
+        ],
+        "badge": "No results yet"
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA approved Xalatan (latanoprost 0.005% eye drops) in 1996. It is not approved for hair loss."
+      },
+      {
+        "t": "p",
+        "text": "Xalatan’s approved use is lowering raised eye pressure in people with open-angle glaucoma or ocular hypertension.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+            "label": "Xalatan label, DailyMed",
+            "date": "published May 2023"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020597",
+            "label": "Drugs@FDA data (openFDA), NDA 020597",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The hair spray Adonis carries through Beluga is a compounded product. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+      },
+      {
+        "t": "callout",
+        "text": "No latanoprost product is FDA approved for hair loss."
+      }
+    ],
+    "world": {
+      "lead": "Latanoprost is an approved eye-pressure medicine in the US, Canada and EU countries. No regulator we checked has approved it for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Xalatan, 1996, raised eye pressure). Prescription-only. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020597",
+              "label": "Drugs@FDA data (openFDA), NDA 020597",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+              "label": "Xalatan label, DailyMed",
+              "date": "published May 2023"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Xalatan is marketed and listed as a prescription drug. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=xalatan",
+              "label": "Drug Product Database, Health Canada (Xalatan)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=50823",
+              "label": "Drug Product Database status, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=50823",
+              "label": "Drug Product Database schedule, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Xalatan is authorised nationally in EU member states for raised eye pressure. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/xalatan",
+              "label": "Xalatan referral, EMA",
+              "date": "published Dec 2010"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Latanoprost is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side effects below come from the Xalatan eye-drop label. No label covers use on the scalp."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Pigment changes:",
+            "text": "Darker iris, eyelid skin and eyelashes. The iris change is likely to be permanent.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+                "label": "Xalatan label, DailyMed",
+                "date": "published May 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Eyelash changes:",
+            "text": "Longer, thicker and more eyelashes; usually reversible.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+                "label": "Xalatan label, DailyMed",
+                "date": "published May 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Serious eye effects:",
+            "text": "Eye inflammation (iritis or uveitis) and swelling of the retina (macular edema).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+                "label": "Xalatan label, DailyMed",
+                "date": "published May 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Common:",
+            "text": "In trials: foreign-body feeling, stinging, red eye, blurred vision and spotty corneal irritation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+                "label": "Xalatan label, DailyMed",
+                "date": "published May 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the 2026 scalp trial, no serious side effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42430069/",
+            "label": "Rakowska et al., Pharmacol Rep, 2026",
+            "date": "published Aug 2026"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not confirm latanoprost’s UK status from an MHRA record; the MHRA products site did not load without scripts.",
+    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending.",
+    "We could not open the Drugs@FDA website itself; the approval date comes from FDA’s openFDA copy of Drugs@FDA."
+  ],
+  "surprises": [
+    "The hair-growth idea comes from a side effect: FDA’s Xalatan label lists eyelash growth as an unwanted effect of the eye drops, not as an approved use.",
+    "The only trial in women used latanoprost acid, not the latanoprost in the eye drop, and three of its authors hold a patent on that use."
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "slug": "biotin",
+  "name": "Biotin",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Little research",
+    "fda": "Supplement, not drug",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Not reviewed for this page",
+      "status": "not"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Few small studies; a 2024 review found 3",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No phase I hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No phase II hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No phase III hair-loss record found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not a drug; sold as a dietary supplement",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Biotin is a B vitamin. It is commonly sold in dietary supplements, including hair, skin and nail products.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference",
+            "label": "Biotin interference with troponin lab tests, FDA",
+            "date": "published Jun 2022"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry biotin on its own. It is one ingredient in compounded oral strips from the Beluga catalog that also contain minoxidil and finasteride, dissolved on the tongue."
+      },
+      {
+        "t": "callout",
+        "text": "Using biotin for hair loss is off-label, and there is little research on it."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "There is little good research on biotin for hair loss. A 2024 review found only three studies of oral biotin for hair, and said its use is not supported by high-quality studies."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Review",
+        "title": "Oral biotin for hair growth or quality",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Literature review; case reports and case series left out"
+          },
+          {
+            "k": "People",
+            "v": "3 studies met the criteria"
+          },
+          {
+            "k": "Length",
+            "v": "Not applicable"
+          },
+          {
+            "k": "Measured",
+            "v": "Hair growth or hair quality"
+          }
+        ],
+        "found": "The best study, double-blind and placebo-controlled, found no difference between biotin and placebo for hair growth. The other two, in people on isotretinoin and in women after weight-loss surgery, were open to bias and did not show clear benefit.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39148962/",
+            "label": "Yelich et al., J Clin Aesthet Dermatol, 2024 (review)",
+            "date": "published Aug 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Brazil · 2024 · Randomized crossover",
+        "title": "Oral biotin, topical minoxidil, or both, on hair growth speed",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, open-label, self-controlled crossover; each man had all three treatments in turn"
+          },
+          {
+            "k": "People",
+            "v": "10 healthy men without hair disorders"
+          },
+          {
+            "k": "Length",
+            "v": "14 days per treatment, with 14-day breaks"
+          },
+          {
+            "k": "Measured",
+            "v": "Hair growth speed and scalp area covered, from photos of a shaved patch"
+          }
+        ],
+        "found": "Biotin alone and minoxidil alone did not change growth speed. Only the two together showed a faster rate over 14 days. The men did not have hair loss, and the authors list the small sample as a limit.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11221127/",
+            "label": "Valentim et al., An Bras Dermatol, 2024",
+            "date": "published Jul 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "In the US, biotin is sold as a dietary supplement, not as an approved drug for hair loss."
+      },
+      {
+        "t": "p",
+        "text": "FDA does not approve dietary supplements before they are sold. Vitamins count as dietary ingredients.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+            "label": "Questions and answers on dietary supplements, FDA",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In FDA’s drug approval records, biotin appears as one of many vitamins in approved intravenous multivitamin products, such as M.V.I. Adult. We found no FDA-approved biotin product for hair loss.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:BIOTIN&limit=5",
+            "label": "Drugs@FDA data (openFDA), products containing biotin",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The strips Adonis carries through Beluga are a compounded prescription product, not a supplement. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+      }
+    ],
+    "world": {
+      "lead": "Biotin is a vitamin sold in supplements. We confirmed the US position only; other countries are pending.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Dietary supplement ingredient; not approved before sale. Not an approved drug for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference",
+              "label": "Biotin interference with troponin lab tests, FDA",
+              "date": "published Jun 2022"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Biotin is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Biotin has no FDA drug label. FDA’s main warning is that biotin can make some lab tests wrong."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Lab test errors:",
+            "text": "Biotin can interfere with certain lab tests and cause wrong results that may not be noticed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference",
+                "label": "Biotin interference with troponin lab tests, FDA",
+                "date": "published Jun 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Heart test:",
+            "text": "FDA keeps getting reports of falsely low troponin results caused by biotin. Troponin is a blood test used to check for heart attack. FDA lists troponin tests that have not fixed the problem.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference",
+                "label": "Biotin interference with troponin lab tests, FDA",
+                "date": "published Jun 2022"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The side effects of the other ingredients in the strips (minoxidil and finasteride) are covered on their own pages."
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open FDA’s updated safety communication “The FDA Warns that Biotin May Interfere with Lab Tests” (it has moved to FDA’s archive and did not load); the page cites FDA’s live troponin page instead.",
+    "We did not confirm biotin’s status in Canada, the UK, the EU or Australia from a regulator record.",
+    "We did not review animal or lab studies of biotin and hair."
+  ],
+  "surprises": [
+    "Biotin is widely sold for hair, but the only placebo-controlled study found by a 2024 review showed no difference from placebo.",
+    "FDA’s main public warning about biotin is not about hair at all: it can cause falsely low troponin results, a test used to check for heart attack."
+  ]
+}

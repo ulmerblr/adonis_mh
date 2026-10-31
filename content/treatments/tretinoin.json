@@ -1,0 +1,579 @@
+{
+  "slug": "tretinoin",
+  "name": "Tretinoin",
+  "peptide": false,
+  "lanes": [
+    "hair-loss",
+    "skin"
+  ],
+  "index": {
+    "evidence": "Acne: approved; hair: few",
+    "fda": "Approved (Retin-A)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal birth-defect and sun-cancer studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Hair: one 56-person study, 1986 (off-label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Raised minoxidil skin absorption in 19 men",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Hair: one 31-man randomized trial (off-label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Wrinkles: 5 controlled trials, 24 weeks (Renova)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Retin-A, 1971, acne; not approved for hair loss",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Tretinoin is all-trans retinoic acid, a form of vitamin A acid, put on the skin. Its exact action is unknown. The label says it loosens cells lining the hair follicle and speeds their turnover, which pushes out blackheads and whiteheads.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+            "label": "Retin-A label, DailyMed",
+            "date": "published May 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is approved for acne (Retin-A cream and gel) and, as Renova 0.02% cream, to lessen fine facial wrinkles alongside sun avoidance and skin care.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+            "label": "Retin-A label, DailyMed",
+            "date": "published May 2024"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f0a0e8d-1051-48a4-80c5-1bd260dd9c36",
+            "label": "Renova label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Skin cream:",
+            "text": "tretinoin cream 0.1%, applied to the skin."
+          },
+          {
+            "lead": "Hair spray:",
+            "text": "a compounded scalp spray of minoxidil 5%, finasteride 0.3% and tretinoin 0.015%. Using tretinoin for hair loss is off-label."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "The hair spray is compounded and is not FDA approved. Tretinoin is not FDA approved for hair loss, and there is little research on that use."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Tretinoin's approved uses rest on trials in acne and in sun-damaged facial skin. For hair loss, research is thin: one small 1986 study, one randomized trial of 31 men, and a study showing it raises how much minoxidil passes through the skin."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: wrinkles (approved use)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Randomized controlled trials",
+        "title": "Renova 0.02% for fine facial wrinkles",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "four multicenter controlled trials and one single-center randomized controlled trial, against a vehicle cream"
+          },
+          {
+            "k": "People",
+            "v": "324 evaluable patients on Renova 0.02% and 332 on vehicle cream"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks, with a skin care and sun avoidance program"
+          },
+          {
+            "k": "Measured",
+            "v": "fine and coarse wrinkling, blotchy pigment, roughness, laxity"
+          }
+        ],
+        "found": "The label states Renova does not eliminate wrinkles, repair sun damage or reverse photoaging. Many vehicle-cream patients also improved with skin care and sun avoidance. It showed no effect on coarse wrinkles and other signs of chronic sun damage. In people with medium to dark skin it showed no benefit over skin care alone.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f0a0e8d-1051-48a4-80c5-1bd260dd9c36",
+            "label": "Renova label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: hair loss (off-label)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1986 · Small uncontrolled study",
+        "title": "Tretinoin with or without 0.5% minoxidil (Bazzano et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "early study; the abstract does not describe a control group or blinding"
+          },
+          {
+            "k": "People",
+            "v": "56 people with androgenetic alopecia"
+          },
+          {
+            "k": "What was given",
+            "v": "topical tretinoin alone, or with 0.5% minoxidil"
+          },
+          {
+            "k": "Length",
+            "v": "1 year"
+          },
+          {
+            "k": "Measured",
+            "v": "hair regrowth"
+          }
+        ],
+        "found": "The authors reported terminal hair regrowth in 66% with the combination and some regrowth in about 58% with tretinoin alone. They called the results preliminary.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3771854/",
+            "label": "Bazzano et al., J Am Acad Dermatol",
+            "date": "published Oct 1986"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Korea · 2007 · Randomized trial",
+        "title": "5% minoxidil vs 5% minoxidil plus 0.01% tretinoin (Shin et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, comparative trial"
+          },
+          {
+            "k": "People",
+            "v": "31 men aged 28 to 45 with male pattern hair loss (Hamilton-Norwood III to V)"
+          },
+          {
+            "k": "What was given",
+            "v": "5% minoxidil twice daily, or minoxidil plus tretinoin once nightly with a placebo in the morning"
+          },
+          {
+            "k": "Measured",
+            "v": "hair counts, hair diameter and growth rate by photo analysis, patient and investigator ratings"
+          }
+        ],
+        "found": "Hair counts rose in both groups. There was no significant difference between groups. Itching or irritation: 4 of 14 on minoxidil, 5 of 15 on the combination.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17902730/",
+            "label": "Shin et al., Am J Clin Dermatol",
+            "date": "published 2007"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1990 · Randomized crossover study",
+        "title": "Tretinoin and minoxidil absorption (Ferry et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "three-way randomized crossover"
+          },
+          {
+            "k": "People",
+            "v": "19 healthy men"
+          },
+          {
+            "k": "What was given",
+            "v": "2% topical minoxidil alone, with 0.05% tretinoin cream, or with a plain cream"
+          },
+          {
+            "k": "Length",
+            "v": "20 days per arm"
+          },
+          {
+            "k": "Measured",
+            "v": "how much minoxidil was absorbed through the skin, skin water loss, skin biopsies"
+          }
+        ],
+        "found": "Tretinoin raised minoxidil absorption nearly threefold, vs 1.3-fold with the plain cream. It made the outer skin layer more permeable.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2328551/",
+            "label": "Ferry et al., Clin Pharmacol Ther",
+            "date": "published Apr 1990"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2026 review of tretinoin with minoxidil for hair loss concluded that clinical data on the combination are minimal. No study has tested the three-drug compounded spray Adonis carries.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42535115/",
+            "label": "Maas et al., Skin Appendage Disord (review)",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "Oral tretinoin causes birth defects in rats, mice, hamsters and monkeys. Topical tretinoin gave mixed results in animal birth-defect tests. In mice, tretinoin increased skin tumors caused by artificial sunlight; the meaning for people is not known.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+            "label": "Retin-A label, DailyMed",
+            "date": "published May 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA first approved tretinoin as Retin-A on October 20, 1971, for acne. Renova was approved for fine facial wrinkles in 1995 (0.05%) and 2000 (0.02%). No tretinoin product is approved for hair loss."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Retin-A:",
+            "text": "first approved as a solution (NDA 016921, October 20, 1971; now discontinued). The 0.1% cream (NDA 017340) was approved January 26, 1973 and the 0.025% gel (NDA 017579) April 18, 1975. Prescription, for acne vulgaris.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=016921",
+                "label": "Drugs@FDA, NDA 016921",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017340",
+                "label": "Drugs@FDA, NDA 017340",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017579",
+                "label": "Drugs@FDA, NDA 017579",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+                "label": "Retin-A label, DailyMed",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Renova:",
+            "text": "0.05% cream approved December 29, 1995 (NDA 019963, now discontinued). 0.02% cream approved August 31, 2000 (NDA 021108), prescription, for fine facial wrinkles with sun avoidance and skin care.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019963",
+                "label": "Drugs@FDA, NDA 019963",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021108",
+                "label": "Drugs@FDA, NDA 021108",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Hair loss:",
+            "text": "off-label. The Retin-A label says safety and efficacy of long-term use for other disorders have not been established.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+                "label": "Retin-A label, DailyMed",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Combination sprays:",
+            "text": "FDA says no topical product with finasteride, alone or with other ingredients, is FDA approved. The tretinoin hair spray Adonis carries contains finasteride.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+                "label": "FDA alert on compounded topical finasteride",
+                "date": "published Apr 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold. The tretinoin hair spray Adonis carries is compounded."
+      }
+    ],
+    "world": {
+      "lead": "Topical tretinoin is an approved prescription skin medicine in the US and Canada, and is nationally authorised in the UK and several EU countries. No regulator record checked here approves it for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Retin-A (acne, 1971) and Renova (fine facial wrinkles). Prescription-only. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=016921",
+              "label": "Drugs@FDA, NDA 016921",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f0a0e8d-1051-48a4-80c5-1bd260dd9c36",
+              "label": "Renova label, DailyMed",
+              "date": "published Feb 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved prescription medicine. Retin-A cream and gel marketed for acne vulgaris.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dhpp.hpfb-dgpsa.ca/dhpp/resource/11153",
+              "label": "Health Canada product record, Retin-A",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://pdf.hres.ca/dpd_pm/00064479.PDF",
+              "label": "Retin-A product monograph, Health Canada",
+              "date": "published Jan 2022"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine. A tretinoin gel (Atralin 0.05%) holds a UK licence (PL number), per EMA's 2023 list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/tretinoin-topical-formulations-list-nationally-authorised-medicinal-products-psusa00003016202208_en.pdf",
+              "label": "EMA list of nationally authorised products, topical tretinoin",
+              "date": "published Apr 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Approved medicine, authorised nationally. Topical tretinoin products listed in Germany, Spain, Finland, France, Italy and Portugal.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/tretinoin-topical-formulations-list-nationally-authorised-medicinal-products-psusa00003016202208_en.pdf",
+              "label": "EMA list of nationally authorised products, topical tretinoin",
+              "date": "published Apr 2023"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Tretinoin is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Tretinoin commonly causes redness, peeling, dryness, burning and stinging, and makes skin more sensitive to sun. It should not be used in pregnancy."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Skin reactions:",
+            "text": "skin may become very red, swollen, blistered or crusted. Temporary lighter or darker patches of skin have been reported. True allergy is rare. In the Renova trials almost all patients had local reactions; 32% had irritation that was severe, led to a pause, or needed a mild steroid cream, and about 4% stopped.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+                "label": "Retin-A label, DailyMed",
+                "date": "published May 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f0a0e8d-1051-48a4-80c5-1bd260dd9c36",
+                "label": "Renova label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Sun:",
+            "text": "the label says to minimize sun and sunlamp exposure and not to use it on sunburned skin. In mice, tretinoin increased tumors from artificial sunlight.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+                "label": "Retin-A label, DailyMed",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "the Renova label says not to use it if pregnant or trying to become pregnant. The Retin-A label records 30 reports of birth defects over two decades of use, with no pattern or causal link established. Health Canada says topical tretinoin should not be used by pregnant women or women planning a pregnancy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f0a0e8d-1051-48a4-80c5-1bd260dd9c36",
+                "label": "Renova label, DailyMed",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+                "label": "Retin-A label, DailyMed",
+                "date": "published May 2024"
+              },
+              {
+                "url": "https://pdf.hres.ca/dpd_pm/00064479.PDF",
+                "label": "Retin-A product monograph, Health Canada",
+                "date": "published Jan 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Long-term use:",
+            "text": "Renova daily use beyond 52 weeks has not been studied. Some patients on the 0.05% cream for over 48 weeks had atypical changes in skin cells; their meaning is unknown.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f0a0e8d-1051-48a4-80c5-1bd260dd9c36",
+                "label": "Renova label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "In the hair spray:",
+            "text": "tretinoin raised minoxidil absorption through the skin nearly threefold in 19 men, so more minoxidil may reach the blood. The spray also contains finasteride; see the finasteride and minoxidil pages for their side effects.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/2328551/",
+                "label": "Ferry et al., Clin Pharmacol Ther",
+                "date": "published Apr 1990"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Australia's TGA (ARTG) could not be reached, so tretinoin's Australian status is not confirmed.",
+    "The UK status comes from EMA's 2023 list of nationally authorised products; MHRA's own product records could not be read.",
+    "Whether the 0.1% tretinoin cream Adonis carries is an FDA-approved product (Retin-A 0.1% cream is FDA approved, NDA 017340) or compounded is not stated in the catalog.",
+    "The length of the 2007 Korean randomized trial and the design details of the 1986 Bazzano study are not given in their abstracts; the full papers were not read."
+  ],
+  "surprises": [
+    "The one randomized trial of tretinoin added to minoxidil (31 men) found no significant difference from minoxidil alone, despite common claims that tretinoin boosts minoxidil for hair loss.",
+    "Tretinoin's best-documented effect in hair use is that it nearly tripled minoxidil absorption through the skin in 19 men, which means more minoxidil can reach the blood; this is rarely mentioned when the combination is marketed."
+  ]
+}

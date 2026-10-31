@@ -1,0 +1,339 @@
+{
+  "slug": "fluocinolone",
+  "name": "Fluocinolone",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "No hair-loss studies",
+    "fda": "Approved (Synalar)",
+    "sport": "S9 (some routes)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "No pattern hair-loss research found",
+      "status": "not",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No pattern hair-loss study found",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Approved for skin and scalp conditions, not hair loss",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Fluocinolone acetonide is a corticosteroid (a steroid medicine that calms inflammation) used on the skin.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5649e15a-6a7c-4752-ac28-01e453afb37e",
+            "label": "Fluocinolone acetonide topical solution label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry fluocinolone on its own. It is part of a compounded hair-loss preparation from the Beluga catalog. We do not have a record of that product’s form, so this page does not describe it."
+      },
+      {
+        "t": "callout",
+        "text": "Using fluocinolone for hair loss is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "We found no published study of fluocinolone for pattern hair loss."
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search for fluocinolone and androgenetic alopecia returned no trial of this use.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=fluocinolone+androgenetic+alopecia",
+            "label": "PubMed search, fluocinolone and androgenetic alopecia",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA has approved fluocinolone acetonide products for inflamed skin conditions. None is approved for hair loss."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Synalar:",
+            "text": "Synalar ointment was approved in 1963. It is still listed as a prescription product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA013960",
+                "label": "Drugs@FDA data (openFDA), NDA 013960 (Synalar ointment)",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Topical solution:",
+            "text": "Fluocinolone solution is approved to relieve inflammation and itching in skin conditions that respond to corticosteroids.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5649e15a-6a7c-4752-ac28-01e453afb37e",
+                "label": "Fluocinolone acetonide topical solution label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Scalp oil:",
+            "text": "Derma-Smoothe/FS Scalp Oil was approved in 1988. Its label is for psoriasis of the scalp in adults.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019452",
+                "label": "Drugs@FDA data (openFDA), NDA 019452 (Derma-Smoothe/FS)",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46",
+                "label": "Derma-Smoothe/FS Scalp Oil label, DailyMed",
+                "date": "published May 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The Beluga preparation Adonis carries is compounded. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+      }
+    ],
+    "world": {
+      "lead": "Fluocinolone is an approved prescription corticosteroid in the US and is in marketed products in Canada. No regulator we checked has approved it for hair loss. The UK, EU and Australia are pending.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Synalar and others, inflamed skin; Derma-Smoothe/FS, scalp psoriasis). Prescription-only. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA013960",
+              "label": "Drugs@FDA data (openFDA), NDA 013960 (Synalar ointment)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019452",
+              "label": "Drugs@FDA data (openFDA), NDA 019452 (Derma-Smoothe/FS)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46",
+              "label": "Derma-Smoothe/FS Scalp Oil label, DailyMed",
+              "date": "published May 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Fluocinolone is an ingredient in marketed products, such as Otixal. Not approved for hair loss.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=fluocinolone",
+              "label": "Drug Product Database, Health Canada (fluocinolone products)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&id=94696",
+              "label": "Drug Product Database, Health Canada (Otixal)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=94696",
+              "label": "Drug Product Database status, Health Canada",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Fluocinolone is a glucocorticoid. Class S9 of the WADA 2026 Prohibited List bans all glucocorticoids in competition when given by injection, by mouth (including under the tongue or in the cheek) or rectally. Use on the skin is not prohibited when it is within the manufacturer's licensed doses and therapeutic indications. Hair loss is not a licensed use of any fluocinolone product (see US position), and WADA has not published how this applies to a compounded scalp product. The 2027 List keeps S9.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side effects below come from US fluocinolone labels for skin and scalp use."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Hormone effects:",
+            "text": "Absorbed steroid can suppress the body’s own stress-hormone system (the HPA axis) and can cause Cushing’s syndrome, high blood sugar and sugar in the urine. Large areas, long use and covering the skin raise the risk.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46",
+                "label": "Derma-Smoothe/FS Scalp Oil label, DailyMed",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Eyes:",
+            "text": "Topical steroids may raise the risk of glaucoma and cataract. The label says to avoid contact with the eyes.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46",
+                "label": "Derma-Smoothe/FS Scalp Oil label, DailyMed",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Skin:",
+            "text": "Burning, itching, irritation, dryness, inflamed hair follicles, extra hair growth, acne-like bumps, lighter skin, skin thinning, stretch marks and skin infection.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5649e15a-6a7c-4752-ac28-01e453afb37e",
+                "label": "Fluocinolone acetonide topical solution label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Allergy:",
+            "text": "Allergic contact dermatitis can occur. Derma-Smoothe/FS is made with refined peanut oil.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46",
+                "label": "Derma-Smoothe/FS Scalp Oil label, DailyMed",
+                "date": "published May 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We have no record of the form of the Beluga product that contains fluocinolone, so the form is not described.",
+    "We could not confirm fluocinolone’s UK, EU or Australian status from a regulator record.",
+    "We did not confirm Otixal’s Canadian prescription schedule."
+  ],
+  "surprises": [
+    "FDA’s fluocinolone labels list skin thinning, inflamed hair follicles and extra hair growth among side effects, and no fluocinolone product is approved for hair loss."
+  ]
+}
