@@ -1,8 +1,18 @@
 import { A, Label } from '@/components/ext';
-import { Jump } from '@/components/jump';
 import { Track } from '@/components/track';
 import { LANES, type LaneKey } from '@/lib/library';
 import type { Step } from '@/lib/tracks';
+import { TreatmentTabs, type TabDef } from './tabs';
+
+/** The six section tabs, in the template's order: their labels and their address hashes. */
+export const TABS: TabDef[] = [
+  { id: 'what-it-is', label: 'What it is' },
+  { id: 'research', label: 'Research' },
+  { id: 'us-status', label: 'US status' },
+  { id: 'worldwide', label: 'Worldwide' },
+  { id: 'side-effects', label: 'Side effects' },
+  { id: 'clinician', label: 'Clinician' },
+];
 
 /**
  * THE TREATMENT PAGE TEMPLATE. Every treatment page uses this, in this order, so they all read alike, like a government
@@ -11,9 +21,10 @@ import type { Step } from '@/lib/tracks';
  *   2. the treatment name as a plain h1, with small labels for its lane and "Peptide" where it applies
  *   3. one status line ("Statuses as of …. Clinical review: …")
  *   4. Where it stands (the track)
- *   5. the section jump grid
- *   6. the six numbered sections: What it is, Research, US position, Around the world, Documented side effects,
- *      Talk to a clinician
+ *   5. the six section tabs (What it is, Research, US status, Worldwide, Side effects, Clinician); one open at a time,
+ *      each with an address hash (components/treatment/tabs.tsx)
+ *   6. the open tab's numbered section: What it is, Research, US position, Around the world, Documented side effects,
+ *      Talk to a clinician (every section stays in the HTML; closed ones are hidden)
  *   7. Sources (every outside link on the page, once each), then the shared footer
  *
  * A new treatment: add its data file under content/treatments/ (see bpc-157.tsx), its track in lib/tracks.ts, a short route
@@ -64,11 +75,12 @@ export function TreatmentPage({ data }: { data: TreatmentData }) {
 
           <div className="secHead" style={{ marginTop: 28 }}><h2 className="h2">Where it stands</h2><Label>The path every drug takes</Label></div>
           <Track name={data.name} steps={data.track} />
-          <Jump />
         </div>
       </section>
 
-      {data.sections.map((s, i) => <Sec key={s.title} n={i + 1} title={s.title}>{s.body}</Sec>)}
+      <TreatmentTabs tabs={TABS}>
+        {data.sections.map((s, i) => <Sec key={s.title} n={i + 1} title={s.title}>{s.body}</Sec>)}
+      </TreatmentTabs>
 
       <section className="tSection">
         <div className="wrap">
