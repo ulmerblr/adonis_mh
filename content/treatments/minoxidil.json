@@ -77,21 +77,42 @@
         "text": "What Adonis carries (form only)"
       },
       {
+        "t": "p",
+        "text": "Adonis's catalog lists minoxidil in these products:"
+      },
+      {
         "t": "list",
         "items": [
           {
-            "lead": "Scalp sprays:",
-            "text": "compounded sprays of minoxidil with finasteride, and in some versions with tretinoin, or with latanoprost and ketoconazole."
+            "text": "Minoxidil 2.5 mg tablet, taken by mouth"
           },
           {
-            "lead": "Oral strips:",
-            "text": "compounded strips with minoxidil, finasteride and biotin, dissolved on the tongue. Taking minoxidil by mouth for hair loss is off-label."
+            "text": "Finasteride 0.25% / minoxidil 5% hair spray (60 mL)"
+          },
+          {
+            "text": "Minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray (30 mL)"
+          },
+          {
+            "text": "Minoxidil 5% / finasteride 0.3% / latanoprost 0.03% / ketoconazole 2% hair spray (30 mL)"
+          },
+          {
+            "text": "Minoxidil 2.5 mg / finasteride 1 mg / biotin 2.5 mg oral strips, dissolved on the tongue"
+          },
+          {
+            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with biotin and melatonin (60 mL)"
+          },
+          {
+            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with finasteride 0.2% (60 mL)"
           }
         ]
       },
       {
+        "t": "p",
+        "text": "Taking minoxidil by mouth for hair loss is off-label."
+      },
+      {
         "t": "callout",
-        "text": "These Adonis products are compounded and are not FDA approved. No FDA-approved product combines minoxidil with finasteride, and oral minoxidil is not approved for hair loss."
+        "text": "The sprays and strips that combine minoxidil with finasteride are compounded and are not FDA approved; no FDA-approved product combines minoxidil with finasteride. Oral minoxidil is not approved for hair loss."
       }
     ],
     "research": [

@@ -410,7 +410,7 @@
             ]
           },
           {
-            "text": "FDA’s advisory committee was asked to vote on TB-500 on July 23, 2026. FDA has not posted the result on the meeting page.",
+            "text": "FDA’s advisory committee voted on TB-500 on July 23, 2026: 8 in favor of adding it to the compounding list, 6 against and 1 abstaining, in both forms, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.",
             "src": [
               {
                 "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
@@ -421,6 +421,11 @@
                 "url": "https://www.fda.gov/media/193711/download",
                 "label": "FDA, PCAC voting questions, July 2026",
                 "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
               }
             ]
           }
@@ -805,11 +810,11 @@
   },
   "unconfirmed": [
     "WADA’s own 2026 and 2027 Prohibited List pages could not be opened (blocked by a bot check); the 2026 list text was read in the Finnish anti-doping agency’s version, and the 2027 list was not checked.",
-    "The result of the July 23, 2026 advisory committee vote on TB-500 is not posted on FDA’s meeting page and was not confirmed from a primary record.",
     "TGA’s register of approved medicines (ARTG) could not be checked; Australia’s “no approved product” status comes from FDA’s 2026 review.",
     "No MHRA record on TB-500 was found; the UK status comes from FDA’s 2026 review.",
     "Status in China, India and Russia was not checked.",
-    "No FDA warning letter naming TB-500 itself was found; the one cited names full thymosin beta-4."
+    "No FDA warning letter naming TB-500 itself was found; the one cited names full thymosin beta-4.",
+    "Vote counts come from Healio's report of the July 23–24, 2026 meeting; FDA has not posted the official vote record."
   ],
   "surprises": [
     "TB-500 is widely sold as “thymosin beta-4,” but FDA says it is a different substance: a seven-amino-acid fragment of the 43-amino-acid protein. Human trials of the full protein do not apply to it.",

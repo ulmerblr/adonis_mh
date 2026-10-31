@@ -185,6 +185,10 @@
           {
             "k": "Measured",
             "v": "insulin sensitivity from a glucose tolerance test, side effects, blood sugar, antibodies to the drug"
+          },
+          {
+            "k": "Note",
+            "v": "The same sponsor, Hudson Biotech, registered a TB-500 entry that describes itself as fictional: NCT07487363, first posted March 23, 2026."
           }
         ],
         "found": "Recruiting since February 2026. Primary completion is estimated for February 2027. No results are posted.",
@@ -193,6 +197,11 @@
             "url": "https://clinicaltrials.gov/study/NCT07505745",
             "label": "ClinicalTrials.gov NCT07505745",
             "date": "published Apr 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07487363",
+            "label": "ClinicalTrials.gov NCT07487363",
+            "date": "first posted Mar 23, 2026"
           }
         ]
       },
@@ -325,7 +334,7 @@
             ]
           },
           {
-            "text": "FDA’s advisory committee was asked to vote on both forms on July 23, 2026, with obesity and osteoporosis listed as the uses reviewed.",
+            "text": "FDA’s advisory committee voted on MOTS-c on July 23, 2026: 7 in favor of adding it to the compounding list, 5 against and 2 abstaining, in both forms, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.",
             "src": [
               {
                 "url": "https://www.fda.gov/media/193711/download",
@@ -336,6 +345,11 @@
                 "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
                 "label": "FDA, PCAC meeting page, July 23-24, 2026",
                 "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
               }
             ]
           }
@@ -669,9 +683,9 @@
     ]
   },
   "unconfirmed": [
-    "FDA’s record of the July 23, 2026 advisory committee vote on MOTS-c was not found among the meeting materials, so the vote result is left out.",
     "UK (MHRA) status and Australia’s TGA product register were not checked against the regulator’s own record.",
-    "A completed Phase 1a/1b trial of CohBar’s CB4211 (NCT03998514) has no posted results, and its registry record does not describe CB4211 as MOTS-c, so it is left out."
+    "A completed Phase 1a/1b trial of CohBar’s CB4211 (NCT03998514) has no posted results, and its registry record does not describe CB4211 as MOTS-c, so it is left out.",
+    "Vote counts come from Healio's report of the July 23–24, 2026 meeting; FDA has not posted the official vote record."
   ],
   "surprises": [
     "MOTS-c is marketed for weight loss, insulin resistance, physical performance and slowing aging, but FDA found no published study in which it was given to a person by any route.",

@@ -57,8 +57,23 @@
         ]
       },
       {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
         "t": "p",
-        "text": "At Adonis it appears only inside one product: the azelaic acid 15% / niacinamide 4% cream, a compounded cream applied to the skin. Adonis does not carry niacinamide on its own."
+        "text": "Adonis's catalog lists niacinamide in these products. Adonis does not carry niacinamide on its own:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Azelaic acid 15% / niacinamide 4% cream, applied to the skin"
+          },
+          {
+            "text": "Estriol 0.3% / niacinamide 3% / GHK-Cu 0.2% face cream (15 to 45 g)"
+          }
+        ]
       },
       {
         "t": "callout",

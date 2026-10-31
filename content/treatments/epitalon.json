@@ -369,7 +369,7 @@
             ]
           },
           {
-            "text": "FDA’s advisory committee was asked to vote on both forms on July 24, 2026.",
+            "text": "FDA’s advisory committee voted on Epitalon on July 24, 2026: 7 in favor of adding it to the compounding list, 4 against and 1 abstaining, in both forms, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.",
             "src": [
               {
                 "url": "https://www.fda.gov/media/193711/download",
@@ -380,6 +380,11 @@
                 "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
                 "label": "FDA, PCAC meeting page, July 23-24, 2026",
                 "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
               }
             ]
           }
@@ -769,10 +774,10 @@
     ]
   },
   "unconfirmed": [
-    "FDA’s record of the July 24, 2026 advisory committee vote on epitalon was not found among the meeting materials, so the vote result is left out.",
     "FDA’s orphan designation database showed a bot check and could not be opened; the 2010 designation and 2016 revocation come from FDA’s briefing only.",
     "The 2021 studies by Ivko et al. and Khavinson et al. were not found on PubMed and were not opened; they are reported as FDA summarized them.",
-    "UK, EU-country and Australian status rest on FDA’s 2026 search, not on MHRA or TGA records; epitalon’s status in Russia was not checked."
+    "UK, EU-country and Australian status rest on FDA’s 2026 search, not on MHRA or TGA records; epitalon’s status in Russia was not checked.",
+    "Vote counts come from Healio's report of the July 23–24, 2026 meeting; FDA has not posted the official vote record."
   ],
   "surprises": [
     "Epitalon is sold as a telomerase activator and \"fountain of youth\", but FDA cites that same telomerase effect as a reason it may have cancer potential, and no long-term cancer studies exist.",

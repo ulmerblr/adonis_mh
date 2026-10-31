@@ -78,21 +78,36 @@
         "text": "What Adonis carries (form only)"
       },
       {
+        "t": "p",
+        "text": "Adonis's catalog lists tretinoin in these products:"
+      },
+      {
         "t": "list",
         "items": [
           {
-            "lead": "Skin cream:",
-            "text": "tretinoin cream 0.1%, applied to the skin."
+            "text": "Tretinoin creams 0.015%, 0.024% and 0.1%, and tretinoin gel 0.1% (30 mL tubes), applied to the skin"
           },
           {
-            "lead": "Hair spray:",
-            "text": "a compounded scalp spray of minoxidil 5%, finasteride 0.3% and tretinoin 0.015%. Using tretinoin for hair loss is off-label."
+            "text": "Minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray (30 mL)"
+          },
+          {
+            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with biotin and melatonin (60 mL)"
+          },
+          {
+            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with finasteride 0.2% (60 mL)"
+          },
+          {
+            "text": "Estriol 0.03% / tretinoin 0.1% face cream (30 g)"
           }
         ]
       },
       {
+        "t": "p",
+        "text": "Using tretinoin for hair loss is off-label."
+      },
+      {
         "t": "callout",
-        "text": "The hair spray is compounded and is not FDA approved. Tretinoin is not FDA approved for hair loss, and there is little research on that use."
+        "text": "Tretinoin is not FDA approved for hair loss, and there is little research on that use. The minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray is compounded and is not FDA approved."
       }
     ],
     "research": [

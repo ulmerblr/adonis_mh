@@ -380,7 +380,7 @@
             ]
           },
           {
-            "text": "FDA’s advisory committee was asked to vote on KPV on July 23, 2026. FDA has not posted the result on the meeting page.",
+            "text": "FDA’s advisory committee voted on KPV on July 23, 2026: 8 in favor of adding it to the compounding list, 6 against and 1 abstaining, in both forms, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.",
             "src": [
               {
                 "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
@@ -391,6 +391,11 @@
                 "url": "https://www.fda.gov/media/193711/download",
                 "label": "FDA, PCAC voting questions, July 2026",
                 "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
               }
             ]
           }
@@ -734,11 +739,11 @@
   },
   "unconfirmed": [
     "WADA’s own 2026 and 2027 Prohibited List pages could not be opened (blocked by a bot check); the 2026 list text was read in the Finnish anti-doping agency’s version, and whether WADA treats KPV under class S0 was not confirmed.",
-    "The result of the July 23, 2026 advisory committee vote on KPV is not posted on FDA’s meeting page and was not confirmed from a primary record.",
     "Australia’s status was not confirmed: TGA’s site timed out, and KPV is not named in the June 2026 Poisons Standard.",
     "No MHRA record on KPV was found, so the UK status is unconfirmed.",
     "Status in China, India and Russia was not checked.",
-    "No FDA warning letter naming KPV was found."
+    "No FDA warning letter naming KPV was found.",
+    "Vote counts come from Healio's report of the July 23–24, 2026 meeting; FDA has not posted the official vote record."
   ],
   "surprises": [
     "KPV is promoted online for bowel disease, mast cell problems, COVID recovery, Lyme disease and more, but FDA found no human data at all, for any route, and no animal toxicity studies.",

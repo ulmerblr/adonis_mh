@@ -57,8 +57,23 @@
         ]
       },
       {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
         "t": "p",
-        "text": "Adonis does not carry biotin on its own. It is one ingredient in compounded oral strips from the Beluga catalog that also contain minoxidil and finasteride, dissolved on the tongue."
+        "text": "Adonis's catalog lists biotin in these products. Adonis does not carry biotin on its own:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Minoxidil 2.5 mg / finasteride 1 mg / biotin 2.5 mg oral strips, dissolved on the tongue"
+          },
+          {
+            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with biotin and melatonin (60 mL)"
+          }
+        ]
       },
       {
         "t": "callout",

@@ -17,6 +17,7 @@ const U = {
   fdaBriefing: 'https://www.fda.gov/media/193343/download',
   nct: 'https://clinicaltrials.gov/study/NCT02637284',
   nctHamstring: 'https://clinicaltrials.gov/study/NCT07437547',
+  healio: 'https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides',
   nctTb500Fictional: 'https://clinicaltrials.gov/study/NCT07487363',
   nctRotator: 'https://clinicaltrials.gov/study/NCT07803250',
   ajmc: 'https://www.ajmc.com/view/hhs-draft-policy-eases-enforcement-on-6-compounded-peptides',
@@ -190,7 +191,7 @@ export const bpc157: TreatmentData = {
         <h3 className="h3">What reviewers concluded</h3>
         <ul className="list">
           <li>FDA’s scientists, in a briefing dated May 11, 2026 for the July meeting, recommended against adding BPC-157 to the compounding list. They found no human studies using the oral, under-the-skin, nasal or skin routes people actually use, and no human pharmacokinetic data for those routes. <Src href={U.fdaBriefing} label="FDA briefing" /></li>
-          <li>FDA’s advisory committee voted 8 to 6, with 1 abstention, on July 23, 2026, to recommend adding it anyway. <Src href={U.ajmc} label="AJMC" /></li>
+          <li>FDA’s advisory committee voted 8 to 6, with 1 abstention, on July 23, 2026, to recommend adding it anyway, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record. <Src href={U.ajmc} label="AJMC" /><Src href={U.healio} label="Healio, July 24, 2026" /></li>
         </ul>
         </>
       ),

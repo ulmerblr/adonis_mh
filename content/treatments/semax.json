@@ -384,7 +384,7 @@
             ]
           },
           {
-            "text": "FDA’s advisory committee was asked to vote on both forms on July 24, 2026.",
+            "text": "FDA’s advisory committee voted on Semax on July 24, 2026: 8 in favor of adding it to the compounding list, 5 against and 1 abstaining, in both forms, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.",
             "src": [
               {
                 "url": "https://www.fda.gov/media/193711/download",
@@ -395,6 +395,11 @@
                 "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
                 "label": "FDA, PCAC meeting page, July 23-24, 2026",
                 "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
               }
             ]
           }
@@ -750,9 +755,9 @@
   },
   "unconfirmed": [
     "Russia’s state drug register (grls.rosminzdrav.ru) loaded but asks for a picture code before showing results, so Semax’s register entry could not be opened; its Russian status comes from FDA’s briefing, which cites that register (accessed by FDA Dec 4, 2025).",
-    "FDA’s record of the July 24, 2026 advisory committee vote on Semax was not found among the meeting materials, so the vote result is left out.",
     "Koroleva et al. 1996 and the Russian-language stroke papers were not opened in full; the 1996 study is reported as FDA summarized it.",
-    "Canada (the Drug Product Database connection failed), UK (MHRA) and Australia’s TGA register were not checked."
+    "Canada (the Drug Product Database connection failed), UK (MHRA) and Australia’s TGA register were not checked.",
+    "Vote counts come from Healio's report of the July 23–24, 2026 meeting; FDA has not posted the official vote record."
   ],
   "surprises": [
     "Semax is marketed in the US as injections and nasal sprays, but its Russian registration is for nasal drops, and FDA found no study of injected Semax.",

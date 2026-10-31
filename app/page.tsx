@@ -23,7 +23,9 @@ const WADA_PEPTIDES = 'https://granfondodailynews.com/2026/10/17/world-anti-dopi
 export const metadata = { title: { absolute: 'AdonisMensHealth.com' } };
 
 /** Every outside link Home uses, once each. */
-const SOURCES = [FDA_BRIEFING, FED_REG, WADA_2027, AJMC, NCPA, WADA_PEPTIDES];
+const HEALIO = 'https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides';
+const WADA_2026 = 'https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf';
+const SOURCES = [FDA_BRIEFING, FED_REG, WADA_2026, WADA_2027, AJMC, HEALIO, NCPA, WADA_PEPTIDES];
 
 export default function Home() {
   return (

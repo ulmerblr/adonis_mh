@@ -106,8 +106,23 @@
         "text": "These effects were seen in cells and animals. They have not been shown in people."
       },
       {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
         "t": "p",
-        "text": "What Adonis carries: GHK-Cu 1% cream, a copper peptide cream applied to the skin, as a 30-day or 90-day supply. It is a compounded prescription product."
+        "text": "Adonis's catalog lists GHK-Cu in these products:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "GHK-Cu 1% cream, applied to the skin (30-day or 90-day supply)"
+          },
+          {
+            "text": "Estriol 0.3% / niacinamide 3% / GHK-Cu 0.2% face cream (15 to 45 g)"
+          }
+        ]
       }
     ],
     "research": [
@@ -210,6 +225,10 @@
           {
             "k": "Measured",
             "v": "how fast the wounds close, from photographs over 3 weeks, then scar quality"
+          },
+          {
+            "k": "Note",
+            "v": "The same sponsor, Hudson Biotech, registered a TB-500 entry that describes itself as fictional: NCT07487363, first posted March 23, 2026."
           }
         ],
         "found": "Recruiting since February 2026. Estimated completion March 2028.",
@@ -218,6 +237,11 @@
             "url": "https://clinicaltrials.gov/study/NCT07437586",
             "label": "NCT07437586, ClinicalTrials.gov",
             "date": "published Feb 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07487363",
+            "label": "ClinicalTrials.gov NCT07487363",
+            "date": "first posted Mar 23, 2026"
           }
         ]
       },

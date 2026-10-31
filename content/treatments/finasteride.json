@@ -83,19 +83,29 @@
         "text": "What Adonis carries (form only)"
       },
       {
+        "t": "p",
+        "text": "Adonis's catalog lists finasteride in these products:"
+      },
+      {
         "t": "list",
         "items": [
           {
-            "lead": "Scalp sprays:",
-            "text": "compounded sprays that combine finasteride with minoxidil, and in some versions with tretinoin, or with latanoprost and ketoconazole."
+            "text": "Finasteride 1 mg tablet, listed in the catalog as \"Propecia (Finasteride)\""
           },
           {
-            "lead": "Oral strips:",
-            "text": "compounded strips with minoxidil, finasteride and biotin, dissolved on the tongue."
+            "text": "Finasteride 0.25% / minoxidil 5% hair spray (60 mL)"
           },
           {
-            "lead": "Tablet:",
-            "text": "a 1 mg finasteride tablet, listed in the catalog as \"Propecia (Finasteride)\"."
+            "text": "Minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray (30 mL)"
+          },
+          {
+            "text": "Minoxidil 5% / finasteride 0.3% / latanoprost 0.03% / ketoconazole 2% hair spray (30 mL)"
+          },
+          {
+            "text": "Minoxidil 2.5 mg / finasteride 1 mg / biotin 2.5 mg oral strips, dissolved on the tongue"
+          },
+          {
+            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with finasteride 0.2% (60 mL)"
           }
         ]
       },

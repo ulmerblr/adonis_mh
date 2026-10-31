@@ -13,7 +13,7 @@ export const peptidesArticle: Article = {
     <>
       <p className="dropcap">On October 30, HHS said it won’t take action against licensed pharmacies and physicians that compound BPC-157, TB-500, KPV, MOTS-c, Epitalon and Semax, as long as they meet ten conditions.</p>
       <p>That is enforcement discretion. None of the six is FDA-approved, and the policy says so. It runs while FDA works through the rules on each one.</p>
-      <p>FDA’s own scientists had recommended against adding BPC-157 to the compounding list. The advisory committee voted 8 to 6 to add it anyway.</p>
+      <p>FDA’s own scientists had recommended against adding BPC-157 to the compounding list. The advisory committee voted 8 to 6 to add it anyway, as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.</p>
     </>
   ),
   after: (
