@@ -1,0 +1,107 @@
+{
+  "key": "energy",
+  "headline": [
+    "What’s in",
+    "the shot."
+  ],
+  "dek": "B12, lipo and MIC injections are sold for energy. The trials are few, or none.",
+  "photoAlt": "Illustration for the Energy lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "people",
+      "label": "B12 for energy",
+      "line": "Two small placebo-controlled trials. Neither found a difference from placebo."
+    },
+    {
+      "icon": "mortar",
+      "label": "MIC blends",
+      "line": "Compounded, not FDA approved. No published human study of injected M, I or C for energy."
+    },
+    {
+      "icon": "calendar",
+      "label": "Semax",
+      "line": "Registered only in Russia, as nasal drops. HHS compounding discretion since Oct 30, 2026."
+    }
+  ],
+  "paragraphs": [
+    "The energy shots in this lane are built around [[/vitamin-b12|vitamin B12]]. Through Beluga, Adonis carries a methylcobalamin injection, B12 added to some compounded GLP-1 injections, and B12 inside “MIC” lipotropic blends, named for the [[/methionine|methionine]], [[/inositol|inositol]] and [[/choline|choline]] they also contain. Some blends add [[/vitamin-b6|vitamin B6]]; another, Lipo-Mino, adds [[/l-carnitine|L-carnitine]]. All of them are compounded, and none is FDA approved.",
+    "B12 itself is an approved drug for one job: cyanocobalamin injection treats B12 deficiency caused by poor absorption, including pernicious anemia. Injecting it for energy or weight loss in someone who is not deficient is off-label. We found two small placebo-controlled trials of B12 injections for energy. In one, 20 singers with vocal fatigue got a B12 shot and a salt-water shot weeks apart; scores improved about the same after both. In the other, 15 people with chronic fatigue syndrome responded to both the active injection and the placebo, with no significant difference. We found no trial of B12 injections for weight loss.",
+    "For the other letters in MIC the record is thinner still. We found no published human study of injected methionine, inositol, choline or vitamin B6, alone or in a blend, for energy or fat loss, and no FDA-approved methionine or inositol product. B6 and L-carnitine injections are approved for deficiency, not energy. Most L-carnitine weight studies used supplements by mouth, and we found no study of a Lipo-Mino-style injection.",
+    "FDA’s recall records add a quality question. Many compounded lipotropic, Lipo-B and MIC injections have been recalled by compounding pharmacies, most often for “lack of assurance of sterility.” Examples include vials from 2017, 2018, 2020 and 2022.",
+    "The lane’s one peptide comes from Russia. [[/semax|Semax]] is a synthetic fragment of the hormone ACTH, made at the Russian Academy of Sciences. FDA’s 2026 review found it registered as a medicine in Russia, as nasal drops; the register entry itself could not be opened for our page. Its human studies are small, almost all Russian and many published only in Russian, and all used nasal drops. FDA found two usable references for the uses it reviewed, both small and uncontrolled, and no study of Semax by injection.",
+    "Semax is not FDA approved. Since October 30, 2026, HHS has said it will not take enforcement action against licensed pharmacies and physicians that compound Semax for use in the nose, under set conditions; that is enforcement discretion, not approval. FDA’s advisory committee voted 8 to 5, with one abstention, to recommend it, as reported by Healio. Adonis does not carry Semax today. WADA’s list does not name it."
+  ],
+  "pull": {
+    "quote": "Semax is a registered drug in Russia and is available as 0.1% and 1% nasal drops.",
+    "cite": "FDA briefing on Semax, July 2026",
+    "href": "https://www.fda.gov/media/193348/download"
+  },
+  "sources": [
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+      "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+      "date": "published Oct 2023"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33180098/",
+      "label": "Shoffel-Havakuk H, et al. JAMA Otolaryngol Head Neck Surg, 2021 (PubMed)",
+      "date": "published Jan 2021"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2684076/",
+      "label": "Kaslow JE, et al. Arch Intern Med, 1989 (PubMed)",
+      "date": "published Nov 1989"
+    },
+    {
+      "url": "https://www.fda.gov/media/94155/download",
+      "label": "FDA, 503A bulk drug substance categories",
+      "date": "published May 2026"
+    },
+    {
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:inositol&limit=50",
+      "label": "Drugs@FDA data search for inositol (FDA, openFDA)",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+      "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+      "date": "published Oct 2024"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+      "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+      "date": "published Nov 2023"
+    },
+    {
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:methionine&limit=50",
+      "label": "Drugs@FDA data search for methionine (FDA, openFDA)",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
+      "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://www.fda.gov/media/193348/download",
+      "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+      "date": "published Jul 2026"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+      "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+      "date": "published Oct 30, 2026"
+    },
+    {
+      "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+      "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+      "date": "published Jul 24, 2026"
+    },
+    {
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+      "label": "WADA Prohibited List 2026",
+      "date": "published Sep 2025"
+    }
+  ]
+}
