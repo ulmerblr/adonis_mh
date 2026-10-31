@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef } from 'react';
-import { LANES } from '@/lib/library';
+import { LANES, TREATMENTS } from '@/lib/library';
 
 const ITEMS = [
   ...LANES.map((l) => ({ key: l.key as string, label: l.name, href: `/lanes/${l.key}` })),
@@ -14,7 +14,7 @@ const ITEMS = [
 /** The current lane: its own page, a treatment page's lane, or How we report. */
 function currentOf(path: string): string | null {
   if (path.startsWith('/lanes/')) return path.split('/')[2] ?? null;
-  if (path === '/bpc-157') return 'recovery';
+  for (const l of LANES) if (TREATMENTS[l.key].some((t) => t.page?.href === path)) return l.key;
   if (path === '/how-we-report') return 'how';
   return null;
 }

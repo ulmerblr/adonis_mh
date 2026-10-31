@@ -386,3 +386,8 @@ a { color: var(--leather); }
 .jump a[aria-current='true'] { background: var(--ink); }
 .stack > div { align-items: center; }
 .stackNum { min-width: 2.3em; }
+
+/* PROMPT 5: the treatment page template's plain, government-style title */
+.govTitle { padding: 28px 0 8px; }
+.govH1 { font-family: var(--sans); font-weight: 800; font-size: 34px; line-height: 1.15; color: var(--ink); margin: 0 0 8px; letter-spacing: 0; }
+.govTitle .asOf { margin-top: 8px; }
