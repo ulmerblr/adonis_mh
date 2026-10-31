@@ -1,5 +1,4 @@
 import { notFound } from 'next/navigation';
-import { Label } from '@/components/ext';
 import { IndexTable } from '@/components/index-table';
 import { LANES, TREATMENTS, countWords, laneOf, type LaneKey } from '@/lib/library';
 
@@ -19,12 +18,11 @@ export default async function LanePage({ params }: { params: Promise<{ lane: str
   const n = TREATMENTS[lane.key as LaneKey].length;
   return (
     <>
-      <section className="titleBlock">
+      <section className="laneCover">
         <div className="wrap">
-          <Label>Lane</Label>
-          <h1 className="h1 h1Big">{lane.name}</h1>
-          <hr className="inkRule" />
-          <p className="dek" style={{ marginTop: 0 }}>{countWords(n)}. Pages are added as each record is checked and reviewed.</p>
+          <span className="coverTag">Lane</span>
+          <h1 className="laneCoverHead">{lane.name}</h1>
+          <p className="laneCoverCount">{countWords(n)}</p>
         </div>
       </section>
       <section className="section" style={{ paddingTop: 20 }}>

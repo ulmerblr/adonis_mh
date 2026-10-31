@@ -1,8 +1,9 @@
-import { Source_Sans_3, Zilla_Slab } from 'next/font/google';
+import { Anton, Source_Sans_3, Zilla_Slab } from 'next/font/google';
 import { Footer, Top } from '@/components/chrome';
 import './globals.css';
 
 const zilla = Zilla_Slab({ subsets: ['latin'], weight: ['500', '700'], style: ['normal', 'italic'], variable: '--font-zilla', display: 'swap' });
+const anton = Anton({ subsets: ['latin'], weight: '400', variable: '--font-anton', display: 'swap' });
 const sans = Source_Sans_3({ subsets: ['latin'], weight: ['400', '600', '700', '800'], variable: '--font-sans', display: 'swap' });
 
 export const metadata = {
@@ -15,7 +16,7 @@ export const viewport = { themeColor: '#0F2C55', width: 'device-width', initialS
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${zilla.variable} ${sans.variable}`}>
+    <html lang="en" className={`${zilla.variable} ${sans.variable} ${anton.variable}`}>
       <body>
         <Top />
         <main>{children}</main>

@@ -1,5 +1,8 @@
 import { A, CLINIC, Label, Src } from '@/components/ext';
+import { Cover } from '@/components/cover';
 import { Jump } from '@/components/jump';
+import { Track } from '@/components/track';
+import { TRACKS } from '@/lib/tracks';
 
 export const metadata = { title: 'BPC-157' };
 
@@ -61,16 +64,16 @@ function Fact({ k, children }: { k: string; children: React.ReactNode }) {
 export default function Bpc157() {
   return (
     <>
-      <section className="titleBlock">
-        <div className="wrap">
-          <div className="titleLabels"><Label>Recovery</Label><Label>Peptide</Label></div>
-          <h1 className="h1 h1Big">BPC-157</h1>
-          <hr className="inkRule" />
-          <p className="leadText">
+      <Cover tag="Recovery · Peptide" title="BPC-157" gold="The file" dekClass="coverDekBold" dek={
+        <p className="leadText">
             BPC-157 is a lab-made peptide studied mostly in rats. FDA counts five published human studies, about 80 people in total.
             The longest course was two weeks. Only one study was randomized against a placebo, and it exists only as a conference
             abstract. It is not an FDA-approved drug.
           </p>
+      } />
+
+      <section className="glance">
+        <div className="wrap">
           <dl className="ledger">
             <div><dt>Human studies</dt><dd>5</dd></div>
             <div><dt>People studied</dt><dd>about 80</dd></div>
@@ -79,6 +82,8 @@ export default function Bpc157() {
             <div><dt>In sport (WADA)</dt><dd className="hot">Banned</dd></div>
           </dl>
           <p className="asOf">Statuses as of October 31, 2026. Clinical review: pending.</p>
+          <div className="secHead" style={{ marginTop: 34 }}><h2 className="h2">Where it stands</h2><Label>The path every drug takes</Label></div>
+          <Track name="BPC-157" steps={TRACKS['bpc-157']} />
           <Jump />
         </div>
       </section>
