@@ -47,7 +47,7 @@ export function Footer() {
           <Link href="/" className="footLogo" aria-label="AdonisMensHealth.com, home">
             <Image src={logoB} alt="Adonis Men’s Health" sizes="220px" style={{ height: 'auto' }} />
           </Link>
-          <a href={CLINIC} className="btn btnLeather">Talk to a licensed clinician →</a>
+          <a href={CLINIC} className="btn btnLeather btnMain">Talk to a licensed clinician →</a>
         </div>
         <nav className="footCols" aria-label="Footer">
           {COLS.map((c) => (
