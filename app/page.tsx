@@ -29,7 +29,7 @@ export default function Home() {
     <>
       <section className="hero">
         <div className="wrap">
-          <h1 className="h1 h1Long">AdonisMensHealth.com</h1>
+          <h1 className="h1 h1Long">AdonisMens<wbr />Health.com</h1>
           <hr className="heroRule" />
         </div>
       </section>
