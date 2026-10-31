@@ -1,0 +1,362 @@
+{
+  "slug": "glycine",
+  "name": "Glycine",
+  "peptide": false,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Little sleep research",
+    "fda": "Not a drug for sleep",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat sleep and body-temperature studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small sleep studies; one crossover with 7 men",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "Not run as a sleep drug",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not for sleep; approved only as a surgical irrigant",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Glycine is the simplest amino acid (also called aminoacetic acid). Under US law, a product containing an amino acid and meant to supplement the diet can be sold as a dietary supplement.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Oct 31, 2026"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-21/section-172.320",
+            "label": "21 CFR 172.320, amino acids as food additives, eCFR",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Which Adonis products contain it: glycine is an added ingredient in the sermorelin + glycine tablet taken by mouth, and in some compounded semaglutide and tirzepatide injections. Adonis does not carry glycine on its own."
+      },
+      {
+        "t": "p",
+        "text": "In rats, glycine taken by mouth increased non-REM sleep and lowered core body temperature. The study traced this to NMDA receptors in the brain’s body-clock center (the suprachiasmatic nucleus). This has not been shown in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25533534/",
+            "label": "Kawai et al., Neuropsychopharmacology, 2015",
+            "date": "published May 2015"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "There is little research on glycine for sleep, and none on glycine added to a sermorelin tablet or to a GLP-1 injection."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human research on glycine and sleep is small. A 2026 scoping review found 3 trials of glycine supplements on sleep-related outcomes. The one we could open is described below."
+      },
+      {
+        "t": "study",
+        "meta": "Japan · 2012 · Randomized single-blind crossover",
+        "title": "Daytime sleepiness after short sleep, 2012 (Japan)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, single-blind crossover: glycine or placebo before bed, after sleep was cut by 25% for three nights"
+          },
+          {
+            "k": "People",
+            "v": "10 healthy men aged 30 to 61, all Ajinomoto employees; 7 were analyzed (1 dropped out, 2 excluded for taking medicine)"
+          },
+          {
+            "k": "Length",
+            "v": "three nights per condition"
+          },
+          {
+            "k": "Measured",
+            "v": "next-day sleepiness and fatigue (rating scales, questionnaire) and computer performance tests"
+          }
+        ],
+        "found": "Fatigue scores were lower and sleepiness tended to be lower with glycine. One of the computer tests (psychomotor vigilance) improved. Sleep itself was not recorded. The authors work for Ajinomoto, which makes amino acids; the paper declares no conflicts of interest.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22529837/",
+            "label": "Bannai et al., Front Neurol, 2012",
+            "date": "published Apr 2012"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The scoping review reported that all 3 glycine sleep trials found a benefit on at least one sleep-related outcome, and called for larger trials with standard sleep measures.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42687500/",
+            "label": "Fan et al., J Diet Suppl, 2026 (scoping review)",
+            "date": "published Sep 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Glycine is not an FDA-approved drug for sleep. It can be sold as a dietary supplement, is permitted as a food additive for limited uses, and FDA-approved as a drug only as an irrigation fluid used during urologic surgery. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Dietary supplement:",
+            "text": "amino acids are dietary ingredients under the law that defines dietary supplements.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Food:",
+            "text": "FDA no longer regards glycine as generally recognized as safe (GRAS) for human food. It is allowed as a food additive for listed uses, such as masking saccharin’s aftertaste in beverages, and as a nutrient amino acid.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-170.50",
+                "label": "21 CFR 170.50, glycine in food for human consumption, eCFR",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-172.812",
+                "label": "21 CFR 172.812, glycine as a food additive, eCFR",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-172.320",
+                "label": "21 CFR 172.320, amino acids as food additives, eCFR",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Approved drug:",
+            "text": "1.5% Glycine Irrigation is FDA approved (NDA 018315) as an irrigating fluid during transurethral prostate surgery. It is not for injection.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc",
+                "label": "1.5% Glycine Irrigation label (ICU Medical), DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Over the counter:",
+            "text": "glycine is listed as an antacid active ingredient in FDA’s OTC antacid rule.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-331.11",
+                "label": "21 CFR 331.11, OTC antacid active ingredients, eCFR",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The Adonis products that contain glycine are compounded and not FDA approved. Glycine’s role in them is not studied for sleep."
+      }
+    ],
+    "world": {
+      "lead": "In the US glycine can be sold as an amino acid dietary supplement; it is not an approved sleep medicine. We did not check its status in other countries.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement; limited food-additive uses. Approved as a drug only as a surgical irrigant.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.ecfr.gov/current/title-21/section-170.50",
+              "label": "21 CFR 170.50, glycine in food for human consumption, eCFR",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc",
+              "label": "1.5% Glycine Irrigation label (ICU Medical), DailyMed",
+              "date": "published Jun 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Glycine is not listed on the WADA 2026 Prohibited List or the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is little safety data on glycine taken for sleep. The 2012 sleep study does not report side effects."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA food record:",
+            "text": "FDA withdrew glycine’s GRAS status for human food, citing reports of adverse effects when high levels were given in the diets of experimental animals, and rising human intake.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-170.50",
+                "label": "21 CFR 170.50, glycine in food for human consumption, eCFR",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Human study:",
+            "text": "the 2012 crossover study (7 men analyzed) did not report adverse events.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22529837/",
+                "label": "Bannai et al., Front Neurol, 2012",
+                "date": "published Apr 2012"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Two earlier Japanese glycine sleep studies (Inagawa 2006 and Yamadera 2007, Sleep and Biological Rhythms) are not in PubMed and the journal pages could not be opened, so they are not reported.",
+    "A 2006 high-dose glycine safety study in volunteers (Seikatsu Eisei) could not be opened.",
+    "Glycine's status in Canada, the UK, the EU and Australia was not checked.",
+    "How much glycine the Adonis sermorelin tablet or GLP-1 injections contain is not on file."
+  ],
+  "surprises": [
+    "Glycine is often called GRAS, but FDA's rule (21 CFR 170.50) says FDA no longer regards glycine as GRAS for human food; it is allowed only under specific food-additive rules.",
+    "Glycine is an FDA-approved drug ingredient, but only as a surgical irrigation fluid for prostate surgery and as an OTC antacid ingredient, not for sleep."
+  ]
+}

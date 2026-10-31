@@ -65,8 +65,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Semax', peptide: true, page: { href: '/semax', evidence: 'Small Russian studies', fda: 'Not approved', sport: 'Not listed' } },
   ],
   sleep: [
-    { name: 'Sermorelin', peptide: true },
-    { name: 'Glycine' },
+    { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
+    { name: 'Glycine', page: { href: '/glycine', evidence: 'Little sleep research', fda: 'Not a drug for sleep', sport: 'Not listed' } },
   ],
   'hair-loss': [
     { name: 'Finasteride', page: { href: '/finasteride', evidence: 'Approved; many RCTs', fda: 'Approved (Propecia)', sport: 'Not listed' } },
@@ -93,7 +93,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Glutathione' },
     { name: 'Metformin' },
     { name: 'GHK-Cu (copper peptide)', peptide: true, page: { href: '/ghk-cu', evidence: '1 small RCT; lab/animal', fda: 'Not approved', sport: 'Not listed' } },
-    { name: 'Sermorelin', peptide: true },
+    { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
     { name: 'MOTS-c', peptide: true },
     { name: 'Epitalon', peptide: true },
   ],
