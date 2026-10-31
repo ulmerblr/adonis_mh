@@ -244,7 +244,12 @@ Forms only. Never copy prices.
 
 ## ketoconazole (full name)
 - Minoxidil / Finasteride / Latanoprost / Ketoconazole Hair Spray (5% / 0.3% / 0.03% / 2%), 30 mL topical spray (the catalog cuts the name off; full name from Adonis's source catalog note)
-## sertraline, spironolactone, estriol, fluocinolone, melatonin (topical)
-- Added to the library in Prompt 15 from the Beluga catalog; they are not in the Adonis Clinical repo's product file. Describe the form only if a primary or Beluga-provided record states it; otherwise say "a compounded prescription product" without inventing a form.
+## sertraline, spironolactone, estriol, fluocinolone, melatonin (topical) (forms given by Bill, EDU PROMPT 17)
+- Sertraline: 50 mg tablet.
+- Spironolactone: 50 mg and 100 mg tablets.
+- Estriol: two face creams: estriol 0.03% with tretinoin 0.1% (30 g); estriol 0.3% with niacinamide 3% and GHK-Cu 0.2% (15 to 45 g).
+- Fluocinolone: 0.025% in two minoxidil hair sprays (60 mL): minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025%, one with biotin and melatonin, one with finasteride 0.2%.
+- Melatonin (topical): 0.5% in the minoxidil 7% / tretinoin / fluocinolone / biotin hair spray.
+- Whether each is compounded or an approved product is still being confirmed: do not say either.
 ## tb-500, kpv, mots-c, epitalon, semax
 - HHS-policy peptides listed in the library; Adonis Clinical carries none of them today (Recovery ordering is on hold). Do not describe an Adonis product form.

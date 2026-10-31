@@ -69,7 +69,7 @@
       },
       {
         "t": "p",
-        "text": "Adonis lists sertraline, from the Beluga catalog, as a compounded prescription product. Its form is not on file, so it is not described here."
+        "text": "Adonis's catalog lists sertraline as a 50 mg tablet. Whether it is an FDA-approved product or a compounded one is still being confirmed."
       },
       {
         "t": "callout",
@@ -597,8 +597,8 @@
   "unconfirmed": [
     "Health Canada's Drug Product Database did not load, so Canada's status is not stated.",
     "Australia's TGA site (ARTG) did not load; only the Poisons Standard schedule was checked.",
-    "The form of Adonis's compounded sertraline is not on file and is not described.",
-    "The 2006 Saudi trial summary gives 147 men enrolled but 157 men assessed; we did not read the full paper to resolve this."
+    "The 2006 Saudi trial summary gives 147 men enrolled but 157 men assessed; we did not read the full paper to resolve this.",
+    "Whether the product Adonis carries is compounded or an FDA-approved product is still being confirmed."
   ],
   "surprises": [
     "Sertraline is often described as a PE treatment, but no regulator we checked approves it for PE; EMA's 2009 harmonised EU uses do not include it.",

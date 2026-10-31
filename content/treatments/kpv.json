@@ -7,7 +7,7 @@
   ],
   "index": {
     "evidence": "Animal and cell only",
-    "fda": "Not approved",
+    "fda": "Not approved; HHS discretion",
     "sport": "Not listed"
   },
   "track": [
@@ -39,7 +39,7 @@
     },
     {
       "title": "FDA approval",
-      "line": "None",
+      "line": "Not approved; HHS compounding discretion, Oct 2026",
       "status": "not"
     }
   ],
@@ -400,7 +400,7 @@
     "us": [
       {
         "t": "lead",
-        "text": "Not FDA-approved for any use, and not on FDA’s list of substances pharmacies may compound. No FDA-approved drug contains it. As of October 31, 2026."
+        "text": "Not FDA-approved for any use. Since October 30, 2026, HHS has said it will not take enforcement action against licensed pharmacies and physicians that compound KPV acetate for products applied to the skin or taken by mouth, under set conditions. That is enforcement discretion, not approval. As of October 31, 2026."
       },
       {
         "t": "list",
@@ -440,12 +440,44 @@
           },
           {
             "lead": "HHS interim policy:",
-            "text": "on October 30, 2026, HHS published notice of an enforcement discretion policy for certain compounded peptides while FDA writes its rules. The notice itself does not name the peptides; they are listed in an HHS appendix that could not be opened for this page. The notice says the policy is not binding and that compounded drugs are not FDA-approved.",
+            "text": "HHS announced an enforcement discretion policy on October 28, 2026, published in the Federal Register on October 30, 2026 (Docket HHS-OASH-2026-0496). It names KPV acetate, for products applied to the skin or taken by mouth. HHS says it does not intend to take enforcement action against state-licensed pharmacies, federal facilities or licensed physicians that compound it when every condition is met. As of October 31, 2026.",
             "src": [
               {
-                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
-                "label": "HHS notice, Federal Register 2026-22192",
-                "date": "published Oct 2026"
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "The conditions:",
+            "text": "a licensed pharmacist or physician compounds it; the bulk substance matches the listed peptide and route; it comes from an FDA-registered maker that follows good manufacturing practice, with a valid certificate of analysis; there is a valid patient-specific prescription; the product contains only one active ingredient from the list; serious adverse events and quality problems are reported to FDA's MedWatch and state authorities; the label says \"This is a compounded drug product. Not for resale.\"; oral forms have documented adequate bioavailability; the only device packaged with it is an FDA-cleared syringe; and all other section 503A requirements are met.",
+            "src": [
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What it does not do:",
+            "text": "The policy does not make it FDA approved. It does not cover blends with other active ingredients, other routes or forms, outsourcing facilities (section 503B), or products sold as research chemicals or dietary supplements. It is interim and not binding: HHS may revise or withdraw it, in whole or in part, if safety signals or product-quality problems appear.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
               }
             ]
           },
@@ -473,7 +505,7 @@
         {
           "country": "United States",
           "regulator": "FDA / HHS",
-          "status": "Not approved. Not on the 503A bulks list. Whether HHS’s October 2026 peptide policy covers it could not be confirmed from HHS’s own list.",
+          "status": "Not approved. Compounding under HHS enforcement discretion since Oct 30, 2026, for KPV acetate by products applied to the skin or taken by mouth only.",
           "checked": "Oct 31, 2026",
           "sources": [
             {
@@ -482,15 +514,20 @@
               "date": "published May 2026"
             },
             {
-              "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
-              "label": "HHS notice, Federal Register 2026-22192",
-              "date": "published Oct 2026"
+              "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+              "date": "published Oct 30, 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+              "date": "published Oct 28, 2026"
             }
           ],
           "iso": [
             "840"
           ],
-          "tone": "not"
+          "tone": "discretion"
         },
         {
           "country": "Canada",
@@ -696,7 +733,6 @@
     ]
   },
   "unconfirmed": [
-    "HHS’s policy appendix (hhs.gov) and the policy document on regulations.gov could not be opened, so this page does not confirm that KPV is named in HHS’s October 2026 enforcement discretion policy or which routes it allows.",
     "WADA’s own 2026 and 2027 Prohibited List pages could not be opened (blocked by a bot check); the 2026 list text was read in the Finnish anti-doping agency’s version, and whether WADA treats KPV under class S0 was not confirmed.",
     "The result of the July 23, 2026 advisory committee vote on KPV is not posted on FDA’s meeting page and was not confirmed from a primary record.",
     "Australia’s status was not confirmed: TGA’s site timed out, and KPV is not named in the June 2026 Poisons Standard.",

@@ -58,7 +58,7 @@
       },
       {
         "t": "p",
-        "text": "Adonis does not carry topical melatonin on its own. It is part of a compounded hair-loss preparation from the Beluga catalog. We do not have a record of that product’s form, so this page does not describe it."
+        "text": "Adonis does not carry topical melatonin on its own. Adonis's catalog lists it at 0.5% in a hair spray of minoxidil 7%, tretinoin, fluocinolone and biotin. Whether this is a compounded or an approved product is still being confirmed."
       },
       {
         "t": "callout",
@@ -167,7 +167,7 @@
       },
       {
         "t": "p",
-        "text": "The Beluga preparation Adonis carries is compounded. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+        "text": "Whether the hair spray Adonis carries is a compounded or an approved product is still being confirmed. No melatonin product is FDA approved for hair loss, and FDA has not reviewed this mix for safety or effect."
       }
     ],
     "world": {
@@ -360,10 +360,10 @@
     ]
   },
   "unconfirmed": [
-    "We have no record of the form of the Beluga product that contains melatonin, so the form is not described.",
     "We could not open Health Canada’s natural health product records for melatonin; only the prescription drug Slenyto was confirmed.",
     "We did not confirm whether low-dose melatonin food supplements are allowed in individual EU countries.",
-    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending."
+    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending.",
+    "Whether the product Adonis carries is compounded or an FDA-approved product is still being confirmed."
   ],
   "surprises": [
     "Melatonin is sold freely as a supplement in the US, but the UK’s MHRA treats it as a prescription-only medicine and has pulled a supplement found to contain it.",

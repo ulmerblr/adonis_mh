@@ -43,9 +43,9 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Tirzepatide', peptide: true, page: { href: '/tirzepatide', evidence: 'Approved; large RCTs', fda: 'Approved (Zepbound)', sport: 'Not prohibited' } },
   ],
   recovery: [
-    { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved', sport: 'Banned' } },
-    { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true, page: { href: '/tb-500', evidence: '3-case report; no trials', fda: 'Not approved', sport: 'Banned (S2)' } },
-    { name: 'KPV', peptide: true, page: { href: '/kpv', evidence: 'Animal and cell only', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved; HHS discretion', sport: 'Banned' } },
+    { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true, page: { href: '/tb-500', evidence: '3-case report; no trials', fda: 'Not approved; HHS discretion', sport: 'Banned (S2)' } },
+    { name: 'KPV', peptide: true, page: { href: '/kpv', evidence: 'Animal and cell only', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
   ],
   vitality: [
     { name: 'Sildenafil', page: { href: '/sildenafil', evidence: 'Approved; many RCTs', fda: 'Approved (Viagra)', sport: 'Not listed' } },
@@ -62,7 +62,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Inositol', page: { href: '/inositol', evidence: 'No trials found', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Choline', page: { href: '/choline', evidence: 'No trials found', fda: 'Not approved (energy)', sport: 'Not listed' } },
     { name: 'L-carnitine', page: { href: '/l-carnitine', evidence: 'Approved; few energy RCTs', fda: 'Approved (Carnitor)', sport: 'Not listed' } },
-    { name: 'Semax', peptide: true, page: { href: '/semax', evidence: 'Small Russian studies', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Semax', peptide: true, page: { href: '/semax', evidence: 'Small Russian studies', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
   ],
   sleep: [
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
@@ -94,8 +94,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Metformin', page: { href: '/metformin', evidence: 'Approved; aging data thin', fda: 'Approved (Glucophage)', sport: 'Not listed' } },
     { name: 'GHK-Cu (copper peptide)', peptide: true, page: { href: '/ghk-cu', evidence: '1 small RCT; lab/animal', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
-    { name: 'MOTS-c', peptide: true, page: { href: '/mots-c', evidence: 'No human studies', fda: 'Not approved', sport: 'Banned (S4)' } },
-    { name: 'Epitalon', peptide: true, page: { href: '/epitalon', evidence: 'Animal/cell; few in people', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'MOTS-c', peptide: true, page: { href: '/mots-c', evidence: 'No human studies', fda: 'Not approved; HHS discretion', sport: 'Banned (S4)' } },
+    { name: 'Epitalon', peptide: true, page: { href: '/epitalon', evidence: 'Animal/cell; few in people', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
   ],
 };
 

@@ -12,6 +12,6 @@ export const TRACKS: Record<string, Step[]> = {
     { title: 'Phase I', line: '24 people, 2002–03, abstract only', status: 'started' },
     { title: 'Phase II', line: '53 people, 2005, abstract only, not significant', status: 'started', here: true },
     { title: 'Phase III', line: 'Never run', status: 'not' },
-    { title: 'FDA approval', line: 'None', status: 'not' },
+    { title: 'FDA approval', line: 'None; HHS compounding discretion, Oct 2026', status: 'not' },
   ],
 };

@@ -78,7 +78,7 @@
       },
       {
         "t": "p",
-        "text": "Spironolactone is in the Adonis treatment library as a compounded prescription product. Its form is not on file."
+        "text": "Adonis's catalog lists spironolactone as 50 mg and 100 mg tablets. Whether they are FDA-approved products or compounded ones is still being confirmed."
       },
       {
         "t": "callout",
@@ -496,13 +496,13 @@
     ]
   },
   "unconfirmed": [
-    "The form of spironolactone Adonis carries is not on file (BELUGA-FORMS.md), so no form is described.",
     "No controlled trial of spironolactone for acne in men was found or reviewed; both trials on this page enrolled only women.",
     "The FDA Drugs@FDA website itself would not load; the 1960 approval date comes from FDA's openFDA copy of the Drugs@FDA data.",
     "Health Canada's Drug Product Database could not be reached, so Canada's status is not confirmed.",
     "Australia's TGA (ARTG) could not be reached, so Australia's status is not confirmed.",
     "MHRA's product database could not be read; the UK entry rests on EMA's Article 57 data for Northern Ireland only.",
-    "The live WADA 2026 list URL returned a bot check on Oct 31, 2026; the list was read from a copy of that same PDF (WADA, dated September 2025) downloaded earlier in this working session. The 2027 list was not checked."
+    "The live WADA 2026 list URL returned a bot check on Oct 31, 2026; the list was read from a copy of that same PDF (WADA, dated September 2025) downloaded earlier in this working session. The 2027 list was not checked.",
+    "Whether the product Adonis carries is compounded or an FDA-approved product is still being confirmed."
   ],
   "surprises": [
     "Spironolactone is widely prescribed for acne, but no regulator record checked (FDA's Aldactone label, EMA's Qaialdo record) lists acne as an approved use; it is off-label everywhere checked.",

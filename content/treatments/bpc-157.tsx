@@ -17,6 +17,7 @@ const U = {
   fdaBriefing: 'https://www.fda.gov/media/193343/download',
   nct: 'https://clinicaltrials.gov/study/NCT02637284',
   nctHamstring: 'https://clinicaltrials.gov/study/NCT07437547',
+  nctTb500Fictional: 'https://clinicaltrials.gov/study/NCT07487363',
   nctRotator: 'https://clinicaltrials.gov/study/NCT07803250',
   ajmc: 'https://www.ajmc.com/view/hhs-draft-policy-eases-enforcement-on-6-compounded-peptides',
   fedReg: 'https://public-inspection.federalregister.gov/2026-22192.pdf',
@@ -29,6 +30,8 @@ const U = {
   wada2026: 'https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf',
   wada2027: 'https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list',
   usada: 'https://www.usada.org/substance/bpc-157/',
+  fedRegOfficial: 'https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf',
+  bakerSummary: 'https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/',
 };
 
 type Country = MapRegion;
@@ -161,6 +164,7 @@ export const bpc157: TreatmentData = {
             <h4 className="cardTitle">Hamstring strain, Phase 2</h4>
             <ul className="cardBullets">
               <li><A href={U.nctHamstring}>NCT07437547</A>, sponsored by Hudson Biotech. Randomized, double-blind, placebo-controlled, under-the-skin BPC-157 for MRI-confirmed grade II hamstring strain. Registered February 2026, recruiting, about 120 people planned.</li>
+              <li>The same sponsor, Hudson Biotech, registered a TB-500 entry that describes itself as fictional: <A href={U.nctTb500Fictional}>NCT07487363</A>, first posted March 23, 2026.</li>
             </ul>
           </article>
           <article className="card">
@@ -205,6 +209,8 @@ export const bpc157: TreatmentData = {
           <li><strong>HHS interim policy:</strong> the “Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances” was filed October 28, 2026 and published October 30, 2026 (Docket HHS-OASH-2026-0496). It covers BPC-157, TB-500, KPV, MOTS-c, Epitalon and Semax. <Src href={U.fedReg} /></li>
           <li><strong>What it does:</strong> HHS does not intend to act against state-licensed pharmacies, federal facilities or licensed physicians compounding these peptides, if every condition in the policy is met. <Src href={U.hhsAppendix} /></li>
           <li><strong>What it does not do:</strong> it does not add BPC-157 to FDA’s 503A bulks list, does not make it FDA-approved, and is not binding on HHS. HHS may revisit it if a safety or quality problem appears. No end date was set; it runs while FDA completes rulemaking.</li>
+          <li><strong>Routes and conditions:</strong> the policy names BPC-157 acetate, for injection under the skin or into muscle, and for products taken by mouth or applied to the skin. The conditions include a valid patient-specific prescription; only one active ingredient from the list; a bulk substance from an FDA-registered maker that follows good manufacturing practice, with a valid certificate of analysis; the label “This is a compounded drug product. Not for resale.”; documented adequate bioavailability for oral forms; serious adverse events and quality problems reported to FDA’s MedWatch; and an FDA-cleared syringe as the only packaged device. <Src href={U.fedRegOfficial} label="HHS notice, Federal Register 2026-22192, published Oct 30, 2026" /><Src href={U.bakerSummary} label="BakerHostetler summary of the policy, Oct 28, 2026 (a law firm’s summary, used because HHS’s policy appendix could not be opened)" /></li>
+          <li><strong>What it does not cover:</strong> blends with other active ingredients, other routes or forms, outsourcing facilities (section 503B), or products sold as research chemicals or dietary supplements. It is interim: HHS may revise or withdraw it. <Src href={U.bakerSummary} label="BakerHostetler summary of the policy, Oct 28, 2026" /></li>
           <li><strong>Before this policy:</strong> FDA placed BPC-157 in 503A “Category 2” (substances with potential safety risks) in 2023. By April 2026 it was moved to a list of substances whose nominations were withdrawn. <Src href={U.fdaCat2} /></li>
           <li><strong>Controlled substance:</strong> no. It is not on the DEA’s controlled substances list.</li>
           <li><strong>Military:</strong> listed as prohibited for service members by the Department of Defense’s Operation Supplement Safety. <Src href={U.opss} /></li>
