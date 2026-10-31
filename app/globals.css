@@ -404,3 +404,36 @@ a { color: var(--leather); }
 .nextTab { display: inline-flex; align-items: center; min-height: 44px; margin: 22px 0 8px; padding: 8px 16px; background: transparent; border: 2px solid var(--ink); border-radius: 4px; color: var(--ink); font-family: var(--sans); font-weight: 800; font-size: 15px; cursor: pointer; }
 .nextTab:hover { background: var(--sand); }
 @media print { .tabList, .nextTab { display: none; } .tabPanels [role='tabpanel'][hidden] { display: block !important; } .tabPanels { min-height: 0; } }
+
+/* World map ("Around the world"): each regulator's countries in its status color; a popup on hover, focus or tap */
+.worldMap { margin: 0 0 22px; }
+.mapBox { position: relative; background: var(--agency); border-top: 5px solid var(--navy); border-radius: 4px; padding: 8px; }
+.mapBox svg { display: block; width: 100%; height: auto; }
+.land { stroke: var(--paper); stroke-width: 0.6; transition: filter 120ms ease; }
+.tone-none, .land.tone-none { fill: #d9d0bd; }
+.region { cursor: pointer; outline: none; }
+.region .land { stroke-width: 0.8; }
+.region:hover .land, .region:focus-visible .land { filter: brightness(0.82); }
+.region:focus-visible .land { stroke: var(--ink); stroke-width: 2; }
+.tone-rx { fill: var(--gold-num); background: var(--gold-num); }
+.tone-discretion { fill: var(--leather); background: var(--leather); }
+.tone-not { fill: var(--punch); background: var(--punch); }
+.tone-pending { fill: url(#mapStripes); background: repeating-linear-gradient(45deg, #5d7699 0 3px, #b8c6da 3px 6px); }
+.stripeBg { fill: #b8c6da; }
+.stripeFg { fill: #5d7699; }
+span.tone-none { background: #d9d0bd; }
+.swatch { display: inline-block; width: 16px; height: 16px; border-radius: 3px; flex: 0 0 auto; border: 1px solid rgba(30, 24, 18, 0.25); }
+.mapKey { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px 20px; font-size: 15px; font-weight: 600; color: var(--soft); }
+.mapKey li { display: flex; align-items: center; gap: 8px; }
+.mapPop { position: absolute; z-index: 5; background: var(--white); border: 2px solid var(--navy); border-radius: 4px; box-shadow: 0 8px 24px rgba(15, 44, 85, 0.22); padding: 12px 14px; font-size: 15px; line-height: 1.4; }
+.popName { font-family: var(--slab); font-weight: 700; font-size: 20px; margin: 0; padding-right: 36px; }
+.popReg { font-size: 12px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; color: var(--leather); margin: 2px 0 8px; }
+.popStatus { display: flex; gap: 8px; align-items: flex-start; font-weight: 700; margin: 0 0 8px; }
+.popStatus .swatch { margin-top: 2px; }
+.popFacts { margin: 0; display: grid; gap: 4px; }
+.popFacts > div { display: grid; grid-template-columns: 70px 1fr; gap: 8px; }
+.popFacts dt { font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; color: var(--soft); padding-top: 2px; }
+.popFacts dd { margin: 0; }
+.popHint { margin: 8px 0 0; font-size: 13px; color: var(--soft); }
+.popClose { position: absolute; top: 2px; right: 2px; width: 44px; height: 44px; background: none; border: 0; font-size: 26px; line-height: 1; cursor: pointer; color: var(--ink); }
+@media (max-width: 600px) { .mapPop { font-size: 14px; } }

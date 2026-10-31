@@ -1,5 +1,6 @@
 import { A, CLINIC, Src } from '@/components/ext';
 import { Fact, type TreatmentData } from '@/components/treatment/template';
+import { WorldMap, type MapRegion } from '@/components/treatment/world-map';
 import { TRACKS } from '@/lib/tracks';
 
 /* BPC-157: the treatment's data for the treatment page template (components/treatment/template.tsx). */
@@ -32,16 +33,16 @@ const U = {
 /** Every source used on the page, once each, in the order it first appears. */
 const SOURCES = Object.values(U);
 
-type Country = { country: string; regulator: string; status: string; checked?: string; sources?: string[] };
+type Country = MapRegion;
 const COUNTRIES: Country[] = [
-  { country: 'United States', regulator: 'FDA / HHS', status: 'Not approved. Compounding under HHS enforcement discretion.', checked: 'Oct 31, 2026', sources: [U.fedReg] },
-  { country: 'Canada', regulator: 'Health Canada', status: 'Not approved. Named among unauthorized injectable peptides seized.', checked: 'Oct 31, 2026', sources: [U.canada] },
-  { country: 'Australia', regulator: 'TGA', status: 'Not approved (not in the ARTG). Prescription-only (Schedule 4); possession without authority is illegal (Appendix D).', checked: 'Oct 31, 2026', sources: [U.ausSport, U.ausLeg] },
-  { country: 'United Kingdom', regulator: 'MHRA', status: 'Status being confirmed with the regulator’s record.' },
-  { country: 'EU / Germany', regulator: 'EMA / BfArM', status: 'Status being confirmed with the regulator’s record.' },
-  { country: 'China', regulator: 'NMPA', status: 'Status being confirmed with the regulator’s record.' },
-  { country: 'India', regulator: 'CDSCO', status: 'Status being confirmed with the regulator’s record.' },
-  { country: 'Russia', regulator: 'Roszdravnadzor', status: 'Status being confirmed with the regulator’s record.' },
+  { country: 'United States', regulator: 'FDA / HHS', status: 'Not approved. Compounding under HHS enforcement discretion.', checked: 'Oct 31, 2026', sources: [U.fedReg], iso: ['840'], tone: 'discretion' },
+  { country: 'Canada', regulator: 'Health Canada', status: 'Not approved. Named among unauthorized injectable peptides seized.', checked: 'Oct 31, 2026', sources: [U.canada], iso: ['124'], tone: 'not' },
+  { country: 'Australia', regulator: 'TGA', status: 'Not approved (not in the ARTG). Prescription-only (Schedule 4); possession without authority is illegal (Appendix D).', checked: 'Oct 31, 2026', sources: [U.ausSport, U.ausLeg], iso: ['036'], tone: 'rx' },
+  { country: 'United Kingdom', regulator: 'MHRA', status: 'Status being confirmed with the regulator’s record.', iso: ['826'], tone: 'pending' },
+  { country: 'EU / Germany', regulator: 'EMA / BfArM', status: 'Status being confirmed with the regulator’s record.', iso: ['040', '056', '100', '191', '196', '203', '208', '233', '246', '250', '276', '300', '348', '372', '380', '428', '440', '442', '470', '528', '616', '620', '642', '703', '705', '724', '752'], tone: 'pending' },
+  { country: 'China', regulator: 'NMPA', status: 'Status being confirmed with the regulator’s record.', iso: ['156'], tone: 'pending' },
+  { country: 'India', regulator: 'CDSCO', status: 'Status being confirmed with the regulator’s record.', iso: ['356'], tone: 'pending' },
+  { country: 'Russia', regulator: 'Roszdravnadzor', status: 'Status being confirmed with the regulator’s record.', iso: ['643'], tone: 'pending' },
 ];
 
 export const bpc157: TreatmentData = {
@@ -222,6 +223,7 @@ export const bpc157: TreatmentData = {
           No regulator anywhere has approved BPC-157 as a medicine. Australia makes it prescription-only, Canada has seized it as an
           unauthorized drug, and it is banned in sport worldwide.
         </p>
+        <WorldMap regions={COUNTRIES} />
         <div className="countries">
           {COUNTRIES.map((c) => (
             <article className={c.sources ? 'card' : 'card countryPending'} key={c.country}>
