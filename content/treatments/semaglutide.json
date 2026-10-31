@@ -1,0 +1,819 @@
+{
+  "slug": "semaglutide",
+  "name": "Semaglutide",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; large RCTs",
+    "fda": "Approved (Wegovy)",
+    "sport": "Not prohibited"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rodent studies, incl. thyroid C-cell tumors",
+      "status": "done"
+    },
+    {
+      "title": "Diabetes trials",
+      "line": "SUSTAIN-6: 3,297 people, 104 weeks",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: diabetes",
+      "line": "Ozempic, 2017; Rybelsus tablets, 2019",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials",
+      "line": "STEP 1: 1,961 adults, 68 weeks",
+      "status": "done"
+    },
+    {
+      "title": "Heart outcome trial",
+      "line": "SELECT: 17,604 adults with heart disease",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: weight",
+      "line": "Wegovy injection, 2021; Wegovy tablets, 2025",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Semaglutide is a man-made version of GLP-1, a hormone the gut releases after eating. The Wegovy label says it shares 94% of its sequence with human GLP-1 and works by switching on the GLP-1 receptor. GLP-1 helps control appetite and how much food people eat.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+            "label": "Wegovy injection and tablets label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In animal studies, semaglutide reached and switched on nerve cells in brain areas that control food intake. That finding comes from animals. The label says the exact way it lowers heart risk in adults has not been established.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+            "label": "Wegovy injection and tablets label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The FDA-approved brands are Ozempic and Wegovy, given by injection under the skin, and Rybelsus, Ozempic tablets and Wegovy tablets, taken by mouth. All are made by Novo Nordisk.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+            "label": "Ozempic injection label, DailyMed",
+            "date": "published Jun 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
+            "label": "Rybelsus and Ozempic tablets label, DailyMed",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+            "label": "Wegovy injection and tablets label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries"
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries compounded semaglutide injections made through Beluga. Some are combined with vitamin B12 and some with glycine. They come in 30-day and 90-day supplies, including products named \"titration\" and \"microdosing\"."
+      },
+      {
+        "t": "callout",
+        "text": "These compounded semaglutide products are not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold."
+      },
+      {
+        "t": "p",
+        "text": "The trials on this page tested semaglutide by itself. None of them tested semaglutide combined with vitamin B12 or glycine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+            "label": "Wilding et al., STEP 1, N Engl J Med 2021",
+            "date": "published Mar 2021"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37952131/",
+            "label": "Lincoff et al., SELECT, N Engl J Med 2023",
+            "date": "published Dec 2023"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+            "label": "Marso et al., SUSTAIN-6, N Engl J Med 2016",
+            "date": "published Nov 2016"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Semaglutide has been tested in large randomized trials paid for by its maker, Novo Nordisk. Three are listed below exactly as they were run: a heart-safety trial in type 2 diabetes, the first large weight trial, and a heart-outcome trial in people without diabetes."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2016 · Randomized trial",
+        "title": "SUSTAIN-6: heart safety in type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled. Built to show semaglutide did not raise heart risk (a noninferiority test)."
+          },
+          {
+            "k": "People",
+            "v": "3,297 adults with type 2 diabetes on standard care. 83% had heart disease, chronic kidney disease, or both."
+          },
+          {
+            "k": "What was given",
+            "v": "a weekly semaglutide injection (0.5 mg or 1.0 mg) or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "104 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "first heart-related death, non-fatal heart attack or non-fatal stroke, counted together"
+          }
+        ],
+        "found": "The combined outcome happened in 6.6% of the semaglutide group and 8.9% of the placebo group (hazard ratio 0.74), which met the trial's safety goal. Eye complications of diabetic retinopathy were more common on semaglutide (hazard ratio 1.76). More people stopped semaglutide because of side effects, mainly stomach and bowel effects. ClinicalTrials.gov NCT01720446.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+            "label": "Marso et al., SUSTAIN-6, N Engl J Med 2016",
+            "date": "published Nov 2016"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2021 · Randomized trial",
+        "title": "STEP 1: weight in adults without diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled. Two people got semaglutide for every one on placebo."
+          },
+          {
+            "k": "People",
+            "v": "1,961 adults with a BMI of 30 or more, or 27 or more with at least one weight-related condition. None had diabetes."
+          },
+          {
+            "k": "What was given",
+            "v": "a weekly 2.4 mg semaglutide injection or placebo, both with a lifestyle program"
+          },
+          {
+            "k": "Length",
+            "v": "68 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight, and how many people lost at least 5%"
+          }
+        ],
+        "found": "Average body weight changed by -14.9% on semaglutide and -2.4% on placebo. 86.4% on semaglutide and 31.5% on placebo lost at least 5%. Nausea and diarrhea were the most common side effects. 4.5% on semaglutide and 0.8% on placebo stopped treatment because of stomach and bowel effects. ClinicalTrials.gov NCT03548935.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+            "label": "Wilding et al., STEP 1, N Engl J Med 2021",
+            "date": "published Mar 2021"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03548935",
+            "label": "STEP 1 registry record, ClinicalTrials.gov (NCT03548935)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2023 · Randomized trial",
+        "title": "SELECT: heart outcomes in people with obesity and heart disease",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, run until a set number of heart events had happened"
+          },
+          {
+            "k": "People",
+            "v": "17,604 adults aged 45 or older with existing heart or blood-vessel disease and a BMI of 27 or more. None had diabetes."
+          },
+          {
+            "k": "What was given",
+            "v": "a weekly 2.4 mg semaglutide injection or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "average follow-up 39.8 months"
+          },
+          {
+            "k": "Measured",
+            "v": "heart-related death, non-fatal heart attack or non-fatal stroke, counted together"
+          }
+        ],
+        "found": "The combined outcome happened in 6.5% of the semaglutide group and 8.0% of the placebo group (hazard ratio 0.80). 16.6% on semaglutide and 8.2% on placebo stopped the study drug for good because of side effects. ClinicalTrials.gov NCT03574597.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37952131/",
+            "label": "Lincoff et al., SELECT, N Engl J Med 2023",
+            "date": "published Dec 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The labels describe further trials behind the later approved uses: kidney outcomes in type 2 diabetes with chronic kidney disease (Ozempic) and liver disease called MASH (Wegovy). Those trials are summarized in each label's Clinical Studies section.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+            "label": "Ozempic injection label, DailyMed",
+            "date": "published Jun 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+            "label": "Wegovy injection and tablets label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In two-year studies, mice and rats given semaglutide under the skin developed more thyroid C-cell tumors, at exposures similar to those in people. It is not known whether this applies to humans. Semaglutide did not damage DNA in standard lab tests.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+            "label": "Wegovy injection and tablets label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Semaglutide is FDA approved under three brand names: Ozempic, Rybelsus and Wegovy. The compounded semaglutide Adonis carries through Beluga is not FDA approved. FDA says the semaglutide shortage ended in February 2025. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Ozempic (injection), first approved 2017:",
+            "text": "approved to improve blood sugar control in adults with type 2 diabetes, alongside diet and exercise. Also approved to lower the risk of major heart events in adults with type 2 diabetes and heart disease, and to lower the risk of kidney decline, kidney failure and heart-related death in adults with type 2 diabetes and chronic kidney disease.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+                "label": "Ozempic injection label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA209637",
+                "label": "Drugs@FDA data (openFDA), NDA 209637, Ozempic",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Rybelsus and Ozempic tablets, first approved 2019:",
+            "text": "one label covers both names. Approved to improve blood sugar control in adults with type 2 diabetes, and to lower the risk of major heart events in adults with type 2 diabetes at high risk.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
+                "label": "Rybelsus and Ozempic tablets label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213051",
+                "label": "Drugs@FDA data (openFDA), NDA 213051, Rybelsus / Ozempic tablets",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Wegovy injection, first approved 2021:",
+            "text": "approved, with diet and exercise, to lower the risk of major heart events in adults with heart disease and obesity or overweight; for long-term weight reduction in adults with obesity, adults with overweight and at least one weight-related condition, and children 12 and older with obesity; and for the liver disease MASH with moderate to advanced scarring in adults. The MASH use is an accelerated approval that depends on a confirmatory trial.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215256",
+                "label": "Drugs@FDA data (openFDA), NDA 215256, Wegovy injection",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Wegovy tablets, first approved 2025:",
+            "text": "approved for the same heart-risk and weight uses in adults.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA218316",
+                "label": "Drugs@FDA data (openFDA), NDA 218316, Wegovy tablets",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "Ozempic and Rybelsus are approved for type 2 diabetes, not for weight management. Using them for weight loss is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+                "label": "Ozempic injection label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
+                "label": "Rybelsus and Ozempic tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Shortage and compounding"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Shortage resolved:",
+            "text": "semaglutide injections were on FDA's shortage list from 2022. On February 21, 2025, FDA said the shortage was resolved. Grace periods for compounders followed. For state-licensed pharmacies (section 503A) it ended after a court denied an injunction on April 24, 2025. For outsourcing facilities (section 503B) it ran until May 22, 2025.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+                "label": "FDA: Clarifies policies for compounders as GLP-1 supply stabilizes",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Today:",
+            "text": "on April 1, 2026, FDA said semaglutide is not on its drug shortage list and not on the 503B bulks list.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+                "label": "FDA: Clarifies policies for compounders as GLP-1 supply stabilizes",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Copies of approved drugs:",
+            "text": "pharmacies may not regularly compound drugs that are essentially copies of a commercially available drug. FDA said it may consider a semaglutide injection combined with vitamin B12 to be essentially a copy when both amounts are within 10% of the strengths of available products, unless a prescriber documents a significant difference for an individual patient. FDA said it does not intend to act when a pharmacy fills four or fewer such prescriptions in a calendar month.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+                "label": "FDA: Clarifies policies for compounders as GLP-1 supply stabilizes",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Salt forms:",
+            "text": "FDA says semaglutide sodium and semaglutide acetate are different active ingredients from the one in the approved drugs, and it knows of no lawful basis for compounding with them.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Warning letters:",
+            "text": "on March 3, 2026, FDA announced 30 warning letters to telehealth companies over false or misleading claims about compounded GLP-1s, including claims that they are the same as approved drugs. A June 8, 2026 letter cited a site that called compounded semaglutide with B12 \"the FDA approved active ingredient\" combined with a vitamin and called its pharmacies \"FDA approved\". FDA said compounded drugs are not FDA approved and that pharmacies have no FDA-approved designation.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s",
+                "label": "FDA press release: 30 warning letters to telehealth companies",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/altru-telehealth-llc-dba-altru-telehealth-728274-06082026",
+                "label": "FDA warning letter, Altru Telehealth (MARCS-CMS 728274)",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Safety reports:",
+            "text": "as of May 31, 2026, FDA had received 990 adverse event reports tied to compounded semaglutide. FDA says these are likely underreported, because most pharmacies do not have to report them. FDA has also received reports, some needing hospital care, linked to dosing errors with compounded semaglutide.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded semaglutide is not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Semaglutide is an approved, prescription-only medicine in the US, the EU and the UK, and its brands are listed in Canada's drug database. Which brand is approved for which use differs by country. Australia's record could not be reached. It is not prohibited in sport.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Ozempic and Rybelsus for type 2 diabetes; Wegovy for weight and heart risk). Prescription-only. Compounded versions are not FDA approved.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+              "label": "Ozempic injection label, DailyMed",
+              "date": "published Jun 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+              "label": "Wegovy injection and tablets label, DailyMed",
+              "date": "published Jun 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Ozempic, Rybelsus and Wegovy (Novo Nordisk Canada) are listed in Health Canada's Drug Product Database.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=ozempic&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Ozempic",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=rybelsus&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Rybelsus",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=wegovy&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Wegovy",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Licensed medicine: Wegovy for weight management and heart risk; Ozempic and Rybelsus for type 2 diabetes. Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/publications/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know",
+              "label": "MHRA: GLP-1 medicines for weight loss and diabetes, what you need to know",
+              "date": "published Feb 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Authorised medicine: Ozempic (2018) and Rybelsus (2020) for type 2 diabetes; Wegovy (2022) for weight management.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic",
+              "label": "Ozempic EPAR, EMA",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus",
+              "label": "Rybelsus EPAR, EMA",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy",
+              "label": "Wegovy EPAR, EMA",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "USADA says GLP-1 medicines, including semaglutide, are not prohibited in sport and need no therapeutic use exemption. USADA says semaglutide and tirzepatide are in WADA's 2027 Monitoring Program, which takes effect January 1, 2027. Monitored substances are not prohibited; labs test for them so WADA can study their use. We could not open WADA's own list to confirm.",
+          "src": [
+            {
+              "url": "https://www.usada.org/spirit-of-sport/weight-loss-drugs-glp-1s/",
+              "label": "USADA: Weight loss drugs, what athletes need to know about GLP-1s",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/",
+              "label": "USADA: What's new on the 2027 WADA Prohibited List",
+              "date": "published Oct 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Every semaglutide label carries a boxed warning, FDA's strongest kind, about thyroid C-cell tumors. The most common side effects are stomach and bowel effects. The labels list other serious risks, below."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Boxed warning, thyroid tumors:",
+            "text": "in mice and rats, semaglutide caused thyroid C-cell tumors. It is not known if it causes these tumors, including medullary thyroid cancer, in people. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use it. Warning signs include a lump in the neck, trouble swallowing, shortness of breath and lasting hoarseness.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+                "label": "Ozempic injection label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
+                "label": "Rybelsus and Ozempic tablets label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pancreatitis:",
+            "text": "inflammation of the pancreas, including fatal cases, has been seen with GLP-1 medicines including Wegovy. The main sign is severe, lasting belly pain that may spread to the back.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://www.gov.uk/government/publications/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know",
+                "label": "MHRA: GLP-1 medicines for weight loss and diabetes, what you need to know",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Severe stomach and bowel effects:",
+            "text": "in adult weight trials, severe stomach and bowel side effects were reported in 4.1% on Wegovy injection and 0.9% on placebo. After approval, reports have included bowel blockage and severe constipation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Gallbladder disease:",
+            "text": "gallstones and gallbladder inflammation were more common on Wegovy than placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Kidney injury:",
+            "text": "there are reports of sudden kidney injury, some needing dialysis, mostly in people who became dehydrated from vomiting or diarrhea.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood sugar:",
+            "text": "the risk is higher when semaglutide is used with insulin or drugs that raise insulin release.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+                "label": "Ozempic injection label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "serious reactions, including anaphylaxis and swelling under the skin (angioedema), have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eye complications in type 2 diabetes:",
+            "text": "in SUSTAIN-6, diabetic retinopathy complications happened in 3% on semaglutide and 1.8% on placebo, more often in people who already had retinopathy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+                "label": "Marso et al., SUSTAIN-6, N Engl J Med 2016",
+                "date": "published Nov 2016"
+              }
+            ]
+          },
+          {
+            "lead": "Heart rate:",
+            "text": "Wegovy raised average resting heart rate by 1 to 4 beats per minute compared with placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Anesthesia:",
+            "text": "semaglutide slows stomach emptying. There are rare reports of stomach contents entering the lungs during general anesthesia or deep sedation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "the labels advise stopping semaglutide at least 2 months before a planned pregnancy because it stays in the body a long time.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+                "label": "Ozempic injection label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eye nerve (NAION):",
+            "text": "the UK regulator says semaglutide has, in very rare reports, been linked to a serious eye condition called NAION that can affect vision.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/government/publications/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know",
+                "label": "MHRA: GLP-1 medicines for weight loss and diabetes, what you need to know",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Most common (5% or more):",
+            "text": "nausea, diarrhea, vomiting, constipation, belly pain, abnormal skin sensations, headache, tiredness, indigestion, dizziness, bloating, burping, low blood sugar in people with type 2 diabetes, gas, stomach flu, acid reflux and hair loss (Wegovy label).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded products:",
+            "text": "FDA says many adverse events reported with compounded semaglutide look like those of the approved drug. It also warns about dosing mistakes, multi-dose vials kept beyond 28 days, and injections that arrive warm.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA's own web pages blocked automated access, so first-approval years come from FDA's Drugs@FDA dataset served through openFDA.",
+    "Australia's TGA website could not be reached, so semaglutide's status there (ARTG listing and the rules on compounding) is not shown.",
+    "WADA's website blocked access, so the 2026 and 2027 Prohibited Lists could not be opened; the sport status is taken from USADA.",
+    "The approved uses of Ozempic, Rybelsus and Wegovy in Canada were not checked; only their listing in the Drug Product Database was.",
+    "The years each later US use (heart, kidney, MASH, children) was added were not confirmed from FDA approval letters, so they are not given."
+  ],
+  "surprises": [
+    "FDA said in April 2026 that a semaglutide injection combined with vitamin B12 may count as essentially a copy of an approved drug, though adding B12 is often presented as making a compounded product different.",
+    "Compounding is often explained by the shortage, but FDA declared the semaglutide shortage resolved on February 21, 2025, and says semaglutide is not on its shortage list.",
+    "Some sellers call compounding pharmacies \"FDA approved\"; FDA says no such designation exists for pharmacies or outsourcing facilities.",
+    "The Wegovy label removed its warning section on suicidal behavior and ideation in February 2026.",
+    "Ozempic is widely used for weight loss, but its US label covers type 2 diabetes, heart and kidney uses only; the weight-management brand is Wegovy."
+  ]
+}

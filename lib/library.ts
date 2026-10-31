@@ -39,8 +39,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Human chorionic gonadotropin (hCG)' },
   ],
   weight: [
-    { name: 'Semaglutide', peptide: true },
-    { name: 'Tirzepatide', peptide: true },
+    { name: 'Semaglutide', peptide: true, page: { href: '/semaglutide', evidence: 'Approved; large RCTs', fda: 'Approved (Wegovy)', sport: 'Not prohibited' } },
+    { name: 'Tirzepatide', peptide: true, page: { href: '/tirzepatide', evidence: 'Approved; large RCTs', fda: 'Approved (Zepbound)', sport: 'Not prohibited' } },
   ],
   recovery: [
     { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved', sport: 'Banned' } },
