@@ -1,0 +1,102 @@
+{
+  "key": "vitality",
+  "headline": [
+    "The pill and",
+    "the troche."
+  ],
+  "dek": "Three ED drugs are FDA approved as tablets. The troches, gummies and combinations are not.",
+  "photoAlt": "Illustration for the Vitality lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "shield",
+      "label": "Approved for ED",
+      "line": "Sildenafil (Viagra, 1998), tadalafil (Cialis, 2003), vardenafil (Levitra, 2003)."
+    },
+    {
+      "icon": "mortar",
+      "label": "Compounded",
+      "line": "Troches, gums, gummies, strips and combinations: not FDA approved."
+    },
+    {
+      "icon": "people",
+      "label": "Not studied",
+      "line": "We found no published human study of the troche, gummy or oxytocin combinations."
+    }
+  ],
+  "paragraphs": [
+    "Three drugs for erectile dysfunction have been through FDA approval, and all three work the same way, by blocking an enzyme called PDE5. [[/sildenafil|Sildenafil]] was approved as Viagra on March 27, 1998. [[/tadalafil|Tadalafil]] followed as Cialis on November 21, 2003, and was later approved for the urinary symptoms of an enlarged prostate. [[/vardenafil|Vardenafil]] was approved as Levitra on August 19, 2003; that brand is now discontinued, and FDA found it was not withdrawn for safety or effectiveness reasons. Generic tablets of all three are approved.",
+    "The approvals rest on randomized trials run in thousands of men: 21 placebo-controlled trials of more than 3,000 men behind Viagra’s label, and 22 trials of more than 4,000 men behind Cialis’s. Those trials tested the approved tablets taken by mouth.",
+    "Much of what Adonis carries in this lane is something else. Through Beluga it offers sildenafil and tadalafil as gums, gummies, troches dissolved in the mouth and oral strips, and as combinations: tadalafil with [[/oxytocin|oxytocin]], and tadalafil with oxytocin and PT-141. These are compounded products, and they are not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold. A PubMed search for our pages found no published human study of sildenafil or tadalafil given as a gum, gummy or troche, or combined with oxytocin.",
+    "The two added ingredients are approved for other people and other uses. Oxytocin is approved only as an injection, Pitocin, for labor and bleeding after birth; an oxytocin nasal spray was once approved and withdrawn in 1997, and no oxytocin spray, strip or tablet is approved today. The human research on oxytocin and male sexual function is a few small studies, mostly a single dose. [[/bremelanotide|Bremelanotide (PT-141)]] is approved only as Vyleesi, an injection for premenopausal women with low sexual desire. Use of either in men is off-label.",
+    "The labels also warn about combining. The Viagra label says sildenafil must not be used with nitrates in any form, and that combinations with other PDE5 inhibitors or other ED treatments have not been studied and are not recommended. The Levitra label says the same of vardenafil combined with other ED treatments.",
+    "The last drug in the lane is an antidepressant. [[/sertraline|Sertraline]], sold as Zoloft since 1991, is approved for depression and five other psychiatric conditions, not for premature ejaculation; prescribing it for that is off-label. Small randomized trials of 36 to 147 men, mostly 4 to 8 weeks long, and a 2019 pooled analysis of 977 men found it lengthened time to ejaculation and raised the risk of stomach upset. Its label carries a boxed warning about suicidal thoughts in children, teenagers and young adults."
+  ],
+  "pull": {
+    "quote": "VYLEESI is not indicated for the treatment of HSDD in postmenopausal women or in men.",
+    "cite": "Vyleesi (bremelanotide) label, DailyMed",
+    "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf"
+  },
+  "sources": [
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020895",
+      "label": "Drugs@FDA, NDA 020895",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+      "label": "Viagra label, DailyMed",
+      "date": "published Feb 2026"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021368",
+      "label": "Drugs@FDA, NDA 021368",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895",
+      "label": "Cialis label, DailyMed",
+      "date": "published Jun 2026"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400",
+      "label": "Drugs@FDA, NDA 021400",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+      "label": "Levitra label, FDA",
+      "date": "published Mar 2023"
+    },
+    {
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+      "label": "FDA, Compounding and the FDA: Q&A",
+      "date": "published Sep 2025"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+      "label": "Pitocin label, DailyMed",
+      "date": "published May 2026"
+    },
+    {
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:\"NDA012285\"",
+      "label": "Drugs@FDA data (openFDA), Syntocinon nasal NDA 012285",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+      "label": "Vyleesi label, DailyMed",
+      "date": "published Nov 2025"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+      "label": "Zoloft label, DailyMed",
+      "date": "published Jul 2025"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31169738/",
+      "label": "Yi ZM, et al. Medicine (Baltimore) 2019;98(23):e15989",
+      "date": "published Jun 2019"
+    }
+  ]
+}
