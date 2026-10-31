@@ -1,0 +1,136 @@
+{
+  "key": "hair-loss",
+  "headline": [
+    "The spray FDA",
+    "warned about."
+  ],
+  "dek": "No topical finasteride is FDA approved. In 2025 FDA warned about the compounded ones.",
+  "photoAlt": "Illustration for the Hair loss lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "shield",
+      "label": "Approved",
+      "line": "Finasteride tablets (Propecia, 1997) and topical minoxidil (Rogaine, 1988)."
+    },
+    {
+      "icon": "mortar",
+      "label": "Compounded sprays",
+      "line": "Finasteride and minoxidil mixed with other drugs: not FDA approved.",
+      "src": {
+        "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+        "label": "FDA alert on compounded topical finasteride, Apr 2025"
+      }
+    },
+    {
+      "icon": "people",
+      "label": "Side effects",
+      "line": "Lower libido and erection problems on the label; suicidal thoughts added in the EU in 2025."
+    }
+  ],
+  "paragraphs": [
+    "In April 2025, FDA warned health care providers, compounders and consumers about compounded [[/finasteride|finasteride]] put on the scalp. It said some compounders and telemedicine platforms sell topical finasteride, alone or mixed with drugs such as minoxidil, and that there is no FDA-approved topical form. It had received 32 adverse event reports from 2019 to 2024, including erectile dysfunction, anxiety, suicidal thoughts, brain fog, depression and lower libido; most said the problems continued after stopping. FDA also noted that sprays have no tablet coating, so the drug can more easily pass to others, including women.",
+    "Adonis carries finasteride in exactly that kind of product. Its catalog lists a 1 mg tablet, oral strips that combine finasteride with [[/minoxidil|minoxidil]] and [[/biotin|biotin]], and four compounded hair sprays that combine finasteride with minoxidil and, in some, with [[/tretinoin|tretinoin]], [[/latanoprost|latanoprost]], [[/ketoconazole|ketoconazole]] or [[/fluocinolone|fluocinolone]]. One more minoxidil spray adds biotin and [[/melatonin|melatonin]] instead of finasteride. The strips and sprays are compounded and not FDA approved, and no trial has tested them. None of those added ingredients is approved for hair loss: they are approved for eye pressure, fungal infections and dandruff, acne and inflamed skin, or sold as supplements.",
+    "What is approved is narrower. FDA approved finasteride as Proscar, 5 mg for an enlarged prostate, in 1992, and as Propecia, 1 mg for male pattern hair loss in men only, on December 19, 1997, on three 12-month trials in 1,879 men. Topical minoxidil was approved as Rogaine in 1988 and is sold over the counter. Europe has authorised a finasteride skin spray nationally; the US has not.",
+    "Minoxidil tablets are approved only for severe high blood pressure. Taking them for hair loss is off-label, and the tablet label says so plainly: “Use of minoxidil tablets, in any formulation, to promote hair growth is not an approved indication.” The evidence for that use is one randomized trial of 90 men, small open-label studies and a large review of records.",
+    "Finasteride’s side effects are on its label. In the 12-month hair-loss trials, 3.8% of men on Propecia reported one or more sexual side effects, against 2.1% on placebo, including lower libido and erection problems. Since approval, reports describe sexual problems that continued after treatment ended, and FDA added erectile dysfunction that continued after stopping to the label in 2012. A 2022 safety labeling change added the risk of suicidal thoughts and behavior.",
+    "Europe went further in 2025. An EU review confirmed suicidal ideation as a side effect of finasteride 1 mg and 5 mg tablets; most cases were in men taking 1 mg for hair loss. The UK and EU advise men on 1 mg to stop and contact a doctor if they develop low mood or suicidal thoughts."
+  ],
+  "pull": {
+    "quote": "There are no FDA-approved topical products with finasteride alone or in combination with other ingredients.",
+    "cite": "FDA alert on compounded topical finasteride, Apr 2025",
+    "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded"
+  },
+  "sources": [
+    {
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
+      "label": "FDA alert on compounded topical finasteride",
+      "date": "published Apr 2025"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020788",
+      "label": "Drugs@FDA, NDA 020788",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+      "label": "Propecia label, DailyMed",
+      "date": "published Oct 2024"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020180",
+      "label": "Drugs@FDA, NDA 020180",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020788s020,s021,s023ltr.pdf",
+      "label": "FDA approval letter, Propecia S-020/021/023",
+      "date": "published Apr 2012"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/020788Orig1s030ltr.pdf",
+      "label": "FDA approval letter, Propecia S-030",
+      "date": "published Aug 2022"
+    },
+    {
+      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products",
+      "label": "EMA referral, finasteride and dutasteride",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction",
+      "label": "MHRA Drug Safety Update",
+      "date": "published May 2026"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019501",
+      "label": "Drugs@FDA, NDA 019501",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+      "label": "Minoxidil tablets label, DailyMed",
+      "date": "published Aug 2026"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38598226/",
+      "label": "Penha et al., JAMA Dermatology",
+      "date": "published Jun 2024"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32970299/",
+      "label": "Panchaprateep and Lueangarun, Dermatol Ther (Heidelb)",
+      "date": "published Dec 2020"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33639244/",
+      "label": "Vañó-Galván et al., J Am Acad Dermatol",
+      "date": "published Jun 2021"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a98595b3-9f47-48e0-b18d-550a2095f264",
+      "label": "Xalatan label, DailyMed",
+      "date": "published May 2023"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea56cddf-94c9-46b6-8791-995b741cfbd7",
+      "label": "Ketoconazole cream 2% label, DailyMed",
+      "date": "published Sep 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+      "label": "Retin-A label, DailyMed",
+      "date": "published May 2024"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5649e15a-6a7c-4752-ac28-01e453afb37e",
+      "label": "Fluocinolone acetonide topical solution label, DailyMed",
+      "date": "published Feb 2026"
+    },
+    {
+      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+      "label": "Questions and answers on dietary supplements, FDA",
+      "date": "published Aug 2026"
+    }
+  ]
+}
