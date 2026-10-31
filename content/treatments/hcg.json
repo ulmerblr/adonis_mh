@@ -1,0 +1,665 @@
+{
+  "slug": "hcg",
+  "name": "Human chorionic gonadotropin (hCG)",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Approved; few TRT studies",
+    "fda": "Approved (Novarel)",
+    "sport": "Banned (males)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Acts like LH on testis cells (label)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Novarel 1974; Pregnyl 1976",
+      "status": "done"
+    },
+    {
+      "title": "Biologic since 2020",
+      "line": "Deemed a biologics license, March 2020",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Studies with TRT",
+      "line": "Small studies: 29 men (2005), 26 men (2013)",
+      "status": "started"
+    },
+    {
+      "title": "Large trials with TRT",
+      "line": "None found in the records checked",
+      "status": "not"
+    },
+    {
+      "title": "Approval with TRT",
+      "line": "Not FDA approved for use with testosterone",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Human chorionic gonadotropin (hCG) is a hormone made by the placenta in pregnancy. It is a glycoprotein with two parts, an alpha and a beta subunit. The FDA-approved products, Novarel and Pregnyl, are purified from the urine of pregnant women.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+            "label": "Novarel label, DailyMed",
+            "date": "published Sep 2025"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+            "label": "Pregnyl label, DailyMed",
+            "date": "published Dec 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Its action is almost the same as luteinizing hormone (LH) from the pituitary gland, with a small amount of FSH-like activity.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "text": "In men it stimulates the Leydig cells of the testes to make androgens, including testosterone.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "text": "In boys it may help an undescended testis move down when nothing is physically blocking it. This is often temporary.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ]
+          },
+          {
+            "text": "The labels state that hCG has no known effect on fat mobilization, appetite, hunger or body fat distribution.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries"
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries one hCG product: an injection labelled 500 IU, a 30-day supply. We could not confirm whether it is an FDA-approved product or a compounded preparation. FDA says hCG has not been eligible for the compounding exemptions since March 23, 2020.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020",
+            "label": "FDA Notice to Compounders, March 2020",
+            "date": "published Mar 2020"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "hCG is approved for a few specific uses. Its use alongside testosterone to keep up testicular function or sperm production is off-label. The human studies of that use found in our search are small: a 3-week randomized study in 29 healthy men and a review of 26 patients’ records. Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2005 · Randomized trial",
+        "title": "Low-dose hCG and testicular testosterone, 2005 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, with a saline placebo group"
+          },
+          {
+            "k": "People",
+            "v": "29 healthy men with normal reproductive function"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly testosterone enanthate injections, plus either saline or one of three low doses of hCG every other day"
+          },
+          {
+            "k": "Length",
+            "v": "3 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "testosterone inside the testis, sampled by fine-needle aspiration"
+          }
+        ],
+        "found": "Testosterone alone cut testosterone inside the testis by 94%. Adding hCG raised it in step with the dose. The study did not measure sperm production or fertility.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15713727/",
+            "label": "Coviello et al., J Clin Endocrinol Metab, 2005",
+            "date": "published May 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Retrospective chart review",
+        "title": "hCG with testosterone therapy, 2013 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "retrospective review of records. No control group, no placebo."
+          },
+          {
+            "k": "People",
+            "v": "26 men with low testosterone, mean age 35.9; 19 on testosterone injections and 7 on gel, all also on low-dose hCG"
+          },
+          {
+            "k": "Length",
+            "v": "mean follow-up 6.2 months"
+          },
+          {
+            "k": "Measured",
+            "v": "hormone levels, semen tests and pregnancies"
+          }
+        ],
+        "found": "No differences in semen measures were seen during follow-up, and no man stopped producing sperm. Nine of the 26 men fathered a pregnancy with their partner. Without a control group, the study cannot show what would have happened without hCG.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23260550/",
+            "label": "Hsieh et al., J Urol, 2013",
+            "date": "published Feb 2013"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What the labels say about approved uses"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The labels say hCG has not been shown to be effective in treating obesity. There is no substantial evidence that it increases weight loss beyond calorie restriction, improves fat distribution, or reduces hunger on a diet.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "text": "For undescended testes, the labels say descent is permanent in some cases but temporary in most.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "hCG is FDA approved, as Novarel and Pregnyl, for undescended testes in boys, selected cases of hypogonadotropic hypogonadism in men, and ovulation induction in women. Since March 23, 2020 it has been regulated as a biologic. FDA says biologics are not eligible for the 503A and 503B compounding exemptions. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "approved January 15, 1974 (application 017016).",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/119229/download",
+                "label": "FDA list of NDAs deemed to be BLAs on March 23, 2020",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Novarel (Ferring):"
+          },
+          {
+            "text": "approved October 20, 1976 (application 017692).",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/119229/download",
+                "label": "FDA list of NDAs deemed to be BLAs on March 23, 2020",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ],
+            "lead": "Pregnyl (Organon):"
+          },
+          {
+            "text": "prepubertal cryptorchidism (undescended testis) not caused by a blockage; selected cases of hypogonadotropic hypogonadism (low testosterone from a pituitary problem) in men; and ovulation induction in certain infertile women after pretreatment. Use alongside testosterone therapy is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ],
+            "lead": "Approved uses (both labels):"
+          },
+          {
+            "text": "the labels say hCG has not been shown to work for obesity. FDA says hCG is not approved for weight loss and is not approved for use without a prescription for any purpose.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/avoid-dangerous-hcg-diet-products",
+                "label": "FDA, Avoid Dangerous HCG Diet Products",
+                "date": "published Jul 2020"
+              }
+            ],
+            "lead": "Not for weight loss:"
+          },
+          {
+            "text": "on March 23, 2020, approved applications for certain protein products, including reproductive hormones, were deemed to be biologics licenses. FDA’s list of these includes Novarel, Pregnyl and other chorionic gonadotropin products.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/guidance-compliance-regulatory-information/deemed-be-license-provision-bpci-act",
+                "label": "FDA, “Deemed to be a License” provision",
+                "date": "published Feb 2024"
+              },
+              {
+                "url": "https://www.fda.gov/media/119229/download",
+                "label": "FDA list of NDAs deemed to be BLAs on March 23, 2020",
+                "date": "accessed Oct 31, 2026"
+              }
+            ],
+            "lead": "Transition to a biologic:"
+          },
+          {
+            "text": "FDA told compounders that from March 23, 2020, these biologics are not eligible for the compounding exemptions in sections 503A and 503B. FDA named human chorionic gonadotropin as one of four affected substances outsourcing facilities had reported using. FDA pointed to separate guidance on when it does not intend to act on mixing, diluting or repackaging of biologics.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020",
+                "label": "FDA Notice to Compounders, March 2020",
+                "date": "published Mar 2020"
+              }
+            ],
+            "lead": "Compounding:"
+          },
+          {
+            "text": "no. hCG does not appear on DEA’s list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are sold."
+      },
+      {
+        "t": "p",
+        "text": "We could not confirm the source of the hCG injection Adonis carries.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "hCG is an authorised prescription medicine in the US and Canada. In the EU a recombinant form is authorised for women’s fertility treatment. It is banned for male athletes at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved biologic (Novarel, Pregnyl): undescended testis, hypogonadotropic hypogonadism in men, ovulation induction. Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+              "label": "Novarel label, DailyMed",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+              "label": "Pregnyl label, DailyMed",
+              "date": "published Dec 2025"
+            },
+            {
+              "url": "https://www.fda.gov/media/119229/download",
+              "label": "FDA list of NDAs deemed to be BLAs on March 23, 2020",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Authorised medicine (Pregnyl, marketed). Schedule D (biologic) and prescription.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=44257",
+              "label": "Health Canada Drug Product Database, Pregnyl status",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=44257",
+              "label": "Health Canada Drug Product Database, Pregnyl schedule",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Authorised medicine: Ovitrelle (choriogonadotropin alfa, a recombinant hCG), since 2001, for women in fertility treatment.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ovitrelle",
+              "label": "EMA, Ovitrelle EPAR",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (June 2026) lists human chorionic gonadotrophin in Schedule 4 (prescription-only), except in pregnancy test kits. We could not reach the TGA’s register to confirm which products are registered.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australian Poisons Standard, June 2026 (F2026L00633)",
+              "date": "published May 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The EU authorisation found is for Ovitrelle, which is used in women to trigger ovulation. We did not find an EU-wide authorisation of hCG for men.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ovitrelle",
+              "label": "EMA, Ovitrelle EPAR",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Chorionic gonadotrophin (CG) is prohibited at all times (in and out of competition) in males under class S2.2.1, testosterone-stimulating peptides, on the WADA 2026 Prohibited List. It is a non-Specified Substance. We could not open the 2027 list to check for changes.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The labels list headache, irritability, fatigue, depression, swelling, breast growth and injection-site pain, plus allergic reactions including anaphylaxis. In women, the main serious risk is ovarian hyperstimulation."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "headache, irritability, restlessness, depression, fatigue, edema (swelling), precocious puberty, gynecomastia (breast growth) and pain at the injection site.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Common reactions:"
+          },
+          {
+            "text": "redness, hives, rash, angioedema (deep swelling of the skin) and shortness of breath have been reported. The labels say it is unclear whether these come from the hormone or the benzyl alcohol diluent. Anaphylaxis has been reported with urine-derived hCG.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ],
+            "lead": "Allergic reactions:"
+          },
+          {
+            "text": "there have been sporadic reports of testicular tumors in healthy young men given hCG for secondary infertility. A causal link has not been established.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Fertility and the testes:"
+          },
+          {
+            "text": "the androgen rise can cause early puberty in boys treated for undescended testis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Boys:"
+          },
+          {
+            "text": "the labels advise caution in people with heart or kidney disease, epilepsy, migraine or asthma.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Fluid retention:"
+          },
+          {
+            "text": "hCG can interfere with blood tests for LH.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Lab tests:"
+          },
+          {
+            "text": "ovarian hyperstimulation syndrome, which can be life-threatening, ovarian cyst enlargement or rupture, multiple births and arterial blood clots, when used with other fertility drugs. hCG may harm a fetus.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e94155f-19be-4944-b197-be4edbb4faf9",
+                "label": "Pregnyl label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ],
+            "lead": "Women:"
+          },
+          {
+            "text": "the supplied diluent contains benzyl alcohol, linked to a fatal “gasping syndrome” in premature infants.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+                "label": "Novarel label, DailyMed",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Diluent:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not confirm whether the hCG injection Adonis carries is an FDA-approved product (such as Novarel or Pregnyl) or a compounded preparation.",
+    "MHRA’s product register needs JavaScript and could not be read, so UK status is not confirmed.",
+    "Australia’s TGA register (tga.gov.au) could not be reached, so we could not confirm which hCG products are registered there. Only the Poisons Standard scheduling is reported.",
+    "We could not open WADA’s 2027 Prohibited List, so any 2027 change is not reported.",
+    "We did not find a large randomized trial of hCG given with testosterone therapy. Our search was limited to the two studies reported."
+  ],
+  "surprises": [
+    "The FDA labels say hCG has not been shown to help with weight loss, and FDA warns consumers to avoid hCG diet products. hCG is still widely sold for weight loss.",
+    "Since March 23, 2020, hCG is a biologic, and FDA says biologics are not eligible for the 503A and 503B compounding exemptions. FDA named hCG as affected. “Compounded hCG” is still commonly advertised.",
+    "Using hCG to keep up sperm production during testosterone therapy is off-label. The studies behind it are small: 29 men for 3 weeks (testicular testosterone only, no sperm measures) and a 26-man record review with no control group.",
+    "The labels report sporadic testicular tumors in young men given hCG for infertility (no causal link established), which is rarely mentioned in marketing."
+  ]
+}

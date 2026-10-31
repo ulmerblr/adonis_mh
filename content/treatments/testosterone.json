@@ -1,0 +1,805 @@
+{
+  "slug": "testosterone",
+  "name": "Testosterone",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Approved; large RCTs",
+    "fda": "Approved (since 1953)",
+    "sport": "Banned"
+  },
+  "track": [
+    {
+      "title": "FDA approval",
+      "line": "First US approval of testosterone, 1953",
+      "status": "done"
+    },
+    {
+      "title": "Injection",
+      "line": "Depo-Testosterone (cypionate), approved 1979",
+      "status": "done"
+    },
+    {
+      "title": "Gels",
+      "line": "AndroGel 1% approved 2000; 1.62% in 2011",
+      "status": "done"
+    },
+    {
+      "title": "Large trials",
+      "line": "T Trials (790 men); TRAVERSE (5,246 men)",
+      "status": "done"
+    },
+    {
+      "title": "Label update",
+      "line": "Feb 2025: TRAVERSE and blood pressure added",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Compounded forms",
+      "line": "Creams and sprays: not FDA approved",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Testosterone is the main male sex hormone. It is a steroid made mostly in the testes. Testosterone cypionate is a longer-acting form, an ester of testosterone, given into the muscle.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+            "label": "Depo-Testosterone label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "It drives the growth of the male sex organs and keeps up male traits such as body hair, a deeper voice, muscle and fat distribution.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "In many tissues it works after being converted to dihydrotestosterone (DHT), which binds receptors inside cells.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "Androgens have been reported to raise red blood cell production.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "Testosterone taken from outside the body shuts down the body’s own signal (LH) to make testosterone. At large doses it also shuts down FSH, which can suppress sperm production.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries"
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries testosterone in three forms: creams applied to the skin, sprays, and testosterone cypionate given by injection. The creams and sprays are compounded products. They are not FDA approved. We could not confirm whether Adonis’s cypionate injections are the FDA-approved product or a compounded version.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Testosterone has been studied in large randomized trials. The largest, TRAVERSE, followed 5,246 men for about three years and looked at heart safety. It did not test whether testosterone helps symptoms. Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2018 to 2023 · Randomized trial",
+        "title": "TRAVERSE: heart safety, 2023 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, multicenter. Built to show testosterone was not worse than placebo for heart events (noninferiority). Funded by AbbVie and others."
+          },
+          {
+            "k": "People",
+            "v": "5,246 men aged 45 to 80 with heart disease or high heart risk, symptoms of low testosterone, and two fasting testosterone levels under 300 ng/dL"
+          },
+          {
+            "k": "What was given",
+            "v": "daily 1.62% testosterone gel or placebo gel"
+          },
+          {
+            "k": "Length",
+            "v": "mean treatment 21.7 months; mean follow-up 33.0 months"
+          },
+          {
+            "k": "Measured",
+            "v": "first heart attack, stroke or death from heart causes (MACE)"
+          }
+        ],
+        "found": "MACE occurred in 7.0% of the testosterone group and 7.3% of the placebo group (hazard ratio 0.96). Testosterone met the noninferiority test. Atrial fibrillation, acute kidney injury and pulmonary embolism were more common with testosterone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/",
+            "label": "Lincoff et al., NEJM, 2023 (TRAVERSE)",
+            "date": "published Jul 2023"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03518034",
+            "label": "NCT03518034, ClinicalTrials.gov",
+            "date": "published Mar 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Sub-study of a randomized trial",
+        "title": "TRAVERSE fractures sub-study, 2024 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "sub-study of TRAVERSE; randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "5,204 men (2,601 testosterone, 2,603 placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "median follow-up 3.19 years"
+          },
+          {
+            "k": "Measured",
+            "v": "clinical fractures, checked against medical records"
+          }
+        ],
+        "found": "Fractures occurred in 3.50% of the testosterone group and 2.46% of the placebo group (hazard ratio 1.43). Testosterone did not lower fractures.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38231621/",
+            "label": "Snyder et al., NEJM, 2024",
+            "date": "published Jan 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2016 · Randomized trial",
+        "title": "Testosterone Trials in older men, 2016 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled; three linked trials (sexual function, physical function, vitality). Funded by the National Institutes of Health and others."
+          },
+          {
+            "k": "People",
+            "v": "790 men aged 65 or older with testosterone under 275 ng/dL and symptoms"
+          },
+          {
+            "k": "What was given",
+            "v": "testosterone gel or placebo gel"
+          },
+          {
+            "k": "Length",
+            "v": "1 year"
+          },
+          {
+            "k": "Measured",
+            "v": "sexual activity and function, walking distance, fatigue, mood"
+          }
+        ],
+        "found": "Sexual activity, desire and erectile function scores rose more on testosterone. Mood and depressive symptom scores were slightly better. There was no difference in vitality (fatigue score), and no difference in walking distance in the physical function trial itself. The authors said the trial was too small to judge risks.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26886521/",
+            "label": "Snyder et al., NEJM, 2016 (Testosterone Trials)",
+            "date": "published Feb 2016"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "10 centres, 7 countries · 1990 · Single-arm efficacy study",
+        "title": "Testosterone and sperm production, 1990 (WHO)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicentre study of testosterone injections as male contraception. No placebo group."
+          },
+          {
+            "k": "People",
+            "v": "271 healthy fertile men"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly testosterone enanthate injections"
+          },
+          {
+            "k": "Length",
+            "v": "up to 6 months to suppress sperm, then a 12-month phase"
+          },
+          {
+            "k": "Measured",
+            "v": "sperm counts and pregnancies"
+          }
+        ],
+        "found": "157 men stopped producing sperm in three semen samples in a row. After injections stopped, the median time back to a normal sperm count was 3.7 months.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/",
+            "label": "WHO Task Force, Lancet, 1990",
+            "date": "published Oct 1990"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA reviewed TRAVERSE and, in February 2025, told makers of all testosterone products to add its results to their labels and remove Boxed Warning language about a higher risk of heart outcomes. FDA kept the statement that use for age-related low testosterone is not established.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+                "label": "FDA class-wide labeling changes for testosterone",
+                "date": "published Feb 2025"
+              }
+            ]
+          },
+          {
+            "text": "The labels say safety and efficacy in men with “age-related hypogonadism” have not been established.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "text": "The Depo-Testosterone label says the drug has not been shown to be safe and effective for improving athletic performance.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Testosterone is an FDA-approved medicine for men with low testosterone caused by a medical condition (hypogonadism). It is a Schedule III controlled substance. The compounded creams and sprays Adonis carries are not FDA approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA lists the first US approval of testosterone as 1953. Approved forms include gels, a patch, a buccal system, oral products and injections.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+                "label": "FDA class-wide labeling changes for testosterone",
+                "date": "published Feb 2025"
+              }
+            ],
+            "lead": "FDA approval:"
+          },
+          {
+            "text": "approved in 1979 under application ANDA 085635. It is approved for replacement therapy in men with primary hypogonadism or hypogonadotropic hypogonadism.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.brand_name:%22DEPO-TESTOSTERONE%22",
+                "label": "Drugs@FDA data (openFDA), Depo-Testosterone",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Depo-Testosterone (testosterone cypionate injection, Pfizer):"
+          },
+          {
+            "text": "AndroGel 1% was approved in 2000 and AndroGel 1.62% in 2011, for the same two kinds of hypogonadism in adult men.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021015",
+                "label": "Drugs@FDA data (openFDA), AndroGel 1%",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022309",
+                "label": "Drugs@FDA data (openFDA), AndroGel 1.62%",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ],
+            "lead": "AndroGel (testosterone gel):"
+          },
+          {
+            "text": "use in men whose testosterone is low only because of age (“age-related” or “late-onset” hypogonadism), and use in males under 18 (AndroGel). Use outside the labeled conditions is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ],
+            "lead": "Not established:"
+          },
+          {
+            "text": "topical testosterone gels carry a boxed warning for secondary exposure. Children have developed male traits after touching unwashed or uncovered skin where a man applied gel.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ],
+            "lead": "Boxed warning on gels:"
+          },
+          {
+            "text": "on February 28, 2025, FDA told makers of all testosterone products to add TRAVERSE results, remove the Boxed Warning language about higher heart-outcome risk, and add or update warnings that testosterone can raise blood pressure. FDA said blood pressure studies confirmed an increase class-wide.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+                "label": "FDA class-wide labeling changes for testosterone",
+                "date": "published Feb 2025"
+              }
+            ],
+            "lead": "2025 class labeling change:"
+          },
+          {
+            "text": "yes. Testosterone, with its salts and esters, is a Schedule III anabolic steroid under federal law.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-29/title-21.xml?part=1308&section=1308.13",
+                "label": "21 CFR 1308.13 (Schedule III), eCFR",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are sold."
+      },
+      {
+        "t": "p",
+        "text": "This applies to the testosterone creams and sprays Adonis carries. We could not confirm whether Adonis’s testosterone cypionate injections are the FDA-approved product or compounded.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Testosterone is an authorised prescription medicine for hypogonadism in the US, Canada, the UK and the EU. It is a controlled drug in the US and Canada. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / DEA",
+          "status": "Approved medicine (e.g. Depo-Testosterone, AndroGel) for hypogonadism. Prescription-only; Schedule III controlled substance.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+              "label": "Depo-Testosterone label, DailyMed",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+              "label": "AndroGel 1.62% label, DailyMed",
+              "date": "published Nov 2025"
+            },
+            {
+              "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-29/title-21.xml?part=1308&section=1308.13",
+              "label": "21 CFR 1308.13 (Schedule III), eCFR",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Authorised medicine (AndroGel 1% pump, marketed). The database lists Depo-Testosterone as a controlled drug (CDSA Schedule IV) and its 100 mg/mL product as cancelled post-market (July 2025).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=73432",
+              "label": "Health Canada Drug Product Database, AndroGel (DIN 02249499)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=androgel",
+              "label": "Health Canada Drug Product Database, AndroGel products",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=1398",
+              "label": "Health Canada Drug Product Database, Depo-Testosterone schedule",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=1398",
+              "label": "Health Canada Drug Product Database, Depo-Testosterone status",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised medicine. MHRA says topical testosterone products are authorised for men with hypogonadism.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/topical-testosterone-testogel-risk-of-harm-to-children-following-accidental-exposure",
+              "label": "MHRA Drug Safety Update, topical testosterone",
+              "date": "published Jan 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in member states for hypogonadism. Restoring levels in healthy older men is not an authorised use.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/news/no-consistent-evidence-increased-risk-heart-problems-testosterone-medicines",
+              "label": "EMA / CMDh press release on testosterone",
+              "date": "published Nov 2014"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (June 2026) lists testosterone in Schedule 4 (prescription-only) and in Appendix D, clause 5, for anabolic and androgenic steroids. Under that clause it must not be possessed without authority under local law. We could not reach the TGA’s register to confirm which products are registered.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australian Poisons Standard, June 2026 (F2026L00633)",
+              "date": "published May 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2014 the EU’s CMDh, after a PRAC review, found no consistent evidence of a higher heart risk in men with hypogonadism, and asked for warnings that low testosterone be confirmed by symptoms and lab tests before treatment.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/news/no-consistent-evidence-increased-risk-heart-problems-testosterone-medicines",
+              "label": "EMA / CMDh press release on testosterone",
+              "date": "published Nov 2014"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Testosterone is prohibited at all times (in and out of competition) under class S1, anabolic agents, on the WADA 2026 Prohibited List, when given from outside the body. It is a non-Specified Substance. We could not open the 2027 list to check for changes.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The labels list serious risks, including blood clots, higher blood pressure, higher red blood cell counts, worsening prostate symptoms and lower sperm production. Gels can pass testosterone to children and women by skin contact."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "at large doses, testosterone can suppress sperm production through feedback on FSH, lowering sperm count. Oligospermia (low sperm count) may occur. Subfertility, infertility and testicular shrinkage are reported with abuse.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Fertility:"
+          },
+          {
+            "text": "children exposed to a man’s gel have had genital enlargement, pubic hair, more erections, aggressive behavior and advanced bone age. In a few cases changes did not fully reverse. Women can develop male traits. Testosterone can harm a female fetus.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://www.gov.uk/drug-safety-update/topical-testosterone-testogel-risk-of-harm-to-children-following-accidental-exposure",
+                "label": "MHRA Drug Safety Update, topical testosterone",
+                "date": "published Jan 2023"
+              }
+            ],
+            "lead": "Secondary exposure (gels):"
+          },
+          {
+            "text": "in a blood pressure monitoring study, AndroGel 1.62% raised average blood pressure by 1.9/1.3 mm Hg after 16 weeks, and by 3.0/2.2 mm Hg in men on blood pressure drugs. Testosterone is not recommended with uncontrolled high blood pressure.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+                "label": "FDA class-wide labeling changes for testosterone",
+                "date": "published Feb 2025"
+              }
+            ],
+            "lead": "Blood pressure:"
+          },
+          {
+            "text": "heart attack, stroke and heart death were similar (7.0% vs 7.3%). Non-fatal arrhythmias needing treatment (5.2% vs 3.3%), atrial fibrillation (3.5% vs 2.4%), acute kidney injury (2.3% vs 1.5%) and bone fracture (3.5% vs 2.5%) were more common with testosterone.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/",
+                "label": "Lincoff et al., NEJM, 2023 (TRAVERSE)",
+                "date": "published Jul 2023"
+              }
+            ],
+            "lead": "Heart and kidney events in TRAVERSE:"
+          },
+          {
+            "text": "deep vein thrombosis and pulmonary embolism have been reported. In TRAVERSE, clots occurred in 1.7% on testosterone vs 1.2% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Blood clots:"
+          },
+          {
+            "text": "higher hemoglobin and hematocrit (polycythemia). The labels say to check these periodically.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ],
+            "lead": "Blood:"
+          },
+          {
+            "text": "worsening of an enlarged prostate and a possible risk of prostate cancer. Not for men with breast or known or suspected prostate cancer. Breast growth (gynecomastia) may develop.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Prostate and breast:"
+          },
+          {
+            "text": "fluid retention and swelling, sleep apnea, lipid changes, liver effects with long high-dose use of some androgens, acne, mood changes, and changes in libido.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+                "label": "AndroGel 1.62% label, DailyMed",
+                "date": "published Nov 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Other label warnings:"
+          },
+          {
+            "text": "abuse at high doses has been linked to heart attack, heart failure, stroke, liver damage and serious psychiatric effects. Stopping after high doses can cause withdrawal symptoms such as depression and fatigue.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Abuse and dependence:"
+          },
+          {
+            "text": "pain and inflammation at the injection site. The cypionate injection contains benzyl alcohol, which has been linked to serious reactions in newborns.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+                "label": "Depo-Testosterone label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Injection:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not confirm whether the testosterone cypionate injections Adonis carries are the FDA-approved product (such as Depo-Testosterone) or a compounded version. The creams and sprays are compounded and not FDA approved.",
+    "The Drugs@FDA website blocked automated access; approval dates come from FDA’s own Drugs@FDA data through openFDA.",
+    "Australia’s TGA register (tga.gov.au) could not be reached, so we could not confirm which testosterone products are registered there. Only the Poisons Standard scheduling is reported.",
+    "MHRA’s product register needs JavaScript and could not be read. The UK status comes from an MHRA Drug Safety Update only.",
+    "We could not open WADA’s 2027 Prohibited List, so any 2027 change is not reported.",
+    "Canada’s Controlled Drugs and Substances Act text (Justice Laws) could not be opened. The CDSA Schedule IV status comes from Health Canada’s product database."
+  ],
+  "surprises": [
+    "FDA removed Boxed Warning language about a higher risk of heart outcomes in February 2025, after TRAVERSE. But it also required new or updated warnings that testosterone raises blood pressure, and the label now lists more atrial fibrillation, kidney injury, clots and fractures on testosterone than placebo. The trial does not support either “testosterone causes heart attacks” or “testosterone has no heart risks.”",
+    "Every label checked says safety and efficacy in “age-related” low testosterone have not been established, and the EU says restoring levels in healthy older men is not an authorised use. Testosterone is often marketed for aging men.",
+    "Testosterone from outside the body suppresses sperm production. WHO tested weekly testosterone injections as a male contraceptive. It does not raise fertility.",
+    "In the TRAVERSE sub-study, fractures were more common on testosterone (3.50% vs 2.46%), not less, despite common claims that it protects bones.",
+    "Health Canada’s database lists Depo-Testosterone 100 mg/mL as cancelled post-market in July 2025."
+  ]
+}

@@ -33,10 +33,10 @@ export type Treatment = {
 
 export const TREATMENTS: Record<LaneKey, Treatment[]> = {
   trt: [
-    { name: 'Testosterone' },
-    { name: 'Enclomiphene' },
-    { name: 'Anastrozole' },
-    { name: 'Human chorionic gonadotropin (hCG)' },
+    { name: 'Testosterone', page: { href: '/testosterone', evidence: 'Approved; large RCTs', fda: 'Approved (since 1953)', sport: 'Banned' } },
+    { name: 'Enclomiphene', page: { href: '/enclomiphene', evidence: 'Phase 3; hormone endpoints', fda: 'Not approved', sport: 'Banned (S4)' } },
+    { name: 'Anastrozole', page: { href: '/anastrozole', evidence: 'Approved; small male RCTs', fda: 'Approved (Arimidex)', sport: 'Banned (S4)' } },
+    { name: 'Human chorionic gonadotropin (hCG)', page: { href: '/hcg', evidence: 'Approved; few TRT studies', fda: 'Approved (Novarel)', sport: 'Banned (males)' } },
   ],
   weight: [
     { name: 'Semaglutide', peptide: true, page: { href: '/semaglutide', evidence: 'Approved; large RCTs', fda: 'Approved (Wegovy)', sport: 'Not prohibited' } },

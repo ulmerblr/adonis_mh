@@ -1,0 +1,833 @@
+{
+  "slug": "enclomiphene",
+  "name": "Enclomiphene",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Phase 3; hormone endpoints",
+    "fda": "Not approved",
+    "sport": "Banned (S4)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and dog toxicity studies (EMA review)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Open-label, 12 men, vs testosterone gel (2013)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Repros drug-level, food, organ and heart studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Several Repros trials, 2008 to 2017",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "ZA-301 to ZA-305, 2012 to 2014; hormones, sperm",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; complete response letter, Nov 2015",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Enclomiphene (also spelled enclomifene) is one of the two isomers that make up clomiphene citrate, a fertility drug. Clomiphene is about 62% enclomiphene and 38% zuclomiphene. Enclomiphene citrate was developed by Repros Therapeutics under the name Androxal.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23875626/",
+            "label": "Wiehle et al., BJU Int",
+            "date": "published Jul 2013"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is a selective estrogen receptor modulator (SERM). It blocks estrogen's signal at the brain, so the pituitary releases more LH and FSH. Those hormones tell the testes to make their own testosterone and sperm. This is different from testosterone therapy, which lowers LH and FSH.",
+        "src": [
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/encyzix",
+            "label": "EMA, EnCyzix (enclomifene): refused",
+            "date": "published Jan 2018"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+            "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+            "date": "published Apr 2018"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23875626/",
+            "label": "Wiehle et al., BJU Int",
+            "date": "published Jul 2013"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "EMA's medicines committee judged that enclomifene is not a new active substance, because it does not differ significantly in safety or efficacy from clomifene, which is already authorised in the EU.",
+        "src": [
+          {
+            "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+            "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+            "date": "published Apr 2018"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries (form only)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Capsules:",
+            "text": "compounded enclomiphene capsules, 12.5 mg and 25 mg, taken by mouth. They are not FDA approved; no enclomiphene product is."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Enclomiphene is not approved as a medicine by the FDA or in the EU. Its use for low testosterone is not an approved use anywhere checked."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Repros Therapeutics, the developer, ran nearly all the human trials between 2008 and 2017. They measured blood hormones and sperm counts. None of the trials submitted to EMA used validated measures of symptoms such as libido, erections, energy or bone. EMA counted 1,403 men who took at least one dose in Phase 2 and 3."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Open-label randomized trial",
+        "title": "Enclomiphene vs testosterone gel, 12 men (Kaminetsky et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "proof-of-principle, randomized, open-label, active-controlled Phase IIB study at two centers"
+          },
+          {
+            "k": "People",
+            "v": "12 men with secondary hypogonadism previously treated with testosterone gel"
+          },
+          {
+            "k": "Length",
+            "v": "6 months, with follow-up after stopping"
+          },
+          {
+            "k": "Measured",
+            "v": "total testosterone, estradiol, LH, FSH, other hormones, sperm counts"
+          }
+        ],
+        "found": "At 6 months, testosterone was similar on gel and on enclomiphene. Only the enclomiphene group had higher LH and FSH, and sperm counts rose in that group. Testosterone fell back to pre-treatment levels one month after stopping. Funded by Repros.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23530575/",
+            "label": "Kaminetsky et al., J Sex Med",
+            "date": "published Jun 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Randomized, single-blind",
+        "title": "Three doses vs AndroGel, 24-hour hormone profiles (Wiehle et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, single-blind, two-center Phase II study"
+          },
+          {
+            "k": "People",
+            "v": "48 men enrolled with low testosterone (under 350 ng/dL) and low to normal LH; 44 completed per protocol"
+          },
+          {
+            "k": "What was given",
+            "v": "enclomiphene at one of three doses, or AndroGel"
+          },
+          {
+            "k": "Length",
+            "v": "6 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "testosterone and LH every hour for 24 hours on day 1 and day 42; other hormones, lipids, bone markers"
+          }
+        ],
+        "found": "All enclomiphene doses raised testosterone, and LH and FSH rose above the normal range. The gel raised testosterone and lowered LH. Enclomiphene did not change TSH, cortisol, lipids or bone markers. Both treatments lowered IGF-1, more so with enclomiphene. Written by Repros staff.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23875626/",
+            "label": "Wiehle et al., BJU Int",
+            "date": "published Jul 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2011 · Randomized, double-blind (ZA-203)",
+        "title": "Enclomiphene vs Testim vs placebo (Wiehle et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo- and active-controlled Phase IIb study, many centers"
+          },
+          {
+            "k": "People",
+            "v": "men with secondary hypogonadism; the registry lists 83 enrolled"
+          },
+          {
+            "k": "What was given",
+            "v": "enclomiphene at two doses, Testim testosterone gel, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "morning testosterone, LH, FSH, estradiol, semen analysis"
+          }
+        ],
+        "found": "Enclomiphene raised morning testosterone, estradiol and LH to levels similar to the gel, and sperm counts were kept. The paper's abstract gives no group sizes. Run by Repros.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25044085/",
+            "label": "Wiehle et al., Fertil Steril",
+            "date": "published Sep 2014"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01270841",
+            "label": "ClinicalTrials.gov NCT01270841 (ZA-203)",
+            "date": "published Jul 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 to 2013 · Randomized, double-blind (ZA-301, ZA-302)",
+        "title": "Two Phase III trials vs placebo, overweight men",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two randomized, double-blind, placebo-controlled Phase III trials, many centers"
+          },
+          {
+            "k": "People",
+            "v": "151 (ZA-301) and 181 (ZA-302) overweight men aged 18 to 60, testosterone under 300 ng/dL twice, normal sperm count"
+          },
+          {
+            "k": "Length",
+            "v": "3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "share of men with testosterone in the normal range; share with a 50% or greater drop in sperm concentration"
+          }
+        ],
+        "found": "On enclomiphene, 78.8% (ZA-301) and 81.3% (ZA-302) of men had testosterone in the normal range; the registry gives no placebo figure for this. A 50% or greater drop in sperm concentration happened in 14.2% on enclomiphene vs 2.6% (ZA-301) and 4.3% (ZA-302) on placebo. Results posted by Repros; no journal paper was found.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01532414",
+            "label": "ClinicalTrials.gov NCT01532414 (ZA-301)",
+            "date": "published May 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01739595",
+            "label": "ClinicalTrials.gov NCT01739595 (ZA-302)",
+            "date": "published May 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2014 · Randomized, double-blind (ZA-304, ZA-305)",
+        "title": "Two Phase III trials vs AndroGel 1.62% and placebo (Kim et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two parallel randomized, double-blind, double-dummy, placebo-controlled Phase III trials"
+          },
+          {
+            "k": "People",
+            "v": "overweight men aged 18 to 60 with testosterone at or below 300 ng/dL and LH under 9.4 IU/L; 120 enrolled in each trial (registry)"
+          },
+          {
+            "k": "Length",
+            "v": "16 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "total testosterone, LH, FSH, sperm concentration"
+          }
+        ],
+        "found": "Testosterone rose in all treatment groups. LH and FSH rose on enclomiphene and fell on the gel. Sperm concentration stayed in the normal range on enclomiphene and fell markedly on the gel. FDA's 2022 review notes the authors listed the lack of patient-reported outcomes as a limitation. No results are posted on the registry.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26496621/",
+            "label": "Kim et al., BJU Int",
+            "date": "published Apr 2016"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01993212",
+            "label": "ClinicalTrials.gov NCT01993212 (ZA-304)",
+            "date": "published Oct 2014"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01993225",
+            "label": "ClinicalTrials.gov NCT01993225 (ZA-305)",
+            "date": "published Oct 2014"
+          },
+          {
+            "url": "https://www.fda.gov/media/158541/download",
+            "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+            "date": "published May 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 to 2013 · Open-label safety study (ZA-300)",
+        "title": "Six-month open-label safety study",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, non-randomized, dose-escalating Phase III safety study"
+          },
+          {
+            "k": "People",
+            "v": "499 men aged 18 to 65 with secondary hypogonadism; 393 completed"
+          },
+          {
+            "k": "Length",
+            "v": "6 months, with 8 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "change in testosterone, LH, FSH, fasting glucose, BMI; adverse events"
+          }
+        ],
+        "found": "Mean morning testosterone rose by 281 ng/dL (lower-dose group) and 215 ng/dL (higher-dose group). LH and FSH rose. There was no placebo group. Serious adverse events are listed under side effects.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01534208",
+            "label": "ClinicalTrials.gov NCT01534208 (ZA-300)",
+            "date": "published Jul 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2016 to 2017 · Randomized, double-blind (ZA-205)",
+        "title": "Body composition with diet and exercise, 48 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase II trial; everyone followed a diet and exercise plan"
+          },
+          {
+            "k": "People",
+            "v": "50 obese men with acquired hypogonadotropic hypogonadism; 40 completed"
+          },
+          {
+            "k": "Length",
+            "v": "up to 12 months (outcomes at week 48)"
+          },
+          {
+            "k": "Measured",
+            "v": "lean body mass, chest and leg press strength, hormones, weight, blood sugar and inflammation markers"
+          }
+        ],
+        "found": "Testosterone and DHT rose more on enclomiphene than placebo. Lean body mass and strength did not differ from placebo. The placebo group lost more weight (14.5 kg) than the enclomiphene groups (4.4 and 6.2 kg).",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02651688",
+            "label": "ClinicalTrials.gov NCT02651688 (ZA-205)",
+            "date": "published Jun 2019"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 12-month Phase III study of bone mineral density in 300 men (ZA-303) was completed in 2014 but has no results posted.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01619683",
+            "label": "ClinicalTrials.gov NCT01619683 (ZA-303)",
+            "date": "published Oct 2014"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats and dogs, enclomiphene caused dose-related effects that FDA called an exaggerated SERM action, including lower body weight and smaller prostate and pituitary glands. In a 9-month dog study, eye findings led EMA to set the no-adverse-effect level at the lowest dose tested. EMA also judged that the human metabolites had not been fully characterised for long-term use.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/158541/download",
+            "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+            "date": "published May 2022"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+            "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+            "date": "published Apr 2018"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "EMA (2018):",
+            "text": "testosterone rose, but there was no evidence of benefit on symptoms or signs of hypogonadism, and there was a risk of venous blood clots. Benefits did not outweigh risks. A minority of CHMP members disagreed.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-encyzix-enclomifene_en.pdf",
+                "label": "EMA, questions and answers on the EnCyzix refusal",
+                "date": "published Jan 2018"
+              }
+            ]
+          },
+          {
+            "lead": "FDA (2022):",
+            "text": "FDA's review found insufficient information that enclomiphene is effective for this use, because raising testosterone alone has not been shown to give clinical benefit. FDA said testosterone is not a validated surrogate endpoint in these men.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/158541/download",
+                "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+                "date": "published May 2022"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Enclomiphene is not FDA approved for any use. FDA did not approve Repros's application in 2015. It sits in FDA's 503A Category 1, so while FDA evaluates it, FDA does not intend to act against pharmacies that compound it under set conditions. FDA has recommended against adding it to the 503A list. That is enforcement discretion, not approval. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "New drug application:",
+            "text": "NDA 207959 for enclomiphene citrate 12.5 mg and 25 mg capsules, for secondary hypogonadism in men under 60 with a BMI over 25. FDA scheduled an advisory committee meeting on it for November 3, 2015.",
+            "src": [
+              {
+                "url": "https://www.federalregister.gov/documents/2015/08/20/2015-20540/bone-reproductive-and-urologic-drugs-advisory-committee-notice-of-meeting",
+                "label": "Federal Register, FDA advisory committee notice, NDA 207959",
+                "date": "published Aug 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Complete response letter:",
+            "text": "FDA's 2022 briefing records that in December 2015 Repros announced a complete response letter from FDA. FDA had found the Phase III design no longer adequate to show clinical benefit, recommended one or more additional Phase III studies, and noted concerns about study entry criteria, titration and lab method validation.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/158541/download",
+                "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "503A compounding:",
+            "text": "enclomiphene citrate is on FDA's Category 1 list (bulk substances under evaluation), updated May 14, 2026. For Category 1, FDA does not intend to take action against compounders who meet the guidance conditions while it decides. That is enforcement discretion, not approval.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA's advisory committee:",
+            "text": "on June 8, 2022, FDA proposed that enclomiphene citrate NOT be added to the 503A bulks list. Its Pharmacy Compounding Advisory Committee voted 8 to 4 against adding it. Members voting no cited a lack of efficacy evidence.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/161293/download",
+                "label": "FDA, PCAC meeting minutes, June 8, 2022",
+                "date": "published Aug 2022"
+              },
+              {
+                "url": "https://www.fda.gov/media/158541/download",
+                "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+                "date": "published May 2022"
+              },
+              {
+                "url": "https://www.federalregister.gov/documents/2022/05/06/2022-09797/pharmacy-compounding-advisory-committee-notice-of-meeting-establishment-of-a-public-docket-request",
+                "label": "Federal Register, PCAC meeting notice",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Enclomiphene and clomiphene are not on the DEA's list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator checked has approved enclomiphene. The EU refused it in 2018 over unproven benefit and blood-clot risk. It falls in a class banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Complete response letter in 2015. Compounded under FDA's interim 503A policy (Category 1).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, 503A bulk drug substance categories",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/158541/download",
+              "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+              "date": "published May 2022"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "discretion"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. No enclomiphene product in Health Canada's Drug Product Database.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=enclomiphene",
+              "label": "Health Canada Drug Product Database, ingredient search: enclomiphene",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / European Commission",
+          "status": "Refused. CHMP recommended refusal of EnCyzix (Renable Pharma) on Jan 25, 2018; refused Apr 6, 2018.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/encyzix",
+              "label": "EMA, EnCyzix (enclomifene): refused",
+              "date": "published Jan 2018"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+              "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+              "date": "published Apr 2018"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia's Poisons Standard (June 2026) does not name enclomiphene. It lists clomifene in Schedule 4 (prescription only) and says a listed substance includes every stereoisomer of it. Whether TGA has approved any enclomiphene product could not be checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australia, Poisons Standard June 2026",
+              "date": "published May 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Enclomiphene is not named on the WADA 2026 Prohibited List. Class S4.2, anti-estrogenic substances including SERMs, is prohibited at all times (in and out of competition) and covers substances 'including, but not limited to' those named; clomifene is named. EMA describes enclomifene as a SERM and an isomer of clomifene. S4.2 substances are Specified Substances. The 2027 list, in force January 1, 2027, keeps clomifene in S4.2 and only renames the section title.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_explanatory_note_en_final_17_august_2026_1.pdf",
+              "label": "WADA 2027 Prohibited List, summary of changes",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+              "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+              "date": "published Apr 2018"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no FDA label. Side effects come from the trials, EMA's review and FDA's 2022 review. The serious concern both regulators raised is blood clots, along with heart events, higher red-cell counts and eye effects."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Blood clots:",
+            "text": "EMA found 4 thromboembolic events in men taking enclomiphene: one deep vein thrombosis with pulmonary embolism, two deep vein thromboses and one fatal ischaemic stroke. None occurred on testosterone or placebo. All four men had other risk factors.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Most common:",
+            "text": "headache, hot flushes, nausea and muscle spasms. The most common reasons for stopping were blurred vision, muscle spasm, headache and aggression.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Eyes:",
+            "text": "cataract (0.3% vs 0%) and blurred vision (0.5% vs 0%) were more frequent than on placebo. A dog study showed eye findings. EMA found no conclusive evidence of cataracts and asked for eye monitoring.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Blood and prostate:",
+            "text": "EMA and FDA list increased haematocrit (red-cell share) and PSA. One man whose haematocrit reached 55.4% developed a deep vein thrombosis and lung clots.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              },
+              {
+                "url": "https://www.fda.gov/media/158541/download",
+                "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Other effects in the pooled trials:",
+            "text": "hot flushes (1.1% vs 0.5% on placebo), erectile dysfunction (0.6% vs 0%), aggression (0.5% vs 0%), breast enlargement (0.2% vs 0%).",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Sperm:",
+            "text": "in ZA-301 and ZA-302, 14.2% of men on enclomiphene had a 50% or greater drop in sperm concentration at 3 months, vs 2.6% and 4.3% on placebo.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT01532414",
+                "label": "ClinicalTrials.gov NCT01532414 (ZA-301)",
+                "date": "published May 2015"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT01739595",
+                "label": "ClinicalTrials.gov NCT01739595 (ZA-302)",
+                "date": "published May 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Serious events in the 6-month safety study (ZA-300):",
+            "text": "15 of 490 men had a serious adverse event. They included two deep vein thromboses, a pulmonary embolism, atrial flutter, a transient ischaemic attack, chest pain and a seminoma. The registry does not say whether the drug caused them.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT01534208",
+                "label": "ClinicalTrials.gov NCT01534208 (ZA-300)",
+                "date": "published Jul 2014"
+              }
+            ]
+          },
+          {
+            "lead": "Serious events in ZA-205:",
+            "text": "one heart attack and one ischaemic stroke, both in the lower-dose group (2 of 18 men). None on placebo.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT02651688",
+                "label": "ClinicalTrials.gov NCT02651688 (ZA-205)",
+                "date": "published Jun 2019"
+              }
+            ]
+          },
+          {
+            "lead": "FDA's 2022 safety summary:",
+            "text": "concerns include heart and clotting events (bradycardia, atrial flutter, low blood pressure, deep vein thrombosis, pulmonary embolism, ischaemic stroke), raised estradiol, raised PSA and raised haematocrit. Data on dose changes for kidney or liver disease are limited.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/158541/download",
+                "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Case report (2026):",
+            "text": "a 46-year-old man with a prior heart valve repair was found to have atrial flutter after taking twice his intended daily amount. The authors rated the link as possible only.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42741668/",
+                "label": "Tariq et al., Cureus (case report)",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Long-term data:",
+            "text": "482 men took it for more than 6 months and 116 for more than 12 months, too few to detect rare effects.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+                "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+                "date": "published Apr 2018"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's complete response letter for NDA 207959 is not in FDA's public letter database; its content here comes from Repros's SEC filings and FDA's 2022 briefing summary.",
+    "Whether FDA's November 3, 2015 advisory committee meeting on enclomiphene was held or cancelled was not confirmed from an FDA record.",
+    "MHRA's product database could not be read (it needs a browser) and GOV.UK search found no MHRA record, so UK status is not confirmed.",
+    "Australia's TGA site did not respond, so ARTG status is not confirmed.",
+    "The full Kim et al. 2016 paper (ZA-304, ZA-305) was not read; only its abstract and the registry entries were.",
+    "The ZA-203 registry entry lists 83 enrolled, but its participant flow adds up to 124; the difference was not resolved.",
+    "No published paper or posted result was found for the ZA-303 bone density study.",
+    "WADA does not name enclomiphene; placing it in S4.2 rests on the 'including, but not limited to' wording and EMA's description of it as a SERM."
+  ],
+  "surprises": [
+    "FDA recommended against adding enclomiphene to the 503A bulks list and its advisory committee voted 8 to 4 against in June 2022, yet as of May 2026 it is still in Category 1, which lets pharmacies keep compounding it.",
+    "Enclomiphene is often promoted for low-testosterone symptoms, but FDA and EMA both said the trials measured hormone levels, not symptoms, and found no evidence of symptom benefit.",
+    "It is often described as a safer form of clomiphene, but EMA refused it partly over blood clots, including one death, seen only in enclomiphene-treated men, and judged it not a new active substance compared with clomifene.",
+    "It is promoted as sparing fertility, yet in two Phase 3 trials 14.2% of men on it had their sperm concentration fall by half or more, vs 2.6% and 4.3% on placebo.",
+    "WADA's list does not name enclomiphene, but the class it belongs to (SERMs, S4.2) is prohibited at all times."
+  ]
+}
