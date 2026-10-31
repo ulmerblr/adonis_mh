@@ -8,6 +8,7 @@ import energy from './energy.json';
 import sleep from './sleep.json';
 import hairLoss from './hair-loss.json';
 import skin from './skin.json';
+import longevity from './longevity.json';
 
 /** The lane stories written so far. A lane without one keeps its earlier page until its story is added here. */
 export const STORIES: Partial<Record<LaneKey, LaneStory>> = {
@@ -19,4 +20,5 @@ export const STORIES: Partial<Record<LaneKey, LaneStory>> = {
   sleep: sleep as LaneStory,
   'hair-loss': hairLoss as LaneStory,
   skin: skin as LaneStory,
+  longevity: longevity as LaneStory,
 };
