@@ -45,8 +45,11 @@ export function StoryPhoto({ photo, headline, dek, as = 'h2' }: { photo: StoryPh
   );
 }
 
-export function StoryArticle({ byline, glance, paragraphs, pull }: {
+export type RecordExcerpt = { quote: string; source: string; date: string; href: string; note?: string };
+
+export function StoryArticle({ byline, glance, paragraphs, pull, record }: {
   byline: string; glance: GlanceRow[]; paragraphs: React.ReactNode[]; pull: { quote: string; cite: string; href: string };
+  record?: RecordExcerpt[];
 }) {
   return (
     <article className="spreadArticle">
@@ -69,6 +72,18 @@ export function StoryArticle({ byline, glance, paragraphs, pull }: {
           <figcaption><A href={pull.href}>{pull.cite}</A></figcaption>
         </figure>
       </div>
+      {record?.length ? (
+        <section className="record" aria-labelledby="from-the-record">
+          <h3 className="recordHead" id="from-the-record">From the record</h3>
+          {record.map((e, i) => (
+            <figure className="excerpt" key={i}>
+              <blockquote cite={e.href}>{`“${e.quote}”`}</blockquote>
+              <figcaption className="excerptSrc"><A href={e.href}>{e.source}</A>, {e.date}</figcaption>
+              {e.note ? <p className="excerptNote">{e.note}</p> : null}
+            </figure>
+          ))}
+        </section>
+      ) : null}
     </article>
   );
 }

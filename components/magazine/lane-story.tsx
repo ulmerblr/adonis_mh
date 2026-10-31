@@ -19,7 +19,7 @@ export function LaneSpread({ lane, laneMark = false }: { lane: LaneKey; laneMark
       <div className="wrap spread2">
         <StoryPhoto photo={lanePhoto(lane, st.photoAlt, photo)} headline={st.headline} dek={st.dek} />
         <InThisIssue entries={issueEntries(lane)} laneMark={laneMark} />
-        <StoryArticle byline={st.byline} glance={st.glance} paragraphs={st.paragraphs.map((p) => linkify(p))} pull={st.pull} />
+        <StoryArticle byline={st.byline} glance={st.glance} paragraphs={(st.summary ?? st.paragraphs ?? []).map((p) => linkify(p))} pull={st.pull} record={st.excerpts} />
         <aside className="spreadSide">
           <UpdatesCard />
           <StandardsCard />
