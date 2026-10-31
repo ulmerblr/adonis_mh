@@ -59,7 +59,7 @@ if (links) {
   const bad = [];
   for (const [u, where] of allUrls) {
     let code = '000';
-    try { code = execFileSync('curl', ['-s', '-o', '/dev/null', '-m', '25', '-L', '-A', 'Mozilla/5.0 (X11; Linux x86_64) Chrome/124', '-w', '%{http_code}', u]).toString(); } catch { /* keep 000 */ }
+    try { code = execFileSync('curl', ['-s', '-o', '/dev/null', '-m', '25', '-L', '-w', '%{http_code}', u]).toString(); } catch { /* keep 000 */ }
     if (!/^(2|3)/.test(code)) bad.push(`${code} ${u} (${where})`);
   }
   console.log(`links: ${allUrls.size} checked, ${bad.length} not loading`); bad.forEach((b) => console.log('   ' + b));

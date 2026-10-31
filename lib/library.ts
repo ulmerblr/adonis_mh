@@ -44,8 +44,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
   ],
   recovery: [
     { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved', sport: 'Banned' } },
-    { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true },
-    { name: 'KPV', peptide: true },
+    { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true, page: { href: '/tb-500', evidence: '3-case report; no trials', fda: 'Not approved', sport: 'Banned (S2)' } },
+    { name: 'KPV', peptide: true, page: { href: '/kpv', evidence: 'Animal and cell only', fda: 'Not approved', sport: 'Not listed' } },
   ],
   vitality: [
     { name: 'Sildenafil' },

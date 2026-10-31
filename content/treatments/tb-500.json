@@ -1,0 +1,784 @@
+{
+  "slug": "tb-500",
+  "name": "TB-500",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "3-case report; no trials",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat, horse and cell studies; few on TB-500",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "One 3-patient case report, mixed with other drugs",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "None with results",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None with results",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "None",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "TB-500 is a common name, not an official drug name. FDA describes it as a synthetic chain of seven amino acids, Ac-Leu-Lys-Lys-Thr-Glu-Thr-Gln (Ac-LKKTETQ), with an acetyl group on the first one. It copies amino acids 17 to 23 of thymosin beta-4, a 43-amino-acid protein found in many cells and body fluids. Its molecular weight is about 889 daltons.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193349/download",
+            "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "TB-500 and thymosin beta-4 are not the same substance. FDA notes that many websites use the two names as if they were. FDA has also found different salts and related molecules sold under the same name TB-500.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193349/download",
+            "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "According to FDA’s review, the seven-amino-acid fragment was first made from thymosin beta-4 in a 2003 study. A veterinary product called TB-500 appeared in 2011 and was marketed in horse and greyhound racing. Doping laboratories confirmed that its main ingredient is the acetylated fragment.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193349/download",
+            "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+            "date": "published May 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22962027/",
+            "label": "Esposito S, et al. Drug Test Anal 2012",
+            "date": "published Sep 2012"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23084823/",
+            "label": "Ho EN, et al. J Chromatogr A 2012",
+            "date": "published Nov 2012"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Its sequence contains the part of thymosin beta-4 that binds actin, a protein that shapes cells and helps them move. Researchers have proposed that TB-500 binds actin the same way. FDA says it is not known whether this explains any of its reported effects.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "In horses given one injection under the skin, TB-500 reached the blood within about 1 to 2 hours and was broken down into shorter fragments. It could no longer be measured after 6 to 10 hours.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23084823/",
+                "label": "Ho EN, et al. J Chromatogr A 2012",
+                "date": "published Nov 2012"
+              }
+            ]
+          },
+          {
+            "text": "In a 2024 lab test on skin cells (fibroblasts), TB-500 itself did not close scratch wounds. One of its breakdown fragments, Ac-LKKTE, did, by a small amount.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38382158/",
+                "label": "Rahaman KA, et al. J Chromatogr B 2024",
+                "date": "published Mar 2024"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these mechanisms has been measured in people."
+      },
+      {
+        "t": "p",
+        "text": "Adonis Clinical does not carry TB-500 today."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No clinical trial of TB-500 has published results. FDA’s 2026 review found no study in which TB-500 was given to people. Since then, one case report has described three dental patients who got TB-500 mixed with other drugs. The rest of the evidence is in animals and cells."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below exactly as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human reports"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Case report",
+        "title": "Nerve injury after dental surgery, 2026 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "uncontrolled case report inside a narrative review. No control group, no placebo."
+          },
+          {
+            "k": "People",
+            "v": "3 adults (aged 38, 48 and 85) with numbness or altered feeling in the jaw and lip after implant or extraction surgery"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly injections into the gum near the nerve of a mix of TB-500, BPC-157 and ARA-290, plus dexamethasone (a steroid) and a local anesthetic"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks of treatment; follow-up time varied"
+          },
+          {
+            "k": "Measured",
+            "v": "size of the numb area and sensory recovery, as recorded by the clinicians"
+          }
+        ],
+        "found": "All three had less numbness by the end of follow-up, and no side effects were reported. The authors say this kind of injury often recovers on its own and that the effect of any one ingredient cannot be separated.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13661421/",
+            "label": "Froum S, et al. Front Oral Health 2026",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The 2021 Florida knee pain chart review described on the BPC-157 page gave 4 of its 16 patients BPC-157 combined with “thymosin-beta-4 (TB4).” The paper does not say whether this was TB-500 or the full protein. Three of the four reported improvement by phone; there was no control group and no validated pain scale.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+            "label": "Lee E, Padgett B. Altern Ther Health Med 2021",
+            "date": "published Jul 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "ClinicalTrials.gov has one record naming TB-500 (NCT07487363, a Phase 1/2 study in adults with stable heart disease, listed as recruiting in China). The record’s own summary calls it “a fictional study” and “an example” record, so it is not counted here as a trial.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07487363",
+            "label": "ClinicalTrials.gov NCT07487363",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Studies of the full protein, thymosin beta-4 (not TB-500)"
+      },
+      {
+        "t": "p",
+        "text": "The full 43-amino-acid protein has been tested in people. These results do not apply to TB-500: FDA notes the two are different substances, and adding the acetyl group can change how a peptide behaves.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193349/download",
+            "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "IV safety study, 2010:",
+            "text": "randomized, placebo-controlled. 4 groups of 10 healthy volunteers got a single IV dose, then daily doses for 14 days. Side effects were infrequent and mild or moderate; there were no serious adverse events.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20536472/",
+                "label": "Ruff D, et al. Ann N Y Acad Sci 2010",
+                "date": "published Apr 2010"
+              }
+            ]
+          },
+          {
+            "lead": "Severe dry eye, 2015 (USA):",
+            "text": "randomized, double-masked, placebo-controlled Phase 2. 9 patients used thymosin beta-4 eye drops (RGN-259) or a placebo drop for 28 days, with 28 more days of follow-up. Eye discomfort and corneal staining improved more than on placebo at several time points.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25826322/",
+                "label": "Sosne G, et al. Cornea 2015",
+                "date": "published May 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Neurotrophic keratopathy, 2022:",
+            "text": "randomized, double-masked, placebo-controlled Phase 3 with 18 patients. After 4 weeks, the eye surface defect healed fully in 6 of 10 on the drops and 1 of 8 on placebo; this main result was not statistically significant (p = 0.0656). No significant adverse effects were seen. Three authors work for the company developing the drops or its parent company.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36613994/",
+                "label": "Sosne G, et al. Int J Mol Sci 2022",
+                "date": "published Dec 2022"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2003 · Animal study",
+        "title": "Skin wounds in aged mice, 2003",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study. The fragment tested was LKKTETQ without the acetyl group, so not TB-500 itself."
+          },
+          {
+            "k": "Animals",
+            "v": "26-month-old (aged) mice with small punch wounds on the back"
+          },
+          {
+            "k": "What was given",
+            "v": "the fragment, full thymosin beta-4 or a blank solution, put on the wounds"
+          },
+          {
+            "k": "Measured",
+            "v": "wound closure and collagen under the microscope"
+          }
+        ],
+        "found": "Both the fragment and the full protein increased wound closure and collagen compared with the blank solution. FDA notes there was no dose-response testing and the result may not carry over to TB-500.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12581423/",
+            "label": "Philp D, et al. Wound Repair Regen 2003",
+            "date": "published Jan 2003"
+          },
+          {
+            "url": "https://www.fda.gov/media/193349/download",
+            "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "South Korea · 2024 · Cell and rat study",
+        "title": "TB-500 breakdown and skin-cell wounds, 2024",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "lab study in human serum and liver and kidney enzyme preparations; urine from rats given TB-500; scratch-wound test in skin cells"
+          },
+          {
+            "k": "Measured",
+            "v": "what TB-500 breaks down into, and whether TB-500 and its fragments close scratch wounds in cells"
+          }
+        ],
+        "found": "TB-500 was broken down into shorter fragments in all systems. TB-500 itself did not close scratch wounds; only the fragment Ac-LKKTE did. No fragment harmed the cells.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38382158/",
+            "label": "Rahaman KA, et al. J Chromatogr B 2024",
+            "date": "published Mar 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Hong Kong · 2012 · Animal study",
+        "title": "Doping test in horses, 2012",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "doping-control study. Horses were given one injection of a veterinary TB-500 product."
+          },
+          {
+            "k": "Measured",
+            "v": "TB-500 and its breakdown products in blood and urine"
+          }
+        ],
+        "found": "TB-500 and several breakdown fragments were found in blood and urine. The study looked only at detection, not at any effect on healing.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23084823/",
+            "label": "Ho EN, et al. J Chromatogr A 2012",
+            "date": "published Nov 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Türkiye · 2026 · Randomized animal study",
+        "title": "Achilles tendon repair in rats, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized animal study, 4 groups: no treatment, BPC-157, TB-500, or both"
+          },
+          {
+            "k": "Animals",
+            "v": "32 male rats after surgical cutting and repair of the Achilles tendon"
+          },
+          {
+            "k": "Length",
+            "v": "daily injections into the abdominal cavity for 4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "tendon strength (load to failure) and tissue scores under the microscope"
+          }
+        ],
+        "found": "The TB-500 group had stronger tendons and better tissue scores than untreated rats at 4 weeks. Combining it with BPC-157 added nothing. The authors call it exploratory.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42542926/",
+            "label": "Biçer O, et al. Jt Dis Relat Surg 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA found no animal toxicity studies of TB-500 at all: no single-dose, repeat-dose, DNA-damage, reproduction or cancer studies. Animal results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193349/download",
+            "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA’s scientists, in a review dated May 15, 2026 for the July meeting, recommended against adding TB-500 (free base or acetate) to the list of substances pharmacies may compound. They cited unclear chemical identity, no known history of use in compounding, no human effectiveness data, no human safety data and a possible risk of immune reactions to injected peptides.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA’s advisory committee was asked to vote on TB-500 on July 23, 2026. FDA has not posted the result on the meeting page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, July 23-24, 2026 Pharmacy Compounding Advisory Committee meeting page",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions, July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use, and not on FDA’s list of substances pharmacies may compound. FDA has never approved any product containing it. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. FDA’s 2026 review says TB-500 is not part of any FDA-approved drug and has no official drug monograph.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding review:",
+            "text": "a pharmacy nominated TB-500 for wound healing, as a 3 mg/mL injection under the skin or into muscle. The nomination was later withdrawn. FDA reviewed it anyway and, in May 2026, recommended against adding it to the 503A bulks list.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA’s page of substances that may pose significant safety risks lists “thymosin beta-4, fragment (LKKTETQ), also known as TB-500” among nominations that were withdrawn. FDA says it has found no human exposure data and lacks key safety information.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "on October 30, 2026, HHS published notice of an enforcement discretion policy for certain compounded peptides while FDA writes its rules. The notice itself does not name the peptides; they are listed in an HHS appendix that could not be opened for this page. The notice says the policy is not binding and that compounded drugs are not FDA-approved.",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Full thymosin beta-4:",
+            "text": "FDA has told at least one seller that products such as thymosin beta-4 are unapproved new drugs and also biological products without an approved license.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genogenix-llc-718739-01202026",
+                "label": "FDA warning letter to GenoGenix LLC",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Use in compounding:",
+            "text": "FDA found no pharmacy that compounds TB-500 and no outsourcing facility that reported it. Several websites FDA found sold TB-500 labelled “for research use only.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved TB-500 as a medicine. Australia makes it prescription-only and illegal to possess without authority, Canada has seized it as an unauthorized drug, and it is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / HHS",
+          "status": "Not approved. Not on the 503A bulks list. Whether HHS’s October 2026 peptide policy covers it could not be confirmed from HHS’s own list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193349/download",
+              "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. Named among unauthorized injectable peptides seized by Health Canada.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193349/download",
+              "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No approved product (FDA’s 2026 review). Prescription-only (Schedule 4); possession without authority is illegal (Appendix D). Thymosin beta-4 is listed the same way.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-06-01/text/original/pdf",
+              "label": "Australian Poisons Standard, June 2026 (F2026L00633)",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193349/download",
+              "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "No approved product, according to FDA’s 2026 review. MHRA’s own record was not found.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193349/download",
+              "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA’s medicines data. FDA’s 2026 review also found none in Belgium, France, Germany, Ireland, Italy or Spain.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193349/download",
+              "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "China",
+          "regulator": "NMPA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "156"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "India",
+          "regulator": "CDSCO",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "356"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Roszdravnadzor",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "643"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "TB-500 is prohibited at all times under class S2.3 (growth factors and growth factor modulators) of the 2026 Prohibited List, which names “thymosin-β4 and its derivatives, e.g. TB-500.” Class S2 substances are not “specified substances.” WADA’s own copy of the list could not be opened for this page; the text was read in the Finnish anti-doping agency’s published version, which states that WADA’s English version is the official one. The 2027 list was not checked.",
+          "src": [
+            {
+              "url": "https://kamu.suek.fi/en/dopingsubstances/",
+              "label": "2026 Prohibited List (WADA list), as published by the Finnish Center for Integrity in Sports",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Almost nothing is known about TB-500’s side effects in people. FDA found no human safety studies and no animal toxicity studies. The few reports that exist are listed below."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA adverse event reports:",
+            "text": "FDA’s drug reporting system had no reports for TB-500 through March 26, 2025. FDA’s food and supplement complaint system had two reports about a “blended TB-500 and BPC-157” product, without safety details.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "A BPC-157 and TB-500 blend:",
+            "text": "in one FDA report, a 40-year-old woman injecting a “research purposes only” blend twice a day developed widespread skin darkening and darkened gums. It happened again when she restarted, and stopped when she quit. FDA could not tell which peptide caused it.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193343/download",
+                "label": "FDA briefing document on BPC-157, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Case report, 2026:",
+            "text": "the three dental patients given TB-500 in a mix with other drugs had no side effects reported.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13661421/",
+                "label": "Froum S, et al. Front Oral Health 2026",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA says injected peptides like TB-500 may carry a significant risk of immune reactions, made worse by clumping (aggregation) and impurities. Reactions can range from harmless antibodies to life-threatening ones.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "a representative supplier certificate for TB-500 that FDA reviewed did not test for impurities, bacterial toxins or clumping.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193349/download",
+                "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Health Canada:",
+            "text": "warns that unauthorized injectable peptides, including TB-500, may contain the wrong amount of ingredient, hidden ingredients or contaminants such as bacteria, and may cause infections and allergic reactions.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada public advisory on unauthorized injectable peptides",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "HHS’s policy appendix (hhs.gov) and the policy document on regulations.gov could not be opened, so this page does not confirm that TB-500 is named in HHS’s October 2026 enforcement discretion policy or which routes it allows.",
+    "WADA’s own 2026 and 2027 Prohibited List pages could not be opened (blocked by a bot check); the 2026 list text was read in the Finnish anti-doping agency’s version, and the 2027 list was not checked.",
+    "The result of the July 23, 2026 advisory committee vote on TB-500 is not posted on FDA’s meeting page and was not confirmed from a primary record.",
+    "TGA’s register of approved medicines (ARTG) could not be checked; Australia’s “no approved product” status comes from FDA’s 2026 review.",
+    "No MHRA record on TB-500 was found; the UK status comes from FDA’s 2026 review.",
+    "Status in China, India and Russia was not checked.",
+    "No FDA warning letter naming TB-500 itself was found; the one cited names full thymosin beta-4."
+  ],
+  "surprises": [
+    "TB-500 is widely sold as “thymosin beta-4,” but FDA says it is a different substance: a seven-amino-acid fragment of the 43-amino-acid protein. Human trials of the full protein do not apply to it.",
+    "TB-500 is marketed for wound and tissue healing, yet the only lab test of TB-500 itself that FDA found showed no wound-closing effect in skin cells; only one of its breakdown fragments had a small effect.",
+    "FDA found no published study in which TB-500 was given to people, and no animal toxicity studies of any kind.",
+    "The only ClinicalTrials.gov record naming TB-500 (NCT07487363) describes itself as “a fictional study” and “an example” record. Its sponsor, Hudson Biotech, also sponsors the BPC-157 hamstring trial NCT07437547 cited on the BPC-157 page."
+  ]
+}

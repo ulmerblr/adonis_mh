@@ -1,0 +1,712 @@
+{
+  "slug": "kpv",
+  "name": "KPV",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "Animal and cell only",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rabbit and cell studies since 1989",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "None published (FDA, 2026)",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "None",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "KPV is a chain of just three amino acids: lysine, proline and valine (Lys-Pro-Val). Its molecular weight is about 342 daltons. It is the last three amino acids (11 to 13) of alpha-melanocyte-stimulating hormone (alpha-MSH), a hormone made in the pituitary gland. KPV is a common name, not an official drug name, and it is sold both as the plain peptide and as an acetate salt, which FDA treats as different substances.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193346/download",
+            "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+            "date": "published May 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18092346/",
+            "label": "Kannengiesser K, et al. Inflamm Bowel Dis 2008",
+            "date": "published Mar 2008"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Researchers first reported in 1989 that this tripeptide reduced swelling in mice. Since then it has been studied mainly in rodent models of bowel inflammation and in cells.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2550304/",
+            "label": "Hiltz ME, Lipton JM. FASEB J 1989",
+            "date": "published Sep 1989"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Unlike alpha-MSH, KPV does not seem to work through melanocortin receptors. In lab tests it did not bind them or trigger their usual signal, and it still worked in mice lacking a working MC1 receptor.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12750433/",
+                "label": "Getting SJ, et al. J Pharmacol Exp Ther 2003",
+                "date": "published Aug 2003"
+              },
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "It blocked NF-kappaB, a switch that turns on inflammation, and lowered inflammatory signals in human gut and immune cells in the lab.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18061177/",
+                "label": "Dalmasso G, et al. Gastroenterology 2008",
+                "date": "published Jan 2008"
+              }
+            ]
+          },
+          {
+            "text": "It enters gut cells through PepT1, a transporter for small peptides that increases in the inflamed colon.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18061177/",
+                "label": "Dalmasso G, et al. Gastroenterology 2008",
+                "date": "published Jan 2008"
+              }
+            ]
+          },
+          {
+            "text": "In a lab test on human skin from donors, KPV did not pass through intact skin in measurable amounts. Microneedles and a small electric current pushed it in.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28343991/",
+                "label": "Pawar K, et al. J Pharm Sci 2017",
+                "date": "published Jul 2017"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these mechanisms has been measured in people."
+      },
+      {
+        "t": "p",
+        "text": "Adonis Clinical does not carry KPV today."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No human study of KPV has been published. FDA’s 2026 review found no clinical studies, no human pharmacokinetic data and no case reports for any route. ClinicalTrials.gov lists no trial of it. All the evidence below is in animals or cells."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below exactly as it was run.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193346/download",
+            "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+            "date": "published May 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=KPV",
+            "label": "ClinicalTrials.gov search for “KPV”",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1989 · Animal study",
+        "title": "Ear swelling in mice, 1989",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study comparing KPV at several doses with saline and a steroid"
+          },
+          {
+            "k": "Animals",
+            "v": "mice with chemically induced ear swelling"
+          },
+          {
+            "k": "Measured",
+            "v": "ear swelling"
+          }
+        ],
+        "found": "KPV reduced swelling, more at higher doses.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2550304/",
+            "label": "Hiltz ME, Lipton JM. FASEB J 1989",
+            "date": "published Sep 1989"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2003 · Animal and cell study",
+        "title": "Belly inflammation in mice, 2003",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study plus lab tests on immune cells, comparing KPV with alpha-MSH and other melanocortin peptides"
+          },
+          {
+            "k": "Animals",
+            "v": "mice with crystal-induced or IL-1beta-induced peritonitis, including mice without a working MC1 receptor"
+          },
+          {
+            "k": "Measured",
+            "v": "white blood cells drawn into the belly; immune-cell signals in the lab"
+          }
+        ],
+        "found": "KPV reduced the number of white blood cells drawn in, even in mice without a working MC1 receptor. In cells it did not act like alpha-MSH. The authors concluded it likely works by blocking IL-1beta, not through melanocortin receptors.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12750433/",
+            "label": "Getting SJ, et al. J Pharmacol Exp Ther 2003",
+            "date": "published Aug 2003"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2008 · Animal and cell study",
+        "title": "Colitis in mice, 2008 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "lab tests on human gut and immune cells, plus two mouse models of colitis (DSS and TNBS)"
+          },
+          {
+            "k": "What was given",
+            "v": "KPV added to the mice’s drinking water"
+          },
+          {
+            "k": "Measured",
+            "v": "inflammatory signals in cells; colon tissue and inflammatory markers in mice"
+          }
+        ],
+        "found": "KPV blocked inflammatory signalling in the cells and reduced colitis in both mouse models.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18061177/",
+            "label": "Dalmasso G, et al. Gastroenterology 2008",
+            "date": "published Jan 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2008 · Animal study",
+        "title": "Colitis in mice, 2008 (Germany)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two mouse models of colitis (DSS and T-cell transfer), including mice without a working MC1 receptor"
+          },
+          {
+            "k": "Measured",
+            "v": "weight loss, colon tissue under the microscope, an inflammation enzyme (MPO)"
+          }
+        ],
+        "found": "KPV-treated mice regained weight faster and had less colon inflammation. In the DSS model, all KPV-treated mice without a working MC1 receptor survived.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18092346/",
+            "label": "Kannengiesser K, et al. Inflamm Bowel Dis 2008",
+            "date": "published Mar 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2006 · Animal and cell study",
+        "title": "Corneal scratches in rabbits, 2006",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study; KPV eye drops compared with saline drops, plus tests on rabbit corneal cells"
+          },
+          {
+            "k": "Animals",
+            "v": "rabbits whose corneal surface was scraped off"
+          },
+          {
+            "k": "Length",
+            "v": "drops four times a day for 4 days"
+          },
+          {
+            "k": "Measured",
+            "v": "size of the remaining wound every 12 hours"
+          }
+        ],
+        "found": "After 60 hours, all 8 KPV-treated corneas had healed over, and none treated with saline had. Blocking nitric oxide reduced the effect.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16965771/",
+            "label": "Bonfiglio V, et al. Exp Eye Res 2006",
+            "date": "published Dec 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA and China · 2017 · Animal study",
+        "title": "Colitis in mice, oral nanoparticles, 2017",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study of KPV loaded into nanoparticles in a gel, given by mouth"
+          },
+          {
+            "k": "Measured",
+            "v": "colon damage and an inflammatory marker (TNF-alpha)"
+          }
+        ],
+        "found": "The nanoparticle form reduced colon damage and TNF-alpha more than a simpler KPV nanoparticle form. This is a specially engineered research formulation, not a product sold to the public.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28143741/",
+            "label": "Xiao B, et al. Mol Ther 2017",
+            "date": "published Jul 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 · Lab study",
+        "title": "Passage through human skin, 2017",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "lab study on donated human skin; no people treated"
+          },
+          {
+            "k": "Measured",
+            "v": "how much KPV passes through skin alone, with microneedles, with a mild electric current, or both"
+          }
+        ],
+        "found": "Through intact skin, KPV was below the level the test could detect. Microneedles let some through, and adding the electric current raised this further.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28343991/",
+            "label": "Pawar K, et al. J Pharm Sci 2017",
+            "date": "published Jul 2017"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA found no animal toxicity studies of KPV: no single-dose, repeat-dose, DNA-damage, reproduction or cancer studies, and no pharmacokinetic studies. Animal results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193346/download",
+            "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA’s scientists, in a review dated May 12, 2026 for the July meeting, recommended against adding KPV (free base or acetate) to the list of substances pharmacies may compound. Of the nine papers the nominator cited, none studied KPV in people; eight were animal studies of alpha-MSH-related peptides and one was a skin-permeation test.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA found that KPV is not well characterized chemically, that its use in compounding is unknown, and that there is no information on its use in people to judge safety or effectiveness.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA’s advisory committee was asked to vote on KPV on July 23, 2026. FDA has not posted the result on the meeting page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, July 23-24, 2026 Pharmacy Compounding Advisory Committee meeting page",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions, July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use, and not on FDA’s list of substances pharmacies may compound. No FDA-approved drug contains it. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. FDA’s 2026 review says KPV is not part of any FDA-approved drug and has no official drug monograph.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding review:",
+            "text": "a pharmacy nominated KPV as a 0.1% cream or gel for wound healing and inflammatory skin conditions such as psoriasis and eczema. The nomination was later withdrawn. FDA reviewed it anyway and, in May 2026, recommended against adding it to the 503A bulks list.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA’s page of substances that may pose significant safety risks lists KPV among nominations that were withdrawn. FDA says it has found no human exposure data for any route and lacks key safety information.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "on October 30, 2026, HHS published notice of an enforcement discretion policy for certain compounded peptides while FDA writes its rules. The notice itself does not name the peptides; they are listed in an HHS appendix that could not be opened for this page. The notice says the policy is not binding and that compounded drugs are not FDA-approved.",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Use in compounding:",
+            "text": "no outsourcing facility reported making KPV products from January 2017 to June 2025. FDA found websites offering KPV through telehealth as injections, products taken by mouth, creams and nasal sprays, and in mixes with BPC-157, TB-500, AOD-9604 and follistatin-344.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved KPV as a medicine. Canada has seized it as an unauthorized drug, and no product containing it is authorised in the EU.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / HHS",
+          "status": "Not approved. Not on the 503A bulks list. Whether HHS’s October 2026 peptide policy covers it could not be confirmed from HHS’s own list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193346/download",
+              "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. Named among unauthorized injectable peptides seized by Health Canada.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA’s medicines data; FDA’s 2026 review also found none listed by EMA.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193346/download",
+              "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "China",
+          "regulator": "NMPA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "156"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "India",
+          "regulator": "CDSCO",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "356"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Roszdravnadzor",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "643"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "KPV is not named on the 2026 Prohibited List. The list’s class S0 (non-approved substances) bans at all times any pharmacological substance that is not covered by another class and has no current approval from any government health authority for human use. Whether WADA applies S0 to KPV was not confirmed. WADA’s own copy of the list could not be opened for this page; the text was read in the Finnish anti-doping agency’s published version, which states that WADA’s English version is the official one. The 2027 list was not checked.",
+          "src": [
+            {
+              "url": "https://kamu.suek.fi/en/dopingsubstances/",
+              "label": "2026 Prohibited List (WADA list), as published by the Finnish Center for Integrity in Sports",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Nothing is known about KPV’s side effects in people. FDA found no human data of any kind and no animal toxicity studies. What regulators have said is listed below."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA adverse event reports:",
+            "text": "FDA’s drug reporting system had no reports for KPV through December 3, 2025, and its food and supplement complaint system had no cases where KPV was used. FDA found no published case reports.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA says peptides like KPV can trigger immune reactions and can clump (aggregate), and that there is not enough data to rule out these risks for KPV. Reactions can range from harmless antibodies to life-threatening ones.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin use:",
+            "text": "KPV’s poor passage through intact skin could limit whole-body effects from a cream, but FDA notes no one has tested whether microneedles or similar methods raise absorption into the body.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28343991/",
+                "label": "Pawar K, et al. J Pharm Sci 2017",
+                "date": "published Jul 2017"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "the supplier certificate submitted to FDA had no microbial testing, which FDA says is required for skin products, and did not identify its impurities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Health Canada:",
+            "text": "warns that unauthorized injectable peptides, including KPV, may contain the wrong amount of ingredient, hidden ingredients or contaminants such as bacteria, and may cause infections and allergic reactions.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada public advisory on unauthorized injectable peptides",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "HHS’s policy appendix (hhs.gov) and the policy document on regulations.gov could not be opened, so this page does not confirm that KPV is named in HHS’s October 2026 enforcement discretion policy or which routes it allows.",
+    "WADA’s own 2026 and 2027 Prohibited List pages could not be opened (blocked by a bot check); the 2026 list text was read in the Finnish anti-doping agency’s version, and whether WADA treats KPV under class S0 was not confirmed.",
+    "The result of the July 23, 2026 advisory committee vote on KPV is not posted on FDA’s meeting page and was not confirmed from a primary record.",
+    "Australia’s status was not confirmed: TGA’s site timed out, and KPV is not named in the June 2026 Poisons Standard.",
+    "No MHRA record on KPV was found, so the UK status is unconfirmed.",
+    "Status in China, India and Russia was not checked.",
+    "No FDA warning letter naming KPV was found."
+  ],
+  "surprises": [
+    "KPV is promoted online for bowel disease, mast cell problems, COVID recovery, Lyme disease and more, but FDA found no human data at all, for any route, and no animal toxicity studies.",
+    "KPV is often described as an alpha-MSH (melanocortin) peptide, but lab and mouse studies suggest it does not act through melanocortin receptors.",
+    "It was nominated to FDA as a skin cream, yet in a lab test it did not pass through intact human skin in measurable amounts; online it is also promoted as injections, products taken by mouth and nasal sprays."
+  ]
+}
