@@ -1,0 +1,96 @@
+{
+  "key": "weight",
+  "headline": [
+    "After the",
+    "shortage."
+  ],
+  "dek": "The GLP-1 shortages are over. FDA says what pharmacies may still compound.",
+  "photoAlt": "Illustration for the Weight lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Shortages over",
+      "line": "Tirzepatide: Dec 19, 2024. Semaglutide: Feb 21, 2025.",
+      "src": {
+        "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+        "label": "FDA, policies for compounders as GLP-1 supply stabilizes, Apr 2026"
+      }
+    },
+    {
+      "icon": "mortar",
+      "label": "Compounded",
+      "line": "Not FDA approved, with or without vitamin B12 or glycine added."
+    },
+    {
+      "icon": "shield",
+      "label": "Boxed warning",
+      "line": "Every approved semaglutide and tirzepatide label: thyroid C-cell tumors in rodents."
+    }
+  ],
+  "paragraphs": [
+    "For more than two years, pharmacies were allowed to make their own versions of the two best-known weight drugs because the approved ones were in short supply. FDA said the [[/tirzepatide|tirzepatide]] shortage was resolved on December 19, 2024, after re-evaluating an October decision, and the [[/semaglutide|semaglutide]] shortage on February 21, 2025. The grace periods for compounders ran out in the spring of 2025. On April 1, 2026, FDA said neither drug is on its shortage list or on the list of bulk substances outsourcing facilities may use.",
+    "Pharmacies can still compound for an individual patient, but they may not regularly make drugs that are essentially copies of a commercially available one. FDA’s April 2026 statement gave a worked example: a compounded injection combining semaglutide and vitamin B12 may count as a copy when both amounts are within 10% of the strengths of products on the market, unless a prescriber documents a significant difference for that patient. FDA said it does not intend to act when a pharmacy fills four or fewer such prescriptions in a month. It did not give a tirzepatide example.",
+    "The compounded injections Adonis carries through Beluga, some with vitamin B12 and some with glycine, are not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold. None of the large trials tested semaglutide or tirzepatide combined with B12 or glycine. In March 2026 FDA announced 30 warning letters to telehealth companies over claims about compounded GLP-1s, including claims that they are the same as the approved drugs.",
+    "The approved brands are a different thing. Semaglutide is sold as Ozempic and Rybelsus for type 2 diabetes and as Wegovy for weight and heart risk; tirzepatide as Mounjaro for type 2 diabetes and Zepbound for weight and sleep apnea. Using Ozempic, Rybelsus or Mounjaro for weight loss is off-label. Their makers ran the large trials: in STEP 1, average weight fell 14.9% on semaglutide and 2.4% on placebo over 68 weeks; in SURMOUNT-1, it fell 15.0% to 20.9% on tirzepatide and 3.1% on placebo over 72 weeks.",
+    "Every approved semaglutide and tirzepatide label carries a boxed warning, FDA’s strongest kind. In rodents, both caused thyroid C-cell tumors, and it is not known whether they do in people. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use them. The labels also list pancreatitis, gallbladder disease, kidney injury from dehydration, and severe stomach and bowel effects.",
+    "FDA also counts problems with the compounded versions. As of May 31, 2026, it had received 990 adverse event reports tied to compounded semaglutide and more than 730 tied to compounded tirzepatide, and says those numbers are likely underreported because most pharmacies do not have to report. It has reports of dosing errors, some needing hospital care, and of fake tirzepatide labeled with pharmacies that did not make it."
+  ],
+  "pull": {
+    "quote": "FDA may consider a compounded drug product that combines semaglutide API and another API, such as vitamin B12 (cyanocobalamin), to be essentially a copy of a commercially available drug product",
+    "cite": "FDA, policies for compounders, Apr 2026",
+    "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
+  },
+  "sources": [
+    {
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
+      "label": "FDA: Clarifies policies for compounders as GLP-1 supply stabilizes",
+      "date": "published Apr 2026"
+    },
+    {
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+      "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+      "date": "published Oct 2026"
+    },
+    {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s",
+      "label": "FDA press release: 30 warning letters to telehealth companies",
+      "date": "published Mar 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+      "label": "Ozempic injection label, DailyMed",
+      "date": "published Jun 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
+      "label": "Rybelsus and Ozempic tablets label, DailyMed",
+      "date": "published Aug 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+      "label": "Wegovy injection and tablets label, DailyMed",
+      "date": "published Jun 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
+      "label": "Mounjaro label, DailyMed",
+      "date": "published Sep 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+      "label": "Zepbound label, DailyMed",
+      "date": "published Sep 2026"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+      "label": "Wilding et al., STEP 1, N Engl J Med 2021",
+      "date": "published Mar 2021"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/",
+      "label": "Jastreboff et al., SURMOUNT-1, N Engl J Med 2022",
+      "date": "published Jul 2022"
+    }
+  ]
+}
