@@ -20,6 +20,7 @@ const matches = (r: Row, q: string) => !q || [r.name, r.laneName, r.peptide ? 'P
 export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hideTabs?: boolean }) {
   const [tab, setTab] = useState<LaneKey | 'all'>(lane ?? 'all');
   const [text, setText] = useState('');
+  const [peptidesOnly, setPeptidesOnly] = useState(false);
   const id = useId();
   const tabsRef = useRef<HTMLDivElement>(null);
   const tabBtns = useRef<(HTMLButtonElement | null)[]>([]);
@@ -27,8 +28,9 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
 
   const q = norm(text);
   const inTab = (r: Row) => tab === 'all' || r.lane === tab;
-  const shown = ROWS.filter((r) => inTab(r) && matches(r, q));
-  const countFor = (k: LaneKey | 'all') => ROWS.filter((r) => (k === 'all' || r.lane === k) && matches(r, q)).length;
+  const pass = (r: Row) => matches(r, q) && (!peptidesOnly || !!r.peptide);
+  const shown = ROWS.filter((r) => inTab(r) && pass(r));
+  const countFor = (k: LaneKey | 'all') => ROWS.filter((r) => (k === 'all' || r.lane === k) && pass(r)).length;
 
   // Hold the page still across a tab switch (a shorter list must not pull the page up).
   useLayoutEffect(() => {
@@ -59,8 +61,15 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
   return (
     <div className="finder">
       <label htmlFor={`${id}-q`} className="finderLabel">Search treatments</label>
-      <input id={`${id}-q`} type="search" className="finderSearch" value={text} onChange={(e) => setText(e.target.value)}
-        placeholder="Try testosterone, semaglutide, BPC-157…" autoComplete="off" aria-controls={panelId} />
+      <div className="finderBar">
+        <input id={`${id}-q`} type="search" className="finderSearch" value={text} onChange={(e) => setText(e.target.value)}
+          placeholder="Try testosterone, semaglutide, BPC-157…" autoComplete="off" aria-controls={panelId} />
+        <label className="peptideSwitch">
+          <input type="checkbox" role="switch" checked={peptidesOnly} onChange={(e) => setPeptidesOnly(e.target.checked)} aria-controls={panelId} />
+          <span className="switchTrack" aria-hidden="true"><span className="switchThumb" /></span>
+          <span className="switchText">Peptides only</span>
+        </label>
+      </div>
 
       {hideTabs ? null : (
         <div className="finderTabs" role="tablist" aria-label="Lanes" ref={tabsRef}>
@@ -77,7 +86,7 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
       <p className="srOnly" aria-live="polite">{countWords(shown.length)}</p>
       <div id={panelId} role={hideTabs ? 'region' : 'tabpanel'} aria-labelledby={hideTabs ? undefined : `${id}-tab-${tab}`} aria-label={hideTabs ? 'Treatments' : undefined} className="finderResults">
         {shown.length === 0 ? (
-          <p className="finderEmpty">No treatment matches ‘{text}’. Pages are added as each record is checked.</p>
+          <p className="finderEmpty">{text ? <>No treatment matches ‘{text}’. Pages are added as each record is checked.</> : 'No peptide treatments in this lane.'}</p>
         ) : (
           <div className="tableBox" tabIndex={0} aria-label="Treatments">
             <table className="index">
