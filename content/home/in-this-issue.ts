@@ -7,7 +7,7 @@ import type { LaneKey } from '@/lib/library';
 export type IssueEntry = { n: string; lane: LaneKey; label: string; title: string; current?: boolean; written: boolean };
 
 export const IN_THIS_ISSUE: IssueEntry[] = [
-  { n: '01', lane: 'recovery', label: 'Recovery', title: 'Six peptides. Zero approvals.', current: true, written: true },
+  { n: '01', lane: 'recovery', label: 'Recovery', title: 'Six peptides. Zero FDA approvals.', current: true, written: true },
   { n: '02', lane: 'longevity', label: 'Longevity', title: 'Men die about five years younger than women', written: false },
   { n: '03', lane: 'trt', label: 'TRT', title: 'Testosterone: what the FDA label says', written: false },
   { n: '04', lane: 'weight', label: 'Weight', title: 'Semaglutide and tirzepatide, trial by trial', written: false },

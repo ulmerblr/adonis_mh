@@ -1,38 +1,43 @@
 import { A } from '@/components/ext';
 import { TreatmentFinder } from '@/components/finder';
-import { CoverStory, type CoverPhoto } from '@/components/magazine/cover-story';
+import { CoverArticle, CoverPhoto, type CoverPhotoData } from '@/components/magazine/cover-story';
 import { InThisIssue } from '@/components/magazine/in-this-issue';
 import { MagazineSection } from '@/components/magazine/magazine-section';
 import { StandardsCard } from '@/components/magazine/standards';
 import { AJMC, FED_REG, UpdatesCard, WADA_2027 } from '@/components/magazine/updates';
 import { FDA_BRIEFING } from '@/content/articles/peptides';
 
-/**
- * Home's cover photo (AI-generated illustration): public/images/photos/home-cover-record.jpg. It has not been received
- * yet, so the spread shows a marked stand-in. When the file is in the repo, set:
- *   import coverRecord from '@/public/images/photos/home-cover-record.jpg';
- *   const COVER_PHOTO: CoverPhoto = { src: coverRecord, alt: 'A working man in a denim shirt stands with arms crossed beside a table of documents.', caption: 'Illustration: AI-generated image', position: '78% 30%' };
- * (home-lead.jpg, the rancher, stays in the repo, unused.)
- */
-const COVER_PHOTO: CoverPhoto = null;
+import coverRecord from '@/public/images/photos/home-cover-record.jpg';
+
+/** Home's cover photo (AI-generated illustration). home-lead.jpg (the rancher) stays in the repo, unused. */
+const COVER_PHOTO: CoverPhotoData = {
+  src: coverRecord,
+  alt: 'A working man in a denim shirt stands with arms crossed beside a table of documents.',
+  caption: 'Illustration: AI-generated image',
+  position: '78% 30%',
+};
+
+const NCPA = 'https://ncpa.org/newsroom/qam/2026/10/29/fda-grants-enforcement-discretion-compounding-six-peptides';
+const WADA_PEPTIDES = 'https://granfondodailynews.com/2026/10/17/world-anti-doping-agency-puts-peptides-on-2027-prohibited-list/';
 
 export const metadata = { title: { absolute: 'AdonisMensHealth.com' } };
 
 /** Every outside link Home uses, once each. */
-const SOURCES = [FDA_BRIEFING, FED_REG, WADA_2027, AJMC];
+const SOURCES = [FDA_BRIEFING, FED_REG, WADA_2027, AJMC, NCPA, WADA_PEPTIDES];
 
 export default function Home() {
   return (
     <>
       {/* The Magazine Section: everything between the header and the treatments section. */}
       <MagazineSection>
-        {/* Magazine Section, Home: a magazine spread, 60/40. Left: the cover story (photo with the headline in it, byline,
-            article with the "At a glance" box, pull quote). Right: In this issue, the Updates card, the How we report card. */}
+        {/* Magazine Section, Home: a two-by-two grid, 2/3 + 1/3. Row 1: the cover photo (its height matches the box beside
+            it) and In this issue. Row 2: the byline and article, and the Updates and How we report cards. */}
         <section className="section spreadSection">
-          <div className="wrap spread">
-            <CoverStory photo={COVER_PHOTO} />
+          <div className="wrap spread2">
+            <CoverPhoto photo={COVER_PHOTO} />
+            <InThisIssue />
+            <CoverArticle />
             <aside className="spreadSide">
-              <InThisIssue />
               <UpdatesCard />
               <StandardsCard />
             </aside>
