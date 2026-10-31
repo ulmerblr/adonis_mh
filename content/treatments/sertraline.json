@@ -1,0 +1,607 @@
+{
+  "slug": "sertraline",
+  "name": "Sertraline (Zoloft)",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Approved; small PE RCTs",
+    "fda": "Approved (Zoloft)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Serotonin reuptake shown in lab studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small PE trials in men from 1995 (off-label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Done for approved uses; none for PE",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Done for approved uses; none for PE",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Trials for 6 psychiatric uses; none for PE",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Zoloft, 1991, depression; PE use is off-label",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Sertraline is an antidepressant of the SSRI type (selective serotonin reuptake inhibitor). It blocks nerve cells from taking back serotonin, a chemical messenger, so more of it stays active in the brain and spinal cord. It has only very weak effects on two other messengers, noradrenaline and dopamine.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+            "label": "Zoloft label, DailyMed",
+            "date": "published Jul 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The brand Zoloft comes as tablets and an oral solution. Delayed or absent ejaculation is a known side effect of SSRIs, and that side effect is why sertraline has been studied for premature ejaculation.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+            "label": "Zoloft label, DailyMed",
+            "date": "published Jul 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis lists sertraline, from the Beluga catalog, as a compounded prescription product. Its form is not on file, so it is not described here."
+      },
+      {
+        "t": "callout",
+        "text": "Sertraline is FDA approved for depression and five other psychiatric uses. It is not approved for premature ejaculation; that use is off-label. A compounded sertraline product is not FDA approved."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "For premature ejaculation (PE), the evidence is small randomized trials, with 36 to 147 men each, mostly 4 to 8 weeks long, plus a 2019 pooled analysis. They mainly measured time to ejaculation. No regulator we checked has approved sertraline for PE."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run. All are off-label uses."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies (premature ejaculation, off-label)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1995 · Randomized, placebo-controlled",
+        "title": "Sertraline for PE, 1995 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, after a 1-week placebo run-in"
+          },
+          {
+            "k": "People",
+            "v": "52 heterosexual men with self-reported PE"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "self-reported time to ejaculation, successful attempts at intercourse, ejaculation during foreplay"
+          }
+        ],
+        "found": "Time to ejaculation and successful attempts improved more on sertraline than placebo. The authors said most men tolerated it well.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8830065/",
+            "label": "Mendels J, et al. J Clin Psychopharmacol 1995;15(5):341-6",
+            "date": "published Oct 1995"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "South Korea · 1998 · Double-blind, placebo-controlled",
+        "title": "Fluoxetine, sertraline and clomipramine for PE, 1998 (Korea)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled; each man took each drug and placebo in turn"
+          },
+          {
+            "k": "People",
+            "v": "36 men (mean age 44) with ejaculation within 2 minutes of penetration"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks per drug"
+          },
+          {
+            "k": "Measured",
+            "v": "self-reported time to ejaculation, satisfaction, side effects"
+          }
+        ],
+        "found": "Average time to ejaculation rose from 46 seconds to 2.27 minutes on placebo, 2.30 on fluoxetine, 4.27 on sertraline and 5.75 on clomipramine. Clomipramine had more side effects than the others.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9649255/",
+            "label": "Kim SC, Seo KK. J Urol 1998;159(2):425-7",
+            "date": "published Feb 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 1998 · Single-blind crossover",
+        "title": "Sertraline for PE, 1998 (Australia)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, single-blind, placebo-controlled crossover, then open-label treatment"
+          },
+          {
+            "k": "People",
+            "v": "37 men aged 19 to 70 in stable relationships"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks per arm; open-label phase averaged 7.3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation"
+          }
+        ],
+        "found": "Average time to ejaculation was 3.2 minutes on sertraline and 0.5 minutes on placebo, from 0.3 minutes before. Two men could not ejaculate at all. Of 29 men in the open-label phase, 20 later stopped the drug.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9598491/",
+            "label": "McMahon CG. J Urol 1998;159(6):1935-8",
+            "date": "published Jun 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Turkey · 1998 · Double-blind, placebo-controlled",
+        "title": "Sertraline for PE, 1998 (Turkey)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "37 men with PE: 22 on sertraline, 15 on placebo"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation, side effects"
+          }
+        ],
+        "found": "Time to ejaculation was significantly longer on sertraline. No one stopped because of side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9934807/",
+            "label": "Biri H, et al. Int Urol Nephrol 1998;30(5):611-5",
+            "date": "published 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Saudi Arabia · 2006 · Single-blind crossover",
+        "title": "Sertraline for PE with a validated questionnaire, 2006",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, single-blind, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "147 men with PE (77 and 70 in the two groups)"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks on each; follow-up 6 months after stopping"
+          },
+          {
+            "k": "Measured",
+            "v": "Arabic Index of Premature Ejaculation score"
+          }
+        ],
+        "found": "The summary reports that 127 (81%) of 157 men improved on sertraline; it does not explain why that is more than the 147 enrolled. Of 100 men followed up, 66 had PE return within 6 months of stopping.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16554853/",
+            "label": "Arafa M, Shamloul R. Int J Impot Res 2006;18(6):534-8",
+            "date": "published Nov 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2019 · Meta-analysis",
+        "title": "Pooled analysis of sertraline trials for PE, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis of 12 randomized trials and 2 randomized crossover trials"
+          },
+          {
+            "k": "People",
+            "v": "977 men with PE in total"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation, satisfaction of men and partners, side effects"
+          }
+        ],
+        "found": "Sertraline lengthened time to ejaculation and raised satisfaction scores. It raised the risk of stomach upset (risk ratio 2.71).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31169738/",
+            "label": "Yi ZM, et al. Medicine (Baltimore) 2019;98(23):e15989",
+            "date": "published Jun 2019"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Approved uses"
+      },
+      {
+        "t": "p",
+        "text": "FDA approved Zoloft on the basis of placebo-controlled trials in major depression, obsessive-compulsive disorder, panic disorder, PTSD, social anxiety disorder and premenstrual dysphoric disorder.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+            "label": "Zoloft label, DailyMed",
+            "date": "published Jul 2025"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Sertraline is FDA approved as Zoloft (first approved 1991) and as generics, for six psychiatric conditions. Premature ejaculation is not an approved use; prescribing it for PE is off-label. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "Zoloft tablets, NDA 019839. Drugs@FDA data show the original approval on December 30, 1991. The label lists initial U.S. approval as 1991.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.brand_name:\"ZOLOFT\"",
+                "label": "Drugs@FDA data (openFDA), Zoloft NDA 019839",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Approved uses:",
+            "text": "major depressive disorder, obsessive-compulsive disorder, panic disorder, post-traumatic stress disorder, social anxiety disorder and premenstrual dysphoric disorder.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "antidepressants increased the risk of suicidal thoughts and behavior in children, teenagers and young adults in short-term studies. All patients should be watched closely for worsening and for suicidal thoughts.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. The label says sertraline is not a controlled substance.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "under section 503A, pharmacies may use a bulk substance that has a USP monograph, or is a component of an FDA-approved drug, or is on FDA's 503A list. Sertraline is the active ingredient of approved Zoloft. A compounded sertraline product is still not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances under section 503A",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Sertraline is an approved prescription antidepressant in the US, the UK, the EU (by national approval) and Australia. No regulator we checked lists premature ejaculation as an approved use.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Zoloft, 1991; depression and five other psychiatric uses). Prescription-only. PE use is off-label.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+              "label": "Zoloft label, DailyMed",
+              "date": "published Jul 2025"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.brand_name:\"ZOLOFT\"",
+              "label": "Drugs@FDA data (openFDA), Zoloft NDA 019839",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine (licensed sertraline tablets, e.g. PL 49445/0116). MHRA added new warnings on suicidal thoughts and lasting sexual problems in October 2026.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-amarox-limited-sertraline-100mg-film-coated-tablets-el-26-a-slash-22",
+              "label": "MHRA recall notice, sertraline 100 mg tablets",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.gov.uk/drug-safety-update/antidepressants-new-safety-measures-for-all-patients-to-improve-communication-of-the-risk-of-suicidal-thoughts-and-behaviours-and-persistent-sexual-dysfunction",
+              "label": "MHRA Drug Safety Update, antidepressants",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU / Ireland",
+          "regulator": "EMA / HPRA",
+          "status": "Approved through national procedures. EMA harmonised Zoloft's EU uses in 2009 (depression, panic disorder, PTSD, social anxiety, OCD); PE is not among them. Ireland lists Lustral (sertraline) since 1991.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/zoloft",
+              "label": "EMA, Zoloft Article 30 referral",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), authorised human medicines list",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4, Poisons Standard June 2026). ARTG entry not checked.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Poisons Standard June 2026, Federal Register of Legislation (Australia)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Sertraline is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Sertraline's label carries a boxed warning on suicidal thoughts in young people and a warning on sexual side effects. In men, sexual side effects include delayed or failed ejaculation, lower libido and erectile dysfunction, the same effect the PE studies relied on."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Suicidal thoughts (boxed warning):",
+            "text": "in pooled trials of about 77,000 adults and over 4,400 children and teenagers, suicidal thoughts and behaviors were more common on antidepressants than placebo under age 25: 14 more per 1,000 patients under 18 and 5 more per 1,000 aged 18 to 24. They were less common at 25 and older.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Sexual side effects in men:",
+            "text": "in placebo-controlled trials, ejaculation failure 8% vs 1% on placebo, lower libido 7% vs 2%, erectile dysfunction 4% vs 1%, ejaculation disorder 3% vs 0%, and other male sexual dysfunction 2% vs 0%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Sexual problems after stopping:",
+            "text": "in October 2026 the UK's MHRA said some antidepressants, sertraline among them, are linked to sexual problems that may continue after the medicine is stopped (“PSSD”), and is adding this to UK leaflets.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/antidepressants-new-safety-measures-for-all-patients-to-improve-communication-of-the-risk-of-suicidal-thoughts-and-behaviours-and-persistent-sexual-dysfunction",
+                "label": "MHRA Drug Safety Update, antidepressants",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Most common:",
+            "text": "nausea, diarrhea, tremor, indigestion, lower appetite, sweating, ejaculation failure and lower libido.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Serious warnings:",
+            "text": "serotonin syndrome (higher risk with other serotonin drugs), bleeding risk (higher with aspirin, NSAIDs or blood thinners), triggering mania, seizures, angle-closure glaucoma, low blood sodium, and QT prolongation of the heart rhythm.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Stopping:",
+            "text": "stopping suddenly can cause nausea, sweating, dizziness, electric-shock sensations, anxiety, irritability and other symptoms. The label advises a gradual reduction.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+                "label": "Zoloft label, DailyMed",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "In the PE trials:",
+            "text": "pooled data showed a higher risk of stomach upset on sertraline.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31169738/",
+                "label": "Yi ZM, et al. Medicine (Baltimore) 2019;98(23):e15989",
+                "date": "published Jun 2019"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Health Canada's Drug Product Database did not load, so Canada's status is not stated.",
+    "Australia's TGA site (ARTG) did not load; only the Poisons Standard schedule was checked.",
+    "The form of Adonis's compounded sertraline is not on file and is not described.",
+    "The 2006 Saudi trial summary gives 147 men enrolled but 157 men assessed; we did not read the full paper to resolve this."
+  ],
+  "surprises": [
+    "Sertraline is often described as a PE treatment, but no regulator we checked approves it for PE; EMA's 2009 harmonised EU uses do not include it.",
+    "The UK's MHRA (October 2026) warns that sexual problems may continue after stopping sertraline; the current US Zoloft label (revised August 2023) describes sexual side effects but does not say they may persist after stopping."
+  ]
+}

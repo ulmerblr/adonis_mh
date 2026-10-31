@@ -1,0 +1,586 @@
+{
+  "slug": "oxytocin",
+  "name": "Oxytocin",
+  "peptide": true,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Few small studies in men",
+    "fda": "Approved (Pitocin)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat studies of male sexual behavior",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small studies in healthy men, 2001 to 2014",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "None found for male sexual use",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found for male sexual use",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found for male sexual use",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Pitocin injection, labor and after birth only",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Oxytocin is a hormone found in the pituitary gland of mammals. It is a small peptide, a chain of nine amino acids. The medicine version is made synthetically. Its molecular weight is about 1,007 daltons.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+            "label": "Pitocin label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the womb, oxytocin binds to its own receptors and raises calcium inside muscle cells, which makes the uterus contract. The number of these receptors rises sharply in pregnancy. Oxytocin also has a weak effect on blood pressure and makes the kidneys hold on to water, because its structure is close to vasopressin. In the blood it lasts only about 1 to 6 minutes.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+            "label": "Pitocin label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries compounded oxytocin as a nasal spray, as strips and tablets that dissolve in the mouth, and as a chewable gummy. Oxytocin is also an ingredient in Adonis combination products with tadalafil, sildenafil or bremelanotide (PT-141), given as troches, tablets, oral strips or a gummy."
+      },
+      {
+        "t": "callout",
+        "text": "The only FDA-approved oxytocin is an injection for use in pregnancy and after birth. None of the forms Adonis carries is FDA approved, and use for male sexual function is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence on oxytocin and male sexual function is a few small studies, mostly one dose in healthy men or couples. We found no Phase II or Phase III trial in men with a sexual problem, and no human study of oxytocin taken by mouth, strip, troche or gummy."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run. All used a nasal spray."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Austria · 2001 · Randomized study",
+        "title": "Time to ejaculation and semen, 2001 (Austria)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "prospective randomized study at a private fertility center. The control group got no treatment (no placebo)."
+          },
+          {
+            "k": "People",
+            "v": "103 healthy men (semen donors or husbands of IVF patients); 49 got oxytocin, 54 did not"
+          },
+          {
+            "k": "Length",
+            "v": "one dose, just before masturbation"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation and semen quality"
+          }
+        ],
+        "found": "No significant difference between the groups in time to ejaculation or semen quality.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11808847/",
+            "label": "Walch K, et al. J Assist Reprod Genet 2001;18(12):655-9",
+            "date": "published Dec 2001"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Switzerland · 2008 · Randomized crossover",
+        "title": "Lab sexual arousal in healthy men, 2008 (Switzerland)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "10 healthy men"
+          },
+          {
+            "k": "Length",
+            "v": "one dose per session, in a lab, with an erotic film and masturbation"
+          },
+          {
+            "k": "Measured",
+            "v": "hormones, heart rate, and a sexual experience questionnaire"
+          }
+        ],
+        "found": "Blood oxytocin and adrenaline rose. Desire, arousal, orgasm and recovery scores did not change. Eight of the 10 men guessed correctly when they had been given oxytocin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18375074/",
+            "label": "Burri A, et al. Psychoneuroendocrinology 2008;33(5):591-600",
+            "date": "published Jun 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2014 · Randomized study",
+        "title": "Couples at home, 2014 (Germany)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "listed on PubMed as a randomized controlled trial; run in a home-like setting"
+          },
+          {
+            "k": "People",
+            "v": "29 healthy heterosexual couples (58 people)"
+          },
+          {
+            "k": "Length",
+            "v": "single doses before sex"
+          },
+          {
+            "k": "Measured",
+            "v": "sexual experience questionnaires, stress markers and heart rate"
+          }
+        ],
+        "found": "Oxytocin did not change sexual drive, arousal, erection or lubrication. It was linked to stronger orgasm and more contentment after sex, more so in men. The authors called the effects small to moderate.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24503174/",
+            "label": "Behnia B, et al. Horm Behav 2014;65(3):308-18",
+            "date": "published Mar 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Austria · 2017 · Open cohort",
+        "title": "Male partners of women treated for low desire, 2017 (Austria)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open prospective cohort. The women, not the men, used oxytocin or placebo in a separate randomized trial."
+          },
+          {
+            "k": "People",
+            "v": "male partners of 30 women with low sexual desire"
+          },
+          {
+            "k": "Length",
+            "v": "22 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "men's sexual quality of life, sexual activity and mood"
+          }
+        ],
+        "found": "Men's scores improved both when their partner used oxytocin and when she used placebo. There was no difference between oxytocin and placebo on any outcome.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28189292/",
+            "label": "Muin DA, et al. Fertil Steril 2017;107(3):781-787",
+            "date": "published Mar 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Case report",
+        "title": "One man treated for social anxiety, 2012 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single case report, no control"
+          },
+          {
+            "k": "People",
+            "v": "1 man given oxytocin nasal spray off-label for social anxiety"
+          },
+          {
+            "k": "Measured",
+            "v": "the man's own report of sexual changes"
+          }
+        ],
+        "found": "He reported changes in desire, erection and orgasm. One case cannot show cause and effect.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22458365/",
+            "label": "MacDonald K, Feifel D. J Sex Med 2012;9(5):1407-10",
+            "date": "published May 2012"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In male rats, oxytocin injected into a brain area that controls sexual behavior increased mating, and a drug that blocks oxytocin reduced some parts of it.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21195714/",
+            "label": "Gil M, et al. Horm Behav 2011;59(4):435-43",
+            "date": "published Apr 2011"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2021 review found that animal studies support a role for oxytocin in sexual behavior, but that studies with nasal oxytocin in men and women have not confirmed it.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34638719/",
+            "label": "Melis MR, Argiolas A. Int J Mol Sci 2021;22(19):10376",
+            "date": "published Sep 2021"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Animal results have not been confirmed in people."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Oxytocin is FDA approved only as an injection, sold as Pitocin and as generics, for use in pregnancy and after birth. It is not approved for any use in men. Use for male sexual function is off-label. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "Pitocin (oxytocin injection), NDA 018261. FDA's Drugs@FDA data show the original approval of this application on November 19, 1980.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:\"NDA018261\"",
+                "label": "Drugs@FDA data (openFDA), Pitocin NDA 018261",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Approved uses:",
+            "text": "to start or strengthen labor when there is a medical reason, as added treatment for incomplete or inevitable abortion, and to help the uterus contract and control bleeding after birth.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed notice:",
+            "text": "the label's boxed “Important Notice” says Pitocin is not indicated for elective induction of labor (induction with no medical reason), because the data are inadequate to weigh benefits and risks.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "How it is given:",
+            "text": "for labor, the label says it must be given only by vein, in a hospital, under medical supervision.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Nasal spray:",
+            "text": "an oxytocin nasal spray, Syntocinon (NDA 12-285, Novartis), was once FDA approved. FDA withdrew its approval effective September 8, 1997, at the maker's request, because it was no longer marketed. Drugs@FDA lists it as discontinued. No oxytocin nasal spray is FDA approved today.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-1997-08-07/pdf/97-20871.pdf",
+                "label": "Federal Register 62 FR (Aug 7, 1997), withdrawal of approval of NDAs",
+                "date": "published Aug 1997"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:\"NDA012285\"",
+                "label": "Drugs@FDA data (openFDA), Syntocinon nasal NDA 012285",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding (503A):",
+            "text": "pharmacies compounding under section 503A may use a bulk substance that has a USP monograph, or is a component of an FDA-approved drug, or is on FDA's 503A list. Oxytocin is the active ingredient of approved Pitocin. It is not on FDA's 503A category lists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances under section 503A",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A nominated substances by category",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding (503B):",
+            "text": "for outsourcing facilities, FDA lists oxytocin in 503B Category 1 (under evaluation), marked as a component of an FDA-approved drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B nominated substances by category",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Oxytocin injection is a prescription medicine for childbirth in every country we checked. We found no regulator that approves oxytocin for male sexual function, and no country record of an approved oxytocin nasal spray, strip or tablet.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Pitocin injection, labor and after birth). Prescription-only. Not approved for men.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+              "label": "Pitocin label, DailyMed",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:\"NDA018261\"",
+              "label": "Drugs@FDA data (openFDA), Pitocin NDA 018261",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Prescription-only medicine. UK law lists injected oxytocin among the medicines midwives may give.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.uk/uksi/2012/1916/schedule/17",
+              "label": "Human Medicines Regulations 2012, Schedule 17 (UK)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "EU / Ireland",
+          "regulator": "EMA / HPRA",
+          "status": "No EU-wide (EMA) authorisation. Ireland's HPRA lists authorised oxytocin injections and infusions (Syntocinon, Ofost); no nasal or oral form.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), authorised human medicines list",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4, Poisons Standard June 2026). ARTG entry not checked.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Poisons Standard June 2026, Federal Register of Legislation (Australia)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Oxytocin is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label's side effects come from use in pregnancy and labor. No label describes effects in men. The studies in men were small and mostly one dose, and their summaries do not report side effects in detail."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Water intoxication:",
+            "text": "oxytocin makes the kidneys hold water. Severe water intoxication with seizures and coma has occurred, and deaths have been reported, with long infusions.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Heart and blood pressure:",
+            "text": "reported reactions include irregular heartbeats, high blood pressure episodes and bleeding in the brain (subarachnoid hemorrhage). Severe high blood pressure has been reported when oxytocin followed certain other drugs given during anesthesia.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Allergy and stomach:",
+            "text": "anaphylaxis (severe allergic reaction), nausea and vomiting.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "In labor:",
+            "text": "too much stimulation of the uterus can cause it to rupture, heavy bleeding after birth, and harm or death of the baby.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+                "label": "Pitocin label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Who these apply to:",
+            "text": "the water-holding and blood-pressure effects come from how oxytocin acts on the body, not from pregnancy, but the label's data are from women in labor. No regulator record we found describes side effects in men using nasal or oral oxytocin."
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Health Canada's Drug Product Database did not load, so Canada's status is not stated.",
+    "Australia's TGA site (ARTG) did not load; only the Poisons Standard schedule was checked.",
+    "We could not open MHRA's product licence search; the UK status rests on UK law, not on a product licence record.",
+    "The Drugs@FDA website did not load; FDA approval facts come from FDA's openFDA copy of Drugs@FDA. We could not confirm when oxytocin was first approved in the US before the 1980 date shown for Pitocin's current application.",
+    "We could not find when the Syntocinon nasal spray was first approved in the US."
+  ],
+  "surprises": [
+    "An oxytocin nasal spray was once FDA approved (Syntocinon), but FDA withdrew that approval in 1997 at the maker's request. Every oxytocin nasal spray sold in the US today is compounded and not FDA approved.",
+    "Oxytocin is often promoted for male sexual performance, but controlled studies in healthy men found no change in desire, arousal or erection, and no change in time to ejaculation.",
+    "Pitocin's label says it is not indicated even for elective induction of labor, and that for labor it should be given only by vein in a hospital."
+  ]
+}

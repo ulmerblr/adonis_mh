@@ -48,12 +48,12 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'KPV', peptide: true, page: { href: '/kpv', evidence: 'Animal and cell only', fda: 'Not approved', sport: 'Not listed' } },
   ],
   vitality: [
-    { name: 'Sildenafil' },
-    { name: 'Tadalafil' },
-    { name: 'Vardenafil' },
-    { name: 'Oxytocin', peptide: true },
-    { name: 'Bremelanotide (PT-141)', peptide: true },
-    { name: 'Sertraline (Zoloft)' },
+    { name: 'Sildenafil', page: { href: '/sildenafil', evidence: 'Approved; many RCTs', fda: 'Approved (Viagra)', sport: 'Not listed' } },
+    { name: 'Tadalafil', page: { href: '/tadalafil', evidence: 'Approved; many RCTs', fda: 'Approved (Cialis)', sport: 'Not listed' } },
+    { name: 'Vardenafil', page: { href: '/vardenafil', evidence: 'Approved; many RCTs', fda: 'Approved (Levitra)', sport: 'Not listed' } },
+    { name: 'Oxytocin', peptide: true, page: { href: '/oxytocin', evidence: 'Few small studies in men', fda: 'Approved (Pitocin)', sport: 'Not listed' } },
+    { name: 'Bremelanotide (PT-141)', peptide: true, page: { href: '/bremelanotide', evidence: 'Women RCTs; few in men', fda: 'Approved (Vyleesi)', sport: 'Not listed' } },
+    { name: 'Sertraline (Zoloft)', page: { href: '/sertraline', evidence: 'Approved; small PE RCTs', fda: 'Approved (Zoloft)', sport: 'Not listed' } },
   ],
   energy: [
     { name: 'Vitamin B12' },

@@ -1,0 +1,151 @@
+{
+  "slug": "tadalafil",
+  "name": "Tadalafil",
+  "peptide": false,
+  "lanes": ["vitality"],
+  "index": { "evidence": "Approved; many RCTs", "fda": "Approved (Cialis)", "sport": "Not listed" },
+  "track": [
+    { "title": "Lab & animal", "line": "Not reviewed for this page", "status": "done" },
+    { "title": "Pilot in people", "line": "Not reviewed for this page", "status": "done" },
+    { "title": "Phase I", "line": "Not reviewed for this page", "status": "done" },
+    { "title": "Phase II", "line": "BPH dose-finding trial, 1,058 men, 2008", "status": "done" },
+    { "title": "Phase III", "line": "22 ED trials, 4,000+ men (Cialis label)", "status": "done" },
+    { "title": "FDA approval", "line": "Cialis 2003 ED, 2011 BPH; Adcirca 2009 PAH", "status": "done", "here": true }
+  ],
+  "sections": {
+    "what": [
+      { "t": "p", "text": "Tadalafil is a small-molecule drug called a PDE5 inhibitor. It is the active ingredient in Cialis, approved for erectile dysfunction (ED) and for symptoms of benign prostatic hyperplasia (BPH, an enlarged prostate that is not cancer), and in Adcirca, approved for pulmonary arterial hypertension (PAH).", "src": [
+        { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, DailyMed", "date": "published Jun 2026" },
+        { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff61b237-be8e-461b-8114-78c52a8ad0ae", "label": "Adcirca label, DailyMed", "date": "published Dec 2025" } ] },
+      { "t": "h3", "text": "How it acts, according to the FDA label" },
+      { "t": "list", "items": [
+        { "text": "During sexual stimulation, nitric oxide from nerves and blood-vessel cells raises cGMP in penile smooth muscle. cGMP relaxes the muscle and increases blood flow.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 12.1", "date": "published Jun 2026" } ] },
+        { "text": "Tadalafil blocks PDE5, the enzyme that breaks cGMP down. The label says it has no effect without sexual stimulation.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 12.1", "date": "published Jun 2026" } ] },
+        { "text": "The same effect on cGMP is seen in the smooth muscle of the prostate, the bladder and their blood vessels. The label says how it reduces BPH symptoms has not been established.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 12.1", "date": "published Jun 2026" } ] },
+        { "text": "Its half-life is 17.5 hours in healthy people, much longer than sildenafil's.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 12.3", "date": "published Jun 2026" } ] }
+      ] },
+      { "t": "h3", "text": "What Adonis carries (form only)" },
+      { "t": "list", "items": [
+        { "lead": "Tadalafil Troches:", "text": "tadalafil alone, dissolved in the mouth." },
+        { "lead": "Tadalafil Gum:", "text": "tadalafil alone, chewed." },
+        { "lead": "Tadalafil + Sildenafil Troches and Sildenafil + Tadalafil Gummy:", "text": "two ED medicines together, dissolved in the mouth or chewed." },
+        { "lead": "Sildenafil + Tadalafil + Oxytocin oral strip:", "text": "two ED medicines with oxytocin, a peptide hormone, dissolved on the tongue." },
+        { "lead": "Tadalafil + Oxytocin troche, and Tadalafil + Oxytocin + PT-141 troches and dissolving tablet:", "text": "tadalafil with oxytocin, and in some with PT-141 (bremelanotide), dissolved in the mouth." },
+        { "lead": "Tadalafil tablet (5 mg):", "text": "taken by mouth. The catalog does not say whether it is an FDA-approved generic or a compounded tablet." }
+      ] },
+      { "t": "callout", "text": "The troches, gums, gummies, strips and dissolving tablets are compounded products. They are not FDA approved." }
+    ],
+    "research": [
+      { "t": "lead", "text": "Tadalafil has a large body of randomized trials. The Cialis label says its use for ED was studied in 22 clinical trials of up to 24 weeks in more than 4,000 men. Four published studies are listed below as they were run, including one of tadalafil taken alongside sildenafil." },
+      { "t": "p", "text": "The label's main ED trials were 7 randomized, double-blind, placebo-controlled studies of 12 weeks, 2 in the US and 5 elsewhere. Food and alcohol were not restricted. The main measures were the erectile function part of the IIEF questionnaire and two questions from the Sexual Encounter Profile.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 14.1", "date": "published Jun 2026" } ] },
+      { "t": "h3", "text": "Human studies" },
+      { "t": "study", "meta": "Multinational · 2002 · Pooled analysis of 5 randomized trials", "title": "Erectile dysfunction, 5 trials pooled (J Urol 2002)", "facts": [
+        { "k": "Citation", "v": "Brock GB, McMahon CG, Chen KK, et al. J Urol 2002;168(4 Pt 1):1332-6" },
+        { "k": "Design", "v": "integrated analysis of 5 randomized, double-blind, placebo-controlled trials" },
+        { "k": "People", "v": "1,112 men, mean age 59 (range 22 to 82), with mild to severe ED of various causes" },
+        { "k": "What was given", "v": "tadalafil 2.5, 5, 10 or 20 mg or placebo, as needed, up to once daily, with no food or alcohol limits" },
+        { "k": "Length", "v": "12 weeks" },
+        { "k": "Measured", "v": "IIEF erectile function score and Sexual Encounter Profile questions 2 and 3; a global question" } ],
+        "found": "On 20 mg, the IIEF erectile function score rose by a mean of 7.9 points from baseline (P<0.001 vs placebo). 75% of intercourse attempts were completed, and 81% reported better erections vs 35% on placebo. Headache and indigestion were the most frequent side effects.",
+        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/12352386/", "label": "Brock et al., J Urol, PubMed", "date": "published Oct 2002" } ] },
+      { "t": "study", "meta": "2008 · Randomized, placebo-controlled dose-finding trial", "title": "Enlarged prostate (BPH) urinary symptoms (J Urol 2008)", "facts": [
+        { "k": "Citation", "v": "Roehrborn CG, McVary KT, Elion-Mboussa A, Viktrup L. J Urol 2008;180(4):1228-34" },
+        { "k": "Design", "v": "randomized, placebo-controlled, after a 4-week placebo run-in" },
+        { "k": "People", "v": "1,058 men with urinary symptoms from BPH" },
+        { "k": "What was given", "v": "tadalafil 2.5, 5, 10 or 20 mg or placebo, once daily" },
+        { "k": "Length", "v": "12 weeks" },
+        { "k": "Measured", "v": "International Prostate Symptom Score (IPSS); urine peak flow; IIEF erectile function" } ],
+        "found": "IPSS fell 3.9 to 5.2 points across tadalafil doses vs 2.3 on placebo (P=0.015 for 2.5 mg, P<0.001 for the others). Peak urine flow did not change significantly at any dose. Side effects were reported as infrequent.",
+        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/18722631/", "label": "Roehrborn et al., J Urol, PubMed", "date": "published Oct 2008" } ] },
+      { "t": "study", "meta": "2009 · Randomized, double-blind trial", "title": "Pulmonary arterial hypertension, PHIRST (Circulation 2009)", "facts": [
+        { "k": "Citation", "v": "Galiè N, Brundage BH, Ghofrani HA, et al. Circulation 2009;119(22):2894-903" },
+        { "k": "Design", "v": "randomized, double-blind, placebo-controlled" },
+        { "k": "People", "v": "405 people with PAH, either new to treatment or already taking bosentan" },
+        { "k": "What was given", "v": "tadalafil 2.5, 10, 20 or 40 mg or placebo, once daily" },
+        { "k": "Length", "v": "16 weeks, with an optional long-term extension" },
+        { "k": "Measured", "v": "change in 6-minute walk distance (main measure); WHO class, clinical worsening, quality of life" } ],
+        "found": "Walk distance rose with dose, but only the 40 mg dose met the preset level of significance (P<0.01); the overall placebo-corrected effect was 33 m. Changes in WHO class were not significant. Headache, muscle pain and flushing were the most common side effects.",
+        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/19470885/", "label": "Galiè et al., Circulation, PubMed", "date": "published Jun 2009" } ] },
+      { "t": "study", "meta": "China · 2015 · Two-group study (off-label combination)", "title": "Daily tadalafil with or without sildenafil as needed (Andrologia 2015)", "facts": [
+        { "k": "Citation", "v": "Cui H, Liu B, Song Z, et al. Andrologia 2015;47(1):20-4" },
+        { "k": "Design", "v": "two groups assigned 1:1. The abstract does not say whether the study was blinded or placebo-controlled." },
+        { "k": "People", "v": "180 men with ED" },
+        { "k": "What was given", "v": "tadalafil 5 mg once daily alone, or tadalafil 5 mg once daily plus sildenafil 50 mg as needed" },
+        { "k": "Length", "v": "not stated in the abstract" },
+        { "k": "Measured", "v": "IIEF-5 questionnaire, Sexual Encounter Profile, side effects" } ],
+        "found": "IIEF-5 scores were higher in the combined group among men with severe ED. Side-effect rates did not differ between groups. The two drugs were given on separate schedules; this was not a study of a single combined product.",
+        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/24387078/", "label": "Cui et al., Andrologia, PubMed", "date": "published Feb 2015" } ] },
+      { "t": "callout", "text": "A PubMed search for this page found no published human study of tadalafil given as a gum, gummy or troche, or combined with oxytocin or PT-141." }
+    ],
+    "us": [
+      { "t": "lead", "text": "Tadalafil is FDA approved, by prescription, as Cialis (2003 for ED; 2011 for BPH, and for ED with BPH) and Adcirca (2009, PAH). The compounded forms Adonis carries through Beluga are not FDA approved. As of October 31, 2026." },
+      { "t": "list", "items": [
+        { "lead": "Cialis:", "text": "approved November 21, 2003 (NDA 021368) as a new molecular entity, for erectile dysfunction.", "src": [ { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021368", "label": "Drugs@FDA, NDA 021368", "date": "accessed Oct 31, 2026" } ] },
+        { "lead": "Cialis for BPH:", "text": "on October 6, 2011, FDA approved two supplements: treatment of the signs and symptoms of BPH, and treatment of ED with the signs and symptoms of BPH.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021368s020,s021ltr.pdf", "label": "FDA approval letter, NDA 021368/S-020 and S-021", "date": "published Oct 2011" } ] },
+        { "lead": "Adcirca:", "text": "approved May 22, 2009 (NDA 022332) for PAH (WHO Group 1), to improve exercise ability.", "src": [
+          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022332", "label": "Drugs@FDA, NDA 022332", "date": "accessed Oct 31, 2026" },
+          { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff61b237-be8e-461b-8114-78c52a8ad0ae", "label": "Adcirca label, DailyMed", "date": "published Dec 2025" } ] },
+        { "lead": "Chewtadzy:", "text": "a chewable tadalafil tablet approved June 28, 2024 (NDA 218527) for ED, BPH, and ED with BPH. It is now listed as discontinued, and FDA determined it was not withdrawn for safety or effectiveness reasons. It is a different product from the compounded gums Adonis carries.", "src": [
+          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=218527", "label": "Drugs@FDA, NDA 218527", "date": "accessed Oct 31, 2026" },
+          { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218527s000lbl.pdf", "label": "Chewtadzy label, FDA", "date": "published Jun 2024" } ] },
+        { "lead": "Do not combine (contraindications):", "text": "the label says tadalafil must not be used with any form of organic nitrate or with guanylate cyclase stimulators such as riociguat.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 4", "date": "published Jun 2026" } ] },
+        { "lead": "Combining with other ED drugs:", "text": "the Cialis label says combinations with other PDE5 inhibitors or ED treatments have not been studied, and tells prescribers to inform patients not to take Cialis with other PDE5 inhibitors, including Adcirca.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 5.11", "date": "published Jun 2026" } ] },
+        { "lead": "Approved combinations:", "text": "FDA's Drugs@FDA data list tadalafil combined only with finasteride or with macitentan. None combines it with sildenafil, oxytocin or PT-141.", "src": [ { "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22TADALAFIL%22&limit=100", "label": "openFDA Drugs@FDA query: tadalafil", "date": "accessed Oct 31, 2026" } ] },
+        { "lead": "Off-label:", "text": "taking tadalafil as a gum, gummy or troche, or in one dose with sildenafil, oxytocin or PT-141, is not an approved use. It is off-label." }
+      ] },
+      { "t": "callout", "text": "The tadalafil troches, gums, gummies, strips and dissolving tablets Adonis carries through Beluga, including the combinations with sildenafil, oxytocin and PT-141, are compounded. Compounded drugs are not FDA approved." },
+      { "t": "p", "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.", "src": [ { "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers", "label": "FDA, Compounding and the FDA: Questions and Answers", "date": "published Sep 2025" } ] }
+    ],
+    "world": {
+      "lead": "Tadalafil is an approved prescription medicine in the US, the EU and Australia. In the UK, one 10 mg brand, Cialis Together, may be sold by pharmacists without a prescription. Canada's status is still being confirmed. It is not on WADA's Prohibited List.",
+      "countries": [
+        { "country": "United States", "regulator": "FDA", "status": "Approved medicine (Cialis 2003, ED; 2011, BPH and ED with BPH. Adcirca 2009, PAH). Prescription-only.", "checked": "Oct 31, 2026", "sources": [
+          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021368", "label": "Drugs@FDA, NDA 021368", "date": "accessed Oct 31, 2026" },
+          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022332", "label": "Drugs@FDA, NDA 022332", "date": "accessed Oct 31, 2026" } ], "iso": ["840"], "tone": "approved" },
+        { "country": "Canada", "regulator": "Health Canada", "status": "Status being confirmed with the regulator's record.", "checked": "—", "iso": ["124"], "tone": "pending" },
+        { "country": "United Kingdom", "regulator": "MHRA", "status": "Cialis Together (tadalafil 10 mg) reclassified to pharmacy medicine in March 2023, for men over 18 with ED, at most one tablet a day and packs of up to 8. Other tadalafil medicines stay prescription-only.", "checked": "Oct 31, 2026", "sources": [
+          { "url": "https://www.gov.uk/government/news/mhra-reclassifies-cialis-together-tablets-to-a-pharmacy-medicine", "label": "MHRA, Cialis Together reclassification", "date": "published Mar 2023" } ], "iso": ["826"], "tone": "otc" },
+        { "country": "European Union", "regulator": "EMA", "status": "Approved medicine. Cialis authorised November 12, 2002 (ED; also BPH); Adcirca authorised October 1, 2008 (PAH). Prescription-only.", "checked": "Oct 31, 2026", "sources": [
+          { "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cialis", "label": "EMA, Cialis EPAR", "date": "published Jan 2026" },
+          { "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/adcirca", "label": "EMA, Adcirca EPAR", "date": "published Jan 2026" } ], "iso": ["040", "056", "100", "191", "196", "203", "208", "233", "246", "250", "276", "300", "348", "372", "380", "428", "440", "442", "470", "528", "616", "620", "642", "703", "705", "724", "752"], "tone": "approved" },
+        { "country": "Australia", "regulator": "TGA", "status": "Approved medicine: TGA publishes product information for Cialis, Adcirca and other tadalafil brands. Prescription-only (Schedule 4).", "checked": "Oct 31, 2026", "sources": [
+          { "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=tadalafil", "label": "TGA, PI/CMI search: tadalafil", "date": "accessed Oct 31, 2026" },
+          { "url": "https://www.legislation.gov.au/F2026L01327/asmade/text", "label": "Poisons Standard, October 2026", "date": "published Sep 2026" } ], "iso": ["036"], "tone": "approved" }
+      ],
+      "after": [
+        { "t": "p", "text": "Canada: in January 2026, Health Canada warned about counterfeit Cialis and Viagra seized in Ontario. It described tadalafil and sildenafil as prescription drugs that should be used only under a health care professional's supervision and never with nitrate drugs.", "src": [ { "url": "https://recalls-rappels.canada.ca/en/alert-recall/fake-cialis-and-viagra-seized-bitco-distribution-ontario", "label": "Health Canada advisory, counterfeit Viagra and Cialis", "date": "published Jan 2026" } ] },
+        { "t": "card", "title": "Sport", "text": "Tadalafil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no government approval for human use, and tadalafil is approved (see above).", "src": [
+          { "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf", "label": "WADA 2026 Prohibited List", "date": "published Sep 2025" },
+          { "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf", "label": "WADA 2027 Prohibited List (redline)", "date": "published Sep 2026" },
+          { "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf", "label": "WADA 2027 Monitoring Program", "date": "published Sep 2026" } ] }
+      ]
+    },
+    "side": [
+      { "t": "lead", "text": "The label lists headache, indigestion and back pain as the most common side effects. Serious risks include a dangerous drop in blood pressure with nitrates, erections lasting more than 4 hours, sudden vision loss and sudden hearing loss." },
+      { "t": "list", "items": [
+        { "lead": "Common, as-needed use for ED:", "text": "in 8 placebo-controlled 12-week studies: headache (11% to 15% on tadalafil vs 5% on placebo), indigestion (4% to 10% vs 1%), back pain (3% to 6% vs 3%), muscle pain, stuffy nose, flushing and pain in a limb (up to 4%). 3.1% stopped for side effects on 10 or 20 mg, vs 1.4% on placebo.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 6.1", "date": "published Jun 2026" } ] },
+        { "lead": "Nitrates and riociguat:", "text": "contraindicated. If a man who has taken tadalafil needs a nitrate in a life-threatening emergency, the label says at least 48 hours should have passed since his last dose, with close medical monitoring.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, sections 4 and 5.1", "date": "published Jun 2026" } ] },
+        { "lead": "Heart:", "text": "ED treatments should not be used in men for whom sexual activity is inadvisable because of their heart condition. Men with recent heart attack, unstable angina, significant heart failure, uncontrolled arrhythmias, low or uncontrolled high blood pressure, or recent stroke were not included in the trials, and the label says Cialis is not recommended for them until more is known.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 5.1", "date": "published Jun 2026" } ] },
+        { "lead": "Prolonged erection and priapism:", "text": "rare reports for this drug class. Priapism not treated promptly can permanently damage erectile tissue.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 5.3", "date": "published Jun 2026" } ] },
+        { "lead": "Sudden vision loss:", "text": "can be a sign of NAION, a type of optic nerve damage that can be permanent. Two observational studies cited in the label estimated about a 2-fold higher risk of NAION soon after PDE5 inhibitor use (2.15 and 2.27).", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 5.4", "date": "published Jun 2026" } ] },
+        { "lead": "Sudden hearing loss:", "text": "the label tells patients to stop and seek prompt care if hearing suddenly drops or is lost.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 5.5", "date": "published Jun 2026" } ] },
+        { "lead": "Low blood pressure:", "text": "with alpha-blockers, blood-pressure medicines or substantial alcohol (5 units or more). CYP3A4 inhibitors such as ketoconazole and ritonavir raise tadalafil levels.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, sections 5.6, 5.9 and 5.10", "date": "published Jun 2026" } ] },
+        { "lead": "Combined with sildenafil:", "text": "the Cialis label says combinations with other PDE5 inhibitors have not been studied, and patients should be told not to take them together. Several Adonis products combine tadalafil and sildenafil.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895", "label": "Cialis label, section 5.11", "date": "published Jun 2026" } ] },
+        { "lead": "Adcirca (PAH) warnings:", "text": "not recommended in pulmonary veno-occlusive disease; sudden vision or hearing loss can occur.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff61b237-be8e-461b-8114-78c52a8ad0ae", "label": "Adcirca label, DailyMed", "date": "published Dec 2025" } ] },
+        { "lead": "Illegal and fake products:", "text": "MHRA seized about 19.5 million doses of illegally traded ED medicines from 2021 to 2025, including tadalafil. It says such products may contain no active ingredient, the wrong dose, hidden drugs or toxic ingredients.", "src": [ { "url": "https://www.gov.uk/government/news/20-million-illegal-erectile-dysfunction-pills-seized-as-mhra-warns-against-risky-online-buys", "label": "MHRA, ED pill seizures", "date": "published Feb 2026" } ] }
+      ] }
+    ]
+  },
+  "unconfirmed": [
+    "Health Canada's Drug Product Database could not be reached, so no Canadian authorization of Cialis, Adcirca or another tadalafil brand is confirmed here.",
+    "TGA's ARTG (tga.gov.au) did not respond; Australian status rests on TGA's PI/CMI search and the Poisons Standard.",
+    "The Adonis catalog does not say whether its tadalafil 5 mg tablet is an FDA-approved generic or a compounded tablet.",
+    "The date FDA approved once-daily Cialis for ED was not confirmed from a Drugs@FDA record.",
+    "No published human study of tadalafil as a gum, gummy or troche, or with oxytocin or PT-141, was found; this rests on one PubMed search."
+  ],
+  "surprises": [
+    "The Cialis label says to tell patients not to take it with other PDE5 inhibitors, yet several Adonis products put tadalafil and sildenafil in one dose.",
+    "FDA approved a chewable tadalafil tablet (Chewtadzy) in 2024, now discontinued; the tadalafil gums Adonis carries are compounded, not that approved product.",
+    "FDA's records list no approved product combining tadalafil with oxytocin or PT-141, although Adonis carries several such combinations."
+  ]
+}

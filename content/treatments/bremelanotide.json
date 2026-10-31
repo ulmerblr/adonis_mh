@@ -1,0 +1,630 @@
+{
+  "slug": "bremelanotide",
+  "name": "Bremelanotide (PT-141)",
+  "peptide": true,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Women RCTs; few in men",
+    "fda": "Approved (Vyleesi)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Developed as a melanocortin agonist",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small erection studies in men, 2004 to 2005",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Safety studies incl. healthy men and women",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Phase II trials in women, from 2006 and 2011",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Two 24-week trials in premenopausal women",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Vyleesi, 2019, low desire in premenopausal women",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Bremelanotide, also called PT-141, is a synthetic peptide: a ring-shaped chain of seven amino acids, modelled on a natural hormone called alpha-melanocyte-stimulating hormone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14963471/",
+            "label": "Diamond LE, et al. Int J Impot Res 2004;16(1):51-9",
+            "date": "published Feb 2004"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28189361/",
+            "label": "Clayton AH, et al. Clin Ther 2017;39(3):514-526",
+            "date": "published Mar 2017"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It switches on melanocortin receptors, several at once. At the doses studied, the MC1 and MC4 receptors matter most. MC4 receptors sit on nerve cells across the brain. MC1 receptors sit on pigment cells in the skin, which is why it can darken skin. The label says how it works for low sexual desire in women is unknown.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+            "label": "Vyleesi label, DailyMed",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries compounded bremelanotide as an oral strip that dissolves on the tongue. It is also an ingredient in Adonis combination products with oxytocin, or with tadalafil and oxytocin, given as a gummy, a tablet or troches."
+      },
+      {
+        "t": "callout",
+        "text": "The only FDA-approved bremelanotide is Vyleesi, an injection under the skin, for premenopausal women. None of the forms Adonis carries is FDA approved, and use in men is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Approval rests on two Phase III trials in premenopausal women. In men, the published studies are small early studies run by the developer, Palatin, in 2004 and 2005, and one larger randomized trial from Iran in 2008 that its journal later flagged with an expression of concern. These studies used a nasal spray or injection, not a form taken by mouth."
+      },
+      {
+        "t": "h3",
+        "text": "Studies in men"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2004 · Randomized, placebo-controlled",
+        "title": "Nasal spray, healthy men and men with ED, 2004",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled; two studies reported together; run by Palatin staff"
+          },
+          {
+            "k": "People",
+            "v": "healthy men, and men with mild-to-moderate ED who responded to Viagra. The summary does not give the numbers."
+          },
+          {
+            "k": "Measured",
+            "v": "erections measured by a device (RigiScan), drug levels in the blood, side effects"
+          }
+        ],
+        "found": "Erections were greater than with placebo at the higher doses tested. Flushing and nausea were the most common side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14963471/",
+            "label": "Diamond LE, et al. Int J Impot Res 2004;16(1):51-9",
+            "date": "published Feb 2004"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2004 · Placebo-controlled crossover",
+        "title": "Injection, men with poor response to Viagra, 2004",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two studies: rising doses in healthy men, then a placebo-controlled crossover in men with ED"
+          },
+          {
+            "k": "People",
+            "v": "healthy men, and men with ED who had an inadequate response to Viagra. The summary does not give the numbers."
+          },
+          {
+            "k": "Measured",
+            "v": "erections measured by RigiScan, with and without erotic video"
+          }
+        ],
+        "found": "Erections were greater than with placebo at both doses tested in the men with ED. The authors described it as well tolerated.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14999221/",
+            "label": "Rosen RC, et al. Int J Impot Res 2004;16(2):135-42",
+            "date": "published Apr 2004"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2005 · Randomized crossover",
+        "title": "Nasal spray plus sildenafil, 2005",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized crossover: low-dose sildenafil plus PT-141, sildenafil plus placebo spray, and placebo plus placebo"
+          },
+          {
+            "k": "People",
+            "v": "19 men with ED who responded to Viagra or Levitra"
+          },
+          {
+            "k": "Length",
+            "v": "single doses; erections measured over 6 hours with erotic video"
+          },
+          {
+            "k": "Measured",
+            "v": "erections by RigiScan, side effects"
+          }
+        ],
+        "found": "The combination produced a greater erection response than sildenafil alone. No new or more frequent side effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15833522/",
+            "label": "Diamond LE, et al. Urology 2005;65(4):755-9",
+            "date": "published Apr 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Iran · 2008 · Randomized, placebo-controlled",
+        "title": "Men with ED not helped by sildenafil, 2008 (Iran)",
+        "badge": "Expression of concern",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; nasal spray used at home"
+          },
+          {
+            "k": "People",
+            "v": "342 married men aged 28 to 59 with ED who had not responded to sildenafil (172 bremelanotide, 170 placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "at least 16 home attempts"
+          },
+          {
+            "k": "Measured",
+            "v": "International Index of Erectile Function, intercourse satisfaction, side effects"
+          }
+        ],
+        "found": "A positive result was reported in 33.5% on bremelanotide and 8.5% on placebo. More drug-related side effects occurred on bremelanotide. In January 2023 the Journal of Urology published an expression of concern about this paper.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18206919/",
+            "label": "Safarinejad MR, Hosseini SY. J Urol 2008;179(3):1066-71",
+            "date": "published Mar 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 · Randomized Phase I",
+        "title": "Safety with alcohol, men and women, 2017",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, three-way crossover; nasal spray"
+          },
+          {
+            "k": "People",
+            "v": "24 healthy adults (12 men, 12 women)"
+          },
+          {
+            "k": "Length",
+            "v": "7 days at a research unit"
+          },
+          {
+            "k": "Measured",
+            "v": "safety, blood pressure, drug levels, with and without alcohol"
+          }
+        ],
+        "found": "No drug interaction with alcohol and no drug-related drops in blood pressure were found. No one left the study for side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28189361/",
+            "label": "Clayton AH, et al. Clin Ther 2017;39(3):514-526",
+            "date": "published Mar 2017"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "The trials behind approval (women only)"
+      },
+      {
+        "t": "study",
+        "meta": "Phase III · began Dec 2014 and Jan 2015 · Two RCTs",
+        "title": "Premenopausal women with low sexual desire (Vyleesi)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two identical randomized, double-blind, placebo-controlled trials, then a 52-week open-label extension"
+          },
+          {
+            "k": "People",
+            "v": "premenopausal women with acquired, generalized HSDD: 635 on Vyleesi, 632 on placebo; ages 19 to 56"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks, injection used as needed before sex"
+          },
+          {
+            "k": "Measured",
+            "v": "a sexual desire score and a score for distress about low desire"
+          }
+        ],
+        "found": "Both trials showed statistically significant changes versus placebo. The desire score (range 1.2 to 6) rose 0.5 and 0.6 points on Vyleesi versus 0.2 on placebo; the distress score (range 0 to 4) fell 0.7 versus 0.4. More women stopped early on Vyleesi (40% vs 13%, and 39% vs 25%).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+            "label": "Vyleesi label, DailyMed",
+            "date": "published Nov 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02333071",
+            "label": "NCT02333071, ClinicalTrials.gov",
+            "date": "accessed Oct 31, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02338960",
+            "label": "NCT02338960, ClinicalTrials.gov",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No study we found tested bremelanotide taken by mouth, as a strip, troche, tablet or gummy."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Bremelanotide is FDA approved only as Vyleesi, an injection, for premenopausal women with acquired, generalized hypoactive sexual desire disorder (HSDD). It was first approved in 2019. The label says it is not indicated in men or to enhance sexual performance. Use in men is off-label. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "Vyleesi (bremelanotide injection), NDA 210557. Drugs@FDA data show the original approval on June 21, 2019. The label lists initial U.S. approval as 2019.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.brand_name:\"VYLEESI\"",
+                "label": "Drugs@FDA data (openFDA), Vyleesi NDA 210557",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Approved use:",
+            "text": "premenopausal women with low sexual desire that causes marked distress, developed after normal desire, and is not caused by another condition, relationship problems or a drug.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Limits of use:",
+            "text": "not indicated for HSDD after menopause, in men, or to enhance sexual performance.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Who should not use it:",
+            "text": "people with uncontrolled high blood pressure or known heart disease.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "under section 503A, pharmacies may use a bulk substance that has a USP monograph, or is a component of an FDA-approved drug, or is on FDA's 503A list. Bremelanotide is the active ingredient of approved Vyleesi.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances under section 503A",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA's lists:",
+            "text": "bremelanotide does not appear on FDA's 503A or 503B nominated-substance category lists, or on FDA's page of bulk substances with significant safety risks.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A nominated substances by category",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B nominated substances by category",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk substances with safety risks (Category 2)",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Outside the US we found no approval of bremelanotide. It has no EU-wide authorisation from EMA and is not on Ireland's list of authorised medicines. Records for Canada, the UK and Australia could not be confirmed.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Vyleesi injection, 2019, premenopausal women with HSDD). Prescription-only. Not approved for men.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+              "label": "Vyleesi label, DailyMed",
+              "date": "published Nov 2025"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.brand_name:\"VYLEESI\"",
+              "label": "Drugs@FDA data (openFDA), Vyleesi NDA 210557",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU / Ireland",
+          "regulator": "EMA / HPRA",
+          "status": "Not authorised: no EMA (EU-wide) authorisation, and not on Ireland's HPRA list. Other member states not checked.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), authorised human medicines list",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia: bremelanotide is not named in the June 2026 Poisons Standard. A related peptide, melanotan II, is listed there as Schedule 4 (prescription-only). We could not open the TGA's register to check for an approved product.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Poisons Standard June 2026, Federal Register of Legislation (Australia)",
+              "date": "published May 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Bremelanotide (PT-141) is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. The lists' class S0 bans, at all times, substances not covered by another class that have no current approval by any government health authority for human use. Bremelanotide is approved in the US (Vyleesi), so S0 does not cover it on that basis; WADA has not published a ruling on it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Vyleesi's label lists three main warnings: a short rise in blood pressure after each dose, darkening of patches of skin, and nausea. These come from trials in premenopausal women. The small studies in men most often reported flushing and nausea."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Blood pressure and heart rate:",
+            "text": "after each dose, blood pressure rose by up to 6 mmHg (top number) and 3 mmHg (bottom number), peaking 2 to 4 hours later, and heart rate fell by up to 5 beats a minute. These usually returned to normal within 12 hours. It is not recommended for people at high risk of heart disease.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Skin darkening:",
+            "text": "patches of darker skin, including on the face, gums and breasts, in 1% of women in the Phase III trials. In another study, 38% developed them after 8 daily doses. Darker skin raised the risk. The darkening did not clearly go away in everyone after stopping.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Nausea:",
+            "text": "in 40% of women on Vyleesi, versus 1.3% on placebo. 13% needed anti-nausea medicine and 8% left the trials because of it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Other common effects:",
+            "text": "flushing (20.3%), injection-site reactions (13.2%), headache (11.3%) and vomiting (4.8%). 18% stopped because of side effects, versus 2% on placebo. Serious adverse reactions: 1.1% versus 0.5%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Other drugs:",
+            "text": "it may slow stomach emptying and so delay or reduce absorption of medicines taken by mouth. It can sharply lower blood levels of oral naltrexone.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "animal studies suggest possible harm to a fetus.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+                "label": "Vyleesi label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "In men:",
+            "text": "flushing and nausea were the most common side effects in early nasal-spray studies, and the 2008 Iranian trial reported more drug-related side effects than placebo. No label describes effects in men.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/14963471/",
+                "label": "Diamond LE, et al. Int J Impot Res 2004;16(1):51-9",
+                "date": "published Feb 2004"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18206919/",
+                "label": "Safarinejad MR, Hosseini SY. J Urol 2008;179(3):1066-71",
+                "date": "published Mar 2008"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Health Canada's Drug Product Database did not load, so Canada's status is not stated.",
+    "MHRA's product search did not load, so the UK status is not stated.",
+    "Australia's TGA site (ARTG) did not load; only the Poisons Standard was checked.",
+    "The 2004 Palatin study summaries do not give how many men took part; we did not read the full papers.",
+    "We could not confirm from a primary record why the developer stopped work on bremelanotide for erectile dysfunction.",
+    "We could not confirm whether a USP monograph exists for bremelanotide."
+  ],
+  "surprises": [
+    "PT-141 is widely sold for men, but the only approved product, Vyleesi, carries a label that says it is not indicated in men or to enhance sexual performance.",
+    "The largest trial in men (Iran, 2008) is the subject of a 2023 expression of concern from the Journal of Urology.",
+    "Vyleesi is an injection. We found no published human study of bremelanotide taken by mouth, as a strip, troche, tablet or gummy.",
+    "The label reports skin darkening in 38% of women after 8 daily doses, and it did not clearly reverse in everyone."
+  ]
+}
