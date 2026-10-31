@@ -646,3 +646,11 @@ span.tone-none { background: #d9d0bd; }
 .tone-approved { fill: var(--navy); background: var(--navy); }
 .tone-otc { fill: #8fa7c4; background: #8fa7c4; }
 .pill-ok { background: var(--agency); color: var(--navy); }
+
+/* PROMPT 19: lane pages share Home's Magazine Section. Sand placeholder until a lane photo exists; the current lane in
+   "In this issue" marked in punch red. */
+.spreadPhotoPlaceholder { background: var(--sand); }
+.spread2 .spreadPhotoPlaceholder::after { display: none; }
+.spreadPhotoPlaceholder .spreadCaption { background: none; }
+.issueLanes a[aria-current='true'] .issueNum, .issueLanes a[aria-current='true'] .issueNow { color: var(--punch); }
+.issueLanes a[aria-current='true'] .issueStory { color: var(--ink); }
