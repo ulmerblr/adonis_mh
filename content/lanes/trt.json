@@ -1,0 +1,140 @@
+{
+  "key": "trt",
+  "headline": [
+    "Testosterone’s label",
+    "just changed."
+  ],
+  "dek": "FDA dropped the heart-risk boxed warning in 2025 and added a blood pressure warning.",
+  "photoAlt": "Illustration for the TRT lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Label change, 2025",
+      "line": "Heart-risk boxed warning language removed; blood pressure warning added.",
+      "src": {
+        "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+        "label": "FDA class-wide labeling changes for testosterone, Feb 28, 2025"
+      }
+    },
+    {
+      "icon": "people",
+      "label": "Fertility",
+      "line": "Testosterone can suppress sperm production, the labels say."
+    },
+    {
+      "icon": "banned",
+      "label": "Banned in sport",
+      "line": "Testosterone, anastrozole and hCG (males) are named on WADA’s list; enclomiphene falls in a banned class.",
+      "src": {
+        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+        "label": "WADA 2026 Prohibited List (S1; S4.1; S2.2.1; S4.2)"
+      }
+    }
+  ],
+  "paragraphs": [
+    "On February 28, 2025, FDA told the makers of every [[/testosterone|testosterone]] product to change their labels. They were to add the results of a large heart-safety trial called TRAVERSE, remove Boxed Warning language about a higher risk of heart outcomes, and add or update warnings that testosterone can raise blood pressure. FDA said its blood pressure studies confirmed an increase across the class.",
+    "TRAVERSE was the largest trial behind that change. It enrolled 5,246 men aged 45 to 80 with heart disease or high heart risk and low testosterone, and gave them a daily gel or a placebo gel, with mean follow-up of 33 months. Heart attack, stroke or heart death occurred in 7.0% of men on testosterone and 7.3% on placebo. Atrial fibrillation (3.5% vs 2.4%), acute kidney injury (2.3% vs 1.5%) and pulmonary embolism were more common on testosterone. A sub-study of 5,204 of the men found fractures in 3.50% on testosterone and 2.46% on placebo. The trial was built to test heart safety, not whether testosterone helps symptoms.",
+    "Some things did not change. FDA kept the label’s limit on age: safety and effectiveness in men whose testosterone is low only because of age have not been established, and use outside the labeled conditions is off-label. Testosterone stays a Schedule III controlled substance. The creams and sprays Adonis carries are compounded, and compounded drugs are not FDA approved. We could not confirm whether Adonis’s cypionate injections are the approved product or compounded.",
+    "The labels also say that testosterone from outside the body shuts down the brain’s signals to the testes, and at large doses can suppress sperm production. In a 1990 World Health Organization study of weekly injections as male contraception, 157 of 271 men stopped producing sperm; after injections stopped, the median time back to a normal count was 3.7 months.",
+    "That is the reason men ask about three other drugs in this lane. [[/enclomiphene|Enclomiphene]] is not approved anywhere we checked. The EU refused it in 2018, citing unproven benefit and a blood-clot risk that included one fatal stroke, and an FDA advisory committee voted 8 to 4 in 2022 against letting pharmacies compound it from bulk. It is still compounded while FDA evaluates it. [[/anastrozole|Anastrozole]] is approved only for breast cancer in postmenopausal women; in men it is off-label, and in a one-year trial in 88 older men spine bone density fell on it and rose on placebo.",
+    "The third, [[/hcg|hCG]], is approved for undescended testes in boys, some men with low testosterone from a pituitary problem, and ovulation in women. Using it alongside testosterone is off-label, and the studies of that use we found are small: 29 men for three weeks, and a review of 26 men’s records. Since March 23, 2020, hCG has been regulated as a biologic, which FDA says is not eligible for the usual compounding exemptions."
+  ],
+  "pull": {
+    "quote": "removing language from the Boxed Warning related to an increased risk of adverse cardiovascular outcomes for all testosterone products.",
+    "cite": "FDA, class-wide labeling changes, Feb 28, 2025",
+    "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products"
+  },
+  "sources": [
+    {
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+      "label": "FDA class-wide labeling changes for testosterone",
+      "date": "published Feb 2025"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/",
+      "label": "Lincoff et al., NEJM, 2023 (TRAVERSE)",
+      "date": "published Jul 2023"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38231621/",
+      "label": "Snyder et al., NEJM, 2024",
+      "date": "published Jan 2024"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
+      "label": "AndroGel 1.62% label, DailyMed",
+      "date": "published Nov 2025"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
+      "label": "Depo-Testosterone label, DailyMed",
+      "date": "published Aug 2026"
+    },
+    {
+      "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+      "label": "DEA, controlled substances list",
+      "date": "published Oct 2026"
+    },
+    {
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+      "label": "FDA, Compounding and the FDA: Q&A",
+      "date": "published Sep 2025"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/",
+      "label": "WHO Task Force, Lancet, 1990",
+      "date": "published Oct 1990"
+    },
+    {
+      "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
+      "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
+      "date": "published Apr 2018"
+    },
+    {
+      "url": "https://www.fda.gov/media/158541/download",
+      "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
+      "date": "published May 2022"
+    },
+    {
+      "url": "https://www.fda.gov/media/94155/download",
+      "label": "FDA, Bulk drug substances nominated under section 503A (categories)",
+      "date": "published May 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+      "label": "Arimidex (anastrozole) label, DailyMed",
+      "date": "published Mar 2026"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/",
+      "label": "Burnett-Bowie et al., J Clin Endocrinol Metab",
+      "date": "published Dec 2009"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+      "label": "Novarel label, DailyMed",
+      "date": "published Sep 2025"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15713727/",
+      "label": "Coviello et al., J Clin Endocrinol Metab, 2005",
+      "date": "published May 2005"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23260550/",
+      "label": "Hsieh et al., J Urol, 2013",
+      "date": "published Feb 2013"
+    },
+    {
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020",
+      "label": "FDA Notice to Compounders, March 2020",
+      "date": "published Mar 2020"
+    },
+    {
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+      "label": "WADA Prohibited List 2026",
+      "date": "published Sep 2025"
+    }
+  ]
+}
