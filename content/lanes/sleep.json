@@ -1,0 +1,121 @@
+{
+  "key": "sleep",
+  "headline": [
+    "Sermorelin’s",
+    "missing approval."
+  ],
+  "dek": "It was FDA approved as Geref. Both approvals were withdrawn in 2009.",
+  "photoAlt": "Illustration for the Sleep lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Approval withdrawn",
+      "line": "Geref approved 1990 and 1997; withdrawn June 18, 2009, at the maker’s request."
+    },
+    {
+      "icon": "people",
+      "label": "Sleep trials",
+      "line": "No sermorelin trial with sleep as its result. Glycine: 3 small trials."
+    },
+    {
+      "icon": "banned",
+      "label": "Banned in sport",
+      "line": "Sermorelin is named under S2.2.4 and banned at all times. Glycine is not listed.",
+      "src": {
+        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+        "label": "WADA 2026 Prohibited List (S2.2.4)"
+      }
+    }
+  ],
+  "paragraphs": [
+    "[[/sermorelin|Sermorelin]] is a 29-amino-acid version of growth hormone-releasing hormone, which signals the pituitary gland to release growth hormone. It was once FDA approved, as Geref: in December 1990 as a test of whether the pituitary can release growth hormone, and in September 1997 to treat children with idiopathic growth hormone deficiency.",
+    "Those approvals no longer stand. The maker, EMD Serono, told FDA in 2008 that it was discontinuing both products and asked FDA to withdraw them; FDA did, effective June 18, 2009. In March 2013, answering a citizen petition, FDA determined they were not withdrawn for reasons of safety or effectiveness, which leaves room for generic versions. No sermorelin product is FDA approved today. A product described as FDA approved is pointing to an approval that ended in 2009.",
+    "What Adonis carries through Beluga is compounded: a sermorelin troche, a tablet with glycine, oral strips and an injection. None is FDA approved, and using sermorelin for sleep or longevity is off-label; it was never approved for either. FDA lists sermorelin acetate among substances under evaluation for outsourcing facilities. In March 2022, Olympia Pharmacy recalled two lots of compounded sermorelin vials for being out of specification.",
+    "The research behind the sleep claim is indirect. We found no trial of sermorelin with sleep or longevity as its result, and no published human study of sermorelin by mouth, troche or strip. What exists are small 1990s studies in 10 to 19 older adults that measured growth hormone and IGF-1, and a few studies of natural GHRH and sleep. In one German study, GHRH by nasal spray increased deep and REM sleep in the second half of the night, in 23 men; the abstract does not say whether the GHRH was sermorelin.",
+    "The other treatment in this lane is an amino acid. [[/glycine|Glycine]] can be sold as a dietary supplement and is approved as a drug only as an irrigation fluid for urologic surgery, not for sleep. A 2026 scoping review found three trials of glycine supplements on sleep-related outcomes. The one we could open analyzed 7 men, all employees of the Japanese company Ajinomoto, after three nights of shortened sleep. Glycine’s role in the sermorelin tablet has not been studied.",
+    "Sport treats the two very differently. WADA’s 2026 list names sermorelin under class S2.2.4, growth hormone releasing factors, prohibited at all times, and it is still named on the 2027 list. Glycine is not listed."
+  ],
+  "pull": {
+    "quote": "growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin)",
+    "cite": "WADA 2026 Prohibited List, class S2.2.4",
+    "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
+  },
+  "sources": [
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019863",
+      "label": "Drugs@FDA, NDA 019863 (Geref)",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020443",
+      "label": "Drugs@FDA, NDA 020443 (Geref)",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-2009-05-19/pdf/E9-11628.pdf",
+      "label": "FDA, Withdrawal of approval of 92 NDAs and 49 ANDAs, 74 FR 23407",
+      "date": "published May 2009"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/pdf/2013-04827.pdf",
+      "label": "FDA, Determination that GEREF (sermorelin acetate) was not withdrawn for safety or effectiveness, 78 FR 14095",
+      "date": "published Mar 2013"
+    },
+    {
+      "url": "https://www.fda.gov/media/94164/download",
+      "label": "FDA, 503B nominated substances by category",
+      "date": "published Mar 2025"
+    },
+    {
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/olympia-pharmacy-issues-voluntary-nationwide-recall-seven-compounded-products-due-being-out",
+      "label": "Olympia Pharmacy recall notice, FDA",
+      "date": "published Mar 2022"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1379256/",
+      "label": "Corpas et al., J Clin Endocrinol Metab, 1992",
+      "date": "published Aug 1992"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9141536/",
+      "label": "Khorram et al., J Clin Endocrinol Metab, 1997",
+      "date": "published May 1997"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10451909/",
+      "label": "Perras et al., Psychoneuroendocrinology, 1999",
+      "date": "published Oct 1999"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+      "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc",
+      "label": "1.5% Glycine Irrigation label (ICU Medical), DailyMed",
+      "date": "published Jun 2026"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687500/",
+      "label": "Fan et al., J Diet Suppl, 2026 (scoping review)",
+      "date": "published Sep 2026"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22529837/",
+      "label": "Bannai et al., Front Neurol, 2012",
+      "date": "published Apr 2012"
+    },
+    {
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+      "label": "WADA Prohibited List 2026",
+      "date": "published Sep 2025"
+    },
+    {
+      "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+      "label": "WADA 2027 Prohibited List (redline)",
+      "date": "published Sep 2026"
+    }
+  ]
+}
