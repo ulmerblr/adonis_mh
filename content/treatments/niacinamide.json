@@ -1,0 +1,366 @@
+{
+  "slug": "niacinamide",
+  "name": "Niacinamide",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Few small trials",
+    "fda": "Not approved (skin)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Not reviewed for this page",
+      "status": "not"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small randomized gel trials, 76 and 60 people",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No FDA drug application for skin use",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No FDA drug application for skin use",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No FDA drug application for skin use",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "None for skin; only in IV multivitamin products",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Niacinamide, also called nicotinamide, is a vitamin. FDA-approved multivitamin injections list it as one of their vitamins.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NIACINAMIDE&limit=20",
+            "label": "Drugs@FDA data (openFDA), applications containing niacinamide",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "At Adonis it appears only inside one product: the azelaic acid 15% / niacinamide 4% cream, a compounded cream applied to the skin. Adonis does not carry niacinamide on its own."
+      },
+      {
+        "t": "callout",
+        "text": "There is little research on niacinamide for skin. The trials below are small, short, and none tested it together with azelaic acid."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Research on niacinamide applied to the skin is thin: two small randomized acne trials compared a niacinamide gel with an antibiotic gel (clindamycin), with no placebo group, and one cosmetic study tested a moisturizer containing it. None tested the azelaic acid and niacinamide combination Adonis carries."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA (lead author) · 1995 · Randomized, double-blind",
+        "title": "4% nicotinamide gel vs 1% clindamycin gel in acne",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, two active gels compared. No placebo."
+          },
+          {
+            "k": "People",
+            "v": "76 people with moderate inflammatory acne (38 per group)"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "physician's global evaluation, lesion counts, acne severity"
+          }
+        ],
+        "found": "82% on nicotinamide and 68% on clindamycin were rated improved; the difference was not statistically significant (P = 0.19). Lesion counts and severity fell by similar amounts in both groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7657446/",
+            "label": "Shalita et al., Int J Dermatol, 1995",
+            "date": "published Jun 1995"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Iran · 2009 to 2010 · Randomized, double-blind",
+        "title": "5% nicotinamide gel vs 2% clindamycin gel in acne",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, two active gels compared. No placebo."
+          },
+          {
+            "k": "People",
+            "v": "60 women with mild to moderate acne"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "acne severity index"
+          }
+        ],
+        "found": "The severity score fell in both groups, with no significant difference between them (P = 0.583). The authors observed no side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23914212/",
+            "label": "Shahmoradi et al., J Res Med Sci, 2013",
+            "date": "published Feb 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2020 · Randomized, cosmetic study",
+        "title": "Moisturizer with 4% niacinamide in oily, blemish-prone skin",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, three groups: moisturizer with 4% niacinamide plus cleanser, cleanser only, or a salicylic acid comparison regimen"
+          },
+          {
+            "k": "People",
+            "v": "132 healthy adult women with oily, blemish-prone skin (44 per group)"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "skin moisture at 8 hours (main measure); blemish counts"
+          }
+        ],
+        "found": "Skin moisture and blemish counts changed more with the niacinamide moisturizer than with cleanser alone. The study tested a whole moisturizer, so it cannot show the effect of niacinamide by itself.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31461548/",
+            "label": "Santos-Caetano et al., Int J Cosmet Sci, 2020",
+            "date": "published Feb 2020"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Niacinamide has no FDA drug approval for any skin use. In FDA's approval records it appears only as one vitamin in multivitamin products, mostly injections. The compounded cream Adonis carries that contains it is not FDA approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none for skin. Every FDA application listing niacinamide is a multivitamin product (injections, and one discontinued oral suspension).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NIACINAMIDE&limit=20",
+                "label": "Drugs@FDA data (openFDA), applications containing niacinamide",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Cosmetic or drug:",
+            "text": "FDA says a skin product is a cosmetic or a drug depending on its intended use, including the claims made for it. The term \"cosmeceutical\" has no meaning under US law.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+                "label": "FDA, Is it a cosmetic, a drug, or both?",
+                "date": "published Sep 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "under section 503A, pharmacies may only compound with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA's 503A bulks list.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA's list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No skin product with niacinamide is FDA approved in the US. In Northern Ireland and Ireland, nicotinamide gels for the skin (Nicam, Freederm) are listed as authorised medicines. Canada and Australia could not be checked. It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved for skin use. Appears in FDA approvals only as part of multivitamin products.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NIACINAMIDE&limit=20",
+              "label": "Drugs@FDA data (openFDA), applications containing niacinamide",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Nicotinamide products for the skin (Nicam, Freederm) are listed as authorised for Northern Ireland in EMA's data. MHRA's own record was not opened.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Not centrally authorised. EMA's data list single-ingredient nicotinamide for the skin only in Ireland (Nicam); other EU entries are combination products.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of centrally authorised medicines",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "372"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Niacinamide (nicotinamide) is not named on the WADA 2026 Prohibited List, in any class, in or out of competition.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is little safety data for niacinamide on the skin. The small trials above reported few or no side effects, but they were short and small."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Acne trial, Iran, 2013:",
+            "text": "the authors observed no side effects in 60 women over 8 weeks.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23914212/",
+                "label": "Shahmoradi et al., J Res Med Sci, 2013",
+                "date": "published Feb 2013"
+              }
+            ]
+          },
+          {
+            "lead": "Inside the Adonis cream:",
+            "text": "niacinamide is combined with azelaic acid, whose FDA labels list burning, stinging, itching and dryness, and rare skin lightening. See the azelaic acid page."
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Lab and animal research on topical niacinamide was not reviewed; the track marks that step as not reviewed, not as never done.",
+    "Whether niacinamide has a USP monograph (which bears on 503A compounding) was not checked.",
+    "The approved indications of Nicam and Freederm (Northern Ireland, Ireland) were not confirmed; their product information was not opened.",
+    "The 1995 trial's abstract does not name the country of every study site; the authors' institution is in New York.",
+    "Health Canada's Drug Product Database could not be reached, so Canada's status is not confirmed.",
+    "Australia's TGA (ARTG) could not be reached, so Australia's status is not confirmed.",
+    "MHRA's product database could not be read; the UK entry rests on EMA's Article 57 data for Northern Ireland only.",
+    "The live WADA 2026 list URL returned a bot check on Oct 31, 2026; the list was read from a copy of that same PDF downloaded earlier in this working session. The 2027 list was not checked."
+  ],
+  "surprises": [
+    "Niacinamide is widely treated as just a cosmetic ingredient, but in Northern Ireland and Ireland nicotinamide skin gels (Nicam, Freederm) are listed as authorised medicines in EMA's data, while in the US no skin product with it is FDA approved.",
+    "Niacinamide is often promoted for acne, but the two acne trials found compared it only with an antibiotic gel, with no placebo group, in 76 and 60 people."
+  ]
+}

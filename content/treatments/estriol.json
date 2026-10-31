@@ -1,0 +1,522 @@
+{
+  "slug": "estriol",
+  "name": "Estriol",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "2 small studies in women",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat skin and mouse studies of topical estriol",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Two small skin studies in women, 1994 and 1996",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No skin-aging Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No placebo-controlled skin trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None for skin; none in men",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "None in the US; EU approval is for vaginal use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Estriol is an estrogen, a female sex hormone. It is one of the natural estrogens the body makes.",
+        "src": [
+          {
+            "url": "https://assets.hpra.ie/products/Human/43732/8c76dc12-0d46-46e9-9c6f-7d08d77a0e99.pdf",
+            "label": "Ovestin package leaflet, HPRA",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA labeling for estrogens says estradiol is the main estrogen inside cells and is substantially more potent than its breakdown products, estrone and estriol, at the estrogen receptor.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07",
+            "label": "Delestrogen (estradiol valerate) label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In some European countries estriol is a prescription vaginal cream for postmenopausal women with vaginal dryness and irritation (vaginal atrophy). Absorption into the blood from that cream is described as very low.",
+        "src": [
+          {
+            "url": "https://www.hpra.ie/find-a-medicine/for-human-use/authorised-medicines/details/43732",
+            "label": "HPRA (Ireland), Ovestin 1 mg per gram vaginal cream, licence record",
+            "date": "accessed Oct 31, 2026"
+          },
+          {
+            "url": "https://assets.hpra.ie/products/Human/43732/8c76dc12-0d46-46e9-9c6f-7d08d77a0e99.pdf",
+            "label": "Ovestin package leaflet, HPRA",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "What Adonis carries: estriol as a compounded prescription product. Its form is not on file, so it is not described here."
+      },
+      {
+        "t": "callout",
+        "text": "Estriol is a hormone. Using it on a man’s skin is off-label: it is not an approved use anywhere we checked."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence on estriol for skin aging: two small studies from one Vienna group in the 1990s, both in women around menopause, both comparing estriol cream with estradiol cream. We found no study of estriol on men’s skin and no placebo-controlled trial."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Austria · 1994 · Pilot study",
+        "title": "Facial skin aging, pilot, 1994 (Austria)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "pilot study comparing two creams. No placebo group."
+          },
+          {
+            "k": "People",
+            "v": "18 perimenopausal women: 8 used 0.3% estriol cream, 10 used 0.01% estradiol cream on the face"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "skin aging signs at monthly dermatology visits, blood hormone levels, and gynecological and breast checks"
+          }
+        ],
+        "found": "Both groups showed improvement in skin aging signs. The authors reported the estriol group was slightly better in extent and onset. No hormonal side effects were noted. The authors advised limiting strength and area of application to reduce the risk of whole-body hormone effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7877517/",
+            "label": "Schmidt et al., Maturitas, 1994",
+            "date": "published Nov 1994"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Austria · 1996 · Comparison study",
+        "title": "Skin aging, two estrogen creams, 1996 (Austria)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "comparison of 0.01% estradiol and 0.3% estriol creams. The abstract does not describe a placebo group or randomization."
+          },
+          {
+            "k": "People",
+            "v": "59 preclimacteric women with skin aging signs; skin biopsies in 10"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "skin firmness and elasticity, wrinkle depth by profilometry, skin moisture, collagen in biopsies, blood hormone levels"
+          }
+        ],
+        "found": "Wrinkle depth fell significantly in both groups, skin moisture rose, and biopsies showed more type III collagen. Prolactin rose significantly; no systemic hormonal side effects were noted.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8876303/",
+            "label": "Schmidt et al., Int J Dermatol, 1996",
+            "date": "published Sep 1996"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Both studies were in women. Their results cannot be assumed to apply to men."
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Rats, 2005:",
+            "text": "estriol or plain cream on the backs of male and female rats for two weeks. In females, collagen fibrils thickened and the fat layer under the skin thinned; skin stiffness rose in both sexes, and breaking and tensile strength fell in females. The changes differed between male and female rats.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16258389/",
+                "label": "Ozyazgan et al., Med Sci Monit, 2005",
+                "date": "published Nov 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Mice and a population study, China, 2025:",
+            "text": "estriol was found in 73 of 240 skincare cosmetics bought in China. Mice given estriol creams on the skin had higher thyroid antibodies. In people, a cross-sectional study found no difference in thyroid antibodies between cosmetic users and non-users, but a case-control study linked cosmetic use with autoimmune thyroid disease (odds ratio 1.577). The authors call this preliminary.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41196017/",
+                "label": "Liu et al., Thyroid, 2025",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "There is no FDA-approved estriol product in the US. Estriol medicines sold in the US are compounded and not FDA-approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. FDA says there are no FDA-approved drugs containing estriol, and that marketed estriol drugs are compounded drugs, which are not FDA-approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/womens-health-topics/menopause",
+                "label": "FDA, Menopause (women's health topics)",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "FDA on “safer estrogen” claims:",
+            "text": "FDA says it does not have evidence that drugs containing estriol are safe and effective, or are “safer forms of estrogen.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/womens-health-topics/menopause",
+                "label": "FDA, Menopause (women's health topics)",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded “bioidentical” hormones:",
+            "text": "a National Academies review requested by FDA found a lack of rigorous evidence of safety and effectiveness for compounded bioidentical hormone therapy, and concluded its widespread use poses a public health concern.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/national-academies-science-engineering-and-medicine-nasem-study-clinical-utility-treating-patients",
+                "label": "FDA, NASEM study on compounded “bioidentical” hormone therapy",
+                "date": "published Jul 2019"
+              }
+            ]
+          },
+          {
+            "lead": "503B (outsourcing facilities):",
+            "text": "FDA lists estriol in Category 1 (under evaluation). It is not marked as a component of an FDA-approved drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "503A (pharmacies):",
+            "text": "estriol does not appear in FDA’s 503A nominations categories. Under the law, a 503A pharmacy may use a bulk substance that meets a USP monograph, is a component of an approved drug, or is on FDA’s 503A list.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapV-partA-sec353a.htm",
+                "label": "21 U.S.C. 353a (section 503A), govinfo",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The estriol product Adonis carries through Beluga is compounded. It is not FDA approved. Any use on men’s skin is off-label."
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Estriol is not approved in the US or Canada. In Ireland, an EU country, an estriol vaginal cream is a licensed prescription medicine for postmenopausal vaginal atrophy. No regulator we checked approves estriol for skin aging or for use in men.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Compounded only; on FDA’s 503B list under evaluation.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/consumers/womens-health-topics/menopause",
+              "label": "FDA, Menopause (women's health topics)",
+              "date": "published Dec 2023"
+            },
+            {
+              "url": "https://www.fda.gov/media/94164/download",
+              "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+              "date": "published Mar 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "discretion"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with estriol as an active ingredient found in the Drug Product Database.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=ESTRIOL",
+              "label": "Health Canada Drug Product Database, active ingredient search (estriol)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Ireland (EU)",
+          "regulator": "HPRA",
+          "status": "Approved medicine: Ovestin 1 mg/g vaginal cream, prescription-only, for postmenopausal vaginal atrophy.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.hpra.ie/find-a-medicine/for-human-use/authorised-medicines/details/43732",
+              "label": "HPRA (Ireland), Ovestin 1 mg per gram vaginal cream, licence record",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/Human/43732/8c76dc12-0d46-46e9-9c6f-7d08d77a0e99.pdf",
+              "label": "Ovestin package leaflet, HPRA",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "372"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Other EU countries",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Estriol is not named on the WADA 2026 Prohibited List. Estrogens themselves are not a prohibited class; section S4 bans aromatase inhibitors and anti-estrogenic substances, which block estrogen. The 2027 list, in force January 1, 2027, does not change this.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_explanatory_note_en_final_17_august_2026_1.pdf",
+              "label": "WADA 2027 List, summary of modifications and explanatory notes",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Estriol is an estrogen. In men, estrogens can cause breast changes and other hormone effects. There is no estriol label written for men, so the points below come from estrogen labels and from the studies above."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Estrogen class effects (FDA labeling):",
+            "text": "breast tenderness, enlargement and pain; nipple discharge; changes in libido; fluid retention (edema); nausea; headache; blood clots in veins; stroke; and skin darkening (melasma). The label does not give rates for men.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07",
+                "label": "Delestrogen (estradiol valerate) label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Men on high-dose estrogen:",
+            "text": "FDA labeling says large doses of estrogen, like those once used for prostate cancer, raised the risk of nonfatal heart attack, pulmonary embolism and thrombophlebitis in a large trial in men.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07",
+                "label": "Delestrogen (estradiol valerate) label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin transfer to others:",
+            "text": "for an estradiol skin spray, FDA labeling reports breast budding in young girls and gynecomastia (breast growth) and breast masses in young boys after accidental contact with the treated skin. This was reported for estradiol, not estriol.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9a0aa631-133d-406b-9d32-8a1a99af4e50",
+                "label": "Evamist (estradiol) spray label, DailyMed",
+                "date": "published Nov 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Licensed estriol vaginal cream (women):",
+            "text": "the Irish leaflet lists breast swelling and tenderness, minor vaginal bleeding, discharge, painful urination, nausea, fluid retention, local irritation or itching and flu-like symptoms. It notes HRT risks such as blood clots and stroke apply less to vaginal products.",
+            "src": [
+              {
+                "url": "https://assets.hpra.ie/products/Human/43732/8c76dc12-0d46-46e9-9c6f-7d08d77a0e99.pdf",
+                "label": "Ovestin package leaflet, HPRA",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin studies in women:",
+            "text": "neither 1990s study noted hormonal side effects; prolactin rose in the 1996 study.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/7877517/",
+                "label": "Schmidt et al., Maturitas, 1994",
+                "date": "published Nov 1994"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8876303/",
+                "label": "Schmidt et al., Int J Dermatol, 1996",
+                "date": "published Sep 1996"
+              }
+            ]
+          },
+          {
+            "lead": "Thyroid (preliminary):",
+            "text": "one Chinese study linked estriol-containing cosmetics with thyroid antibodies in mice and with autoimmune thyroid disease in a case-control study.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41196017/",
+                "label": "Liu et al., Thyroid, 2025",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's January 2008 action on compounded estriol (warning letters to pharmacies over “bioidentical” hormone claims) could not be confirmed: FDA's archived press release could not be opened, so it is left out.",
+    "We could not confirm whether a USP monograph for estriol exists, which affects whether 503A pharmacies may compound it.",
+    "Adonis's estriol form is not on file and is not described.",
+    "Approval of estriol vaginal cream was confirmed only in Ireland (a parallel-import licence); other EU countries were not checked one by one.",
+    "Status in the UK and Australia was not checked against a regulator record.",
+    "A 2026 systematic review of topical estrogen for skin aging (J Am Acad Dermatol) has no abstract we could open, so its findings are not reported.",
+    "We found no published study of estriol applied to men's skin."
+  ],
+  "surprises": [
+    "Estriol is often marketed as a weaker or “safer” estrogen; FDA says it has no evidence that estriol drugs are safe and effective or are safer forms of estrogen, and that no FDA-approved estriol drug exists.",
+    "In Ireland estriol is a licensed prescription vaginal cream for women, while in the US every estriol product is compounded and unapproved.",
+    "All skin-aging studies we found were in women around menopause; none were in men, the group this page is for."
+  ]
+}

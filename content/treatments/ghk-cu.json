@@ -1,0 +1,536 @@
+{
+  "slug": "ghk-cu",
+  "name": "GHK-Cu (copper peptide)",
+  "peptide": true,
+  "lanes": [
+    "skin",
+    "longevity"
+  ],
+  "index": {
+    "evidence": "1 small RCT; lab/animal",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Cell, rat and rabbit wound studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "One 13-person study after laser resurfacing",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Wound-healing gel trial recruiting, 2026",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "GHK-Cu is a chain of three amino acids, glycine, histidine and lysine, bound to a copper ion (glycyl-L-histidyl-L-lysine-Cu2+). Studies also call it copper tripeptide or tripeptide-copper complex. It is used in skin care products.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+            "label": "Miller et al., Arch Facial Plast Surg, 2006",
+            "date": "published Jul 2006"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14648529/",
+            "label": "Canapp et al., Vet Surg, 2003",
+            "date": "published Nov 2003"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to cell and animal studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In human skin cells (fibroblasts) grown in the lab, GHK-Cu made normal and radiation-damaged cells multiply faster. The damaged cells made more of two growth factors, bFGF and VEGF.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15655171/",
+                "label": "Pollard et al., Arch Facial Plast Surg, 2005",
+                "date": "published Jan 2005"
+              }
+            ]
+          },
+          {
+            "text": "In rats with poorly supplied skin wounds, a GHK-Cu gel was linked to smaller wounds and lower levels of TNF-alpha and two tissue-breaking enzymes, MMP-2 and MMP-9.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/14648529/",
+                "label": "Canapp et al., Vet Surg, 2003",
+                "date": "published Nov 2003"
+              }
+            ]
+          },
+          {
+            "text": "In rabbits with open wounds, a GHK-Cu product was linked to smaller unhealed wound areas and faster growth of new tissue than no treatment.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17083573/",
+                "label": "Cangul et al., Vet Dermatol, 2006",
+                "date": "published Dec 2006"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "These effects were seen in cells and animals. They have not been shown in people."
+      },
+      {
+        "t": "p",
+        "text": "What Adonis carries: GHK-Cu 1% cream, a copper peptide cream applied to the skin, as a 30-day or 90-day supply. It is a compounded prescription product."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence on skin is thin. We found one small randomized study (13 people finished) and one single-patient report that used GHK-Cu mixed with four other ingredients. One Phase 2 wound trial is recruiting. No published study tests a 1% compounded cream, and no study measures longevity in people."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2006 · Randomized study",
+        "title": "Skin after CO2 laser resurfacing, 2006 (USA)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized to after-care skin products with or without GHK-Cu. Redness was scored by computer analysis and by blinded evaluators."
+          },
+          {
+            "k": "People",
+            "v": "13 patients completed the study, all treated with a CO2 laser around the mouth"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "redness, wrinkles, overall skin appearance, and a validated patient questionnaire"
+          }
+        ],
+        "found": "No significant difference between groups in redness, wrinkles or overall skin quality on objective measures. Patients using GHK-Cu rated their improvement in skin quality higher on the questionnaire (P = .04).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+            "label": "Miller et al., Arch Facial Plast Surg, 2006",
+            "date": "published Jul 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Korea · 2016 · Single case report",
+        "title": "Crow's feet, one patient, 2016 (Korea)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "one patient, no control. A spray device (Jet-M) was used with a solution of copper-GHK, oligo-hyaluronic acid, rhodiola extract, tranexamic acid and beta-glucan."
+          },
+          {
+            "k": "People",
+            "v": "1 man aged 59"
+          },
+          {
+            "k": "Length",
+            "v": "once a week for 12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "clinical photographs and skin biopsies"
+          }
+        ],
+        "found": "Wrinkles around the treated eye looked smaller in photographs and biopsies showed more collagen. No adverse effect was reported. Because GHK-Cu was one of five ingredients used with a device, its own effect cannot be separated.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27064823/",
+            "label": "Byun et al., J Cosmet Laser Ther, 2016",
+            "date": "published Oct 2016"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials with no results yet"
+      },
+      {
+        "t": "study",
+        "badge": "No results yet",
+        "meta": "Registered trial · Phase 2",
+        "title": "Small skin wounds, Phase 2",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, vehicle-controlled. Each person gets two small punch-biopsy wounds on the upper arm; one gets GHK-Cu gel, the other a plain gel."
+          },
+          {
+            "k": "Sponsor",
+            "v": "Hudson Biotech"
+          },
+          {
+            "k": "People",
+            "v": "about 60 healthy adults planned"
+          },
+          {
+            "k": "Measured",
+            "v": "how fast the wounds close, from photographs over 3 weeks, then scar quality"
+          }
+        ],
+        "found": "Recruiting since February 2026. Estimated completion March 2028.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07437586",
+            "label": "NCT07437586, ClinicalTrials.gov",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human skin cells, 2005:",
+            "text": "lab study of normal and radiation-damaged fibroblasts from head and neck surgery patients. GHK-Cu shortened their doubling time and raised early bFGF and VEGF output in the damaged cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15655171/",
+                "label": "Pollard et al., Arch Facial Plast Surg, 2005",
+                "date": "published Jan 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Rats, 2003:",
+            "text": "24 male rats with wounds in a poorly supplied skin flap, split into GHK-Cu gel, plain gel or no treatment, for 13 days. Wound area fell by 64.5% with GHK-Cu, 45.6% with plain gel and 28.2% with no treatment.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/14648529/",
+                "label": "Canapp et al., Vet Surg, 2003",
+                "date": "published Nov 2003"
+              }
+            ]
+          },
+          {
+            "lead": "Rabbits, 2006:",
+            "text": "18 rabbits with open wounds, split into GHK-Cu, zinc oxide or no treatment, for 21 days. Unhealed wound area was smaller with GHK-Cu than with no treatment on days 7, 14 and 21.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17083573/",
+                "label": "Cangul et al., Vet Dermatol, 2006",
+                "date": "published Dec 2006"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Animal and cell results have not been confirmed in people."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "GHK-Cu is not an FDA-approved drug for any use. For compounding, FDA treats the injected form and the non-injected forms differently. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. FDA describes it only as a bulk substance nominated for compounding, and says there are limited data in humans to inform safety.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Injected forms:",
+            "text": "FDA placed “GHK-Cu (for injectable routes of administration)” in Category 2, substances that may present significant safety risks. It now appears on FDA’s list of Category 2 substances whose nominations were withdrawn. FDA says compounded injectable GHK-Cu may pose a risk of immune reactions because of aggregation and peptide-related impurities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin and other non-injected forms:",
+            "text": "FDA removed GHK-Cu from Category 1 on April 22, 2026 after the nominations were withdrawn. On May 5, 2026 one nominator said it meant to withdraw only the injectable route, so FDA said “GHK-Cu (except for injectable routes of administration)” will be added back to Category 1 (under evaluation). FDA intends to consult its Pharmacy Compounding Advisory Committee before the end of February 2027.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What Category 1 means:",
+            "text": "under FDA’s interim policy, FDA does not intend to take action against a compounder using a Category 1 substance if the conditions in its guidance are met. That is enforcement discretion, not approval.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in compounding under section 503A",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "the October 30, 2026 HHS enforcement discretion policy for six peptides does not name GHK-Cu.",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+                "label": "HHS, Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances, Federal Register",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The GHK-Cu cream Adonis carries through Beluga is a compounded product. It is not FDA approved. Using it for skin aging or longevity is not an approved use of any medicine."
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator we checked has approved GHK-Cu as a medicine. FDA lists injected GHK-Cu as a possible safety risk, and Health Canada names injectable GHK-Cu among unauthorized peptide drugs it has seized.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Non-injected forms under evaluation (503A Category 1); injected forms listed as a safety risk.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2)",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "discretion"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. Injectable GHK-Cu named among unauthorized peptide drugs seized.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada, unauthorized injectable peptides advisory",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "GHK-Cu is not named on the WADA 2026 Prohibited List or the 2027 list, which takes effect January 1, 2027. Class S0 bans any pharmacological substance with no current approval for human therapeutic use, and the 2027 list adds “peptides” to its examples. WADA’s 2027 notes say a peptide not named on the list may still be prohibited. Athletes should check with their anti-doping organization.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_explanatory_note_en_final_17_august_2026_1.pdf",
+              "label": "WADA 2027 List, summary of modifications and explanatory notes",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Human data on side effects are very limited. The few skin studies are small and short. FDA’s stated concerns are about injected GHK-Cu."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Skin studies:",
+            "text": "the 2006 laser-resurfacing study abstract does not report side effects. The 2016 single-patient report found no adverse effect.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+                "label": "Miller et al., Arch Facial Plast Surg, 2006",
+                "date": "published Jul 2006"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27064823/",
+                "label": "Byun et al., J Cosmet Laser Ther, 2016",
+                "date": "published Oct 2016"
+              }
+            ]
+          },
+          {
+            "lead": "FDA-identified risk (injected):",
+            "text": "possible immune reactions because of aggregation and peptide-related impurities in compounded injectable GHK-Cu. FDA says there are limited data in humans to inform safety.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Unauthorized injectable products:",
+            "text": "Health Canada warns that unauthorized peptide drugs may contain too much, too little or none of the active ingredient, or contaminants, and lists risks including hormonal imbalance, blood sugar imbalance, liver or kidney damage and blood clots for this class of products.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada, unauthorized injectable peptides advisory",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not confirm GHK-Cu's status as a cosmetic ingredient in a regulator's own record (the EU CosIng database could not be queried).",
+    "GHK-Cu facial studies often cited in reviews (for example from the late 1990s and early 2000s) were not found in PubMed or could not be opened, so they are not reported.",
+    "FDA's current Category 2 page does not show the date injectable GHK-Cu was first added to Category 2.",
+    "Status in the UK, EU and Australia was not checked against a regulator record.",
+    "DEA controlled-substance status was not checked."
+  ],
+  "surprises": [
+    "The only randomized human skin study we found (13 people after laser resurfacing) showed no objective difference in redness, wrinkles or skin quality versus after-care without GHK-Cu; only patient-rated satisfaction differed.",
+    "FDA says there are limited human data on safety for injectable GHK-Cu and lists it as a possible immune-reaction risk, and Health Canada names injectable GHK-Cu among seized unauthorized drugs, although such peptides are promoted online for anti-aging.",
+    "Topical GHK-Cu was dropped from FDA's Category 1 on April 22, 2026 when nominations were withdrawn, then set to be restored after one nominator said it had meant to withdraw only the injectable route."
+  ]
+}

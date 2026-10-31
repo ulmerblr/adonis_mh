@@ -1,0 +1,512 @@
+{
+  "slug": "spironolactone",
+  "name": "Spironolactone",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Acne RCTs in women only",
+    "fda": "Approved (Aldactone)",
+    "sport": "Banned"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat tumor and pregnancy studies on the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Acne: SAFA, UK, 410 women, 24 weeks (2023)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Aldactone, 1960; heart, BP, edema. Acne off-label",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Spironolactone is an aldosterone antagonist, a medicine taken by mouth. It blocks aldosterone at the kidney, so the body passes more salt and water while keeping potassium. That is how it works as a diuretic and blood-pressure medicine.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+            "label": "Aldactone (spironolactone) label, DailyMed",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It also binds the androgen (male hormone) receptor, and the label describes anti-androgenic effects. The FASCE trial authors say it targets the androgen receptor of the skin's oil glands and is prescribed off-label for acne in adult women.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+            "label": "Aldactone (spironolactone) label, DailyMed",
+            "date": "published Nov 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38380975/",
+            "label": "Dréno et al. (FASCE), Acta Derm Venereol, 2024",
+            "date": "published Feb 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries"
+      },
+      {
+        "t": "p",
+        "text": "Spironolactone is in the Adonis treatment library as a compounded prescription product. Its form is not on file."
+      },
+      {
+        "t": "callout",
+        "text": "Using spironolactone for acne is off-label. No FDA-approved spironolactone label lists acne."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two randomized trials have tested spironolactone for acne, and both enrolled only women: SAFA in England and Wales (410 women, against placebo) and FASCE in France (133 women, against doxycycline). Neither tells us how it works or how safe it is in men."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "England and Wales · 2019 to 2021 · Phase 3 randomized, double-blind, placebo-controlled",
+        "title": "SAFA: spironolactone vs placebo for acne in women",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "pragmatic, multicenter, Phase 3, double-blind, placebo-controlled; topical treatment allowed"
+          },
+          {
+            "k": "People",
+            "v": "410 women aged 18 or over with facial acne for at least six months (201 spironolactone, 209 placebo); 342 in the main analysis. Mean age 29"
+          },
+          {
+            "k": "What was given",
+            "v": "50 mg a day to week 6, then 100 mg a day to week 24, or matching placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "acne quality-of-life symptom score at week 12 (main measure); week 24; self-rated and investigator-rated improvement; side effects"
+          }
+        ],
+        "found": "At week 12 the quality-of-life score was 1.27 points better on spironolactone (on a 0 to 30 scale), and 3.45 points better at week 24. Investigator-rated success at week 12 was 19% vs 6%. Headaches were more common on spironolactone (20% vs 12%). No serious adverse reactions were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37192767/",
+            "label": "Santer et al. (SAFA), BMJ, 2023",
+            "date": "published May 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "France · 2024 · Randomized, double-blind",
+        "title": "FASCE: spironolactone vs doxycycline in women with acne",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, parallel groups; both arms also used benzoyl peroxide"
+          },
+          {
+            "k": "People",
+            "v": "133 adult women with moderate acne"
+          },
+          {
+            "k": "Length",
+            "v": "spironolactone for 6 months, vs doxycycline for 3 months then placebo for 3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "treatment success on the AFAST acne score at months 4 and 6"
+          }
+        ],
+        "found": "Success at 6 months was significantly higher with spironolactone (P = 0.007). The authors describe spironolactone as prescribed off-label for adult female acne.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38380975/",
+            "label": "Dréno et al. (FASCE), Acta Derm Venereol, 2024",
+            "date": "published Feb 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In long-term feeding studies in rats, spironolactone caused tumors, including benign thyroid and testicular tumors, liver tumors in males, and thyroid cancers in both sexes.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "text": "In rats, exposure late in pregnancy feminized male fetuses. The label advises avoiding it in pregnancy because of the risk to a male fetus.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Spironolactone is FDA approved as Aldactone, first approved on January 21, 1960, for heart failure, high blood pressure, edema and primary hyperaldosteronism. Acne is not an approved use; using it for acne is off-label. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Aldactone (Pfizer):",
+            "text": "NDA 012151, approved January 21, 1960.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA012151",
+                "label": "Drugs@FDA data (openFDA), NDA 012151, Aldactone",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Approved uses:",
+            "text": "heart failure (NYHA class III to IV with reduced ejection fraction); add-on treatment of high blood pressure; edema from liver cirrhosis or nephrotic syndrome; and primary hyperaldosteronism.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Acne:",
+            "text": "off-label. Acne is not among the label's indications.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "under section 503A, pharmacies may only compound with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA's 503A bulks list. A compounded spironolactone product is not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Spironolactone is not on the DEA's list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Spironolactone is an approved prescription medicine in the US, across the EU (including one centrally authorised liquid, Qaialdo) and in Northern Ireland, for heart, blood-pressure and fluid conditions. None of the records checked lists acne. It is banned in sport at all times as a diuretic.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Aldactone, 1960; heart failure, hypertension, edema, primary hyperaldosteronism). Prescription-only. Acne use is off-label.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA012151",
+              "label": "Drugs@FDA data (openFDA), NDA 012151, Aldactone",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+              "label": "Aldactone (spironolactone) label, DailyMed",
+              "date": "published Nov 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Aldactone and generic spironolactone are listed as authorised for Northern Ireland in EMA's data. MHRA's own record was not opened.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in all 27 EU countries. Qaialdo, an oral liquid, is centrally authorised (May 2023) for edema, hypertension and primary aldosteronism; acne is not listed.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qaialdo",
+              "label": "EMA, Qaialdo (spironolactone) EPAR overview",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of centrally authorised medicines",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Spironolactone is prohibited at all times (in and out of competition) under class S5, diuretics and masking agents, on the WADA 2026 Prohibited List, where it is named. All S5 substances are Specified Substances. An athlete would need a therapeutic use exemption to use it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In men, spironolactone can cause breast growth (gynecomastia), lower libido and trouble getting or keeping an erection. It can also raise blood potassium to dangerous levels. These are on the FDA label."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Breast growth in men:",
+            "text": "the label says Aldactone can cause gynecomastia and that it is the most common side effect. In the RALES heart-failure trial, about 9% of men on a mean 26 mg a day developed it. The risk rises with dose; it can start within 1 to 2 months or after more than a year, and is usually reversible.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Sexual side effects:",
+            "text": "decreased libido and inability to achieve or maintain an erection are listed. In women: irregular or absent periods, bleeding after menopause, and breast and nipple pain.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "High potassium (hyperkalemia):",
+            "text": "Aldactone can cause hyperkalemia. The risk is higher with kidney problems, potassium supplements, salt substitutes, or drugs such as ACE inhibitors and ARBs. The label calls for a potassium check within 1 week of starting and regularly after. It must not be used by people who already have high potassium.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure and kidneys:",
+            "text": "too much fluid loss can cause dehydration, low blood pressure and worsening kidney function.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Other blood chemistry:",
+            "text": "low sodium, low magnesium, low calcium, high blood sugar and high uric acid (rarely gout).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Serious rare reactions:",
+            "text": "Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, low white cells (including agranulocytosis), low platelets, and a very few cases of liver injury, one fatal.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Interactions:",
+            "text": "it raises lithium levels, and it can raise PSA in men taking abiraterone for prostate cancer; that combination is not recommended.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+                "label": "Aldactone (spironolactone) label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Acne trial (women):",
+            "text": "in SAFA, headaches were more common on spironolactone than placebo (20% vs 12%); no serious adverse reactions were reported.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37192767/",
+                "label": "Santer et al. (SAFA), BMJ, 2023",
+                "date": "published May 2023"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The form of spironolactone Adonis carries is not on file (BELUGA-FORMS.md), so no form is described.",
+    "No controlled trial of spironolactone for acne in men was found or reviewed; both trials on this page enrolled only women.",
+    "The FDA Drugs@FDA website itself would not load; the 1960 approval date comes from FDA's openFDA copy of the Drugs@FDA data.",
+    "Health Canada's Drug Product Database could not be reached, so Canada's status is not confirmed.",
+    "Australia's TGA (ARTG) could not be reached, so Australia's status is not confirmed.",
+    "MHRA's product database could not be read; the UK entry rests on EMA's Article 57 data for Northern Ireland only.",
+    "The live WADA 2026 list URL returned a bot check on Oct 31, 2026; the list was read from a copy of that same PDF (WADA, dated September 2025) downloaded earlier in this working session. The 2027 list was not checked."
+  ],
+  "surprises": [
+    "Spironolactone is widely prescribed for acne, but no regulator record checked (FDA's Aldactone label, EMA's Qaialdo record) lists acne as an approved use; it is off-label everywhere checked.",
+    "It is often thought of as a skin or hormone medicine, but WADA lists it by name as a diuretic and masking agent (S5), prohibited at all times.",
+    "The acne trials behind its popularity enrolled only women; in men the label's most common side effect is breast growth, with lower libido and erection problems also listed."
+  ]
+}

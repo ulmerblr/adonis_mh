@@ -1,0 +1,555 @@
+{
+  "slug": "doxycycline",
+  "name": "Doxycycline",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Approved; RCTs (rosacea)",
+    "fda": "Approved (Vibramycin)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Lab activity against bacteria; animal studies on label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Oracea: 2 dosing studies in 61 healthy adults",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Oracea: 2 rosacea RCTs, 537 people, 16 weeks",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Vibramycin 1967 (antibiotic); Oracea 2006 (rosacea)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Doxycycline is a tetracycline-class antibiotic, taken by mouth. Its labels list infections it treats or prevents, including anthrax after exposure and malaria prevention in short-term travellers.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+            "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+            "date": "published Oct 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "For acne, the standard doxycycline label says: \"In severe acne, doxycycline may be useful adjunctive therapy.\" That means an add-on to other acne treatment, not a stand-alone acne approval.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+            "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+            "date": "published Oct 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Oracea is a separate, lower-strength 40 mg capsule approved only for the inflamed bumps of rosacea. Its label says it is not bioequivalent to other doxycycline products and must not be used to treat infections.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+            "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+            "date": "published Apr 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries"
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries doxycycline hyclate 100 mg capsules, taken by mouth (30-day and 90-day supplies). Doxycycline hyclate 100 mg capsules are sold in the US as FDA-approved generic products, for example under ANDA 062396.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA062396",
+            "label": "Drugs@FDA data (openFDA), ANDA 062396, doxycycline hyclate capsules",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The catalog does not say whether the capsules Adonis carries are an FDA-approved generic or a compounded product. A compounded doxycycline product is not FDA approved."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The rosacea evidence FDA reviewed is two 16-week randomized trials of Oracea in 537 people. For acne, the standard label relies on its adjunctive-therapy wording rather than describing acne trials. Two published acne trials are listed below."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Phase 3 · before 2006 · Randomized, double-blind, placebo-controlled",
+        "title": "Oracea 40 mg in rosacea: two trials (FDA label)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "2 multicenter, randomized, double-blind, placebo-controlled Phase 3 trials"
+          },
+          {
+            "k": "People",
+            "v": "537 adults with rosacea (10 to 40 papules and pustules, two or fewer nodules); 269 on Oracea"
+          },
+          {
+            "k": "Length",
+            "v": "16 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in inflamed lesion count, and the share rated clear or almost clear"
+          }
+        ],
+        "found": "Lesion counts fell by 11.8 vs 5.9 (study 1) and 9.5 vs 4.3 (study 2) on Oracea vs placebo. 30.7% vs 19.4%, and 14.8% vs 6.3%, were rated clear or almost clear. Redness did not improve significantly compared with placebo.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+            "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+            "date": "published Apr 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2003 · Randomized, double-blind, placebo-controlled",
+        "title": "Low-dose doxycycline in moderate acne (Skidmore et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, double-blind, randomized, placebo-controlled, two university clinics"
+          },
+          {
+            "k": "People",
+            "v": "51 adults with moderate facial acne; 40 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "doxycycline hyclate 20 mg tablets (Periostat) twice daily, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "lesion counts, clinician's global assessment, skin bacteria and antibiotic resistance"
+          }
+        ],
+        "found": "The doxycycline group had a larger percentage fall in blackheads and whiteheads and in inflamed lesions than the placebo group. No change in skin bacteria or antibiotic resistance was detected.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12707093/",
+            "label": "Skidmore et al., Arch Dermatol, 2003",
+            "date": "published Apr 2003"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "France · 2024 · Randomized, double-blind",
+        "title": "Doxycycline vs spironolactone in adult women with acne (FASCE)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, parallel groups; both arms also used benzoyl peroxide"
+          },
+          {
+            "k": "People",
+            "v": "133 adult women with moderate acne"
+          },
+          {
+            "k": "Length",
+            "v": "doxycycline for 3 months then placebo for 3 months, vs spironolactone for 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "treatment success on the AFAST acne score at months 4 and 6"
+          }
+        ],
+        "found": "Success at 6 months was significantly higher with spironolactone than with doxycycline (P = 0.007). The trial enrolled women only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38380975/",
+            "label": "Dréno et al. (FASCE), Acta Derm Venereol, 2024",
+            "date": "published Feb 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Doxycycline is an FDA-approved prescription antibiotic. Vibramycin capsules were approved in 1967 and generic doxycycline hyclate capsules followed. Oracea 40 mg was approved in 2006 for rosacea bumps. Its acne use on the standard label is as adjunctive (add-on) therapy for severe acne. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Vibramycin (Pfizer):",
+            "text": "capsules approved December 5, 1967 (NDA 050007).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.brand_name:VIBRAMYCIN",
+                "label": "Drugs@FDA data (openFDA), Vibramycin applications",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Oracea (Galderma):",
+            "text": "approved May 26, 2006 (NDA 050805), for only the inflamed lesions (papules and pustules) of rosacea in adults.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA050805",
+                "label": "Drugs@FDA data (openFDA), NDA 050805, Oracea",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+                "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Generic doxycycline hyclate capsules:",
+            "text": "for example Hikma's 50 mg and 100 mg capsules, approved November 7, 1984 (ANDA 062396).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA062396",
+                "label": "Drugs@FDA data (openFDA), ANDA 062396, doxycycline hyclate capsules",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Acne wording on the label:",
+            "text": "\"In severe acne, doxycycline may be useful adjunctive therapy.\" The label also says it should be used only for infections proven or strongly suspected to be caused by bacteria, to limit drug resistance.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Doxycycline is not on the DEA's list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Oracea is approved for rosacea bumps only; its label says it has not been evaluated for infections and must not be used to treat them."
+      }
+    ],
+    "world": {
+      "lead": "Doxycycline is an authorised prescription antibiotic in the US, in all 27 EU countries and in Northern Ireland. Canada and Australia could not be checked. It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Vibramycin and generics, antibiotic; Oracea, rosacea). Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.brand_name:VIBRAMYCIN",
+              "label": "Drugs@FDA data (openFDA), Vibramycin applications",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA050805",
+              "label": "Drugs@FDA data (openFDA), NDA 050805, Oracea",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Oral doxycycline products from several makers are listed as authorised for Northern Ireland in EMA's data. MHRA's own record was not opened.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in all 27 EU countries (many brands). No human doxycycline medicine is centrally authorised by EMA.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of centrally authorised medicines",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Doxycycline is not named on the WADA 2026 Prohibited List, in any class, in or out of competition.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The FDA labels warn of permanent tooth discoloration when taken during tooth development, sun sensitivity, irritation and ulcers of the esophagus, raised pressure around the brain, severe skin reactions and C. difficile diarrhea."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Tooth discoloration:",
+            "text": "use during tooth development (the last half of pregnancy, infancy and childhood to age 8) may permanently discolor the teeth yellow-gray-brown. Enamel defects have been reported. Superficial discoloration of adult permanent teeth, reversible with stopping and professional cleaning, has also been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Sun sensitivity:",
+            "text": "an exaggerated sunburn reaction has been seen in some people taking tetracyclines. The label says to stop at the first sign of skin redness.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+                "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Esophagus:",
+            "text": "rare esophagitis and esophageal ulcers have been reported with capsules and tablets, mostly in people who took them just before going to bed. The label advises taking them with plenty of fluid.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pressure around the brain:",
+            "text": "intracranial hypertension (pseudotumor cerebri) can cause headache, blurred vision and vision loss, which may be permanent. The risk is higher in overweight women of childbearing age. Use with isotretinoin should be avoided.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Severe skin reactions:",
+            "text": "including Stevens-Johnson syndrome, toxic epidermal necrolysis and DRESS have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Bowel infection:",
+            "text": "C. difficile diarrhea, from mild to fatal colitis, has been reported with nearly all antibiotics, including doxycycline.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+                "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Darkening:",
+            "text": "Oracea's patient information says it can darken the skin, scars, teeth, gums, nails and whites of the eyes.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+                "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Oracea rosacea trials:",
+            "text": "more common than placebo were nasopharyngitis, diarrhea, high blood pressure, sinusitis and raised liver enzyme (AST), among others.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+                "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Other:",
+            "text": "nausea, vomiting, diarrhea, rash, rare liver injury, and allergic reactions including anaphylaxis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+                "label": "Doxycycline hyclate capsules label (Hikma), DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy and breastfeeding:",
+            "text": "Oracea's label says to avoid it in the second and third trimesters and not to breastfeed during treatment and for 5 days after.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+                "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Which manufacturer's doxycycline hyclate capsule Adonis dispenses is not on file, so whether Adonis's capsule is an FDA-approved generic or a compounded product is not confirmed.",
+    "Pfizer's Vibramycin label could not be found on DailyMed; label wording comes from Hikma's generic doxycycline hyclate capsule label.",
+    "The FDA Drugs@FDA website itself would not load; approval dates come from FDA's openFDA copy of the Drugs@FDA data.",
+    "The year the original Oracea rosacea trials were run is not stated on the label.",
+    "Health Canada's Drug Product Database could not be reached, so Canada's status is not confirmed.",
+    "Australia's TGA (ARTG) could not be reached, so Australia's status is not confirmed.",
+    "MHRA's product database could not be read; the UK entry rests on EMA's Article 57 data for Northern Ireland only.",
+    "The live WADA 2026 list URL returned a bot check on Oct 31, 2026; the list was read from a copy of that same PDF downloaded earlier in this working session. The 2027 list was not checked."
+  ],
+  "surprises": [
+    "Doxycycline is commonly described as an approved acne treatment, but the standard FDA label says only that \"in severe acne, doxycycline may be useful adjunctive therapy\"; it is an add-on, for severe acne.",
+    "Oracea, the doxycycline approved for rosacea, showed no significant effect on rosacea redness in its trials, and its label says it must not be used to treat infections.",
+    "Tooth staining is usually linked only to children, but the label also reports superficial discoloration of adult permanent teeth."
+  ]
+}

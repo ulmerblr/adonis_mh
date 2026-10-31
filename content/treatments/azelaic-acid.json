@@ -1,0 +1,591 @@
+{
+  "slug": "azelaic-acid",
+  "name": "Azelaic acid",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Approved; 2 rosacea RCTs",
+    "fda": "Approved (Finacea)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat, rabbit and monkey studies on the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Skin absorption studies in people on the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before approval; not reviewed for this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "2 rosacea RCTs, 664 people, 12 weeks (Finacea)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Azelex 1995 (acne); Finacea gel 2002 (rosacea)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Azelaic acid is a naturally occurring saturated dicarboxylic acid (1,7-heptanedicarboxylic acid, C9H16O4, molecular weight 188.22). It is part of the normal diet, in whole-grain cereals and animal products, and the body also makes small amounts of it.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+            "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+            "date": "published Mar 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The Azelex label says the exact mechanism is not known. In lab tests it is active against Propionibacterium acnes and Staphylococcus epidermidis, two skin bacteria. The label says the clinical meaning of these lab findings is unknown.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "text": "Skin biopsies from people using Azelex showed a thinner outer skin layer and less filaggrin, a skin protein. The label says this suggests it may reduce the tiny blocked pores that start acne.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "text": "The Finacea label says the way it works in rosacea is unknown.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "text": "About 4% of azelaic acid put on the skin is absorbed into the body. Blood levels after use stay in the range people already have from diet.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What Adonis carries"
+      },
+      {
+        "t": "p",
+        "text": "Adonis carries an azelaic acid 15% / niacinamide 4% cream, applied to the skin. It is a compounded combination. No FDA-approved product combines azelaic acid with niacinamide: every azelaic acid product in FDA's approval records contains azelaic acid alone.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22AZELAIC%20ACID%22&limit=20",
+            "label": "Drugs@FDA data (openFDA), all azelaic acid applications",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Adonis's azelaic acid and niacinamide cream is compounded. It is not FDA approved."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The main human evidence for azelaic acid is the pair of 12-week randomized trials FDA reviewed for Finacea gel in rosacea, 664 people in total. Older European acne trials tested the 20% cream. No published trial of a cream that combines azelaic acid and niacinamide turned up in a PubMed search on October 31, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · before 2002 · Randomized, double-blind, vehicle-controlled",
+        "title": "Finacea gel 15% in rosacea: two trials (FDA label)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "2 multicenter, randomized, double-blind trials with identical protocols, comparing the gel with its gel base (vehicle)"
+          },
+          {
+            "k": "People",
+            "v": "664 adults with mild to moderate papulopustular rosacea (333 on Finacea, 331 on vehicle). 73% women, 92.5% white, mean age 49 (21 to 86)"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in the count of inflamed bumps (papules and pustules), and the investigator's global score"
+          }
+        ],
+        "found": "Inflamed bumps fell by an average 57.9% on Finacea vs 39.9% on vehicle in study one, and 50.0% vs 38.2% in study two. 61% vs 40%, and 61% vs 48%, were rated clear, minimal or mild at the end. The label says its effect on redness without bumps was not evaluated.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+            "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+            "date": "published Apr 2011"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Greece · 1989 · Controlled trials",
+        "title": "Azelaic acid 20% cream in acne (Katsambas et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "one double-blind trial against the cream base (vehicle), and one single-blind trial against tretinoin 0.05% cream"
+          },
+          {
+            "k": "People",
+            "v": "92 people with moderate inflammatory acne (vehicle trial); 289 people with comedonal acne (tretinoin trial)"
+          },
+          {
+            "k": "Length",
+            "v": "3 months (vehicle trial); 6 months (tretinoin trial)"
+          },
+          {
+            "k": "Measured",
+            "v": "acne lesion counts and overall response"
+          }
+        ],
+        "found": "The authors report the 20% cream reduced lesion counts more than its vehicle, and matched tretinoin for blackheads and whiteheads with fewer local side effects. Only the abstract was reviewed for this page.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2528257/",
+            "label": "Katsambas et al., Acta Derm Venereol Suppl, 1989",
+            "date": "published 1989"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In a 26-week study in genetically modified (Tg.AC) mice, twice-daily Finacea gel and the gel base alone both raised the number of male mice with skin papillomas at the treated site. The label says the effect may come from the gel base and that its relevance to people is not clear.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "text": "At high oral doses that also harmed the mothers, azelaic acid was toxic to embryos in rats, rabbits and monkeys. No birth defects were seen. It did not damage DNA in lab tests.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Azelaic acid is FDA approved, by prescription, in Azelex 20% cream for acne (1995) and Finacea 15% gel (2002) and foam (2015) for rosacea. The compounded azelaic acid 15% / niacinamide 4% cream that Adonis carries is not FDA approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Azelex cream 20%:",
+            "text": "approved September 13, 1995 (NDA 020428) for mild to moderate inflammatory acne vulgaris.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020428",
+                "label": "Drugs@FDA data (openFDA), NDA 020428, Azelex",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Finacea gel 15%:",
+            "text": "approved December 24, 2002 (NDA 021470) for the inflamed papules and pustules of mild to moderate rosacea.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021470",
+                "label": "Drugs@FDA data (openFDA), NDA 021470, Finacea gel",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Finacea Foam 15%:",
+            "text": "approved July 29, 2015 (NDA 207071) for the same rosacea use.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA207071",
+                "label": "Drugs@FDA data (openFDA), NDA 207071, Finacea Foam",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9fabd24e-4c3b-49a0-aa5f-c8d75ae67572",
+                "label": "Finacea Foam 15% label, DailyMed",
+                "date": "published Dec 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Generics:",
+            "text": "FDA has also approved generic azelaic acid gels from several makers.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22AZELAIC%20ACID%22&limit=20",
+                "label": "Drugs@FDA data (openFDA), all azelaic acid applications",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Prescription status:",
+            "text": "Finacea is labelled Rx only.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "under section 503A, pharmacies may only compound with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA's 503A bulks list. Azelaic acid is part of FDA-approved drugs. Compounded products themselves are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22AZELAIC%20ACID%22&limit=20",
+                "label": "Drugs@FDA data (openFDA), all azelaic acid applications",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Azelaic acid is not on the DEA's list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Azelaic acid is an approved prescription skin medicine in the US and is authorised as a medicine across most of the EU and in Northern Ireland. Canada and Australia could not be checked. It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Azelex 20% cream, acne; Finacea 15% gel and foam, rosacea). Prescription-only. Adonis's combined cream is compounded and not approved.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021470",
+              "label": "Drugs@FDA data (openFDA), NDA 021470, Finacea gel",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020428",
+              "label": "Drugs@FDA data (openFDA), NDA 020428, Azelex",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Finacea and Skinoren (azelaic acid, applied to the skin) are listed as authorised for Northern Ireland in EMA's data. MHRA's own record was not opened.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally (e.g. Finacea, Skinoren) in 25 of the 27 EU countries; none listed for Malta or the Netherlands. Not centrally authorised by EMA.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of centrally authorised medicines",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Azelaic acid is not named on the WADA 2026 Prohibited List, in any class, in or out of competition.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The FDA labels list mostly skin reactions where it is applied: burning, stinging, itching and dryness, usually in the first weeks. They also report lightening of the skin in some people and rare flares of asthma and cold sores."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Rosacea trials (Finacea gel):",
+            "text": "among 457 people on the gel, the most common skin reactions were burning, stinging or tingling, then itching, scaling or dry skin, and redness or irritation. In a 15-week study, treatment-related skin reactions occurred in 19.4% on Finacea and 7.1% on the comparison gel.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Acne trials (Azelex cream):",
+            "text": "itching, burning, stinging and tingling in about 1 to 5% of patients. Redness, dryness, rash, peeling, irritation and dermatitis in under 1%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Skin lightening:",
+            "text": "there have been isolated reports of hypopigmentation (lighter skin). Both labels say azelaic acid has not been well studied in people with dark skin, who should be watched for early signs.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Rare reports:",
+            "text": "worsening of asthma, vitiligo-like loss of skin colour, small pale spots, extra hair growth, reddening around hair follicles and flare-ups of cold sores (herpes labialis).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+                "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+                "date": "published Mar 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Eyes:",
+            "text": "inflammation inside the eye (iridocyclitis) has been reported after Finacea gel got into the eye by accident.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "there are no adequate studies in pregnant women. High oral doses harmed embryos in animal studies.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Allergy:",
+            "text": "Finacea gel must not be used by people allergic to propylene glycol or any other ingredient.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+                "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+                "date": "published Apr 2011"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "These are the reactions recorded for FDA-approved azelaic acid products. The compounded cream Adonis carries also contains niacinamide and a different base; it has not been tested in trials of its own."
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The current LEO Pharma Finacea gel label could not be found on DailyMed; this page cites the most recent Finacea gel label DailyMed lists (Intendis, revised 2011).",
+    "Health Canada's Drug Product Database could not be reached (connection reset), so Canada's status is not confirmed.",
+    "Australia's TGA (ARTG) could not be reached, so Australia's status is not confirmed.",
+    "MHRA's product database could not be read; the UK entry rests on EMA's Article 57 data for Northern Ireland only, and Great Britain's status is not confirmed.",
+    "The FDA Drugs@FDA website itself would not load; approval dates come from FDA's openFDA copy of the Drugs@FDA data.",
+    "The live WADA 2026 list URL returned a bot check on Oct 31, 2026; the list was read from a copy of that same PDF (WADA, dated September 2025) downloaded earlier in this working session. The 2027 list was not checked.",
+    "Whether azelaic acid has a USP monograph was not checked."
+  ],
+  "surprises": [
+    "Azelaic acid is often sold as a redness treatment, but the Finacea label says its effect on rosacea redness without bumps has not been evaluated; it is approved only for the inflamed bumps.",
+    "Azelaic acid is often promoted to even out or brighten skin tone, while both FDA labels warn of isolated reports of skin lightening (hypopigmentation) and say it has not been well studied in dark skin.",
+    "No FDA-approved product combines azelaic acid with niacinamide; every approved azelaic acid product in FDA records contains azelaic acid alone, so the 15% / 4% cream Adonis carries is a compounded combination."
+  ]
+}
