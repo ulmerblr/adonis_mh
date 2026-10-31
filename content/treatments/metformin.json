@@ -1,0 +1,633 @@
+{
+  "slug": "metformin",
+  "name": "Metformin",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Approved; aging data thin",
+    "fda": "Approved (Glucophage)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Studied in many animal models of aging",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Aging-biology crossover in 14 older adults (2018)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "Diabetes trials before the 1995 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Exercise trials in older adults (2019)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "TAME aging trial proposed; no registry record found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Glucophage, 1995, type 2 diabetes (not aging)",
+      "status": "done"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Metformin is a biguanide, a blood sugar medicine taken by mouth. According to its label, it lowers the liver's glucose output, lowers glucose absorption from the gut and improves insulin sensitivity. On its own it does not usually cause low blood sugar.",
+        "src": [
+          {
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020357s034,021202s018lbl.pdf",
+            "label": "Glucophage/Glucophage XR label, FDA",
+            "date": "published May 2018"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Researchers proposed testing metformin against aging itself in a trial called TAME, citing protective effects against several age-related diseases seen in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27304507/",
+            "label": "Barzilai et al., Cell Metab, 2016 (TAME)",
+            "date": "published Jun 2016"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis Clinical carries metformin as tablets by mouth, through Beluga."
+      },
+      {
+        "t": "callout",
+        "text": "Metformin is FDA approved for type 2 diabetes. Using it for longevity is off-label. No trial has shown that it slows aging in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Metformin for type 2 diabetes is backed by decades of trials. For aging, the human evidence is small trials of aging biology and exercise in older adults, plus observational studies of people with diabetes that disagree with each other. The large TAME trial has been proposed since 2016; we found no registry record for it."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Trials in older adults"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2018 · Randomized crossover trial",
+        "title": "Aging biology in older adults (MILES), 2018",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled crossover, Albert Einstein College of Medicine, New York"
+          },
+          {
+            "k": "People",
+            "v": "14 people about 70 years old analyzed (16 enrolled, per the registry); the registry describes older adults with impaired glucose tolerance"
+          },
+          {
+            "k": "Length",
+            "v": "6 weeks on metformin and 6 weeks on placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "Glucose and insulin after a test meal; gene activity in muscle and fat biopsies"
+          }
+        ],
+        "found": "Metformin lowered 2-hour glucose and insulin. It changed the activity of 647 genes in muscle and 146 in fat, including some linked to aging pathways. Clinical aging outcomes were not measured.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29383869/",
+            "label": "Kulkarni et al., Aging Cell, 2018 (MILES)",
+            "date": "published Apr 2018"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02432287",
+            "label": "NCT02432287 (MILES), ClinicalTrials.gov",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2019 · Randomized trial",
+        "title": "Strength training in adults 65+ (MASTERS), 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, multicenter (Kentucky and Alabama)"
+          },
+          {
+            "k": "People",
+            "v": "94 healthy women and men aged 65 and older: 46 metformin, 48 placebo"
+          },
+          {
+            "k": "Length",
+            "v": "14 weeks of supervised resistance training"
+          },
+          {
+            "k": "Measured",
+            "v": "Lean mass, thigh muscle mass and area, strength, muscle biopsies"
+          }
+        ],
+        "found": "The placebo group gained more lean body mass and thigh muscle than the metformin group. Strength gains trended lower on metformin, not significantly.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31557380/",
+            "label": "Walton et al., Aging Cell, 2019 (MASTERS)",
+            "date": "published Dec 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2019 · Randomized trial",
+        "title": "Aerobic training in older adults, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, Colorado State University"
+          },
+          {
+            "k": "People",
+            "v": "53 older adults (mean age 62): 27 metformin, 26 placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks of aerobic exercise training"
+          },
+          {
+            "k": "Measured",
+            "v": "Insulin sensitivity, VO2 max, muscle mitochondrial respiration"
+          }
+        ],
+        "found": "Metformin blunted the rise in insulin sensitivity and VO2 max from exercise and blocked the exercise-driven increase in muscle mitochondrial respiration. Responses varied a lot between people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30548390/",
+            "label": "Konopka et al., Aging Cell, 2019",
+            "date": "published Feb 2019"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Observational studies"
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2014 · Retrospective observational study",
+        "title": "Survival on metformin vs people without diabetes, 2014 (UK)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Look-back study of UK general practice records (CPRD) from 2000. Not randomized."
+          },
+          {
+            "k": "People",
+            "v": "78,241 people with type 2 diabetes starting metformin, 12,222 starting a sulphonylurea, and 90,463 matched people without diabetes"
+          },
+          {
+            "k": "Length",
+            "v": "503,384 person-years in total"
+          },
+          {
+            "k": "Measured",
+            "v": "Death from any cause"
+          }
+        ],
+        "found": "People starting metformin had longer adjusted survival than the matched people without diabetes. People starting a sulphonylurea had shorter survival. An observational study cannot show cause and effect.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25041462/",
+            "label": "Bannister et al., Diabetes Obes Metab, 2014",
+            "date": "published Nov 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Denmark · 2022 · Retrospective observational study",
+        "title": "Same question, Danish registers and twins, 2022",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Nested case-control and matched cohort analyses of Danish national registers, including twin pairs, 1996 to 2012. Not randomized."
+          },
+          {
+            "k": "People",
+            "v": "People with type 2 diabetes starting metformin alone, compared with people without diabetes, including their own twins"
+          },
+          {
+            "k": "Length",
+            "v": "1996 to 2012"
+          },
+          {
+            "k": "Measured",
+            "v": "Death from any cause"
+          }
+        ],
+        "found": "Starting metformin was linked to higher mortality than in people without diabetes, after adjustment (rate ratio 1.32 in singletons, 1.64 in twin pairs). The authors said this contradicts the earlier UK finding.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36287641/",
+            "label": "Keys et al., Int J Epidemiol, 2022",
+            "date": "published Dec 2022"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "The TAME trial"
+      },
+      {
+        "t": "p",
+        "text": "TAME (Targeting Aging with Metformin) was described in 2016 as a planned trial to test whether metformin delays age-related disease. We searched ClinicalTrials.gov for it and found no registry record, so we cannot report its design, size, start date or status from a primary record.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27304507/",
+            "label": "Barzilai et al., Cell Metab, 2016 (TAME)",
+            "date": "published Jun 2016"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=%22Targeting%20Aging%20with%20Metformin%22",
+            "label": "ClinicalTrials.gov search: 'Targeting Aging with Metformin'",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "Metformin has extended healthspan and lifespan in several model systems, according to the researchers who ran the MILES trial. Those results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29383869/",
+            "label": "Kulkarni et al., Aging Cell, 2018 (MILES)",
+            "date": "published Apr 2018"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Metformin is FDA approved. Glucophage (NDA 020357) was approved on March 3, 1995 for type 2 diabetes. Many generic metformin tablets are FDA approved. Use for longevity or aging is off-label. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approved brand:",
+            "text": "Glucophage (metformin hydrochloride) tablets, NDA 020357, approved March 3, 1995 as a new molecular entity. Drugs@FDA now lists Glucophage tablets as discontinued, with a Federal Register determination that they were not withdrawn for safety or effectiveness reasons.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020357",
+                "label": "Drugs@FDA, NDA 020357 (Glucophage)",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Approved use:",
+            "text": "as an add-on to diet and exercise to improve blood sugar control in adults and children 10 and older with type 2 diabetes. The label has no aging, longevity or weight indication.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020357s034,021202s018lbl.pdf",
+                "label": "Glucophage/Glucophage XR label, FDA",
+                "date": "published May 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Generics:",
+            "text": "generic metformin hydrochloride tablets are approved under abbreviated applications, for example ANDA203769, labelled on DailyMed.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "using metformin to slow aging or for longevity is off-label. The label also says no clinical studies have established conclusive evidence that metformin reduces large-vessel (heart and artery) risk.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "lactic acidosis. See Documented side effects.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Adonis's tablets:",
+            "text": "the product record Adonis provided lists metformin tablets but does not say whether they are a commercial FDA-approved generic or compounded by Beluga. Any compounded version would not be FDA approved."
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "FDA approval covers type 2 diabetes only. Compounded drugs are not FDA approved, and FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Metformin is an approved prescription medicine for type 2 diabetes in the US, the EU, the UK and Canada, and prescription-only in Australia. No regulator we checked has approved it for aging. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Glucophage, 1995, type 2 diabetes; many generics). Prescription-only. Longevity use is off-label.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020357",
+              "label": "Drugs@FDA, NDA 020357 (Glucophage)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+              "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Approved medicine, first licensed nationally between 1959 and 1997; product information harmonised by an EU decision in February 2001. Not approved for aging.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/glucophage-glucophage-forte-risidon-dianben",
+              "label": "EMA, Glucophage referral",
+              "date": "published Feb 2001"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised medicine for type 2 diabetes and to help prevent it in people at high risk. Not authorised for aging.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk",
+              "label": "MHRA Drug Safety Update, metformin and vitamin B12",
+              "date": "published Jun 2022"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Marketed prescription medicine with Drug Identification Numbers (several lots recalled for NDMA impurity in 2020). Not approved for aging.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/certain-metformin-diabetes-drugs-recalled-due-presence-or-possible-presence-ndma",
+              "label": "Health Canada, metformin NDMA recalls (RA-72287)",
+              "date": "published Jun 2020"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4) in the Poisons Standard, October 2026. Product approvals not checked on the ARTG.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Metformin is not named on the 2026 WADA Prohibited List or on the 2027 list. The lists prohibit 'activators of the AMP-activated protein kinase (AMPK)' under S4.4.1 with examples such as AICAR and MOTS-c; metformin is not among the examples, and the lists do not say whether it falls in that class.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list",
+              "label": "WADA news: 2027 Prohibited List",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Metformin carries a boxed warning for lactic acidosis, which can be fatal. The most common side effects are gut symptoms. It can lower vitamin B12 levels. In older adults, it reduced some gains from exercise."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Boxed warning, lactic acidosis:",
+            "text": "post-marketing cases have resulted in death, low body temperature, low blood pressure and slow heart rhythms. Risk factors include kidney problems, some other medicines, age over 65, contrast X-ray studies, surgery, low-oxygen states, heavy alcohol use and liver problems.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Common side effects:",
+            "text": "in a 29-week label trial, diarrhea (53% vs 12% on placebo), nausea or vomiting (26% vs 8%), flatulence, weakness, indigestion, abdominal discomfort and headache. Diarrhea led 6% to stop.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Vitamin B12:",
+            "text": "metformin may lower vitamin B12 levels; in 29-week trials about 7% of patients fell to below-normal levels. The MHRA advises B12 testing if deficiency is suspected, and that risk rises with dose and duration.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.gov.uk/drug-safety-update/metformin-and-reduced-vitamin-b12-levels-new-advice-for-monitoring-patients-at-risk",
+                "label": "MHRA Drug Safety Update, metformin and vitamin B12",
+                "date": "published Jun 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood sugar:",
+            "text": "risk rises when it is combined with insulin or drugs that push the pancreas to release insulin.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Liver injury:",
+            "text": "cholestatic, hepatocellular and mixed liver injury have been reported after approval.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Exercise:",
+            "text": "in older adults, metformin blunted muscle gains from strength training and fitness and insulin-sensitivity gains from aerobic training.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31557380/",
+                "label": "Walton et al., Aging Cell, 2019 (MASTERS)",
+                "date": "published Dec 2019"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30548390/",
+                "label": "Konopka et al., Aging Cell, 2019",
+                "date": "published Feb 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Who should not take it:",
+            "text": "the label contraindicates it in severe kidney impairment (eGFR below 30), in metabolic acidosis including diabetic ketoacidosis, and in people allergic to metformin.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0",
+                "label": "Metformin hydrochloride tablets label (ANDA203769), DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We found no ClinicalTrials.gov record for the TAME trial, so its current status, size and timeline are not confirmed from a primary record.",
+    "Adonis's product record does not say whether its metformin tablets are a commercial FDA-approved generic or a Beluga compounded product.",
+    "We could not reach the TGA's ARTG register to list approved metformin products in Australia; only the Schedule 4 listing is confirmed.",
+    "Health Canada's Drug Product Database did not respond; Canada's status rests on Health Canada's 2020 recall notice listing marketed metformin DINs.",
+    "We found no WADA statement on whether metformin falls under its 'AMPK activators' class; it is not named."
+  ],
+  "surprises": [
+    "Metformin is often described as a proven longevity drug, but its US label says no clinical studies have established conclusive evidence that it reduces heart and artery risk, and no aging trial has reported results.",
+    "The often-cited 2014 UK study found people on metformin outlived matched people without diabetes, but a 2022 Danish register and twin study found higher mortality instead.",
+    "In older adults, metformin reduced muscle gains from strength training and fitness gains from aerobic training, the opposite of what was hypothesized in the strength trial.",
+    "TAME is often cited as the trial that will test metformin against aging, but ten years after it was described we could not find it registered on ClinicalTrials.gov.",
+    "WADA's list prohibits AMPK activators, a pathway metformin is often said to act on, yet metformin itself is not named on the list."
+  ]
+}

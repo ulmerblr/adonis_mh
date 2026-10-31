@@ -1,0 +1,670 @@
+{
+  "slug": "nicotinamide-riboside",
+  "name": "Nicotinamide riboside",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Oral RCTs; IV: 1 review",
+    "fda": "Not approved (suppl.)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Many mouse and cell studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Oral pilots from 2016; one IV chart review (2026)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Oral safety trials, e.g. NADPARK, NR-SAFE",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Oral trials in heart, muscle, artery disease",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "NOPARK (oral, Parkinson's): worse than placebo",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "None as a drug; sold as a supplement",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Nicotinamide riboside (NR) is a form of vitamin B3. The body can turn it into the coenzyme NAD+. It is made by chemical synthesis and sold in the US as nicotinamide riboside chloride.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635",
+            "label": "FDA response letter, GRAS Notice GRN 000635",
+            "date": "published Aug 2016"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "NIAGEN is the name a ChromaDex-funded paper gives to a crystal form of nicotinamide riboside chloride sold for foods and supplements. A 2026 study describes an IV nicotinamide riboside product from Niagen Biosciences, prepared by a compounding pharmacy.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31278280/",
+            "label": "Conze et al., Sci Rep, 2019",
+            "date": "published Jul 2019"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41704678/",
+            "label": "Reyna et al., Front Aging, 2026",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis Clinical carries a nicotinamide riboside injection sold under the Niagen name, compounded through Beluga. It is not an FDA-approved product."
+      },
+      {
+        "t": "callout",
+        "text": "Almost all human research on NR used capsules taken by mouth. Injected NR has been described in people in one small chart review."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Oral NR has been tested in many randomized trials. They show that it raises NAD+ in blood. Effects on health outcomes have been small, mixed or absent, and the largest trial, in Parkinson's disease, found worse results than placebo. For injected NR there is one look-back review of 8 people."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Injected NR"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Retrospective chart review",
+        "title": "IV NR vs IV NAD+, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Look-back review of records at a commercial wellness business in Austin, Texas. No placebo. The authors worked for the business. The NR product was made by Niagen Biosciences and a compounding pharmacy."
+          },
+          {
+            "k": "People",
+            "v": "14 adult clients: 8 got IV NR, 6 got IV NAD+"
+          },
+          {
+            "k": "Length",
+            "v": "Four infusions on four days in a row, then 30 days of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "Symptoms, infusion time, blood pressure, heart rate, and liver, kidney, thyroid and inflammation blood tests"
+          }
+        ],
+        "found": "People getting NR reported minor tingling of the tongue, jaw and arm and mild cramping during infusion, which stopped afterwards. NR infusions took less time than NAD+ infusions. Most blood tests did not change; HbA1c fell in the NR group. The authors call this preliminary.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41704678/",
+            "label": "Reyna et al., Front Aging, 2026",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Oral NR, randomized trials"
+      },
+      {
+        "t": "study",
+        "meta": "Norway · 2026 · Phase 3 randomized trial",
+        "title": "Early Parkinson's disease (NOPARK), 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, 11 centers in Norway"
+          },
+          {
+            "k": "People",
+            "v": "410 people with Parkinson's diagnosed within 2 years; 393 in the main analysis"
+          },
+          {
+            "k": "Length",
+            "v": "52 weeks of oral NR or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in the MDS-UPDRS disease score; brain scans; non-motor symptoms"
+          }
+        ],
+        "found": "NR did not improve outcomes. The disease score worsened 2.72 points more on NR than on placebo, and non-motor symptoms also worsened more on NR. Serious adverse events were 8.3% on NR and 14.1% on placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/",
+            "label": "NOPARK trial, JAMA, 2026",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03568968",
+            "label": "NCT03568968 (NOPARK), ClinicalTrials.gov",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2018 · Randomized crossover trial",
+        "title": "Healthy middle-aged and older adults, 2018",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled crossover (6 weeks on each), University of Colorado Boulder"
+          },
+          {
+            "k": "People",
+            "v": "Healthy middle-aged and older adults"
+          },
+          {
+            "k": "Length",
+            "v": "2 × 6 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Tolerability, NAD+ metabolism, blood pressure and artery stiffness"
+          }
+        ],
+        "found": "NR was well tolerated and raised NAD+ metabolism. The authors said effects on blood pressure and artery stiffness needed testing in future trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29599478/",
+            "label": "Martens et al., Nat Commun, 2018",
+            "date": "published Mar 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Denmark · 2018 · Randomized trial",
+        "title": "Obese, insulin-resistant men, 2018",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, parallel groups"
+          },
+          {
+            "k": "People",
+            "v": "40 sedentary men aged 40 to 70 with BMI over 30"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Insulin sensitivity by clamp, glucose and fat metabolism, body composition, liver fat, safety blood tests"
+          }
+        ],
+        "found": "No improvement in insulin sensitivity, glucose metabolism, energy use or body composition. No serious adverse events from NR.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29992272/",
+            "label": "Dollerup et al., Am J Clin Nutr, 2018",
+            "date": "published Aug 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2019 · Randomized crossover trial",
+        "title": "Older men's muscle, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled crossover, University of Birmingham"
+          },
+          {
+            "k": "People",
+            "v": "12 older men"
+          },
+          {
+            "k": "Length",
+            "v": "21 days on each"
+          },
+          {
+            "k": "Measured",
+            "v": "Muscle NAD+ metabolites, muscle gene activity, mitochondrial function, blood inflammation markers"
+          }
+        ],
+        "found": "NR raised NAD+-related metabolites in muscle and lowered some inflammation markers in blood. It did not change mitochondrial function.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31412242/",
+            "label": "Elhassan et al., Cell Rep, 2019",
+            "date": "published Aug 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2019 · Randomized trial (company-funded)",
+        "title": "Overweight healthy adults, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled; funded by ChromaDex"
+          },
+          {
+            "k": "People",
+            "v": "Overweight but otherwise healthy men and women"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Blood NAD+, safety blood tests, adverse events"
+          }
+        ],
+        "found": "Blood NAD+ rose with each dose tested. Adverse events did not differ from placebo, and no flushing was reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31278280/",
+            "label": "Conze et al., Sci Rep, 2019",
+            "date": "published Jul 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Randomized trial",
+        "title": "Peripheral artery disease (NICE), 2024",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled; NR, NR plus resveratrol, or placebo"
+          },
+          {
+            "k": "People",
+            "v": "90 people with leg artery disease"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "6-minute walk distance"
+          }
+        ],
+        "found": "Walk distance changed by +7.0 m on NR and -10.6 m on placebo. Resveratrol added nothing. The authors said a larger trial is needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38871717/",
+            "label": "McDermott et al., Nat Commun, 2024 (NICE)",
+            "date": "published Jun 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Norway · 2022 and 2023 · Phase 1 randomized trials",
+        "title": "Parkinson's safety trials (NADPARK, NR-SAFE)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Two randomized, double-blind, placebo-controlled Phase 1 trials, Haukeland University Hospital"
+          },
+          {
+            "k": "People",
+            "v": "30 newly diagnosed patients (NADPARK); 20 patients (NR-SAFE)"
+          },
+          {
+            "k": "Length",
+            "v": "30 days; 4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Safety, brain and blood NAD+ levels, disease scores"
+          }
+        ],
+        "found": "Both reported NR was well tolerated and raised NAD+ levels. NR-SAFE saw a slight early rise in blood homocysteine. The later Phase 3 NOPARK trial did not confirm a benefit.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35235774/",
+            "label": "Brakedal et al., Cell Metab, 2022 (NADPARK)",
+            "date": "published Mar 2022"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38016950/",
+            "label": "Berven et al., Nat Commun, 2023 (NR-SAFE)",
+            "date": "published Nov 2023"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "FDA's GRAS letter summarizes a 90-day rat study and mouse studies of up to 48 weeks with no reported adverse effects, and lab tests that found NR did not damage genes. Mouse results on metabolism and aging have not been reproduced in most human trials above.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635",
+            "label": "FDA response letter, GRAS Notice GRN 000635",
+            "date": "published Aug 2016"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Nicotinamide riboside is not an FDA-approved drug. FDA has had no questions about one company's conclusion that it is safe as a food ingredient, and it is sold as a dietary supplement. No NR injection is FDA approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of FDA's Drugs@FDA data found no product with nicotinamide riboside as an active ingredient.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20RIBOSIDE%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for this active ingredient, no match",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Food ingredient (GRAS):",
+            "text": "in GRN 000635, closed August 3, 2016, FDA said it had no questions about ChromaDex's conclusion that NR chloride is generally recognized as safe as a source of vitamin B3 in certain foods and drinks. FDA said it had not made its own GRAS determination. This covers food use by mouth, not injection.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635",
+                "label": "FDA response letter, GRAS Notice GRN 000635",
+                "date": "published Aug 2016"
+              },
+              {
+                "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&id=635",
+                "label": "FDA GRAS Notice Inventory, GRN 635",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Dietary supplement:",
+            "text": "a ChromaDex-funded paper states that its NR was the subject of two New Dietary Ingredient notifications to FDA. We did not open FDA's own NDI records.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31278280/",
+                "label": "Conze et al., Sci Rep, 2019",
+                "date": "published Jul 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Disease claims:",
+            "text": "in November 2020, FDA and the FTC warned ChromaDex that Tru Niagen products marketed with COVID-19 claims were unapproved new drugs and misbranded.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/chromadex-607692-11172020",
+                "label": "FDA/FTC warning letter, ChromaDex",
+                "date": "published Nov 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "nicotinamide riboside does not appear in any of the three categories on FDA's 503A nominated bulk substances list, updated May 14, 2026.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Nicotinamide riboside is sold as a supplement ingredient, not approved as a medicine, in the places we could check. We could not confirm its status with most regulators outside the US. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved as a drug. Sold as a dietary supplement; FDA had no questions on a GRAS notice for food use (2016).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635",
+              "label": "FDA response letter, GRAS Notice GRN 000635",
+              "date": "published Aug 2016"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20RIBOSIDE%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for this active ingredient, no match",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia: nicotinamide riboside is not named in the Poisons Standard that took effect October 1, 2026. We could not reach the TGA's register to check its status as a medicine ingredient.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Nicotinamide riboside is not named on the 2026 WADA Prohibited List or on the 2027 list. Separately, the list prohibits intravenous infusions or injections of more than 100 mL in total per 12-hour period at all times (method M2.2), except those legitimately received in hospital treatment, surgery or clinical diagnostic investigations. That rule is about the method, whatever the substance. The 2027 list, which takes effect January 1, 2027, keeps the same rule.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list",
+              "label": "WADA news: 2027 Prohibited List",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In oral trials, NR was generally well tolerated over weeks to a year. The largest trial found worse Parkinson's scores on NR than placebo. For IV NR, the only data are 8 people in one chart review."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Oral trials:",
+            "text": "no serious adverse events from NR in 40 obese men over 12 weeks; no differences from placebo in adverse events in a company-funded 8-week trial.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29992272/",
+                "label": "Dollerup et al., Am J Clin Nutr, 2018",
+                "date": "published Aug 2018"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31278280/",
+                "label": "Conze et al., Sci Rep, 2019",
+                "date": "published Jul 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Parkinson's, Phase 3:",
+            "text": "over 52 weeks, disease scores and non-motor symptoms worsened more on NR than placebo. Serious adverse events were 8.3% on NR and 14.1% on placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/",
+                "label": "NOPARK trial, JAMA, 2026",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Homocysteine:",
+            "text": "in a 4-week high-dose trial, a slight early rise in blood homocysteine was seen.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38016950/",
+                "label": "Berven et al., Nat Commun, 2023 (NR-SAFE)",
+                "date": "published Nov 2023"
+              }
+            ]
+          },
+          {
+            "lead": "IV infusion:",
+            "text": "tingling of the tongue, jaw and arm and mild cramping during infusion, which stopped afterwards (8 people).",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41704678/",
+                "label": "Reyna et al., Front Aging, 2026",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Injected products in general:",
+            "text": "FDA has warned that injectable drugs made from ingredients meant for food or supplements can carry endotoxins and microbes. Its warnings named NAD+ and glutathione; we found none naming NR.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding",
+                "label": "FDA, reminder on ingredients for sterile compounding",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open FDA's New Dietary Ingredient notification records for nicotinamide riboside; only a company-funded paper says there were two.",
+    "We could not confirm NR's status with Health Canada (its product databases did not respond), the MHRA, the EMA or EU food regulators (EUR-Lex did not load), or the TGA.",
+    "We found no FDA record that addresses an injectable nicotinamide riboside product specifically.",
+    "We could not get the participant count for the 2018 Colorado crossover trial from the record we read."
+  ],
+  "surprises": [
+    "The Niagen name is mainly known as an oral supplement ingredient; FDA's GRAS letter covers use in foods, not injection, and no NR injection is FDA approved.",
+    "NR is often promoted as protective for the brain, but the largest trial, NOPARK (410 people with Parkinson's, 2026), found Parkinson's scores worsened more on NR than on placebo.",
+    "The NOPARK registry record lists the trial as Phase 3 while its own summary text calls it a phase II trial; the published paper calls it phase 3.",
+    "In obese men, 12 weeks of NR did not improve insulin sensitivity, despite animal results that drove interest in metabolic benefits."
+  ]
+}

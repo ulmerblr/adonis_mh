@@ -1,0 +1,647 @@
+{
+  "slug": "mots-c",
+  "name": "MOTS-c",
+  "peptide": true,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "No human studies",
+    "fda": "Not approved",
+    "sport": "Banned (S4)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat and cell studies since 2015",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published study giving it to people",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial of MOTS-c",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "One Phase 2a trial recruiting; no results",
+      "status": "started"
+    },
+    {
+      "title": "Phase III",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "MOTS-c is a chain of 16 amino acids: Met-Arg-Trp-Gln-Glu-Met-Gly-Tyr-Ile-Phe-Tyr-Pro-Arg-Lys-Leu-Arg. Its molecular weight is about 2,175 daltons. Products are made synthetically and sold as a free base or an acetate salt. It is a common name, not an official drug name.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193347/download",
+            "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The body makes MOTS-c itself. Its code sits in the DNA of mitochondria, inside the gene for 12S ribosomal RNA. A group at the University of Southern California first described it in 2015.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+            "label": "Lee et al., Cell Metabolism, 2015",
+            "date": "published Mar 2015"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In cells, it slowed the folate cycle and purine production. That switched on AMPK, an enzyme that senses energy. Muscle appeared to be its main target.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+                "label": "Lee et al., Cell Metabolism, 2015",
+                "date": "published Mar 2015"
+              }
+            ]
+          },
+          {
+            "text": "In mice, it prevented insulin resistance caused by a high-fat diet or by age, and prevented diet-induced obesity.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+                "label": "Lee et al., Cell Metabolism, 2015",
+                "date": "published Mar 2015"
+              }
+            ]
+          },
+          {
+            "text": "In human blood in a test tube, it was broken into shorter pieces quickly. FDA says it is not known whether an injected dose reaches active levels in people.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30394592/",
+                "label": "Knoop et al., Rapid Commun Mass Spectrom, 2019",
+                "date": "published Feb 2019"
+              },
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "Exercise raised the body’s own MOTS-c in human muscle and blood.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33473109/",
+                "label": "Reynolds et al., Nature Communications, 2021",
+                "date": "published Jan 2021"
+              }
+            ]
+          },
+          {
+            "text": "FDA notes that its molecular target is unknown, so it is hard to predict which organs it affects.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these effects has been tested by giving MOTS-c to people."
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry MOTS-c today."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: none. FDA’s 2026 review found no published study in which MOTS-c was given to people by any route. One placebo-controlled trial is registered and has no results yet. Everything else is mouse, rat and cell work."
+      },
+      {
+        "t": "p",
+        "text": "FDA searched PubMed, Embase, Cochrane, ClinicalTrials.gov and its adverse event database. It found no clinical studies or human exposure data.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193347/download",
+            "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "China · 2026 · Registered trial · Phase 2a",
+        "title": "Prediabetes and overweight, Phase 2a (MOTS-MET)",
+        "badge": "No results yet",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT07505745, sponsored by Hudson Biotech; site in Shenzhen, China"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; lifestyle counseling in both groups"
+          },
+          {
+            "k": "People",
+            "v": "about 120 planned adults aged 18 to 65, BMI 27 to 40, with prediabetes"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks of daily under-the-skin injections; safety follow-up to week 16"
+          },
+          {
+            "k": "Measured",
+            "v": "insulin sensitivity from a glucose tolerance test, side effects, blood sugar, antibodies to the drug"
+          }
+        ],
+        "found": "Recruiting since February 2026. Primary completion is estimated for February 2027. No results are posted.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07505745",
+            "label": "ClinicalTrials.gov NCT07505745",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Japan · 2015 · Genetic hypothesis",
+        "title": "A MOTS-c gene variant and long life (Japan)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Fuku N, et al. Aging Cell 2015;14(6):921-3"
+          },
+          {
+            "k": "Design",
+            "v": "short report. No one was given MOTS-c."
+          },
+          {
+            "k": "Measured",
+            "v": "a variant (m.1382A>C) in the MOTS-c code, specific to Northeast Asian people"
+          }
+        ],
+        "found": "The authors suggest the variant may be one reason for long life in Japan. They say more research is needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26289118/",
+            "label": "Fuku et al., Aging Cell, 2015",
+            "date": "published Dec 2015"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Obesity, mice:",
+            "text": "male mice on a high-fat diet given daily injections for 8 weeks weighed about 20% less than untreated mice on the same diet, with less liver fat.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+                "label": "Lee et al., Cell Metabolism, 2015",
+                "date": "published Mar 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Ageing, mice:",
+            "text": "injections improved treadmill performance in young, middle-aged and old mice. In male mice treated three times a week from 23.5 months of age, median lifespan was 970 days against 912 untreated, and maximum lifespan 1,120 against 1,047 days. Two authors reported being consultants and shareholders of CohBar, Inc.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33473109/",
+                "label": "Reynolds et al., Nature Communications, 2021",
+                "date": "published Jan 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Bone:",
+            "text": "it raised bone-forming genes in rat bone stem cells, and reduced bone loss in the skulls of mice given plastic particles.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Blood vessels:",
+            "text": "in rats given nicotine and vitamin D to calcify the aorta, it reduced calcification and heart changes.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA notes that all of this work was in rodents or cells, and none tested how effects change with dose. Animal results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193347/download",
+            "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA’s scientists, in a memo dated May 11, 2026 for the July meeting, recommended against adding MOTS-c (free base or acetate) to the compounding list. Reasons: it is not well characterized, its use in compounding is unknown, there are no animal toxicity data, and there are no human studies.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "MOTS-c was nominated for insulin resistance, obesity, osteoporosis, vascular calcification, muscle and fat metabolism, and longevity. FDA said the nomination did not include enough information to evaluate any of these uses. The only nomination, from Wells Pharmacy Network, was withdrawn; FDA reviewed MOTS-c on its own initiative.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA’s advisory committee was asked to vote on both forms on July 23, 2026, with obesity and osteoporosis listed as the uses reviewed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, PCAC meeting page, July 23-24, 2026",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use, and no FDA-approved drug contains it. FDA’s scientists advised against allowing it in compounding. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. MOTS-c has no USP or National Formulary monograph and is not a component of any FDA-approved drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists MOTS-c among substances previously in Category 2 whose nominations were withdrawn. FDA wrote that it \"may pose significant risk for immunogenicity\" and that it found no human exposure data for any route.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "On October 30, 2026, HHS published notice of an \"Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances\" (Docket HHS-OASH-2026-0496). The notice says the peptides are listed in an appendix on the HHS website. The notice itself does not name them, and the HHS appendix could not be opened for this page, so whether MOTS-c is covered, and on what conditions, is not confirmed here. Enforcement discretion is not approval, and the notice says the policy is not binding on HHS.",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Use in compounding:",
+            "text": "outsourcing facilities reported no MOTS-c products to FDA from January 2017 to December 2025. FDA found clinics marketing it, including in an IV \"cocktail\".",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA’s controlled substances list dated October 21, 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved MOTS-c as a medicine. Canada names it among seized unauthorized peptides, EMA lists no MOTS-c medicine, and it is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / HHS",
+          "status": "Not approved. FDA staff advised against adding it to the compounding list. HHS peptide policy coverage not confirmed from the HHS list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193347/download",
+              "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. Named among unauthorized injectable peptides seized.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada advisory RA-81874",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (not in EMA’s medicines list). National status not checked.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "MOTS-c is named on the WADA Prohibited List under S4.4.1 (metabolic modulators: activators of AMPK). It is prohibited at all times, in and out of competition, and S4.4 substances are non-Specified. It stays named on the 2027 list, which takes effect January 1, 2027. An anti-doping lab in Cologne published a blood test for it in 2019.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA Prohibited List 2026",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA Prohibited List 2027 (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list",
+              "label": "WADA, 2027 Prohibited List news release",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30394592/",
+              "label": "Knoop et al., Rapid Commun Mass Spectrom, 2019",
+              "date": "published Feb 2019"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: MOTS-c is not named in the Poisons Standard (June 2026). The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australia, Poisons Standard June 2026",
+              "date": "published May 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There are no human safety data. FDA found no studies in people and no animal toxicity studies, so its risks in people are unknown."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "none. FDA found no clinical studies or human exposure data for any route.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA adverse event reports:",
+            "text": "searches of FAERS through March 9, 2025 found no reports. Compounding pharmacies generally do not report adverse events to FDA.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Animal toxicity:",
+            "text": "FDA found no single-dose, repeat-dose, genetic toxicity, reproductive or cancer studies.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA is concerned about immune reactions to injected MOTS-c, from clumping (aggregation) and peptide impurities. Injection under the skin carries more of this risk than IV.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193347/download",
+                "label": "FDA briefing, MOTS-c (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "Health Canada warns that unauthorized injectable peptides may hold too much, too little or none of the ingredient, or contaminants such as bacteria, endotoxins or particles.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada advisory RA-81874",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The HHS appendix that lists the peptides covered by the October 30, 2026 policy (hhs.gov) returned \"access denied\", so MOTS-c’s coverage and any conditions are not confirmed from the HHS record.",
+    "FDA’s record of the July 23, 2026 advisory committee vote on MOTS-c was not found among the meeting materials, so the vote result is left out.",
+    "UK (MHRA) status and Australia’s TGA product register were not checked against the regulator’s own record.",
+    "A completed Phase 1a/1b trial of CohBar’s CB4211 (NCT03998514) has no posted results, and its registry record does not describe CB4211 as MOTS-c, so it is left out."
+  ],
+  "surprises": [
+    "MOTS-c is marketed for weight loss, insulin resistance, physical performance and slowing aging, but FDA found no published study in which it was given to a person by any route.",
+    "Lifespan claims trace to mice: the result FDA summarized was a median lifespan of 970 versus 912 days in male mice treated from old age.",
+    "MOTS-c is made by the body, yet WADA names it as a prohibited metabolic modulator, banned at all times.",
+    "In a test tube, human blood broke MOTS-c down quickly, and FDA says it is unknown whether injected MOTS-c reaches active levels in people.",
+    "It was nominated for six uses including longevity, but FDA said there was not enough information to evaluate any of them."
+  ]
+}

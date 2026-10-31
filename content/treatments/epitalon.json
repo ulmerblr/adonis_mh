@@ -1,0 +1,748 @@
+{
+  "slug": "epitalon",
+  "name": "Epitalon",
+  "peptide": true,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Animal/cell; few in people",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat, monkey and cell studies, mostly 1 group",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "A few small Russian studies; no safety data",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; orphan status revoked 2016",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Epitalon, also spelled epithalon, is a chain of four amino acids: Ala-Glu-Asp-Gly. Its molecular weight is about 390 daltons. It is sold as a free base or an acetate salt. It is a common name, not an official drug name.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193345/download",
+            "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It was made as a synthetic copy based on epithalamin, an extract of cattle pineal gland, and appears to have first been synthesized in 1999. FDA treats epitalon and epithalamin as different substances, although sellers often use the names interchangeably.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193345/download",
+            "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Most of the research comes from one group in St. Petersburg, Russia, led by Vladimir Khavinson, and its collaborators.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193345/download",
+            "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In human fetal lung cells in the lab, it switched on telomerase and lengthened telomeres, the protective caps on chromosomes.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12937682/",
+                "label": "Khavinson et al., Bull Exp Biol Med, 2003",
+                "date": "published Jun 2003"
+              },
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "In old female rhesus monkeys, 10 days of injections raised evening melatonin and restored the day-night rhythm of cortisol. It had no effect on melatonin in young monkeys.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11550036/",
+                "label": "Goncharova et al., Bull Exp Biol Med, 2001",
+                "date": "published Apr 2001"
+              },
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "In rat pineal glands in the lab, it did not raise melatonin release directly. How it changes melatonin is unknown.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these mechanisms has been confirmed in people."
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry epitalon today."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence is thin and almost all from Russia. FDA found three studies that gave epitalon to people and none that assessed its safety. Most animal and cell studies come from a single St. Petersburg research group."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "2021 · Randomized, placebo-controlled",
+        "title": "Melatonin in night-shift workers, 2021",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Ivko et al. 2021, as summarized by FDA"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled. Blinding was not described."
+          },
+          {
+            "k": "People",
+            "v": "75 healthy women aged 40 to 50, mostly night-shift workers. 40 with low melatonin output were split between epitalon and placebo; 35 with normal output served as a comparison."
+          },
+          {
+            "k": "What was given",
+            "v": "an under-the-tongue spray (a French product), or a salt-water placebo"
+          },
+          {
+            "k": "Length",
+            "v": "20 days"
+          },
+          {
+            "k": "Measured",
+            "v": "a melatonin breakdown product in urine, and clock genes in blood cells"
+          }
+        ],
+        "found": "The melatonin product rose 1.7-fold on epitalon and did not change on placebo. Sleep was not measured. No safety data were reported. FDA noted the small size and short length.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193345/download",
+            "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2002 · Controlled clinical study",
+        "title": "Retinitis pigmentosa, 2002 (Russia)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Khavinson V, et al. Neuro Endocrinol Lett 2002;23(4):365-8"
+          },
+          {
+            "k": "Design",
+            "v": "a rat study and a patient study, reported together; PubMed lists it as a controlled clinical trial"
+          },
+          {
+            "k": "People",
+            "v": "patients with inherited retinal degeneration; the abstract gives no count"
+          },
+          {
+            "k": "What was given",
+            "v": "injection next to the eye (parabulbar), per FDA"
+          },
+          {
+            "k": "Measured",
+            "v": "retinal condition"
+          }
+        ],
+        "found": "The authors report a positive clinical effect in 90% of cases. The abstract gives no numbers of patients or details of the control group.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12195242/",
+            "label": "Khavinson et al., Neuro Endocrinol Lett, 2002",
+            "date": "published Aug 2002"
+          },
+          {
+            "url": "https://www.fda.gov/media/193345/download",
+            "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Third study:",
+            "text": "Khavinson et al. 2021 gave under-the-tongue epitalon to night-shift workers to study circadian genes. FDA lists it but reports no results.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Abstract only:",
+            "text": "a 2007 abstract (Korkushko et al.) says pineal preparations had \"no side effects\" in elderly people, with no route, dose, length, numbers or methods given. FDA could not evaluate the full paper, which is in Russian.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials with no results yet"
+      },
+      {
+        "t": "study",
+        "meta": "Registered trial · Early Phase 1",
+        "title": "Topical peptide serum and aging clocks",
+        "badge": "No results yet",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT07888595, sponsored by Frontiers in Bioscience Research Institute and Aging"
+          },
+          {
+            "k": "Design",
+            "v": "single group, open-label; untreated skin areas on the same person serve as controls"
+          },
+          {
+            "k": "People",
+            "v": "about 48 healthy adults aged 50 or older planned"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks for the main measure"
+          },
+          {
+            "k": "Measured",
+            "v": "gene- and protein-based \"biological age\" in skin and blood"
+          }
+        ],
+        "found": "Epitalon is one of five peptides in a skin serum, given alongside other agents such as metformin. The design does not test epitalon alone. First posted October 2026; enrolling by invitation.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07888595",
+            "label": "ClinicalTrials.gov NCT07888595",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2003 · Mouse study",
+        "title": "Lifespan and tumors in female mice, 2003",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Anisimov VN, Khavinson VKh, et al. Biogerontology 2003;4(4):193-202"
+          },
+          {
+            "k": "Design",
+            "v": "controlled animal study, epitalon against saline"
+          },
+          {
+            "k": "Animals",
+            "v": "54 female Swiss-derived SHR mice per group"
+          },
+          {
+            "k": "Length",
+            "v": "under-the-skin injections 5 days each month, from 3 months of age until natural death"
+          },
+          {
+            "k": "Measured",
+            "v": "lifespan, tumors, chromosome damage, aging markers"
+          }
+        ],
+        "found": "No change in mean lifespan, food intake or body weight. Maximum lifespan was 12.3% longer, and the last 10% of survivors lived 13.3% longer. Total tumor rate did not change; leukemia was less common.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14501183/",
+            "label": "Anisimov et al., Biogerontology, 2003",
+            "date": "published 2003"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The same group reported similar lifespan and tumor studies in other mouse strains. FDA notes that they used one fixed dose, only female mice, and short total exposure (at most about 22 weeks in the 2003 study). Animal results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193345/download",
+            "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA’s scientists, in a memo dated May 12, 2026 for the July meeting, recommended against adding epitalon (free base or acetate) to the compounding list. They evaluated it only for insomnia and found no studies in people with insomnia, no human safety data, and no studies of the injected route proposed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "Anti-aging, longevity, telomere lengthening and other proposed uses were not evaluated, because the nominations did not include enough information.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA’s advisory committee was asked to vote on both forms on July 24, 2026.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, PCAC meeting page, July 23-24, 2026",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use, and no FDA-approved drug contains it. FDA’s scientists advised against allowing it in compounding. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Epitalon has no USP or National Formulary monograph and is not a component of any FDA-approved drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Orphan designation:",
+            "text": "FDA granted an orphan drug designation for retinitis pigmentosa on September 2, 2010, and it was withdrawn or revoked on January 6, 2016. A designation is not an approval.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists epitalon among substances previously in Category 2 whose nominations were withdrawn. FDA wrote that it found no safety information for the proposed route and cannot know whether it would cause harm in people.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Nominations:",
+            "text": "Wells Pharmacy Network and LDT Health Solutions (for the International Peptide Society) nominated it; both withdrew. FDA reviewed it on its own initiative.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "On October 30, 2026, HHS published notice of an \"Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances\" (Docket HHS-OASH-2026-0496). The notice says the peptides are listed in an appendix on the HHS website. The notice itself does not name them, and the HHS appendix could not be opened for this page, so whether epitalon is covered, and on what conditions, is not confirmed here. Enforcement discretion is not approval, and the notice says the policy is not binding on HHS.",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Past enforcement:",
+            "text": "FDA cites a federal prosecutors’ press release saying a Kentucky pharmacy compounded and distributed epitalon products from October 2018 to April 2020.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA’s controlled substances list dated October 21, 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved epitalon. Canada names it among seized unauthorized peptides. FDA’s 2026 search found no approved product in Canada, Australia, the UK or several EU countries, and none authorized by EMA.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / HHS",
+          "status": "Not approved. FDA staff advised against adding it to the compounding list. HHS peptide policy coverage not confirmed from the HHS list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193345/download",
+              "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. Named among unauthorized injectable peptides seized.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada advisory RA-81874",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193345/download",
+              "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "No approved product found in FDA’s 2026 search. MHRA record not checked.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193345/download",
+              "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA. FDA found no approved product in Belgium, Ireland, France, Germany, Spain or Italy.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193345/download",
+              "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No approved product found in FDA’s 2026 search. Not named in the June 2026 Poisons Standard.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193345/download",
+              "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australia, Poisons Standard June 2026",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Roszdravnadzor",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "643"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Epitalon is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans at all times any pharmacological substance with no current approval by any government health regulator for human use. For 2027, WADA added \"peptides\" as an example in S0 and warned that a peptide not named on the List may still be prohibited. The lists do not say whether epitalon falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA Prohibited List 2026",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA Prohibited List 2027 (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_explanatory_note_en_final_17_august_2026_1.pdf",
+              "label": "WADA, 2027 List explanatory notes",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "FDA found no clinical studies of epitalon’s safety in people and no human pharmacokinetic data. Its risks in people are unknown, and FDA raised a theoretical cancer concern."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "the 20-day spray study reported no safety data. A 2007 abstract claimed \"no side effects\" without details.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA reports:",
+            "text": "FDA’s adverse event database (through December 8, 2025) and its food and supplement complaint system (through December 5, 2025) held no epitalon reports.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Cancer concern:",
+            "text": "FDA writes that epitalon \"has the potential to be carcinogenic\", because it is reported to switch on telomerase and lengthen telomeres, and long telomeres are linked with higher cancer risk. No 2-year cancer studies exist. The mouse tumor studies were too short and limited to settle this.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Animal toxicity:",
+            "text": "no single-dose, repeat-dose or reproductive studies were found. Small fixed-dose mouse studies showed no rise in chromosome damage.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA is concerned about immune reactions to injected epitalon from clumping and peptide impurities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193345/download",
+                "label": "FDA briefing, epitalon (memo dated May 12, 2026)",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "Health Canada warns that unauthorized injectable peptides may hold the wrong amount of ingredient or contaminants.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada advisory RA-81874",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The HHS appendix that lists the peptides covered by the October 30, 2026 policy (hhs.gov) returned \"access denied\", so epitalon’s coverage and any conditions are not confirmed from the HHS record.",
+    "FDA’s record of the July 24, 2026 advisory committee vote on epitalon was not found among the meeting materials, so the vote result is left out.",
+    "FDA’s orphan designation database showed a bot check and could not be opened; the 2010 designation and 2016 revocation come from FDA’s briefing only.",
+    "The 2021 studies by Ivko et al. and Khavinson et al. were not found on PubMed and were not opened; they are reported as FDA summarized them.",
+    "UK, EU-country and Australian status rest on FDA’s 2026 search, not on MHRA or TGA records; epitalon’s status in Russia was not checked."
+  ],
+  "surprises": [
+    "Epitalon is sold as a telomerase activator and \"fountain of youth\", but FDA cites that same telomerase effect as a reason it may have cancer potential, and no long-term cancer studies exist.",
+    "Websites say it extends lifespan, but in the main mouse study mean lifespan did not change; only maximum lifespan and the longest-lived 10% did.",
+    "Sellers list epithalamin as another name for epitalon; FDA treats them as different substances.",
+    "FDA could evaluate epitalon only for insomnia; claims for anti-aging and longevity had too little information to evaluate.",
+    "Products are often labelled \"for research use only\" while being marketed for human use, a label Health Canada says does not make them legal."
+  ]
+}

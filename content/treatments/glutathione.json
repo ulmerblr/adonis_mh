@@ -1,0 +1,573 @@
+{
+  "slug": "glutathione",
+  "name": "Glutathione",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Small trials, not aging",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Antioxidant biology well studied in cells and animals",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "IV pilot in Parkinson's, 21 people (2009)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Nasal Phase I/IIa in Parkinson's, 30 people (2015)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Nasal Phase IIb (2017): not better than placebo",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "None as a medicine",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Glutathione is a small molecule made of three amino acids (a tripeptide). The body makes it, and it acts as an antioxidant that helps protect cells from oxidative stress.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28436395/",
+            "label": "Mischley et al., J Parkinsons Dis, 2017",
+            "date": "published 2017"
+          },
+          {
+            "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+            "label": "Greenwich Rx recall notice, posted by FDA",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis Clinical carries glutathione as a compounded injection and as a compounded nasal spray, through Beluga. Neither form is FDA approved."
+      },
+      {
+        "t": "callout",
+        "text": "No study has tested injected or nasal glutathione for aging or longevity in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human studies of injected or nasal glutathione are few and small. Most were in Parkinson's disease, where they did not show a clear benefit over placebo. Skin-lightening studies are small, and reviewers rate the IV evidence as weak. None measured aging."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2009 · Randomized pilot trial",
+        "title": "IV glutathione in Parkinson's disease, 2009",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, placebo-controlled, double-blind pilot, University of South Florida"
+          },
+          {
+            "k": "People",
+            "v": "21 people with Parkinson's not well controlled on their medicines: 11 glutathione, 10 placebo"
+          },
+          {
+            "k": "Length",
+            "v": "IV three times a week for 4 weeks, then 8 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "Safety, tolerability, UPDRS disease scores"
+          }
+        ],
+        "found": "Well tolerated, with no withdrawals for side effects. Disease scores did not differ significantly between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19230029/",
+            "label": "Hauser et al., Mov Disord, 2009",
+            "date": "published May 2009"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Phase I/IIa randomized trial",
+        "title": "Nasal glutathione safety in Parkinson's, 2015",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo (saline) controlled, Bastyr University Research Institute, Washington"
+          },
+          {
+            "k": "People",
+            "v": "30 people with Parkinson's, split across placebo and two doses"
+          },
+          {
+            "k": "Length",
+            "v": "3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Adverse events, blood chemistry, sinus irritation, sense of smell, compliance"
+          }
+        ],
+        "found": "No substantial differences in adverse events between groups. All groups met the tolerability criteria.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26230671/",
+            "label": "Mischley et al., Mov Disord, 2015",
+            "date": "published Oct 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 · Phase IIb randomized trial",
+        "title": "Nasal glutathione in Parkinson's, 2017",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo (saline) controlled"
+          },
+          {
+            "k": "People",
+            "v": "45 people with Parkinson's, Hoehn and Yahr stage 1 to 3"
+          },
+          {
+            "k": "Length",
+            "v": "3 months, then 1 month off treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "UPDRS total and motor scores"
+          }
+        ],
+        "found": "All groups improved, including placebo. Neither glutathione group did better than placebo. One person in the higher-dose group developed cardiomyopathy.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28436395/",
+            "label": "Mischley et al., J Parkinsons Dis, 2017",
+            "date": "published 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2019 · Randomized pilot trial",
+        "title": "IV glutathione during heart-attack stenting, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, placebo-controlled pilot, Sapienza University of Rome"
+          },
+          {
+            "k": "People",
+            "v": "50 patients with ST-elevation heart attack having emergency angioplasty"
+          },
+          {
+            "k": "Length",
+            "v": "Infusion before the procedure and at 24, 48 and 72 hours"
+          },
+          {
+            "k": "Measured",
+            "v": "Oxidative stress markers in blood, nitric oxide, troponin"
+          }
+        ],
+        "found": "Oxidative stress markers were lower with glutathione than placebo. The authors said a larger trial with clinical endpoints was needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31399448/",
+            "label": "Tanzilli et al., BMJ Open, 2019",
+            "date": "published Aug 2019"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Skin lightening"
+      },
+      {
+        "t": "p",
+        "text": "A 2025 systematic review found only one placebo-controlled study of IV glutathione for skin lightening, with 16 people per group, and its result was not statistically significant. The reviewers concluded IV glutathione is contraindicated for this use because of lack of efficacy and side effects. A 2026 review called the IV evidence too limited to justify routine cosmetic use.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39444151/",
+            "label": "Sarkar et al., Int J Dermatol, 2025 (systematic review)",
+            "date": "published Jun 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42751591/",
+            "label": "Aloraini et al., J Med Life, 2026 (review)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "Glutathione's role as an antioxidant is well established in cell and animal biology. Whether injected or sprayed glutathione changes aging in people has not been studied.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42751591/",
+            "label": "Aloraini et al., J Med Life, 2026 (review)",
+            "date": "published Jul 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Glutathione is not FDA approved as a medicine. It sits in FDA's 503A Category 1, the group of nominated substances still under evaluation, which pharmacies may compound under FDA's interim policy if its conditions are met. FDA has warned repeatedly about contaminated compounded glutathione injections. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none for glutathione as a medicine. The only FDA-approved product we found that contains a glutathione form is BSS PLUS, an eye-surgery irrigation solution (approved 1981) that contains glutathione disulfide among its salts.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=018469",
+                "label": "Drugs@FDA, NDA 018469 (BSS PLUS)",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "503A Category 1:",
+            "text": "FDA's list updated May 14, 2026 places glutathione in Category 1, bulk drug substances under evaluation.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What Category 1 means:",
+            "text": "FDA says it does not intend to take action against a 503A compounder for using a Category 1 substance if the conditions in its interim guidance are met.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, Bulk drug substances under section 503A",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "2019 FDA alert:",
+            "text": "FDA warned compounders on February 1, 2019 not to use glutathione powder from one repackager, labelled as a dietary supplement, for sterile injectables. Seven clinic patients had reactions within minutes of IV glutathione, and FDA's testing found excessive endotoxin, some up to five times the appropriate limit.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables",
+                "label": "FDA, concerns with dietary ingredient glutathione in sterile injectables",
+                "date": "published Jun 2019"
+              }
+            ]
+          },
+          {
+            "lead": "2026 FDA alert:",
+            "text": "on August 27, 2026, FDA said it knew of at least 30 patients with adverse events after IV glutathione made from dietary-supplement-grade glutathione from one supplier, some hospitalized. FDA reminded compounders not to use supplement-grade ingredients in injectables.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+                "label": "FDA, reminder not to use supplement-grade glutathione for injectables",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Recalls:",
+            "text": "compounding pharmacies have recalled glutathione injections for elevated endotoxin, including Greenwich Rx in October 2026, which reported two emergency visits after IV use of a product meant for under-the-skin injection.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+                "label": "Greenwich Rx recall notice, posted by FDA",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin-lightening injections:",
+            "text": "FDA has said it has not approved any injectable drug for skin whitening or lightening, that such products are unapproved new drugs, and that their ingredients can include glutathione. In 2014 US Marshals seized glutathione kits sold for skin whitening at FDA's request.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/cac-san-pham-tiem-lam-trang-da-thong-tin-ban-can-biet",
+                "label": "FDA Consumer Update on injectable skin lightening products (Vietnamese edition)",
+                "date": "published Sep 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "We found no regulator that approves glutathione for aging. Australia makes injectable glutathione prescription-only. Health Canada has recalled unauthorized glutathione injections for contamination. Glutathione is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. 503A Category 1 (under evaluation); compounding under FDA's interim policy. FDA warnings on contaminated injections (2019, 2026).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, 503A bulk drug substance categories",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+              "label": "FDA, reminder not to use supplement-grade glutathione for injectables",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "discretion"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. Compounded glutathione injections recalled for having no market authorization (2025) and for endotoxin (2020, 2021).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/skycare-compounding-laboratories-products-recall-no-market-authorization",
+              "label": "Health Canada recall RA-78029 (Skycare)",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-injectables-and-other-health-products-galena-pharm-inc-pharmacy-may-pose",
+              "label": "Health Canada advisory RA-75003 (Galena)",
+              "date": "published Feb 2021"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/30ml-reduced-glutathione-200mgml-2020-11-13",
+              "label": "Health Canada recall RA-74341 (glutathione)",
+              "date": "published Nov 2020"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Glutathione for parenteral (injected) use is prescription-only (Schedule 4) in the Poisons Standard, October 2026. Product approvals not confirmed.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Glutathione is not named on the 2026 WADA Prohibited List or on the 2027 list. Separately, the list prohibits intravenous infusions or injections of more than 100 mL in total per 12-hour period at all times (method M2.2), except those legitimately received in hospital treatment, surgery or clinical diagnostic investigations. That rule is about the method, whatever the substance. The 2027 list, which takes effect January 1, 2027, keeps the same rule.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list",
+              "label": "WADA news: 2027 Prohibited List",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In small trials, IV and nasal glutathione were generally tolerated. The main documented harm with compounded glutathione injections is contamination with endotoxin, which FDA has linked to reactions including fever, low blood pressure and hospital stays."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Trials:",
+            "text": "no withdrawals for side effects in the IV Parkinson's pilot; no excess adverse events with nasal glutathione over 3 months. One person on higher-dose nasal glutathione developed cardiomyopathy.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19230029/",
+                "label": "Hauser et al., Mov Disord, 2009",
+                "date": "published May 2009"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26230671/",
+                "label": "Mischley et al., Mov Disord, 2015",
+                "date": "published Oct 2015"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28436395/",
+                "label": "Mischley et al., J Parkinsons Dis, 2017",
+                "date": "published 2017"
+              }
+            ]
+          },
+          {
+            "lead": "Endotoxin reactions, 2019:",
+            "text": "seven patients given IV glutathione had nausea, vomiting, lightheadedness, chills, body aches and sneezing within minutes; one had low blood pressure and trouble breathing and went to hospital. Another patient was admitted with a possible bloodstream infection.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables",
+                "label": "FDA, concerns with dietary ingredient glutathione in sterile injectables",
+                "date": "published Jun 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Endotoxin reactions, 2026:",
+            "text": "at least 30 patients had fever, chills, pain, dizziness, signs of shock and sepsis-like symptoms after IV glutathione; some were hospitalized. FDA notes endotoxin can also cause death.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+                "label": "FDA, reminder not to use supplement-grade glutathione for injectables",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin-lightening use:",
+            "text": "reviewers list possible liver toxicity, allergic-type reactions and possible kidney and hormone effects with IV glutathione.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42751591/",
+                "label": "Aloraini et al., J Med Life, 2026 (review)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Injection risks:",
+            "text": "FDA notes that unsafe injection practices can spread disease, cause infection and lead to serious injury.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/cac-san-pham-tiem-lam-trang-da-thong-tin-ban-can-biet",
+                "label": "FDA Consumer Update on injectable skin lightening products (Vietnamese edition)",
+                "date": "published Sep 2015"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not confirm glutathione's status with the MHRA (UK) or with the EMA and EU national regulators.",
+    "We could not reach the TGA's product register to check whether any glutathione injection is approved in Australia; we confirmed only its Schedule 4 listing.",
+    "The English page of FDA's consumer update on injectable skin lightening products returned 'page not found'; we read FDA's own Vietnamese edition, dated September 2015.",
+    "We found no human study of glutathione nasal spray outside Parkinson's disease, and none in healthy people."
+  ],
+  "surprises": [
+    "Glutathione injections are widely marketed for wellness and skin lightening, but FDA says it has not approved any injectable skin-lightening drug, and a 2025 systematic review called IV glutathione contraindicated for that use.",
+    "FDA warned about endotoxin in glutathione made from supplement-grade powder in 2019 and had to warn again in August 2026 after at least 30 more patients were harmed.",
+    "In the largest nasal trial (Parkinson's, 2017), placebo improved as much as glutathione."
+  ]
+}

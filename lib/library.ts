@@ -88,14 +88,14 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Estriol', page: { href: '/estriol', evidence: '2 small studies in women', fda: 'Not approved', sport: 'Not listed' } },
   ],
   longevity: [
-    { name: 'NAD+' },
-    { name: 'Nicotinamide riboside' },
-    { name: 'Glutathione' },
-    { name: 'Metformin' },
+    { name: 'NAD+', page: { href: '/nad', evidence: 'Few small human studies', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Nicotinamide riboside', page: { href: '/nicotinamide-riboside', evidence: 'Oral RCTs; IV: 1 review', fda: 'Not approved (suppl.)', sport: 'Not listed' } },
+    { name: 'Glutathione', page: { href: '/glutathione', evidence: 'Small trials, not aging', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Metformin', page: { href: '/metformin', evidence: 'Approved; aging data thin', fda: 'Approved (Glucophage)', sport: 'Not listed' } },
     { name: 'GHK-Cu (copper peptide)', peptide: true, page: { href: '/ghk-cu', evidence: '1 small RCT; lab/animal', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
-    { name: 'MOTS-c', peptide: true },
-    { name: 'Epitalon', peptide: true },
+    { name: 'MOTS-c', peptide: true, page: { href: '/mots-c', evidence: 'No human studies', fda: 'Not approved', sport: 'Banned (S4)' } },
+    { name: 'Epitalon', peptide: true, page: { href: '/epitalon', evidence: 'Animal/cell; few in people', fda: 'Not approved', sport: 'Not listed' } },
   ],
 };
 

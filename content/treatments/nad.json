@@ -1,0 +1,588 @@
+{
+  "slug": "nad",
+  "name": "NAD+",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Few small human studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Many cell and animal studies of NAD+ biology",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "IV pilot (11 men, 2019); chart review (14, 2026)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No formal Phase I of injected or nasal NAD+ found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Child heart trial registered in China, not started",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "None",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "NAD+ (nicotinamide adenine dinucleotide) is a coenzyme found in every living cell. Enzymes use it to move electrons in energy metabolism, and other enzymes use it up as a raw material. The body makes it from forms of vitamin B3, such as nicotinamide and nicotinamide riboside.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+            "label": "Grant et al., Front Aging Neurosci, 2019",
+            "date": "published Sep 2019"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "When NAD+ was infused into a vein in a small 2019 study, it was cleared from the blood quickly for the first 2 hours. The breakdown products found fit with enzymes breaking NAD+ down.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+            "label": "Grant et al., Front Aging Neurosci, 2019",
+            "date": "published Sep 2019"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Adonis Clinical carries NAD+ as a compounded injection, in several strengths, and as a compounded nasal spray, through Beluga. Neither form is FDA approved."
+      },
+      {
+        "t": "callout",
+        "text": "No study has shown that injected or nasal NAD+ slows aging in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence for injected NAD+ is small. We found one pilot study of an IV infusion in 11 healthy men, one chart review of 14 clinic clients, and two randomized trials in China that used a hospital NAD+ injection for heart disease, not for aging. We found no published human study of NAD+ nasal spray."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA and Australia · 2019 · Pilot study",
+        "title": "IV infusion in healthy men, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Pilot study. Participants were randomized to NAD+ or saline. Run at a wellness clinic in Springfield, Louisiana."
+          },
+          {
+            "k": "People",
+            "v": "11 healthy men aged 30 to 55: 8 got NAD+, 3 got saline"
+          },
+          {
+            "k": "Length",
+            "v": "One 6-hour IV infusion, with blood and urine sampled up to 8 hours"
+          },
+          {
+            "k": "Measured",
+            "v": "NAD+ and its breakdown products in blood and urine; liver blood tests; side effects"
+          }
+        ],
+        "found": "Blood NAD+ did not rise for the first 2 hours. Breakdown products and some NAD+ appeared in urine by 6 hours. No adverse events were seen in either group. Some liver enzyme readings fell slightly at 8 hours.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+            "label": "Grant et al., Front Aging Neurosci, 2019",
+            "date": "published Sep 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Retrospective chart review",
+        "title": "IV NAD+ vs IV nicotinamide riboside, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Look-back review of medical records at a commercial wellness business in Austin, Texas. No placebo. The authors worked for the business."
+          },
+          {
+            "k": "People",
+            "v": "14 adult clients: 6 got IV NAD+, 8 got IV nicotinamide riboside"
+          },
+          {
+            "k": "Length",
+            "v": "Four infusions on four days in a row, then 30 days of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "Symptoms during infusion, infusion time, blood pressure, heart rate, liver, kidney, thyroid and inflammation blood tests"
+          }
+        ],
+        "found": "People getting NAD+ reported moderate to severe stomach and gut symptoms, faster heart rate and chest pressure during infusions, which slowed the infusions. Symptoms stopped when the infusion ended. Most blood tests did not change. HDL cholesterol fell in the NAD+ group.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41704678/",
+            "label": "Reyna et al., Front Aging, 2026",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2025 · Randomized, placebo-controlled trial",
+        "title": "Heart failure after heart muscle damage, 2025 (China)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Single-center, randomized, placebo-controlled trial, on top of standard heart-failure care"
+          },
+          {
+            "k": "People",
+            "v": "180 adults with heart failure from ischemic cardiomyopathy"
+          },
+          {
+            "k": "Length",
+            "v": "IV NAD+ or placebo daily for 7 days; follow-up to 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in heart pumping (LVEF) at 1 month; NT-proBNP; heart and stroke events; symptom class"
+          }
+        ],
+        "found": "LVEF at 1 month was higher in the NAD+ group than with placebo (45.4% vs 42.4%). Differences in NT-proBNP, heart events and symptom class were not statistically significant. This was a heart-disease trial, not an aging trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40954388/",
+            "label": "Yu et al., Am J Cardiovasc Drugs, 2026 (heart failure)",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2026 · Randomized, placebo-controlled trial",
+        "title": "After a heart attack and stenting, 2026 (China)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, placebo-controlled trial, same hospital group as above"
+          },
+          {
+            "k": "People",
+            "v": "120 patients treated for ST-elevation heart attack with emergency stenting"
+          },
+          {
+            "k": "Length",
+            "v": "IV NAD+ or placebo daily for 7 days; follow-up to 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "LVEF at 30 days; NT-proBNP; heart and stroke events at 6 months"
+          }
+        ],
+        "found": "LVEF at 30 days was modestly higher with NAD+ (56.3% vs 53.4%). NT-proBNP was lower. Heart and stroke events at 6 months did not differ.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961639/",
+            "label": "Yu et al., Am J Cardiovasc Drugs, 2026 (heart attack)",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials with no results yet"
+      },
+      {
+        "t": "study",
+        "meta": "China · Registered 2026 · Phase 2",
+        "title": "Children with weak heart pumping (PEDI-NAD)",
+        "badge": "No results yet",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Multicenter, randomized, double-blind, placebo-controlled; sponsored by Beijing Children's Hospital"
+          },
+          {
+            "k": "People",
+            "v": "180 children planned, in hospital with LVEF below 55%"
+          },
+          {
+            "k": "Length",
+            "v": "IV once daily for 7 days; follow-up to 48 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in LVEF at 4 weeks"
+          }
+        ],
+        "found": "Not yet recruiting as of its September 2026 posting. The record says the injection used is a marketed product in China.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07839130",
+            "label": "NCT07839130 (PEDI-NAD), ClinicalTrials.gov",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Nasal NAD+"
+      },
+      {
+        "t": "p",
+        "text": "We found no published human study of NAD+ given as a nasal spray. One 2026 study gave NAD+ into the nose of mice with a chemically damaged sense of smell, and tested NAD+ on human smell stem cells in a dish. This is animal and cell evidence only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42380286/",
+            "label": "Yoo et al., Exp Mol Med, 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "Most research on NAD+ biology is in cells and animals. The authors of the 2019 pilot wrote that, before their study, no data were available on what happens to directly infused NAD+ in people. Animal results have not been shown to carry over to injected or nasal NAD+ in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+            "label": "Grant et al., Front Aging Neurosci, 2019",
+            "date": "published Sep 2019"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "NAD+ is not FDA approved for any use. It sits in FDA's 503A Category 1, the group of nominated substances still under evaluation, which pharmacies may compound under FDA's interim policy if its conditions are met. That is not approval. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of FDA's Drugs@FDA data found no product with NAD as an active ingredient.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20ADENINE%20DINUCLEOTIDE%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for this active ingredient, no match",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "503A Category 1:",
+            "text": "FDA's list updated May 14, 2026 places Nicotinamide Adenine Dinucleotide (NAD) and NADH in Category 1, bulk drug substances under evaluation. A separate salt form, beta-nicotinamide adenine dinucleotide disodium salt trihydrate, is in Category 3, nominated without adequate support.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What Category 1 means:",
+            "text": "FDA says it does not intend to take action against a 503A compounder for using a Category 1 substance if the conditions in its interim guidance are met, while it decides whether to add the substance to the 503A bulks list.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, Bulk drug substances under section 503A",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Outsourcing facilities (503B):",
+            "text": "in a January 2026 warning letter, FDA said NAD+ is not on the 503B bulks list, so NAD+ products made by that outsourcing facility did not qualify for the 503B exemptions.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genogenix-llc-718739-01202026",
+                "label": "FDA warning letter, GenoGenix LLC",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Ingredient quality:",
+            "text": "in October 2024 FDA warned that some compounders were making IV products from food-grade NAD+, which is not suitable for sterile drugs because of the risk of microbes and endotoxins.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding",
+                "label": "FDA, reminder on ingredients for sterile compounding (NAD+)",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. NAD+ is not a controlled substance."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "No regulator we checked has approved NAD+ as a medicine for aging. Health Canada lists NAD+ among unauthorized injectables it has seized. A Chinese trial record says an NAD+ injection is marketed in China; we could not confirm that with China's regulator. NAD+ is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. 503A Category 1 (under evaluation); compounding under FDA's interim policy.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, 503A bulk drug substance categories",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+              "label": "FDA, Bulk drug substances under section 503A",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "discretion"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. NAD+ named among unauthorized injectables seized (2026); compounded NAD+ IV products recalled for having no market authorization (2025).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada advisory on unauthorized injectables",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/skycare-compounding-laboratories-products-recall-no-market-authorization",
+              "label": "Health Canada recall RA-78029 (Skycare)",
+              "date": "published Sep 2025"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "China",
+          "regulator": "NMPA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "156"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia: NAD+ and nicotinamide adenine dinucleotide are not named in the Poisons Standard that took effect October 1, 2026. We could not reach the TGA's product register to check whether any NAD+ product is listed there.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "China: the PEDI-NAD trial record says its injectable NAD+ (Coenzyme I) holds a Chinese national drug approval number and is a marketed product. That is the trial sponsor's statement, not a regulator's record.",
+          "src": [
+            {
+              "url": "https://clinicaltrials.gov/study/NCT07839130",
+              "label": "NCT07839130 (PEDI-NAD), ClinicalTrials.gov",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "NAD+ is not named on the 2026 WADA Prohibited List or on the 2027 list. Separately, the list prohibits intravenous infusions or injections of more than 100 mL in total per 12-hour period at all times (method M2.2), except those legitimately received in hospital treatment, surgery or clinical diagnostic investigations. That rule is about the method, whatever the substance. The 2027 list, which takes effect January 1, 2027, keeps the same rule.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list",
+              "label": "WADA news: 2027 Prohibited List",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The human studies were small and short. Side effects reported during IV NAD+ include stomach and gut symptoms, a faster heart rate and chest pressure. FDA has also received reports of severe chills, shaking and vomiting after NAD+ injections, consistent with endotoxin contamination."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "During IV infusion:",
+            "text": "in the 2026 chart review, people given IV NAD+ reported moderate to severe gut symptoms, faster heart rate and chest pressure. These stopped when the infusion ended. The 2019 pilot reported no adverse events in 8 men.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41704678/",
+                "label": "Reyna et al., Front Aging, 2026",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+                "label": "Grant et al., Front Aging Neurosci, 2019",
+                "date": "published Sep 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Contamination:",
+            "text": "FDA has received adverse event reports after NAD+ injections, including severe chills, shaking, vomiting and fatigue, some needing medical treatment. FDA says these fit with excessive endotoxin.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding",
+                "label": "FDA, reminder on ingredients for sterile compounding (NAD+)",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "A contaminated lot:",
+            "text": "FDA's January 2026 warning letter describes three patients who had low blood pressure, uncontrollable shaking, shivers and body aches during or after an NAD+ product from one outsourcing facility and were sent to the emergency room. An unopened vial from that lot had excessive bacterial endotoxin.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genogenix-llc-718739-01202026",
+                "label": "FDA warning letter, GenoGenix LLC",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Nasal spray:",
+            "text": "no human safety data for nasal NAD+ were found."
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not confirm NAD+'s status with the MHRA (UK), the EMA or EU national regulators.",
+    "We could not reach the TGA's product register (ARTG) to check for any NAD+ product in Australia.",
+    "We could not confirm with China's NMPA that an NAD+ (Coenzyme I) injection is approved there; only a trial record says so.",
+    "We found no published human study of NAD+ nasal spray, so its safety and effects in people are unknown.",
+    "We found no WADA statement on whether S0 (non-approved substances) could apply to NAD+ products; NAD+ is simply not named."
+  ],
+  "surprises": [
+    "NAD+ is widely sold as an anti-aging injection, but we found no human trial of injected or nasal NAD+ that measured aging; the largest human studies used it for heart disease in China.",
+    "Health Canada lists NAD+ among the unauthorized injectable 'peptide' drugs it has seized, although NAD+ is a coenzyme, not a peptide.",
+    "In the 2019 IV pilot, blood NAD+ did not rise at all for the first 2 hours of infusion, which cuts against the idea that an infusion simply tops up NAD+ in the blood."
+  ]
+}
