@@ -10,7 +10,7 @@ export function Src({ href, label }: { href: string; label?: string }) {
   return <span className="src">Source: <A href={href}>{label ?? href}</A></span>;
 }
 
-export function Pill({ kind, children }: { kind: 'rust' | 'ink' | 'sand'; children: React.ReactNode }) {
+export function Pill({ kind, children }: { kind: 'rust' | 'ink' | 'sand' | 'ok'; children: React.ReactNode }) {
   return <span className={`pill pill-${kind}`}>{children}</span>;
 }
 

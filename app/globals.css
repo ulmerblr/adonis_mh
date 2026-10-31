@@ -641,3 +641,8 @@ span.tone-none { background: #d9d0bd; }
 .peptideSwitch input:checked + .switchTrack { background: var(--navy); border-color: var(--navy); }
 .peptideSwitch input:checked + .switchTrack .switchThumb { transform: translateX(20px); background: var(--white); }
 .peptideSwitch input:focus-visible + .switchTrack { outline: 3px solid var(--navy); outline-offset: 2px; }
+
+/* PROMPT 16: map tones for the new treatment pages (approved medicine; sold without prescription) */
+.tone-approved { fill: var(--navy); background: var(--navy); }
+.tone-otc { fill: #8fa7c4; background: #8fa7c4; }
+.pill-ok { background: var(--agency); color: var(--navy); }

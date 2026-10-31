@@ -104,7 +104,7 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
                       </th>
                       <td>{t.laneName}</td>
                       {t.page ? (
-                        <><td>{t.page.evidence}</td><td><Pill kind="rust">{t.page.fda}</Pill></td><td><Pill kind="ink">{t.page.sport}</Pill></td></>
+                        <><td>{t.page.evidence}</td><td><Pill kind={/^approved/i.test(t.page.fda) ? 'ok' : 'rust'}>{t.page.fda}</Pill></td><td><Pill kind={/^not listed/i.test(t.page.sport) ? 'sand' : 'ink'}>{t.page.sport}</Pill></td></>
                       ) : (
                         <><td><Pill kind="sand">Page coming</Pill></td><td><Pill kind="sand">Page coming</Pill></td><td><Pill kind="sand">Page coming</Pill></td></>
                       )}

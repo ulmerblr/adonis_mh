@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 
-export type Tone = 'rx' | 'discretion' | 'not' | 'pending';
+export type Tone = 'approved' | 'otc' | 'rx' | 'discretion' | 'not' | 'pending';
 export type Shape = { id: string; name: string; d: string };
 export type MapRegion = {
   country: string; regulator: string; status: string; checked?: string; sources?: string[];
@@ -12,6 +12,8 @@ export type MapRegion = {
 };
 
 export const TONES: { tone: Tone | 'none'; label: string }[] = [
+  { tone: 'approved', label: 'Approved medicine' },
+  { tone: 'otc', label: 'Sold without prescription or as a supplement' },
   { tone: 'rx', label: 'Prescription-only, not approved' },
   { tone: 'discretion', label: 'Not approved; compounding under enforcement discretion' },
   { tone: 'not', label: 'Not approved' },
@@ -110,7 +112,7 @@ export function WorldMapView({ shapes, regions, width, height }: { shapes: Shape
       </div>
       <figcaption>
         <ul className="mapKey">
-          {TONES.map((t) => <li key={t.tone}><span className={`swatch tone-${t.tone}`} aria-hidden="true" />{t.label}</li>)}
+          {TONES.filter((t) => t.tone === 'none' || regions.some((r) => r.tone === t.tone)).map((t) => <li key={t.tone}><span className={`swatch tone-${t.tone}`} aria-hidden="true" />{t.label}</li>)}
         </ul>
       </figcaption>
     </figure>
