@@ -73,14 +73,14 @@ export default function HowWeReport() {
           </p>
           <div className="body">
             <p><strong>How we describe evidence.</strong> We state the size of the evidence plainly: “one human study, 12 participants.” We don’t turn one study into “studies show.” Results in rats are rat results.</p>
-            <p><strong>Dates.</strong> Regulatory status changes often. Every status carries an “as of” date. If a date is old, check the linked record.</p>
+            <p><strong>Dates.</strong> Regulatory status changes often. Every status has an “as of” date. If a date is old, check the linked record.</p>
           </div>
         </div>
       </section>
 
       <section className="section">
         <div className="wrap">
-          <div className="secHead" id="standards"><h2 className="h2">Our standards</h2></div>
+          <div className="secHead" id="standards"><h2 className="h2">The standards</h2></div>
           <p className="bodyLead">
             Every page is reviewed and signed off by a licensed clinician or pharmacist before it is published. Pages show the
             reviewer’s credential and the review date.

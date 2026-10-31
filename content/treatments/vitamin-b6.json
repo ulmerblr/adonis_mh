@@ -55,10 +55,6 @@
             "date": "published Oct 2024"
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "What Adonis carries through Beluga: pyridoxine only inside compounded lipotropic injection blends, MIC+B6+B12 and Lipo-B6, which also contain methionine, inositol and choline (and B12 in MIC+B6+B12)."
       }
     ],
     "research": [
@@ -122,8 +118,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes the MIC+B6+B12 and Lipo-B6 blends."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. That includes compounded lipotropic injection blends containing B6.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "p",
@@ -138,7 +141,7 @@
       }
     ],
     "world": {
-      "lead": "Pyridoxine injection is an approved medicine for B6 deficiency in the US. EMA’s list of centrally authorised medicines has no pyridoxine product. Canada, the UK, national EU status and Australia are still being confirmed.",
+      "lead": "Pyridoxine injection is an approved medicine for B6 deficiency in the US. EMA’s list of centrally authorised medicines has no pyridoxine product. Canada, the UK, national EU status and Australia were not confirmed.",
       "countries": [
         {
           "country": "United States",

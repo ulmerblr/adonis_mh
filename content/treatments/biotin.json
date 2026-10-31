@@ -13,7 +13,7 @@
   "track": [
     {
       "title": "Lab & animal",
-      "line": "Not reviewed for this page",
+      "line": "Not reviewed",
       "status": "not"
     },
     {
@@ -53,25 +53,6 @@
             "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference",
             "label": "Biotin interference with troponin lab tests, FDA",
             "date": "published Jun 2022"
-          }
-        ]
-      },
-      {
-        "t": "h3",
-        "text": "What Adonis carries (form only)"
-      },
-      {
-        "t": "p",
-        "text": "Adonis's catalog lists biotin in these products. Adonis does not carry biotin on its own:"
-      },
-      {
-        "t": "list",
-        "items": [
-          {
-            "text": "Minoxidil 2.5 mg / finasteride 1 mg / biotin 2.5 mg oral strips, dissolved on the tongue"
-          },
-          {
-            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with biotin and melatonin (60 mL)"
           }
         ]
       },
@@ -178,10 +159,6 @@
             "date": "accessed Oct 31, 2026"
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "The strips Adonis carries through Beluga are a compounded prescription product, not a supplement. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
       }
     ],
     "world": {
@@ -331,10 +308,6 @@
             ]
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "The side effects of the other ingredients in the strips (minoxidil and finasteride) are covered on their own pages."
       }
     ]
   },

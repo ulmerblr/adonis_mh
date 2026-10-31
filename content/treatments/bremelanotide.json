@@ -73,12 +73,8 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis carries compounded bremelanotide as an oral strip that dissolves on the tongue. It is also an ingredient in Adonis combination products with oxytocin, or with tadalafil and oxytocin, given as a gummy, a tablet or troches."
-      },
-      {
         "t": "callout",
-        "text": "The only FDA-approved bremelanotide is Vyleesi, an injection under the skin, for premenopausal women. None of the forms Adonis carries is FDA approved, and use in men is off-label."
+        "text": "The only FDA-approved bremelanotide is Vyleesi, an injection under the skin, for premenopausal women. Compounded versions are not FDA approved, and use in men is off-label."
       }
     ],
     "research": [
@@ -380,8 +376,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -622,7 +625,7 @@
     "We could not confirm whether a USP monograph exists for bremelanotide."
   ],
   "surprises": [
-    "PT-141 is widely sold for men, but the only approved product, Vyleesi, carries a label that says it is not indicated in men or to enhance sexual performance.",
+    "PT-141 is widely sold for men, but the only approved product, Vyleesi, has a label that says it is not indicated in men or to enhance sexual performance.",
     "The largest trial in men (Iran, 2008) is the subject of a 2023 expression of concern from the Journal of Urology.",
     "Vyleesi is an injection. We found no published human study of bremelanotide taken by mouth, as a strip, troche, tablet or gummy.",
     "The label reports skin darkening in 38% of women after 8 daily doses, and it did not clearly reverse in everyone."

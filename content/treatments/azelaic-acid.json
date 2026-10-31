@@ -18,7 +18,7 @@
     },
     {
       "title": "Pilot in people",
-      "line": "Before approval; not reviewed for this page",
+      "line": "Before approval; not reviewed",
       "status": "done"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "title": "Phase II",
-      "line": "Before approval; not reviewed for this page",
+      "line": "Before approval; not reviewed",
       "status": "done"
     },
     {
@@ -109,25 +109,6 @@
             ]
           }
         ]
-      },
-      {
-        "t": "h3",
-        "text": "What Adonis carries"
-      },
-      {
-        "t": "p",
-        "text": "Adonis carries an azelaic acid 15% / niacinamide 4% cream, applied to the skin. It is a compounded combination. No FDA-approved product combines azelaic acid with niacinamide: every azelaic acid product in FDA's approval records contains azelaic acid alone.",
-        "src": [
-          {
-            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22AZELAIC%20ACID%22&limit=20",
-            "label": "Drugs@FDA data (openFDA), all azelaic acid applications",
-            "date": "accessed Oct 31, 2026"
-          }
-        ]
-      },
-      {
-        "t": "callout",
-        "text": "Adonis's azelaic acid and niacinamide cream is compounded. It is not FDA approved."
       }
     ],
     "research": [
@@ -238,7 +219,7 @@
     "us": [
       {
         "t": "lead",
-        "text": "Azelaic acid is FDA approved, by prescription, in Azelex 20% cream for acne (1995) and Finacea 15% gel (2002) and foam (2015) for rosacea. The compounded azelaic acid 15% / niacinamide 4% cream that Adonis carries is not FDA approved. As of October 31, 2026."
+        "text": "Azelaic acid is FDA approved, by prescription, in Azelex 20% cream for acne (1995) and Finacea 15% gel (2002) and foam (2015) for rosacea. Compounded versions, including combinations with other ingredients, are not FDA approved. As of October 31, 2026."
       },
       {
         "t": "list",
@@ -343,8 +324,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -353,7 +341,7 @@
         {
           "country": "United States",
           "regulator": "FDA",
-          "status": "Approved medicine (Azelex 20% cream, acne; Finacea 15% gel and foam, rosacea). Prescription-only. Adonis's combined cream is compounded and not approved.",
+          "status": "Approved medicine (Azelex 20% cream, acne; Finacea 15% gel and foam, rosacea). Prescription-only. Compounded versions are not FDA approved.",
           "checked": "Oct 31, 2026",
           "sources": [
             {
@@ -570,7 +558,7 @@
       },
       {
         "t": "p",
-        "text": "These are the reactions recorded for FDA-approved azelaic acid products. The compounded cream Adonis carries also contains niacinamide and a different base; it has not been tested in trials of its own."
+        "text": "These are the reactions recorded for FDA-approved azelaic acid products. Compounded creams that combine azelaic acid with other ingredients have not been tested in trials of their own."
       }
     ]
   },
@@ -585,7 +573,6 @@
   ],
   "surprises": [
     "Azelaic acid is often sold as a redness treatment, but the Finacea label says its effect on rosacea redness without bumps has not been evaluated; it is approved only for the inflamed bumps.",
-    "Azelaic acid is often promoted to even out or brighten skin tone, while both FDA labels warn of isolated reports of skin lightening (hypopigmentation) and say it has not been well studied in dark skin.",
-    "No FDA-approved product combines azelaic acid with niacinamide; every approved azelaic acid product in FDA records contains azelaic acid alone, so the 15% / 4% cream Adonis carries is a compounded combination."
+    "Azelaic acid is often promoted to even out or brighten skin tone, while both FDA labels warn of isolated reports of skin lightening (hypopigmentation) and say it has not been well studied in dark skin."
   ]
 }

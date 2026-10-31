@@ -69,10 +69,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "What Adonis carries through Beluga, all compounded: a sermorelin troche dissolved in the mouth; sermorelin with glycine as a tablet taken by mouth; sermorelin oral strips dissolved on the tongue; and sermorelin given by injection."
-      },
-      {
         "t": "callout",
         "text": "Sermorelin for sleep or longevity is off-label. It was never approved for either, and those uses have barely been studied."
       }
@@ -391,11 +387,18 @@
       },
       {
         "t": "p",
-        "text": "The sermorelin troche, tablet with glycine, oral strips and injection that Adonis carries through Beluga are compounded. They are not FDA approved. Using sermorelin for sleep or longevity is off-label."
+        "text": "Compounded sermorelin products, including troches, tablets, oral strips and injections, are not FDA approved. Using sermorelin for sleep or longevity is off-label."
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

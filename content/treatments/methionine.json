@@ -55,10 +55,6 @@
             "date": "accessed Oct 31, 2026"
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "What Adonis carries through Beluga: methionine only inside compounded lipotropic injection blends (MICC-B12, MIC+B6+B12, Lipo MIC-B and Lipo-B6)."
       }
     ],
     "research": [
@@ -100,8 +96,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes every MIC and lipotropic blend containing methionine."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. That includes compounded MIC and lipotropic injection blends containing methionine.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "p",
@@ -116,7 +119,7 @@
       }
     ],
     "world": {
-      "lead": "We found no approved methionine medicine in the US. EMA’s central list has methionine only as one of many amino acids in Maapliv, a product for maple syrup urine disease. Other countries are still being confirmed.",
+      "lead": "We found no approved methionine medicine in the US. EMA’s central list has methionine only as one of many amino acids in Maapliv, a product for maple syrup urine disease. Other countries were not checked.",
       "countries": [
         {
           "country": "United States",

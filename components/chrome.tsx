@@ -65,7 +65,7 @@ export function Footer() {
           AdonisMensHealth.com is an education site run by Adonis, the company behind Adonis Clinical. It reports published
           research and regulator records as of the dates shown. It is not medical advice and does not replace a conversation
           with a licensed clinician. Compounded medications are not FDA-approved; the FDA does not review their safety,
-          effectiveness or quality before they are sold. Talk to a clinician at <A href={CLINIC}>Adonis Clinical</A>.
+          effectiveness or quality before they are sold. This site does not offer, sell or prescribe any treatment. Talk to a clinician at <A href={CLINIC}>Adonis Clinical</A>.
         </p>
       </div>
     </footer>

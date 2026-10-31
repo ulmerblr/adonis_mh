@@ -13,27 +13,27 @@ same template, tabs, track, map and per-tab Sources as /bpc-157. Today's date is
    the `unconfirmed` list rather than citing it.
 3. Report each study as it was run: design (randomized/open-label/animal/cell), how many people, who, how long, what was
    measured, what was found. Say plainly when evidence is in animals or cells only.
-4. Approved vs compounded. If a brand is FDA approved, give the brand, the approved use and the year. Then say plainly that
-   the compounded forms Adonis carries through Beluga (see BELUGA-FORMS.md) are not FDA approved. Never call a compounded
-   product FDA approved.
+4. Approved vs compounded. If a brand is FDA approved, give the brand, the approved use and the year. Then say plainly, as a
+   general fact citing FDA, that compounded versions are not FDA approved. Never call a compounded product FDA approved.
+   This is a research site (EDU PROMPT 21): never mention what Adonis or any pharmacy sells, carries or compounds, and never
+   tie a treatment to a product.
 5. Off-label use is labelled "off-label" (e.g. sertraline for premature ejaculation, oral minoxidil for hair loss,
    metformin for longevity, spironolactone for acne).
 6. Side effects from the label and the trials, serious ones included. Say plainly where they apply: finasteride (lower
    libido or ED in some men); spironolactone (breast growth and lower libido in men); estriol (it is an estrogen, and what
    that can mean for men); testosterone and hCG (fertility effects); GLP-1s (the boxed warning).
-7. No promises, no results language, no before/after, no prices, no dosing instructions (strengths in a product name are
-   fine when describing what Adonis carries; never say how much to take).
+7. No promises, no results language, no before/after, no prices, no dosing instructions; never say how much to take.
 8. Sport: say what the current WADA Prohibited List (2026; note the 2027 list where it changes something) says about the
    substance, with its class, and cite it. If it is not listed, say so and cite the list.
-9. Ingredients that only appear inside Beluga combination products (glycine, methionine, inositol, choline, biotin, topical
-   melatonin, niacinamide, latanoprost, ketoconazole, fluocinolone): say which kind of Adonis product contains it. If there is
-   little or no research on that use, say so in one plain sentence. A short page is fine. Do not pad.
+9. Ingredients mostly seen in compounded combinations (glycine, methionine, inositol, choline, biotin, topical melatonin,
+   niacinamide, latanoprost, ketoconazole, fluocinolone): describe them as regulators and published research do. If there
+   is little or no research on a use, say so in one plain sentence. A short page is fine. Do not pad.
 10. HHS peptides (TB-500, KPV, MOTS-c, Epitalon, Semax): use the same records as /bpc-157 (FDA briefing
     https://www.fda.gov/media/193343/download, the HHS policy https://public-inspection.federalregister.gov/2026-22192.pdf,
     the HHS appendix https://www.hhs.gov/sites/default/files/hhs-503a-peptide-enforcement-discretion-policy-appendix-b.pdf,
     FDA's Category 2 page, WADA) plus each one's own records. Semax: report its Russian status from a record you can find,
     and say plainly if you can't confirm it.
-11. Never say or imply that Adonis or Beluga recommends the treatment.
+11. Never say or imply that Adonis recommends, offers, sells or prescribes the treatment.
 Write in plain, short sentences, like /bpc-157 (read app/bpc-157 via content/treatments/bpc-157.tsx for tone and depth).
 Use the same six sections every time. Never invent a number, a date or a study.
 
@@ -51,7 +51,7 @@ Use the same six sections every time. Never invent a number, a date or a study.
      {"title":"Phase II",…}, {"title":"Phase III",…}, {"title":"FDA approval","line":"Propecia, 1997, hair loss","status":"done"} ],
      // mark exactly one step "here": true (where the treatment stands now). Lines ≤ 55 chars.
   "sections": {
-    "what":     [ Block, … ],                  // 1. What it is: the molecule, how it acts, what Adonis carries (form only)
+    "what":     [ Block, … ],                  // 1. What it is: the molecule and how it acts
     "research": [ Block, … ],                  // 2. Research: human studies one by one (study blocks), then animal/lab
     "us":       [ Block, … ],                  // 3. US position: FDA approval(s), compounding status, controlled status
     "world":    { "lead": "bold one-paragraph summary",

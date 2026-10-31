@@ -62,10 +62,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis Clinical carries glutathione as a compounded injection and as a compounded nasal spray, through Beluga. Neither form is FDA approved."
-      },
-      {
         "t": "callout",
         "text": "No study has tested injected or nasal glutathione for aging or longevity in people."
       }
@@ -335,8 +331,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

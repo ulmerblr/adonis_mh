@@ -109,21 +109,6 @@
             ]
           }
         ]
-      },
-      {
-        "t": "h3",
-        "text": "What Adonis carries"
-      },
-      {
-        "t": "p",
-        "text": "Adonis carries testosterone in three forms: creams applied to the skin, sprays, and testosterone cypionate given by injection. The creams and sprays are compounded products. They are not FDA approved. We could not confirm whether Adonis’s cypionate injections are the FDA-approved product or a compounded version.",
-        "src": [
-          {
-            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
-            "label": "FDA, Compounding and the FDA: Q&A",
-            "date": "published Sep 2025"
-          }
-        ]
       }
     ],
     "research": [
@@ -324,7 +309,7 @@
     "us": [
       {
         "t": "lead",
-        "text": "Testosterone is an FDA-approved medicine for men with low testosterone caused by a medical condition (hypogonadism). It is a Schedule III controlled substance. The compounded creams and sprays Adonis carries are not FDA approved. As of October 31, 2026."
+        "text": "Testosterone is an FDA-approved medicine for men with low testosterone caused by a medical condition (hypogonadism). It is a Schedule III controlled substance. Compounded testosterone creams and sprays are not FDA approved. As of October 31, 2026."
       },
       {
         "t": "list",
@@ -399,7 +384,7 @@
             "lead": "Not established:"
           },
           {
-            "text": "topical testosterone gels carry a boxed warning for secondary exposure. Children have developed male traits after touching unwashed or uncovered skin where a man applied gel.",
+            "text": "topical testosterone gels have a boxed warning for secondary exposure. Children have developed male traits after touching unwashed or uncovered skin where a man applied gel.",
             "src": [
               {
                 "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
@@ -439,12 +424,8 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are sold."
-      },
-      {
         "t": "p",
-        "text": "This applies to the testosterone creams and sprays Adonis carries. We could not confirm whether Adonis’s testosterone cypionate injections are the FDA-approved product or compounded.",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
         "src": [
           {
             "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
@@ -788,7 +769,6 @@
     ]
   },
   "unconfirmed": [
-    "We could not confirm whether the testosterone cypionate injections Adonis carries are the FDA-approved product (such as Depo-Testosterone) or a compounded version. The creams and sprays are compounded and not FDA approved.",
     "The Drugs@FDA website blocked automated access; approval dates come from FDA’s own Drugs@FDA data through openFDA.",
     "Australia’s TGA register (tga.gov.au) could not be reached, so we could not confirm which testosterone products are registered there. Only the Poisons Standard scheduling is reported.",
     "MHRA’s product register needs JavaScript and could not be read. The UK status comes from an MHRA Drug Safety Update only.",

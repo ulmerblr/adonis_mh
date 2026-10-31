@@ -55,10 +55,6 @@
             "date": "accessed Oct 31, 2026"
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "What Adonis carries through Beluga: choline only inside compounded lipotropic injection blends (MICC-B12, MIC+B6+B12, Lipo MIC-B and Lipo-B6)."
       }
     ],
     "research": [
@@ -105,8 +101,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes every MIC and lipotropic blend containing choline."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. That includes compounded MIC and lipotropic injection blends containing choline.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "p",
@@ -121,7 +124,7 @@
       }
     ],
     "world": {
-      "lead": "We found no approved choline medicine for energy or weight in the US or on EMA’s central list. Other countries are still being confirmed.",
+      "lead": "We found no approved choline medicine for energy or weight in the US or on EMA’s central list. Other countries were not checked.",
       "countries": [
         {
           "country": "United States",

@@ -1,693 +1,682 @@
 {
- "slug": "anastrozole",
- "name": "Anastrozole",
- "peptide": false,
- "lanes": [
-  "trt"
- ],
- "index": {
-  "evidence": "Approved; small male RCTs",
-  "fda": "Approved (Arimidex)",
-  "sport": "Banned (S4)"
- },
- "track": [
-  {
-   "title": "Lab & animal",
-   "line": "Rat and rabbit pregnancy studies on the label",
-   "status": "done"
-  },
-  {
-   "title": "Pilot in people",
-   "line": "Before approval; not reviewed for this page",
-   "status": "done"
-  },
-  {
-   "title": "Phase I",
-   "line": "Before approval; not reviewed for this page",
-   "status": "done"
-  },
-  {
-   "title": "Phase II",
-   "line": "Before approval; not reviewed for this page",
-   "status": "done"
-  },
-  {
-   "title": "Phase III",
-   "line": "ATAC and others, postmenopausal women",
-   "status": "done"
-  },
-  {
-   "title": "FDA approval",
-   "line": "Arimidex, 1995, breast cancer. Men: off-label",
-   "status": "done",
-   "here": true
-  }
- ],
- "sections": {
-  "what": [
-   {
-    "t": "p",
-    "text": "Anastrozole is a non-steroidal aromatase inhibitor. Aromatase is the enzyme that turns testosterone and androstenedione into estradiol and estrone. Blocking it lowers estradiol in the blood. It does not affect the body's production of cortisol-type hormones or aldosterone.",
-    "src": [
-     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "label": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026"
-     }
-    ]
-   },
-   {
-    "t": "p",
-    "text": "It is FDA approved, as Arimidex 1 mg tablets, only for breast cancer in postmenopausal women. Using it in men, for example to lower estrogen or raise testosterone, is off-label.",
-    "src": [
-     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "label": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026"
-     },
-     {
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
-      "label": "Drugs@FDA, NDA 020541, Arimidex",
-      "date": "accessed Oct 31, 2026"
-     }
-    ]
-   },
-   {
-    "t": "h3",
-    "text": "What Adonis carries (form only)"
-   },
-   {
-    "t": "list",
-    "items": [
-     {
-      "lead": "Tablets:",
-      "text": "anastrozole 1 mg tablets, taken by mouth."
-     },
-     {
-      "lead": "Capsules:",
-      "text": "compounded anastrozole capsules, 0.25 mg and 0.5 mg, taken by mouth. Arimidex comes only as a 1 mg tablet; compounded capsules are not FDA approved."
-     }
-    ]
-   },
-   {
-    "t": "callout",
-    "text": "Anastrozole is approved for breast cancer in postmenopausal women. Its use in men is off-label."
-   }
+  "slug": "anastrozole",
+  "name": "Anastrozole",
+  "peptide": false,
+  "lanes": [
+    "trt"
   ],
-  "research": [
-   {
-    "t": "lead",
-    "text": "Arimidex was approved on trials in postmenopausal women with breast cancer, including the ATAC trial against tamoxifen. In men, a handful of small randomized trials, from 12 weeks to 1 year, have measured hormones, bone, body composition and sexual function. The only trial in males on the label, in teenage boys, found no effect."
-   },
-   {
-    "t": "h3",
-    "text": "Human studies in men and boys"
-   },
-   {
-    "t": "study",
-    "meta": "USA · 2004 · Randomized, double-blind",
-    "title": "Older men with low or borderline testosterone (Leder et al.)",
-    "facts": [
-     {
-      "k": "Design",
-      "v": "randomized, double-blind, placebo-controlled"
-     },
-     {
-      "k": "People",
-      "v": "37 men aged 62 to 74 with screening testosterone under 350 ng/dL"
-     },
-     {
-      "k": "What was given",
-      "v": "anastrozole daily (12 men), anastrozole twice weekly (11) or placebo (14)"
-     },
-     {
-      "k": "Length",
-      "v": "12 weeks"
-     },
-     {
-      "k": "Measured",
-      "v": "hormones, quality of life (SF-36), erectile function (IIEF), prostate symptoms, PSA, haematocrit"
-     }
-    ],
-    "found": "Total and bioavailable testosterone and LH rose; estradiol fell but stayed in the normal male range. Quality of life, erectile function, prostate symptom scores and haematocrit did not change. PSA rose in the twice-weekly group. The authors said the physical effects remained to be determined.",
-    "src": [
-     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/15001605/",
-      "label": "Leder et al., J Clin Endocrinol Metab",
-      "date": "published Mar 2004"
-     }
-    ]
-   },
-   {
-    "t": "study",
-    "meta": "USA · 2009 · Randomized, double-blind",
-    "title": "One-year trial in older hypogonadal men (Burnett-Bowie et al.)",
-    "facts": [
-     {
-      "k": "Design",
-      "v": "randomized, double-blind, placebo-controlled, one academic center in Boston"
-     },
-     {
-      "k": "People",
-      "v": "88 men aged 60 and over with low or borderline-low testosterone and symptoms of hypogonadism"
-     },
-     {
-      "k": "What was given",
-      "v": "anastrozole daily or placebo"
-     },
-     {
-      "k": "Length",
-      "v": "1 year"
-     },
-     {
-      "k": "Measured",
-      "v": "hormones, body composition (CT and DXA), strength, PSA, prostate symptoms, haematocrit, lipids; bone density and bone turnover in 69 men"
-     }
-    ],
-    "found": "Testosterone rose, peaking at month 3, and estradiol fell modestly. Body composition and strength did not change, nor did PSA, prostate symptoms, haematocrit or lipids. Spine bone density fell on anastrozole and rose on placebo (P = 0.0014); other sites moved the same way but not significantly. The authors concluded it does not improve skeletal health in these men.",
-    "src": [
-     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/18616708/",
-      "label": "Burnett-Bowie et al., Clin Endocrinol",
-      "date": "published Jan 2009"
-     },
-     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/",
-      "label": "Burnett-Bowie et al., J Clin Endocrinol Metab",
-      "date": "published Dec 2009"
-     }
-    ]
-   },
-   {
-    "t": "study",
-    "meta": "USA · 2016 · Randomized, double-blind",
-    "title": "Anastrozole vs testosterone gel vs placebo in older men (Dias et al.)",
-    "facts": [
-     {
-      "k": "Design",
-      "v": "proof-of-concept, randomized, double-blind, placebo-controlled, one center (US National Institute on Aging)"
-     },
-     {
-      "k": "People",
-      "v": "43 men aged 65 to 82 with total testosterone under 350 ng/dL: 16 on testosterone gel, 14 on anastrozole, 13 on placebo"
-     },
-     {
-      "k": "Length",
-      "v": "12 months"
-     },
-     {
-      "k": "Measured",
-      "v": "lumbar spine bone density (main outcome), body composition, strength, gait speed, hormones"
-     }
-    ],
-    "found": "Both treatments raised testosterone above 500 ng/dL. Only testosterone gel improved spine bone density. Lean mass rose from baseline only in the anastrozole group; both groups improved knee strength from baseline. The authors concluded that converting testosterone to estrogen is needed to maintain bone in these men.",
-    "src": [
-     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/26588809/",
-      "label": "Dias et al., Andrology",
-      "date": "published Jan 2016"
-     }
-    ]
-   },
-   {
-    "t": "study",
-    "meta": "USA · 2015 · Randomized, double-blind",
-    "title": "Anastrozole vs clomiphene in infertile men with low testosterone (Helo et al.)",
-    "facts": [
-     {
-      "k": "Design",
-      "v": "randomized, prospective, double-blind comparison (no placebo)"
-     },
-     {
-      "k": "People",
-      "v": "26 infertile men with testosterone under 350 ng/dL and normal LH"
-     },
-     {
-      "k": "What was given",
-      "v": "anastrozole or clomiphene citrate, both off-label"
-     },
-     {
-      "k": "Length",
-      "v": "12 weeks"
-     },
-     {
-      "k": "Measured",
-      "v": "testosterone, free testosterone, estradiol, LH, FSH, SHBG, semen analysis, IIEF, erection hardness, ADAM questionnaire"
-     }
-    ],
-    "found": "Testosterone rose in both groups, more with clomiphene (mean rise 571 vs 408 ng/dL). Estradiol fell on anastrozole and rose on clomiphene. Neither group changed semen measures or questionnaire scores. The trial failed to show the two were equivalent.",
-    "src": [
-     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/26176805/",
-      "label": "Helo et al., J Sex Med",
-      "date": "published Aug 2015"
-     }
-    ]
-   },
-   {
-    "t": "study",
-    "meta": "Multicenter · label data · Randomized, double-blind",
-    "title": "Pubertal gynecomastia in boys (Arimidex label)",
-    "facts": [
-     {
-      "k": "Design",
-      "v": "randomized, double-blind, placebo-controlled, many centers"
-     },
-     {
-      "k": "People",
-      "v": "80 boys aged 11 to 18 with pubertal breast enlargement"
-     },
-     {
-      "k": "Length",
-      "v": "6 months"
-     },
-     {
-      "k": "Measured",
-      "v": "share of boys with at least a 50% reduction in breast enlargement; breast volume, breast pain"
-     }
-    ],
-    "found": "No statistically significant difference from placebo. Estradiol fell 15.4% on anastrozole vs 4.5% on placebo. The label states efficacy in these boys has not been demonstrated.",
-    "src": [
-     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "label": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026"
-     }
-    ]
-   },
-   {
-    "t": "h3",
-    "text": "Studies in women (the approved use)"
-   },
-   {
-    "t": "p",
-    "text": "Arimidex's approval for early breast cancer rests on the ATAC trial, which compared it with tamoxifen in postmenopausal women and followed them for a median of 10 years. These results do not tell us about effects in men.",
-    "src": [
-     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "label": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026"
-     }
-    ]
-   },
-   {
-    "t": "h3",
-    "text": "Animal and lab studies"
-   },
-   {
-    "t": "p",
-    "text": "In rats, anastrozole caused embryo-fetal toxicity at exposures 9 times the human level; in rabbits it caused pregnancy failure at 16 or more times the human dose. In female animals it may impair fertility.",
-    "src": [
-     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "label": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026"
-     }
-    ]
-   }
-  ],
-  "us": [
-   {
-    "t": "lead",
-    "text": "Anastrozole is FDA approved as Arimidex, first approved on December 27, 1995, for breast cancer in postmenopausal women. Every approved use is in postmenopausal women; use in men is off-label. As of October 31, 2026."
-   },
-   {
-    "t": "list",
-    "items": [
-     {
-      "lead": "Arimidex:",
-      "text": "NDA 020541, a new molecular entity, approved December 27, 1995. It is a 1 mg tablet, now distributed by ANI Pharmaceuticals.",
-      "src": [
-       {
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
-        "label": "Drugs@FDA, NDA 020541, Arimidex",
-        "date": "accessed Oct 31, 2026"
-       },
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Approved uses:",
-      "text": "add-on (adjuvant) treatment of hormone receptor-positive early breast cancer; first-line treatment of hormone receptor-positive or receptor-unknown advanced breast cancer; and advanced breast cancer that progressed on tamoxifen. All are in postmenopausal women.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Men:",
-      "text": "off-label. Men are not in any approved indication. The label says efficacy has not been shown in teenage boys with gynecomastia.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Compounding:",
-      "text": "under section 503A, pharmacies may only compound with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA's 503A bulks list. Anastrozole is the active ingredient of FDA-approved Arimidex. A compounded anastrozole product is not FDA approved.",
-      "src": [
-       {
-        "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
-        "label": "FDA, bulk drug substances used in 503A compounding",
-        "date": "accessed Oct 31, 2026"
-       },
-       {
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
-        "label": "Drugs@FDA, NDA 020541, Arimidex",
-        "date": "accessed Oct 31, 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Controlled substance:",
-      "text": "no. Anastrozole is not on the DEA's list of controlled substances.",
-      "src": [
-       {
-        "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
-        "label": "DEA, Controlled Substances in alphabetical order",
-        "date": "published Oct 2026"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "t": "callout",
-    "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
-   }
-  ],
-  "world": {
-   "lead": "Anastrozole is an approved breast cancer medicine in the US, Canada, the UK and the EU, in every case for postmenopausal women. Use in men is off-label everywhere checked. It is banned in sport at all times.",
-   "countries": [
+  "index": {
+    "evidence": "Approved; small male RCTs",
+    "fda": "Approved (Arimidex)",
+    "sport": "Banned (S4)"
+  },
+  "track": [
     {
-     "country": "United States",
-     "regulator": "FDA",
-     "status": "Approved medicine (Arimidex, 1995; breast cancer in postmenopausal women). Prescription-only. Use in men is off-label.",
-     "checked": "Oct 31, 2026",
-     "sources": [
-      {
-       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
-       "label": "Drugs@FDA, NDA 020541, Arimidex",
-       "date": "accessed Oct 31, 2026"
-      },
-      {
-       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-       "label": "Arimidex (anastrozole) label, DailyMed",
-       "date": "published Mar 2026"
-      }
-     ],
-     "iso": [
-      "840"
-     ],
-     "tone": "approved"
+      "title": "Lab & animal",
+      "line": "Rat and rabbit pregnancy studies on the label",
+      "status": "done"
     },
     {
-     "country": "Canada",
-     "regulator": "Health Canada",
-     "status": "Approved medicine (Arimidex, DIN 02224135, AstraZeneca Canada). Marketed since August 1996. Prescription-only.",
-     "checked": "Oct 31, 2026",
-     "sources": [
-      {
-       "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=arimidex",
-       "label": "Health Canada Drug Product Database, Arimidex (DIN 02224135)",
-       "date": "accessed Oct 31, 2026"
-      },
-      {
-       "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=43395",
-       "label": "Health Canada Drug Product Database, Arimidex status",
-       "date": "accessed Oct 31, 2026"
-      },
-      {
-       "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=43395",
-       "label": "Health Canada Drug Product Database, Arimidex schedule",
-       "date": "accessed Oct 31, 2026"
-      }
-     ],
-     "iso": [
-      "124"
-     ],
-     "tone": "approved"
+      "title": "Pilot in people",
+      "line": "Before approval; not reviewed",
+      "status": "done"
     },
     {
-     "country": "United Kingdom",
-     "regulator": "MHRA",
-     "status": "Approved medicine for breast cancer in postmenopausal women; prevention in those at moderate or high risk added November 2023.",
-     "checked": "Oct 31, 2026",
-     "sources": [
-      {
-       "url": "https://www.gov.uk/government/news/mhra-authorises-enzyme-inhibitor-anastrozole-to-prevent-breast-cancer-in-post-menopausal-women",
-       "label": "MHRA, anastrozole authorised for breast cancer prevention",
-       "date": "published Nov 2023"
-      }
-     ],
-     "iso": [
-      "826"
-     ],
-     "tone": "approved"
+      "title": "Phase I",
+      "line": "Before approval; not reviewed",
+      "status": "done"
     },
     {
-     "country": "European Union",
-     "regulator": "EMA / national agencies",
-     "status": "Approved medicine (Arimidex, authorised nationally and by mutual recognition). Uses harmonised in 2011: breast cancer in postmenopausal women.",
-     "checked": "Oct 31, 2026",
-     "sources": [
-      {
-       "url": "https://www.ema.europa.eu/en/medicines/human/referrals/arimidex",
-       "label": "EMA, Arimidex Article 30 referral",
-       "date": "published Mar 2011"
-      }
-     ],
-     "iso": [
-      "040",
-      "056",
-      "100",
-      "191",
-      "196",
-      "203",
-      "208",
-      "233",
-      "246",
-      "250",
-      "276",
-      "300",
-      "348",
-      "372",
-      "380",
-      "428",
-      "440",
-      "442",
-      "470",
-      "528",
-      "616",
-      "620",
-      "642",
-      "703",
-      "705",
-      "724",
-      "752"
-     ],
-     "tone": "approved"
+      "title": "Phase II",
+      "line": "Before approval; not reviewed",
+      "status": "done"
     },
     {
-     "country": "Australia",
-     "regulator": "TGA",
-     "status": "Status being confirmed with the regulator's record.",
-     "checked": "—",
-     "iso": [
-      "036"
-     ],
-     "tone": "pending"
+      "title": "Phase III",
+      "line": "ATAC and others, postmenopausal women",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Arimidex, 1995, breast cancer. Men: off-label",
+      "status": "done",
+      "here": true
     }
-   ],
-   "after": [
-    {
-     "t": "p",
-     "text": "Australia's Poisons Standard (June 2026) lists anastrozole in Schedule 4 (prescription only). Its ARTG registration could not be checked.",
-     "src": [
+  ],
+  "sections": {
+    "what": [
       {
-       "url": "https://www.legislation.gov.au/F2026L00633/asmade",
-       "label": "Australia, Poisons Standard June 2026",
-       "date": "published May 2026"
-      }
-     ]
-    },
-    {
-     "t": "card",
-     "title": "Sport",
-     "text": "Anastrozole is named under class S4.1, aromatase inhibitors, on the WADA 2026 Prohibited List. S4 is prohibited at all times (in and out of competition). The list's S4 text applies to all athletes; it does not limit the ban to men. S4.1 substances are Specified Substances. Anastrozole stays named in S4.1 on the 2027 list, in force January 1, 2027.",
-     "src": [
-      {
-       "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-       "label": "WADA 2026 Prohibited List",
-       "date": "published Sep 2025"
+        "t": "p",
+        "text": "Anastrozole is a non-steroidal aromatase inhibitor. Aromatase is the enzyme that turns testosterone and androstenedione into estradiol and estrone. Blocking it lowers estradiol in the blood. It does not affect the body's production of cortisol-type hormones or aldosterone.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+            "label": "Arimidex (anastrozole) label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
       },
       {
-       "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
-       "label": "WADA 2027 Prohibited List (tracked changes)",
-       "date": "published Aug 2026"
+        "t": "p",
+        "text": "It is FDA approved, as Arimidex 1 mg tablets, only for breast cancer in postmenopausal women. Using it in men, for example to lower estrogen or raise testosterone, is off-label.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+            "label": "Arimidex (anastrozole) label, DailyMed",
+            "date": "published Mar 2026"
+          },
+          {
+            "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
+            "label": "Drugs@FDA, NDA 020541, Arimidex",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Anastrozole is approved for breast cancer in postmenopausal women. Its use in men is off-label."
       }
-     ]
-    }
-   ]
-  },
-  "side": [
-   {
-    "t": "lead",
-    "text": "The label's side effects come from trials in postmenopausal women. They include bone loss and fractures, heart events in women with heart disease, higher cholesterol, and rare serious skin, allergic and liver reactions. The small trials in men add bone loss in one."
-   },
-   {
-    "t": "list",
-    "items": [
-     {
-      "lead": "Bone loss:",
-      "text": "in the ATAC bone substudy, spine and hip bone density fell at 12 and 24 months on Arimidex and rose on tamoxifen. The label advises considering bone density monitoring.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Arimidex was approved on trials in postmenopausal women with breast cancer, including the ATAC trial against tamoxifen. In men, a handful of small randomized trials, from 12 weeks to 1 year, have measured hormones, bone, body composition and sexual function. The only trial in males on the label, in teenage boys, found no effect."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies in men and boys"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2004 · Randomized, double-blind",
+        "title": "Older men with low or borderline testosterone (Leder et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "37 men aged 62 to 74 with screening testosterone under 350 ng/dL"
+          },
+          {
+            "k": "What was given",
+            "v": "anastrozole daily (12 men), anastrozole twice weekly (11) or placebo (14)"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "hormones, quality of life (SF-36), erectile function (IIEF), prostate symptoms, PSA, haematocrit"
+          }
+        ],
+        "found": "Total and bioavailable testosterone and LH rose; estradiol fell but stayed in the normal male range. Quality of life, erectile function, prostate symptom scores and haematocrit did not change. PSA rose in the twice-weekly group. The authors said the physical effects remained to be determined.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15001605/",
+            "label": "Leder et al., J Clin Endocrinol Metab",
+            "date": "published Mar 2004"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2009 · Randomized, double-blind",
+        "title": "One-year trial in older hypogonadal men (Burnett-Bowie et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, one academic center in Boston"
+          },
+          {
+            "k": "People",
+            "v": "88 men aged 60 and over with low or borderline-low testosterone and symptoms of hypogonadism"
+          },
+          {
+            "k": "What was given",
+            "v": "anastrozole daily or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "1 year"
+          },
+          {
+            "k": "Measured",
+            "v": "hormones, body composition (CT and DXA), strength, PSA, prostate symptoms, haematocrit, lipids; bone density and bone turnover in 69 men"
+          }
+        ],
+        "found": "Testosterone rose, peaking at month 3, and estradiol fell modestly. Body composition and strength did not change, nor did PSA, prostate symptoms, haematocrit or lipids. Spine bone density fell on anastrozole and rose on placebo (P = 0.0014); other sites moved the same way but not significantly. The authors concluded it does not improve skeletal health in these men.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18616708/",
+            "label": "Burnett-Bowie et al., Clin Endocrinol",
+            "date": "published Jan 2009"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/",
+            "label": "Burnett-Bowie et al., J Clin Endocrinol Metab",
+            "date": "published Dec 2009"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2016 · Randomized, double-blind",
+        "title": "Anastrozole vs testosterone gel vs placebo in older men (Dias et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "proof-of-concept, randomized, double-blind, placebo-controlled, one center (US National Institute on Aging)"
+          },
+          {
+            "k": "People",
+            "v": "43 men aged 65 to 82 with total testosterone under 350 ng/dL: 16 on testosterone gel, 14 on anastrozole, 13 on placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 months"
+          },
+          {
+            "k": "Measured",
+            "v": "lumbar spine bone density (main outcome), body composition, strength, gait speed, hormones"
+          }
+        ],
+        "found": "Both treatments raised testosterone above 500 ng/dL. Only testosterone gel improved spine bone density. Lean mass rose from baseline only in the anastrozole group; both groups improved knee strength from baseline. The authors concluded that converting testosterone to estrogen is needed to maintain bone in these men.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26588809/",
+            "label": "Dias et al., Andrology",
+            "date": "published Jan 2016"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Randomized, double-blind",
+        "title": "Anastrozole vs clomiphene in infertile men with low testosterone (Helo et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, prospective, double-blind comparison (no placebo)"
+          },
+          {
+            "k": "People",
+            "v": "26 infertile men with testosterone under 350 ng/dL and normal LH"
+          },
+          {
+            "k": "What was given",
+            "v": "anastrozole or clomiphene citrate, both off-label"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "testosterone, free testosterone, estradiol, LH, FSH, SHBG, semen analysis, IIEF, erection hardness, ADAM questionnaire"
+          }
+        ],
+        "found": "Testosterone rose in both groups, more with clomiphene (mean rise 571 vs 408 ng/dL). Estradiol fell on anastrozole and rose on clomiphene. Neither group changed semen measures or questionnaire scores. The trial failed to show the two were equivalent.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26176805/",
+            "label": "Helo et al., J Sex Med",
+            "date": "published Aug 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · label data · Randomized, double-blind",
+        "title": "Pubertal gynecomastia in boys (Arimidex label)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, many centers"
+          },
+          {
+            "k": "People",
+            "v": "80 boys aged 11 to 18 with pubertal breast enlargement"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "share of boys with at least a 50% reduction in breast enlargement; breast volume, breast pain"
+          }
+        ],
+        "found": "No statistically significant difference from placebo. Estradiol fell 15.4% on anastrozole vs 4.5% on placebo. The label states efficacy in these boys has not been demonstrated.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+            "label": "Arimidex (anastrozole) label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Studies in women (the approved use)"
+      },
+      {
+        "t": "p",
+        "text": "Arimidex's approval for early breast cancer rests on the ATAC trial, which compared it with tamoxifen in postmenopausal women and followed them for a median of 10 years. These results do not tell us about effects in men.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+            "label": "Arimidex (anastrozole) label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats, anastrozole caused embryo-fetal toxicity at exposures 9 times the human level; in rabbits it caused pregnancy failure at 16 or more times the human dose. In female animals it may impair fertility.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+            "label": "Arimidex (anastrozole) label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Anastrozole is FDA approved as Arimidex, first approved on December 27, 1995, for breast cancer in postmenopausal women. Every approved use is in postmenopausal women; use in men is off-label. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Arimidex:",
+            "text": "NDA 020541, a new molecular entity, approved December 27, 1995. It is a 1 mg tablet, now distributed by ANI Pharmaceuticals.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
+                "label": "Drugs@FDA, NDA 020541, Arimidex",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Approved uses:",
+            "text": "add-on (adjuvant) treatment of hormone receptor-positive early breast cancer; first-line treatment of hormone receptor-positive or receptor-unknown advanced breast cancer; and advanced breast cancer that progressed on tamoxifen. All are in postmenopausal women.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Men:",
+            "text": "off-label. Men are not in any approved indication. The label says efficacy has not been shown in teenage boys with gynecomastia.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "under section 503A, pharmacies may only compound with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA's 503A bulks list. Anastrozole is the active ingredient of FDA-approved Arimidex. A compounded anastrozole product is not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
+                "label": "Drugs@FDA, NDA 020541, Arimidex",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Anastrozole is not on the DEA's list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Anastrozole is an approved breast cancer medicine in the US, Canada, the UK and the EU, in every case for postmenopausal women. Use in men is off-label everywhere checked. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Arimidex, 1995; breast cancer in postmenopausal women). Prescription-only. Use in men is off-label.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020541",
+              "label": "Drugs@FDA, NDA 020541, Arimidex",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+              "label": "Arimidex (anastrozole) label, DailyMed",
+              "date": "published Mar 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine (Arimidex, DIN 02224135, AstraZeneca Canada). Marketed since August 1996. Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=arimidex",
+              "label": "Health Canada Drug Product Database, Arimidex (DIN 02224135)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=43395",
+              "label": "Health Canada Drug Product Database, Arimidex status",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=43395",
+              "label": "Health Canada Drug Product Database, Arimidex schedule",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine for breast cancer in postmenopausal women; prevention in those at moderate or high risk added November 2023.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/mhra-authorises-enzyme-inhibitor-anastrozole-to-prevent-breast-cancer-in-post-menopausal-women",
+              "label": "MHRA, anastrozole authorised for breast cancer prevention",
+              "date": "published Nov 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Approved medicine (Arimidex, authorised nationally and by mutual recognition). Uses harmonised in 2011: breast cancer in postmenopausal women.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/arimidex",
+              "label": "EMA, Arimidex Article 30 referral",
+              "date": "published Mar 2011"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia's Poisons Standard (June 2026) lists anastrozole in Schedule 4 (prescription only). Its ARTG registration could not be checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australia, Poisons Standard June 2026",
+              "date": "published May 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Anastrozole is named under class S4.1, aromatase inhibitors, on the WADA 2026 Prohibited List. S4 is prohibited at all times (in and out of competition). The list's S4 text applies to all athletes; it does not limit the ban to men. S4.1 substances are Specified Substances. Anastrozole stays named in S4.1 on the 2027 list, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
       ]
-     },
-     {
-      "lead": "Fractures:",
-      "text": "in ATAC, 10% of women on Arimidex had a fracture vs 7% on tamoxifen; spine, hip or wrist fractures were 4% vs 3%.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Heart:",
-      "text": "in women with existing ischaemic heart disease, ischaemic cardiovascular events occurred in 17% on Arimidex vs 10% on tamoxifen.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Cholesterol:",
-      "text": "raised cholesterol was reported in 9% on Arimidex vs 3.5% on tamoxifen.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Common (10% or more of women):",
-      "text": "hot flashes, weakness, arthritis, pain, joint pain, high blood pressure, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, swelling of the legs, cough, shortness of breath, sore throat and lymphoedema.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Serious and rare (under 1 in 10,000):",
-      "text": "skin reactions with lesions, ulcers or blisters (including Stevens-Johnson syndrome); allergic swelling of the face, lips, tongue or throat, and anaphylaxis; liver inflammation. After approval, tendon rupture, trigger finger and high blood calcium were also reported.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Bone in older men:",
-      "text": "in a 1-year placebo-controlled trial, spine bone density fell on anastrozole and rose on placebo. In another 1-year trial, only testosterone gel, not anastrozole, improved spine bone density.",
-      "src": [
-       {
-        "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/",
-        "label": "Burnett-Bowie et al., J Clin Endocrinol Metab",
-        "date": "published Dec 2009"
-       },
-       {
-        "url": "https://pubmed.ncbi.nlm.nih.gov/26588809/",
-        "label": "Dias et al., Andrology",
-        "date": "published Jan 2016"
-       }
-      ]
-     },
-     {
-      "lead": "PSA in older men:",
-      "text": "in a 12-week trial, PSA rose in the twice-weekly anastrozole group. In the 1-year trial, PSA did not change.",
-      "src": [
-       {
-        "url": "https://pubmed.ncbi.nlm.nih.gov/15001605/",
-        "label": "Leder et al., J Clin Endocrinol Metab",
-        "date": "published Mar 2004"
-       },
-       {
-        "url": "https://pubmed.ncbi.nlm.nih.gov/18616708/",
-        "label": "Burnett-Bowie et al., Clin Endocrinol",
-        "date": "published Jan 2009"
-       }
-      ]
-     },
-     {
-      "lead": "In boys:",
-      "text": "in the gynecomastia trial, treatment-related side effects occurred in 16.3% on anastrozole vs 8.1% on placebo, mostly acne and headache. One boy stopped because of testicular enlargement.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       }
-      ]
-     },
-     {
-      "lead": "Pregnancy:",
-      "text": "it can cause fetal harm. The US label advises effective contraception for women who could become pregnant. The harmonised EU information lists pregnancy and breast-feeding as contraindications.",
-      "src": [
-       {
-        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-        "label": "Arimidex (anastrozole) label, DailyMed",
-        "date": "published Mar 2026"
-       },
-       {
-        "url": "https://www.ema.europa.eu/en/medicines/human/referrals/arimidex",
-        "label": "EMA, Arimidex Article 30 referral",
-        "date": "published Mar 2011"
-       }
-      ]
-     }
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label's side effects come from trials in postmenopausal women. They include bone loss and fractures, heart events in women with heart disease, higher cholesterol, and rare serious skin, allergic and liver reactions. The small trials in men add bone loss in one."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Bone loss:",
+            "text": "in the ATAC bone substudy, spine and hip bone density fell at 12 and 24 months on Arimidex and rose on tamoxifen. The label advises considering bone density monitoring.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Fractures:",
+            "text": "in ATAC, 10% of women on Arimidex had a fracture vs 7% on tamoxifen; spine, hip or wrist fractures were 4% vs 3%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "in women with existing ischaemic heart disease, ischaemic cardiovascular events occurred in 17% on Arimidex vs 10% on tamoxifen.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Cholesterol:",
+            "text": "raised cholesterol was reported in 9% on Arimidex vs 3.5% on tamoxifen.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Common (10% or more of women):",
+            "text": "hot flashes, weakness, arthritis, pain, joint pain, high blood pressure, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, swelling of the legs, cough, shortness of breath, sore throat and lymphoedema.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Serious and rare (under 1 in 10,000):",
+            "text": "skin reactions with lesions, ulcers or blisters (including Stevens-Johnson syndrome); allergic swelling of the face, lips, tongue or throat, and anaphylaxis; liver inflammation. After approval, tendon rupture, trigger finger and high blood calcium were also reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bone in older men:",
+            "text": "in a 1-year placebo-controlled trial, spine bone density fell on anastrozole and rose on placebo. In another 1-year trial, only testosterone gel, not anastrozole, improved spine bone density.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/",
+                "label": "Burnett-Bowie et al., J Clin Endocrinol Metab",
+                "date": "published Dec 2009"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26588809/",
+                "label": "Dias et al., Andrology",
+                "date": "published Jan 2016"
+              }
+            ]
+          },
+          {
+            "lead": "PSA in older men:",
+            "text": "in a 12-week trial, PSA rose in the twice-weekly anastrozole group. In the 1-year trial, PSA did not change.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15001605/",
+                "label": "Leder et al., J Clin Endocrinol Metab",
+                "date": "published Mar 2004"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18616708/",
+                "label": "Burnett-Bowie et al., Clin Endocrinol",
+                "date": "published Jan 2009"
+              }
+            ]
+          },
+          {
+            "lead": "In boys:",
+            "text": "in the gynecomastia trial, treatment-related side effects occurred in 16.3% on anastrozole vs 8.1% on placebo, mostly acne and headache. One boy stopped because of testicular enlargement.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "it can cause fetal harm. The US label advises effective contraception for women who could become pregnant. The harmonised EU information lists pregnancy and breast-feeding as contraindications.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
+                "label": "Arimidex (anastrozole) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/referrals/arimidex",
+                "label": "EMA, Arimidex Article 30 referral",
+                "date": "published Mar 2011"
+              }
+            ]
+          }
+        ]
+      }
     ]
-   }
+  },
+  "unconfirmed": [
+    "Australia's TGA site did not respond, so whether anastrozole is registered on the ARTG is not confirmed; only its Schedule 4 listing in the Poisons Standard was read.",
+    "MHRA's product database could not be read (it needs a browser); the UK entry rests on MHRA's November 2023 announcement.",
+    "The wording of Arimidex's original 1995 indication was not confirmed; FDA's 1995 review was not read, and the current label lists three uses, all in postmenopausal women.",
+    "Only abstracts of the men's trials were read, so side effects reported inside those papers may be missing here."
+  ],
+  "surprises": [
+    "The WADA 2026 list bans anastrozole at all times for all athletes; nothing in the S4 text limits the ban to men.",
+    "Anastrozole is widely used in men on testosterone therapy, but every approved use, in the US, Canada, the UK and the EU, is for postmenopausal women; use in men is off-label.",
+    "The only trial in males on the FDA label, in teenage boys with breast enlargement, found no benefit over placebo.",
+    "In a 1-year trial in older men, anastrozole raised testosterone but did not change body composition or strength, and spine bone density fell compared with placebo."
   ]
- },
- "unconfirmed": [
-  "Australia's TGA site did not respond, so whether anastrozole is registered on the ARTG is not confirmed; only its Schedule 4 listing in the Poisons Standard was read.",
-  "MHRA's product database could not be read (it needs a browser); the UK entry rests on MHRA's November 2023 announcement.",
-  "Whether the 1 mg anastrozole tablet Adonis carries is a manufactured FDA-approved generic or a compounded tablet is not stated in the catalog.",
-  "The wording of Arimidex's original 1995 indication was not confirmed; FDA's 1995 review was not read, and the current label lists three uses, all in postmenopausal women.",
-  "Only abstracts of the men's trials were read, so side effects reported inside those papers may be missing here."
- ],
- "surprises": [
-  "The WADA 2026 list bans anastrozole at all times for all athletes; nothing in the S4 text limits the ban to men.",
-  "Anastrozole is widely used in men on testosterone therapy, but every approved use, in the US, Canada, the UK and the EU, is for postmenopausal women; use in men is off-label.",
-  "The only trial in males on the FDA label, in teenage boys with breast enlargement, found no benefit over placebo.",
-  "In a 1-year trial in older men, anastrozole raised testosterone but did not change body composition or strength, and spine bone density fell compared with placebo."
- ]
 }

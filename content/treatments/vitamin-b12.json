@@ -66,10 +66,6 @@
             "date": "published Oct 2023"
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "What Adonis carries through Beluga, all given by injection: a methylcobalamin injection; B12 added to some compounded semaglutide and tirzepatide injections; and B12 inside “MIC” lipotropic blends (MICC-B12, MIC+B6+B12 and Lipo MIC-B), which also contain methionine, inositol and choline."
       }
     ],
     "research": [
@@ -204,8 +200,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes the methylcobalamin injection, the GLP-1 injections with added B12, and the MIC lipotropic blends."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. That includes compounded methylcobalamin injections, GLP-1 injections with added B12, and MIC lipotropic blends.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "p",
@@ -220,7 +223,7 @@
       }
     ],
     "world": {
-      "lead": "B12 injection is an approved medicine for B12 deficiency in the US. In the EU, the only centrally authorised B12 medicine we found is a hydroxocobalamin product for cyanide poisoning. Canada, the UK and Australia are still being confirmed.",
+      "lead": "B12 injection is an approved medicine for B12 deficiency in the US. In the EU, the only centrally authorised B12 medicine we found is a hydroxocobalamin product for cyanide poisoning. Canada, the UK and Australia were not confirmed.",
       "countries": [
         {
           "country": "United States",
@@ -438,7 +441,7 @@
   "unconfirmed": [
     "We could not open the Drugs@FDA web pages; approval dates come from FDA’s Drugs@FDA data through openFDA.",
     "Canada (Health Canada Drug Product Database) did not load reliably, so B12 injection status in Canada is not confirmed.",
-    "The UK MHRA product database did not return results to our tools, so UK status is not confirmed.",
+    "The UK MHRA product database did not return results, so UK status is not confirmed.",
     "Australia’s TGA was not reachable, so Australian status is not confirmed.",
     "A 1973 pilot study of B12 for tiredness (Ellis and Nasser, Br J Nutr) has no abstract on PubMed; we could not confirm its design or results, so it is left out."
   ],

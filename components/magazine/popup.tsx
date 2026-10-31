@@ -23,7 +23,7 @@ export function PopupButton({ label, title, hash, children }: { label: string; t
   }, []);
   const close = useCallback(() => dialog.current?.close(), []);
 
-  // The dialog closed (×, Escape, outside click): unlock the page, return focus, drop our hash from the address.
+  // The dialog closed (×, Escape, outside click): unlock the page, return focus, drop the hash from the address.
   useEffect(() => {
     const d = dialog.current;
     if (!d) return;

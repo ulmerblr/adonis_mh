@@ -68,10 +68,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis Clinical carries NAD+ as a compounded injection, in several strengths, and as a compounded nasal spray, through Beluga. Neither form is FDA approved."
-      },
-      {
         "t": "callout",
         "text": "No study has shown that injected or nasal NAD+ slows aging in people."
       }
@@ -270,7 +266,7 @@
       },
       {
         "t": "p",
-        "text": "Most research on NAD+ biology is in cells and animals. The authors of the 2019 pilot wrote that, before their study, no data were available on what happens to directly infused NAD+ in people. Animal results have not been shown to carry over to injected or nasal NAD+ in people.",
+        "text": "Most research on NAD+ biology is in cells and animals. The authors of the 2019 pilot wrote that, before their study, no data were available on what happens to directly infused NAD+ in people. Animal results have not been shown to apply to injected or nasal NAD+ in people.",
         "src": [
           {
             "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
@@ -350,8 +346,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

@@ -68,10 +68,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis's catalog lists sertraline as a 50 mg tablet. Whether it is an FDA-approved product or a compounded one is still being confirmed."
-      },
-      {
         "t": "callout",
         "text": "Sertraline is FDA approved for depression and five other psychiatric uses. It is not approved for premature ejaculation; that use is off-label. A compounded sertraline product is not FDA approved."
       }
@@ -358,8 +354,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -508,7 +511,7 @@
     "side": [
       {
         "t": "lead",
-        "text": "Sertraline's label carries a boxed warning on suicidal thoughts in young people and a warning on sexual side effects. In men, sexual side effects include delayed or failed ejaculation, lower libido and erectile dysfunction, the same effect the PE studies relied on."
+        "text": "Sertraline's label has a boxed warning on suicidal thoughts in young people and a warning on sexual side effects. In men, sexual side effects include delayed or failed ejaculation, lower libido and erectile dysfunction, the same effect the PE studies relied on."
       },
       {
         "t": "list",
@@ -597,8 +600,7 @@
   "unconfirmed": [
     "Health Canada's Drug Product Database did not load, so Canada's status is not stated.",
     "Australia's TGA site (ARTG) did not load; only the Poisons Standard schedule was checked.",
-    "The 2006 Saudi trial summary gives 147 men enrolled but 157 men assessed; we did not read the full paper to resolve this.",
-    "Whether the product Adonis carries is compounded or an FDA-approved product is still being confirmed."
+    "The 2006 Saudi trial summary gives 147 men enrolled but 157 men assessed; we did not read the full paper to resolve this."
   ],
   "surprises": [
     "Sertraline is often described as a PE treatment, but no regulator we checked approves it for PE; EMA's 2009 harmonised EU uses do not include it.",

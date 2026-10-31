@@ -84,10 +84,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis's catalog lists estriol in two face creams: estriol 0.03% with tretinoin 0.1% (30 g), and estriol 0.3% with niacinamide 3% and GHK-Cu 0.2% (15 to 45 g). Whether these are compounded or approved products is still being confirmed."
-      },
-      {
         "t": "callout",
         "text": "Estriol is a hormone. Using it on a man’s skin is off-label: it is not an approved use anywhere we checked."
       }
@@ -275,11 +271,14 @@
       },
       {
         "t": "p",
-        "text": "Whether the estriol products Adonis carries are compounded or approved is still being confirmed. No estriol product is FDA approved in the US, so a compounded one would not be FDA approved either. Any use on men’s skin is off-label."
-      },
-      {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -511,12 +510,11 @@
     "Approval of estriol vaginal cream was confirmed only in Ireland (a parallel-import licence); other EU countries were not checked one by one.",
     "Status in the UK and Australia was not checked against a regulator record.",
     "A 2026 systematic review of topical estrogen for skin aging (J Am Acad Dermatol) has no abstract we could open, so its findings are not reported.",
-    "We found no published study of estriol applied to men's skin.",
-    "Whether the product Adonis carries is compounded or an FDA-approved product is still being confirmed."
+    "We found no published study of estriol applied to men's skin."
   ],
   "surprises": [
     "Estriol is often marketed as a weaker or “safer” estrogen; FDA says it has no evidence that estriol drugs are safe and effective or are safer forms of estrogen, and that no FDA-approved estriol drug exists.",
     "In Ireland estriol is a licensed prescription vaginal cream for women, while in the US every estriol product is compounded and unapproved.",
-    "All skin-aging studies we found were in women around menopause; none were in men, the group this page is for."
+    "All skin-aging studies we found were in women around menopause; none were in men."
   ]
 }

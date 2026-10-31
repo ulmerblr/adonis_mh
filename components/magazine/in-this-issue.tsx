@@ -3,7 +3,7 @@ import type { IssueEntry } from '@/content/home/in-this-issue';
 
 /**
  * Magazine Section sidebar: "In this issue", the nine lane stories in nav order, each linking to its lane. The cover
- * lane carries "Cover story"; the story on the page carries "Now reading" (punch red on lane pages: `laneMark`).
+ * lane shows "Cover story"; the story on the page shows "Now reading" (punch red on lane pages: `laneMark`).
  */
 export function InThisIssue({ entries, laneMark = false }: { entries: IssueEntry[]; laneMark?: boolean }) {
   return (

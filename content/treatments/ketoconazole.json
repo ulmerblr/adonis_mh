@@ -73,10 +73,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis does not carry ketoconazole on its own. It is one ingredient in a compounded hair spray from the Beluga catalog that also contains minoxidil, finasteride and latanoprost, sprayed on the scalp."
-      },
-      {
         "t": "callout",
         "text": "Using ketoconazole for hair loss is off-label."
       }
@@ -174,6 +170,17 @@
         "text": "FDA has approved ketoconazole products for fungal infections and dandruff, not for hair loss."
       },
       {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
         "t": "list",
         "items": [
           {
@@ -227,7 +234,7 @@
       },
       {
         "t": "p",
-        "text": "Ketoconazole tablets carry a boxed warning. They can cause serious liver injury, including deaths and liver transplants, can cause dangerous heart-rhythm problems with some other drugs, and can lower adrenal hormone output. The label says they are not for skin or nail fungal infections and should be used only when other antifungals are not available or tolerated.",
+        "text": "Ketoconazole tablets have a boxed warning. They can cause serious liver injury, including deaths and liver transplants, can cause dangerous heart-rhythm problems with some other drugs, and can lower adrenal hormone output. The label says they are not for skin or nail fungal infections and should be used only when other antifungals are not available or tolerated.",
         "src": [
           {
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d598696-c6f3-4b7c-ad73-949d2089df35",
@@ -249,7 +256,7 @@
       },
       {
         "t": "p",
-        "text": "The hair spray Adonis carries through Beluga is a compounded product applied to the scalp. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+        "text": "No ketoconazole product is FDA approved for hair loss. Compounded hair sprays that contain it are not FDA approved."
       }
     ],
     "world": {

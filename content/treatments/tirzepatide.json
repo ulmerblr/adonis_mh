@@ -47,7 +47,7 @@
     "what": [
       {
         "t": "p",
-        "text": "Tirzepatide is a single man-made peptide that switches on two gut-hormone receptors: GIP and GLP-1. It carries a fatty chain that binds to a blood protein called albumin, which makes it last longer in the body.",
+        "text": "Tirzepatide is a single man-made peptide that switches on two gut-hormone receptors: GIP and GLP-1. It has a fatty chain that binds to a blood protein called albumin, which makes it last longer in the body.",
         "src": [
           {
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
@@ -84,20 +84,8 @@
         ]
       },
       {
-        "t": "h3",
-        "text": "What Adonis carries"
-      },
-      {
         "t": "p",
-        "text": "Adonis carries compounded tirzepatide injections made through Beluga. Some are combined with vitamin B12, some with glycine, and one lists no added ingredient. They come in 30-day and 90-day supplies, including products named \"titration\" and \"microdosing\"."
-      },
-      {
-        "t": "callout",
-        "text": "These compounded tirzepatide products are not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold."
-      },
-      {
-        "t": "p",
-        "text": "The trials on this page tested tirzepatide by itself. None of them tested tirzepatide combined with vitamin B12 or glycine.",
+        "text": "The trials below tested tirzepatide by itself. None tested tirzepatide combined with vitamin B12 or glycine.",
         "src": [
           {
             "url": "https://pubmed.ncbi.nlm.nih.gov/34170647/",
@@ -296,7 +284,18 @@
     "us": [
       {
         "t": "lead",
-        "text": "Tirzepatide is FDA approved under two brand names: Mounjaro and Zepbound. The compounded tirzepatide Adonis carries through Beluga is not FDA approved. FDA says the tirzepatide shortage ended in December 2024. As of October 31, 2026."
+        "text": "Tirzepatide is FDA approved under two brand names: Mounjaro and Zepbound. Compounded tirzepatide is not FDA approved. FDA says the tirzepatide shortage ended in December 2024. As of October 31, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "list",
@@ -593,7 +592,7 @@
     "side": [
       {
         "t": "lead",
-        "text": "Both tirzepatide labels carry a boxed warning, FDA's strongest kind, about thyroid C-cell tumors. The most common side effects are stomach and bowel effects. The labels list other serious risks, below."
+        "text": "Both tirzepatide labels have a boxed warning, FDA's strongest kind, about thyroid C-cell tumors. The most common side effects are stomach and bowel effects. The labels list other serious risks, below."
       },
       {
         "t": "list",

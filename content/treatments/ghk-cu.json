@@ -104,25 +104,6 @@
       {
         "t": "callout",
         "text": "These effects were seen in cells and animals. They have not been shown in people."
-      },
-      {
-        "t": "h3",
-        "text": "What Adonis carries (form only)"
-      },
-      {
-        "t": "p",
-        "text": "Adonis's catalog lists GHK-Cu in these products:"
-      },
-      {
-        "t": "list",
-        "items": [
-          {
-            "text": "GHK-Cu 1% cream, applied to the skin (30-day or 90-day supply)"
-          },
-          {
-            "text": "Estriol 0.3% / niacinamide 3% / GHK-Cu 0.2% face cream (15 to 45 g)"
-          }
-        ]
       }
     ],
     "research": [
@@ -364,11 +345,18 @@
       },
       {
         "t": "p",
-        "text": "The GHK-Cu cream Adonis carries through Beluga is a compounded product. It is not FDA approved. Using it for skin aging or longevity is not an approved use of any medicine."
+        "text": "Compounded GHK-Cu creams are not FDA approved. Using GHK-Cu for skin aging or longevity is not an approved use of any medicine."
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

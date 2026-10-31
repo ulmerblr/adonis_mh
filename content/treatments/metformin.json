@@ -68,10 +68,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis Clinical carries metformin as tablets by mouth, through Beluga."
-      },
-      {
         "t": "callout",
         "text": "Metformin is FDA approved for type 2 diabetes. Using it for longevity is off-label. No trial has shown that it slows aging in people."
       }
@@ -295,6 +291,17 @@
         "text": "Metformin is FDA approved. Glucophage (NDA 020357) was approved on March 3, 1995 for type 2 diabetes. Many generic metformin tablets are FDA approved. Use for longevity or aging is off-label. As of October 31, 2026."
       },
       {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
         "t": "list",
         "items": [
           {
@@ -356,10 +363,6 @@
                 "date": "published Oct 2026"
               }
             ]
-          },
-          {
-            "lead": "Adonis's tablets:",
-            "text": "the product record Adonis provided lists metformin tablets but does not say whether they are a commercial FDA-approved generic or compounded by Beluga. Any compounded version would not be FDA approved."
           },
           {
             "lead": "Controlled substance:",
@@ -520,7 +523,7 @@
     "side": [
       {
         "t": "lead",
-        "text": "Metformin carries a boxed warning for lactic acidosis, which can be fatal. The most common side effects are gut symptoms. It can lower vitamin B12 levels. In older adults, it reduced some gains from exercise."
+        "text": "Metformin has a boxed warning for lactic acidosis, which can be fatal. The most common side effects are gut symptoms. It can lower vitamin B12 levels. In older adults, it reduced some gains from exercise."
       },
       {
         "t": "list",
@@ -618,7 +621,6 @@
   },
   "unconfirmed": [
     "We found no ClinicalTrials.gov record for the TAME trial, so its current status, size and timeline are not confirmed from a primary record.",
-    "Adonis's product record does not say whether its metformin tablets are a commercial FDA-approved generic or a Beluga compounded product.",
     "We could not reach the TGA's ARTG register to list approved metformin products in Australia; only the Schedule 4 listing is confirmed.",
     "Health Canada's Drug Product Database did not respond; Canada's status rests on Health Canada's 2020 recall notice listing marketed metformin DINs.",
     "We found no WADA statement on whether metformin falls under its 'AMPK activators' class; it is not named."

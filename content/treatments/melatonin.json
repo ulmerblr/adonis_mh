@@ -57,10 +57,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis does not carry topical melatonin on its own. Adonis's catalog lists it at 0.5% in a hair spray of minoxidil 7%, tretinoin, fluocinolone and biotin. Whether this is a compounded or an approved product is still being confirmed."
-      },
-      {
         "t": "callout",
         "text": "Using melatonin on the scalp for hair loss is off-label."
       }
@@ -145,6 +141,17 @@
       },
       {
         "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
         "text": "NIH says melatonin is regulated as a dietary supplement in the US, under less strict rules than prescription or over-the-counter drugs.",
         "src": [
           {
@@ -167,7 +174,7 @@
       },
       {
         "t": "p",
-        "text": "Whether the hair spray Adonis carries is a compounded or an approved product is still being confirmed. No melatonin product is FDA approved for hair loss, and FDA has not reviewed this mix for safety or effect."
+        "text": "No melatonin product is FDA approved for hair loss. Compounded hair sprays that contain it are not FDA approved."
       }
     ],
     "world": {
@@ -362,8 +369,7 @@
   "unconfirmed": [
     "We could not open Health Canada’s natural health product records for melatonin; only the prescription drug Slenyto was confirmed.",
     "We did not confirm whether low-dose melatonin food supplements are allowed in individual EU countries.",
-    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending.",
-    "Whether the product Adonis carries is compounded or an FDA-approved product is still being confirmed."
+    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending."
   ],
   "surprises": [
     "Melatonin is sold freely as a supplement in the US, but the UK’s MHRA treats it as a prescription-only medicine and has pulled a supplement found to contain it.",

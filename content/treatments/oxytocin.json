@@ -68,12 +68,8 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis carries compounded oxytocin as a nasal spray, as strips and tablets that dissolve in the mouth, and as a chewable gummy. Oxytocin is also an ingredient in Adonis combination products with tadalafil, sildenafil or bremelanotide (PT-141), given as troches, tablets, oral strips or a gummy."
-      },
-      {
         "t": "callout",
-        "text": "The only FDA-approved oxytocin is an injection for use in pregnancy and after birth. None of the forms Adonis carries is FDA approved, and use for male sexual function is off-label."
+        "text": "The only FDA-approved oxytocin is an injection for use in pregnancy and after birth. Compounded oxytocin sprays, strips, tablets and gummies are not FDA approved, and use for male sexual function is off-label."
       }
     ],
     "research": [
@@ -369,8 +365,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

@@ -2,145 +2,682 @@
   "slug": "sildenafil",
   "name": "Sildenafil",
   "peptide": false,
-  "lanes": ["vitality"],
-  "index": { "evidence": "Approved; many RCTs", "fda": "Approved (Viagra)", "sport": "Not listed" },
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Approved; many RCTs",
+    "fda": "Approved (Viagra)",
+    "sport": "Not listed"
+  },
   "track": [
-    { "title": "Lab & animal", "line": "Blocks PDE5 in human penile cell extracts", "status": "done" },
-    { "title": "Pilot in people", "line": "Early studies not reviewed for this page", "status": "done" },
-    { "title": "Phase I", "line": "Healthy-volunteer studies cited in the label", "status": "done" },
-    { "title": "Phase II", "line": "Fixed-dose Phase II/III studies in the label", "status": "done" },
-    { "title": "Phase III", "line": "21 placebo-controlled trials, 3,000+ men", "status": "done" },
-    { "title": "FDA approval", "line": "Viagra 1998, ED; Revatio 2005, PAH", "status": "done", "here": true }
+    {
+      "title": "Lab & animal",
+      "line": "Blocks PDE5 in human penile cell extracts",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Early studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-volunteer studies cited in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Fixed-dose Phase II/III studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "21 placebo-controlled trials, 3,000+ men",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Viagra 1998, ED; Revatio 2005, PAH",
+      "status": "done",
+      "here": true
+    }
   ],
   "sections": {
     "what": [
-      { "t": "p", "text": "Sildenafil is a small-molecule drug called a PDE5 inhibitor. It is the active ingredient in Viagra, approved for erectile dysfunction (ED), and in Revatio, approved for pulmonary arterial hypertension (PAH), which is high blood pressure in the arteries of the lungs.", "src": [
-        { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, DailyMed", "date": "published Feb 2026" },
-        { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb9363e-b28d-4019-8aae-539233dca214", "label": "Revatio label, DailyMed", "date": "published Jun 2026" } ] },
-      { "t": "h3", "text": "How it acts, according to the FDA label" },
-      { "t": "list", "items": [
-        { "text": "During sexual stimulation, nerves and blood-vessel cells in the penis release nitric oxide. Nitric oxide raises a messenger called cGMP, which relaxes smooth muscle and lets blood flow in.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 12.1", "date": "published Feb 2026" } ] },
-        { "text": "The enzyme PDE5 breaks cGMP down. Sildenafil blocks PDE5, so cGMP stays higher. The label says it has no effect without sexual stimulation.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 12.1", "date": "published Feb 2026" } ] },
-        { "text": "Sildenafil and its main breakdown product each have a half-life of about 4 hours.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 12.3", "date": "published Feb 2026" } ] }
-      ] },
-      { "t": "h3", "text": "What Adonis carries (form only)" },
-      { "t": "list", "items": [
-        { "lead": "Sildenafil Gum:", "text": "sildenafil alone, chewed." },
-        { "lead": "Sildenafil + Tadalafil Gummy:", "text": "two ED medicines together, chewed." },
-        { "lead": "Tadalafil + Sildenafil Troches:", "text": "two ED medicines together, dissolved in the mouth." },
-        { "lead": "Sildenafil + Tadalafil + Oxytocin oral strip:", "text": "two ED medicines with oxytocin, a peptide hormone, dissolved on the tongue." },
-        { "lead": "Sildenafil tablet (100 mg):", "text": "taken by mouth. The catalog does not say whether it is an FDA-approved generic or a compounded tablet." }
-      ] },
-      { "t": "callout", "text": "The gums, gummies, troches and oral strips are compounded products. They are not FDA approved." }
+      {
+        "t": "p",
+        "text": "Sildenafil is a small-molecule drug called a PDE5 inhibitor. It is the active ingredient in Viagra, approved for erectile dysfunction (ED), and in Revatio, approved for pulmonary arterial hypertension (PAH), which is high blood pressure in the arteries of the lungs.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+            "label": "Viagra label, DailyMed",
+            "date": "published Feb 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb9363e-b28d-4019-8aae-539233dca214",
+            "label": "Revatio label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "During sexual stimulation, nerves and blood-vessel cells in the penis release nitric oxide. Nitric oxide raises a messenger called cGMP, which relaxes smooth muscle and lets blood flow in.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 12.1",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "text": "The enzyme PDE5 breaks cGMP down. Sildenafil blocks PDE5, so cGMP stays higher. The label says it has no effect without sexual stimulation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 12.1",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "text": "Sildenafil and its main breakdown product each have a half-life of about 4 hours.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 12.3",
+                "date": "published Feb 2026"
+              }
+            ]
+          }
+        ]
+      }
     ],
     "research": [
-      { "t": "lead", "text": "Sildenafil has a large body of randomized trials. The Viagra label describes 21 randomized, double-blind, placebo-controlled trials of up to 6 months in more than 3,000 men aged 19 to 87. Two published trials, and one study of sildenafil taken alongside tadalafil, are listed below as they were run." },
-      { "t": "p", "text": "The label trials used several designs (fixed dose, dose titration, parallel and crossover) in men with ED of physical, psychological or mixed causes. The main measure was a questionnaire, the International Index of Erectile Function (IIEF).", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 14", "date": "published Feb 2026" } ] },
-      { "t": "h3", "text": "Human studies" },
-      { "t": "study", "meta": "USA · 1998 · Randomized, double-blind trials", "title": "Erectile dysfunction, two trials (NEJM 1998)", "facts": [
-        { "k": "Citation", "v": "Goldstein I, Lue TF, Padma-Nathan H, et al. N Engl J Med 1998;338(20):1397-404" },
-        { "k": "Design", "v": "two sequential double-blind, placebo-controlled studies, then an open-label extension" },
-        { "k": "People", "v": "532 men in a dose-response study; 329 different men in a flexible-dose study, of whom 225 entered the extension. ED of physical, psychological and mixed causes." },
-        { "k": "What was given", "v": "sildenafil 25, 50 or 100 mg or placebo, as needed (dose-response study); sildenafil or placebo with dose increases up to 100 mg (flexible-dose study)" },
-        { "k": "Length", "v": "24 weeks (dose-response); 12 weeks (flexible-dose); 32-week open-label extension" },
-        { "k": "Measured", "v": "IIEF questionnaire, a patient log and a global question" } ],
+      {
+        "t": "lead",
+        "text": "Sildenafil has a large body of randomized trials. The Viagra label describes 21 randomized, double-blind, placebo-controlled trials of up to 6 months in more than 3,000 men aged 19 to 87. Two published trials, and one study of sildenafil taken alongside tadalafil, are listed below as they were run."
+      },
+      {
+        "t": "p",
+        "text": "The label trials used several designs (fixed dose, dose titration, parallel and crossover) in men with ED of physical, psychological or mixed causes. The main measure was a questionnaire, the International Index of Erectile Function (IIEF).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+            "label": "Viagra label, section 14",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1998 · Randomized, double-blind trials",
+        "title": "Erectile dysfunction, two trials (NEJM 1998)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Goldstein I, Lue TF, Padma-Nathan H, et al. N Engl J Med 1998;338(20):1397-404"
+          },
+          {
+            "k": "Design",
+            "v": "two sequential double-blind, placebo-controlled studies, then an open-label extension"
+          },
+          {
+            "k": "People",
+            "v": "532 men in a dose-response study; 329 different men in a flexible-dose study, of whom 225 entered the extension. ED of physical, psychological and mixed causes."
+          },
+          {
+            "k": "What was given",
+            "v": "sildenafil 25, 50 or 100 mg or placebo, as needed (dose-response study); sildenafil or placebo with dose increases up to 100 mg (flexible-dose study)"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks (dose-response); 12 weeks (flexible-dose); 32-week open-label extension"
+          },
+          {
+            "k": "Measured",
+            "v": "IIEF questionnaire, a patient log and a global question"
+          }
+        ],
         "found": "In the last 4 weeks of the flexible-dose study, 69% of attempts at intercourse were successful on sildenafil and 22% on placebo (P<0.001). Headache, flushing and indigestion were the most common side effects, in 6% to 18% of men. 92% of men completed the extension.",
-        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/9580646/", "label": "Goldstein et al., NEJM, PubMed", "date": "published May 1998" } ] },
-      { "t": "study", "meta": "2005 · Randomized, double-blind trial", "title": "Pulmonary arterial hypertension, SUPER-1 (NEJM 2005)", "facts": [
-        { "k": "Citation", "v": "Galiè N, Ghofrani HA, Torbicki A, et al. N Engl J Med 2005;353(20):2148-57" },
-        { "k": "Design", "v": "randomized, double-blind, placebo-controlled" },
-        { "k": "People", "v": "278 people with symptomatic PAH (idiopathic, linked to connective-tissue disease, or after repaired congenital heart shunts)" },
-        { "k": "What was given", "v": "sildenafil 20, 40 or 80 mg or placebo, three times a day" },
-        { "k": "Length", "v": "12 weeks, with an optional long-term extension" },
-        { "k": "Measured", "v": "change in 6-minute walk distance (main measure); lung artery pressure, WHO functional class and clinical worsening" } ],
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9580646/",
+            "label": "Goldstein et al., NEJM, PubMed",
+            "date": "published May 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2005 · Randomized, double-blind trial",
+        "title": "Pulmonary arterial hypertension, SUPER-1 (NEJM 2005)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Galiè N, Ghofrani HA, Torbicki A, et al. N Engl J Med 2005;353(20):2148-57"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "278 people with symptomatic PAH (idiopathic, linked to connective-tissue disease, or after repaired congenital heart shunts)"
+          },
+          {
+            "k": "What was given",
+            "v": "sildenafil 20, 40 or 80 mg or placebo, three times a day"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks, with an optional long-term extension"
+          },
+          {
+            "k": "Measured",
+            "v": "change in 6-minute walk distance (main measure); lung artery pressure, WHO functional class and clinical worsening"
+          }
+        ],
         "found": "Compared with placebo, walk distance rose by 45 m, 46 m and 50 m in the three dose groups (P<0.001 for each). Clinical worsening did not differ significantly from placebo. Flushing, indigestion and diarrhea were reported. The study was not powered to assess deaths.",
-        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/16291984/", "label": "Galiè et al., NEJM, PubMed", "date": "published Nov 2005" } ] },
-      { "t": "study", "meta": "China · 2015 · Two-group study (off-label combination)", "title": "Daily tadalafil with or without sildenafil as needed (Andrologia 2015)", "facts": [
-        { "k": "Citation", "v": "Cui H, Liu B, Song Z, et al. Andrologia 2015;47(1):20-4" },
-        { "k": "Design", "v": "two groups assigned 1:1. The abstract does not say whether the study was blinded or placebo-controlled." },
-        { "k": "People", "v": "180 men with ED" },
-        { "k": "What was given", "v": "tadalafil 5 mg once daily alone, or tadalafil 5 mg once daily plus sildenafil 50 mg as needed" },
-        { "k": "Length", "v": "not stated in the abstract" },
-        { "k": "Measured", "v": "IIEF-5 questionnaire, Sexual Encounter Profile, side effects" } ],
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16291984/",
+            "label": "Galiè et al., NEJM, PubMed",
+            "date": "published Nov 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2015 · Two-group study (off-label combination)",
+        "title": "Daily tadalafil with or without sildenafil as needed (Andrologia 2015)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Cui H, Liu B, Song Z, et al. Andrologia 2015;47(1):20-4"
+          },
+          {
+            "k": "Design",
+            "v": "two groups assigned 1:1. The abstract does not say whether the study was blinded or placebo-controlled."
+          },
+          {
+            "k": "People",
+            "v": "180 men with ED"
+          },
+          {
+            "k": "What was given",
+            "v": "tadalafil 5 mg once daily alone, or tadalafil 5 mg once daily plus sildenafil 50 mg as needed"
+          },
+          {
+            "k": "Length",
+            "v": "not stated in the abstract"
+          },
+          {
+            "k": "Measured",
+            "v": "IIEF-5 questionnaire, Sexual Encounter Profile, side effects"
+          }
+        ],
         "found": "IIEF-5 scores were higher in the combined group among men with severe ED. Side-effect rates did not differ between groups. The two drugs were given on separate schedules; this was not a study of a single combined product.",
-        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/24387078/", "label": "Cui et al., Andrologia, PubMed", "date": "published Feb 2015" } ] },
-      { "t": "callout", "text": "A PubMed search for this page found no published human study of sildenafil given as a gum, gummy, troche or oral strip, or combined with oxytocin." },
-      { "t": "h3", "text": "Lab studies" },
-      { "t": "p", "text": "In extracts of smooth-muscle cells from human penile tissue (corpus cavernosum), sildenafil blocked PDE5 and raised cGMP in intact cells when a nitric oxide donor was added. This was a cell study.", "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/9600334/", "label": "Moreland et al., Life Sciences, PubMed", "date": "published 1998" } ] }
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24387078/",
+            "label": "Cui et al., Andrologia, PubMed",
+            "date": "published Feb 2015"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "A PubMed search found no published human study of sildenafil given as a gum, gummy, troche or oral strip, or combined with oxytocin."
+      },
+      {
+        "t": "h3",
+        "text": "Lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In extracts of smooth-muscle cells from human penile tissue (corpus cavernosum), sildenafil blocked PDE5 and raised cGMP in intact cells when a nitric oxide donor was added. This was a cell study.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9600334/",
+            "label": "Moreland et al., Life Sciences, PubMed",
+            "date": "published 1998"
+          }
+        ]
+      }
     ],
     "us": [
-      { "t": "lead", "text": "Sildenafil is FDA approved, by prescription, as Viagra (1998, ED), Revatio (2005, PAH) and Vybrique oral film (2025, ED). The compounded forms Adonis carries through Beluga are not FDA approved. As of October 31, 2026." },
-      { "t": "list", "items": [
-        { "lead": "Viagra:", "text": "approved March 27, 1998 (NDA 020895) as a new molecular entity, with priority review. Approved use: treatment of erectile dysfunction.", "src": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020895", "label": "Drugs@FDA, NDA 020895", "date": "accessed Oct 31, 2026" },
-          { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, DailyMed", "date": "published Feb 2026" } ] },
-        { "lead": "Revatio:", "text": "tablets approved June 3, 2005 (NDA 021845); an intravenous solution approved November 18, 2009 (NDA 022473). Approved use: PAH (WHO Group I) in adults, to improve exercise ability and delay clinical worsening, and in children aged 1 to 17.", "src": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021845", "label": "Drugs@FDA, NDA 021845", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022473", "label": "Drugs@FDA, NDA 022473", "date": "accessed Oct 31, 2026" },
-          { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb9363e-b28d-4019-8aae-539233dca214", "label": "Revatio label, DailyMed", "date": "published Jun 2026" } ] },
-        { "lead": "Vybrique:", "text": "a sildenafil oral film placed on the tongue, approved December 16, 2025 (NDA 210858) for erectile dysfunction. It is a different product from the compounded strips Adonis carries.", "src": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=210858", "label": "Drugs@FDA, NDA 210858", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210858s000lbl.pdf", "label": "Vybrique label, FDA", "date": "published Dec 2025" } ] },
-        { "lead": "Do not combine (contraindications):", "text": "the label says sildenafil must not be used with nitrates or nitric oxide donors in any form, or with guanylate cyclase stimulators such as riociguat.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 4", "date": "published Feb 2026" } ] },
-        { "lead": "Combining with other ED drugs:", "text": "the Viagra label says combinations with other PDE5 inhibitors, including Revatio, or with other ED treatments have not been studied, may further lower blood pressure, and are not recommended.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 5.7", "date": "published Feb 2026" } ] },
-        { "lead": "No approved combination:", "text": "FDA's Drugs@FDA data list no approved product that combines sildenafil with tadalafil.", "src": [ { "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22SILDENAFIL+CITRATE%22+AND+products.active_ingredients.name:%22TADALAFIL%22", "label": "openFDA (FDA's Drugs@FDA data): search for products with both ingredients, no match", "date": "accessed Oct 31, 2026" } ] },
-        { "lead": "Off-label:", "text": "taking sildenafil as a gum, gummy or troche, or in one dose with tadalafil or oxytocin, is not an approved use. It is off-label." }
-      ] },
-      { "t": "callout", "text": "The sildenafil gums, gummies, troches and oral strips Adonis carries through Beluga, including the combinations with tadalafil and oxytocin, are compounded. Compounded drugs are not FDA approved." },
-      { "t": "p", "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.", "src": [ { "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers", "label": "FDA, Compounding and the FDA: Questions and Answers", "date": "published Sep 2025" } ] }
+      {
+        "t": "lead",
+        "text": "Sildenafil is FDA approved, by prescription, as Viagra (1998, ED), Revatio (2005, PAH) and Vybrique oral film (2025, ED). Compounded versions are not FDA approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Viagra:",
+            "text": "approved March 27, 1998 (NDA 020895) as a new molecular entity, with priority review. Approved use: treatment of erectile dysfunction.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020895",
+                "label": "Drugs@FDA, NDA 020895",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Revatio:",
+            "text": "tablets approved June 3, 2005 (NDA 021845); an intravenous solution approved November 18, 2009 (NDA 022473). Approved use: PAH (WHO Group I) in adults, to improve exercise ability and delay clinical worsening, and in children aged 1 to 17.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021845",
+                "label": "Drugs@FDA, NDA 021845",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022473",
+                "label": "Drugs@FDA, NDA 022473",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb9363e-b28d-4019-8aae-539233dca214",
+                "label": "Revatio label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Vybrique:",
+            "text": "a sildenafil oral film placed on the tongue, approved December 16, 2025 (NDA 210858) for erectile dysfunction. Compounded sildenafil strips are a different, unapproved product.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=210858",
+                "label": "Drugs@FDA, NDA 210858",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/210858s000lbl.pdf",
+                "label": "Vybrique label, FDA",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Do not combine (contraindications):",
+            "text": "the label says sildenafil must not be used with nitrates or nitric oxide donors in any form, or with guanylate cyclase stimulators such as riociguat.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 4",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Combining with other ED drugs:",
+            "text": "the Viagra label says combinations with other PDE5 inhibitors, including Revatio, or with other ED treatments have not been studied, may further lower blood pressure, and are not recommended.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 5.7",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No approved combination:",
+            "text": "FDA's Drugs@FDA data list no approved product that combines sildenafil with tadalafil.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22SILDENAFIL+CITRATE%22+AND+products.active_ingredients.name:%22TADALAFIL%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for products with both ingredients, no match",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "taking sildenafil as a gum, gummy or troche, or in one dose with tadalafil or oxytocin, is not an approved use. It is off-label."
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded sildenafil gums, gummies, troches and oral strips, including combinations with tadalafil or oxytocin, are not FDA approved."
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Questions and Answers",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
     ],
     "world": {
-      "lead": "Sildenafil is an approved prescription medicine in the US, the EU and Australia. In the UK, one 50 mg brand, Viagra Connect, may be sold by pharmacists without a prescription. Canada's status is still being confirmed. It is not on WADA's Prohibited List.",
+      "lead": "Sildenafil is an approved prescription medicine in the US, the EU and Australia. In the UK, one 50 mg brand, Viagra Connect, may be sold by pharmacists without a prescription. Canada's status was not confirmed. It is not on WADA's Prohibited List.",
       "countries": [
-        { "country": "United States", "regulator": "FDA", "status": "Approved medicine (Viagra 1998, ED; Revatio 2005, PAH; Vybrique oral film 2025, ED). Prescription-only.", "checked": "Oct 31, 2026", "sources": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020895", "label": "Drugs@FDA, NDA 020895", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021845", "label": "Drugs@FDA, NDA 021845", "date": "accessed Oct 31, 2026" } ], "iso": ["840"], "tone": "approved" },
-        { "country": "Canada", "regulator": "Health Canada", "status": "Status being confirmed with the regulator's record.", "checked": "—", "iso": ["124"], "tone": "pending" },
-        { "country": "United Kingdom", "regulator": "MHRA", "status": "Viagra Connect (sildenafil 50 mg) reclassified from prescription-only to pharmacy medicine in November 2017, for men over 18 with ED, sold after a talk with a pharmacist. MHRA says pharmacy sales began in 2018.", "checked": "Oct 31, 2026", "sources": [
-          { "url": "https://www.gov.uk/government/news/mhra-reclassifies-viagra-connect-tablets-to-a-pharmacy-medicine", "label": "MHRA, Viagra Connect reclassification", "date": "published Nov 2017" },
-          { "url": "https://www.gov.uk/government/news/mhra-reclassifies-cialis-together-tablets-to-a-pharmacy-medicine", "label": "MHRA, Cialis Together reclassification", "date": "published Mar 2023" } ], "iso": ["826"], "tone": "otc" },
-        { "country": "European Union", "regulator": "EMA", "status": "Approved medicine. Viagra authorised September 13, 1998 (ED); Revatio authorised October 28, 2005 (PAH). Prescription-only.", "checked": "Oct 31, 2026", "sources": [
-          { "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/viagra", "label": "EMA, Viagra EPAR", "date": "published Oct 2026" },
-          { "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revatio", "label": "EMA, Revatio EPAR", "date": "published Oct 2026" } ], "iso": ["040", "056", "100", "191", "196", "203", "208", "233", "246", "250", "276", "300", "348", "372", "380", "428", "440", "442", "470", "528", "616", "620", "642", "703", "705", "724", "752"], "tone": "approved" },
-        { "country": "Australia", "regulator": "TGA", "status": "Approved medicine: TGA publishes product information for Viagra, Revatio and other sildenafil brands. Prescription-only (Schedule 4).", "checked": "Oct 31, 2026", "sources": [
-          { "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=sildenafil", "label": "TGA, PI/CMI search: sildenafil", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.legislation.gov.au/F2026L01327/asmade/text", "label": "Poisons Standard, October 2026", "date": "published Sep 2026" } ], "iso": ["036"], "tone": "approved" }
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Viagra 1998, ED; Revatio 2005, PAH; Vybrique oral film 2025, ED). Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020895",
+              "label": "Drugs@FDA, NDA 020895",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021845",
+              "label": "Drugs@FDA, NDA 021845",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Viagra Connect (sildenafil 50 mg) reclassified from prescription-only to pharmacy medicine in November 2017, for men over 18 with ED, sold after a talk with a pharmacist. MHRA says pharmacy sales began in 2018.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/mhra-reclassifies-viagra-connect-tablets-to-a-pharmacy-medicine",
+              "label": "MHRA, Viagra Connect reclassification",
+              "date": "published Nov 2017"
+            },
+            {
+              "url": "https://www.gov.uk/government/news/mhra-reclassifies-cialis-together-tablets-to-a-pharmacy-medicine",
+              "label": "MHRA, Cialis Together reclassification",
+              "date": "published Mar 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine. Viagra authorised September 13, 1998 (ED); Revatio authorised October 28, 2005 (PAH). Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/viagra",
+              "label": "EMA, Viagra EPAR",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revatio",
+              "label": "EMA, Revatio EPAR",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Viagra, Revatio and other sildenafil brands. Prescription-only (Schedule 4).",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=sildenafil",
+              "label": "TGA, PI/CMI search: sildenafil",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
       ],
       "after": [
-        { "t": "p", "text": "Canada: in January 2026, Health Canada warned about counterfeit Viagra and Cialis seized in Ontario. It described sildenafil and tadalafil as prescription drugs that should be used only under a health care professional's supervision and never with nitrate drugs.", "src": [ { "url": "https://recalls-rappels.canada.ca/en/alert-recall/fake-cialis-and-viagra-seized-bitco-distribution-ontario", "label": "Health Canada advisory, counterfeit Viagra and Cialis", "date": "published Jan 2026" } ] },
-        { "t": "card", "title": "Sport", "text": "Sildenafil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no government approval for human use, and sildenafil is approved (see above).", "src": [
-          { "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf", "label": "WADA 2026 Prohibited List", "date": "published Sep 2025" },
-          { "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf", "label": "WADA 2027 Prohibited List (redline)", "date": "published Sep 2026" },
-          { "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf", "label": "WADA 2027 Monitoring Program", "date": "published Sep 2026" } ] }
+        {
+          "t": "p",
+          "text": "Canada: in January 2026, Health Canada warned about counterfeit Viagra and Cialis seized in Ontario. It described sildenafil and tadalafil as prescription drugs that should be used only under a health care professional's supervision and never with nitrate drugs.",
+          "src": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/fake-cialis-and-viagra-seized-bitco-distribution-ontario",
+              "label": "Health Canada advisory, counterfeit Viagra and Cialis",
+              "date": "published Jan 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Sildenafil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no government approval for human use, and sildenafil is approved (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (redline)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
       ]
     },
     "side": [
-      { "t": "lead", "text": "The label lists headache, flushing and indigestion as the most common side effects. Serious risks include a dangerous drop in blood pressure with nitrates, erections lasting more than 4 hours, sudden vision loss and sudden hearing loss." },
-      { "t": "list", "items": [
-        { "lead": "Common, in the label's fixed-dose trials:", "text": "headache (16% to 28% on sildenafil vs 7% on placebo), flushing (10% to 19% vs 2%), indigestion (3% to 17% vs 2%), abnormal vision (1% to 11% vs 1%, mostly a color tinge, light sensitivity or blurring), stuffy nose, back pain, muscle pain, nausea, dizziness and rash. Some rose with dose. 2.5% stopped for side effects, vs 2.3% on placebo.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 6.1", "date": "published Feb 2026" } ] },
-        { "lead": "Nitrates and riociguat:", "text": "contraindicated. Sildenafil was shown to strengthen the blood-pressure-lowering effect of nitrates.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 4", "date": "published Feb 2026" } ] },
-        { "lead": "Heart:", "text": "ED treatments should not generally be used in men for whom sexual activity is inadvisable because of their heart condition. In healthy volunteers, blood pressure fell by a mean maximum of 8.4/5.5 mmHg. There are no controlled data in men who had a heart attack, stroke or life-threatening arrhythmia in the last 6 months, men with resting blood pressure below 90/50 or above 170/110, or men with heart failure or unstable angina.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 5.1", "date": "published Feb 2026" } ] },
-        { "lead": "Prolonged erection and priapism:", "text": "erections over 4 hours and priapism (painful erections over 6 hours) have been reported infrequently. Untreated priapism can damage penile tissue and cause permanent loss of potency.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 5.2", "date": "published Feb 2026" } ] },
-        { "lead": "Sudden vision loss:", "text": "sudden loss of vision in one or both eyes can be a sign of NAION, a type of optic nerve damage. The label tells patients to stop and seek care.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 5.3", "date": "published Feb 2026" } ] },
-        { "lead": "Sudden hearing loss:", "text": "sudden decrease or loss of hearing, sometimes with ringing in the ears and dizziness, has been reported in time with PDE5 inhibitor use. It is not known whether the drug caused it.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 5.4", "date": "published Feb 2026" } ] },
-        { "lead": "Low blood pressure with other drugs:", "text": "caution with alpha-blockers and blood-pressure medicines. Strong CYP3A4 inhibitors such as ritonavir raise sildenafil levels.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, sections 5.5 and 5.6", "date": "published Feb 2026" } ] },
-        { "lead": "Combined with tadalafil:", "text": "the Viagra label says combining it with other PDE5 inhibitors has not been studied, may lower blood pressure further, and is not recommended. Several Adonis products combine sildenafil and tadalafil.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e", "label": "Viagra label, section 5.7", "date": "published Feb 2026" } ] },
-        { "lead": "Revatio (PAH) warnings:", "text": "use in pulmonary veno-occlusive disease may cause fluid in the lungs; in pulmonary hypertension from sickle cell disease it may cause serious vaso-occlusive crises.", "src": [ { "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb9363e-b28d-4019-8aae-539233dca214", "label": "Revatio label, DailyMed", "date": "published Jun 2026" } ] },
-        { "lead": "Pregnancy (off-label use):", "text": "in 2018 MHRA reported that a Dutch trial of sildenafil for fetal growth restriction was stopped early: 17 of 64 babies (27%) in the sildenafil group had persistent pulmonary hypertension of the newborn, including 11 deaths before discharge, vs 3 of 58 (5%) and no deaths on placebo. Sildenafil is not authorised for this use.", "src": [ { "url": "https://www.gov.uk/drug-safety-update/sildenafil-revatio-and-viagra-reports-of-persistent-pulmonary-hypertension-of-the-newborn-pphn-following-in-utero-exposure-in-a-clinical-trial-on-intrauterine-growth-restriction", "label": "MHRA Drug Safety Update", "date": "published Nov 2018" } ] },
-        { "lead": "Illegal and fake products:", "text": "MHRA seized about 19.5 million doses of illegally traded ED medicines from 2021 to 2025, including sildenafil. It says such products may contain no active ingredient, the wrong dose, hidden drugs or toxic ingredients.", "src": [ { "url": "https://www.gov.uk/government/news/20-million-illegal-erectile-dysfunction-pills-seized-as-mhra-warns-against-risky-online-buys", "label": "MHRA, ED pill seizures", "date": "published Feb 2026" } ] }
-      ] }
+      {
+        "t": "lead",
+        "text": "The label lists headache, flushing and indigestion as the most common side effects. Serious risks include a dangerous drop in blood pressure with nitrates, erections lasting more than 4 hours, sudden vision loss and sudden hearing loss."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common, in the label's fixed-dose trials:",
+            "text": "headache (16% to 28% on sildenafil vs 7% on placebo), flushing (10% to 19% vs 2%), indigestion (3% to 17% vs 2%), abnormal vision (1% to 11% vs 1%, mostly a color tinge, light sensitivity or blurring), stuffy nose, back pain, muscle pain, nausea, dizziness and rash. Some rose with dose. 2.5% stopped for side effects, vs 2.3% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 6.1",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Nitrates and riociguat:",
+            "text": "contraindicated. Sildenafil was shown to strengthen the blood-pressure-lowering effect of nitrates.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 4",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "ED treatments should not generally be used in men for whom sexual activity is inadvisable because of their heart condition. In healthy volunteers, blood pressure fell by a mean maximum of 8.4/5.5 mmHg. There are no controlled data in men who had a heart attack, stroke or life-threatening arrhythmia in the last 6 months, men with resting blood pressure below 90/50 or above 170/110, or men with heart failure or unstable angina.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 5.1",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Prolonged erection and priapism:",
+            "text": "erections over 4 hours and priapism (painful erections over 6 hours) have been reported infrequently. Untreated priapism can damage penile tissue and cause permanent loss of potency.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 5.2",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Sudden vision loss:",
+            "text": "sudden loss of vision in one or both eyes can be a sign of NAION, a type of optic nerve damage. The label tells patients to stop and seek care.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 5.3",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Sudden hearing loss:",
+            "text": "sudden decrease or loss of hearing, sometimes with ringing in the ears and dizziness, has been reported in time with PDE5 inhibitor use. It is not known whether the drug caused it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 5.4",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure with other drugs:",
+            "text": "caution with alpha-blockers and blood-pressure medicines. Strong CYP3A4 inhibitors such as ritonavir raise sildenafil levels.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, sections 5.5 and 5.6",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Combined with tadalafil:",
+            "text": "the Viagra label says combining it with other PDE5 inhibitors has not been studied, may lower blood pressure further, and is not recommended.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+                "label": "Viagra label, section 5.7",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Revatio (PAH) warnings:",
+            "text": "use in pulmonary veno-occlusive disease may cause fluid in the lungs; in pulmonary hypertension from sickle cell disease it may cause serious vaso-occlusive crises.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb9363e-b28d-4019-8aae-539233dca214",
+                "label": "Revatio label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy (off-label use):",
+            "text": "in 2018 MHRA reported that a Dutch trial of sildenafil for fetal growth restriction was stopped early: 17 of 64 babies (27%) in the sildenafil group had persistent pulmonary hypertension of the newborn, including 11 deaths before discharge, vs 3 of 58 (5%) and no deaths on placebo. Sildenafil is not authorised for this use.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/sildenafil-revatio-and-viagra-reports-of-persistent-pulmonary-hypertension-of-the-newborn-pphn-following-in-utero-exposure-in-a-clinical-trial-on-intrauterine-growth-restriction",
+                "label": "MHRA Drug Safety Update",
+                "date": "published Nov 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Illegal and fake products:",
+            "text": "MHRA seized about 19.5 million doses of illegally traded ED medicines from 2021 to 2025, including sildenafil. It says such products may contain no active ingredient, the wrong dose, hidden drugs or toxic ingredients.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/government/news/20-million-illegal-erectile-dysfunction-pills-seized-as-mhra-warns-against-risky-online-buys",
+                "label": "MHRA, ED pill seizures",
+                "date": "published Feb 2026"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "unconfirmed": [
     "Health Canada's Drug Product Database could not be reached, so no Canadian authorization of Viagra, Revatio or another sildenafil brand is confirmed here.",
     "TGA's ARTG (tga.gov.au) did not respond; Australian status rests on TGA's PI/CMI search and the Poisons Standard.",
-    "The Adonis catalog does not say whether its sildenafil 100 mg tablet is an FDA-approved generic or a compounded tablet.",
     "The year FDA approved Revatio for children aged 1 to 17 was not confirmed.",
     "No published human study of sildenafil as a gum, gummy, troche or oral strip, or with oxytocin, was found; this rests on one PubMed search."
   ],
   "surprises": [
-    "The Viagra label says combining sildenafil with other PDE5 inhibitors has not been studied and is not recommended, yet several Adonis products put sildenafil and tadalafil in one dose.",
-    "FDA approved a sildenafil oral film (Vybrique) in December 2025; the oral strips Adonis carries are compounded combinations, not that approved product.",
     "Viagra Connect is often dated to 2017: MHRA announced the reclassification in November 2017 ('if marketed'), and MHRA later said pharmacy sales began in 2018."
   ]
 }

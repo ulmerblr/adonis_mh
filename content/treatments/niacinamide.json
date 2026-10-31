@@ -13,7 +13,7 @@
   "track": [
     {
       "title": "Lab & animal",
-      "line": "Not reviewed for this page",
+      "line": "Not reviewed",
       "status": "not"
     },
     {
@@ -57,25 +57,6 @@
         ]
       },
       {
-        "t": "h3",
-        "text": "What Adonis carries (form only)"
-      },
-      {
-        "t": "p",
-        "text": "Adonis's catalog lists niacinamide in these products. Adonis does not carry niacinamide on its own:"
-      },
-      {
-        "t": "list",
-        "items": [
-          {
-            "text": "Azelaic acid 15% / niacinamide 4% cream, applied to the skin"
-          },
-          {
-            "text": "Estriol 0.3% / niacinamide 3% / GHK-Cu 0.2% face cream (15 to 45 g)"
-          }
-        ]
-      },
-      {
         "t": "callout",
         "text": "There is little research on niacinamide for skin. The trials below are small, short, and none tested it together with azelaic acid."
       }
@@ -83,7 +64,7 @@
     "research": [
       {
         "t": "lead",
-        "text": "Research on niacinamide applied to the skin is thin: two small randomized acne trials compared a niacinamide gel with an antibiotic gel (clindamycin), with no placebo group, and one cosmetic study tested a moisturizer containing it. None tested the azelaic acid and niacinamide combination Adonis carries."
+        "text": "Research on niacinamide applied to the skin is thin: two small randomized acne trials compared a niacinamide gel with an antibiotic gel (clindamycin), with no placebo group, and one cosmetic study tested a moisturizer containing it. None tested niacinamide combined with azelaic acid."
       },
       {
         "t": "h3",
@@ -186,7 +167,7 @@
     "us": [
       {
         "t": "lead",
-        "text": "Niacinamide has no FDA drug approval for any skin use. In FDA's approval records it appears only as one vitamin in multivitamin products, mostly injections. The compounded cream Adonis carries that contains it is not FDA approved. As of October 31, 2026."
+        "text": "Niacinamide has no FDA drug approval for any skin use. In FDA's approval records it appears only as one vitamin in multivitamin products, mostly injections. Compounded creams that contain it are not FDA approved. As of October 31, 2026."
       },
       {
         "t": "list",
@@ -238,8 +219,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -355,10 +343,6 @@
                 "date": "published Feb 2013"
               }
             ]
-          },
-          {
-            "lead": "Inside the Adonis cream:",
-            "text": "niacinamide is combined with azelaic acid, whose FDA labels list burning, stinging, itching and dryness, and rare skin lightening. See the azelaic acid page."
           }
         ]
       }

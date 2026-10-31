@@ -129,10 +129,6 @@
       {
         "t": "callout",
         "text": "None of these mechanisms has been measured in people."
-      },
-      {
-        "t": "p",
-        "text": "Adonis Clinical does not carry KPV today."
       }
     ],
     "research": [
@@ -500,8 +496,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -654,7 +657,7 @@
         {
           "t": "card",
           "title": "Sport",
-          "text": "KPV is not named on the 2026 Prohibited List. The list’s class S0 (non-approved substances) bans at all times any pharmacological substance that is not covered by another class and has no current approval from any government health authority for human use. Whether WADA applies S0 to KPV was not confirmed. WADA’s own copy of the list could not be opened for this page; the text was read in the Finnish anti-doping agency’s published version, which states that WADA’s English version is the official one. The 2027 list was not checked.",
+          "text": "KPV is not named on the 2026 Prohibited List. The list’s class S0 (non-approved substances) bans at all times any pharmacological substance that is not covered by another class and has no current approval from any government health authority for human use. Whether WADA applies S0 to KPV was not confirmed. WADA’s own copy of the list could not be opened; the text was read in the Finnish anti-doping agency’s published version, which states that WADA’s English version is the official one. The 2027 list was not checked.",
           "src": [
             {
               "url": "https://kamu.suek.fi/en/dopingsubstances/",

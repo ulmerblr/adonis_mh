@@ -134,10 +134,6 @@
       {
         "t": "callout",
         "text": "None of these effects has been tested by giving MOTS-c to people."
-      },
-      {
-        "t": "p",
-        "text": "Adonis does not carry MOTS-c today."
       }
     ],
     "research": [
@@ -454,8 +450,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -653,7 +656,7 @@
           },
           {
             "lead": "Immune reactions:",
-            "text": "FDA is concerned about immune reactions to injected MOTS-c, from clumping (aggregation) and peptide impurities. Injection under the skin carries more of this risk than IV.",
+            "text": "FDA is concerned about immune reactions to injected MOTS-c, from clumping (aggregation) and peptide impurities. FDA says injection under the skin poses more of this risk than IV.",
             "src": [
               {
                 "url": "https://www.fda.gov/media/193347/download",

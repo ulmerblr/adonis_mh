@@ -8,7 +8,7 @@ const STANDARDS = [
   { title: 'Dated and reviewed', text: 'Every status has an “as of” date. A licensed clinician signs off each page.' },
 ];
 
-/** Magazine Section card: How we report; "Read our standards →" opens the four standards, linking to /how-we-report. */
+/** Magazine Section card: How we report; "Read the standards →" opens the four standards, linking to /how-we-report. */
 export function StandardsCard({ as = 'div' }: { as?: 'div' | 'li' }) {
   const Tag = as;
   return (
@@ -16,7 +16,7 @@ export function StandardsCard({ as = 'div' }: { as?: 'div' | 'li' }) {
       <span className="label">How we report</span>
       <h3 className="briefHead">We report the record. We don’t sell it.</h3>
       <p className="briefList">{STANDARDS.map((s) => s.title).join(' · ')}</p>
-      <PopupButton label="Read our standards →" title="How we report">
+      <PopupButton label="Read the standards →" title="How we report">
         <div className="popupBody">
           <h3 className="bandHead" style={{ fontSize: 'clamp(24px, 6vw, 30px)' }}>We report the record. We don’t sell it.</h3>
           <div className="grid2">

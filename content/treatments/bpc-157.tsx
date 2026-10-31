@@ -281,7 +281,7 @@ export const bpc157: TreatmentData = {
       body: (
         <>
         <p className="bodyLead">
-          Questions about whether BPC-157 fits your situation? Talk to a licensed clinician at <A href={CLINIC}>Adonis Clinical</A>.
+          Questions about BPC-157 and your own health belong with a licensed clinician. This site reports published research and regulator records; it does not offer, sell or prescribe any treatment.
         </p>
         <a href={CLINIC} className="btn btnLeather btnHuge" data-cta="clinician">Talk to a licensed clinician at Adonis Clinical</a>
         </>

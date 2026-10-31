@@ -63,10 +63,6 @@
       },
       {
         "t": "p",
-        "text": "Which Adonis products contain it: glycine is an added ingredient in the sermorelin + glycine tablet taken by mouth, and in some compounded semaglutide and tirzepatide injections. Adonis does not carry glycine on its own."
-      },
-      {
-        "t": "p",
         "text": "In rats, glycine taken by mouth increased non-REM sleep and lowered core body temperature. The study traced this to NMDA receptors in the brain’s body-clock center (the suprachiasmatic nucleus). This has not been shown in people.",
         "src": [
           {
@@ -78,7 +74,7 @@
       },
       {
         "t": "callout",
-        "text": "There is little research on glycine for sleep, and none on glycine added to a sermorelin tablet or to a GLP-1 injection."
+        "text": "There is little research on glycine for sleep."
       }
     ],
     "research": [
@@ -192,10 +188,6 @@
             ]
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "The Adonis products that contain glycine are compounded and not FDA approved. Glycine’s role in them is not studied for sleep."
       }
     ],
     "world": {
@@ -352,8 +344,7 @@
   "unconfirmed": [
     "Two earlier Japanese glycine sleep studies (Inagawa 2006 and Yamadera 2007, Sleep and Biological Rhythms) are not in PubMed and the journal pages could not be opened, so they are not reported.",
     "A 2006 high-dose glycine safety study in volunteers (Seikatsu Eisei) could not be opened.",
-    "Glycine's status in Canada, the UK, the EU and Australia was not checked.",
-    "How much glycine the Adonis sermorelin tablet or GLP-1 injections contain is not on file."
+    "Glycine's status in Canada, the UK, the EU and Australia was not checked."
   ],
   "surprises": [
     "Glycine is often called GRAS, but FDA's rule (21 CFR 170.50) says FDA no longer regards glycine as GRAS for human food; it is allowed only under specific food-additive rules.",

@@ -130,10 +130,6 @@
       {
         "t": "callout",
         "text": "None of these mechanisms has been confirmed in people."
-      },
-      {
-        "t": "p",
-        "text": "Adonis does not carry epitalon today."
       }
     ],
     "research": [
@@ -511,8 +507,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

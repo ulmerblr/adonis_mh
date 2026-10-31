@@ -135,10 +135,6 @@
       {
         "t": "callout",
         "text": "None of these mechanisms has been measured in people."
-      },
-      {
-        "t": "p",
-        "text": "Adonis Clinical does not carry TB-500 today."
       }
     ],
     "research": [
@@ -290,7 +286,7 @@
             "v": "wound closure and collagen under the microscope"
           }
         ],
-        "found": "Both the fragment and the full protein increased wound closure and collagen compared with the blank solution. FDA notes there was no dose-response testing and the result may not carry over to TB-500.",
+        "found": "Both the fragment and the full protein increased wound closure and collagen compared with the blank solution. FDA notes there was no dose-response testing and the result may not apply to TB-500.",
         "src": [
           {
             "url": "https://pubmed.ncbi.nlm.nih.gov/12581423/",
@@ -541,8 +537,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -719,7 +722,7 @@
         {
           "t": "card",
           "title": "Sport",
-          "text": "TB-500 is prohibited at all times under class S2.3 (growth factors and growth factor modulators) of the 2026 Prohibited List, which names “thymosin-β4 and its derivatives, e.g. TB-500.” Class S2 substances are not “specified substances.” WADA’s own copy of the list could not be opened for this page; the text was read in the Finnish anti-doping agency’s published version, which states that WADA’s English version is the official one. The 2027 list was not checked.",
+          "text": "TB-500 is prohibited at all times under class S2.3 (growth factors and growth factor modulators) of the 2026 Prohibited List, which names “thymosin-β4 and its derivatives, e.g. TB-500.” Class S2 substances are not “specified substances.” WADA’s own copy of the list could not be opened; the text was read in the Finnish anti-doping agency’s published version, which states that WADA’s English version is the official one. The 2027 list was not checked.",
           "src": [
             {
               "url": "https://kamu.suek.fi/en/dopingsubstances/",
@@ -773,7 +776,7 @@
           },
           {
             "lead": "Immune reactions:",
-            "text": "FDA says injected peptides like TB-500 may carry a significant risk of immune reactions, made worse by clumping (aggregation) and impurities. Reactions can range from harmless antibodies to life-threatening ones.",
+            "text": "FDA says injected peptides like TB-500 may pose a significant risk of immune reactions, made worse by clumping (aggregation) and impurities. Reactions can range from harmless antibodies to life-threatening ones.",
             "src": [
               {
                 "url": "https://www.fda.gov/media/193349/download",

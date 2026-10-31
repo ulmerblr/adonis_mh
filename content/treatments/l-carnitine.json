@@ -47,7 +47,7 @@
     "what": [
       {
         "t": "p",
-        "text": "L-carnitine (levocarnitine) is a natural substance that carries long-chain fatty acids into mitochondria, where they are burned for energy. FDA’s Carnitor label describes it as required in mammalian energy metabolism.",
+        "text": "L-carnitine (levocarnitine) is a natural substance that moves long-chain fatty acids into mitochondria, where they are burned for energy. FDA’s Carnitor label describes it as required in mammalian energy metabolism.",
         "src": [
           {
             "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
@@ -55,10 +55,6 @@
             "date": "published Nov 2023"
           }
         ]
-      },
-      {
-        "t": "p",
-        "text": "What Adonis carries through Beluga: Lipo-Mino with L-Carnitine, a compounded amino acid and L-carnitine blend given by injection."
       }
     ],
     "research": [
@@ -165,7 +161,7 @@
       },
       {
         "t": "p",
-        "text": "We found no published study of the Lipo-Mino with L-Carnitine blend or similar compounded amino acid and L-carnitine injections."
+        "text": "We found no published study of compounded amino acid and L-carnitine injection blends."
       }
     ],
     "us": [
@@ -239,8 +235,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes Lipo-Mino with L-Carnitine."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. That includes compounded amino acid and L-carnitine injection blends.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "p",
@@ -255,7 +258,7 @@
       }
     ],
     "world": {
-      "lead": "Levocarnitine is an approved medicine for carnitine deficiency in the US (Carnitor) and in Canada (Carnitor). EMA’s central list has no levocarnitine product. The UK, national EU status and Australia are still being confirmed.",
+      "lead": "Levocarnitine is an approved medicine for carnitine deficiency in the US (Carnitor) and in Canada (Carnitor). EMA’s central list has no levocarnitine product. The UK, national EU status and Australia were not confirmed.",
       "countries": [
         {
           "country": "United States",

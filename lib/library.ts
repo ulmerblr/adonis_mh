@@ -1,12 +1,7 @@
 /**
  * The library's lanes and treatments.
  *
- * Lanes match Adonis Clinical's, in Bill's order. Treatments are listed by active ingredient, one row per ingredient, read
- * from the Adonis Clinical catalog (ulmerblr/adonis content/cart/products.json: its groups and each product's name and
- * detail; content/cart/lanes.json for Longevity also carrying sermorelin). Combination products are split into their
- * ingredients. No brand names (one exception, as asked: "Sertraline (Zoloft)"), no prices. Clinical's TRT and Hair loss groups sit in its Vitality lane and Skin in Longevity;
- * here each is its own lane. Recovery has no products at Clinical (ordering on hold); it holds BPC-157 and two more of the
- * HHS peptides. Prompt 15 added ten rows from the Beluga catalog and the HHS peptide list, each after its lane's existing rows.
+ * Lanes match Adonis Clinical's, in Bill's order. Treatments are listed by active ingredient, one row per ingredient. No prices. Each lane is its own section here; Recovery holds BPC-157 and two more of the HHS peptides.
  *
  * A treatment shows a status only once its page exists with a dated, sourced record (`page`).
  */

@@ -68,10 +68,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis does not carry latanoprost on its own. It is one ingredient in a compounded hair spray from the Beluga catalog that also contains minoxidil, finasteride and ketoconazole, sprayed on the scalp."
-      },
-      {
         "t": "callout",
         "text": "Using latanoprost for hair loss is off-label."
       }
@@ -79,7 +75,7 @@
     "research": [
       {
         "t": "lead",
-        "text": "Two small pilot trials have tested latanoprost on scalp hair. A larger trial of a different combination product is under way, with no results yet. None has tested the spray Adonis carries."
+        "text": "Two small pilot trials have tested latanoprost on scalp hair. A larger trial of a different combination product is under way, with no results yet. None has tested a compounded combination spray."
       },
       {
         "t": "h3",
@@ -181,7 +177,7 @@
             "v": "Hair count and safety"
           }
         ],
-        "found": "Recruiting. No results have been posted. The sponsor is a company, Triple Hair Inc. TH07 is a different product from the Beluga spray Adonis carries.",
+        "found": "Recruiting. No results have been posted. The sponsor is a company, Triple Hair Inc.",
         "src": [
           {
             "url": "https://clinicaltrials.gov/study/NCT07435012",
@@ -196,6 +192,17 @@
       {
         "t": "lead",
         "text": "FDA approved Xalatan (latanoprost 0.005% eye drops) in 1996. It is not approved for hair loss."
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       },
       {
         "t": "p",
@@ -215,7 +222,7 @@
       },
       {
         "t": "p",
-        "text": "The hair spray Adonis carries through Beluga is a compounded product. Compounded drugs are not FDA approved, and this mix has not been reviewed by FDA for safety or effect."
+        "text": "Latanoprost is FDA approved only as eye drops. Compounded hair sprays that contain it are not FDA approved."
       },
       {
         "t": "callout",

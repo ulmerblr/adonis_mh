@@ -2,118 +2,599 @@
   "slug": "vardenafil",
   "name": "Vardenafil",
   "peptide": false,
-  "lanes": ["vitality"],
-  "index": { "evidence": "Approved; many RCTs", "fda": "Approved (Levitra)", "sport": "Not listed" },
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Approved; many RCTs",
+    "fda": "Approved (Levitra)",
+    "sport": "Not listed"
+  },
   "track": [
-    { "title": "Lab & animal", "line": "Not reviewed for this page", "status": "done" },
-    { "title": "Pilot in people", "line": "Not reviewed for this page", "status": "done" },
-    { "title": "Phase I", "line": "QT study in 59 healthy men (label)", "status": "done" },
-    { "title": "Phase II", "line": "Not reviewed for this page", "status": "done" },
-    { "title": "Phase III", "line": "Placebo-controlled trials, 2,203 men on drug", "status": "done" },
-    { "title": "FDA approval", "line": "Levitra 2003; Staxyn 2010 (both discontinued)", "status": "done", "here": true }
+    {
+      "title": "Lab & animal",
+      "line": "Not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "QT study in 59 healthy men (label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Placebo-controlled trials, 2,203 men on drug",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Levitra 2003; Staxyn 2010 (both discontinued)",
+      "status": "done",
+      "here": true
+    }
   ],
   "sections": {
     "what": [
-      { "t": "p", "text": "Vardenafil is a small-molecule drug called a PDE5 inhibitor. It was first sold in the US as Levitra, a film-coated tablet, and Staxyn, a tablet that dissolves in the mouth. Both were approved for erectile dysfunction (ED). Both brands are now discontinued in the US; generic vardenafil tablets are approved.", "src": [
-        { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400", "label": "Drugs@FDA, NDA 021400", "date": "accessed Oct 31, 2026" },
-        { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=200179", "label": "Drugs@FDA, NDA 200179", "date": "accessed Oct 31, 2026" },
-        { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=091347", "label": "Drugs@FDA, ANDA 091347", "date": "accessed Oct 31, 2026" } ] },
-      { "t": "h3", "text": "How it acts, according to the FDA label" },
-      { "t": "list", "items": [
-        { "text": "During sexual stimulation, nitric oxide raises cGMP in the smooth muscle of the penis. cGMP relaxes the muscle and lets more blood flow in.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 12.1", "date": "published Mar 2023" } ] },
-        { "text": "PDE5 is the most abundant enzyme that breaks cGMP down in penile tissue. Vardenafil blocks it. Sexual stimulation is needed for it to work.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 12.1", "date": "published Mar 2023" } ] },
-        { "text": "Vardenafil and its main breakdown product have a half-life of about 4 to 5 hours.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 12.3", "date": "published Mar 2023" } ] }
-      ] },
-      { "t": "h3", "text": "What Adonis carries (form only)" },
-      { "t": "list", "items": [
-        { "lead": "Vardenafil tablet (20 mg):", "text": "taken by mouth. This is the only vardenafil product in the catalog. The catalog does not say whether it is an FDA-approved generic or a compounded tablet." }
-      ] },
-      { "t": "callout", "text": "Any compounded vardenafil is not FDA approved." }
+      {
+        "t": "p",
+        "text": "Vardenafil is a small-molecule drug called a PDE5 inhibitor. It was first sold in the US as Levitra, a film-coated tablet, and Staxyn, a tablet that dissolves in the mouth. Both were approved for erectile dysfunction (ED). Both brands are now discontinued in the US; generic vardenafil tablets are approved.",
+        "src": [
+          {
+            "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400",
+            "label": "Drugs@FDA, NDA 021400",
+            "date": "accessed Oct 31, 2026"
+          },
+          {
+            "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=200179",
+            "label": "Drugs@FDA, NDA 200179",
+            "date": "accessed Oct 31, 2026"
+          },
+          {
+            "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=091347",
+            "label": "Drugs@FDA, ANDA 091347",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "During sexual stimulation, nitric oxide raises cGMP in the smooth muscle of the penis. cGMP relaxes the muscle and lets more blood flow in.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 12.1",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "text": "PDE5 is the most abundant enzyme that breaks cGMP down in penile tissue. Vardenafil blocks it. Sexual stimulation is needed for it to work.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 12.1",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "text": "Vardenafil and its main breakdown product have a half-life of about 4 to 5 hours.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 12.3",
+                "date": "published Mar 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Any compounded vardenafil is not FDA approved."
+      }
     ],
     "research": [
-      { "t": "lead", "text": "Vardenafil has a large body of randomized trials. The Levitra label says film-coated and dissolving vardenafil tablets were given to more than 17,000 men in controlled and uncontrolled trials. Two published trials are listed below as they were run." },
-      { "t": "p", "text": "In the label's placebo-controlled trials, 2,203 men took vardenafil and 1,199 took placebo. The largest North American fixed-dose trial evaluated 762 men, mean age 57.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, sections 6.1 and 14.1", "date": "published Mar 2023" } ] },
-      { "t": "h3", "text": "Human studies" },
-      { "t": "study", "meta": "2001 · Randomized, double-blind trial", "title": "Erectile dysfunction, first at-home trial (IJIR 2001)", "facts": [
-        { "k": "Citation", "v": "Porst H, Rosen R, Padma-Nathan H, et al. Int J Impot Res 2001;13(4):192-9" },
-        { "k": "Design", "v": "multicenter, randomized, double-blind, placebo-controlled" },
-        { "k": "People", "v": "601 men with mild to severe ED; 580 in the main analysis" },
-        { "k": "What was given", "v": "vardenafil 5, 10 or 20 mg or placebo" },
-        { "k": "Length", "v": "12 weeks" },
-        { "k": "Measured", "v": "IIEF questions 3 (penetration) and 4 (keeping an erection); all IIEF domains; a global question" } ],
+      {
+        "t": "lead",
+        "text": "Vardenafil has a large body of randomized trials. The Levitra label says film-coated and dissolving vardenafil tablets were given to more than 17,000 men in controlled and uncontrolled trials. Two published trials are listed below as they were run."
+      },
+      {
+        "t": "p",
+        "text": "In the label's placebo-controlled trials, 2,203 men took vardenafil and 1,199 took placebo. The largest North American fixed-dose trial evaluated 762 men, mean age 57.",
+        "src": [
+          {
+            "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+            "label": "Levitra label, sections 6.1 and 14.1",
+            "date": "published Mar 2023"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "2001 · Randomized, double-blind trial",
+        "title": "Erectile dysfunction, first at-home trial (IJIR 2001)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Porst H, Rosen R, Padma-Nathan H, et al. Int J Impot Res 2001;13(4):192-9"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "601 men with mild to severe ED; 580 in the main analysis"
+          },
+          {
+            "k": "What was given",
+            "v": "vardenafil 5, 10 or 20 mg or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "IIEF questions 3 (penetration) and 4 (keeping an erection); all IIEF domains; a global question"
+          }
+        ],
         "found": "Scores on both questions rose more on all three doses than on placebo (P<0.001). 71% to 75% of intercourse attempts were successful across doses. On 20 mg, 80% reported improved erections vs 30% on placebo. Headache (7% to 15%), flushing (10% to 11%), and indigestion or stuffy nose (up to 7%) were most frequent.",
-        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/11494074/", "label": "Porst et al., Int J Impot Res, PubMed", "date": "published Aug 2001" } ] },
-      { "t": "study", "meta": "2003 · Phase III randomized, double-blind trial", "title": "Erectile dysfunction in men with diabetes (Diabetes Care 2003)", "facts": [
-        { "k": "Citation", "v": "Goldstein I, Young JM, Fischer J, et al. Diabetes Care 2003;26(3):777-83" },
-        { "k": "Design", "v": "multicenter, randomized, double-blind, placebo-controlled, fixed-dose, parallel-group Phase III" },
-        { "k": "People", "v": "452 men with type 1 or type 2 diabetes and ED" },
-        { "k": "What was given", "v": "vardenafil 10 or 20 mg or placebo, as needed" },
-        { "k": "Length", "v": "12 weeks" },
-        { "k": "Measured", "v": "IIEF domain scores, rates of penetration and successful intercourse, a global question" } ],
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11494074/",
+            "label": "Porst et al., Int J Impot Res, PubMed",
+            "date": "published Aug 2001"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2003 · Phase III randomized, double-blind trial",
+        "title": "Erectile dysfunction in men with diabetes (Diabetes Care 2003)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Goldstein I, Young JM, Fischer J, et al. Diabetes Care 2003;26(3):777-83"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled, fixed-dose, parallel-group Phase III"
+          },
+          {
+            "k": "People",
+            "v": "452 men with type 1 or type 2 diabetes and ED"
+          },
+          {
+            "k": "What was given",
+            "v": "vardenafil 10 or 20 mg or placebo, as needed"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "IIEF domain scores, rates of penetration and successful intercourse, a global question"
+          }
+        ],
         "found": "57% (10 mg) and 72% (20 mg) reported improved erections vs 13% on placebo (P<0.0001). Final IIEF erectile function scores were 17.1 and 19.0 vs 12.6 on placebo. Side effects were mainly mild to moderate headache (up to 13%), flushing (up to 10%) and stuffy nose (up to 10%).",
-        "src": [ { "url": "https://pubmed.ncbi.nlm.nih.gov/12610037/", "label": "Goldstein et al., Diabetes Care, PubMed", "date": "published Mar 2003" } ] }
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12610037/",
+            "label": "Goldstein et al., Diabetes Care, PubMed",
+            "date": "published Mar 2003"
+          }
+        ]
+      }
     ],
     "us": [
-      { "t": "lead", "text": "Vardenafil is FDA approved, by prescription, for erectile dysfunction. The Levitra (2003) and Staxyn (2010) brands are discontinued, and FDA found they were not withdrawn for safety or effectiveness reasons. Generic vardenafil tablets are approved. As of October 31, 2026." },
-      { "t": "list", "items": [
-        { "lead": "Levitra:", "text": "film-coated tablets approved August 19, 2003 (NDA 021400) for erectile dysfunction. All strengths are now listed as discontinued, with a Federal Register determination that they were not discontinued for safety or effectiveness reasons.", "src": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400", "label": "Drugs@FDA, NDA 021400", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, FDA", "date": "published Mar 2023" } ] },
-        { "lead": "Staxyn:", "text": "an orally disintegrating tablet approved June 17, 2010 (NDA 200179) for erectile dysfunction, now discontinued with the same determination. Its label says it is not interchangeable with Levitra because it gives higher levels of the drug in the body.", "src": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=200179", "label": "Drugs@FDA, NDA 200179", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/200179s007lbl.pdf", "label": "Staxyn label, FDA", "date": "published Apr 2023" } ] },
-        { "lead": "Generics:", "text": "for example, Teva's generic vardenafil tablets were approved May 3, 2012 (ANDA 091347) and are listed as prescription products.", "src": [ { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=091347", "label": "Drugs@FDA, ANDA 091347", "date": "accessed Oct 31, 2026" } ] },
-        { "lead": "Do not combine (contraindications):", "text": "the label says vardenafil must not be used with nitrates or nitric oxide donors in any form, or with guanylate cyclase stimulators such as riociguat.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 4", "date": "published Mar 2023" } ] },
-        { "lead": "Combining with other ED drugs:", "text": "the Levitra label says combinations with other ED treatments have not been studied and are not recommended.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 5.10", "date": "published Mar 2023" } ] }
-      ] },
-      { "t": "callout", "text": "Compounded drugs are not FDA approved. If the vardenafil tablet Adonis carries is compounded, it is not an FDA-approved product." },
-      { "t": "p", "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.", "src": [ { "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers", "label": "FDA, Compounding and the FDA: Questions and Answers", "date": "published Sep 2025" } ] }
+      {
+        "t": "lead",
+        "text": "Vardenafil is FDA approved, by prescription, for erectile dysfunction. The Levitra (2003) and Staxyn (2010) brands are discontinued, and FDA found they were not withdrawn for safety or effectiveness reasons. Generic vardenafil tablets are approved. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Levitra:",
+            "text": "film-coated tablets approved August 19, 2003 (NDA 021400) for erectile dysfunction. All strengths are now listed as discontinued, with a Federal Register determination that they were not discontinued for safety or effectiveness reasons.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400",
+                "label": "Drugs@FDA, NDA 021400",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, FDA",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Staxyn:",
+            "text": "an orally disintegrating tablet approved June 17, 2010 (NDA 200179) for erectile dysfunction, now discontinued with the same determination. Its label says it is not interchangeable with Levitra because it gives higher levels of the drug in the body.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=200179",
+                "label": "Drugs@FDA, NDA 200179",
+                "date": "accessed Oct 31, 2026"
+              },
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/200179s007lbl.pdf",
+                "label": "Staxyn label, FDA",
+                "date": "published Apr 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Generics:",
+            "text": "for example, Teva's generic vardenafil tablets were approved May 3, 2012 (ANDA 091347) and are listed as prescription products.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=091347",
+                "label": "Drugs@FDA, ANDA 091347",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Do not combine (contraindications):",
+            "text": "the label says vardenafil must not be used with nitrates or nitric oxide donors in any form, or with guanylate cyclase stimulators such as riociguat.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 4",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Combining with other ED drugs:",
+            "text": "the Levitra label says combinations with other ED treatments have not been studied and are not recommended.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 5.10",
+                "date": "published Mar 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. A compounded vardenafil product is not an FDA-approved product.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Questions and Answers",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
     ],
     "world": {
-      "lead": "Vardenafil is an approved prescription medicine in the US (now as generics) and in the EU (Levitra). Its status in the UK, Canada and Australia is still being confirmed with each regulator's own product record. It is not on WADA's Prohibited List.",
+      "lead": "Vardenafil is an approved prescription medicine in the US (now as generics) and in the EU (Levitra). Its status in the UK, Canada and Australia was not confirmed with each regulator's own product record. It is not on WADA's Prohibited List.",
       "countries": [
-        { "country": "United States", "regulator": "FDA", "status": "Approved medicine (Levitra 2003, ED; Staxyn 2010, ED; both brands discontinued). Generic tablets approved. Prescription-only.", "checked": "Oct 31, 2026", "sources": [
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400", "label": "Drugs@FDA, NDA 021400", "date": "accessed Oct 31, 2026" },
-          { "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=091347", "label": "Drugs@FDA, ANDA 091347", "date": "accessed Oct 31, 2026" } ], "iso": ["840"], "tone": "approved" },
-        { "country": "Canada", "regulator": "Health Canada", "status": "Status being confirmed with the regulator's record.", "checked": "—", "iso": ["124"], "tone": "pending" },
-        { "country": "United Kingdom", "regulator": "MHRA", "status": "Status being confirmed with the regulator's record.", "checked": "—", "iso": ["826"], "tone": "pending" },
-        { "country": "European Union", "regulator": "EMA", "status": "Approved medicine. Levitra authorised March 6, 2003 for ED in adult men. Prescription-only.", "checked": "Oct 31, 2026", "sources": [
-          { "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levitra", "label": "EMA, Levitra EPAR", "date": "published Jan 2025" } ], "iso": ["040", "056", "100", "191", "196", "203", "208", "233", "246", "250", "276", "300", "348", "372", "380", "428", "440", "442", "470", "528", "616", "620", "642", "703", "705", "724", "752"], "tone": "approved" },
-        { "country": "Australia", "regulator": "TGA", "status": "Status being confirmed with the regulator's record.", "checked": "—", "iso": ["036"], "tone": "pending" }
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Levitra 2003, ED; Staxyn 2010, ED; both brands discontinued). Generic tablets approved. Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021400",
+              "label": "Drugs@FDA, NDA 021400",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=091347",
+              "label": "Drugs@FDA, ANDA 091347",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine. Levitra authorised March 6, 2003 for ED in adult men. Prescription-only.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levitra",
+              "label": "EMA, Levitra EPAR",
+              "date": "published Jan 2025"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
       ],
       "after": [
-        { "t": "p", "text": "Australia: vardenafil is listed in Schedule 4 (prescription-only) of the October 2026 Poisons Standard. TGA's product information search returned no vardenafil documents when checked.", "src": [
-          { "url": "https://www.legislation.gov.au/F2026L01327/asmade/text", "label": "Poisons Standard, October 2026", "date": "published Sep 2026" },
-          { "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=vardenafil", "label": "TGA, PI/CMI search: vardenafil", "date": "accessed Oct 31, 2026" } ] },
-        { "t": "p", "text": "Canada: a 2018 Health Canada advisory on seized sexual-enhancement products described vardenafil as a prescription drug for ED, to be used only under a health care professional's supervision and never with nitrate drugs.", "src": [ { "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-products-may-pose-serious-health-risks-november-17-2017-may-23-2018", "label": "Health Canada advisory, unauthorized products", "date": "published May 2018" } ] },
-        { "t": "p", "text": "United Kingdom: MHRA reported in February 2026 that illegally sold ED pills it seized contained sildenafil, tadalafil, vardenafil and avanafil.", "src": [ { "url": "https://www.gov.uk/government/news/20-million-illegal-erectile-dysfunction-pills-seized-as-mhra-warns-against-risky-online-buys", "label": "MHRA, ED pill seizures", "date": "published Feb 2026" } ] },
-        { "t": "card", "title": "Sport", "text": "Vardenafil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no government approval for human use, and vardenafil is approved (see above).", "src": [
-          { "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf", "label": "WADA 2026 Prohibited List", "date": "published Sep 2025" },
-          { "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf", "label": "WADA 2027 Prohibited List (redline)", "date": "published Sep 2026" },
-          { "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf", "label": "WADA 2027 Monitoring Program", "date": "published Sep 2026" } ] }
+        {
+          "t": "p",
+          "text": "Australia: vardenafil is listed in Schedule 4 (prescription-only) of the October 2026 Poisons Standard. TGA's product information search returned no vardenafil documents when checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=vardenafil",
+              "label": "TGA, PI/CMI search: vardenafil",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Canada: a 2018 Health Canada advisory on seized sexual-enhancement products described vardenafil as a prescription drug for ED, to be used only under a health care professional's supervision and never with nitrate drugs.",
+          "src": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-products-may-pose-serious-health-risks-november-17-2017-may-23-2018",
+              "label": "Health Canada advisory, unauthorized products",
+              "date": "published May 2018"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "United Kingdom: MHRA reported in February 2026 that illegally sold ED pills it seized contained sildenafil, tadalafil, vardenafil and avanafil.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/government/news/20-million-illegal-erectile-dysfunction-pills-seized-as-mhra-warns-against-risky-online-buys",
+              "label": "MHRA, ED pill seizures",
+              "date": "published Feb 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Vardenafil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no government approval for human use, and vardenafil is approved (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (redline)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
       ]
     },
     "side": [
-      { "t": "lead", "text": "The label lists headache, flushing and stuffy nose as the most common side effects. Serious risks include a dangerous drop in blood pressure with nitrates, erections lasting more than 4 hours, sudden vision loss, sudden hearing loss and changes in heart rhythm (QT prolongation)." },
-      { "t": "list", "items": [
-        { "lead": "Common, in placebo-controlled trials:", "text": "headache (15% on vardenafil vs 4% on placebo), flushing (11% vs 1%), stuffy or runny nose (9% vs 3%), indigestion (4% vs 1%), sinusitis and flu-like symptoms (3% each), dizziness, raised creatine kinase and nausea (2% each). Some rose with dose.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 6.1", "date": "published Mar 2023" } ] },
-        { "lead": "Nitrates and riociguat:", "text": "contraindicated.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 4", "date": "published Mar 2023" } ] },
-        { "lead": "Heart:", "text": "men should not use it if sex is inadvisable because of their heart condition.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 5.1", "date": "published Mar 2023" } ] },
-        { "lead": "Heart rhythm (QT):", "text": "in a study of 59 healthy men, vardenafil raised the QTc interval about as much as the antibiotic moxifloxacin. Men with congenital QT prolongation or taking Class IA or III antiarrhythmic drugs should avoid it.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 5.7", "date": "published Mar 2023" } ] },
-        { "lead": "Prolonged erection and priapism:", "text": "an erection lasting more than 4 hours needs immediate medical help.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 5.3", "date": "published Mar 2023" } ] },
-        { "lead": "Sudden vision loss:", "text": "can be a sign of NAION, a type of optic nerve damage. The label tells patients to stop and seek care.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 5.4", "date": "published Mar 2023" } ] },
-        { "lead": "Sudden hearing loss:", "text": "the label tells patients to stop and seek care if hearing suddenly drops or is lost.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, section 5.5", "date": "published Mar 2023" } ] },
-        { "lead": "Low blood pressure with other drugs:", "text": "alpha-blockers can lower blood pressure significantly with vardenafil, sometimes causing fainting. Strong or moderate CYP3A4 inhibitors such as ritonavir or ketoconazole raise vardenafil levels.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, sections 5.2 and 5.6", "date": "published Mar 2023" } ] },
-        { "lead": "Liver and kidneys:", "text": "the label says not to use it in severe liver impairment (Child-Pugh C) or in men on kidney dialysis.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf", "label": "Levitra label, sections 5.8 and 5.9", "date": "published Mar 2023" } ] },
-        { "lead": "Dissolving tablet (Staxyn):", "text": "each tablet contained phenylalanine, which can harm people with phenylketonuria.", "src": [ { "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/200179s007lbl.pdf", "label": "Staxyn label, section 5.12", "date": "published Apr 2023" } ] }
-      ] }
+      {
+        "t": "lead",
+        "text": "The label lists headache, flushing and stuffy nose as the most common side effects. Serious risks include a dangerous drop in blood pressure with nitrates, erections lasting more than 4 hours, sudden vision loss, sudden hearing loss and changes in heart rhythm (QT prolongation)."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common, in placebo-controlled trials:",
+            "text": "headache (15% on vardenafil vs 4% on placebo), flushing (11% vs 1%), stuffy or runny nose (9% vs 3%), indigestion (4% vs 1%), sinusitis and flu-like symptoms (3% each), dizziness, raised creatine kinase and nausea (2% each). Some rose with dose.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 6.1",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Nitrates and riociguat:",
+            "text": "contraindicated.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 4",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "men should not use it if sex is inadvisable because of their heart condition.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 5.1",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Heart rhythm (QT):",
+            "text": "in a study of 59 healthy men, vardenafil raised the QTc interval about as much as the antibiotic moxifloxacin. Men with congenital QT prolongation or taking Class IA or III antiarrhythmic drugs should avoid it.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 5.7",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Prolonged erection and priapism:",
+            "text": "an erection lasting more than 4 hours needs immediate medical help.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 5.3",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Sudden vision loss:",
+            "text": "can be a sign of NAION, a type of optic nerve damage. The label tells patients to stop and seek care.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 5.4",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Sudden hearing loss:",
+            "text": "the label tells patients to stop and seek care if hearing suddenly drops or is lost.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, section 5.5",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure with other drugs:",
+            "text": "alpha-blockers can lower blood pressure significantly with vardenafil, sometimes causing fainting. Strong or moderate CYP3A4 inhibitors such as ritonavir or ketoconazole raise vardenafil levels.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, sections 5.2 and 5.6",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Liver and kidneys:",
+            "text": "the label says not to use it in severe liver impairment (Child-Pugh C) or in men on kidney dialysis.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021400s023lbl.pdf",
+                "label": "Levitra label, sections 5.8 and 5.9",
+                "date": "published Mar 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Dissolving tablet (Staxyn):",
+            "text": "each tablet contained phenylalanine, which can harm people with phenylketonuria.",
+            "src": [
+              {
+                "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/200179s007lbl.pdf",
+                "label": "Staxyn label, section 5.12",
+                "date": "published Apr 2023"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "unconfirmed": [
     "Health Canada's Drug Product Database could not be reached, so no Canadian authorization of a vardenafil product is confirmed here.",
     "MHRA's product database could not be read, so UK authorization of Levitra or generic vardenafil is not confirmed here.",
-    "TGA's ARTG (tga.gov.au) did not respond, and TGA's PI/CMI search showed no vardenafil documents, so whether any vardenafil product is registered in Australia is not confirmed.",
-    "The Adonis catalog does not say whether its vardenafil 20 mg tablet is an FDA-approved generic or a compounded tablet."
+    "TGA's ARTG (tga.gov.au) did not respond, and TGA's PI/CMI search showed no vardenafil documents, so whether any vardenafil product is registered in Australia is not confirmed."
   ],
   "surprises": [
     "Levitra is often named as a current brand, but FDA lists Levitra and Staxyn as discontinued in the US (not for safety or effectiveness reasons); vardenafil is now sold there as generics.",

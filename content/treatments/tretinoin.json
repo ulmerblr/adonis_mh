@@ -74,40 +74,12 @@
         ]
       },
       {
-        "t": "h3",
-        "text": "What Adonis carries (form only)"
-      },
-      {
-        "t": "p",
-        "text": "Adonis's catalog lists tretinoin in these products:"
-      },
-      {
-        "t": "list",
-        "items": [
-          {
-            "text": "Tretinoin creams 0.015%, 0.024% and 0.1%, and tretinoin gel 0.1% (30 mL tubes), applied to the skin"
-          },
-          {
-            "text": "Minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray (30 mL)"
-          },
-          {
-            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with biotin and melatonin (60 mL)"
-          },
-          {
-            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with finasteride 0.2% (60 mL)"
-          },
-          {
-            "text": "Estriol 0.03% / tretinoin 0.1% face cream (30 g)"
-          }
-        ]
-      },
-      {
         "t": "p",
         "text": "Using tretinoin for hair loss is off-label."
       },
       {
         "t": "callout",
-        "text": "Tretinoin is not FDA approved for hair loss, and there is little research on that use. The minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray is compounded and is not FDA approved."
+        "text": "Tretinoin is not FDA approved for hair loss, and there is little research on that use. Compounded hair sprays that combine it with other drugs are not FDA approved."
       }
     ],
     "research": [
@@ -257,7 +229,7 @@
       },
       {
         "t": "p",
-        "text": "A 2026 review of tretinoin with minoxidil for hair loss concluded that clinical data on the combination are minimal. No study has tested the three-drug compounded spray Adonis carries.",
+        "text": "A 2026 review of tretinoin with minoxidil for hair loss concluded that clinical data on the combination are minimal. No study has tested a compounded three-drug spray.",
         "src": [
           {
             "url": "https://pubmed.ncbi.nlm.nih.gov/42535115/",
@@ -345,7 +317,7 @@
           },
           {
             "lead": "Combination sprays:",
-            "text": "FDA says no topical product with finasteride, alone or with other ingredients, is FDA approved. The tretinoin hair spray Adonis carries contains finasteride.",
+            "text": "FDA says no topical product with finasteride, alone or with other ingredients, is FDA approved. That includes compounded hair sprays that combine tretinoin with finasteride.",
             "src": [
               {
                 "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
@@ -357,8 +329,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold. The tretinoin hair spray Adonis carries is compounded."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -567,8 +546,8 @@
             ]
           },
           {
-            "lead": "In the hair spray:",
-            "text": "tretinoin raised minoxidil absorption through the skin nearly threefold in 19 men, so more minoxidil may reach the blood. The spray also contains finasteride; see the finasteride and minoxidil pages for their side effects.",
+            "lead": "With minoxidil:",
+            "text": "tretinoin raised minoxidil absorption through the skin nearly threefold in 19 men, so more minoxidil may reach the blood. See the minoxidil page for its side effects.",
             "src": [
               {
                 "url": "https://pubmed.ncbi.nlm.nih.gov/2328551/",
@@ -584,7 +563,6 @@
   "unconfirmed": [
     "Australia's TGA (ARTG) could not be reached, so tretinoin's Australian status is not confirmed.",
     "The UK status comes from EMA's 2023 list of nationally authorised products; MHRA's own product records could not be read.",
-    "Whether the 0.1% tretinoin cream Adonis carries is an FDA-approved product (Retin-A 0.1% cream is FDA approved, NDA 017340) or compounded is not stated in the catalog.",
     "The length of the 2007 Korean randomized trial and the design details of the 1986 Bazzano study are not given in their abstracts; the full papers were not read."
   ],
   "surprises": [

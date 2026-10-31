@@ -77,41 +77,6 @@
             "date": "published Apr 2025"
           }
         ]
-      },
-      {
-        "t": "h3",
-        "text": "What Adonis carries (form only)"
-      },
-      {
-        "t": "p",
-        "text": "Adonis's catalog lists finasteride in these products:"
-      },
-      {
-        "t": "list",
-        "items": [
-          {
-            "text": "Finasteride 1 mg tablet, listed in the catalog as \"Propecia (Finasteride)\""
-          },
-          {
-            "text": "Finasteride 0.25% / minoxidil 5% hair spray (60 mL)"
-          },
-          {
-            "text": "Minoxidil 5% / finasteride 0.3% / tretinoin 0.015% hair spray (30 mL)"
-          },
-          {
-            "text": "Minoxidil 5% / finasteride 0.3% / latanoprost 0.03% / ketoconazole 2% hair spray (30 mL)"
-          },
-          {
-            "text": "Minoxidil 2.5 mg / finasteride 1 mg / biotin 2.5 mg oral strips, dissolved on the tongue"
-          },
-          {
-            "text": "Minoxidil 7% / tretinoin 0.025% / fluocinolone 0.025% hair spray with finasteride 0.2% (60 mL)"
-          }
-        ]
-      },
-      {
-        "t": "callout",
-        "text": "No FDA-approved product puts finasteride in a spray, a strip or a mix with other drugs. Those Adonis forms are compounded and are not FDA approved."
       }
     ],
     "research": [
@@ -252,10 +217,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "No trial has tested the compounded sprays or strips Adonis carries, which mix finasteride with other drugs."
-      },
-      {
         "t": "h3",
         "text": "Animal and lab studies"
       },
@@ -347,8 +308,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold. The finasteride sprays and strips Adonis carries are compounded."
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -401,7 +369,7 @@
         {
           "country": "United Kingdom",
           "regulator": "MHRA",
-          "status": "Approved medicine. 1 mg for male pattern hair loss, 5 mg for an enlarged prostate. Packs carry a patient card on psychiatric and sexual side effects.",
+          "status": "Approved medicine. 1 mg for male pattern hair loss, 5 mg for an enlarged prostate. Packs include a patient card on psychiatric and sexual side effects.",
           "checked": "Oct 31, 2026",
           "sources": [
             {
@@ -596,7 +564,6 @@
   "unconfirmed": [
     "Australia's TGA (ARTG) could not be reached, so finasteride's Australian status is not confirmed.",
     "The brand name, approval date and countries of the European finasteride skin spray could not be confirmed from a national register; EMA's referral page confirms only that a finasteride skin spray is used for hair loss in the EU.",
-    "Whether the 1 mg tablet Adonis lists as \"Propecia (Finasteride)\" is the Organon brand or a generic is not stated in the catalog.",
     "Health Canada's Drug Product Database API and product monograph PDFs could not be reached; Canadian status comes from Health Canada's safety review and product record pages.",
     "DEA controlled-substance status was not checked against a DEA record."
   ],

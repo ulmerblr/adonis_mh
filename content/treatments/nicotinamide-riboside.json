@@ -73,10 +73,6 @@
         ]
       },
       {
-        "t": "p",
-        "text": "Adonis Clinical carries a nicotinamide riboside injection sold under the Niagen name, compounded through Beluga. It is not an FDA-approved product."
-      },
-      {
         "t": "callout",
         "text": "Almost all human research on NR used capsules taken by mouth. Injected NR has been described in people in one small chart review."
       }
@@ -447,8 +443,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {
@@ -642,7 +645,7 @@
           },
           {
             "lead": "Injected products in general:",
-            "text": "FDA has warned that injectable drugs made from ingredients meant for food or supplements can carry endotoxins and microbes. Its warnings named NAD+ and glutathione; we found none naming NR.",
+            "text": "FDA has warned that injectable drugs made from ingredients meant for food or supplements can contain endotoxins and microbes. Its warnings named NAD+ and glutathione; we found none naming NR.",
             "src": [
               {
                 "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding",

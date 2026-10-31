@@ -124,27 +124,12 @@
             ]
           }
         ]
-      },
-      {
-        "t": "h3",
-        "text": "What Adonis carries"
-      },
-      {
-        "t": "p",
-        "text": "Adonis carries one hCG product: an injection labelled 500 IU, a 30-day supply. We could not confirm whether it is an FDA-approved product or a compounded preparation. FDA says hCG has not been eligible for the compounding exemptions since March 23, 2020.",
-        "src": [
-          {
-            "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020",
-            "label": "FDA Notice to Compounders, March 2020",
-            "date": "published Mar 2020"
-          }
-        ]
       }
     ],
     "research": [
       {
         "t": "lead",
-        "text": "hCG is approved for a few specific uses. Its use alongside testosterone to keep up testicular function or sperm production is off-label. The human studies of that use found in our search are small: a 3-week randomized study in 29 healthy men and a review of 26 patients’ records. Each is listed below as it was run."
+        "text": "hCG is approved for a few specific uses. Its use alongside testosterone to keep up testicular function or sperm production is off-label. The human studies of that use that we found are small: a 3-week randomized study in 29 healthy men and a review of 26 patients’ records. Each is listed below as it was run."
       },
       {
         "t": "h3",
@@ -369,12 +354,8 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are sold."
-      },
-      {
         "t": "p",
-        "text": "We could not confirm the source of the hCG injection Adonis carries.",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
         "src": [
           {
             "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
@@ -650,11 +631,10 @@
     ]
   },
   "unconfirmed": [
-    "We could not confirm whether the hCG injection Adonis carries is an FDA-approved product (such as Novarel or Pregnyl) or a compounded preparation.",
     "MHRA’s product register needs JavaScript and could not be read, so UK status is not confirmed.",
     "Australia’s TGA register (tga.gov.au) could not be reached, so we could not confirm which hCG products are registered there. Only the Poisons Standard scheduling is reported.",
     "We could not open WADA’s 2027 Prohibited List, so any 2027 change is not reported.",
-    "We did not find a large randomized trial of hCG given with testosterone therapy. Our search was limited to the two studies reported."
+    "We did not find a large randomized trial of hCG given with testosterone therapy. Only the two studies reported were found."
   ],
   "surprises": [
     "The FDA labels say hCG has not been shown to help with weight loss, and FDA warns consumers to avoid hCG diet products. hCG is still widely sold for weight loss.",

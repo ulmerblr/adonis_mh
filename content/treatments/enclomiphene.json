@@ -89,19 +89,6 @@
         ]
       },
       {
-        "t": "h3",
-        "text": "What Adonis carries (form only)"
-      },
-      {
-        "t": "list",
-        "items": [
-          {
-            "lead": "Capsules:",
-            "text": "compounded enclomiphene capsules, 12.5 mg and 25 mg, taken by mouth. They are not FDA approved; no enclomiphene product is."
-          }
-        ]
-      },
-      {
         "t": "callout",
         "text": "Enclomiphene is not approved as a medicine by the FDA or in the EU. Its use for low testosterone is not an approved use anywhere checked."
       }
@@ -454,7 +441,7 @@
           },
           {
             "lead": "Complete response letter:",
-            "text": "FDA's 2022 briefing records that in December 2015 Repros announced a complete response letter from FDA. FDA had found the Phase III design no longer adequate to show clinical benefit, recommended one or more additional Phase III studies, and noted concerns about study entry criteria, titration and lab method validation.",
+            "text": "FDA's 2022 briefing records that in December 2015 Repros announced a complete response letter from FDA. FDA had found the Phase III design no longer adequate to show clinical benefit, recommended one or more additional Phase III studies, and noted concerns about study entry criteria, dose adjustment and lab method validation.",
             "src": [
               {
                 "url": "https://www.fda.gov/media/158541/download",
@@ -514,8 +501,15 @@
         ]
       },
       {
-        "t": "callout",
-        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold."
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
       }
     ],
     "world": {

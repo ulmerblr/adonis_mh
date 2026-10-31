@@ -109,7 +109,7 @@ export function fromSpec(spec: Spec): TreatmentData {
         title: 'Talk to a clinician',
         body: (
           <>
-            <p className="bodyLead">Questions about whether {spec.name} fits your situation? Talk to a licensed clinician at <A href={CLINIC}>Adonis Clinical</A>.</p>
+            <p className="bodyLead">Questions about {spec.name} and your own health belong with a licensed clinician. This site reports published research and regulator records; it does not offer, sell or prescribe any treatment.</p>
             <a href={CLINIC} className="btn btnLeather btnHuge" data-cta="clinician">Talk to a licensed clinician at Adonis Clinical</a>
           </>
         ),
