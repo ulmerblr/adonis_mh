@@ -4,3 +4,5 @@ out
 .vercel
 next-env.d.ts
 *.tsbuildinfo
+__pycache__/
+*.pyc
