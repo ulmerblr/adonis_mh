@@ -4,7 +4,7 @@ import { Label } from '@/components/ext';
 import { TreatmentFinder } from '@/components/finder';
 import { LeadArticle } from '@/components/lead-article';
 import { MagazineSection } from '@/components/magazine/magazine-section';
-import { StandardsBand } from '@/components/magazine/standards-band';
+import { StandardsCard } from '@/components/magazine/standards';
 import { peptidesArticle, placeholderArticle } from '@/content/articles/peptides';
 import { LANES, TREATMENTS, countWords, laneOf, type LaneKey } from '@/lib/library';
 
@@ -37,7 +37,7 @@ export default async function LanePage({ params }: { params: Promise<{ lane: str
   const cards = [0, 1, 2].map((i) => CARDS[key]?.[i] ?? null);
   return (
     <>
-      {/* The Magazine Section: lane band, lead article, summary cards, How we report. */}
+      {/* The Magazine Section: lane band, lead article, summary cards and the How we report card. */}
       <MagazineSection>
         <section className="laneCover">
           <div className="wrap">
@@ -51,7 +51,7 @@ export default async function LanePage({ params }: { params: Promise<{ lane: str
 
         <section className="section" style={{ paddingTop: 0 }}>
           <div className="wrap">
-            <ul className="summaryCards">
+            <ul className="summaryCards summaryCards4">
               {cards.map((c, i) => (
                 <li key={i} className="summaryCard">
                   <div className="cardPhoto">[ Photo ]</div>
@@ -69,11 +69,11 @@ export default async function LanePage({ params }: { params: Promise<{ lane: str
                   </div>
                 </li>
               ))}
+              <StandardsCard as="li" />
             </ul>
           </div>
         </section>
 
-        <StandardsBand />
       </MagazineSection>
 
       {/* The treatments section */}

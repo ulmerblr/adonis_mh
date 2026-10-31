@@ -55,7 +55,7 @@ export function Footer() {
               <p className="footHead">{c.head}</p>
               <ul>
                 {c.links.map((l) => (
-                  <li key={l.label}>{l.href.startsWith('http') ? <a href={l.href}>{l.label}</a> : <Link href={l.href}>{l.label}</Link>}</li>
+                  <li key={l.label}>{l.href.startsWith('http') || l.href.includes('#') ? <a href={l.href}>{l.label}</a> : <Link href={l.href}>{l.label}</Link>}</li>
                 ))}
               </ul>
             </div>

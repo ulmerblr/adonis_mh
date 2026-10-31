@@ -3,8 +3,8 @@ import { A } from '@/components/ext';
 import { TreatmentFinder } from '@/components/finder';
 import { LeadArticle } from '@/components/lead-article';
 import { MagazineSection } from '@/components/magazine/magazine-section';
-import { StandardsBand } from '@/components/magazine/standards-band';
-import { AJMC, FED_REG, UpdatesBlock, WADA_2027 } from '@/components/magazine/updates-block';
+import { StandardsCard } from '@/components/magazine/standards';
+import { AJMC, FED_REG, UpdatesCard, WADA_2027 } from '@/components/magazine/updates';
 import { FDA_BRIEFING, peptidesArticle } from '@/content/articles/peptides';
 import { LANES, TREATMENTS, countWords } from '@/lib/library';
 
@@ -18,8 +18,13 @@ export default function Home() {
     <>
       {/* The Magazine Section: everything between the header and the treatments section. */}
       <MagazineSection>
-        {/* Magazine Section, 1: lead article and its sidebar */}
-        <LeadArticle a={peptidesArticle} sidebarExtra={
+        {/* Magazine Section: lead article (with the Updates and How we report cards under it) and its sidebar */}
+        <LeadArticle a={peptidesArticle} articleExtra={
+          <div className="briefCards">
+            <UpdatesCard />
+            <StandardsCard />
+          </div>
+        } sidebarExtra={
               <div className="agencyBox inside">
                 <p className="insideHead">Inside</p>
                 <ul>
@@ -35,11 +40,6 @@ export default function Home() {
               </div>
         } />
 
-        {/* Magazine Section, 2: Updates */}
-        <UpdatesBlock />
-
-        {/* Magazine Section, 3: How we report */}
-        <StandardsBand />
       </MagazineSection>
 
       {/* The treatments section */}

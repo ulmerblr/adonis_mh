@@ -478,3 +478,27 @@ span.tone-none { background: #d9d0bd; }
   .laneBar li { flex: 1 1 0; }
   .laneBar a { justify-content: center; }
 }
+
+/* PROMPT 9: Updates and How we report as compact cards in the Magazine Section, with pop-ups */
+.briefCards { display: grid; gap: 16px; margin-top: 22px; }
+@media (min-width: 640px) { .briefCards { grid-template-columns: 1fr 1fr; } }
+.briefCard { background: var(--white); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 16px 18px; display: flex; flex-direction: column; gap: 8px; }
+.briefLines { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-size: 16px; line-height: 1.35; }
+.briefLines li { padding-top: 6px; border-top: 1px solid var(--rule); }
+.briefLines li:first-child { border-top: 0; padding-top: 0; }
+.briefDate { font-size: 13px; font-weight: 800; letter-spacing: 0.5px; color: var(--soft); }
+.briefHead { font-family: var(--slab); font-weight: 700; font-size: 21px; line-height: 1.2; margin: 0; }
+.briefList { margin: 0; font-size: 15px; color: var(--soft); font-weight: 600; }
+.popupBtn { margin-top: auto; align-self: flex-start; min-height: 44px; padding: 8px 16px; font-size: 15px; cursor: pointer; }
+.summaryCards4 .briefCard { height: 100%; }
+@media (min-width: 760px) { .summaryCards4 { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1100px) { .summaryCards4 { grid-template-columns: repeat(4, 1fr); } }
+.popup { padding: 0; border: 0; background: var(--paper); color: var(--ink); width: min(640px, calc(100vw - 32px)); max-height: calc(100dvh - 48px); border-top: 6px solid var(--ink); border-radius: 4px; box-shadow: 0 20px 60px rgba(15, 44, 85, 0.35); overflow: auto; overscroll-behavior: contain; }
+.popup::backdrop { background: rgba(14, 22, 36, 0.62); }
+.popupInner { position: relative; padding: 18px 20px 24px; }
+.popupTitle { font-family: var(--anton); font-weight: 400; text-transform: uppercase; font-size: clamp(30px, 7.6vw, 40px); line-height: 1.02; margin: 0 48px 16px 0; }
+.popupClose { position: absolute; top: 6px; right: 6px; width: 44px; height: 44px; background: none; border: 0; font-size: 30px; line-height: 1; color: var(--ink); cursor: pointer; border-radius: 4px; }
+.popupClose:hover { background: var(--sand); }
+.popupClose:focus-visible { outline: 3px solid var(--punch); outline-offset: 0; }
+.popupBody .grid2 { margin-top: 14px; }
+@media (max-width: 640px) { .popup { width: 100vw; max-width: 100vw; height: 100dvh; max-height: 100dvh; margin: 0; border-radius: 0; } }

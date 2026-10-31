@@ -15,7 +15,7 @@ export type Article = {
 };
 
 /** The health-letter lead story: wide photo slot, kicker, headline, byline strip, two-column body; sidebar with takeaways. */
-export function LeadArticle({ a, sidebarExtra, headingLevel = 'h2' }: { a: Article; sidebarExtra?: React.ReactNode; headingLevel?: 'h1' | 'h2' }) {
+export function LeadArticle({ a, sidebarExtra, articleExtra, headingLevel = 'h2' }: { a: Article; sidebarExtra?: React.ReactNode; articleExtra?: React.ReactNode; headingLevel?: 'h1' | 'h2' }) {
   const H = headingLevel;
   const ph = a.placeholder ? ' ph' : '';
   return (
@@ -28,6 +28,7 @@ export function LeadArticle({ a, sidebarExtra, headingLevel = 'h2' }: { a: Artic
           <p className={`byline${ph}`}>{a.byline}</p>
           <div className={`columns${ph}`}>{a.body}</div>
           {a.after}
+          {articleExtra}
         </article>
         <aside className="sidebar">
           <div className="takeaways">
