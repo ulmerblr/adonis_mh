@@ -1,0 +1,130 @@
+{
+  "key": "skin",
+  "headline": [
+    "Borrowed from",
+    "women’s medicine."
+  ],
+  "dek": "Two skin treatments in this lane were studied in women. One is an estrogen.",
+  "photoAlt": "Illustration for the Skin lane.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "people",
+      "label": "Studied in women",
+      "line": "Spironolactone’s acne trials and estriol’s skin studies enrolled only women."
+    },
+    {
+      "icon": "shield",
+      "label": "Estriol",
+      "line": "An estrogen. No FDA-approved estriol product exists in the US.",
+      "src": {
+        "href": "https://www.fda.gov/consumers/womens-health-topics/menopause",
+        "label": "FDA, Menopause (women’s health topics)"
+      }
+    },
+    {
+      "icon": "banned",
+      "label": "Banned in sport",
+      "line": "Spironolactone is named under S5, diuretics and masking agents.",
+      "src": {
+        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+        "label": "WADA 2026 Prohibited List (S5)"
+      }
+    }
+  ],
+  "paragraphs": [
+    "[[/spironolactone|Spironolactone]] was approved as Aldactone in 1960 for heart failure, high blood pressure, fluid build-up and a hormone disorder called primary hyperaldosteronism. Acne is not an approved use. It also blocks the androgen, or male hormone, receptor, which is why it is prescribed off-label for acne in adult women.",
+    "Both randomized acne trials enrolled only women: SAFA in England and Wales, with 410 women against placebo, and FASCE in France, with 133 women against doxycycline. Neither tells us how it works or how safe it is in men. The FDA label does: in men, spironolactone can cause breast growth, lower libido and trouble getting or keeping an erection, and it can raise blood potassium to dangerous levels. WADA bans it at all times as a diuretic and masking agent.",
+    "The second borrowing is a hormone. [[/estriol|Estriol]] is an estrogen, one of the female sex hormones the body makes. In some European countries it is a prescription vaginal cream for postmenopausal women. Adonis’s catalog lists it in two face creams, one with tretinoin and one with niacinamide and GHK-Cu; whether they are compounded or approved products is still being confirmed. There is no FDA-approved estriol product in the US, so a compounded one would not be FDA approved either. The skin evidence is two small 1990s studies from one Vienna group, in 18 and 59 women around menopause, with no placebo group. We found no study of estriol on men’s skin.",
+    "For contrast, two treatments in this lane went through FDA approval for skin conditions. [[/tretinoin|Tretinoin]] was first approved as Retin-A in 1971 for acne, and later as Renova for fine facial wrinkles. [[/azelaic-acid|Azelaic acid]] is approved as Azelex 20% cream for acne (1995) and as Finacea 15% gel (2002) and foam (2015) for rosacea, on randomized, vehicle-controlled trials. [[/doxycycline|Doxycycline]] is an approved antibiotic, and Oracea 40 mg was approved in 2006 for the bumps of rosacea. The compounded azelaic acid and niacinamide cream Adonis carries is not FDA approved, and [[/niacinamide|niacinamide]] has no FDA drug approval for any skin use.",
+    "The lane’s one peptide has the least behind it. [[/ghk-cu|GHK-Cu]], a copper peptide, is not FDA approved for any use. Its only randomized human study, published in 2006, followed 13 patients after laser resurfacing around the mouth. It found no significant difference between groups in redness, wrinkles or overall skin quality on objective measures, though patients using GHK-Cu rated their improvement higher on a questionnaire.",
+    "None of this tells a man whether a treatment will work for him. It shows where the evidence was gathered: in women for spironolactone and estriol, in approval trials for tretinoin and azelaic acid, and in 13 people for GHK-Cu."
+  ],
+  "pull": {
+    "quote": "FDA does not have evidence that drugs containing estriol are safe and effective, or are “safer forms of estrogen.”",
+    "cite": "FDA, Menopause (women’s health topics)",
+    "href": "https://www.fda.gov/consumers/womens-health-topics/menopause"
+  },
+  "sources": [
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+      "label": "Aldactone (spironolactone) label, DailyMed",
+      "date": "published Nov 2025"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192767/",
+      "label": "Santer et al. (SAFA), BMJ, 2023",
+      "date": "published May 2023"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38380975/",
+      "label": "Dréno et al. (FASCE), Acta Derm Venereol, 2024",
+      "date": "published Feb 2024"
+    },
+    {
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+      "label": "WADA Prohibited List 2026",
+      "date": "published Sep 2025"
+    },
+    {
+      "url": "https://www.fda.gov/consumers/womens-health-topics/menopause",
+      "label": "FDA, Menopause (women's health topics)",
+      "date": "published Dec 2023"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7877517/",
+      "label": "Schmidt et al., Maturitas, 1994",
+      "date": "published Nov 1994"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8876303/",
+      "label": "Schmidt et al., Int J Dermatol, 1996",
+      "date": "published Sep 1996"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
+      "label": "Retin-A label, DailyMed",
+      "date": "published May 2024"
+    },
+    {
+      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019963",
+      "label": "Drugs@FDA, NDA 019963",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
+      "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
+      "date": "published Mar 2024"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
+      "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
+      "date": "published Apr 2011"
+    },
+    {
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA207071",
+      "label": "Drugs@FDA data (openFDA), NDA 207071, Finacea Foam",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA050805",
+      "label": "Drugs@FDA data (openFDA), NDA 050805, Oracea",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
+      "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
+      "date": "published Apr 2025"
+    },
+    {
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NIACINAMIDE&limit=20",
+      "label": "Drugs@FDA data (openFDA), applications containing niacinamide",
+      "date": "accessed Oct 31, 2026"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+      "label": "Miller et al., Arch Facial Plast Surg, 2006",
+      "date": "published Jul 2006"
+    }
+  ]
+}
