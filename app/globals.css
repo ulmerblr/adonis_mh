@@ -518,3 +518,9 @@ span.tone-none { background: #d9d0bd; }
 /* Balance: the lead photo height that makes the two Magazine Section columns end together (measured at 1280 and 1024). */
 @media (min-width: 860px) { :root { --lead-photo-h: 300px; } }
 @media (min-width: 1200px) { :root { --lead-photo-h: 330px; } }
+
+/* PROMPT 11: the Home lead photo. Cover-fit in the slot; a taller 4:3 crop on a phone; small gray caption. */
+.leadFigure { margin: 0 0 18px; }
+.leadFigure .leadPhoto { margin-bottom: 6px; }
+.leadPhotoImg { position: relative; overflow: hidden; padding: 0; aspect-ratio: 4 / 3; background: var(--navy); }
+.leadCaption { font-size: 12px; color: #8d8478; line-height: 1.3; }

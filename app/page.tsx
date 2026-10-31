@@ -7,6 +7,15 @@ import { StandardsCard } from '@/components/magazine/standards';
 import { AJMC, FED_REG, UpdatesCard, WADA_2027 } from '@/components/magazine/updates';
 import { FDA_BRIEFING, peptidesArticle } from '@/content/articles/peptides';
 import { LANES, TREATMENTS, countWords } from '@/lib/library';
+import homeLead from '@/public/images/photos/home-lead.jpg';
+
+/** Home's lead photo (AI-generated illustration). Only Home shows it; the Recovery lane keeps its placeholder. */
+const HOME_LEAD = {
+  src: homeLead,
+  alt: 'A rancher pulls barbed-wire fence tight at sunrise on a Florida cattle pasture.',
+  caption: 'Illustration: AI-generated image.',
+  position: '30% 55%',
+};
 
 export const metadata = { title: { absolute: 'AdonisMensHealth.com' } };
 
@@ -19,7 +28,7 @@ export default function Home() {
       {/* The Magazine Section: everything between the header and the treatments section. */}
       <MagazineSection>
         {/* Magazine Section: lead article; sidebar holds Key takeaways, the Updates and How we report cards, and Inside */}
-        <LeadArticle a={peptidesArticle} balanced sidebarExtra={
+        <LeadArticle a={{ ...peptidesArticle, image: HOME_LEAD }} balanced sidebarExtra={
           <>
             <UpdatesCard />
             <StandardsCard />

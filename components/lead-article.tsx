@@ -1,7 +1,10 @@
+import Image, { type StaticImageData } from 'next/image';
 import { Label } from './ext';
 
 export type Article = {
   photo: string;
+  /** A real photo for the slot (in place of the `photo` placeholder): cover-fit, cropped around `position`. */
+  image?: { src: StaticImageData; alt: string; caption: string; position: string };
   kicker: string;
   headline: string;
   byline: string;
@@ -26,7 +29,17 @@ export function LeadArticle({ a, sidebarExtra, articleExtra, headingLevel = 'h2'
     <section className={balanced ? 'section leadSection leadBalanced' : 'section leadSection'}>
       <div className="wrap articleGrid">
         <article className="article">
-          <div className="leadPhoto">{a.photo}</div>
+          {a.image ? (
+            <figure className="leadFigure">
+              <div className="leadPhoto leadPhotoImg">
+                <Image src={a.image.src} alt={a.image.alt} fill priority sizes="(min-width: 1180px) 760px, (min-width: 860px) 64vw, 100vw"
+                  style={{ objectFit: 'cover', objectPosition: a.image.position }} />
+              </div>
+              <figcaption className="leadCaption">{a.image.caption}</figcaption>
+            </figure>
+          ) : (
+            <div className="leadPhoto">{a.photo}</div>
+          )}
           <Label>{a.kicker}</Label>
           <H className={`articleHead${ph}`}>{a.headline}</H>
           <p className={`byline${ph}`}>{a.byline}</p>
