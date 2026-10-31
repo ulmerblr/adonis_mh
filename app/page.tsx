@@ -18,26 +18,25 @@ export default function Home() {
     <>
       {/* The Magazine Section: everything between the header and the treatments section. */}
       <MagazineSection>
-        {/* Magazine Section: lead article (with the Updates and How we report cards under it) and its sidebar */}
-        <LeadArticle a={peptidesArticle} articleExtra={
-          <div className="briefCards">
+        {/* Magazine Section: lead article; sidebar holds Key takeaways, the Updates and How we report cards, and Inside */}
+        <LeadArticle a={peptidesArticle} balanced sidebarExtra={
+          <>
             <UpdatesCard />
             <StandardsCard />
-          </div>
-        } sidebarExtra={
-              <div className="agencyBox inside">
-                <p className="insideHead">Inside</p>
-                <ul>
-                  {LANES.map((l) => (
-                    <li key={l.key}>
-                      <Link href={`/lanes/${l.key}`}>
-                        <span>{l.name}</span>
-                        <span className="insideCount">{l.key === 'recovery' ? 'BPC-157 ready' : countWords(TREATMENTS[l.key].length)}</span>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+            <div className="agencyBox inside insideCompact">
+              <p className="insideHead">Inside</p>
+              <ul>
+                {LANES.map((l) => (
+                  <li key={l.key}>
+                    <Link href={`/lanes/${l.key}`}>
+                      <span>{l.name}</span>
+                      <span className="insideCount">{l.key === 'recovery' ? 'BPC-157 ready' : countWords(TREATMENTS[l.key].length)}</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </>
         } />
 
       </MagazineSection>

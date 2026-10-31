@@ -15,11 +15,15 @@ export type Article = {
 };
 
 /** The health-letter lead story: wide photo slot, kicker, headline, byline strip, two-column body; sidebar with takeaways. */
-export function LeadArticle({ a, sidebarExtra, articleExtra, headingLevel = 'h2' }: { a: Article; sidebarExtra?: React.ReactNode; articleExtra?: React.ReactNode; headingLevel?: 'h1' | 'h2' }) {
+export function LeadArticle({ a, sidebarExtra, articleExtra, headingLevel = 'h2', balanced = false }: {
+  a: Article; sidebarExtra?: React.ReactNode; articleExtra?: React.ReactNode; headingLevel?: 'h1' | 'h2';
+  /** Home's Magazine Section: the two columns balanced at desktop width (globals.css, .leadBalanced). */
+  balanced?: boolean;
+}) {
   const H = headingLevel;
   const ph = a.placeholder ? ' ph' : '';
   return (
-    <section className="section leadSection">
+    <section className={balanced ? 'section leadSection leadBalanced' : 'section leadSection'}>
       <div className="wrap articleGrid">
         <article className="article">
           <div className="leadPhoto">{a.photo}</div>
