@@ -11,8 +11,10 @@ const U = {
   bladder: 'https://pubmed.ncbi.nlm.nih.gov/39325560/',
   iv: 'https://pubmed.ncbi.nlm.nih.gov/40131143/',
   veljaca: 'https://www.semanticscholar.org/paper/7cc5b526006d9ecc959aa09ede50cfb12b751787',
-  nct: 'https://clinicaltrials.gov/study/NCT02637284',
   fdaBriefing: 'https://www.fda.gov/media/193343/download',
+  nct: 'https://clinicaltrials.gov/study/NCT02637284',
+  nctHamstring: 'https://clinicaltrials.gov/study/NCT07437547',
+  nctRotator: 'https://clinicaltrials.gov/study/NCT07803250',
   ajmc: 'https://www.ajmc.com/view/hhs-draft-policy-eases-enforcement-on-6-compounded-peptides',
   fedReg: 'https://public-inspection.federalregister.gov/2026-22192.pdf',
   hhsAppendix: 'https://www.hhs.gov/sites/default/files/hhs-503a-peptide-enforcement-discretion-policy-appendix-b.pdf',
@@ -68,8 +70,9 @@ export default function Bpc157() {
       <section className="lead">
         <div className="wrap">
           <p className="leadText">
-            BPC-157 is a lab-made peptide studied mostly in rats. Published human data covers fewer than 30 people across three
-            small studies, none with a control group. It is not an FDA-approved drug.
+            BPC-157 is a lab-made peptide studied mostly in rats. FDA counts five published human studies, about 80 people in total.
+            The longest course was two weeks. Only one study was randomized against a placebo, and it exists only as a conference
+            abstract. It is not an FDA-approved drug.
           </p>
           <p className="leadMeta">
             <span className="chip">Statuses as of October 31, 2026.</span>
@@ -103,9 +106,10 @@ export default function Bpc157() {
 
       <Sec n={2} title="Research" warm>
         <p className="bodyLead">
-          Human evidence: three small published studies (30 people in total), two conference abstracts, and one trial whose results
-          were never released. None of the published studies used a control group. Each is listed below exactly as it was run.
+          Human evidence: five published studies, about 80 people in total, according to FDA’s July 2026 review. Two were run in
+          Croatia in the early 2000s and three in Florida since 2021. Two more randomized trials are registered but have no results yet.
         </p>
+        <p className="body">Each is listed below exactly as it was run.</p>
 
         <h3 className="h3">Human studies</h3>
         <div className="cards">
@@ -115,8 +119,8 @@ export default function Bpc157() {
               <Fact k="Citation"><A href={U.knee}>Lee E, Padgett B. Altern Ther Health Med 2021;27(4):8-13</A></Fact>
               <Fact k="Where">one clinic, Orlando, Florida</Fact>
               <Fact k="Design">retrospective chart review. No control group, no placebo.</Fact>
-              <Fact k="People">16 adults with chronic knee pain. 12 got BPC-157 alone; 4 got BPC-157 plus TB-500 (thymosin beta-4).</Fact>
-              <Fact k="What was given">one injection into the knee joint</Fact>
+              <Fact k="People">17 adults with chronic knee pain treated (FDA count); the paper reports outcomes for 16. Of those 16, 12 got BPC-157 alone and 4 got BPC-157 plus TB-500 (thymosin beta-4).</Fact>
+              <Fact k="What was given">2 to 4 mg injected into the knee joint, once or twice</Fact>
               <Fact k="Length">patients contacted by phone 6 to 12 months later</Fact>
               <Fact k="Found">11 of 12 in the BPC-157-only group reported significant improvement; 3 of 4 in the combined group did. Pain was self-reported, not measured on a validated scale.</Fact>
             </dl>
@@ -145,23 +149,42 @@ export default function Bpc157() {
             </dl>
           </article>
         </div>
-        <p className="under">The same lead author ran all three published studies.</p>
+        <p className="under">The same lead author ran all three Florida studies.</p>
 
         <div className="cards" style={{ marginTop: 16 }}>
           <article className="card cardAlt">
-            <h4 className="cardTitle">Ulcerative colitis program, 2003 and 2005 (Croatia, Pliva)</h4>
+            <h4 className="cardTitle">Ulcerative colitis program, 2002 to 2005 (Croatia, Pliva)</h4>
             <ul className="cardBullets">
-              <li><strong>Phase I:</strong> <A href={U.veljaca}>Veljača M, et al. Gut 2003;51(Suppl III):A309</A> — Healthy male volunteers, given by enema. The abstract reports it was safe and well tolerated.</li>
-              <li><strong>Phase II:</strong> Ruenzi M, et al. Gastroenterology 2005;128:A584. Randomized, double-blind, placebo-controlled, in mild-to-moderate ulcerative colitis, given by enema. Reported as effective and safe.</li>
-              <li><strong>Both exist only as conference abstracts. Participant counts and full results were never published in a peer-reviewed paper.</strong></li>
+              <li><strong>Phase I, healthy volunteers:</strong> <A href={U.veljaca}>Veljača M, et al. Gut 2003;51(Suppl III):A309</A> — and a 2002 abstract. 24 healthy people got BPC-157 by enema, up to 2 mg/kg once daily for 8 days. Most common side effects reported: headache and flatulence. BPC-157 was mostly not detectable in the blood.</li>
+              <li><strong>Phase II, ulcerative colitis:</strong> Ruenzi M, et al. Gastroenterology 2005;128:A584. Multicenter, randomized, double-blind, placebo-controlled. 53 people with mild-to-moderate ulcerative colitis were split evenly between an 80 mg BPC-157 enema and a placebo enema, once daily for 2 weeks. 46 finished.</li>
+              <li><strong>Phase II result:</strong> the disease activity score fell 3.2 points on BPC-157 and 1.6 points on placebo. The difference between groups was not statistically significant (95% confidence interval crossed zero). Three people on BPC-157 and two on placebo withdrew for adverse events, mainly worsening colitis.</li>
+              <li><strong>Both exist only as conference abstracts. FDA called the Phase II data inadequate to show the enema works or is safe.</strong> <Src href={U.fdaBriefing} label="FDA briefing" /></li>
             </ul>
           </article>
 
           <article className="card cardMuted">
             <h4 className="cardTitle">Oral safety trial, 2015 (Mexico): no results</h4>
             <ul className="cardBullets">
-              <li><A href={U.nct}>NCT02637284</A>, sponsored by PharmaCotherapia. A randomized, placebo-controlled Phase I trial of BPC-157 tablets in 42 healthy volunteers aged 18 to 35, in Tijuana.</li>
+              <li><A href={U.nct}>NCT02637284</A>, sponsored by PharmaCotherapia. A randomized, placebo-controlled Phase I trial of BPC-157 tablets in 42 planned healthy volunteers aged 18 to 35, in Tijuana.</li>
               <li><strong>A results submission was withdrawn in 2016 before review. No data has been released.</strong></li>
+            </ul>
+          </article>
+        </div>
+
+        <h3 className="h3">Registered trials with no results yet</h3>
+        <div className="cards">
+          <article className="card cardMuted">
+            <p className="leadMeta" style={{ margin: '0 0 12px' }}><span className="chip chipGold">No results yet</span></p>
+            <h4 className="cardTitle">Hamstring strain, Phase 2</h4>
+            <ul className="cardBullets">
+              <li><A href={U.nctHamstring}>NCT07437547</A>, sponsored by Hudson Biotech. Randomized, double-blind, placebo-controlled, under-the-skin BPC-157 for MRI-confirmed grade II hamstring strain. Registered February 2026, recruiting, about 120 people planned.</li>
+            </ul>
+          </article>
+          <article className="card cardMuted">
+            <p className="leadMeta" style={{ margin: '0 0 12px' }}><span className="chip chipGold">No results yet</span></p>
+            <h4 className="cardTitle">Rotator cuff surgery recovery, Phase 1 pilot</h4>
+            <ul className="cardBullets">
+              <li><A href={U.nctRotator}>NCT07803250</A>, sponsored by the University of Arkansas. Randomized, double-blind, placebo-controlled, daily under-the-skin injections for 90 days after surgery. Not yet recruiting; planned start January 2027.</li>
             </ul>
           </article>
         </div>
@@ -178,7 +201,7 @@ export default function Bpc157() {
 
         <h3 className="h3">What reviewers concluded</h3>
         <ul className="list">
-          <li>FDA’s own scientists, in a July 2026 briefing, recommended against adding BPC-157 to the compounding list. They found the human trials too small and too short to establish safety or effectiveness. <Src href={U.fdaBriefing} label="FDA briefing document" /></li>
+          <li>FDA’s scientists, in a briefing dated May 11, 2026 for the July meeting, recommended against adding BPC-157 to the compounding list. They found no human studies using the oral, under-the-skin, nasal or skin routes people actually use, and no human pharmacokinetic data for those routes. <Src href={U.fdaBriefing} label="FDA briefing" /></li>
           <li>FDA’s advisory committee voted 8 to 6, with 1 abstention, on July 23, 2026, to recommend adding it anyway. <Src href={U.ajmc} label="AJMC" /></li>
         </ul>
       </Sec>
@@ -235,13 +258,15 @@ export default function Bpc157() {
 
       <Sec n={5} title="Documented side effects">
         <p className="bodyLead">
-          The published human studies reported no adverse events, but they covered 30 people over weeks to months. Long-term human
-          safety has not been studied.
+          No serious adverse events were reported in the five human studies, but they were small and short, and safety monitoring
+          was unclear in most. Animal studies and FDA’s adverse event reports have recorded specific findings, listed below.
         </p>
         <ul className="list">
-          <li><strong>Published human studies:</strong> no adverse events were reported in the bladder study (12 people) or the IV study (2 people). The knee study did not describe how it screened for side effects.</li>
-          <li><strong>FDA adverse event reports:</strong> FDA’s reporting system has logged 10 serious reports tied to BPC-157 since 2021, 8 of them in 2026. Reports like these do not show that BPC-157 caused the event. <Src href={U.ajmc} /></li>
-          <li><strong>FDA-identified risks:</strong> FDA lists a risk of immune reactions (immunogenicity) and peptide-related impurities in compounded versions. <Src href={U.fdaCat2} /></li>
+          <li><strong>Human studies:</strong> in healthy volunteers given enemas, the most common side effects were headache and flatulence. In the colitis trial, 3 of the BPC-157 group withdrew for adverse events, mainly worsening colitis (2 on placebo did too). The bladder and IV studies reported none. <Src href={U.fdaBriefing} /></li>
+          <li><strong>FDA adverse event reports through December 4, 2025:</strong> three reports, all injected BPC-157. One injection-site redness and swelling (with another peptide in use). One shortness of breath leading to an emergency room visit. One widespread skin darkening and darkened gums that returned when the product, a BPC-157 and TB-500 blend, was restarted. FDA could not establish that BPC-157 caused any of them. <Src href={U.fdaBriefing} /></li>
+          <li><strong>Reports since then:</strong> FDA’s reporting system has logged 10 serious reports tied to BPC-157 since 2021, 8 of them in 2026. Reports like these do not show that BPC-157 caused the event. <Src href={U.ajmc} /></li>
+          <li><strong>Animal toxicity studies:</strong> in 28-day injection studies, rats and dogs showed changes in blood-clotting time and liver-related blood markers (ALT, glucose, triglycerides). Lab tests found it does not damage DNA, and it caused no birth defects in pregnant rats. No cancer studies have been done. <Src href={U.fdaBriefing} /></li>
+          <li><strong>FDA-identified risks:</strong> FDA lists a risk of immune reactions (immunogenicity) and peptide-related impurities in compounded versions, higher for injected and nasal forms. <Src href={U.fdaCat2} /></li>
           <li><strong>Product quality:</strong> Health Canada has seized unauthorized injectable peptide products, including BPC-157, sold online. <Src href={U.canada} /></li>
         </ul>
       </Sec>
