@@ -4,8 +4,9 @@
  * Lanes match Adonis Clinical's, in Bill's order. Treatments are listed by active ingredient, one row per ingredient, read
  * from the Adonis Clinical catalog (ulmerblr/adonis content/cart/products.json: its groups and each product's name and
  * detail; content/cart/lanes.json for Longevity also carrying sermorelin). Combination products are split into their
- * ingredients. No brand names, no prices. Clinical's TRT and Hair loss groups sit in its Vitality lane and Skin in Longevity;
- * here each is its own lane. Recovery has no products at Clinical (ordering on hold), so it holds BPC-157 only.
+ * ingredients. No brand names (one exception, as asked: "Sertraline (Zoloft)"), no prices. Clinical's TRT and Hair loss groups sit in its Vitality lane and Skin in Longevity;
+ * here each is its own lane. Recovery has no products at Clinical (ordering on hold); it holds BPC-157 and two more of the
+ * HHS peptides. Prompt 15 added ten rows from the Beluga catalog and the HHS peptide list, each after its lane's existing rows.
  *
  * A treatment shows a status only once its page exists with a dated, sourced record (`page`).
  */
@@ -43,6 +44,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
   ],
   recovery: [
     { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved', sport: 'Banned' } },
+    { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true },
+    { name: 'KPV', peptide: true },
   ],
   vitality: [
     { name: 'Sildenafil' },
@@ -50,6 +53,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Vardenafil' },
     { name: 'Oxytocin', peptide: true },
     { name: 'Bremelanotide (PT-141)', peptide: true },
+    { name: 'Sertraline (Zoloft)' },
   ],
   energy: [
     { name: 'Vitamin B12' },
@@ -58,6 +62,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Inositol' },
     { name: 'Choline' },
     { name: 'L-carnitine' },
+    { name: 'Semax', peptide: true },
   ],
   sleep: [
     { name: 'Sermorelin', peptide: true },
@@ -70,6 +75,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Ketoconazole' },
     { name: 'Tretinoin' },
     { name: 'Biotin' },
+    { name: 'Fluocinolone' },
+    { name: 'Melatonin (topical)' },
   ],
   skin: [
     { name: 'Tretinoin' },
@@ -77,6 +84,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Niacinamide' },
     { name: 'Doxycycline' },
     { name: 'GHK-Cu (copper peptide)', peptide: true },
+    { name: 'Spironolactone' },
+    { name: 'Estriol' },
   ],
   longevity: [
     { name: 'NAD+' },
@@ -85,6 +94,8 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Metformin' },
     { name: 'GHK-Cu (copper peptide)', peptide: true },
     { name: 'Sermorelin', peptide: true },
+    { name: 'MOTS-c', peptide: true },
+    { name: 'Epitalon', peptide: true },
   ],
 };
 
