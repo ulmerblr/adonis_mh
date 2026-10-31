@@ -1,4 +1,5 @@
-import { A, Label } from '@/components/ext';
+import { isValidElement } from 'react';
+import { A, CLINIC, Label } from '@/components/ext';
 import { Track } from '@/components/track';
 import { LANES, type LaneKey } from '@/lib/library';
 import type { Step } from '@/lib/tracks';
@@ -25,7 +26,8 @@ export const TABS: TabDef[] = [
  *      each with an address hash (components/treatment/tabs.tsx)
  *   6. the open tab's numbered section: What it is, Research, US position, Around the world, Documented side effects,
  *      Talk to a clinician (every section stays in the HTML; closed ones are hidden)
- *   7. Sources (every outside link on the page, once each), then the shared footer
+ *   7. inside each tab, after its section: that section's Sources (every outside link in it, once each, in the order
+ *      they appear; Adonis Clinical is not a source), then the shared footer
  *
  * A new treatment: add its data file under content/treatments/ (see bpc-157.tsx), its track in lib/tracks.ts, a short route
  * at app/<slug>/page.tsx (see app/bpc-157/page.tsx), and page.href on its row in lib/library.ts. The lane bar finds its lane
@@ -44,7 +46,6 @@ export type TreatmentData = {
   sections: [Section, Section, Section, Section, Section, Section];
   /** The heading of the Sources list, with its checked date. */
   sourcesTitle: string;
-  sources: string[];
 };
 export type Section = { title: string; body: React.ReactNode };
 
@@ -63,6 +64,28 @@ export function Fact({ k, children }: { k: string; children: React.ReactNode }) 
   return <div><dt>{k}</dt><dd>{children}</dd></div>;
 }
 
+/** Every outside source a section links to, once each, in the order it appears (Adonis Clinical is not a source). */
+export function sourcesOf(node: React.ReactNode, out: string[] = []): string[] {
+  if (Array.isArray(node)) { node.forEach((n) => sourcesOf(n, out)); return out; }
+  if (!isValidElement(node)) return out;
+  const props = node.props as { href?: unknown; children?: React.ReactNode };
+  if (typeof props.href === 'string' && /^https?:/.test(props.href) && !props.href.startsWith(CLINIC) && !out.includes(props.href)) out.push(props.href);
+  if (props.children !== undefined) sourcesOf(props.children, out);
+  return out;
+}
+
+function SectionSources({ title, urls }: { title: string; urls: string[] }) {
+  if (!urls.length) return null;
+  return (
+    <div className="tabSources">
+      <div className="secHead"><h3 className="h2">{title}</h3></div>
+      <ol className="sources">
+        {urls.map((u) => <li key={u}><A href={u} /></li>)}
+      </ol>
+    </div>
+  );
+}
+
 export function TreatmentPage({ data }: { data: TreatmentData }) {
   const lane = LANES.find((l) => l.key === data.lane)!;
   return (
@@ -79,17 +102,14 @@ export function TreatmentPage({ data }: { data: TreatmentData }) {
       </section>
 
       <TreatmentTabs tabs={TABS}>
-        {data.sections.map((s, i) => <Sec key={s.title} n={i + 1} title={s.title}>{s.body}</Sec>)}
+        {data.sections.map((s, i) => (
+          <Sec key={s.title} n={i + 1} title={s.title}>
+            {s.body}
+            <SectionSources title={data.sourcesTitle} urls={sourcesOf(s.body)} />
+          </Sec>
+        ))}
       </TreatmentTabs>
 
-      <section className="tSection">
-        <div className="wrap">
-          <div className="secHead"><h2 className="h2">{data.sourcesTitle}</h2></div>
-          <ol className="sources">
-            {data.sources.map((s) => <li key={s}><A href={s} /></li>)}
-          </ol>
-        </div>
-      </section>
     </>
   );
 }

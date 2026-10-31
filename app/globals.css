@@ -437,3 +437,4 @@ span.tone-none { background: #d9d0bd; }
 .popHint { margin: 8px 0 0; font-size: 13px; color: var(--soft); }
 .popClose { position: absolute; top: 2px; right: 2px; width: 44px; height: 44px; background: none; border: 0; font-size: 26px; line-height: 1; cursor: pointer; color: var(--ink); }
 @media (max-width: 600px) { .mapPop { font-size: 14px; } }
+.tabSources { margin-top: 36px; }

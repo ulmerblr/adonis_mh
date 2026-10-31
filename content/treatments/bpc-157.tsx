@@ -30,8 +30,6 @@ const U = {
   wada2027: 'https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list',
   usada: 'https://www.usada.org/substance/bpc-157/',
 };
-/** Every source used on the page, once each, in the order it first appears. */
-const SOURCES = Object.values(U);
 
 type Country = MapRegion;
 const COUNTRIES: Country[] = [
@@ -284,5 +282,4 @@ export const bpc157: TreatmentData = {
     },
   ],
   sourcesTitle: 'Sources — all checked October 31, 2026',
-  sources: SOURCES,
 };
