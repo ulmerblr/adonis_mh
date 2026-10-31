@@ -28,19 +28,71 @@
       "line": "Every approved semaglutide and tirzepatide label: thyroid C-cell tumors in rodents."
     }
   ],
-  "paragraphs": [
-    "For more than two years, pharmacies were allowed to make their own versions of the two best-known weight drugs because the approved ones were in short supply. FDA said the [[/tirzepatide|tirzepatide]] shortage was resolved on December 19, 2024, after re-evaluating an October decision, and the [[/semaglutide|semaglutide]] shortage on February 21, 2025. The grace periods for compounders ran out in the spring of 2025. On April 1, 2026, FDA said neither drug is on its shortage list or on the list of bulk substances outsourcing facilities may use.",
-    "Pharmacies can still compound for an individual patient, but they may not regularly make drugs that are essentially copies of a commercially available one. FDA’s April 2026 statement gave a worked example: a compounded injection combining semaglutide and vitamin B12 may count as a copy when both amounts are within 10% of the strengths of products on the market, unless a prescriber documents a significant difference for that patient. FDA said it does not intend to act when a pharmacy fills four or fewer such prescriptions in a month. It did not give a tirzepatide example.",
-    "The compounded injections Adonis carries through Beluga, some with vitamin B12 and some with glycine, are not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold. None of the large trials tested semaglutide or tirzepatide combined with B12 or glycine. In March 2026 FDA announced 30 warning letters to telehealth companies over claims about compounded GLP-1s, including claims that they are the same as the approved drugs.",
-    "The approved brands are a different thing. Semaglutide is sold as Ozempic and Rybelsus for type 2 diabetes and as Wegovy for weight and heart risk; tirzepatide as Mounjaro for type 2 diabetes and Zepbound for weight and sleep apnea. Using Ozempic, Rybelsus or Mounjaro for weight loss is off-label. Their makers ran the large trials: in STEP 1, average weight fell 14.9% on semaglutide and 2.4% on placebo over 68 weeks; in SURMOUNT-1, it fell 15.0% to 20.9% on tirzepatide and 3.1% on placebo over 72 weeks.",
-    "Every approved semaglutide and tirzepatide label carries a boxed warning, FDA’s strongest kind. In rodents, both caused thyroid C-cell tumors, and it is not known whether they do in people. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use them. The labels also list pancreatitis, gallbladder disease, kidney injury from dehydration, and severe stomach and bowel effects.",
-    "FDA also counts problems with the compounded versions. As of May 31, 2026, it had received 990 adverse event reports tied to compounded semaglutide and more than 730 tied to compounded tirzepatide, and says those numbers are likely underreported because most pharmacies do not have to report. It has reports of dosing errors, some needing hospital care, and of fake tirzepatide labeled with pharmacies that did not make it."
+  "summary": [
+    "For more than two years, pharmacies could make their own versions of the two best-known weight drugs because the approved ones were in short supply. FDA said the [[/tirzepatide|tirzepatide]] shortage was resolved on December 19, 2024 and the [[/semaglutide|semaglutide]] shortage on February 21, 2025, and the grace periods for compounders ended in the spring of 2025. On April 1, 2026, FDA said neither drug is on its shortage list.",
+    "Pharmacies may still compound for an individual patient, but not regularly make drugs that are essentially copies of one on the market. FDA’s worked example is a semaglutide and vitamin B12 injection with both amounts within 10% of available products. FDA said it does not intend to act when a pharmacy fills four or fewer such prescriptions in a month. Compounded versions are not FDA approved, and FDA does not review them for safety, effectiveness or quality.",
+    "The approved brands are Ozempic and Rybelsus for type 2 diabetes and Wegovy for weight and heart risk (semaglutide), and Mounjaro for type 2 diabetes and Zepbound for weight and sleep apnea (tirzepatide). Using the diabetes brands for weight loss is off-label. Every approved label has a boxed warning: in rodents, both drugs caused thyroid C-cell tumors, and it is not known whether they do in people.",
+    "Some things are not known. The large trials tested each drug by itself; none tested it combined with vitamin B12 or glycine. FDA has received hundreds of adverse event reports tied to compounded versions, but says it cannot always tell whether the drug caused the event, and most pharmacies do not have to report."
   ],
   "pull": {
     "quote": "FDA may consider a compounded drug product that combines semaglutide API and another API, such as vitamin B12 (cyanocobalamin), to be essentially a copy of a commercially available drug product",
     "cite": "FDA, policies for compounders, Apr 2026",
     "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "FDA has stated, at this time, it does not intend to take action against a compounder for compounding a drug product that is essentially a copy of a commercially available drug product regularly or in inordinate amounts if the compounder fills four or fewer prescriptions of that compounded drug product during a calendar month.",
+      "source": "FDA, policies for compounders as national GLP-1 supply begins to stabilize",
+      "date": "published Apr 2026",
+      "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
+    },
+    {
+      "kind": "regulator",
+      "quote": "As of May 31, 2026, the FDA has received: 990 reports of adverse events associated with compounded semaglutide. more than 730 reports of adverse events associated with compounded tirzepatide. It is not always possible to determine if the adverse event directly resulted from use of the drug or if other factors may have contributed to these adverse events.",
+      "source": "FDA, concerns with unapproved GLP-1 drugs used for weight loss",
+      "date": "published Oct 2026",
+      "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
+    },
+    {
+      "kind": "regulator",
+      "quote": "Primary violations identified in the letters included making claims implying sameness with FDA-approved products and obscuring product sourcing by advertising drug products branded with the telehealth firm's name or trademark without qualification, implying they are the compounder.",
+      "source": "FDA news release, 30 warning letters to telehealth companies",
+      "date": "Mar 3, 2026",
+      "href": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s"
+    },
+    {
+      "kind": "regulator",
+      "quote": "Compounded drugs are not FDA-approved. This means the agency does not review their safety, effectiveness or quality before they are marketed. Compounded drugs are also not the same as generic drugs, which are FDA-approved.",
+      "source": "FDA news release, 30 warning letters to telehealth companies",
+      "date": "Mar 3, 2026",
+      "href": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s"
+    },
+    {
+      "kind": "regulator",
+      "quote": "In rodents, semaglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures. It is unknown whether WEGOVY causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined",
+      "source": "Wegovy label, boxed warning, DailyMed",
+      "date": "published Jun 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+      "note": "The tirzepatide labels have the same kind of boxed warning."
+    },
+    {
+      "kind": "trial",
+      "quote": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
+      "source": "Wilding et al., NEJM (STEP 1)",
+      "date": "published Mar 2021",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+      "note": "The trial was paid for by the drug’s maker."
+    },
+    {
+      "kind": "trial",
+      "quote": "The mean percentage change in weight at week 72 was -15.0% (95% confidence interval [CI], -15.9 to -14.2) with 5-mg weekly doses of tirzepatide, -19.5% (95% CI, -20.4 to -18.5) with 10-mg doses, and -20.9% (95% CI, -21.8 to -19.9) with 15-mg doses and -3.1% (95% CI, -4.3 to -1.9) with placebo",
+      "source": "Jastreboff et al., NEJM (SURMOUNT-1)",
+      "date": "published Jul 2022",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/35658024/",
+      "note": "The trial was paid for by the drug’s maker."
+    }
+  ],
   "sources": [
     {
       "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
