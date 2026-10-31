@@ -3,7 +3,8 @@ import { notFound } from 'next/navigation';
 import { Label } from '@/components/ext';
 import { TreatmentFinder } from '@/components/finder';
 import { LeadArticle } from '@/components/lead-article';
-import { StandardsBand } from '@/components/standards-band';
+import { MagazineSection } from '@/components/magazine/magazine-section';
+import { StandardsBand } from '@/components/magazine/standards-band';
 import { peptidesArticle, placeholderArticle } from '@/content/articles/peptides';
 import { LANES, TREATMENTS, countWords, laneOf, type LaneKey } from '@/lib/library';
 
@@ -36,48 +37,52 @@ export default async function LanePage({ params }: { params: Promise<{ lane: str
   const cards = [0, 1, 2].map((i) => CARDS[key]?.[i] ?? null);
   return (
     <>
-      <section className="laneCover">
-        <div className="wrap">
-          <span className="coverTag">Lane</span>
-          <h1 className="laneCoverHead">{lane.name}</h1>
-          <p className="laneCoverCount">{countWords(n)}</p>
-        </div>
-      </section>
+      {/* The Magazine Section: lane band, lead article, summary cards, How we report. */}
+      <MagazineSection>
+        <section className="laneCover">
+          <div className="wrap">
+            <span className="coverTag">Lane</span>
+            <h1 className="laneCoverHead">{lane.name}</h1>
+            <p className="laneCoverCount">{countWords(n)}</p>
+          </div>
+        </section>
 
-      <LeadArticle a={{ ...article, photo: `[ Photo: ${lane.name} lead story ]`, kicker: key === 'recovery' ? article.kicker : lane.name }} />
+        <LeadArticle a={{ ...article, photo: `[ Photo: ${lane.name} lead story ]`, kicker: key === 'recovery' ? article.kicker : lane.name }} />
 
-      <section className="section" style={{ paddingTop: 0 }}>
-        <div className="wrap">
-          <ul className="summaryCards">
-            {cards.map((c, i) => (
-              <li key={i} className="summaryCard">
-                <div className="cardPhoto">[ Photo ]</div>
-                <div className="summaryBody">
-                  {c ? (
-                    <>
-                      <Label>{c.kicker}</Label>
-                      <h3 className="summaryTitle">{c.title}</h3>
-                      <p>{c.summary}</p>
-                      <Link href={c.href} className="more">{c.link}</Link>
-                    </>
-                  ) : (
-                    <p className="ph summaryTitle">[ Summary to be written ]</p>
-                  )}
-                </div>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
+        <section className="section" style={{ paddingTop: 0 }}>
+          <div className="wrap">
+            <ul className="summaryCards">
+              {cards.map((c, i) => (
+                <li key={i} className="summaryCard">
+                  <div className="cardPhoto">[ Photo ]</div>
+                  <div className="summaryBody">
+                    {c ? (
+                      <>
+                        <Label>{c.kicker}</Label>
+                        <h3 className="summaryTitle">{c.title}</h3>
+                        <p>{c.summary}</p>
+                        <Link href={c.href} className="more">{c.link}</Link>
+                      </>
+                    ) : (
+                      <p className="ph summaryTitle">[ Summary to be written ]</p>
+                    )}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
 
+        <StandardsBand />
+      </MagazineSection>
+
+      {/* The treatments section */}
       <section className="section" style={{ paddingTop: 8 }}>
         <div className="wrap">
           <div className="secHead"><h2 className="h2">{lane.name} treatments</h2></div>
           <TreatmentFinder lane={key} hideTabs />
         </div>
       </section>
-
-      <StandardsBand />
     </>
   );
 }

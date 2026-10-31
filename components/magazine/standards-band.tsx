@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { Label } from './ext';
 
 const STANDARDS = [
   { title: 'Cited or left out', text: 'Every claim links to its source. If it isn’t published, we don’t say it.' },
@@ -8,12 +7,13 @@ const STANDARDS = [
   { title: 'Dated and reviewed', text: 'Every status has an “as of” date. A licensed clinician signs off each page.' },
 ];
 
+/** Magazine Section block: How we report (the standards band). Its link goes to the full /how-we-report page. */
 export function StandardsBand() {
   return (
-    <section className="band">
+    <section className="band" id="how-we-report">
       <div className="wrap">
-        <Label>How we report</Label>
-        <h2 className="h2 bandHead">We report the record. We don’t sell it.</h2>
+        <div className="secHead"><h2 className="h2">How we report</h2></div>
+        <h3 className="bandHead">We report the record. We don’t sell it.</h3>
         <div className="grid2">
           {STANDARDS.map((s) => (
             <div key={s.title}><h3>{s.title}</h3><p>{s.text}</p></div>

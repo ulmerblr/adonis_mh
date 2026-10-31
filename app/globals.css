@@ -468,3 +468,13 @@ span.tone-none { background: #d9d0bd; }
 .summaryBody .more { display: inline-flex; align-items: center; min-height: 44px; font-weight: 800; }
 .leadPhoto { min-height: 0; width: 100%; aspect-ratio: 16 / 9; }
 @media (min-width: 760px) { .leadPhoto { aspect-ratio: 16 / 7; } }
+
+/* PROMPT 8: Magazine Section blocks; the lane bar holds the nine lanes, spread evenly on desktop */
+#updates, #how-we-report { scroll-margin-top: 56px; }
+.subHead { font-family: var(--slab); font-weight: 700; font-size: 22px; margin: 0 0 10px; }
+.band .bandHead { margin-top: 0; }
+@media (min-width: 860px) {
+  .laneBar ul { justify-content: space-between; }
+  .laneBar li { flex: 1 1 0; }
+  .laneBar a { justify-content: center; }
+}

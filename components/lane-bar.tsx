@@ -5,17 +5,13 @@ import { usePathname } from 'next/navigation';
 import { useEffect, useRef } from 'react';
 import { LANES, TREATMENTS } from '@/lib/library';
 
-const ITEMS = [
-  ...LANES.map((l) => ({ key: l.key as string, label: l.name, href: `/lanes/${l.key}` })),
-  { key: 'updates', label: 'Updates', href: '/#updates' },
-  { key: 'how', label: 'How we report', href: '/how-we-report' },
-];
+/** The nine lanes, nothing else (Updates and How we report live in the Magazine Section). */
+const ITEMS = LANES.map((l) => ({ key: l.key as string, label: l.name, href: `/lanes/${l.key}` }));
 
-/** The current lane: its own page, a treatment page's lane, or How we report. */
+/** The current lane: its own page, or a treatment page's lane. */
 function currentOf(path: string): string | null {
   if (path.startsWith('/lanes/')) return path.split('/')[2] ?? null;
   for (const l of LANES) if (TREATMENTS[l.key].some((t) => t.page?.href === path)) return l.key;
-  if (path === '/how-we-report') return 'how';
   return null;
 }
 
