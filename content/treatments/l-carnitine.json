@@ -1,0 +1,497 @@
+{
+  "slug": "l-carnitine",
+  "name": "L-carnitine",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Approved; few energy RCTs",
+    "fda": "Approved (Carnitor)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Fat-transport role described on the FDA label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "IV pilot: 30 people with metabolic syndrome, 7 days",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Carnitor: tablets 1985, injection 1992; deficiency",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "L-carnitine (levocarnitine) is a natural substance that carries long-chain fatty acids into mitochondria, where they are burned for energy. FDA’s Carnitor label describes it as required in mammalian energy metabolism.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+            "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+            "date": "published Nov 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "What Adonis carries through Beluga: Lipo-Mino with L-Carnitine, a compounded amino acid and L-carnitine blend given by injection."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Most L-carnitine weight studies used supplements, not injections. Injection studies we found were small or in kidney dialysis patients, not healthy people seeking energy or fat loss."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "China · 2014 · Randomized pilot trial",
+        "title": "IV L-carnitine during a 5-day modified fast",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, single-blind, placebo (saline)-controlled pilot; L-carnitine by IV"
+          },
+          {
+            "k": "People",
+            "v": "30 adults with metabolic syndrome (15 per group), all on a 5-day modified fast"
+          },
+          {
+            "k": "Length",
+            "v": "7 days"
+          },
+          {
+            "k": "Measured",
+            "v": "Weight, waist, blood pressure, liver and metabolic blood tests, hunger and fatigue scores"
+          }
+        ],
+        "found": "The L-carnitine group lost more weight (4.6 vs 3.2 kg) and waist, and fatigue scores fell, while they rose in the saline group. This was a 7-day fasting study in 30 people; it did not test injections outside a fast.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25424121/",
+            "label": "Zhang JJ, et al. Nutr J, 2014 (PubMed)",
+            "date": "published Nov 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2001 · Two randomized trials",
+        "title": "IV L-carnitine after dialysis (exercise and quality of life)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Two randomized, placebo-controlled trials; IV L-carnitine after each dialysis session, three times a week"
+          },
+          {
+            "k": "People",
+            "v": "People with end-stage kidney disease on hemodialysis: 56 in study A, 127 in study B"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Peak exercise capacity (VO2max, main measure) and a kidney disease quality-of-life questionnaire"
+          }
+        ],
+        "found": "Blood carnitine rose, but VO2max did not change in either study on the main analysis. The fatigue part of the questionnaire improved vs placebo at 12 and 24 weeks; the total score did not. No drug-related side effects were identified.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11325685/",
+            "label": "Brass EP, et al. Am J Kidney Dis, 2001 (PubMed)",
+            "date": "published May 2001"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Meta-analysis · 2020 · 37 randomized trials",
+        "title": "L-carnitine supplementation and body weight",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Systematic review and meta-analysis of randomized controlled trials of L-carnitine supplementation, searched to January 2019"
+          },
+          {
+            "k": "People",
+            "v": "37 trials, 2,292 participants"
+          },
+          {
+            "k": "Length",
+            "v": "Varied by trial"
+          },
+          {
+            "k": "Measured",
+            "v": "Body weight, BMI, fat mass, waist, body fat percent"
+          }
+        ],
+        "found": "Compared with control, body weight was 1.21 kg lower, BMI 0.24 lower and fat mass 2.08 kg lower; waist and body fat percent did not change. Only the weight effect held in high-quality trials. The abstract describes oral intake and does not report injection trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32359762/",
+            "label": "Talenezhad N, et al. Clin Nutr ESPEN, 2020 (PubMed)",
+            "date": "published Jun 2020"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "We found no published study of the Lipo-Mino with L-Carnitine blend or similar compounded amino acid and L-carnitine injections."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Levocarnitine is FDA approved as Carnitor (tablets 1985, oral solution 1986, injection 1992) and as generics, for carnitine deficiency. Using it for energy or weight loss is off-label."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s Drugs@FDA data lists Carnitor tablets (NDA 018948, original approval December 1985), Carnitor oral solution (NDA 019257, April 1986) and Carnitor injection (NDA 020182, December 1992), plus generic levocarnitine tablets, solutions and injections.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:levocarnitine&limit=50",
+            "label": "Drugs@FDA data for levocarnitine (FDA, openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Tablets and oral solution:",
+            "text": "Primary systemic carnitine deficiency, and secondary carnitine deficiency from inborn errors of metabolism.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2133bc3-9c15-48bd-8b16-b8995a6a14cd",
+                "label": "Carnitor (levocarnitine) Tablets and Oral Solution label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Injection:",
+            "text": "Inborn errors of metabolism that cause secondary carnitine deficiency, and preventing and treating carnitine deficiency in people with end-stage kidney disease on dialysis. The label says it is for intravenous use only.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              }
+            ]
+          },
+          {
+            "lead": "What the label says about dialysis:",
+            "text": "Carnitor raises carnitine levels, but its effects on the signs and symptoms of deficiency and on clinical outcomes in dialysis patients “have not been determined.”",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA lists levocarnitine as nominated for outsourcing-facility (503B) compounding and “under evaluation” (Category 1), marked as a component of an FDA-approved drug. Acetyl-L-carnitine is under evaluation for 503A compounding.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, Bulk drug substances nominated under section 503B (categories)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, Bulk drug substances nominated under section 503A (categories)",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes Lipo-Mino with L-Carnitine."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s recall records include compounded lipotropic and MIC injections containing L-carnitine, such as Tri-Coast Pharmacy’s blends (2017) and Tailor Made Compounding’s MIC + B12 + carnitine vials (2022), recalled for lack of assurance of sterility.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
+            "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Levocarnitine is an approved medicine for carnitine deficiency in the US (Carnitor) and in Canada (Carnitor). EMA’s central list has no levocarnitine product. The UK, national EU status and Australia are still being confirmed.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Carnitor and generics) for carnitine deficiency. Prescription-only. Energy or weight-loss use is off-label; compounded blends are not approved.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:levocarnitine&limit=50",
+              "label": "Drugs@FDA data for levocarnitine (FDA, openFDA)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+              "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+              "date": "published Nov 2023"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: Carnitor (DIN 02144336, by mouth), marketed since 1995.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&id=19094",
+              "label": "Health Canada Drug Product Database, Carnitor (DIN 02144336)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=19094",
+              "label": "Health Canada Drug Product Database, Carnitor status",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/route/?lang=en&type=json&id=19094",
+              "label": "Health Canada Drug Product Database, Carnitor route",
+              "date": "accessed Oct 31, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EMA’s list of centrally authorised medicines includes no levocarnitine product. We did not check national EU authorisations.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "L-carnitine is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. Separately, the lists' method M2.2 bans intravenous infusions or injections of more than 100 mL per 12-hour period, except in hospital treatment, surgery or clinical tests.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The Carnitor labels list serious allergic reactions and seizures, as well as stomach upset and body odor."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Serious allergic reactions:",
+            "text": "Anaphylaxis, throat swelling and bronchospasm after IV use, mostly in dialysis patients, some within minutes. Rash, hives and facial swelling with oral use.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2133bc3-9c15-48bd-8b16-b8995a6a14cd",
+                "label": "Carnitor (levocarnitine) Tablets and Oral Solution label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Seizures:",
+            "text": "Reported in people with or without a seizure history, on oral or IV levocarnitine; more or worse seizures in people who already had them.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2133bc3-9c15-48bd-8b16-b8995a6a14cd",
+                "label": "Carnitor (levocarnitine) Tablets and Oral Solution label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Common:",
+            "text": "Passing nausea and vomiting; less often body odor and gastritis. With oral forms, abdominal cramps and diarrhea.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2133bc3-9c15-48bd-8b16-b8995a6a14cd",
+                "label": "Carnitor (levocarnitine) Tablets and Oral Solution label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "In dialysis trials:",
+            "text": "Events at 5% or more included injection-site reactions, headache, high blood pressure, low blood pressure, diarrhea and vomiting, reported regardless of cause and also common on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Warfarin:",
+            "text": "Raised INR has been reported; the label recommends monitoring INR.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Kidney disease:",
+            "text": "High oral doses in severe kidney disease may build up the metabolites TMA and TMAO.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
+                "label": "Carnitor (levocarnitine) Injection label, DailyMed",
+                "date": "published Nov 2023"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open the Drugs@FDA web pages; approval dates come from FDA’s Drugs@FDA data through openFDA.",
+    "Health Canada’s record for the Carnitor injection (DIN 02144344) did not load fully, so only the oral product is cited.",
+    "UK (MHRA), national EU and Australian (TGA) status could not be confirmed from the regulators’ records."
+  ],
+  "surprises": [
+    "The FDA-approved Carnitor injection is labelled for intravenous use only, while compounded lipotropic blends with L-carnitine are sold as shots for energy and fat loss.",
+    "Even for the approved dialysis use, the Carnitor label says effects on symptoms and clinical outcomes have not been determined."
+  ]
+}

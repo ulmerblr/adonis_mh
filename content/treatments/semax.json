@@ -1,0 +1,727 @@
+{
+  "slug": "semax",
+  "name": "Semax",
+  "peptide": true,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Small Russian studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and mouse studies, mostly in Russia",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small Russian studies, nasal drops only",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved in US; registered in Russia",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Semax is a chain of seven amino acids: Met-Glu-His-Phe-Pro-Gly-Pro. Its molecular weight is about 814 daltons. It is sold as a free base or an acetate salt. It is a common name, not an official drug name.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is a synthetic analog of a fragment of the hormone ACTH (ACTH 4-10), without ACTH’s hormone effects. Its Pro-Gly-Pro end is thought to slow its breakdown. It was made at the Institute of Molecular Genetics of the Russian Academy of Sciences.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+            "label": "Deigin et al., Pharmaceutics, 2022",
+            "date": "published Mar 2022"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In Russia it is a registered medicine, sold as 0.1% and 1% nasal drops, according to FDA’s 2026 review of Russia’s state drug register.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In rats with induced strokes, it reduced brain damage; in one study the damaged area was about 20% smaller.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "In rats, it raised nerve growth factors (BDNF and NGF) in the brain within an hour.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "In rats, it made blood clot less (anticoagulant and antithrombotic effects).",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "In rodents, it raised pain thresholds when injected, but not when given in the nose, in one study.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "In mice, it boosted the dopamine release caused by amphetamine. FDA flags this as a possible abuse concern.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "FDA describes its mechanisms as poorly understood. Animal effects have not been confirmed in people."
+      },
+      {
+        "t": "p",
+        "text": "Adonis does not carry Semax today."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: small studies, almost all from Russia and many published only in Russian, all with nasal drops. For the uses it reviewed, FDA found two usable references, both small and uncontrolled. FDA found no study of Semax given by injection."
+      },
+      {
+        "t": "p",
+        "text": "Across eight references, FDA counted Semax use in about 33 to 47 healthy adults, 69 adults with medical conditions and 451 children with depression or tics. Three were meeting abstracts, and most did not discuss side effects.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "1996 · Open-label, single dose",
+        "title": "Migraine and facial nerve pain, 1996",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Koroleva et al. 1996, as summarized by FDA"
+          },
+          {
+            "k": "Design",
+            "v": "no blinding, no control group"
+          },
+          {
+            "k": "People",
+            "v": "12 adults with migraine, 16 with trigeminal neuralgia and 9 with dental plexalgia"
+          },
+          {
+            "k": "What was given",
+            "v": "one dose of Semax in the nose"
+          },
+          {
+            "k": "Measured",
+            "v": "an undescribed pain rating scale, and nerve and blood-flow recordings up to 30 minutes after"
+          }
+        ],
+        "found": "Migraine: 4 of 12 said the headache stopped 90 to 120 minutes later. Typical trigeminal neuralgia: no change. The authors concluded that Semax \"does not exhibit analgesic activity by itself.\" They reported no side effects.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 1997 · Controlled study",
+        "title": "Acute ischemic stroke, 1997 (Russia)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Gusev EI, et al. Zh Nevrol Psikhiatr Im S S Korsakova 1997;97(6):26-34 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "Semax added to standard care, compared with patients on standard care alone. The abstract does not describe randomization or blinding."
+          },
+          {
+            "k": "People",
+            "v": "30 patients on Semax; 80 controls with similar strokes"
+          },
+          {
+            "k": "Length",
+            "v": "5- or 10-day courses"
+          },
+          {
+            "k": "Measured",
+            "v": "clinical rating scales, EEG and evoked potentials"
+          }
+        ],
+        "found": "The authors report \"some influence\" on the speed of recovery of neurological function, especially movement.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11517472/",
+            "label": "Gusev et al., Zh Nevrol Psikhiatr, 1997",
+            "date": "published 1997"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2018 · Comparative study",
+        "title": "Stroke rehabilitation, 2018 (Russia)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Gusev EI, et al. Zh Nevrol Psikhiatr Im S S Korsakova 2018;118(3):61-68 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "early and late rehabilitation groups, each split into Semax and no-Semax subgroups. The abstract does not describe randomization or blinding."
+          },
+          {
+            "k": "People",
+            "v": "110 adults after ischemic stroke (43 men, 67 women, mean age 58)"
+          },
+          {
+            "k": "Length",
+            "v": "two 10-day courses, followed for about 5 months"
+          },
+          {
+            "k": "Measured",
+            "v": "BDNF in blood, muscle strength, Barthel daily-living score"
+          }
+        ],
+        "found": "The authors report higher BDNF levels and better Barthel scores with Semax, with less effect on weakness.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29798983/",
+            "label": "Gusev et al., Zh Nevrol Psikhiatr, 2018",
+            "date": "published 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2018 · Placebo-controlled imaging study",
+        "title": "Brain scans in healthy volunteers, 2018",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Lebedeva IS, et al. Bull Exp Biol Med 2018;165(5):653-656"
+          },
+          {
+            "k": "Design",
+            "v": "Semax or placebo, compared between two groups"
+          },
+          {
+            "k": "People",
+            "v": "24 healthy volunteers (11 men, 13 women, mean age 44): 14 on Semax, 10 on placebo"
+          },
+          {
+            "k": "What was given",
+            "v": "one dose of 1% Semax nasal drops, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "scans before and 5 and 20 minutes after"
+          },
+          {
+            "k": "Measured",
+            "v": "resting-state functional MRI of the default mode network"
+          }
+        ],
+        "found": "One part of the network, in the medial frontal cortex, was larger in the Semax group. No clinical outcome was measured.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30225715/",
+            "label": "Lebedeva et al., Bull Exp Biol Med, 2018",
+            "date": "published Sep 2018"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA did not consider Russian-only stroke papers, because full English versions were not available. The one stroke reference it reviewed was a meeting abstract that gave no patient count and no clinical outcomes.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials"
+      },
+      {
+        "t": "p",
+        "text": "No Semax trial was found on ClinicalTrials.gov.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=semax",
+            "label": "ClinicalTrials.gov search, \"semax\"",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "Rat and mouse studies, mostly from Russian groups, report less brain damage after induced stroke, more nerve growth factors, less blood clotting, pain relief when injected, and antidepressant- and anxiety-reducing effects. FDA notes they mostly used one fixed dose and did not measure how much reached the blood. No published toxicity studies were found.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193348/download",
+            "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA’s scientists, in a memo dated May 11, 2026 for the July meeting, recommended against adding Semax (free base or acetate) to the compounding list. They found insufficient evidence of effectiveness for cerebral ischemia, migraine or trigeminal neuralgia, and raised safety and quality concerns for injected and nasal-spray forms.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "Semax was also nominated for ADHD and as a \"nootropic\". FDA did not evaluate ADHD because no supporting literature was found.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA’s advisory committee was asked to vote on both forms on July 24, 2026.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, PCAC meeting page, July 23-24, 2026",
+                "date": "accessed Oct 31, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use, and no FDA-approved drug contains it. FDA’s scientists advised against allowing it in compounding. As of October 31, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Semax has no USP or National Formulary monograph.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists \"Semax (heptapeptide)\" among substances previously in Category 2 whose nominations were withdrawn. FDA wrote that it has no or limited safety information for the proposed routes.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Nominations:",
+            "text": "Wells Pharmacy Network and LDT Health Solutions nominated it for nasal spray or injection; both withdrew. FDA reviewed it on its own initiative.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "On October 30, 2026, HHS published notice of an \"Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances\" (Docket HHS-OASH-2026-0496). The notice says the peptides are listed in an appendix on the HHS website. The notice itself does not name them, and the HHS appendix could not be opened for this page, so whether Semax is covered, and on what conditions, is not confirmed here. Enforcement discretion is not approval, and the notice says the policy is not binding on HHS.",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Use in compounding:",
+            "text": "no outsourcing facility has reported compounding Semax since 2019. FDA found clinics and online sellers marketing injections and nasal sprays, some labelled \"for research purposes only\". FDA also cites a federal press release about a Kentucky pharmacy that compounded and distributed Semax products from October 2018 to April 2020.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA’s controlled substances list dated October 21, 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Russia is the one country where Semax is a registered medicine, as nasal drops, according to FDA’s review of the Russian register. No approval was found elsewhere, and EMA lists no Semax medicine. WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / HHS",
+          "status": "Not approved. FDA staff advised against adding it to the compounding list. HHS peptide policy coverage not confirmed from the HHS list.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193348/download",
+              "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Ministry of Health (state drug register)",
+          "status": "Registered medicine: 0.1% and 1% nasal drops, per FDA’s 2026 review of the Russian state register. The register entry itself could not be opened.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193348/download",
+              "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "643"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (not in EMA’s medicines list). No European Pharmacopoeia monograph. National status not checked.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193348/download",
+              "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Semax is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans at all times any pharmacological substance with no current approval by any government health regulator for human use. For 2027, WADA warned that peptides not named on the List may still fall under S0 or other classes. The lists do not say whether Semax is covered.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA Prohibited List 2026",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA Prohibited List 2027 (tracked changes)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_explanatory_note_en_final_17_august_2026_1.pdf",
+              "label": "WADA, 2027 List explanatory notes",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: Semax is not named in the Poisons Standard (June 2026). The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade",
+              "label": "Australia, Poisons Standard June 2026",
+              "date": "published May 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side-effect data are sparse. Most Semax studies did not report on side effects, and there are no human pharmacokinetic data. FDA flagged a possible bleeding risk, a possible abuse concern from animal work, and one serious consumer report."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "one small study reported no side effects; the others did not discuss them. No safety data exist for injection.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA adverse event report:",
+            "text": "one report through December 3, 2025. A consumer had eye pain and burning after using Semax 0.1% nasal drops bought online in May 2024, was hospitalized, and still had eye pain a year later. A report like this does not show that Semax caused it.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bleeding:",
+            "text": "Semax reduced blood clotting in rats. FDA says this raises concern about bleeding, especially with other drugs that raise bleeding risk.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse potential:",
+            "text": "in mice it boosted amphetamine-triggered dopamine release, a response typical of drugs of abuse. No studies have assessed abuse potential.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA is concerned about immune reactions to injected or sprayed Semax from clumping and peptide impurities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193348/download",
+                "label": "FDA briefing, Semax (memo dated May 11, 2026)",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Russia’s state drug register (grls.rosminzdrav.ru) loaded but asks for a picture code before showing results, so Semax’s register entry could not be opened; its Russian status comes from FDA’s briefing, which cites that register (accessed by FDA Dec 4, 2025).",
+    "The HHS appendix that lists the peptides covered by the October 30, 2026 policy (hhs.gov) returned \"access denied\", so Semax’s coverage and any conditions are not confirmed from the HHS record.",
+    "FDA’s record of the July 24, 2026 advisory committee vote on Semax was not found among the meeting materials, so the vote result is left out.",
+    "Koroleva et al. 1996 and the Russian-language stroke papers were not opened in full; the 1996 study is reported as FDA summarized it.",
+    "Canada (the Drug Product Database connection failed), UK (MHRA) and Australia’s TGA register were not checked."
+  ],
+  "surprises": [
+    "Semax is marketed in the US as injections and nasal sprays, but its Russian registration is for nasal drops, and FDA found no study of injected Semax.",
+    "A 2022 Russian review says Semax does not cause drug dependence; FDA notes that in mice it boosted amphetamine-triggered dopamine release and that no study has assessed its abuse potential.",
+    "Semax is sold online for pain, but in the only pain study FDA found, the authors concluded it \"does not exhibit analgesic activity by itself.\"",
+    "Semax is marketed for ADHD, anxiety, depression, Parkinson’s and Alzheimer’s disease; FDA found no literature supporting ADHD and did not evaluate the others."
+  ]
+}

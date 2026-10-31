@@ -1,0 +1,450 @@
+{
+  "slug": "vitamin-b12",
+  "name": "Vitamin B12",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "2 small placebo trials",
+    "fda": "Approved (deficiency)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Vitamin role long described on the FDA label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Energy use: 2 small placebo-controlled trials",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Cyanocobalamin injection, B12 deficiency only",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Vitamin B12 (cobalamin) is a vitamin the body needs to make blood cells, DNA and the coating around nerves. FDA’s label says it is essential to growth, cell reproduction, blood formation, and nucleoprotein and myelin synthesis. The body stores it mainly in the liver.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+            "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+            "date": "published Oct 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Cyanocobalamin is the most widely used form. The label says hydroxocobalamin works equally well. Methylcobalamin is another form; it is not in any FDA-approved drug (see US position).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+            "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+            "date": "published Oct 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "What Adonis carries through Beluga, all given by injection: a methylcobalamin injection; B12 added to some compounded semaglutide and tirzepatide injections; and B12 inside “MIC” lipotropic blends (MICC-B12, MIC+B6+B12 and Lipo MIC-B), which also contain methionine, inositol and choline."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "There is little research on B12 injections for energy in people who are not low in B12. We found two small placebo-controlled trials. Neither found a difference from placebo. We found no trial of B12 injections for weight loss."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 to 2018 · Randomized crossover trial",
+        "title": "B12 injection vs salt-water injection in singers",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled crossover; one cyanocobalamin injection into the shoulder muscle and one saline injection, at least 4 weeks apart"
+          },
+          {
+            "k": "People",
+            "v": "20 adult singers with mild voice symptoms such as low stamina and vocal fatigue; anyone with known or suspected B12 deficiency or recent B12 treatment was excluded"
+          },
+          {
+            "k": "Length",
+            "v": "Measured up to 1 week after each injection"
+          },
+          {
+            "k": "Measured",
+            "v": "Self-rated singing voice handicap (main measure, at 72 hours), voice fatigue and ease of singing"
+          }
+        ],
+        "found": "Scores improved about the same after B12 and after placebo, and neither reached the minimal clinically important difference on average. The authors found no meaningful difference from placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33180098/",
+            "label": "Shoffel-Havakuk H, et al. JAMA Otolaryngol Head Neck Surg, 2021 (PubMed)",
+            "date": "published Jan 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1989 · Placebo-controlled crossover trial",
+        "title": "Liver extract, folic acid and B12 injection in chronic fatigue syndrome",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled crossover; muscle injections of a bovine liver extract containing folic acid and cyanocobalamin, vs placebo"
+          },
+          {
+            "k": "People",
+            "v": "15 patients who met CDC criteria for chronic fatigue syndrome"
+          },
+          {
+            "k": "Length",
+            "v": "Not stated in the abstract"
+          },
+          {
+            "k": "Measured",
+            "v": "Functional status"
+          }
+        ],
+        "found": "Patients responded to both placebo and the active injection, with no significant difference between them. The placebo response was strong.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2684076/",
+            "label": "Kaslow JE, et al. Arch Intern Med, 1989 (PubMed)",
+            "date": "published Nov 1989"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Cyanocobalamin injection is FDA approved, as generic (ANDA) products, for vitamin B12 deficiency caused by poor absorption, including pernicious anemia. Injecting B12 for energy or weight loss in someone who is not deficient is off-label."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s Drugs@FDA data lists many cyanocobalamin injection approvals. The oldest original approval in that data is an ANDA dated October 1971. A cyanocobalamin nasal spray, Nascobal, was approved in 2005 and is now listed as discontinued.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:cyanocobalamin&limit=50",
+            "label": "Drugs@FDA data for cyanocobalamin (FDA, openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approved use:",
+            "text": "B12 deficiency from malabsorption, linked with pernicious (Addisonian) anemia; stomach or bowel disease or surgery, including gastrectomy; fish tapeworm; cancer of the pancreas or bowel; and folic acid deficiency. Also the Schilling absorption test.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "What the label says about extra need:",
+            "text": "Higher needs from pregnancy, thyroid overactivity, blood loss, cancer, or liver and kidney disease “can usually be met with oral supplementation.”",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Methylcobalamin:",
+            "text": "FDA lists methylcobalamin as nominated for compounding and “under evaluation” (Category 1) for both pharmacy compounding (503A) and outsourcing facilities (503B). On the 503B list it is not marked as a component of an FDA-approved drug; cyanocobalamin is.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, Bulk drug substances nominated under section 503A (categories)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, Bulk drug substances nominated under section 503B (categories)",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes the methylcobalamin injection, the GLP-1 injections with added B12, and the MIC lipotropic blends."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s recall records list many compounded “lipotropic”, “Lipo-B” and methionine/inositol/choline (MIC) injections recalled by compounding pharmacies, most often for “lack of assurance of sterility.” Examples: Isomeric Pharmacy Solutions’ cyanocobalamin/methionine/inositol/choline vials (2017), Partell Specialty Pharmacy’s MIC + B12 vials (2018), Assurance Infusion’s Lipo B vials (2020) and Tailor Made Compounding’s MIC + B12 + carnitine vials (2022). These were recalls of specific pharmacies’ lots, not a ruling on the ingredients.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
+            "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "B12 injection is an approved medicine for B12 deficiency in the US. In the EU, the only centrally authorised B12 medicine we found is a hydroxocobalamin product for cyanide poisoning. Canada, the UK and Australia are still being confirmed.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (cyanocobalamin injection, generic) for B12 deficiency. Prescription-only. Energy or weight-loss use is off-label; compounded blends are not approved.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:cyanocobalamin&limit=50",
+              "label": "Drugs@FDA data for cyanocobalamin (FDA, openFDA)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+              "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+              "date": "published Oct 2023"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EMA’s list of centrally authorised medicines includes Cyanokit (hydroxocobalamin), authorised in November 2007 for known or suspected cyanide poisoning. It includes no cyanocobalamin or methylcobalamin product. We did not check national EU authorisations.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Vitamin B12 is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. Separately, the lists' method M2.2 bans intravenous infusions or injections of more than 100 mL per 12-hour period, except in hospital treatment, surgery or clinical tests.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The cyanocobalamin injection label lists serious reactions, including anaphylactic shock and death. Compounded methylcobalamin and MIC blends have no FDA label."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Serious:",
+            "text": "Anaphylactic shock and death have been reported after B12 injections. The label recommends a skin test dose for people suspected of being sensitive.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Heart and blood:",
+            "text": "Fluid in the lungs and heart failure early in treatment; blood clots in peripheral vessels; polycythemia vera. Low potassium and sudden death may occur when severe megaloblastic anemia is treated intensely.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Eyes:",
+            "text": "People with early Leber’s disease (an inherited optic nerve condition) had severe, swift optic atrophy on cyanocobalamin.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Common, milder:",
+            "text": "Mild short-lived diarrhea, itching, a passing rash, and a feeling of swelling of the whole body.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Who should not use it:",
+            "text": "People sensitive to cobalt or vitamin B12.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Masking:",
+            "text": "Giving B12 or folic acid without a diagnosis may mask the true cause of anemia. Folic acid can correct the blood picture while nerve damage from B12 deficiency continues.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Ingredients:",
+            "text": "The labelled vials contain benzyl alcohol (linked to a fatal “gasping syndrome” in premature infants) and may contain aluminum, which can build up when kidney function is impaired.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+                "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open the Drugs@FDA web pages; approval dates come from FDA’s Drugs@FDA data through openFDA.",
+    "Canada (Health Canada Drug Product Database) did not load reliably, so B12 injection status in Canada is not confirmed.",
+    "The UK MHRA product database did not return results to our tools, so UK status is not confirmed.",
+    "Australia’s TGA was not reachable, so Australian status is not confirmed.",
+    "A 1973 pilot study of B12 for tiredness (Ellis and Nasser, Br J Nutr) has no abstract on PubMed; we could not confirm its design or results, so it is left out."
+  ],
+  "surprises": [
+    "B12 shots are widely sold for energy, but the FDA label approves B12 injection only for deficiency, and the two placebo-controlled trials we found in people without known deficiency showed no difference from placebo.",
+    "Methylcobalamin is often marketed as the “better” B12, yet it is not in any FDA-approved drug; FDA lists it only as a compounding substance under evaluation.",
+    "The FDA label says extra B12 needs can usually be met by mouth, unlike the common claim that injections are needed."
+  ]
+}

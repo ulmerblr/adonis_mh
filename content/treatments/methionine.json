@@ -1,0 +1,270 @@
+{
+  "slug": "methionine",
+  "name": "Methionine",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "No trials found",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Not reviewed for this use",
+      "status": "not"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No energy or fat-loss injection studies found",
+      "status": "not",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "Not run",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not run",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Not run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "No FDA-approved methionine product found",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Methionine is an essential amino acid, one of the building blocks of protein. It is the “M” in “MIC” injections.",
+        "src": [
+          {
+            "url": "https://pubchem.ncbi.nlm.nih.gov/compound/6137",
+            "label": "PubChem (NIH National Library of Medicine), L-methionine record",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "What Adonis carries through Beluga: methionine only inside compounded lipotropic injection blends (MICC-B12, MIC+B6+B12, Lipo MIC-B and Lipo-B6)."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "We found no published human study of injected methionine, alone or in MIC blends, for energy or fat loss."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "We found no FDA-approved methionine product. Using methionine injections for energy or weight loss is not an approved use."
+      },
+      {
+        "t": "p",
+        "text": "A search of FDA’s Drugs@FDA data for methionine as an active ingredient returned no approved product.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:methionine&limit=50",
+            "label": "Drugs@FDA data search for methionine (FDA, openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA lists methionine (L-methionine) as nominated for outsourcing-facility (503B) compounding and “under evaluation” (Category 1). It is not marked as a component of an FDA-approved drug. Methionine does not appear in FDA’s 503A category lists.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/94164/download",
+            "label": "FDA, Bulk drug substances nominated under section 503B (categories)",
+            "date": "published Mar 2025"
+          },
+          {
+            "url": "https://www.fda.gov/media/94155/download",
+            "label": "FDA, Bulk drug substances nominated under section 503A (categories)",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes every MIC and lipotropic blend containing methionine."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s recall records list many compounded “lipotropic”, “Lipo-B” and methionine/inositol/choline (MIC) injections recalled by compounding pharmacies, most often for “lack of assurance of sterility.” Examples: Isomeric Pharmacy Solutions’ cyanocobalamin/methionine/inositol/choline vials (2017), Partell Specialty Pharmacy’s MIC + B12 vials (2018), Assurance Infusion’s Lipo B vials (2020) and Tailor Made Compounding’s MIC + B12 + carnitine vials (2022). These were recalls of specific pharmacies’ lots, not a ruling on the ingredients.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
+            "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "We found no approved methionine medicine in the US. EMA’s central list has methionine only as one of many amino acids in Maapliv, a product for maple syrup urine disease. Other countries are still being confirmed.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "No FDA-approved methionine product found. Compounded MIC blends are not FDA approved.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:methionine&limit=50",
+              "label": "Drugs@FDA data search for methionine (FDA, openFDA)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94164/download",
+              "label": "FDA, Bulk drug substances nominated under section 503B (categories)",
+              "date": "published Mar 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EMA’s list of centrally authorised medicines includes Maapliv, an amino acid mixture containing L-methionine, for maple syrup urine disease. It has no methionine product for energy or weight. We did not check national EU authorisations.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Methionine is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. Separately, the lists' method M2.2 bans intravenous infusions or injections of more than 100 mL per 12-hour period, except in hospital treatment, surgery or clinical tests.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no FDA label for injected methionine, so there is no labelled side-effect list."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s recall records show compounded MIC injections recalled for lack of assurance of sterility, a risk with any injection made without sterile controls.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
+            "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Canada, UK (MHRA), national EU and Australian (TGA) status could not be confirmed from the regulators’ records.",
+    "We did not confirm whether methionine is in FDA-approved amino acid infusions for intravenous nutrition; the Drugs@FDA ingredient search returned none."
+  ],
+  "surprises": [
+    "MIC injections are marketed for fat loss, yet we found no human study of injected methionine for that use and no FDA-approved methionine product."
+  ]
+}

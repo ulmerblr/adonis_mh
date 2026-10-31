@@ -1,0 +1,331 @@
+{
+  "slug": "vitamin-b6",
+  "name": "Vitamin B6 (pyridoxine)",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "No energy trials found",
+    "fda": "Approved (deficiency)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Vitamin role described on the FDA label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No energy or fat-loss injection studies found",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Not run for energy or weight loss",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Pyridoxine injection, B6 deficiency (ANDA, 1972)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Vitamin B6 is a vitamin. Pyridoxine is its plant form. The body turns it into pyridoxal phosphate, which helps enzymes break down protein, carbohydrate and fat.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+            "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "What Adonis carries through Beluga: pyridoxine only inside compounded lipotropic injection blends, MIC+B6+B12 and Lipo-B6, which also contain methionine, inositol and choline (and B12 in MIC+B6+B12)."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "We found no published human study of injected vitamin B6, alone or in lipotropic blends, for energy or fat loss."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Pyridoxine hydrochloride injection is FDA approved, as a generic (ANDA) product, for pyridoxine deficiency. Injecting it for energy or weight loss is off-label."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s Drugs@FDA data lists Fresenius Kabi’s pyridoxine hydrochloride injection, an ANDA with an original approval dated August 1972.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:pyridoxine&limit=50",
+            "label": "Drugs@FDA data for pyridoxine (FDA, openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approved use:",
+            "text": "Pyridoxine deficiency from poor diet, from drugs such as isoniazid or oral contraceptives, or from inborn errors such as B6-dependent seizures. The injection is for when taking it by mouth is not possible or absorption is impaired.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+                "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "What the label says:",
+            "text": "“Single deficiency, as of pyridoxine alone, is rare.”",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+                "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA lists pyridoxine hydrochloride as nominated for outsourcing-facility (503B) compounding and “under evaluation” (Category 1), marked as a component of an FDA-approved drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, Bulk drug substances nominated under section 503B (categories)",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. The compounded injections Adonis carries through Beluga are not FDA approved. That includes the MIC+B6+B12 and Lipo-B6 blends."
+      },
+      {
+        "t": "p",
+        "text": "FDA’s recall records list many compounded “lipotropic”, “Lipo-B” and methionine/inositol/choline (MIC) injections recalled by compounding pharmacies, most often for “lack of assurance of sterility.” Examples: Isomeric Pharmacy Solutions’ cyanocobalamin/methionine/inositol/choline vials (2017), Partell Specialty Pharmacy’s MIC + B12 vials (2018), Assurance Infusion’s Lipo B vials (2020) and Tailor Made Compounding’s MIC + B12 + carnitine vials (2022). These were recalls of specific pharmacies’ lots, not a ruling on the ingredients.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
+            "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
+            "date": "accessed Oct 31, 2026"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Pyridoxine injection is an approved medicine for B6 deficiency in the US. EMA’s list of centrally authorised medicines has no pyridoxine product. Canada, the UK, national EU status and Australia are still being confirmed.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (pyridoxine hydrochloride injection, generic) for B6 deficiency. Prescription-only. Energy or weight-loss use is off-label.",
+          "checked": "Oct 31, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:pyridoxine&limit=50",
+              "label": "Drugs@FDA data for pyridoxine (FDA, openFDA)",
+              "date": "accessed Oct 31, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+              "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+              "date": "published Oct 2024"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EMA’s list of centrally authorised medicines includes no pyridoxine product. We did not check national EU authorisations.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Oct 31, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Vitamin B6 is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. Separately, the lists' method M2.2 bans intravenous infusions or injections of more than 100 mL per 12-hour period, except in hospital treatment, surgery or clinical tests.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The pyridoxine injection label lists tingling or numbness (paresthesia), sleepiness and low folic acid levels."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Reported reactions:",
+            "text": "Paresthesia, somnolence, and low serum folic acid levels.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+                "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Dependence:",
+            "text": "The label notes symptoms of dependence, followed by withdrawal, in adults given 200 mg daily.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+                "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Levodopa:",
+            "text": "Pyridoxine works against levodopa taken alone. It may be used with carbidopa-levodopa combinations.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+                "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Ingredients:",
+            "text": "The product contains aluminum, which can reach toxic levels with long use when kidney function is impaired.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+                "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open the Drugs@FDA web pages; the approval date comes from FDA’s Drugs@FDA data through openFDA.",
+    "The FDA injection label lists paresthesia but does not use the term peripheral neuropathy; we could not reach TGA’s or other regulators’ records on B6 and nerve damage, so that is left out.",
+    "Canada, UK (MHRA), national EU and Australian (TGA) status could not be confirmed from the regulators’ records."
+  ],
+  "surprises": [
+    "B6 is sold in lipotropic shots for energy and fat loss, but the FDA label approves the injection only for deficiency and says a deficiency of pyridoxine alone is rare."
+  ]
+}
