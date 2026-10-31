@@ -56,7 +56,9 @@ export function PopupButton({ label, title, hash, children }: { label: string; t
 
   return (
     <>
-      <button type="button" ref={button} className="btn btnPunch popupBtn" onClick={show} aria-haspopup="dialog">{label}</button>
+      <button type="button" ref={button} className="popupLink" onClick={show} aria-haspopup="dialog">
+        {label.endsWith('→') ? <>{label.slice(0, -1).trimEnd()} <span className="popupArrow" aria-hidden="true">→</span></> : label}
+      </button>
       <dialog ref={dialog} className="popup" aria-labelledby={`${id}-title`} onClick={(e) => { if (e.target === e.currentTarget) close(); }}>
         <div className="popupInner">
           <button type="button" ref={closeBtn} className="popupClose" aria-label="Close" onClick={close}>×</button>
