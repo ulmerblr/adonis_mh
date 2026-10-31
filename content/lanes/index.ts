@@ -10,8 +10,8 @@ import hairLoss from './hair-loss.json';
 import skin from './skin.json';
 import longevity from './longevity.json';
 
-/** The lane stories written so far. A lane without one keeps its earlier page until its story is added here. */
-export const STORIES: Partial<Record<LaneKey, LaneStory>> = {
+/** The nine stories, one per lane (the rule: exactly one story per lane at any time). Home's cover shows one of them (content/cover.ts). */
+export const STORIES: Record<LaneKey, LaneStory> = {
   trt: trt as LaneStory,
   weight: weight as LaneStory,
   recovery: recovery as LaneStory,

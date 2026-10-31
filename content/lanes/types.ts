@@ -10,6 +10,8 @@ export type LaneStory = {
   headline: [string, string];
   dek: string;
   photoAlt: string;
+  /** The story's photo in public/images/photos/, when it has its own; else lane-<key>.jpg, else the sand placeholder. */
+  photo?: { file: string; alt: string; position: string };
   byline: string;
   paragraphs: string[];
   glance: GlanceRow[];

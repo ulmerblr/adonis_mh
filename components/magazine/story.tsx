@@ -19,8 +19,9 @@ export type StoryPhotoData =
   | { kind: 'file'; src: string; alt: string; caption: string; position: string }
   | { kind: 'placeholder' };
 
-/** A lane's photo: public/images/photos/lane-<key>.jpg when it exists, else the sand placeholder. */
-export function lanePhoto(key: string, alt: string): StoryPhotoData {
+/** A lane's photo: the story's own photo if it names one, else public/images/photos/lane-<key>.jpg when it exists, else the sand placeholder. */
+export function lanePhoto(key: string, alt: string, own?: { file: string; alt: string; position: string }): StoryPhotoData {
+  if (own) return { kind: 'file', src: own.file, alt: own.alt, caption: 'Illustration: AI-generated image', position: own.position };
   const file = `/images/photos/lane-${key}.jpg`;
   return fs.existsSync(path.join(process.cwd(), 'public', file))
     ? { kind: 'file', src: file, alt, caption: 'Illustration: AI-generated image', position: '78% 30%' }

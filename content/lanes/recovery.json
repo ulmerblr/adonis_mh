@@ -1,47 +1,63 @@
 {
   "key": "recovery",
   "headline": [
-    "The trials behind",
-    "the peptides."
+    "Six peptides.",
+    "Zero FDA approvals."
   ],
-  "dek": "BPC-157, TB-500 and KPV can now be compounded. The human research is thin.",
-  "photoAlt": "Illustration for the Recovery lane.",
+  "dek": "HHS opened compounding to BPC-157 and five others. It didn’t approve them.",
+  "photo": {
+    "file": "home-cover-record.jpg",
+    "alt": "A working man in a denim shirt stands with arms crossed beside a table of documents.",
+    "position": "78% 30%"
+  },
+  "photoAlt": "A working man in a denim shirt stands with arms crossed beside a table of documents.",
   "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
   "glance": [
     {
-      "icon": "people",
-      "label": "Human studies",
-      "line": "BPC-157: five, about 80 people. TB-500: one 3-person case report. KPV: none."
+      "icon": "shield",
+      "label": "None FDA-approved",
+      "line": "None of the six has FDA approval for any use."
     },
     {
       "icon": "mortar",
       "label": "Compounding allowed",
-      "line": "All three, under HHS conditions since Oct 30, 2026. Not approval."
+      "line": "All six, under HHS conditions since Oct 30, 2026."
     },
     {
       "icon": "banned",
       "label": "Sport bans",
-      "line": "BPC-157 (S0) and TB-500 (S2.3) are named on WADA’s list. KPV is not.",
+      "line": "BPC-157, TB-500 and MOTS-c are named on WADA’s list. KPV, Epitalon and Semax are not.",
       "src": {
         "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-        "label": "WADA 2026 Prohibited List"
+        "label": "WADA 2026 Prohibited List (BPC-157: S0; TB-500: S2.3; MOTS-c: S4.4.1)"
       }
     }
   ],
   "paragraphs": [
-    "The three peptides in this lane have the same new status and very little human research behind it. On October 30, 2026, HHS said it will not take enforcement action against licensed pharmacies and physicians that compound [[/bpc-157|BPC-157]], [[/tb-500|TB-500]] and [[/kpv|KPV]], among six peptides, as long as every condition in its notice is met. None of the three is FDA approved for any use.",
-    "BPC-157 has the most human data, and it is small: five published studies, about 80 people, none longer than two weeks. The largest was a 2005 colitis trial of 53 people given an enema, reported only as a conference abstract; its result was not statistically significant. FDA’s scientists found no human studies using the routes people actually use: by mouth, under the skin, in the nose or on the skin.",
-    "TB-500 has less. FDA’s 2026 review found no study in which it was given to people, and no animal toxicity studies at all. Since then one case report has described three dental patients who got TB-500 mixed with BPC-157 and other drugs, so no single ingredient’s effect can be separated. KPV has no published human study of any kind; everything known about it comes from mice, rabbits and cells.",
-    "Registered trials do not change the picture yet. A Phase 2 trial of BPC-157 for hamstring strain, sponsored by Hudson Biotech, was registered in February 2026 and is recruiting, with no results. The only ClinicalTrials.gov record naming TB-500 describes itself as “a fictional study” and “an example” record. Its sponsor is the same company, Hudson Biotech. ClinicalTrials.gov lists no trial of KPV.",
-    "The HHS policy is enforcement discretion. It names set routes for each peptide, requires a patient-specific prescription, a single listed ingredient, and a bulk substance from an FDA-registered maker with a valid certificate of analysis, and asks for serious adverse events to be reported to FDA. It does not cover blends, outsourcing facilities, or products sold as research chemicals or supplements. It does not make any of them FDA approved, and HHS may revise or withdraw it. FDA’s own scientists had recommended against all three; its advisory committee voted 8 to 6, with one abstention, for each, as reported by Healio.",
-    "Sport has its own rules. WADA’s 2026 list names BPC-157 under S0, non-approved substances, and TB-500 under S2.3, growth factors; both are banned at all times. KPV is not named. S0 bans any substance with no current government approval for human use, but whether WADA applies that to KPV was not confirmed."
+    "On October 30, HHS said it won’t take action against licensed pharmacies and physicians that compound BPC-157, TB-500, KPV, MOTS-c, Epitalon and Semax, as long as they meet ten conditions.",
+    "The notice, signed by HHS Secretary Robert F. Kennedy Jr., was filed with the Federal Register on October 28 and published on October 30 under Docket HHS-OASH-2026-0496. It covers state-licensed pharmacies, federal facilities and licensed physicians. The public can comment for two weeks after publication.",
+    "This is enforcement discretion, not approval. None of the six is FDA-approved, and the policy says so. It does not add them to FDA’s list of ingredients pharmacies may compound with, it is not binding on HHS, and HHS says it may revisit the policy if a safety signal or product-quality problem appears. It runs while FDA writes rules on each peptide.",
+    "Compounded drugs are not FDA-approved either. FDA does not review their safety, effectiveness or quality before they are sold.",
+    "The policy follows a July meeting of FDA’s Pharmacy Compounding Advisory Committee. The committee reviewed seven peptides and recommended six of them; it rejected the seventh, emideltide. FDA’s own career scientists had recommended against all seven. On BPC-157, the vote was 8 to 6, with one abstention. These vote details are as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.",
+    "The human record behind BPC-157 is five published studies, about 80 people, and none longer than two weeks. Every one of them is listed, study by study, in [[/bpc-157|the BPC-157 file]]. The other five peptides have files too: [[/tb-500|TB-500]], [[/kpv|KPV]], [[/mots-c|MOTS-c]], [[/epitalon|Epitalon]] and [[/semax|Semax]].",
+    "The registries add little. The only ClinicalTrials.gov entry for TB-500, NCT07487363, sponsored by Hudson Biotech and first posted March 23, 2026, describes itself as fictional; the same sponsor registered the BPC-157 hamstring trial cited in the BPC-157 file. And the HHS policy covers only the routes it lists: injection under the skin or into muscle for BPC-157, TB-500, MOTS-c and Epitalon; by mouth or on the skin for BPC-157 and KPV; in the nose for Semax. Each product may hold one active ingredient from the list, and blends are not covered."
   ],
   "pull": {
-    "quote": "we did not identify data, such as clinical studies, on the use of TB-500 in humans.",
-    "cite": "FDA briefing on TB-500, May 2026",
-    "href": "https://www.fda.gov/media/193349/download"
+    "quote": "We found no studies that administered BPC-157 to humans via the proposed oral, SC, nasal, or transdermal ROA.",
+    "cite": "FDA briefing document, July 2026",
+    "href": "https://www.fda.gov/media/193343/download"
   },
   "sources": [
+    {
+      "url": "https://www.fda.gov/media/193343/download",
+      "label": "FDA briefing document on BPC-157, PCAC meeting July 2026",
+      "date": "published May 2026"
+    },
+    {
+      "url": "https://public-inspection.federalregister.gov/2026-22192.pdf",
+      "label": "HHS, Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances, Federal Register",
+      "date": "published Oct 2026"
+    },
     {
       "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
       "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
@@ -49,53 +65,48 @@
     },
     {
       "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
-      "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+      "label": "BakerHostetler summary of the HHS policy (a law firm’s summary, used because HHS’s own policy appendix could not be opened)",
       "date": "published Oct 28, 2026"
     },
     {
-      "url": "https://www.fda.gov/media/193343/download",
-      "label": "FDA briefing document on BPC-157, PCAC meeting July 2026",
-      "date": "published May 2026"
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+      "label": "WADA 2026 Prohibited List",
+      "date": "published Sep 2025"
     },
     {
-      "url": "https://www.fda.gov/media/193349/download",
-      "label": "FDA briefing document on TB-500, PCAC meeting July 2026",
-      "date": "published May 2026"
-    },
-    {
-      "url": "https://www.fda.gov/media/193346/download",
-      "label": "FDA briefing document on KPV, PCAC meeting July 2026",
-      "date": "published May 2026"
-    },
-    {
-      "url": "https://clinicaltrials.gov/study/NCT07437547",
-      "label": "ClinicalTrials.gov NCT07437547 (BPC-157, hamstring strain)",
-      "date": "published Feb 2026"
-    },
-    {
-      "url": "https://clinicaltrials.gov/study/NCT07487363",
-      "label": "ClinicalTrials.gov NCT07487363",
-      "date": "first posted Mar 23, 2026"
-    },
-    {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13661421/",
-      "label": "Froum S, et al. Front Oral Health 2026",
+      "url": "https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list",
+      "label": "WADA news: 2027 Prohibited List",
       "date": "published Sep 2026"
     },
     {
-      "url": "https://clinicaltrials.gov/api/v2/studies?query.term=KPV",
-      "label": "ClinicalTrials.gov search for “KPV”",
-      "date": "accessed Oct 31, 2026"
+      "url": "https://www.ajmc.com/view/hhs-draft-policy-eases-enforcement-on-6-compounded-peptides",
+      "label": "AJMC, “HHS Draft Policy Eases Enforcement on 6 Compounded Peptides”",
+      "date": "published Oct 29, 2026"
     },
     {
       "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
-      "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+      "label": "Healio, “FDA committee recommends looser restrictions for several peptides”",
       "date": "published Jul 24, 2026"
     },
     {
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-      "label": "WADA Prohibited List 2026",
-      "date": "published Sep 2025"
+      "url": "https://ncpa.org/newsroom/qam/2026/10/29/fda-grants-enforcement-discretion-compounding-six-peptides",
+      "label": "NCPA, on enforcement discretion for compounding six peptides",
+      "date": "published Oct 29, 2026"
+    },
+    {
+      "url": "https://granfondodailynews.com/2026/10/17/world-anti-doping-agency-puts-peptides-on-2027-prohibited-list/",
+      "label": "Gran Fondo Daily News, on peptides and the 2027 Prohibited List",
+      "date": "published Oct 17, 2026"
+    },
+    {
+      "url": "https://clinicaltrials.gov/study/NCT07487363",
+      "label": "ClinicalTrials.gov NCT07487363 (TB-500, Hudson Biotech)",
+      "date": "published Mar 2026"
+    },
+    {
+      "url": "https://clinicaltrials.gov/study/NCT07437547",
+      "label": "ClinicalTrials.gov NCT07437547 (BPC-157, hamstring strain, Hudson Biotech)",
+      "date": "published Feb 2026"
     }
   ]
 }

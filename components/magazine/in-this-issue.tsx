@@ -1,11 +1,11 @@
 import Link from 'next/link';
-import { IN_THIS_ISSUE, type IssueEntry } from '@/content/home/in-this-issue';
+import type { IssueEntry } from '@/content/home/in-this-issue';
 
 /**
- * Magazine Section sidebar: "In this issue", nine numbered stories, each linking to its lane. Home passes its own list
- * (the default); a lane page passes the nine lane stories with its own lane marked current (`laneMark`: punch red).
+ * Magazine Section sidebar: "In this issue", the nine lane stories in nav order, each linking to its lane. The cover
+ * lane carries "Cover story"; the story on the page carries "Now reading" (punch red on lane pages: `laneMark`).
  */
-export function InThisIssue({ entries = IN_THIS_ISSUE, laneMark = false }: { entries?: IssueEntry[]; laneMark?: boolean }) {
+export function InThisIssue({ entries, laneMark = false }: { entries: IssueEntry[]; laneMark?: boolean }) {
   return (
     <nav className={laneMark ? 'issue issueLanes' : 'issue'} aria-label="In this issue">
       <h2 className="issueTitle">In this issue</h2>
@@ -15,8 +15,12 @@ export function InThisIssue({ entries = IN_THIS_ISSUE, laneMark = false }: { ent
             <Link href={`/lanes/${e.lane}`} aria-current={e.current ? 'true' : undefined}>
               <span className="issueNum">{e.n}</span>
               <span>
-                <span className="issueLane">{e.label}{e.current ? <span className="issueNow"> · Now reading</span> : null}</span>
-                <span className={e.written ? 'issueStory' : 'issueStory issueUnwritten'}>{e.title}</span>
+                <span className="issueLane">
+                  {e.label}
+                  {e.cover ? <span className="issueCover"> · Cover story</span> : null}
+                  {e.current ? <span className="issueNow"> · Now reading</span> : null}
+                </span>
+                <span className="issueStory">{e.title}</span>
               </span>
             </Link>
           </li>
