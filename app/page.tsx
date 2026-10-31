@@ -1,132 +1,127 @@
 import Link from 'next/link';
-import { A, CLINIC } from '@/components/ext';
+import { A, Label } from '@/components/ext';
+import { IndexTable } from '@/components/index-table';
+import { LANES, TREATMENTS, UPDATED, countWords } from '@/lib/library';
 
 export const metadata = { title: { absolute: 'AdonisMensHealth.com' } };
 
-const TERMS: [string, string][] = [
-  ['Approved medicine', 'The regulator has a product approval on record for a specific use. We link the record.'],
-  ['Prescription-only', 'Can be supplied only with a prescription in that country.'],
-  ['Compounding allowed', 'A licensed pharmacy may prepare it for an individual patient under that country’s compounding rules. This is not approval.'],
-  ['Research-only', 'Legal to make or hold for research, not for use in people.'],
-  ['Not approved', 'No approval on record. Selling it as a medicine is not permitted.'],
-  ['Banned', 'Prohibited by law or regulator order.'],
-  ['Prohibited in sport', 'On the WADA Prohibited List. Separate from medical status.'],
+const FED_REG = 'https://public-inspection.federalregister.gov/2026-22192.pdf';
+
+const LOG = [
+  { date: 'Oct 30, 2026', title: 'HHS peptide compounding policy published', text: 'Six peptides, ten conditions. Not FDA approval.', href: FED_REG },
+  { date: 'Sep 21, 2026', title: 'WADA publishes its 2027 Prohibited List', text: 'BPC-157 still banned at all times, class S0.', href: 'https://www.wada-ama.org/en/news/wada-publishes-2027-prohibited-list' },
+  { date: 'Jul 23, 2026', title: 'FDA advisers vote 8 to 6 on BPC-157', text: 'Recommended for the compounding list over FDA staff’s objection.', href: 'https://www.ajmc.com/view/hhs-draft-policy-eases-enforcement-on-6-compounded-peptides' },
 ];
 
-const GROUPS: { name: string; items: { name: string; href?: string }[] }[] = [
-  {
-    name: 'Peptides under the Oct 2026 HHS interim policy',
-    items: [{ name: 'BPC-157', href: '/bpc-157' }, { name: 'TB-500' }, { name: 'KPV' }, { name: 'MOTS-c' }, { name: 'Epitalon' }, { name: 'Semax' }],
-  },
-  { name: 'Weight', items: [{ name: 'Semaglutide' }, { name: 'tirzepatide' }] },
-  { name: 'Sleep and growth hormone', items: [{ name: 'Sermorelin' }] },
-  { name: 'Testosterone', items: [{ name: 'Testosterone replacement' }] },
-  { name: 'Hair', items: [{ name: 'Finasteride' }, { name: 'minoxidil' }] },
+const STANDARDS = [
+  { title: 'Cited or left out', text: 'Every claim links to its source. If it isn’t published, we don’t say it.' },
+  { title: 'Study by study', text: 'Size, country, design and length for each one. Never “studies show.”' },
+  { title: 'Side effects stay in', text: 'Documented ones on every page. No scare lines either.' },
+  { title: 'Dated and reviewed', text: 'Every status has an “as of” date. A licensed clinician signs off each page.' },
 ];
 
 export default function Home() {
   return (
     <>
-      <section className="hero">
-        <div className="wrap">
-          <h1 className="h1 h1Long">AdonisMens<wbr />Health.com</h1>
-          <hr className="heroRule" />
-        </div>
-      </section>
-
-      <section className="section">
-        <div className="wrap">
-          <div className="secHead"><h2 className="h2">What this site is</h2></div>
-          <div className="body">
-            <p className="bodyLead">
-              AdonisMensHealth.com is a reference library on men’s health treatments: the chemistry, the published research, and
-              where regulators stand. It is run by Adonis, the same company behind Adonis Clinical. We say so on every page.
-            </p>
-            <p>
-              Each treatment gets one page. Each page reports what is published and nothing else. If a study exists, we cite it and
-              report it exactly as it was done. If a study doesn’t exist, we say so. We don’t fill gaps with promises or with fear.
-            </p>
-            <p>
-              This site does not sell anything. You can’t order here. Ordering, intake and talking to a licensed clinician happen
-              at <A href={CLINIC}>Adonis Clinical</A>. Whether any treatment is right for you is a decision for you and a clinician,
-              not for a web page.
-            </p>
-            <p className="note">
-              Who it’s for: men who want to go past the basics. You can read the molecule, the study sizes, the countries, the
-              journals, and the regulator’s own record, with a date on every status.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <section className="section sectionWarm">
-        <div className="wrap">
-          <div className="secHead"><h2 className="h2">How to read a treatment page</h2></div>
-          <p className="bodyLead">Every treatment page has the same six sections, in the same order.</p>
-          <ol className="steps">
-            <li><div><strong>What it is.</strong>The molecule in plain language, and how it acts in the body.</div></li>
-            <li><div><strong>Research.</strong>Every published study we could find, listed one by one: size, country, design, length, what was measured, what was found, and the journal. Animal and lab studies are labeled as animal and lab studies.</div></li>
-            <li><div><strong>US position.</strong>The FDA and HHS status, with the date we checked it and a link to the government record.</div></li>
-            <li><div><strong>Around the world.</strong>The status from each country’s own regulator, dated and linked. Sports bans are included where they apply.</div></li>
-            <li><div><strong>Documented side effects.</strong>What has been reported in the published record, cited.</div></li>
-            <li><div><strong>Talk to a clinician.</strong>One link to Adonis Clinical.</div></li>
-          </ol>
-
-          <h3 className="h3">Regulatory status terms</h3>
-          <dl className="terms">
-            {TERMS.map(([t, d]) => (
-              <div className="termRow" key={t}><dt>{t}</dt><dd>{d}</dd></div>
-            ))}
-          </dl>
-          <p className="callout">
-            “Approved” on this site always means a regulator record we can link to. Being sold somewhere does not make a product
-            approved there.
+      {/* A. Lead */}
+      <section className="wrap lead">
+        <div>
+          <Label>Regulatory update · Recovery</Label>
+          <h1 className="h1">HHS opened pharmacy compounding to six peptides. <em>It did not approve them.</em></h1>
+          <p className="dek">
+            Since October 30, HHS says it won’t act against licensed pharmacies that compound BPC-157 and five others under set
+            conditions. Here is what has been tested in people.
           </p>
-          <div className="body">
-            <p><strong>How we describe evidence.</strong> We state the size of the evidence plainly: “one human study, 12 participants.” We don’t turn one study into “studies show.” Results in rats are rat results.</p>
-            <p><strong>Dates.</strong> Regulatory status changes often. Every status carries an “as of” date. If a date is old, check the linked record.</p>
+          <div className="record">
+            <p className="recordHead">THE RECORD</p>
+            <dl className="recordRows">
+              <div><dt>Policy</dt><dd>HHS enforcement discretion, Docket HHS-OASH-2026-0496</dd></div>
+              <div><dt>Published</dt><dd>Oct 30, 2026</dd></div>
+              <div><dt>Covers</dt><dd>BPC-157, TB-500, KPV, MOTS-c, Epitalon, Semax</dd></div>
+              <div><dt>FDA approval</dt><dd>None</dd></div>
+            </dl>
+          </div>
+          <div className="btnRow">
+            <Link href="/bpc-157" className="btn btnLeather">Read the BPC-157 file</Link>
+            <a href={FED_REG} className="btn btnOutline" target="_blank" rel="noopener noreferrer">Federal Register notice</a>
+          </div>
+        </div>
+        <div className="photo">
+          <div className="photoSlot">[ Photo: a working man, outdoors, mid-job ]</div>
+          <div className="photoStrip">
+            <div><span className="bigNum">5</span><span>BPC-157 human studies</span></div>
+            <div><span className="bigNum">~80</span><span>people, all-time</span></div>
+            <div><span className="bigNum">2 wk</span><span>longest course</span></div>
           </div>
         </div>
       </section>
 
-      <section className="section">
+      {/* B. Browse by lane */}
+      <section className="section" style={{ paddingTop: 0 }}>
         <div className="wrap">
-          <div className="secHead"><h2 className="h2">Treatments</h2></div>
-          <div className="groups">
-            {GROUPS.map((g) => (
-              <div className="group" key={g.name}>
-                <h3 className="groupName">{g.name}</h3>
-                <ul className="tx">
-                  {g.items.map((it) => (
-                    <li key={it.name}>
-                      {it.href ? (
-                        <Link href={it.href} className="txLive"><span>{it.name}</span><span aria-hidden="true">→</span></Link>
-                      ) : (
-                        <><span>{it.name}</span><span className="soon">Page coming</span></>
-                      )}
-                    </li>
-                  ))}
-                </ul>
-              </div>
+          <h2 className="label" style={{ display: 'block', margin: '0 0 10px' }}>Browse by lane</h2>
+          <ul className="lanes">
+            {LANES.map((l) => (
+              <li key={l.key}>
+                <Link href={`/lanes/${l.key}`}>
+                  <span className="laneName">{l.name}</span>
+                  <span className="laneCount">{countWords(TREATMENTS[l.key].length)}</span>
+                </Link>
+              </li>
             ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="section sectionWarm">
-        <div className="wrap">
-          <div className="secHead"><h2 className="h2">Our standards</h2></div>
-          <p className="bodyLead">
-            Every page is reviewed and signed off by a licensed clinician or pharmacist before it is published. Pages show the
-            reviewer’s credential and the review date.
-          </p>
-          <ul className="list">
-            <li><strong>Published facts only.</strong> Every claim links to its source. If something isn’t published, we don’t say it, good or bad.</li>
-            <li><strong>Each study reported as it was done.</strong> We never combine small studies into a general claim like “studies show.”</li>
-            <li><strong>Side effects stay in.</strong> Known, documented side effects appear on every page. We don’t add speculative warnings either.</li>
-            <li><strong>No promises.</strong> We never say a compounded drug is FDA-approved, and we never say a treatment will work for you.</li>
-            <li><strong>Dated statuses.</strong> Every regulatory status shows the date we checked it. We recheck on a set schedule and whenever a regulator acts.</li>
           </ul>
+        </div>
+      </section>
+
+      {/* C. Treatment index */}
+      <section className="section" id="index">
+        <div className="wrap">
+          <div className="secHead"><h2 className="h2">Treatment index</h2><Label>Statuses as of {UPDATED}</Label></div>
+          <IndexTable />
+        </div>
+      </section>
+
+      {/* D. Latest from the regulators, and the feature */}
+      <section className="section" id="updates">
+        <div className="wrap twoCol">
+          <div>
+            <div className="secHead"><h2 className="h2">Latest from the regulators</h2></div>
+            <ol className="log">
+              {LOG.map((e) => (
+                <li key={e.date}>
+                  <span className="logDate">{e.date}</span>
+                  <div>
+                    <span className="logTitle">{e.title}</span>
+                    <span className="logText">{e.text}</span>
+                    <span className="logLink"><A href={e.href}>{e.href}</A></span>
+                  </div>
+                </li>
+              ))}
+            </ol>
+          </div>
+          <article className="feature">
+            <div className="featurePhoto">[ Photo ]</div>
+            <div className="featureBody">
+              <Label>The file · Recovery</Label>
+              <h3 className="h3">BPC-157: every study, as it was run</h3>
+              <p>Five human studies, one placebo trial published only as an abstract, and two trials registered with no results yet.</p>
+              <Link href="/bpc-157" className="more">Read the file →</Link>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      {/* E. Standards band */}
+      <section className="band">
+        <div className="wrap">
+          <Label>How we report</Label>
+          <h2 className="h2" style={{ marginTop: 8 }}>We report the record. We don’t sell it.</h2>
+          <div className="grid2">
+            {STANDARDS.map((s) => (
+              <div key={s.title}><h3>{s.title}</h3><p>{s.text}</p></div>
+            ))}
+          </div>
+          <Link href="/how-we-report" className="moreLink">Read our full standards →</Link>
         </div>
       </section>
     </>

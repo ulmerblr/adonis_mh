@@ -1,10 +1,9 @@
-import { Archivo, Inter } from 'next/font/google';
-import { Footer, Header } from '@/components/chrome';
+import { Source_Sans_3, Zilla_Slab } from 'next/font/google';
+import { Footer, Top } from '@/components/chrome';
 import './globals.css';
 
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter', display: 'swap' });
-// The Adonis display face: Archivo's width axis gives the condensed, heavy uppercase of the Adonis Clinical site.
-const archivo = Archivo({ subsets: ['latin'], axes: ['wdth'], variable: '--font-display', display: 'swap' });
+const zilla = Zilla_Slab({ subsets: ['latin'], weight: ['500', '700'], style: ['normal', 'italic'], variable: '--font-zilla', display: 'swap' });
+const sans = Source_Sans_3({ subsets: ['latin'], weight: ['400', '600', '700', '800'], variable: '--font-sans', display: 'swap' });
 
 export const metadata = {
   title: { default: 'AdonisMensHealth.com', template: '%s | AdonisMensHealth.com' },
@@ -12,13 +11,13 @@ export const metadata = {
   // Not live yet: keep every page out of search engines.
   robots: { index: false, follow: false, nocache: true, googleBot: { index: false, follow: false } },
 };
-export const viewport = { themeColor: '#0B1F2D', width: 'device-width', initialScale: 1 };
+export const viewport = { themeColor: '#0F2C55', width: 'device-width', initialScale: 1 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${inter.variable} ${archivo.variable}`}>
+    <html lang="en" className={`${zilla.variable} ${sans.variable}`}>
       <body>
-        <Header />
+        <Top />
         <main>{children}</main>
         <Footer />
       </body>

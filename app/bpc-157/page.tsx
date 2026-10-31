@@ -1,4 +1,5 @@
-import { A, CLINIC, Src } from '@/components/ext';
+import { A, CLINIC, Label, Src } from '@/components/ext';
+import { Jump } from '@/components/jump';
 
 export const metadata = { title: 'BPC-157' };
 
@@ -42,9 +43,9 @@ const COUNTRIES: Country[] = [
   { country: 'Russia', regulator: 'Roszdravnadzor', status: 'Status being confirmed with the regulator’s record.' },
 ];
 
-function Sec({ n, title, warm, children }: { n: number; title: string; warm?: boolean; children: React.ReactNode }) {
+function Sec({ n, title, children }: { n: number; title: string; children: React.ReactNode }) {
   return (
-    <section className={warm ? 'section sectionWarm' : 'section'} id={`s${n}`}>
+    <section className="tSection" id={`s${n}`}>
       <div className="wrap">
         <div className="secHead"><span className="secNum" aria-hidden="true">{n}</span><h2 className="h2"><span className="srOnly">{n}. </span>{title}</h2></div>
         {children}
@@ -60,24 +61,25 @@ function Fact({ k, children }: { k: string; children: React.ReactNode }) {
 export default function Bpc157() {
   return (
     <>
-      <section className="hero">
+      <section className="titleBlock">
         <div className="wrap">
-          <h1 className="h1">BPC-157</h1>
-          <hr className="heroRule" />
-        </div>
-      </section>
-
-      <section className="lead">
-        <div className="wrap">
+          <div className="titleLabels"><Label>Recovery</Label><Label>Peptide</Label></div>
+          <h1 className="h1 h1Big">BPC-157</h1>
+          <hr className="inkRule" />
           <p className="leadText">
             BPC-157 is a lab-made peptide studied mostly in rats. FDA counts five published human studies, about 80 people in total.
             The longest course was two weeks. Only one study was randomized against a placebo, and it exists only as a conference
             abstract. It is not an FDA-approved drug.
           </p>
-          <p className="leadMeta">
-            <span className="chip">Statuses as of October 31, 2026.</span>
-            <span className="chip chipQuiet">Clinical review: pending.</span>
-          </p>
+          <dl className="ledger">
+            <div><dt>Human studies</dt><dd>5</dd></div>
+            <div><dt>People studied</dt><dd>about 80</dd></div>
+            <div><dt>Longest course</dt><dd>2 weeks</dd></div>
+            <div><dt>FDA status</dt><dd className="hot">Not approved</dd></div>
+            <div><dt>In sport (WADA)</dt><dd className="hot">Banned</dd></div>
+          </dl>
+          <p className="asOf">Statuses as of October 31, 2026. Clinical review: pending.</p>
+          <Jump />
         </div>
       </section>
 
@@ -104,7 +106,7 @@ export default function Bpc157() {
         <p className="callout">None of these mechanisms has been measured in people.</p>
       </Sec>
 
-      <Sec n={2} title="Research" warm>
+      <Sec n={2} title="Research">
         <p className="bodyLead">
           Human evidence: five published studies, about 80 people in total, according to FDA’s July 2026 review. Two were run in
           Croatia in the early 2000s and three in Florida since 2021. Two more randomized trials are registered but have no results yet.
@@ -114,6 +116,7 @@ export default function Bpc157() {
         <h3 className="h3">Human studies</h3>
         <div className="cards">
           <article className="card">
+            <span className="cardMeta">USA · 2021 · Retrospective chart review</span>
             <h4 className="cardTitle">Knee pain, 2021 (USA)</h4>
             <dl className="facts">
               <Fact k="Citation"><A href={U.knee}>Lee E, Padgett B. Altern Ther Health Med 2021;27(4):8-13</A></Fact>
@@ -122,11 +125,12 @@ export default function Bpc157() {
               <Fact k="People">17 adults with chronic knee pain treated (FDA count); the paper reports outcomes for 16. Of those 16, 12 got BPC-157 alone and 4 got BPC-157 plus TB-500 (thymosin beta-4).</Fact>
               <Fact k="What was given">2 to 4 mg injected into the knee joint, once or twice</Fact>
               <Fact k="Length">patients contacted by phone 6 to 12 months later</Fact>
-              <Fact k="Found">11 of 12 in the BPC-157-only group reported significant improvement; 3 of 4 in the combined group did. Pain was self-reported, not measured on a validated scale.</Fact>
             </dl>
+            <div className="found"><span className="label">Found</span>11 of 12 in the BPC-157-only group reported significant improvement; 3 of 4 in the combined group did. Pain was self-reported, not measured on a validated scale.</div>
           </article>
 
           <article className="card">
+            <span className="cardMeta">USA · 2024 · Pilot study</span>
             <h4 className="cardTitle">Interstitial cystitis (bladder pain), 2024 (USA)</h4>
             <dl className="facts">
               <Fact k="Citation"><A href={U.bladder}>Lee E, Walker C, Ayadi B. Altern Ther Health Med 2024;30(10):12-17</A></Fact>
@@ -134,25 +138,27 @@ export default function Bpc157() {
               <Fact k="People">12 women aged 39 to 76 whose condition had not responded to pentosan polysulfate</Fact>
               <Fact k="What was given">10 mg injected into the bladder wall during cystoscopy, made by a 503A compounding pharmacy</Fact>
               <Fact k="Length">6 weeks</Fact>
-              <Fact k="Found">10 of 12 reported full symptom resolution; 2 reported 80% resolution. No adverse events were reported.</Fact>
             </dl>
+            <div className="found"><span className="label">Found</span>10 of 12 reported full symptom resolution; 2 reported 80% resolution. No adverse events were reported.</div>
           </article>
 
           <article className="card">
+            <span className="cardMeta">USA · 2025 · Safety pilot</span>
             <h4 className="cardTitle">Intravenous safety, 2025 (USA)</h4>
             <dl className="facts">
               <Fact k="Citation"><A href={U.iv}>Lee E, Burgess. Altern Ther Health Med 2025</A></Fact>
               <Fact k="Design">safety pilot. No control group.</Fact>
               <Fact k="People">2 healthy adults</Fact>
               <Fact k="What was given">10 mg by IV infusion on day 1, 20 mg on day 2</Fact>
-              <Fact k="Found">no measurable change in heart, liver, kidney, thyroid or blood-sugar markers, and no side effects reported</Fact>
             </dl>
+            <div className="found"><span className="label">Found</span>no measurable change in heart, liver, kidney, thyroid or blood-sugar markers, and no side effects reported</div>
           </article>
         </div>
         <p className="under">The same lead author ran all three Florida studies.</p>
 
         <div className="cards" style={{ marginTop: 16 }}>
-          <article className="card cardAlt">
+          <article className="card">
+            <span className="cardMeta">Croatia · 2002 to 2005 · Conference abstracts</span>
             <h4 className="cardTitle">Ulcerative colitis program, 2002 to 2005 (Croatia, Pliva)</h4>
             <ul className="cardBullets">
               <li><strong>Phase I, healthy volunteers:</strong> <A href={U.veljaca}>Veljača M, et al. Gut 2003;51(Suppl III):A309</A> — and a 2002 abstract. 24 healthy people got BPC-157 by enema, up to 2 mg/kg once daily for 8 days. Most common side effects reported: headache and flatulence. BPC-157 was mostly not detectable in the blood.</li>
@@ -162,7 +168,8 @@ export default function Bpc157() {
             </ul>
           </article>
 
-          <article className="card cardMuted">
+          <article className="card">
+            <span className="cardMeta">Mexico · 2015 · Registered trial</span>
             <h4 className="cardTitle">Oral safety trial, 2015 (Mexico): no results</h4>
             <ul className="cardBullets">
               <li><A href={U.nct}>NCT02637284</A>, sponsored by PharmaCotherapia. A randomized, placebo-controlled Phase I trial of BPC-157 tablets in 42 planned healthy volunteers aged 18 to 35, in Tijuana.</li>
@@ -173,15 +180,17 @@ export default function Bpc157() {
 
         <h3 className="h3">Registered trials with no results yet</h3>
         <div className="cards">
-          <article className="card cardMuted">
-            <p className="leadMeta" style={{ margin: '0 0 12px' }}><span className="chip chipGold">No results yet</span></p>
+          <article className="card">
+            <span className="badge">No results yet</span>
+            <span className="cardMeta">Registered trial · Phase 2</span>
             <h4 className="cardTitle">Hamstring strain, Phase 2</h4>
             <ul className="cardBullets">
               <li><A href={U.nctHamstring}>NCT07437547</A>, sponsored by Hudson Biotech. Randomized, double-blind, placebo-controlled, under-the-skin BPC-157 for MRI-confirmed grade II hamstring strain. Registered February 2026, recruiting, about 120 people planned.</li>
             </ul>
           </article>
-          <article className="card cardMuted">
-            <p className="leadMeta" style={{ margin: '0 0 12px' }}><span className="chip chipGold">No results yet</span></p>
+          <article className="card">
+            <span className="badge">No results yet</span>
+            <span className="cardMeta">Registered trial · Phase 1 pilot</span>
             <h4 className="cardTitle">Rotator cuff surgery recovery, Phase 1 pilot</h4>
             <ul className="cardBullets">
               <li><A href={U.nctRotator}>NCT07803250</A>, sponsored by the University of Arkansas. Randomized, double-blind, placebo-controlled, daily under-the-skin injections for 90 days after surgery. Not yet recruiting; planned start January 2027.</li>
@@ -224,15 +233,15 @@ export default function Bpc157() {
         <p className="callout">Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.</p>
       </Sec>
 
-      <Sec n={4} title="Around the world" warm>
+      <Sec n={4} title="Around the world">
         <p className="bodyLead">
           No regulator anywhere has approved BPC-157 as a medicine. Australia makes it prescription-only, Canada has seized it as an
           unauthorized drug, and it is banned in sport worldwide.
         </p>
         <div className="countries">
           {COUNTRIES.map((c) => (
-            <article className={c.sources ? 'country' : 'country countryPending'} key={c.country}>
-              <h3 className="countryName">{c.country}</h3>
+            <article className={c.sources ? 'card' : 'card countryPending'} key={c.country}>
+              <h3 className="cardTitle">{c.country}</h3>
               <p className="regulator">{c.regulator}</p>
               <dl className="facts">
                 <Fact k="Status">{c.status}</Fact>
@@ -246,8 +255,8 @@ export default function Bpc157() {
             </article>
           ))}
         </div>
-        <div className="sport">
-          <h3 className="h3">Sport</h3>
+        <div className="card sport">
+          <h3 className="cardTitle">Sport</h3>
           <p>
             BPC-157 is prohibited at all times under class S0 (non-approved substances) on the WADA Prohibited List. It is named on
             the 2026 list and the 2027 list, which takes effect January 1, 2027. Sources: <A href={U.wada2026} /> and <A href={U.wada2027} />.
@@ -261,24 +270,24 @@ export default function Bpc157() {
           No serious adverse events were reported in the five human studies, but they were small and short, and safety monitoring
           was unclear in most. Animal studies and FDA’s adverse event reports have recorded specific findings, listed below.
         </p>
-        <ul className="list">
-          <li><strong>Human studies:</strong> in healthy volunteers given enemas, the most common side effects were headache and flatulence. In the colitis trial, 3 of the BPC-157 group withdrew for adverse events, mainly worsening colitis (2 on placebo did too). The bladder and IV studies reported none. <Src href={U.fdaBriefing} /></li>
-          <li><strong>FDA adverse event reports through December 4, 2025:</strong> three reports, all injected BPC-157. One injection-site redness and swelling (with another peptide in use). One shortness of breath leading to an emergency room visit. One widespread skin darkening and darkened gums that returned when the product, a BPC-157 and TB-500 blend, was restarted. FDA could not establish that BPC-157 caused any of them. <Src href={U.fdaBriefing} /></li>
-          <li><strong>Reports since then:</strong> FDA’s reporting system has logged 10 serious reports tied to BPC-157 since 2021, 8 of them in 2026. Reports like these do not show that BPC-157 caused the event. <Src href={U.ajmc} /></li>
-          <li><strong>Animal toxicity studies:</strong> in 28-day injection studies, rats and dogs showed changes in blood-clotting time and liver-related blood markers (ALT, glucose, triglycerides). Lab tests found it does not damage DNA, and it caused no birth defects in pregnant rats. No cancer studies have been done. <Src href={U.fdaBriefing} /></li>
-          <li><strong>FDA-identified risks:</strong> FDA lists a risk of immune reactions (immunogenicity) and peptide-related impurities in compounded versions, higher for injected and nasal forms. <Src href={U.fdaCat2} /></li>
-          <li><strong>Product quality:</strong> Health Canada has seized unauthorized injectable peptide products, including BPC-157, sold online. <Src href={U.canada} /></li>
+        <ul className="cardList">
+          <li className="card"><strong>Human studies:</strong> in healthy volunteers given enemas, the most common side effects were headache and flatulence. In the colitis trial, 3 of the BPC-157 group withdrew for adverse events, mainly worsening colitis (2 on placebo did too). The bladder and IV studies reported none. <Src href={U.fdaBriefing} /></li>
+          <li className="card"><strong>FDA adverse event reports through December 4, 2025:</strong> three reports, all injected BPC-157. One injection-site redness and swelling (with another peptide in use). One shortness of breath leading to an emergency room visit. One widespread skin darkening and darkened gums that returned when the product, a BPC-157 and TB-500 blend, was restarted. FDA could not establish that BPC-157 caused any of them. <Src href={U.fdaBriefing} /></li>
+          <li className="card"><strong>Reports since then:</strong> FDA’s reporting system has logged 10 serious reports tied to BPC-157 since 2021, 8 of them in 2026. Reports like these do not show that BPC-157 caused the event. <Src href={U.ajmc} /></li>
+          <li className="card"><strong>Animal toxicity studies:</strong> in 28-day injection studies, rats and dogs showed changes in blood-clotting time and liver-related blood markers (ALT, glucose, triglycerides). Lab tests found it does not damage DNA, and it caused no birth defects in pregnant rats. No cancer studies have been done. <Src href={U.fdaBriefing} /></li>
+          <li className="card"><strong>FDA-identified risks:</strong> FDA lists a risk of immune reactions (immunogenicity) and peptide-related impurities in compounded versions, higher for injected and nasal forms. <Src href={U.fdaCat2} /></li>
+          <li className="card"><strong>Product quality:</strong> Health Canada has seized unauthorized injectable peptide products, including BPC-157, sold online. <Src href={U.canada} /></li>
         </ul>
       </Sec>
 
-      <Sec n={6} title="Talk to a clinician" warm>
+      <Sec n={6} title="Talk to a clinician">
         <p className="bodyLead">
           Questions about whether BPC-157 fits your situation? Talk to a licensed clinician at <A href={CLINIC}>Adonis Clinical</A>.
         </p>
-        <a href={CLINIC} className="btn btnGold btnHuge" data-cta="clinician">Talk to a licensed clinician at Adonis Clinical</a>
+        <a href={CLINIC} className="btn btnLeather btnHuge" data-cta="clinician">Talk to a licensed clinician at Adonis Clinical</a>
       </Sec>
 
-      <section className="section">
+      <section className="tSection">
         <div className="wrap">
           <div className="secHead"><h2 className="h2">Sources — all checked October 31, 2026</h2></div>
           <ol className="sources">
