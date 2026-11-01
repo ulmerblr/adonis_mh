@@ -7,142 +7,156 @@
   "dek": "The GLP-1 shortages are over. FDA says what pharmacies may still compound.",
   "photoAlt": "Illustration for the Weight lane.",
   "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
-  "glance": [
-    {
-      "icon": "calendar",
-      "label": "Shortages over",
-      "line": "Tirzepatide: Dec 19, 2024. Semaglutide: Feb 21, 2025.",
-      "src": {
-        "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
-        "label": "FDA, policies for compounders as GLP-1 supply stabilizes, Apr 2026"
-      }
-    },
-    {
-      "icon": "mortar",
-      "label": "Compounded",
-      "line": "Not FDA approved, with or without vitamin B12 or glycine added."
-    },
-    {
-      "icon": "shield",
-      "label": "Boxed warning",
-      "line": "Every approved semaglutide and tirzepatide label: thyroid C-cell tumors in rodents."
-    }
-  ],
-  "summary": [
-    "For more than two years, pharmacies could make their own versions of the two best-known weight drugs because the approved ones were in short supply. FDA said the [[/tirzepatide|tirzepatide]] shortage was resolved on December 19, 2024 and the [[/semaglutide|semaglutide]] shortage on February 21, 2025, and the grace periods for compounders ended in the spring of 2025. On April 1, 2026, FDA said neither drug is on its shortage list.",
-    "Pharmacies may still compound for an individual patient, but not regularly make drugs that are essentially copies of one on the market. FDA’s worked example is a semaglutide and vitamin B12 injection with both amounts within 10% of available products. FDA said it does not intend to act when a pharmacy fills four or fewer such prescriptions in a month. Compounded versions are not FDA approved, and FDA does not review them for safety, effectiveness or quality.",
-    "The approved brands are Ozempic and Rybelsus for type 2 diabetes and Wegovy for weight and heart risk (semaglutide), and Mounjaro for type 2 diabetes and Zepbound for weight and sleep apnea (tirzepatide). Using the diabetes brands for weight loss is off-label. Every approved label has a boxed warning: in rodents, both drugs caused thyroid C-cell tumors, and it is not known whether they do in people.",
-    "Some things are not known. The large trials tested each drug by itself; none tested it combined with vitamin B12 or glycine. FDA has received hundreds of adverse event reports tied to compounded versions, but says it cannot always tell whether the drug caused the event, and most pharmacies do not have to report."
-  ],
   "pull": {
-    "quote": "FDA may consider a compounded drug product that combines semaglutide API and another API, such as vitamin B12 (cyanocobalamin), to be essentially a copy of a commercially available drug product",
-    "cite": "FDA, policies for compounders, Apr 2026",
-    "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
+    "quote": "Compounded drugs are not FDA-approved. This means the agency does not review their safety, effectiveness or quality before they are marketed.",
+    "note": "pr"
   },
-  "excerpts": [
-    {
-      "kind": "regulator",
-      "quote": "FDA has stated, at this time, it does not intend to take action against a compounder for compounding a drug product that is essentially a copy of a commercially available drug product regularly or in inordinate amounts if the compounder fills four or fewer prescriptions of that compounded drug product during a calendar month.",
-      "source": "FDA, policies for compounders as national GLP-1 supply begins to stabilize",
-      "date": "published Apr 2026",
-      "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
-    },
-    {
-      "kind": "regulator",
-      "quote": "As of May 31, 2026, the FDA has received: 990 reports of adverse events associated with compounded semaglutide. more than 730 reports of adverse events associated with compounded tirzepatide. It is not always possible to determine if the adverse event directly resulted from use of the drug or if other factors may have contributed to these adverse events.",
-      "source": "FDA, concerns with unapproved GLP-1 drugs used for weight loss",
-      "date": "published Oct 2026",
-      "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
-    },
-    {
-      "kind": "regulator",
-      "quote": "Primary violations identified in the letters included making claims implying sameness with FDA-approved products and obscuring product sourcing by advertising drug products branded with the telehealth firm's name or trademark without qualification, implying they are the compounder.",
-      "source": "FDA news release, 30 warning letters to telehealth companies",
-      "date": "Mar 3, 2026",
-      "href": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s"
-    },
-    {
-      "kind": "regulator",
-      "quote": "Compounded drugs are not FDA-approved. This means the agency does not review their safety, effectiveness or quality before they are marketed. Compounded drugs are also not the same as generic drugs, which are FDA-approved.",
-      "source": "FDA news release, 30 warning letters to telehealth companies",
-      "date": "Mar 3, 2026",
-      "href": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s"
-    },
-    {
-      "kind": "regulator",
-      "quote": "In rodents, semaglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures. It is unknown whether WEGOVY causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans as human relevance of semaglutide-induced rodent thyroid C-cell tumors has not been determined",
-      "source": "Wegovy label, boxed warning, DailyMed",
-      "date": "published Jun 2026",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
-      "note": "The tirzepatide labels have the same kind of boxed warning."
-    },
-    {
-      "kind": "trial",
-      "quote": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
-      "source": "Wilding et al., NEJM (STEP 1)",
-      "date": "published Mar 2021",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
-      "note": "The trial was paid for by the drug’s maker."
-    },
-    {
-      "kind": "trial",
-      "quote": "The mean percentage change in weight at week 72 was -15.0% (95% confidence interval [CI], -15.9 to -14.2) with 5-mg weekly doses of tirzepatide, -19.5% (95% CI, -20.4 to -18.5) with 10-mg doses, and -20.9% (95% CI, -21.8 to -19.9) with 15-mg doses and -3.1% (95% CI, -4.3 to -1.9) with placebo",
-      "source": "Jastreboff et al., NEJM (SURMOUNT-1)",
-      "date": "published Jul 2022",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/35658024/",
-      "note": "The trial was paid for by the drug’s maker."
-    }
+  "body": [
+    "For more than two years, the most famous weight drugs in the country were in short supply, and pharmacies were allowed to fill the gap with their own versions. That window has closed. FDA said the shortage of [[/tirzepatide|tirzepatide]] injection was resolved on December 19, 2024, and the shortage of [[/semaglutide|semaglutide]] injection on February 21, 2025.[^apr] The grace periods for compounders ran out in the spring of 2025, and on April 1, 2026, FDA said neither drug is on its shortage list.[^apr]",
+    "What pharmacies may do now is narrower. They can still compound for an individual patient, but they may not regularly make drugs that are essentially copies of a product on the market. FDA’s April 2026 statement gave a worked example: a compounded injection that combines semaglutide with vitamin B12 can count as a copy when both amounts are within 10% of the strengths of available products, unless a prescriber documents a significant difference for that patient.[^apr] FDA added a limit on how hard it will push: it said it “does not intend to take action against a compounder for compounding a drug product that is essentially a copy of a commercially available drug product regularly or in inordinate amounts if the compounder fills four or fewer prescriptions of that compounded drug product during a calendar month.”[^apr] It gave no tirzepatide example.",
+    "Compounded versions are not FDA approved, whatever is added to them. In a March 2026 news release announcing 30 warning letters to telehealth companies, FDA put it plainly: “Compounded drugs are not FDA-approved. This means the agency does not review their safety, effectiveness or quality before they are marketed.”[^pr] The letters, it said, mostly concerned “claims implying sameness with FDA-approved products.”[^pr] None of the large trials behind the brands tested semaglutide or tirzepatide mixed with vitamin B12 or glycine.",
+    "The approved brands are a different thing. Semaglutide is sold as Ozempic and Rybelsus for type 2 diabetes and as Wegovy for weight and heart risk.[^ozempic][^wegovy] Tirzepatide is sold as Mounjaro for type 2 diabetes and as Zepbound for weight and obstructive sleep apnea.[^mounjaro][^zepbound] Using one of the diabetes brands for weight loss is off-label. In April 2026 a third option arrived: FDA approved [[/orforglipron|orforglipron]], a pill, as Foundayo for weight management in adults.[^foundayo]",
+    "An older drug in the same family is in a different position. [[/liraglutide|Liraglutide]] is approved as Victoza for type 2 diabetes and as Saxenda for weight management.[^victoza][^saxenda] Yet FDA’s shortage records still list liraglutide injection as in shortage, a listing that began in July 2023, and they show Saxenda as due to be discontinued.[^short] That keeps the question of compounded copies open for this one drug in a way it no longer is for semaglutide and tirzepatide.",
+    "The trials behind the brands were large, and they were paid for by the companies that make the drugs. In STEP 1, adults with obesity or overweight took weekly semaglutide or a placebo for 68 weeks; “the mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo.”[^step1] In SURMOUNT-1, adults without diabetes took one of three weekly doses of tirzepatide or a placebo for 72 weeks, and average weight fell by 15.0% to 20.9% on the drug and 3.1% on placebo.[^surmount]",
+    "These drugs come with FDA’s strongest warning. The Wegovy label opens with a boxed warning that “in rodents, semaglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures,”[^wegovy] and that it is unknown whether the drug causes them in people. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use it.[^wegovy] The tirzepatide labels have the same kind of warning, and the Foundayo label does too.[^zepbound][^foundayo] The labels also list pancreatitis, gallbladder disease, kidney injury from dehydration, and severe stomach and bowel effects.[^wegovy]",
+    "FDA keeps count of problems with the compounded versions. It said that as of May 31, 2026, it had received 990 reports of adverse events tied to compounded semaglutide and more than 730 tied to compounded tirzepatide.[^con] It cautioned that “it is not always possible to determine if the adverse event directly resulted from use of the drug or if other factors may have contributed to these adverse events.”[^con] It has also received reports, some requiring hospital care, that may be related to dosing errors with compounded semaglutide, from patients measuring the wrong dose and, in some cases, health care professionals miscalculating it.[^con]",
+    "The next wave of weight drugs is already being sold before it is approved. [[/retatrutide|Retatrutide]] is in Phase 3 trials, and [[/cagrilintide|cagrilintide]] is being tested with semaglutide. FDA says retatrutide and cagrilintide “cannot be used in compounding under federal law.”[^con] It also says it has warned companies that illegally sold unapproved drugs containing semaglutide, tirzepatide, retatrutide, [[/survodutide|survodutide]] or [[/mazdutide|mazdutide]] “that are falsely labeled”[^con] as for research purposes or not for human consumption. FDA says these products were sold directly to consumers with dosing instructions, and urges people not to buy them.[^con]",
+    "Older drugs have not gone away. [[/phentermine|Phentermine]], an appetite suppressant, is approved for short-term use and is a Schedule IV controlled substance.[^lomaira] FDA approved it with [[/topiramate|topiramate]] as Qsymia, for long-term weight management, in 2012.[^qsymiaapp][^qsymia] [[/naltrexone|Naltrexone]] and [[/bupropion|bupropion]] are approved together as Contrave,[^contrave] and [[/orlistat|orlistat]] is sold by prescription as Xenical and over the counter as Alli.[^xenical][^alli]",
+    "What is still unknown is how compounded copies compare with the brands they imitate, since no trial has tested them, and how often their adverse events happen, since most pharmacies do not have to report them. For now, the approved brands have the trials, the boxed warnings and FDA’s review. The copies have none of those."
   ],
-  "sources": [
+  "notes": [
     {
-      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize",
-      "label": "FDA: Clarifies policies for compounders as GLP-1 supply stabilizes",
-      "date": "published Apr 2026"
+      "key": "apr",
+      "source": "FDA",
+      "title": "FDA clarifies policies for compounders as national GLP-1 supply begins to stabilize",
+      "date": "Apr 2026",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
     },
     {
-      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
-      "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
-      "date": "published Oct 2026"
+      "key": "pr",
+      "source": "FDA",
+      "title": "FDA warns 30 telehealth companies against illegal marketing of compounded GLP-1s",
+      "date": "Mar 3, 2026",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s"
     },
     {
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s",
-      "label": "FDA press release: 30 warning letters to telehealth companies",
-      "date": "published Mar 2026"
+      "key": "ozempic",
+      "source": "DailyMed",
+      "title": "Ozempic (semaglutide) injection prescribing information",
+      "date": "Jun 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
-      "label": "Ozempic injection label, DailyMed",
-      "date": "published Jun 2026"
+      "key": "wegovy",
+      "source": "DailyMed",
+      "title": "Wegovy (semaglutide) injection and tablets prescribing information",
+      "date": "Jun 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98",
-      "label": "Rybelsus and Ozempic tablets label, DailyMed",
-      "date": "published Aug 2026"
+      "key": "mounjaro",
+      "source": "DailyMed",
+      "title": "Mounjaro (tirzepatide) prescribing information",
+      "date": "Sep 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
-      "label": "Wegovy injection and tablets label, DailyMed",
-      "date": "published Jun 2026"
+      "key": "zepbound",
+      "source": "DailyMed",
+      "title": "Zepbound (tirzepatide) prescribing information",
+      "date": "Sep 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
-      "label": "Mounjaro label, DailyMed",
-      "date": "published Sep 2026"
+      "key": "foundayo",
+      "source": "DailyMed",
+      "title": "Foundayo (orforglipron) prescribing information",
+      "date": "Jul 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
-      "label": "Zepbound label, DailyMed",
-      "date": "published Sep 2026"
+      "key": "step1",
+      "source": "Wilding et al., New England Journal of Medicine",
+      "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)",
+      "date": "Mar 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
-      "label": "Wilding et al., STEP 1, N Engl J Med 2021",
-      "date": "published Mar 2021"
+      "key": "surmount",
+      "source": "Jastreboff et al., New England Journal of Medicine",
+      "title": "Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)",
+      "date": "Jul 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/",
-      "label": "Jastreboff et al., SURMOUNT-1, N Engl J Med 2022",
-      "date": "published Jul 2022"
+      "key": "victoza",
+      "source": "DailyMed",
+      "title": "Victoza (liraglutide) prescribing information",
+      "date": "Oct 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4"
+    },
+    {
+      "key": "saxenda",
+      "source": "DailyMed",
+      "title": "Saxenda (liraglutide) prescribing information",
+      "date": "Feb 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143"
+    },
+    {
+      "key": "short",
+      "source": "FDA (openFDA, drug shortage data)",
+      "title": "Drug shortage records for liraglutide injection",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/shortages.json?search=generic_name:liraglutide&limit=20"
+    },
+    {
+      "key": "con",
+      "source": "FDA",
+      "title": "FDA’s concerns with unapproved GLP-1 drugs used for weight loss",
+      "date": "Oct 2026",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
+    },
+    {
+      "key": "lomaira",
+      "source": "DailyMed",
+      "title": "Lomaira (phentermine) prescribing information",
+      "date": "Dec 2023",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893"
+    },
+    {
+      "key": "qsymiaapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Qsymia, NDA 022580",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022580"
+    },
+    {
+      "key": "qsymia",
+      "source": "DailyMed",
+      "title": "Qsymia (phentermine and topiramate extended-release) prescribing information",
+      "date": "Apr 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9"
+    },
+    {
+      "key": "contrave",
+      "source": "DailyMed",
+      "title": "Contrave (naltrexone and bupropion) prescribing information",
+      "date": "Nov 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b"
+    },
+    {
+      "key": "xenical",
+      "source": "DailyMed",
+      "title": "Xenical (orlistat) prescribing information",
+      "date": "Jan 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e"
+    },
+    {
+      "key": "alli",
+      "source": "DailyMed",
+      "title": "Alli (orlistat) Drug Facts",
+      "date": "Mar 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f"
     }
   ]
 }
