@@ -1,0 +1,552 @@
+{
+  "slug": "armodafinil",
+  "name": "Armodafinil",
+  "row": "Armodafinil",
+  "aka": [
+    "Nuvigil",
+    "R-modafinil"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Approved; many RCTs",
+    "fda": "Approved (Nuvigil)",
+    "sport": "Banned in-comp."
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal and lab studies cited in the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Early studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-volunteer drug-level studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not reviewed separately",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Placebo trials in OSA, narcolepsy and shift work",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Nuvigil 2007; OSA, narcolepsy, shift work",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Armodafinil is a wakefulness-promoting drug taken by mouth. It is the R form (one of the two mirror-image forms) of modafinil, sold as Nuvigil. The FDA label says it is approved to improve wakefulness in adults with excessive sleepiness from obstructive sleep apnea (OSA), narcolepsy or shift work disorder.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+            "label": "Nuvigil label, DailyMed, section 1",
+            "date": "published May 2025"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+            "label": "Nuvigil label, DailyMed, section 12.1",
+            "date": "published May 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The label says the way armodafinil promotes wakefulness is unknown. In animal and lab studies its actions are similar to modafinil's.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 12.1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "text": "Armodafinil binds to the dopamine transporter in lab studies and blocks dopamine reuptake. In mice lacking the dopamine transporter, modafinil did not promote wakefulness.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 12.1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "text": "Its half-life is about 15 hours. The label says the S form of modafinil is cleared faster, with a half-life of about 4 hours.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 12.3",
+                "date": "published May 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Armodafinil's approved uses rest on placebo-controlled trials in people with sleep disorders. A Phase 3 trial in jet lag and a Phase 3 trial in brain-tumor fatigue were run for uses that are not approved. Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Trials behind the approval (FDA label)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Obstructive sleep apnea:",
+            "text": "two 12-week, placebo-controlled, double-blind trials randomized 395 and 263 people with OSA who were using CPAP, to armodafinil 150 or 250 mg a day or placebo. People on armodafinil stayed awake longer on a wakefulness test than people on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 14.1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Narcolepsy:",
+            "text": "a 12-week placebo-controlled trial randomized 196 people with narcolepsy to armodafinil 150 or 250 mg a day or placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 14.2",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Shift work disorder:",
+            "text": "a 12-week placebo-controlled trial randomized 254 people with chronic shift work disorder to armodafinil 150 mg or placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 14.3",
+                "date": "published May 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies of uses that are not approved"
+      },
+      {
+        "t": "study",
+        "meta": "USA and France · 2010 · Phase 3 randomized trial",
+        "title": "Jet lag after flying east (Mayo Clin Proc 2010)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Rosenberg RP, Bogan RK, Tiller JM, et al. Mayo Clin Proc 2010;85(7):630-8"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, parallel-group, multicenter (NCT00758498)"
+          },
+          {
+            "k": "People",
+            "v": "427 adults with a history of jet lag who flew from the US to France (6 time zones)"
+          },
+          {
+            "k": "What was given",
+            "v": "armodafinil 50 mg or 150 mg, or placebo, each morning"
+          },
+          {
+            "k": "Length",
+            "v": "3 days in a sleep laboratory"
+          },
+          {
+            "k": "Measured",
+            "v": "time to fall asleep on the Multiple Sleep Latency Test; patients' rating of jet lag severity"
+          }
+        ],
+        "found": "On 150 mg, mean time to fall asleep was 11.7 minutes vs 4.8 minutes on placebo (P<.001), and jet lag ratings were slightly better (1.6 vs 1.9). The most common side effects on 150 mg were headache (27%), nausea (13%), diarrhea, circadian rhythm sleep disorder and palpitations (5% each). Jet lag is not an approved use.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20530317/",
+            "label": "Rosenberg et al., Mayo Clinic Proceedings, PubMed",
+            "date": "published Jul 2010"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2022 · Phase 3 randomized trial",
+        "title": "Fatigue in people with high-grade glioma (JAMA Oncol 2022)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Porter AB, Liu H, Kohli S, et al. JAMA Oncol 2022;8(2):259-267"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, multicenter, double-blind, placebo-controlled, phase 3"
+          },
+          {
+            "k": "People",
+            "v": "328 adults with high-grade glioma and moderate-to-severe fatigue, at least 4 weeks after radiation; 297 evaluable"
+          },
+          {
+            "k": "What was given",
+            "v": "armodafinil 150 mg or 250 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "a 2-point fall on the 0-10 Brief Fatigue Inventory; safety, thinking and quality of life"
+          }
+        ],
+        "found": "The share of people with a meaningful fall in fatigue did not differ: 28% on 150 mg, 28% on 250 mg and 30% on placebo. Insomnia was reported by 7 people on 250 mg vs 2 on placebo. The authors found no meaningful benefit.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34882169/",
+            "label": "Porter et al., JAMA Oncology, PubMed",
+            "date": "published Feb 2022"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Armodafinil is FDA approved, by prescription, as Nuvigil. It is a Schedule IV controlled substance. Using it for focus, jet lag or general fatigue is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Nuvigil:",
+            "text": "FDA's Drugs@FDA data show NDA 021875 approved June 15, 2007, as 50, 150, 200 and 250 mg tablets. The label lists OSA, narcolepsy and shift work disorder, in adults.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021875",
+                "label": "openFDA (FDA's Drugs@FDA data), NDA 021875 Nuvigil",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "the label says Nuvigil contains armodafinil, a Schedule IV controlled substance. It says abuse, misuse and drug diversion have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 9",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Children:",
+            "text": "the label says Nuvigil has not been studied in children and is not approved for children for any indication.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 5.1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "using armodafinil for focus or alertness in people without an approved condition, for jet lag or for cancer-related fatigue is off-label. No FDA label lists these uses.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 1",
+                "date": "published May 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Armodafinil is an approved prescription medicine in the US and Australia. Health Canada's drug database lists no armodafinil product, and EMA's central list has none. Sport bans it in competition as a form of modafinil.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Nuvigil 2007; OSA, narcolepsy, shift work disorder). Prescription-only, Schedule IV.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021875",
+              "label": "openFDA (FDA's Drugs@FDA data), NDA 021875 Nuvigil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+              "label": "Nuvigil label, DailyMed, section 9.1",
+              "date": "published May 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. No armodafinil product in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=armodafinil",
+              "label": "Health Canada Drug Product Database, ingredient search: armodafinil",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Nuvigil. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=armodafinil",
+              "label": "TGA, PI/CMI search: armodafinil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EU: EMA's list of centrally authorised medicines has no armodafinil product. National authorisations in EU countries were not checked.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Armodafinil is not named on the WADA 2026 Prohibited List. Class S6 (stimulants, prohibited in competition) says all stimulants, including all optical isomers, are prohibited, and names modafinil in S6.A, non-specified stimulants. The Nuvigil label describes armodafinil as the R isomer of modafinil. The 2027 List, in force January 1, 2027, keeps the same wording and keeps modafinil in S6.A.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+              "label": "Nuvigil label, DailyMed, section 12.1",
+              "date": "published May 2025"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists headache, nausea, dizziness and insomnia as the most common side effects. Serious risks include life-threatening rashes, DRESS (a multi-organ allergic reaction), angioedema, psychiatric symptoms and heart effects."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common:",
+            "text": "in pooled placebo-controlled trials (645 on armodafinil, 445 on placebo): headache 17% vs 9%, nausea 7% vs 3%, dizziness 5% vs 2%, insomnia 5% vs 1%, anxiety 4% vs 1%, dry mouth 4% vs 1%, rash 2% vs 0%, depression 2% vs 0%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 6.1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Serious skin reactions:",
+            "text": "rare serious rashes, including Stevens-Johnson syndrome and toxic epidermal necrolysis, have been reported with modafinil and armodafinil in adults and children. Skin and mouth sores and blistering have been reported after approval.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 5.1",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "DRESS and allergic reactions:",
+            "text": "one fatal case of DRESS began about 3 weeks after starting Nuvigil. Angioedema and anaphylaxis have also been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 5.2",
+                "date": "published May 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 5.3",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Psychiatric:",
+            "text": "in trials, anxiety, agitation, nervousness and irritability led to stopping more often on armodafinil (1.2% vs 0.3%), and depression too (0.6% vs 0.2%). Suicidal thoughts were seen in trials. Mania, delusions, hallucinations and aggression have been reported after approval.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 5.5",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "the label repeats warnings from modafinil studies about chest pain, palpitations and ECG changes in people with mitral valve prolapse or left ventricular hypertrophy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 5.7",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse and overdose:",
+            "text": "abuse has included euphoria and escalating doses. An overdose can cause a fast heartbeat, agitation, chest pain, high blood pressure, seizures, delirium or hallucinations.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 9.2",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Interactions:",
+            "text": "armodafinil can make hormonal contraceptives less reliable, during use and for 1 month after stopping. It can also lower cyclosporine levels.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
+                "label": "Nuvigil label, DailyMed, section 7",
+                "date": "published May 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The Drugs@FDA web page for NDA 021875 did not load; the approval date comes from FDA's openFDA data for the same application.",
+    "Whether FDA acted on a jet lag application for armodafinil was not confirmed from an FDA record.",
+    "UK status was not confirmed: MHRA's product database needs a browser. An MHRA press release (Sep 2023) lists armodafinil among medicines seized in an unlicensed-medicines case, but does not say whether any armodafinil product is licensed in the UK.",
+    "National EU authorisations of armodafinil were not checked.",
+    "WADA does not name armodafinil; placing it under S6.A rests on the 'all optical isomers' wording and modafinil being named."
+  ],
+  "surprises": [
+    "Armodafinil is the longer-lasting form of modafinil, but Health Canada's drug database lists no armodafinil product, while Canada has many modafinil products.",
+    "In a Phase 3 trial in people with brain tumors and fatigue, armodafinil did no better than placebo."
+  ]
+}

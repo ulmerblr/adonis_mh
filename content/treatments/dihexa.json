@@ -1,0 +1,594 @@
+{
+  "slug": "dihexa",
+  "name": "Dihexa",
+  "row": "Dihexa",
+  "aka": [
+    "Dihexa acetate"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Animal and cell only",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat, mouse and zebrafish studies since 2013",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published human study found",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; was in FDA Category 2 (withdrawn)",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Dihexa is a small, chemically modified peptide: N-hexanoic-Tyr-Ile-(6) aminohexanoic amide. It was made at Washington State University from angiotensin IV, a fragment of the angiotensin hormone system that also controls blood pressure, by trimming it and changing its ends so that it lasts longer, can be taken by mouth and can reach the brain.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23055539/",
+            "label": "McCoy et al., J Pharmacol Exp Ther, 2013",
+            "date": "published Jan 2013"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Its developers designed it as a possible treatment for dementias such as Alzheimer's disease. FDA's records call it dihexa acetate.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23055539/",
+            "label": "McCoy et al., J Pharmacol Exp Ther, 2013",
+            "date": "published Jan 2013"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25455861/",
+            "label": "Wright, Kawas and Harding, Prog Neurobiol, 2015",
+            "date": "published Feb 2015"
+          },
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+            "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and lab studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Its developers reported that it binds hepatocyte growth factor (HGF) and increases signalling through HGF's receptor, c-Met, which helps form new connections between nerve cells. The main paper making this claim was retracted in 2025.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25187433/",
+                "label": "Benoist et al., J Pharmacol Exp Ther, 2014 (retracted)",
+                "date": "published Nov 2014"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/",
+                "label": "J Pharmacol Exp Ther, retraction notice for Benoist et al. 2014",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "text": "In the developers' tests, it showed \"marked synaptogenic activity\": it increased the formation of new connections between nerve cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23055539/",
+                "label": "McCoy et al., J Pharmacol Exp Ther, 2013",
+                "date": "published Jan 2013"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No study of dihexa in people has been published. The paper that set out its mechanism was retracted in 2025."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No published human studies found as of November 1, 2026. FDA has not identified any human exposure data for dihexa acetate by any route. All the evidence below is in animals, fish or cells."
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search returned 19 records and none was a study in people. ClinicalTrials.gov lists no trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dihexa",
+            "label": "PubMed search for 'dihexa'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=dihexa",
+            "label": "ClinicalTrials.gov search for 'dihexa'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA states: \"FDA has not identified any human exposure data on drug products containing dihexa acetate administered via any route of administration.\"",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+            "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Animal and cell study",
+        "title": "First description of dihexa, 2013",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "McCoy AT, et al. J Pharmacol Exp Ther 2013;344(1):141-54"
+          },
+          {
+            "k": "Design",
+            "v": "chemistry, then tests in rats"
+          },
+          {
+            "k": "Who",
+            "v": "rats given scopolamine to impair memory, and aged rats"
+          },
+          {
+            "k": "Measured",
+            "v": "Morris water maze (a spatial memory task), and synapse formation"
+          }
+        ],
+        "found": "The authors report that dihexa, given by mouth, reversed the memory deficits in both rat models and increased synapse formation.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23055539/",
+            "label": "McCoy et al., J Pharmacol Exp Ther, 2013",
+            "date": "published Jan 2013"
+          }
+        ],
+        "badge": "Expression of concern, 2021"
+      },
+      {
+        "t": "p",
+        "text": "In September 2021 the journal published a notice of concern about this 2013 paper.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34551989/",
+            "label": "J Pharmacol Exp Ther, notice of concern on McCoy et al. 2013",
+            "date": "published Sep 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2014 · Animal and cell study (retracted)",
+        "title": "How dihexa acts, 2014",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Benoist CC, et al. J Pharmacol Exp Ther 2014;351(2):390-402"
+          },
+          {
+            "k": "Design",
+            "v": "binding tests, cell studies and rat memory tests"
+          },
+          {
+            "k": "Measured",
+            "v": "binding to HGF, c-Met activation, new synapses, and water-maze learning when HGF was blocked"
+          }
+        ],
+        "found": "The authors reported that dihexa acts through HGF and c-Met. The journal retracted the paper in April 2025.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25187433/",
+            "label": "Benoist et al., J Pharmacol Exp Ther, 2014 (retracted)",
+            "date": "published Nov 2014"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/",
+            "label": "J Pharmacol Exp Ther, retraction notice for Benoist et al. 2014",
+            "date": "published Apr 2025"
+          }
+        ],
+        "badge": "Retracted 2025"
+      },
+      {
+        "t": "p",
+        "text": "In April 2025 the same journal also retracted two earlier papers by this group on angiotensin IV analogs and the HGF/c-Met system (2011 and 2012).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40312092/",
+            "label": "J Pharmacol Exp Ther, retraction notice for Kawas et al. 2012",
+            "date": "published Apr 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40312094/",
+            "label": "J Pharmacol Exp Ther, retraction notice for a 2011 paper from the same group",
+            "date": "published Apr 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2021 · Mouse study",
+        "title": "Alzheimer's model mice, 2021",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Sun X, et al. Brain Sci 2021;11(11):1487"
+          },
+          {
+            "k": "Who",
+            "v": "APP/PS1 mice, a genetic model of Alzheimer's disease"
+          },
+          {
+            "k": "Measured",
+            "v": "water-maze memory, nerve-cell counts, brain inflammation and PI3K/AKT signalling"
+          }
+        ],
+        "found": "The authors report better spatial learning, more nerve cells and less brain inflammation with dihexa.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34827486/",
+            "label": "Sun et al., Brain Sci, 2021",
+            "date": "published Nov 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Zebrafish study",
+        "title": "Hair cells in zebrafish, 2015",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Uribe PM, et al. Front Cell Neurosci 2015;9:3"
+          },
+          {
+            "k": "Who",
+            "v": "larval zebrafish, whose lateral-line hair cells resemble inner-ear hair cells"
+          },
+          {
+            "k": "Measured",
+            "v": "survival of hair cells exposed to the antibiotics neomycin and gentamicin"
+          }
+        ],
+        "found": "Dihexa protected hair cells from these antibiotics in the fish.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25674052/",
+            "label": "Uribe et al., Front Cell Neurosci, 2015",
+            "date": "published Jan 2015"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2021 rat study tested dihexa, stem cells and G-CSF after cutting and repairing the sciatic nerve, measuring limb function for 16 weeks.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34703584/",
+            "label": "Ann Med Surg, 2021 (rat sciatic nerve study)",
+            "date": "published Oct 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use, and no human study has been published. Dihexa acetate was in FDA's Category 2 (substances that may pose significant safety risks) before its compounding nominations were withdrawn. It is not in the HHS peptide policy of October 2026. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no dihexa product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:DIHEXA",
+                "label": "openFDA Drugs@FDA search, active ingredient 'dihexa'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists dihexa acetate among substances that were in Category 2 whose nominations were withdrawn. FDA says it \"has not identified any human exposure data\" for dihexa acetate by any route, and \"lacks important information regarding any safety issues raised by dihexa acetate, including whether it would cause harm if administered to humans.\"",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bulks lists:",
+            "text": "dihexa is not named in FDA's current 503A or 503B category lists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "the HHS enforcement discretion policy of October 2026 covers six peptides: BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500. Dihexa is not one of them.",
+            "src": [
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA's controlled substances list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Dihexa is not approved as a medicine in any country checked. No human study has been published. WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Was in FDA Category 2 before nominations were withdrawn. Not in the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:DIHEXA",
+              "label": "openFDA Drugs@FDA search, active ingredient 'dihexa'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+              "date": "published Oct 28, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=DIHEXA",
+              "label": "Health Canada Drug Product Database, active ingredient search (dihexa)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (not in EMA's medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Dihexa is not named on the WADA Prohibited List for 2026 or 2027. WADA class S0 bans at all times any pharmacological substance not covered by another class and with no current approval by any government health authority for human therapeutic use, including drugs still in development. For 2027, WADA adds \"peptides\" to the examples in S0. The lists do not say whether dihexa falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: dihexa is not named in the Poisons Standard (October 2026). The TGA's product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There are no human safety data. FDA says it has not identified any human exposure data for dihexa acetate and does not know whether it would cause harm in people."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human data:",
+            "text": "none published; no human study exists.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dihexa",
+                "label": "PubMed search for 'dihexa'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=dihexa",
+                "label": "ClinicalTrials.gov search for 'dihexa'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA's view:",
+            "text": "FDA lacks important information on any safety issues raised by dihexa acetate, including whether it would cause harm if given to people.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The retraction notices on PubMed did not state the reasons for the 2025 retractions or the 2021 notice of concern.",
+    "No FDA statement was found that covers dihexa sold labelled for research use, so the page does not use the \"Research use only\" step.",
+    "UK (MHRA) and Australia's TGA register were not checked."
+  ],
+  "surprises": [
+    "Dihexa was developed as a possible dementia drug, but no study in people has been published, and the main paper on how it acts was retracted in April 2025."
+  ]
+}

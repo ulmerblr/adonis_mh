@@ -1,0 +1,662 @@
+{
+  "slug": "modafinil",
+  "name": "Modafinil",
+  "row": "Modafinil",
+  "aka": [
+    "Provigil",
+    "Alertec",
+    "Modavigil"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Approved; many RCTs",
+    "fda": "Approved (Provigil)",
+    "sport": "Banned in-comp."
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal and cell studies cited in the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Early studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-volunteer drug-level studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not reviewed separately",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Placebo trials in narcolepsy, OSA and shift work",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Provigil 1998, narcolepsy; OSA and shift work 2004",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Modafinil is a wakefulness-promoting drug taken by mouth. It is the active ingredient in Provigil. The FDA label says it is approved to improve wakefulness in adults with excessive sleepiness from narcolepsy, obstructive sleep apnea (OSA) or shift work disorder.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+            "label": "Provigil label, DailyMed, section 1",
+            "date": "published Mar 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The label says the way modafinil promotes wakefulness is unknown. Its wake-promoting effects resemble those of stimulants such as amphetamine and methylphenidate, but its profile is not identical.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 12.1",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "text": "In lab binding studies, modafinil binds to the dopamine reuptake site and raises dopamine outside nerve cells, without increasing dopamine release.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 9.2",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "text": "Modafinil is a 50:50 mix of two mirror-image forms, R and S. The R form is sold on its own as armodafinil (Nuvigil). After repeated doses, modafinil's elimination half-life is about 15 hours.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 12.3",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Modafinil's approved uses rest on placebo-controlled trials in people with sleep disorders. Its use for focus or fatigue in other people is off-label. Studies of those uses are smaller or mixed. Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Trials behind the approval (FDA label)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Narcolepsy:",
+            "text": "two 9-week, placebo-controlled, double-blind US studies randomized 558 people with narcolepsy to modafinil 200 or 400 mg a day or placebo. Both measures, time to fall asleep on a wakefulness test and a clinician's global rating, improved compared with placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 14.1",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Obstructive sleep apnea:",
+            "text": "a 12-week trial randomized 327 people already using CPAP; a 4-week trial randomized 157. In the 4-week trial, the Epworth Sleepiness Scale fell by 4.6 points on modafinil and 2.0 on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 14.2",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Shift work disorder:",
+            "text": "a 12-week placebo-controlled trial randomized 209 people with chronic shift work disorder to modafinil 200 mg or placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 14.3",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies of off-label uses"
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2003 · Randomized, double-blind trial",
+        "title": "Healthy young men, single dose (Psychopharmacology 2003)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Turner DC, Robbins TW, Clark L, et al. Psychopharmacology (Berl) 2003;165(3):260-9"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, between-subjects"
+          },
+          {
+            "k": "People",
+            "v": "60 healthy young adult men"
+          },
+          {
+            "k": "What was given",
+            "v": "a single dose of modafinil 100 mg or 200 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "one test session"
+          },
+          {
+            "k": "Measured",
+            "v": "a battery of memory, attention and planning tests"
+          }
+        ],
+        "found": "Modafinil improved scores on digit span, visual pattern recognition memory, spatial planning and stop-signal reaction time. It slowed responses on 3 tasks. It had no effect on spatial working memory, sustained attention, set-shifting or paired-associates learning. Effects were mostly not dose-dependent.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12417966/",
+            "label": "Turner et al., Psychopharmacology, PubMed",
+            "date": "published Jan 2003"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2015 · Systematic review",
+        "title": "Healthy, rested adults (Eur Neuropsychopharmacol 2015)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Battleday RM, Brem AK. Eur Neuropsychopharmacol 2015;25(11):1865-81"
+          },
+          {
+            "k": "Design",
+            "v": "systematic review of primary studies in MEDLINE, 1990 to 2014"
+          },
+          {
+            "k": "People",
+            "v": "healthy people who were not sleep-deprived"
+          },
+          {
+            "k": "Measured",
+            "v": "attention, executive function, learning and memory, creativity, side effects and mood"
+          }
+        ],
+        "found": "Most studies using basic tests found better executive function; only about half found better attention or memory, and a few found worse creative thinking. Studies using more complex tests more often found gains. The authors found no excess of side effects or mood changes and called for better study methods.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26381811/",
+            "label": "Battleday and Brem, Eur Neuropsychopharmacol, PubMed",
+            "date": "published Nov 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2010 · Phase 3 randomized trial",
+        "title": "Cancer-related fatigue during chemotherapy (Cancer 2010)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Jean-Pierre P, Morrow GR, Roscoe JA, et al. Cancer 2010;116(14):3513-20"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled, phase 3"
+          },
+          {
+            "k": "People",
+            "v": "867 people with fatigue starting chemotherapy were randomized; 631 gave usable data"
+          },
+          {
+            "k": "What was given",
+            "v": "modafinil 200 mg a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "from day 5 of chemotherapy cycle 2 to day 7 of cycle 4"
+          },
+          {
+            "k": "Measured",
+            "v": "worst fatigue in the past week; depression"
+          }
+        ],
+        "found": "The abstract reports that the effect depended on baseline fatigue (interaction P=.017): people with severe fatigue at the start (458) did better on modafinil, while people with mild or moderate fatigue did not. Depression did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20564068/",
+            "label": "Jean-Pierre et al., Cancer, PubMed",
+            "date": "published Jul 2010"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2021 · Randomized crossover trial",
+        "title": "Fatigue in multiple sclerosis, 3 drugs vs placebo (Lancet Neurol 2021)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Nourbakhsh B, Revirajan N, Morris B, et al. Lancet Neurol 2021;20(1):38-48"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, 4-period crossover (NCT03185065)"
+          },
+          {
+            "k": "People",
+            "v": "141 people with MS and fatigue at 2 US centers; 136 analyzed"
+          },
+          {
+            "k": "What was given",
+            "v": "modafinil up to 100 mg twice a day, amantadine, methylphenidate and placebo, each in turn"
+          },
+          {
+            "k": "Length",
+            "v": "up to 6 weeks per drug, with 2-week washouts"
+          },
+          {
+            "k": "Measured",
+            "v": "Modified Fatigue Impact Scale (MFIS)"
+          }
+        ],
+        "found": "Fatigue scores did not differ between the drugs and placebo (MFIS 39.0 on modafinil vs 40.6 on placebo; P=0.20 overall). Side effects were reported by 40% on modafinil vs 31% on placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33242419/",
+            "label": "Nourbakhsh et al., Lancet Neurology, PubMed",
+            "date": "published Jan 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Modafinil is FDA approved, by prescription, as Provigil. It is a Schedule IV controlled substance. Using it for focus, studying or general fatigue is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Provigil:",
+            "text": "FDA's Drugs@FDA data show NDA 020717 approved December 24, 1998, with an efficacy supplement approved January 23, 2004. The current label lists narcolepsy, OSA and shift work disorder, in adults.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020717",
+                "label": "openFDA (FDA's Drugs@FDA data), NDA 020717 Provigil",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 1",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "the label says Provigil contains modafinil, a Schedule IV controlled substance, and that modafinil produces psychoactive and euphoric effects typical of other stimulants. DEA's list of controlled substances shows modafinil in Schedule IV.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 9.1",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Children:",
+            "text": "the label says Provigil is not approved for use in children for any indication.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 5.1",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "using modafinil to improve focus or alertness in people without one of the approved conditions, or for fatigue in MS or cancer, is off-label. No FDA label lists these uses.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 1",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Modafinil is an approved prescription medicine in the US, Canada, the UK, the EU and Australia. Since 2010 the EU and UK limit it to narcolepsy. It is banned in competition in sport.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Provigil 1998; narcolepsy, OSA, shift work disorder). Prescription-only, Schedule IV.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020717",
+              "label": "openFDA (FDA's Drugs@FDA data), NDA 020717 Provigil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+              "label": "DEA, Controlled Substances in alphabetical order",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine. Alertec and several generic modafinil products are listed as marketed, prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=modafinil",
+              "label": "Health Canada Drug Product Database, ingredient search: modafinil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=63139",
+              "label": "Health Canada Drug Product Database, Alertec status record",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine (Provigil and generics), for excessive sleepiness in adults with narcolepsy only. MHRA says it is no longer indicated for shift work disorder or OSA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/modafinil-provigil-now-restricted-to-narcolepsy",
+              "label": "MHRA Drug Safety Update, modafinil restricted to narcolepsy",
+              "date": "published Mar 2011"
+            },
+            {
+              "url": "https://www.gov.uk/drug-safety-update/modafinil-provigil-increased-risk-of-congenital-malformations-if-used-during-pregnancy",
+              "label": "MHRA Drug Safety Update, modafinil in pregnancy",
+              "date": "published Nov 2020"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Nationally authorised medicine. After a 2010 EU review, use is restricted to narcolepsy; OSA, shift work disorder and idiopathic hypersomnia were removed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/modafinil",
+              "label": "EMA, modafinil referral (Article 31)",
+              "date": "published Nov 2010"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Modavigil and generic modafinil. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=modafinil",
+              "label": "TGA, PI/CMI search: modafinil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "In 2016 the MHRA warned students against buying modafinil as a study aid. It said modafinil is licensed for specific medical conditions, not for use during exams, and that supplying prescription-only medicines without a prescription is a criminal offence.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/government/news/freshers-warned-to-be-smart-and-avoid-modafinil",
+              "label": "MHRA, students warned about modafinil",
+              "date": "published Sep 2016"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Modafinil is named on the WADA 2026 Prohibited List in class S6.A, non-specified stimulants. It is prohibited in competition. The 2027 List, in force January 1, 2027, keeps modafinil in S6.A.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists headache, nausea, nervousness, stuffy nose, diarrhea, back pain, anxiety, insomnia, dizziness and indigestion as the most common side effects. Serious risks include life-threatening rashes, multi-organ allergic reactions, psychiatric symptoms and heart effects."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common:",
+            "text": "in pooled placebo-controlled trials (934 on modafinil, 567 on placebo): headache 34% vs 23%, nausea 11% vs 3%, nervousness 7% vs 3%, anxiety 5% vs 1%, insomnia 5% vs 1%, loss of appetite 4% vs 1%, chest pain 3% vs 1%, high blood pressure 3% vs 1%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 6.1",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Serious skin reactions:",
+            "text": "serious rash needing hospital care has been reported, including Stevens-Johnson syndrome, toxic epidermal necrolysis and DRESS. In children's trials, 0.8% (13 of 1,585) stopped because of rash. Most serious rashes began 1 to 5 weeks after starting. The label says to stop at the first sign of rash unless it is clearly not drug-related.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 5.1",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "multi-organ allergic reactions, including at least one death, and angioedema have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 5.2",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 5.3",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Psychiatric:",
+            "text": "mania, delusions, hallucinations, suicidal thoughts and aggression have been reported after approval, some needing hospital care. One healthy man given 600 mg a day with sleep deprivation developed paranoid delusions and hallucinations.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 5.5",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Heart and blood pressure:",
+            "text": "chest pain, palpitations and ECG changes occurred in trial subjects with mitral valve prolapse or left ventricular hypertrophy. The label advises against use in people with these conditions in certain cases. More people on modafinil needed new or increased blood-pressure medicine.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 5.7",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Interactions:",
+            "text": "modafinil can make hormonal contraceptives less reliable, during use and for 1 month after stopping. It can also lower cyclosporine levels.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 7",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse:",
+            "text": "the label says modafinil can be abused and is reinforcing in monkeys trained to take cocaine.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
+                "label": "Provigil label, DailyMed, section 9.2",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "in 2020 MHRA said modafinil may raise the risk of birth defects. A US registry estimated major malformations in about 14.75% of 78 prospective pregnancy cases, compared with 3% in the general population. MHRA says it should not be used in pregnancy.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/modafinil-provigil-increased-risk-of-congenital-malformations-if-used-during-pregnancy",
+                "label": "MHRA Drug Safety Update, modafinil in pregnancy",
+                "date": "published Nov 2020"
+              }
+            ]
+          },
+          {
+            "lead": "EU review:",
+            "text": "an EU review found a strong link to serious skin reactions, higher in children, and links to psychiatric and heart side effects. It found the benefit outweighed the risk only in narcolepsy.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/referrals/modafinil",
+                "label": "EMA, modafinil referral (Article 31)",
+                "date": "published Nov 2010"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The Drugs@FDA web page for NDA 020717 did not load; approval dates come from FDA's openFDA data for the same application.",
+    "The 2027 WADA tracked-changes text was read as extracted text; the S6 heading 'prohibited in-competition' did not appear in the extraction, though the contents page still lists S6 under in-competition."
+  ],
+  "surprises": [
+    "Modafinil is approved in the US for shift work disorder and OSA, but the EU and UK removed those uses in 2010-2011 after finding the benefit did not outweigh the risk there.",
+    "MHRA says modafinil is offered to students as a 'smart drug', yet in the US it is a Schedule IV controlled substance whose label warns of life-threatening rashes and psychiatric reactions.",
+    "In a 4-way crossover trial, modafinil did no better than placebo for fatigue in multiple sclerosis, a common off-label use."
+  ]
+}

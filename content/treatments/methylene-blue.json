@@ -1,0 +1,581 @@
+{
+  "slug": "methylene-blue",
+  "name": "Methylene blue",
+  "row": "Methylene blue",
+  "aka": [
+    "ProvayBlue",
+    "Proveblue",
+    "Lumeblue",
+    "Methylthioninium chloride"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Small cognition studies",
+    "fda": "Approved (ProvayBlue)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mitochondria and memory studies in cells and animals",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Single-dose brain-scan study in 26 healthy adults",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Drug-level and heart-rhythm studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Bipolar crossover trial, 37 people (2017)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "A related form, LMTM, failed in Alzheimer's (2016)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "ProvayBlue 2016, methemoglobinemia only",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Methylene blue is a blue thiazine dye. As an FDA-approved drug (ProvayBlue, given into a vein), it treats acquired methemoglobinemia, a condition in which hemoglobin cannot deliver oxygen normally.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+            "label": "ProvayBlue label, DailyMed, section 1",
+            "date": "published Jun 2025"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA204630",
+            "label": "openFDA (FDA's Drugs@FDA data), NDA 204630 ProvayBlue",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The label says the body converts methylene blue to leucomethylene blue, which turns methemoglobin back into normal hemoglobin. Its half-life is about 24 hours.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+            "label": "ProvayBlue label, DailyMed, section 12",
+            "date": "published Jun 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Methylene blue is also promoted for energy and thinking. That interest rests mainly on lab and animal studies: a 2018 review describes it rerouting electrons in mitochondria (the cell's energy units) and protecting brain cells in cell and animal models of stroke, Alzheimer's and Parkinson's disease. This has not been shown to translate to energy in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28840449/",
+            "label": "Tucker et al., Mol Neurobiol (review), PubMed",
+            "date": "published Jun 2018"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "A few small human studies have looked at methylene blue and brain function. None tested it for energy or fatigue. A related compound failed in a large Alzheimer's trial. Each study is listed as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2016 · Randomized, double-blind trial",
+        "title": "Single dose and brain scans in healthy adults (Radiology 2016)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Rodriguez P, Zhou W, Barrett DW, et al. Radiology 2016;281(2):516-526"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "26 healthy adults aged 22 to 62"
+          },
+          {
+            "k": "What was given",
+            "v": "a single low oral dose of methylene blue or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "one session; scans before and 60 minutes after the dose"
+          },
+          {
+            "k": "Measured",
+            "v": "functional MRI during an attention task and a short-term memory task; correct answers"
+          }
+        ],
+        "found": "Brain activity on MRI rose in some regions during both tasks after methylene blue. Correct responses during memory retrieval rose by 7% (P=.01). This was one dose in a small group; it did not measure energy or fatigue.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27351678/",
+            "label": "Rodriguez et al., Radiology, PubMed",
+            "date": "published Nov 2016"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 2017 · Randomized crossover trial",
+        "title": "Leftover symptoms of bipolar disorder (Br J Psychiatry 2017)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Alda M, McKinnon M, Blagdon R, et al. Br J Psychiatry 2017;210(1):54-60"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind crossover; a 15 mg dose served as the 'placebo' (NCT00214877)"
+          },
+          {
+            "k": "People",
+            "v": "37 people with bipolar disorder taking lamotrigine"
+          },
+          {
+            "k": "What was given",
+            "v": "methylene blue 195 mg vs 15 mg"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "depression, mania and anxiety ratings; thinking tests"
+          }
+        ],
+        "found": "Depression scores (P=0.02 and 0.05 on two scales) and anxiety scores (P=0.02) improved on the higher dose. Effects on thinking were not significant. Side effects were described as mild and transient.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27284082/",
+            "label": "Alda et al., Br J Psychiatry, PubMed",
+            "date": "published Jan 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "16 countries · 2016 · Phase 3 randomized trial",
+        "title": "LMTM, a related compound, in Alzheimer's disease (Lancet 2016)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Gauthier S, Feldman HH, Schneider LS, et al. Lancet 2016;388(10062):2873-2884"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, controlled, double-blind, parallel-group (NCT01689246)"
+          },
+          {
+            "k": "People",
+            "v": "891 people with mild to moderate Alzheimer's disease"
+          },
+          {
+            "k": "What was given",
+            "v": "leuco-methylthioninium (LMTM) tablets, 75 mg or 125 mg twice a day, or a control of 4 mg twice a day to keep blinding (it colors urine)"
+          },
+          {
+            "k": "Length",
+            "v": "15 months"
+          },
+          {
+            "k": "Measured",
+            "v": "ADAS-Cog thinking score and ADCS-ADL daily-living score"
+          }
+        ],
+        "found": "The main analysis showed no benefit at either dose on either measure. Stomach, bowel and urinary effects were the most common side effects on the higher doses, and hemoglobin fell slightly with dose. LMTM is a reduced form of methylthioninium, not ProvayBlue itself.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27863809/",
+            "label": "Gauthier et al., Lancet, PubMed",
+            "date": "published Dec 2016"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No published human trial of methylene blue for energy or fatigue was found as of November 1, 2026. A PubMed search returned one unrelated dental paper, and a ClinicalTrials.gov search returned mostly photodynamic-therapy studies plus a completed University of Texas Health Science Center at San Antonio study of methylene blue on thinking and brain scans (NCT01836094), the institution behind the 2016 study.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01836094",
+            "label": "ClinicalTrials.gov, NCT01836094",
+            "date": "published Apr 2013"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=methylene+blue+fatigue+randomized",
+            "label": "PubMed search for 'methylene blue fatigue randomized'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=methylene+blue+fatigue",
+            "label": "ClinicalTrials.gov search for 'methylene blue fatigue'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Methylene blue is FDA approved only as an intravenous drug, ProvayBlue, for acquired methemoglobinemia. It has a boxed warning for serotonin syndrome. Taking it for energy, focus or memory is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "ProvayBlue:",
+            "text": "FDA's Drugs@FDA data show NDA 204630 (ProvayBlue injection) approved April 8, 2016, with an efficacy supplement approved January 8, 2024. The current label covers children and adults with acquired methemoglobinemia.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA204630",
+                "label": "openFDA (FDA's Drugs@FDA data), NDA 204630 ProvayBlue",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 1",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "the label's boxed warning says ProvayBlue may cause serious or fatal serotonin syndrome when used with serotonergic drugs and opioids, and says to avoid use with SSRIs, SNRIs, MAO inhibitors and opioids.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, boxed warning",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Approval evidence:",
+            "text": "approval rested on 31 adults in an open-label single-arm study (NCT03395223) and a registry (NCT03542760). Of 28 with a baseline level, 26 had methemoglobin fall by at least half at the first check after dosing.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 14",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "FDA's Drugs@FDA data list only intravenous methylene blue solutions (ProvayBlue and generic versions). None is for energy, focus, memory or mood, and none is taken by mouth. Those uses are off-label.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22METHYLENE+BLUE%22&limit=100",
+                "label": "openFDA (FDA's Drugs@FDA data): search for methylene blue products",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 1",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded products:",
+            "text": "compounded methylene blue products are not FDA approved; FDA does not verify their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Methylene blue is an approved medicine in the US, the EU, the UK, Australia and Canada, for methemoglobinemia (and in the EU also as a dye for colonoscopy). No regulator checked approves it for energy or cognition. It is not on WADA's list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (ProvayBlue 2016, intravenous, acquired methemoglobinemia). Prescription-only. Boxed warning for serotonin syndrome.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA204630",
+              "label": "openFDA (FDA's Drugs@FDA data), NDA 204630 ProvayBlue",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+              "label": "ProvayBlue label, DailyMed",
+              "date": "published Jun 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: methylene blue injection products are listed as marketed in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=methylene%20blue",
+              "label": "Health Canada Drug Product Database, ingredient search: methylene blue",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=50032",
+              "label": "Health Canada Drug Product Database, Methylene Blue Injection USP status record",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine: MHRA says intravenous methylthioninium chloride is approved for drug-induced methaemoglobinaemia; other uses are off-label.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/methylthioninium-chloride-methylene-blue-update-on-central-nervous-system-cns-toxicity",
+              "label": "MHRA Drug Safety Update, methylthioninium chloride CNS toxicity",
+              "date": "published Apr 2009"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine. Methylthioninium chloride Proveblue authorised May 6, 2011 (drug- and chemical-induced methaemoglobinaemia); Lumeblue authorised August 19, 2020 (oral dye for colonoscopy).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/methylthioninium-chloride-proveblue",
+              "label": "EMA, Methylthioninium chloride Proveblue EPAR",
+              "date": "published Jun 2011"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lumeblue",
+              "label": "EMA, Lumeblue EPAR",
+              "date": "published Aug 2020"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Methylene Blue and Proveblue. Injection is prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=methylene",
+              "label": "TGA, PI/CMI search: methylene",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Methylene blue is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The main serious risk is serotonin syndrome, which can be fatal, when methylene blue is combined with antidepressants, some other drugs or opioids. It can also cause severe red blood cell breakdown in people with G6PD deficiency, allergic reactions and confusion."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Serotonin syndrome:",
+            "text": "most reports involved SSRIs, SNRIs or MAO inhibitors; opioids and dextromethorphan may add to the risk. Signs include agitation, confusion, fast heartbeat, high temperature, tremor, rigidity and seizures. The label says not to take serotonergic drugs within 72 hours after the last dose.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 5.1",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Interactions:",
+            "text": "the label says methylene blue appears to be a potent reversible MAO inhibitor, and lists bupropion, buspirone, clomipramine, mirtazapine, linezolid, opioids and dextromethorphan among drugs to avoid with it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 7",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "UK reports:",
+            "text": "in 2009 MHRA reported 33 cases of nervous-system toxicity, most after use as a dye in thyroid or parathyroid surgery in people taking SSRIs or clomipramine; some were labelled serotonin syndrome.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/methylthioninium-chloride-methylene-blue-update-on-central-nervous-system-cns-toxicity",
+                "label": "MHRA Drug Safety Update, methylthioninium chloride CNS toxicity",
+                "date": "published Apr 2009"
+              }
+            ]
+          },
+          {
+            "lead": "Red blood cell breakdown:",
+            "text": "it must not be used in G6PD deficiency because of the risk of severe hemolytic anemia. Hemolysis can occur in others too, sometimes a day or more after treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, sections 4 and 5.4",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "anaphylaxis and other severe allergic reactions have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 5.2",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Other effects:",
+            "text": "in the 31-adult approval data, side effects included headache, low potassium, diarrhea, low magnesium, muscle jerks, nausea and one serious seizure-like event. The drug can cause confusion, dizziness and vision changes, and can make pulse-oximeter readings falsely low. It turns urine blue.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, sections 5.5 to 6.1",
+                "date": "published Jun 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy and breastfeeding:",
+            "text": "the label says it may cause fetal harm and to stop breastfeeding for up to 8 days after treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
+                "label": "ProvayBlue label, DailyMed, section 8",
+                "date": "published Jun 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's 2011 drug safety communications on methylene blue and psychiatric drugs could not be opened (the pages returned errors); the serotonin warning here comes from the current label.",
+    "The dose given in the 2016 Radiology study is not stated in its abstract, and the full paper was not read.",
+    "Whether products sold for energy contain pharmaceutical-grade methylene blue was not checked."
+  ],
+  "surprises": [
+    "Methylene blue is promoted for energy and focus, but its only FDA-approved form is an intravenous antidote with a boxed warning for possibly fatal serotonin syndrome when combined with common antidepressants."
+  ]
+}

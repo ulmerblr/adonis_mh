@@ -1,0 +1,579 @@
+{
+  "slug": "alpha-gpc",
+  "name": "Alpha-GPC",
+  "row": "Alpha-GPC (choline alfoscerate)",
+  "aka": [
+    "Choline alfoscerate",
+    "Choline alphoscerate",
+    "L-alpha-glycerylphosphorylcholine",
+    "Glycerophosphocholine",
+    "GPC",
+    "Gliatilin",
+    "Delecit"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Small RCTs; dementia",
+    "fda": "Supplement; not a drug",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Lab and animal work not reviewed here",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small crossover studies in young men, 13 and 20",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "12-week trial in mild cognitive impairment, 100",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "180-day Alzheimer's trial, 261 people (2003)",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Italy: Gliatilin and Delecit (AIFA)",
+      "status": "done"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "US: sold as a supplement; not FDA reviewed",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Alpha-GPC (L-alpha-glycerylphosphorylcholine, also called choline alfoscerate) is a choline-containing compound described in research as a precursor of acetylcholine, a nerve messenger.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12637119/",
+            "label": "De Jesus Moreno Moreno, Clin Ther, PubMed",
+            "date": "published Jan 2003"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39300341/",
+            "label": "Jeon et al., BMC Geriatrics, PubMed",
+            "date": "published Sep 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is sold in dietary supplements; the NIH label database lists hundreds of supplement labels matching 'alpha-GPC'. In Italy it is an authorised medicine (Gliatilin, Delecit).",
+        "src": [
+          {
+            "url": "https://api.ods.od.nih.gov/dsld/v9/search-filter?q=alpha-gpc",
+            "label": "NIH Office of Dietary Supplements, Dietary Supplement Label Database search: alpha-gpc",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+            "label": "AIFA (Italian Medicines Agency), list of authorised medicine packs (open data)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "This page covers alpha-GPC taken by mouth. The site's separate Choline page covers choline chloride, the form used in injections."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Most human trials of alpha-GPC are in older adults with dementia or mild memory problems, several from Italy and South Korea. Studies of energy, focus or strength in healthy people are small and short. A large Korean health-records study linked its use to more strokes. Each study is listed as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Mexico · 2003 · Randomized, double-blind trial",
+        "title": "Mild to moderate Alzheimer's disease (Clin Ther 2003)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "De Jesus Moreno Moreno M. Clin Ther 2003;25(1):178-93"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "261 people aged 60 to 80 with mild to moderate Alzheimer's disease (199 women, 62 men)"
+          },
+          {
+            "k": "What was given",
+            "v": "choline alfoscerate 400 mg capsules or placebo, 3 times a day"
+          },
+          {
+            "k": "Length",
+            "v": "180 days"
+          },
+          {
+            "k": "Measured",
+            "v": "ADAS-Cog, MMSE and other dementia scales"
+          }
+        ],
+        "found": "ADAS-Cog scores improved by 3.20 points on choline alfoscerate and worsened by 2.90 points on placebo by day 180. The other scales also differed between groups. The author reported it was well tolerated.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12637119/",
+            "label": "De Jesus Moreno Moreno, Clin Ther, PubMed",
+            "date": "published Jan 2003"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "South Korea · 2024 · Randomized, double-blind trial",
+        "title": "Mild cognitive impairment (BMC Geriatr 2024)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Jeon J, Lee SY, Lee S, et al. BMC Geriatr 2024;24(1):774"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled (KCT0008797)"
+          },
+          {
+            "k": "People",
+            "v": "100 people with mild cognitive impairment"
+          },
+          {
+            "k": "What was given",
+            "v": "600 mg alpha-GPC soft capsule or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "ADAS-Cog; side effects and lab tests"
+          }
+        ],
+        "found": "ADAS-Cog improved by 2.34 points, significantly more than on placebo. No serious side effects were reported, and side-effect rates did not differ between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39300341/",
+            "label": "Jeon et al., BMC Geriatrics, PubMed",
+            "date": "published Sep 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Randomized crossover trial",
+        "title": "Single dose, thinking tests in trained men (Nutrients 2024)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Kerksick CM. Nutrients 2024;16(23):4240"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "20 resistance-trained men, mean age 31"
+          },
+          {
+            "k": "What was given",
+            "v": "a single dose of 630 mg or 315 mg alpha-GPC, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "single sessions"
+          },
+          {
+            "k": "Measured",
+            "v": "Stroop, N-Back and Flanker tests; mood scales; jump and bench-press power; growth hormone"
+          }
+        ],
+        "found": "Stroop scores rose more after both doses than after placebo. N-Back and Flanker results, mood ratings, physical performance and growth hormone did not differ.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39683633/",
+            "label": "Kerksick, Nutrients, PubMed",
+            "date": "published Dec 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Randomized crossover trial",
+        "title": "Six days and muscle force (J Int Soc Sports Nutr 2015)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Bellar D, LeBlanc NR, Campbell B. J Int Soc Sports Nutr 2015;12:42"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover with a 1-week washout"
+          },
+          {
+            "k": "People",
+            "v": "13 college-aged men"
+          },
+          {
+            "k": "What was given",
+            "v": "600 mg alpha-GPC a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "6 days per period"
+          },
+          {
+            "k": "Measured",
+            "v": "isometric mid-thigh pull and upper-body force"
+          }
+        ],
+        "found": "Peak lower-body force rose more on alpha-GPC (+98.8 N vs -39.0 N on placebo; P=0.044). The upper-body change was not significant.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26582972/",
+            "label": "Bellar et al., J Int Soc Sports Nutr, PubMed",
+            "date": "published Nov 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "South Korea · 2021 · Health-records cohort",
+        "title": "Alpha-GPC use and stroke over 10 years (JAMA Netw Open 2021)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Lee G, Choi S, Chang J, et al. JAMA Netw Open 2021;4(11):e2136008"
+          },
+          {
+            "k": "Design",
+            "v": "retrospective cohort using national health insurance data; not a trial"
+          },
+          {
+            "k": "People",
+            "v": "12,008,977 adults aged 50 or older without stroke or Alzheimer's; 108,877 were prescribed alpha-GPC in 2006-2008"
+          },
+          {
+            "k": "Length",
+            "v": "follow-up from 2009 to January 2018"
+          },
+          {
+            "k": "Measured",
+            "v": "total, ischemic and hemorrhagic stroke"
+          }
+        ],
+        "found": "After matching, users had a higher risk of total stroke (adjusted hazard ratio 1.43), ischemic stroke (1.34) and hemorrhagic stroke (1.37), rising with longer use. This shows an association, not cause. A correction to the methods was published in 2026.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34817582/",
+            "label": "Lee et al., JAMA Network Open, PubMed",
+            "date": "published Nov 2021"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42783376/",
+            "label": "JAMA Network Open, correction notice, PubMed",
+            "date": "published Sep 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Alpha-GPC is not an FDA-approved drug. In the US it is sold as a dietary supplement, which FDA does not review for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "No approved drug:",
+            "text": "FDA's Drugs@FDA data list no approved drug containing choline alfoscerate.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22CHOLINE+ALFOSCERATE%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for choline alfoscerate, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Supplement rules:",
+            "text": "under US law, a dietary supplement is a product meant to supplement the diet that contains a dietary ingredient such as a vitamin, mineral, herb, amino acid, or a dietary substance or its concentrate, metabolite or extract.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No FDA review before sale:",
+            "text": "FDA says it does not have the authority to approve dietary supplements before they are marketed, and that firms generally do not have to show FDA evidence of safety before selling them.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not approved for any use:",
+            "text": "using alpha-GPC for energy, focus, memory or strength is not an approved use of any drug in the US.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22CHOLINE+ALFOSCERATE%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for choline alfoscerate, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Alpha-GPC is an authorised medicine in Italy. In the US it is sold as a dietary supplement, and no FDA-approved drug contains it. EMA's central list has no alpha-GPC medicine. Canada, the UK and Australia were not confirmed. It is not on WADA's list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not an approved drug. Sold as a dietary supplement, which FDA does not review before sale.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22CHOLINE+ALFOSCERATE%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for choline alfoscerate, no match",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "No centrally authorised medicine. Authorised nationally in Italy (see below); other member states were not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Italy",
+          "regulator": "AIFA",
+          "status": "Authorised medicine (national procedure): Gliatilin and Delecit, as capsules, oral solution and injection (ATC N07AX02).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://drive.aifa.gov.it/farmaci/confezioni.csv",
+              "label": "AIFA (Italian Medicines Agency), list of authorised medicine packs (open data)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "380"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Canada: Health Canada's Drug Product Database returned no drug product for choline alfoscerate. Its natural health products database was not searched.",
+          "src": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=alfoscerate",
+              "label": "Health Canada Drug Product Database, ingredient search: alfoscerate",
+              "date": "accessed Nov 1, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Alpha-GPC (choline alfoscerate) is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "FDA does not review dietary supplements for safety before sale. The trials above reported few side effects. A large Korean health-records study linked alpha-GPC use to a higher stroke risk."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "In trials:",
+            "text": "in the 2024 Korean trial of 100 people, no serious side effects were reported and side-effect rates matched placebo. The 2003 Alzheimer's trial author reported it was well tolerated.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39300341/",
+                "label": "Jeon et al., BMC Geriatrics, PubMed",
+                "date": "published Sep 2024"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12637119/",
+                "label": "De Jesus Moreno Moreno, Clin Ther, PubMed",
+                "date": "published Jan 2003"
+              }
+            ]
+          },
+          {
+            "lead": "Stroke association:",
+            "text": "people prescribed alpha-GPC had about 43% higher adjusted stroke risk over 10 years than matched non-users, with a dose-response pattern. The authors noted that choline has been linked to heart disease through TMAO, a product of gut bacteria, and said the mechanism needs study. The study cannot show cause.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34817582/",
+                "label": "Lee et al., JAMA Network Open, PubMed",
+                "date": "published Nov 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Heart rate and blood pressure:",
+            "text": "in the 2024 single-dose study, heart rate and blood pressure changed in all groups, including placebo, and stayed within normal ranges.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39683633/",
+                "label": "Kerksick, Nutrients, PubMed",
+                "date": "published Dec 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Supplement quality:",
+            "text": "FDA does not approve supplements before they are sold, and firms generally do not have to show FDA safety evidence first.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Choline alfoscerate is reported to be an approved medicine in South Korea and Russia; neither regulator's record (MFDS, GRLS) could be opened.",
+    "Italian prescription class and approved indications for Gliatilin and Delecit were not read; only AIFA's authorisation list was.",
+    "Status in Canada (natural health products), the UK and Australia was not confirmed; TGA's site did not respond.",
+    "The content of the 2026 correction to the Korean stroke study was not read."
+  ],
+  "surprises": [
+    "Alpha-GPC is sold in the US as a dietary supplement that FDA does not review, yet in Italy it is an authorised medicine, including as an injection."
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "slug": "noopept",
+  "name": "Noopept",
+  "row": "Noopept (omberacetam)",
+  "aka": [
+    "Omberacetam",
+    "GVS-111",
+    "N-phenylacetyl-L-prolylglycine ethyl ester"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Small Russian studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and mouse studies, mostly in Russia",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small Russian studies, 2008 to 2011",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA cited noopept products, 2019",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Noopept (international name omberacetam, code GVS-111) is the ethyl ester of N-phenylacetyl-L-prolylglycine. It is a small dipeptide-like molecule, which is why it is often grouped with peptides, and it was developed in Russia.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+            "label": "Deigin et al., Pharmaceutics, 2022 (review of peptide drugs developed in Russia)",
+            "date": "published Mar 2022"
+          },
+          {
+            "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+            "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2022 review lists it among 14 peptide products registered in Russia, as a nootropic (a drug meant to aid thinking). A 2025 study by 12 official medicines control laboratories says it is a prescription medicine in Russia for brain injury, mood disorders and cerebral vascular disease.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+            "label": "Deigin et al., Pharmaceutics, 2022 (review of peptide drugs developed in Russia)",
+            "date": "published Mar 2022"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+            "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+            "date": "published Jun 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and lab studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In rats, it raised the activity of the genes for the nerve growth factors NGF and BDNF in the hippocampus.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19240853/",
+                "label": "Ostrovskaya et al., Bull Exp Biol Med, 2008",
+                "date": "published Sep 2008"
+              }
+            ]
+          },
+          {
+            "text": "In mice, it prevented the spatial-memory deficit caused by scopolamine.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18214292/",
+                "label": "Belnik et al., Bull Exp Biol Med, 2007",
+                "date": "published Apr 2007"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "These effects come from animal studies. They have not been confirmed in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: a few small Russian studies in people with mild cognitive problems after stroke, brain injury or vascular disease, mostly published in Russian. No trial is registered on ClinicalTrials.gov."
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search returned 106 records; most are animal or lab studies. ClinicalTrials.gov lists no trial for noopept or omberacetam.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=noopept",
+            "label": "PubMed search for 'noopept'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=noopept",
+            "label": "ClinicalTrials.gov search for 'noopept'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=omberacetam",
+            "label": "ClinicalTrials.gov search for 'omberacetam'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2011 · Open prospective study",
+        "title": "Mild cognitive impairment after stroke, 2011",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Amelin AV, et al. Zh Nevrol Psikhiatr Im S S Korsakova 2011;111(10 Pt 1):44-6 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "open (unblinded) study with a control group; the abstract does not describe randomization"
+          },
+          {
+            "k": "People",
+            "v": "60 patients after stroke"
+          },
+          {
+            "k": "What was given",
+            "v": "noopept 20 mg a day for 2 months"
+          },
+          {
+            "k": "Length",
+            "v": "12 months"
+          },
+          {
+            "k": "Measured",
+            "v": "MMSE and word-association tests"
+          }
+        ],
+        "found": "The authors report better MMSE and word-association scores after 2 months in the noopept group than in controls, and describe it as safe.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22500312/",
+            "label": "Amelin et al., Zh Nevrol Psikhiatr, 2011",
+            "date": "published 2011"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2008/2009 · Comparative study",
+        "title": "Noopept compared with piracetam",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Neznamov GG, Teleshova ES. Neurosci Behav Physiol 2009;39(3):311-21 (English version of a 2008 Russian paper)"
+          },
+          {
+            "k": "Design",
+            "v": "noopept compared with piracetam; no abstract on PubMed"
+          },
+          {
+            "k": "People",
+            "v": "patients with mild cognitive disorders from vascular disease or brain injury"
+          }
+        ],
+        "found": "No abstract is available on PubMed, and the full paper could not be opened, so the findings are not reported here.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19234797/",
+            "label": "Neznamov and Teleshova, Neurosci Behav Physiol, 2009",
+            "date": "published Mar 2009"
+          }
+        ],
+        "badge": "Details not available"
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2008 · EEG study",
+        "title": "Brain-wave changes, 2008",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Bochkarev VK, et al. Zh Nevrol Psikhiatr Im S S Korsakova 2008;108(11):47-54 (in Russian)"
+          },
+          {
+            "k": "People",
+            "v": "patients with fatigue and thinking problems after brain injury or vascular brain disease; the abstract does not give a number"
+          },
+          {
+            "k": "Measured",
+            "v": "EEG rhythms"
+          }
+        ],
+        "found": "The authors report more alpha and beta activity and less delta activity, which they call typical of nootropic drugs. No clinical outcome is given in the abstract.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19008801/",
+            "label": "Bochkarev et al., Zh Nevrol Psikhiatr, 2008",
+            "date": "published 2008"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Noopept in US supplements"
+      },
+      {
+        "t": "p",
+        "text": "In a 2021 study, researchers bought 10 over-the-counter \"cognitive enhancement\" supplements online, labelled as containing omberacetam or related drugs. Some contained up to 40.6 mg of omberacetam per serving, about four times a typical drug dose, and 75% of declared amounts were wrong.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34484905/",
+            "label": "Cohen et al., Neurol Clin Pract, 2021",
+            "date": "published Jun 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Noopept is not FDA approved for any use. FDA has cited products containing noopept, many sold as dietary supplements, as unapproved new drugs and/or misbranded drugs. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no noopept or omberacetam product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NOOPEPT",
+                "label": "openFDA Drugs@FDA search, active ingredient 'noopept'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:OMBERACETAM",
+                "label": "openFDA Drugs@FDA search, active ingredient 'omberacetam'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA action:",
+            "text": "in 2019 FDA sent 12 warning letters and 5 online advisory letters to companies \"illegally selling more than 58 products, many that are sold as dietary supplements, which are unapproved new drugs and/or misbranded drugs\" with Alzheimer's claims. FDA's list of the products cited includes noopept.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/health-fraud-scams/unproven-alzheimers-disease-products",
+                "label": "FDA, Unproven Alzheimer's disease products",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Supplements:",
+            "text": "researchers describe omberacetam as one of several drugs \"not approved for human use in the United States\" that turn up in supplements.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34484905/",
+                "label": "Cohen et al., Neurol Clin Pract, 2021",
+                "date": "published Jun 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "noopept is not named in FDA's 503A or 503B category lists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA's controlled substances list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Under US law, FDA does not have the authority to approve dietary supplements before they are sold. The supplement definition generally excludes ingredients approved as new drugs.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+            "label": "Questions and answers on dietary supplements, FDA",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Noopept is a prescription medicine in Russia. It is not authorized in the EU or Australia, according to official medicines laboratories, and Australia lists it as prescription-only. It is not approved in the US. WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA has cited noopept products as unapproved new drugs and/or misbranded drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NOOPEPT",
+              "label": "openFDA Drugs@FDA search, active ingredient 'noopept'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/consumers/health-fraud-scams/unproven-alzheimers-disease-products",
+              "label": "FDA, Unproven Alzheimer's disease products",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Ministry of Health (state drug register)",
+          "status": "Registered prescription medicine, per a 2022 review and a 2025 study by official medicines laboratories. The register entry itself could not be opened.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+              "label": "Deigin et al., Pharmaceutics, 2022 (review of peptide drugs developed in Russia)",
+              "date": "published Mar 2022"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+              "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+              "date": "published Jun 2025"
+            }
+          ],
+          "iso": [
+            "643"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=OMBERACETAM",
+              "label": "Health Canada Drug Product Database, active ingredient search (omberacetam)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=NOOPEPT",
+              "label": "Health Canada Drug Product Database, active ingredient search (noopept)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized, per a 2025 study by official medicines control laboratories. Not in EMA's medicines list.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+              "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+              "date": "published Jun 2025"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4) under the Poisons Standard, but not authorized, per a 2025 study that included TGA laboratories.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+              "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+              "date": "published Jun 2025"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Noopept (omberacetam) is not named on the WADA Prohibited List for 2026 or 2027. WADA class S0 covers substances with no current approval by any government health authority; noopept is registered in Russia. The related drug fonturacetam (4-phenylpiracetam) is named as a stimulant banned in competition (S6.A). The lists do not say how they apply to noopept.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+              "label": "Deigin et al., Pharmaceutics, 2022 (review of peptide drugs developed in Russia)",
+              "date": "published Mar 2022"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side-effect data are sparse. One small Russian study describes it as safe but gives no side-effect counts. Supplements tested in 2021 contained up to four times a typical dose, and often not what the label said."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "one open study in 60 stroke patients described a \"high level of safety\"; it gives no side-effect counts.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22500312/",
+                "label": "Amelin et al., Zh Nevrol Psikhiatr, 2011",
+                "date": "published 2011"
+              }
+            ]
+          },
+          {
+            "lead": "Supplement products:",
+            "text": "tested over-the-counter products contained up to about four times a typical dose of omberacetam, other unapproved drugs, and amounts that did not match the label.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34484905/",
+                "label": "Cohen et al., Neurol Clin Pract, 2021",
+                "date": "published Jun 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Illegal market:",
+            "text": "European and Australian laboratories found noopept sold as bulk raw powder up to 100% pure, and one liquid at twice a typical dose.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+                "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+                "date": "published Jun 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Russia's state drug register asks for a picture code before showing results, so noopept's register entry could not be opened; its status comes from a 2022 review and a 2025 laboratory study.",
+    "The Neznamov 2009 comparison with piracetam could not be opened (the publisher returned an error) and has no PubMed abstract.",
+    "No FDA statement saying in so many words that noopept is not a lawful dietary ingredient was found; FDA's 2019 action covered products with Alzheimer's claims.",
+    "UK (MHRA) was not checked. The TGA's product register was not checked."
+  ],
+  "surprises": [
+    "Noopept turns up in over-the-counter supplements, but FDA has cited noopept products as unapproved new drugs, and tested supplements contained up to four times a typical drug dose.",
+    "Australia lists noopept as a prescription-only medicine, yet no product is authorized there, per official laboratories."
+  ]
+}

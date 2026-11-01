@@ -1,0 +1,673 @@
+{
+  "slug": "piracetam",
+  "name": "Piracetam",
+  "row": "Piracetam",
+  "aka": [
+    "Nootropil"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "RCTs; reviews disagree",
+    "fda": "Not approved (US)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal studies (UK label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Healthy-volunteer blood studies (UK label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Placebo-controlled trials in dementia (Cochrane)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Stroke and MCI trials, including UCB's",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "UK, Belgium, Luxembourg (Nootropil)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA cited piracetam products, 2019",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Piracetam (2-oxo-1-pyrrolidine acetamide) is a small synthetic molecule. It is not a peptide. Its UK label classes it as a nootropic (ATC code N06BX03). Australia's Poisons Standard groups it with related drugs as \"racetams\".",
+        "src": [
+          {
+            "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+            "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+            "date": "revised Jul 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11405971/",
+            "label": "Flicker and Grimley Evans, Cochrane review: Piracetam for dementia or cognitive impairment, 2001",
+            "date": "published 2001"
+          },
+          {
+            "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+            "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the UK it is a licensed medicine, Nootropil, for adults with myoclonus (jerking movements) that starts in the brain's cortex, used with other anti-myoclonus drugs. In Belgium and Luxembourg, Nootropil is a prescription medicine for memory or intellectual problems of brain origin without dementia, and for cortical myoclonus.",
+        "src": [
+          {
+            "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+            "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+            "date": "revised Jul 2025"
+          },
+          {
+            "url": "https://app.fagg-afmps.be/pharma-status/api/files/62bc6c3b1e5c015ab3e8fe91",
+            "label": "Nootropil 800 mg and 1200 mg tablets, patient leaflet, Belgian medicines agency (FAMHP)",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to its UK label:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Its action in cortical myoclonus is unknown.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "text": "It makes red blood cells more flexible and reduces platelet clumping and the sticking of red cells to vessel walls.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "text": "In healthy volunteers, high doses lowered fibrinogen and von Willebrand factor by 30 to 40% and lengthened bleeding time.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "text": "It is almost fully absorbed when taken by mouth and crosses into the brain and the placenta. It leaves the body through the kidneys.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Piracetam has been tested in many trials, mostly in older people with dementia or memory problems, and in stroke. Reviews disagree: a maker-funded analysis found a global benefit, while Cochrane and a 2024 review found no clear effect on memory or thinking."
+      },
+      {
+        "t": "h3",
+        "text": "Reviews of the trials"
+      },
+      {
+        "t": "study",
+        "meta": "2001 · Cochrane systematic review",
+        "title": "Dementia or cognitive impairment, Cochrane 2001",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Flicker L, Grimley Evans G. Cochrane Database Syst Rev 2001;(2):CD001011"
+          },
+          {
+            "k": "Design",
+            "v": "review of randomized, placebo-controlled trials, including unpublished studies supplied by UCB"
+          },
+          {
+            "k": "People",
+            "v": "people with Alzheimer's, vascular or mixed dementia, or cognitive impairment"
+          },
+          {
+            "k": "Measured",
+            "v": "global impression of change, cognition and other measures"
+          }
+        ],
+        "found": "More people improved on global impression with piracetam (odds ratio 3.55 in one model), but results varied widely between trials, and effects on cognition were inconclusive. The reviewers wrote that the evidence \"does not support the use of piracetam\" in dementia or cognitive impairment.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11405971/",
+            "label": "Flicker and Grimley Evans, Cochrane review: Piracetam for dementia or cognitive impairment, 2001",
+            "date": "published 2001"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2002 · Meta-analysis by the maker",
+        "title": "Cognitive impairment in older people, 2002",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Waegemans T, et al. Dement Geriatr Cogn Disord 2002;13(4):217-24"
+          },
+          {
+            "k": "Authors",
+            "v": "UCB, the company that developed piracetam"
+          },
+          {
+            "k": "Design",
+            "v": "19 double-blind, placebo-controlled studies"
+          },
+          {
+            "k": "People",
+            "v": "older people with dementia or cognitive impairment"
+          },
+          {
+            "k": "Measured",
+            "v": "clinical global impression of change"
+          }
+        ],
+        "found": "The authors report a difference favouring piracetam on global impression.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12006732/",
+            "label": "Waegemans et al., Dement Geriatr Cogn Disord, 2002",
+            "date": "published 2002"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2024 · Systematic review and meta-analysis",
+        "title": "Memory in adults with memory problems, 2024",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Gouhie FA, et al. Clin Neurol Neurosurg 2024;243:108358"
+          },
+          {
+            "k": "Design",
+            "v": "review of trials comparing piracetam with placebo"
+          },
+          {
+            "k": "People",
+            "v": "18 studies, 886 patients, 442 on piracetam"
+          },
+          {
+            "k": "Measured",
+            "v": "memory"
+          }
+        ],
+        "found": "No clear difference in memory (standardized mean difference 0.75, 95% CI -0.19 to 1.69), with very large differences between studies (I² 96%). The authors said the effect on memory cannot be determined.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38878641/",
+            "label": "Gouhie et al., Clin Neurol Neurosurg, 2024",
+            "date": "published Aug 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2012 · Cochrane systematic review",
+        "title": "Acute ischaemic stroke, Cochrane 2012",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Ricci S, et al. Cochrane Database Syst Rev 2012;(9):CD000419"
+          },
+          {
+            "k": "Design",
+            "v": "review of randomized trials starting within three days of stroke"
+          },
+          {
+            "k": "People",
+            "v": "3 trials, 1,002 patients aged 40 to 85; one trial gave 93% of the data"
+          },
+          {
+            "k": "Measured",
+            "v": "death, function, dependence"
+          }
+        ],
+        "found": "A non-significant rise in death at one month with piracetam (about 31%), which disappeared in the large trial after correcting for stroke severity. No difference in function or dependence in limited data. Adverse effects were not reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22972044/",
+            "label": "Ricci et al., Cochrane review: Piracetam for acute ischaemic stroke, 2012",
+            "date": "published Sep 2012"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "A large unpublished trial"
+      },
+      {
+        "t": "study",
+        "meta": "2000–2004 · Randomized, double-blind, placebo-controlled",
+        "title": "Mild cognitive impairment, 12 months",
+        "facts": [
+          {
+            "k": "Registry",
+            "v": "NCT00567060"
+          },
+          {
+            "k": "Sponsor",
+            "v": "UCB Pharma"
+          },
+          {
+            "k": "People",
+            "v": "676 people with mild cognitive impairment"
+          },
+          {
+            "k": "What was given",
+            "v": "piracetam 4,800 or 9,600 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 months"
+          },
+          {
+            "k": "Measured",
+            "v": "a composite score from a battery of thinking tests over 52 weeks"
+          }
+        ],
+        "found": "The record shows the trial as completed in 2004, with no results posted.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00567060",
+            "label": "NCT00567060, ClinicalTrials.gov",
+            "date": "published Dec 2007"
+          }
+        ],
+        "badge": "No results posted"
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Piracetam is not FDA approved for any use. FDA has cited products containing piracetam, many sold as dietary supplements, as unapproved new drugs and/or misbranded drugs. FDA lists piracetam as nominated for compounding without adequate support. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no piracetam product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PIRACETAM",
+                "label": "openFDA Drugs@FDA search, active ingredient 'piracetam'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA action:",
+            "text": "in 2019 FDA sent 12 warning letters and 5 online advisory letters to companies \"illegally selling more than 58 products, many that are sold as dietary supplements, which are unapproved new drugs and/or misbranded drugs\" with Alzheimer's claims. FDA's list of the products cited includes piracetam.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/health-fraud-scams/unproven-alzheimers-disease-products",
+                "label": "FDA, Unproven Alzheimer's disease products",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Supplement rules:",
+            "text": "under US law, FDA cannot approve dietary supplements before they are sold, and the supplement definition generally excludes ingredients approved as new drugs.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "piracetam dihydrogen citrate is in FDA's 503A Category 3, and piracetam and piracetam dihydrogen citrate are in 503B Category 3 (bulk substances nominated without adequate support).",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA's controlled substances list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Piracetam is a licensed prescription medicine in the UK, Belgium and Luxembourg (Nootropil), with different approved uses. It is prescription-only in Australia but not authorized there. It is not approved in the US or Canada. WADA does not name it, but names a close relative, fonturacetam.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA has cited piracetam products as unapproved new drugs and/or misbranded drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PIRACETAM",
+              "label": "openFDA Drugs@FDA search, active ingredient 'piracetam'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/consumers/health-fraud-scams/unproven-alzheimers-disease-products",
+              "label": "FDA, Unproven Alzheimer's disease products",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=PIRACETAM",
+              "label": "Health Canada Drug Product Database, active ingredient search (piracetam)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Licensed medicine (Nootropil, PL 12762/0688, first authorised 1992) for cortical myoclonus in adults.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+              "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+              "date": "revised Jul 2025"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Belgium and Luxembourg",
+          "regulator": "FAMHP",
+          "status": "Prescription medicine (Nootropil) for memory or intellectual problems of brain origin without dementia, and for cortical myoclonus.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://app.fagg-afmps.be/pharma-status/api/files/62bc6c3b1e5c015ab3e8fe91",
+              "label": "Nootropil 800 mg and 1200 mg tablets, patient leaflet, Belgian medicines agency (FAMHP)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "056",
+            "442"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU (other member states)",
+          "regulator": "EMA and national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4) under the Poisons Standard, but not authorized, per a 2025 study that included TGA laboratories.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+              "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+              "date": "published Jun 2025"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EU: piracetam is not in EMA's list of medicines authorized for the whole EU. A 2025 study by official medicines control laboratories calls it a prescription drug in the EU. National approvals other than Belgium and Luxembourg were not checked.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
+              "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
+              "date": "published Jun 2025"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Piracetam is not named on the WADA Prohibited List for 2026 or 2027. A close relative, fonturacetam (4-phenylpiracetam, carphedon), is named as a non-specified stimulant (S6.A), banned in competition. The lists do not say whether piracetam itself is covered.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "From the UK label: nervousness, hyperkinesia (overactivity) and weight gain are common. It can affect blood clotting and is not for people with brain bleeding, Huntington's chorea or severe kidney failure. Stopping suddenly can trigger seizures in people with myoclonus."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common (1 in 100 to 1 in 10):",
+            "text": "nervousness, hyperkinesia, weight gain.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Uncommon (1 in 1,000 to 1 in 100):",
+            "text": "depression, sleepiness, weakness.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Frequency not known:",
+            "text": "bleeding disorders, allergic and anaphylactoid reactions, agitation, anxiety, confusion, hallucinations, unsteadiness, worse epilepsy, headache, insomnia, vertigo, stomach pain, diarrhoea, nausea, vomiting, swelling under the skin (angioedema), dermatitis, itching and hives.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Not to be used:",
+            "text": "allergy to piracetam or other pyrrolidone drugs, severe kidney failure (creatinine clearance under 20 mL/min), brain bleeding, Huntington's chorea.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Bleeding:",
+            "text": "because it reduces platelet clumping, the label advises caution with severe bleeding, bleeding risks such as stomach ulcers, clotting disorders, past brain bleeds, major or dental surgery, and with anticoagulants or antiplatelet drugs including low-dose aspirin.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Stopping:",
+            "text": "abrupt stopping should be avoided, as it may trigger myoclonic or generalised seizures in some patients with myoclonus.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy and breastfeeding:",
+            "text": "it crosses the placenta (newborn levels 70 to 90% of the mother's) and passes into breast milk. The label says not to use it in pregnancy unless clearly necessary, and not while breastfeeding.",
+            "src": [
+              {
+                "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
+                "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
+                "date": "revised Jul 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's 2004 response to a new dietary ingredient notification for piracetam, which press reports say found it is not a dietary ingredient, could not be opened (regulations.gov limited automated requests).",
+    "The full text of the 2019 JAMA Internal Medicine study on piracetam in supplements could not be opened, so its findings are not reported.",
+    "EMA's page on the Nootropil referral returned an error (too many requests) and was not used.",
+    "National approvals in EU countries other than Belgium and Luxembourg, and the TGA's product register, were not checked."
+  ],
+  "surprises": [
+    "Piracetam is sold in the US as a memory supplement, but in the UK its only licensed use is cortical myoclonus, and Cochrane found the evidence does not support its use in dementia or cognitive impairment.",
+    "A 676-person, 12-month maker-sponsored trial in mild cognitive impairment finished in 2004 but has no results posted on ClinicalTrials.gov."
+  ]
+}

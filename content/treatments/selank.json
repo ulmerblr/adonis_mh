@@ -1,0 +1,621 @@
+{
+  "slug": "selank",
+  "name": "Selank",
+  "row": "Selank",
+  "aka": [
+    "Selank acetate",
+    "TP-7"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Small Russian studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat studies and lab tests, mostly in Russia",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small Russian anxiety studies, 2008 to 2015",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; was in FDA Category 2 (withdrawn)",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Selank is a chain of seven amino acids: Thr-Lys-Pro-Arg-Pro-Gly-Pro. It was made at the Institute of Molecular Genetics of the Russian Academy of Sciences, with the Zakusov Institute of Pharmacology. FDA's records call it selank acetate (TP-7).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26924987/",
+            "label": "Volkova et al., Front Pharmacol, 2016",
+            "date": "published Feb 2016"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30255741/",
+            "label": "Vyunova et al., Protein Pept Lett, 2018",
+            "date": "published 2018"
+          },
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+            "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is a synthetic copy of tuftsin, a natural four-amino-acid piece (Thr-Lys-Pro-Arg) of an antibody protein, with three amino acids (Pro-Gly-Pro) added to one end to slow its breakdown.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26924987/",
+            "label": "Volkova et al., Front Pharmacol, 2016",
+            "date": "published Feb 2016"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2022 review of peptide drugs developed in Russia lists Selank as one of 14 peptide products registered there, as an anti-anxiety drug.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+            "label": "Deigin et al., Pharmaceutics, 2022 (review of peptide drugs developed in Russia)",
+            "date": "published Mar 2022"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to lab and animal studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In rat brain membranes, it changed how GABA (the brain's main calming signal) binds to its receptors, in a way the authors liken to benzodiazepines.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30255741/",
+                "label": "Vyunova et al., Protein Pept Lett, 2018",
+                "date": "published 2018"
+              }
+            ]
+          },
+          {
+            "text": "In rats given it in the nose, it changed the activity of genes linked to GABA signalling in the frontal cortex within hours.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26924987/",
+                "label": "Volkova et al., Front Pharmacol, 2016",
+                "date": "published Feb 2016"
+              }
+            ]
+          },
+          {
+            "text": "In lab tests on blood plasma, it slowed enzymes that break down enkephalins, the body's own opioid-like peptides.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11550013/",
+                "label": "Zozulya et al., Bull Exp Biol Med, 2001",
+                "date": "published Apr 2001"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "These mechanisms come from lab and animal work. They have not been confirmed in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: a handful of small Russian studies in anxiety, published in Russian, plus one brain-scan study in healthy people. No trial is registered on ClinicalTrials.gov. FDA says it lacks important safety information on selank in people."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2008 · Randomized comparison",
+        "title": "Generalized anxiety and neurasthenia, 2008",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Zozulia AA, et al. Zh Nevrol Psikhiatr Im S S Korsakova 2008;108(4):38-48 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "Selank compared with medazepam, a benzodiazepine; no placebo group"
+          },
+          {
+            "k": "People",
+            "v": "62 patients with generalized anxiety disorder or neurasthenia: 30 on Selank, 32 on medazepam"
+          },
+          {
+            "k": "Measured",
+            "v": "Hamilton and Zung anxiety scales, clinical global impression, and enkephalin breakdown in blood"
+          }
+        ],
+        "found": "The authors report similar anti-anxiety effects with both drugs, and say Selank also reduced tiredness and had a stimulating effect.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18454096/",
+            "label": "Zozulia et al., Zh Nevrol Psikhiatr, 2008",
+            "date": "published 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2014 · Comparative study",
+        "title": "Anxiety and somatoform disorders, 2014",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Medvedev VE, et al. Zh Nevrol Psikhiatr Im S S Korsakova 2014;114(7):17-22 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "Selank compared with phenazepam, a benzodiazepine. The abstract does not describe randomization or blinding."
+          },
+          {
+            "k": "People",
+            "v": "60 patients with phobic-anxiety and somatoform disorders"
+          },
+          {
+            "k": "Measured",
+            "v": "anxiety, memory and quality of life"
+          }
+        ],
+        "found": "The authors report an anti-anxiety effect that lasted a week after the last dose, and a mild effect on thinking.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25176261/",
+            "label": "Medvedev et al., Zh Nevrol Psikhiatr, 2014",
+            "date": "published 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2015 · Randomized comparison",
+        "title": "Selank added to phenazepam, 2015",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Medvedev VE, et al. Zh Nevrol Psikhiatr Im S S Korsakova 2015;115(6):33-40 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "phenazepam alone compared with phenazepam plus Selank"
+          },
+          {
+            "k": "People",
+            "v": "70 patients with anxiety-phobic, hypochondriac and somatoform disorders: 30 on phenazepam alone, 40 on both"
+          },
+          {
+            "k": "Measured",
+            "v": "HDRS, CGI and Spielberger scales; side effects on the UKU scale; Stroop and verbal fluency tests; SF-36 quality of life"
+          }
+        ],
+        "found": "With Selank added, the authors report a faster effect on the HDRS and fewer phenazepam side effects, such as poor attention and memory, sedation and sexual problems.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26356395/",
+            "label": "Medvedev et al., Zh Nevrol Psikhiatr, 2015",
+            "date": "published 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2020 · Placebo-controlled imaging study",
+        "title": "Brain scans in healthy volunteers, 2020",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Panikratova YR, et al. Dokl Biol Sci 2020;490(1):9-11"
+          },
+          {
+            "k": "Design",
+            "v": "one dose of Selank, Semax or placebo, with resting-state functional MRI before and 5 and 20 minutes after"
+          },
+          {
+            "k": "People",
+            "v": "52 healthy participants across the three groups"
+          },
+          {
+            "k": "Measured",
+            "v": "connections between the amygdala, the prefrontal cortex and the rest of the brain"
+          }
+        ],
+        "found": "Connections between the right amygdala and part of the right temporal lobe differed between groups. No clinical outcome was measured.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32342318/",
+            "label": "Panikratova et al., Dokl Biol Sci, 2020",
+            "date": "published Jan 2020"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2008 Russian study reported changes in blood cytokines (immune signals) in patients with anxiety and neurasthenia who received Selank for 14 days. Its abstract does not give the number of patients.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18577961/",
+            "label": "Uchakina et al., Zh Nevrol Psikhiatr, 2008",
+            "date": "published 2008"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials"
+      },
+      {
+        "t": "p",
+        "text": "No Selank trial was found on ClinicalTrials.gov. The search returned 10 records, none of which tested Selank.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=selank",
+            "label": "ClinicalTrials.gov search for 'selank'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What reviewers concluded"
+      },
+      {
+        "t": "p",
+        "text": "A 2021 US pharmacology review called phenibut and Selank \"poorly studied Russian drugs with GABAergic mechanisms\" that are sold to US consumers as dietary supplements, and said drugs with GABA effects should be checked for abuse potential before public access.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34396551/",
+            "label": "Doyno and White, J Clin Pharmacol, 2021",
+            "date": "published Aug 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use. Selank acetate was in FDA's Category 2 (substances that may pose significant safety risks) before its compounding nominations were withdrawn. It is not in the HHS peptide policy of October 2026. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no Selank product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:SELANK",
+                "label": "openFDA Drugs@FDA search, active ingredient 'selank'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists \"Selank acetate (TP-7)\" among substances that were in Category 2 whose nominations were withdrawn. FDA says compounded selank acetate \"may pose risk for immunogenicity for certain routes of administration due to the potential for aggregation and peptide-related impurities\" and that \"FDA lacks important information regarding any safety issues raised by selank acetate administered to humans.\"",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bulks lists:",
+            "text": "Selank is not named in FDA's current 503A or 503B category lists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "the HHS enforcement discretion policy of October 2026 covers six peptides: BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500. Selank is not one of them.",
+            "src": [
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA's controlled substances list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Selank is a registered medicine in Russia, according to a 2022 review of Russian peptide drugs. No approval was found in the US, Canada or the EU. WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Was in FDA Category 2 before nominations were withdrawn. Not in the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:SELANK",
+              "label": "openFDA Drugs@FDA search, active ingredient 'selank'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+              "date": "published Oct 28, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Ministry of Health (state drug register)",
+          "status": "Registered medicine (anti-anxiety), per a 2022 review of peptide drugs registered in Russia. The register entry itself could not be opened.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
+              "label": "Deigin et al., Pharmaceutics, 2022 (review of peptide drugs developed in Russia)",
+              "date": "published Mar 2022"
+            }
+          ],
+          "iso": [
+            "643"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=SELANK",
+              "label": "Health Canada Drug Product Database, active ingredient search (selank)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (not in EMA's medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Selank is not named on the WADA Prohibited List for 2026 or 2027. WADA class S0 bans at all times any pharmacological substance not covered by another class and with no current approval by any government health authority for human therapeutic use. For 2027, WADA adds \"peptides\" to the examples in S0. The lists do not say whether Selank falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: Selank is not named in the Poisons Standard (October 2026). The TGA's product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side-effect data are sparse. The study abstracts say little about harms. FDA flags a possible immune-reaction risk and says it lacks safety information in people."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "the Russian abstracts do not list side effects of Selank itself. One study measured side effects with the UKU scale and reported fewer phenazepam side effects when Selank was added.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26356395/",
+                "label": "Medvedev et al., Zh Nevrol Psikhiatr, 2015",
+                "date": "published 2015"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25176261/",
+                "label": "Medvedev et al., Zh Nevrol Psikhiatr, 2014",
+                "date": "published 2014"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA says compounded selank acetate may cause immune reactions for some routes, because the peptide can clump and contain peptide impurities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse potential:",
+            "text": "Selank acts on the GABA system in lab studies, like benzodiazepines. A 2021 review said drugs with GABA effects can bring abuse and withdrawal risks and should be tested for abuse potential before public access.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30255741/",
+                "label": "Vyunova et al., Protein Pept Lett, 2018",
+                "date": "published 2018"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34396551/",
+                "label": "Doyno and White, J Clin Pharmacol, 2021",
+                "date": "published Aug 2021"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Russia's state drug register (grls.rosminzdrav.ru) asks for a picture code before showing results, so Selank's register entry could not be opened. Its Russian status comes from a 2022 review.",
+    "The Russian-language studies were read only as PubMed abstracts; doses, length and side effects were not available.",
+    "UK (MHRA) and Australia's TGA register were not checked."
+  ],
+  "surprises": [
+    "Selank is sold in the US as a supplement, but FDA lists it as a substance that may pose significant safety risks in compounding and says it lacks important safety information in people.",
+    "Almost all human data come from small Russian studies, several of which compared Selank with a benzodiazepine rather than a placebo."
+  ]
+}

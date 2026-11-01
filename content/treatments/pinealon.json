@@ -1,0 +1,559 @@
+{
+  "slug": "pinealon",
+  "name": "Pinealon",
+  "row": "Pinealon",
+  "aka": [
+    "EDR peptide",
+    "Glu-Asp-Arg"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Few small Russian studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Cell and rat studies, Saint Petersburg group",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small Russian studies in workers and patients",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No published Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; no FDA record found",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Pinealon is a chain of just three amino acids: glutamic acid, aspartic acid and arginine (Glu-Asp-Arg, or EDR). It comes from the Saint Petersburg Institute of Bioregulation and Gerontology, whose researchers describe short peptides like it as \"bioregulators\".",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21978084/",
+            "label": "Khavinson et al., Rejuvenation Res, 2011",
+            "date": "published Oct 2011"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33396470/",
+            "label": "Khavinson et al., Molecules, 2020 (review)",
+            "date": "published Dec 2020"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23734521/",
+            "label": "Bashkireva and Artamonova, Adv Gerontol, 2012",
+            "date": "published 2012"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to cell and animal studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In rat brain cells, immune cells and a nerve-like cell line, it limited the build-up of reactive oxygen species (harmful oxygen molecules) under stress and reduced cell death.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21978084/",
+                "label": "Khavinson et al., Rejuvenation Res, 2011",
+                "date": "published Oct 2011"
+              }
+            ]
+          },
+          {
+            "text": "The developers propose that it enters cells and binds DNA-packing proteins or RNA, changing gene activity. This is a hypothesis from their own lab and review.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21978084/",
+                "label": "Khavinson et al., Rejuvenation Res, 2011",
+                "date": "published Oct 2011"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33396470/",
+                "label": "Khavinson et al., Molecules, 2020 (review)",
+                "date": "published Dec 2020"
+              }
+            ]
+          },
+          {
+            "text": "In rats whose mothers were fed extra methionine in pregnancy, pinealon given to the mothers was followed by better learning in the offspring.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22567179/",
+                "label": "Arutjunyan et al., Int J Clin Exp Med, 2012",
+                "date": "published Apr 2012"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "These mechanisms come from cell and animal work, mostly by the peptide's developers. They have not been confirmed in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: a few small Russian studies, published in Russian in the journal Advances in Gerontology, mostly by the developers' network. None is registered on ClinicalTrials.gov, and the abstracts give few details on design."
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search returned 22 records. ClinicalTrials.gov lists no trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=pinealon",
+            "label": "PubMed search for 'pinealon'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=pinealon",
+            "label": "ClinicalTrials.gov search for 'pinealon'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2012 · Uncontrolled study",
+        "title": "Locomotive crews, 2012",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Nazimko VA, et al. Adv Gerontol 2012;25(1):57-62 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "workers took pinealon capsules; the abstract does not describe a control group or blinding"
+          },
+          {
+            "k": "People",
+            "v": "workers of locomotive (train) crews; the abstract does not give a number"
+          },
+          {
+            "k": "What was given",
+            "v": "one 100 microgram capsule twice a day for two weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "markers of \"biological age\" and adaptation"
+          }
+        ],
+        "found": "The authors report improved biological-age and adaptation measures.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22708445/",
+            "label": "Nazimko et al., Adv Gerontol, 2012",
+            "date": "published 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2012 · Comparative study",
+        "title": "Truck drivers with stress symptoms, 2012",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Bashkireva AS, Artamonova VG. Adv Gerontol 2012;25(4):718-28 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "survey of truck drivers compared with metal workers, with peptide treatment in some; the abstract does not describe how treatment was assigned"
+          },
+          {
+            "k": "People",
+            "v": "150 male truck drivers and 150 male metal workers, mean age about 43"
+          },
+          {
+            "k": "Measured",
+            "v": "questionnaires on neurotic and stress symptoms"
+          }
+        ],
+        "found": "The authors report that the peptides improved psychological and stress measures, with the best results when pinealon was combined with another peptide, vesugen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23734521/",
+            "label": "Bashkireva and Artamonova, Adv Gerontol, 2012",
+            "date": "published 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2015 · Uncontrolled study",
+        "title": "Older patients with organic brain syndrome, 2015",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Meshchaninov VN, et al. Adv Gerontol 2015;28(1):62-7 (in Russian)"
+          },
+          {
+            "k": "Design",
+            "v": "pinealon and vesugen given to patients; the abstract does not describe a control group"
+          },
+          {
+            "k": "People",
+            "v": "32 people (18 men, 12 women as reported) aged 41 to 83 with several chronic diseases and organic brain syndrome in remission"
+          },
+          {
+            "k": "Measured",
+            "v": "\"biological age\" markers, oxidation tests, blood stem-cell markers"
+          }
+        ],
+        "found": "The authors report slower ageing by their biological-age measures, but also found pro-oxidant activity and a fall in blood stem-cell markers (CD34+), which they read as suppressed blood-cell production.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26390612/",
+            "label": "Meshchaninov et al., Adv Gerontol, 2015",
+            "date": "published 2015"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2020 review by the developers cites a study of 72 patients with the after-effects of brain injury who took pinealon by mouth alongside standard treatment, and reports better memory and fewer headaches. That study's own paper was not opened.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7795577/",
+            "label": "Khavinson et al., Molecules, 2020 (review), full text",
+            "date": "published Dec 2020"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "Cell studies report less oxidative damage and cell death. A rat study reports better learning in offspring of mothers with high homocysteine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21978084/",
+            "label": "Khavinson et al., Rejuvenation Res, 2011",
+            "date": "published Oct 2011"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22567179/",
+            "label": "Arutjunyan et al., Int J Clin Exp Med, 2012",
+            "date": "published Apr 2012"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33396470/",
+            "label": "Khavinson et al., Molecules, 2020 (review)",
+            "date": "published Dec 2020"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Pinealon is not FDA approved for any use. No FDA record specific to pinealon was found: it is not in Drugs@FDA, not on FDA's compounding category lists, and not on FDA's Category 2 page. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no pinealon product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PINEALON",
+                "label": "openFDA Drugs@FDA search, active ingredient 'pinealon'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "pinealon is not named in FDA's 503A or 503B category lists or on FDA's Category 2 page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "the HHS enforcement discretion policy of October 2026 covers six peptides: BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500. Pinealon is not one of them.",
+            "src": [
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. It is not on the DEA's controlled substances list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No approval of pinealon as a medicine was found in any country checked. Its legal status in Russia could not be confirmed. WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Not on FDA's compounding lists. Not in the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PINEALON",
+              "label": "openFDA Drugs@FDA search, active ingredient 'pinealon'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+              "date": "published Oct 28, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=PINEALON",
+              "label": "Health Canada Drug Product Database, active ingredient search (pinealon)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (not in EMA's medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx",
+              "label": "EMA, list of EU medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Ministry of Health / Rospotrebnadzor",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "643"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Pinealon is not named on the WADA Prohibited List for 2026 or 2027. WADA class S0 bans at all times any pharmacological substance not covered by another class and with no current approval by any government health authority for human therapeutic use. For 2027, WADA adds \"peptides\" to the examples in S0. The lists do not say whether pinealon falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: pinealon is not named in the Poisons Standard (October 2026). The TGA's product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "No systematic safety data exist. The small Russian studies say little about side effects. One reported pro-oxidant activity and a fall in blood stem-cell markers."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Blood and oxidation markers:",
+            "text": "in 32 older patients given pinealon and vesugen, the authors found pro-oxidant activity on chemiluminescence tests and a fall in CD34+ blood stem cells, which they read as suppressed blood-cell production.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26390612/",
+                "label": "Meshchaninov et al., Adv Gerontol, 2015",
+                "date": "published 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Other studies:",
+            "text": "the other study abstracts do not report side effects.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22708445/",
+                "label": "Nazimko et al., Adv Gerontol, 2012",
+                "date": "published 2012"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23734521/",
+                "label": "Bashkireva and Artamonova, Adv Gerontol, 2012",
+                "date": "published 2012"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Whether pinealon is registered in Russia as a medicine or sold as a dietary supplement could not be confirmed; Russia's drug register asks for a picture code before showing results.",
+    "The 72-patient brain-injury study is known only from the developers' 2020 review.",
+    "The Russian-language studies were read only as PubMed abstracts.",
+    "UK (MHRA) and Australia's TGA register were not checked."
+  ],
+  "surprises": [
+    "Pinealon is described as a brain-protecting peptide, but one of its few human studies reported pro-oxidant activity and a fall in blood stem-cell markers."
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "slug": "ashwagandha",
+  "name": "Ashwagandha",
+  "row": "Ashwagandha",
+  "aka": [
+    "Withania somnifera",
+    "Indian ginseng",
+    "Winter cherry"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "energy"
+  ],
+  "index": {
+    "evidence": "Small RCTs; liver cases",
+    "fda": "Supplement; not a drug",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Hormone, thyroid and reproduction effects in animals",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small 8-week trials, 57 to 64 adults",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Not run as a drug",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Not run as a drug",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved as a drug",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "US: sold as a supplement; not FDA reviewed",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Ashwagandha is a shrub, Withania somnifera, in the nightshade family, used in India's Ayurvedic medicine. Its root contains steroid-like compounds called withanolides, and alkaloids.",
+        "src": [
+          {
+            "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf",
+            "label": "DTU National Food Institute, risk assessment of Withania somnifera root (for the Danish food agency)",
+            "date": "published May 2020"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/",
+            "label": "Björnsson et al., Liver International, PubMed",
+            "date": "published Apr 2020"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is sold in dietary supplements; the NIH label database lists thousands of supplement labels matching 'ashwagandha'. No FDA-approved drug contains it.",
+        "src": [
+          {
+            "url": "https://api.ods.od.nih.gov/dsld/v9/search-filter?q=ashwagandha",
+            "label": "NIH Office of Dietary Supplements, Dietary Supplement Label Database search: ashwagandha",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ASHWAGANDHA%22",
+            "label": "openFDA (FDA's Drugs@FDA data): search for ashwagandha, no match",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human trials of ashwagandha are mostly small and short. They measured stress scores, cortisol and hormone levels. Several case series describe liver injury. Each study is listed as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "India · 2012 · Randomized, double-blind trial",
+        "title": "Adults with chronic stress (Indian J Psychol Med 2012)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Chandrasekhar K, Kapoor J, Anishetty S. Indian J Psychol Med 2012;34(3):255-62"
+          },
+          {
+            "k": "Design",
+            "v": "single-center, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "64 adults with a history of chronic stress"
+          },
+          {
+            "k": "What was given",
+            "v": "300 mg root extract capsule or placebo, twice a day"
+          },
+          {
+            "k": "Length",
+            "v": "60 days"
+          },
+          {
+            "k": "Measured",
+            "v": "stress questionnaires; serum cortisol"
+          }
+        ],
+        "found": "Stress scores on all scales fell more on ashwagandha than on placebo (P<0.0001), and serum cortisol fell more (P=0.0006). Side effects were mild and similar in both groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23439798/",
+            "label": "Chandrasekhar et al., Indian J Psychol Med, PubMed",
+            "date": "published Jul 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "India · 2019 · Randomized, double-blind trial",
+        "title": "Stressed healthy adults (Medicine 2019)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Lopresti AL, Smith SJ, Malvi H, Kodgule R. Medicine (Baltimore) 2019;98(37):e17186"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled (CTRI/2017/08/009449)"
+          },
+          {
+            "k": "People",
+            "v": "60 adults with self-reported high stress"
+          },
+          {
+            "k": "What was given",
+            "v": "240 mg of a standardized extract or placebo, once a day"
+          },
+          {
+            "k": "Length",
+            "v": "60 days"
+          },
+          {
+            "k": "Measured",
+            "v": "Hamilton Anxiety Rating Scale, DASS-21; cortisol, DHEA-S and testosterone"
+          }
+        ],
+        "found": "Anxiety scores (HAM-A) fell more on ashwagandha (P=.040); the DASS-21 difference was not significant (P=.096). Morning cortisol and DHEA-S fell more. Testosterone rose in men over time but not significantly more than on placebo (P=.158). No side effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31517876/",
+            "label": "Lopresti et al., Medicine, PubMed",
+            "date": "published Sep 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2019 · Randomized crossover trial",
+        "title": "Aging, overweight men: hormones and vitality (Am J Mens Health 2019)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Lopresti AL, Drummond PD, Smith SJ. Am J Mens Health 2019;13(2):1557988319835985"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "57 overweight men aged 40 to 70 with mild fatigue; 43 completed both periods"
+          },
+          {
+            "k": "What was given",
+            "v": "an extract giving 21 mg of withanolide glycosides a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks per period, 16 weeks in all"
+          },
+          {
+            "k": "Measured",
+            "v": "fatigue and vigor (POMS-SF), Aging Males' Symptoms scale, saliva DHEA-S, testosterone, cortisol and estradiol"
+          }
+        ],
+        "found": "Saliva testosterone rose 14.7% more and DHEA-S 18% more on ashwagandha than on placebo. Fatigue, vigor, sexual well-being, cortisol and estradiol did not differ between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30854916/",
+            "label": "Lopresti et al., Am J Mens Health, PubMed",
+            "date": "published Mar 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Iceland and USA · 2020 · Case series",
+        "title": "Liver injury, 5 cases (Liver Int 2020)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Björnsson HK, Björnsson ES, Avula B, et al. Liver Int 2020;40(4):825-829"
+          },
+          {
+            "k": "Design",
+            "v": "case series; causality judged by the US Drug-Induced Liver Injury Network method"
+          },
+          {
+            "k": "People",
+            "v": "5 people (3 men), aged 21 to 62, 3 from Iceland and 2 from the US network"
+          },
+          {
+            "k": "Measured",
+            "v": "liver tests, symptoms, biopsy, chemical analysis of the supplements"
+          }
+        ],
+        "found": "All 5 developed jaundice 2 to 12 weeks after starting, with cholestatic or mixed liver injury and itching that lasted 5 to 20 weeks. None had liver failure. Liver tests returned to normal in 1 to 5 months in 4; 1 was lost to follow-up. Testing found ashwagandha and no other toxic compounds in the supplements.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/",
+            "label": "Björnsson et al., Liver International, PubMed",
+            "date": "published Apr 2020"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "India · 2023 · Case series",
+        "title": "Liver injury, 8 single-ingredient cases (Hepatol Commun 2023)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Philips CA, Valsan A, Theruvath AH, et al. Hepatol Commun 2023;7(10):e0270"
+          },
+          {
+            "k": "Design",
+            "v": "retrospective review of medical records at several Indian centers, 2019 to 2022"
+          },
+          {
+            "k": "People",
+            "v": "23 patients with liver injury linked to ashwagandha; 8 took a single-ingredient product and were reported in detail"
+          },
+          {
+            "k": "Measured",
+            "v": "liver tests, biopsy, outcomes, chemical analysis"
+          }
+        ],
+        "found": "Most were men, and cholestatic hepatitis was the most common pattern. 5 of the 8 had existing chronic liver disease; 3 developed acute-on-chronic liver failure and all 3 died. In the others, injury was prolonged but resolved. Tests found no adulteration.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37756041/",
+            "label": "Philips et al., Hepatology Communications, PubMed",
+            "date": "published Oct 2023"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "A 2020 risk assessment by Denmark's DTU National Food Institute reviewed the evidence. It found that animal studies showed effects on sex hormones and reproduction in male rats, effects on thyroid hormones, and effects on the immune system. Reduced sperm quality and fertility were seen with plant parts other than the root. Some human trials and case reports suggested effects on the thyroid and sex hormones. It concluded no intake level of the root could be set as free of risk.",
+        "src": [
+          {
+            "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf",
+            "label": "DTU National Food Institute, risk assessment of Withania somnifera root (for the Danish food agency)",
+            "date": "published May 2020"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Ashwagandha is not an FDA-approved drug. In the US it is sold as a dietary supplement, which FDA does not review for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "No approved drug:",
+            "text": "FDA's Drugs@FDA data list no approved drug containing ashwagandha.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ASHWAGANDHA%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for ashwagandha, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Supplement rules:",
+            "text": "under US law, an herb or other botanical, or its extract, can be a dietary ingredient in a dietary supplement.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No FDA review before sale:",
+            "text": "FDA says it does not have the authority to approve dietary supplements before they are marketed, and that firms generally do not have to show FDA evidence of safety before selling them.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not approved for any use:",
+            "text": "ashwagandha is not an approved treatment for stress, low testosterone, fatigue or any other condition in the US.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ASHWAGANDHA%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for ashwagandha, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Ashwagandha is sold as a supplement in the US and the UK. Denmark says it is illegal to sell as a food there. The UK's food safety advisers are reviewing it. It is not on WADA's list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not an approved drug. Sold as a dietary supplement, which FDA does not review before sale.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ASHWAGANDHA%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for ashwagandha, no match",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "FSA / Committee on Toxicity",
+          "status": "Sold as a food supplement. The FSA ran a call for evidence on ashwagandha food supplements in 2024; the Committee on Toxicity discussed a third draft statement in September 2026. No final advice yet.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/consultations/summary-of-responses-to-call-for-evidence-on-ashwagandha",
+              "label": "Food Standards Agency, summary of responses to call for evidence on ashwagandha",
+              "date": "published Jun 2026"
+            },
+            {
+              "url": "https://www.gov.uk/government/publications/8th-september-2026-committee-on-toxicity-meeting",
+              "label": "Committee on Toxicity, 8 September 2026 meeting",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EFSA / national agencies",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Denmark",
+          "regulator": "Danish Veterinary and Food Administration",
+          "status": "Illegal to sell as a food, including in supplements and drinks, because of a DTU risk assessment of harm to sex hormones, reproduction, thyroid, immune and nervous systems.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.foedevarestyrelsen.dk/kost-og-foedevarer/alt-om-mad/kemi-i-maden/mad-med-uoensket-kemi/ashwagandha",
+              "label": "Danish Veterinary and Food Administration, Ashwagandha in supplements and drinks",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf",
+              "label": "DTU National Food Institute, risk assessment of Withania somnifera root (for the Danish food agency)",
+              "date": "published May 2020"
+            }
+          ],
+          "iso": [
+            "208"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Denmark: the food agency says ashwagandha's negative effects on sex hormones and reproduction in men and women, and possible effects on metabolism, the immune system and the nervous system, are why products containing it may not be sold there. It lists the DTU assessment of May 15, 2020 among the plant risk assessments it uses in supplement control.",
+          "src": [
+            {
+              "url": "https://www.foedevarestyrelsen.dk/kost-og-foedevarer/alt-om-mad/kemi-i-maden/mad-med-uoensket-kemi/ashwagandha",
+              "label": "Danish Veterinary and Food Administration, Ashwagandha in supplements and drinks",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.foedevarestyrelsen.dk/kost-og-foedevarer/saerlige-foedevarekategorier/kosttilskud/planter-og-andre-stoffer-i-kosttilskud/liste-over-planter-og-stoffer-med-risikovurderinger",
+              "label": "Danish Veterinary and Food Administration, list of plants with risk assessments",
+              "date": "accessed Nov 1, 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "UK: the FSA said 19 responses were received to its call for evidence (8 food businesses, 7 industry representatives, 3 members of the public, 1 university team) and that a risk assessment will be published.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/government/consultations/summary-of-responses-to-call-for-evidence-on-ashwagandha",
+              "label": "Food Standards Agency, summary of responses to call for evidence on ashwagandha",
+              "date": "published Jun 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Ashwagandha (Withania somnifera) is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "FDA does not review dietary supplements for safety before sale. The most serious reported harm is liver injury, sometimes severe and, in people with existing liver disease, fatal. A Danish risk assessment also raises concerns about sex hormones, reproduction and the thyroid."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Liver injury:",
+            "text": "case series from Iceland, the US and India describe jaundice and cholestatic hepatitis starting 2 to 12 weeks after use. Most cases resolved over months. In the Indian series, 3 people with existing chronic liver disease developed liver failure and died.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/",
+                "label": "Björnsson et al., Liver International, PubMed",
+                "date": "published Apr 2020"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37756041/",
+                "label": "Philips et al., Hepatology Communications, PubMed",
+                "date": "published Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "In trials:",
+            "text": "the short trials above reported mild side effects, similar to placebo, or none.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23439798/",
+                "label": "Chandrasekhar et al., Indian J Psychol Med, PubMed",
+                "date": "published Jul 2012"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31517876/",
+                "label": "Lopresti et al., Medicine, PubMed",
+                "date": "published Sep 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Hormones and fertility:",
+            "text": "in a crossover trial of men aged 40 to 70, saliva testosterone and DHEA-S rose more on ashwagandha than on placebo. DTU noted effects on sex hormones and on reproduction in male rats, and reduced sperm quality and fertility in animals given other parts of the plant. DTU added that most human hormone studies were in men who already had poor sperm quality and altered hormone levels.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30854916/",
+                "label": "Lopresti et al., Am J Mens Health, PubMed",
+                "date": "published Mar 2019"
+              },
+              {
+                "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf",
+                "label": "DTU National Food Institute, risk assessment of Withania somnifera root (for the Danish food agency)",
+                "date": "published May 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Thyroid:",
+            "text": "DTU said a few studies suggest it may raise thyroid hormone levels in people, with a risk of an overactive thyroid.",
+            "src": [
+              {
+                "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf",
+                "label": "DTU National Food Institute, risk assessment of Withania somnifera root (for the Danish food agency)",
+                "date": "published May 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "DTU noted reports of its use to induce abortion and said WHO advises against use of the root in pregnancy and breastfeeding.",
+            "src": [
+              {
+                "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf",
+                "label": "DTU National Food Institute, risk assessment of Withania somnifera root (for the Danish food agency)",
+                "date": "published May 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Supplement quality:",
+            "text": "FDA does not approve supplements before they are sold, and firms generally do not have to show FDA safety evidence first.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "NIH's ashwagandha fact sheet (ods.od.nih.gov) and LiverTox (NCBI) were blocked by bot checks and are not cited.",
+    "Canada: Health Canada's natural health products databases could not be searched by name, so Canadian licensing status is not confirmed.",
+    "Australia: TGA's site did not respond, so ashwagandha's status in listed medicines is not confirmed.",
+    "EU: no EU-wide rule on ashwagandha was checked; only Denmark's position was confirmed.",
+    "The date Denmark's sales rule took effect was not shown on the page read."
+  ],
+  "surprises": [
+    "Ashwagandha is sold widely as a supplement elsewhere, but Denmark's food agency says it is illegal to sell as a food there, citing harm to sex hormones and reproduction.",
+    "Small trials report ashwagandha raising testosterone, while the risk assessment Denmark relies on treats effects on sex hormones and reproduction as a possible harm."
+  ]
+}
