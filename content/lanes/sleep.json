@@ -28,19 +28,72 @@
       }
     }
   ],
-  "paragraphs": [
-    "[[/sermorelin|Sermorelin]] is a 29-amino-acid version of growth hormone-releasing hormone, which signals the pituitary gland to release growth hormone. It was once FDA approved, as Geref: in December 1990 as a test of whether the pituitary can release growth hormone, and in September 1997 to treat children with idiopathic growth hormone deficiency.",
-    "Those approvals no longer stand. The maker, EMD Serono, told FDA in 2008 that it was discontinuing both products and asked FDA to withdraw them; FDA did, effective June 18, 2009. In March 2013, answering a citizen petition, FDA determined they were not withdrawn for reasons of safety or effectiveness, which leaves room for generic versions. No sermorelin product is FDA approved today. A product described as FDA approved is pointing to an approval that ended in 2009.",
-    "What Adonis carries through Beluga is compounded: a sermorelin troche, a tablet with glycine, oral strips and an injection. None is FDA approved, and using sermorelin for sleep or longevity is off-label; it was never approved for either. FDA lists sermorelin acetate among substances under evaluation for outsourcing facilities. In March 2022, Olympia Pharmacy recalled two lots of compounded sermorelin vials for being out of specification.",
-    "The research behind the sleep claim is indirect. We found no trial of sermorelin with sleep or longevity as its result, and no published human study of sermorelin by mouth, troche or strip. What exists are small 1990s studies in 10 to 19 older adults that measured growth hormone and IGF-1, and a few studies of natural GHRH and sleep. In one German study, GHRH by nasal spray increased deep and REM sleep in the second half of the night, in 23 men; the abstract does not say whether the GHRH was sermorelin.",
-    "The other treatment in this lane is an amino acid. [[/glycine|Glycine]] can be sold as a dietary supplement and is approved as a drug only as an irrigation fluid for urologic surgery, not for sleep. A 2026 scoping review found three trials of glycine supplements on sleep-related outcomes. The one we could open analyzed 7 men, all employees of the Japanese company Ajinomoto, after three nights of shortened sleep. Glycine’s role in the sermorelin tablet has not been studied.",
-    "Sport treats the two very differently. WADA’s 2026 list names sermorelin under class S2.2.4, growth hormone releasing factors, prohibited at all times, and it is still named on the 2027 list. Glycine is not listed."
+  "summary": [
+    "[[/sermorelin|Sermorelin]] is a short version of growth hormone-releasing hormone, the signal that tells the pituitary to release growth hormone. It was once FDA approved, as Geref: in 1990 as a test of pituitary function and in 1997 for children with growth hormone deficiency. The maker stopped selling both products and asked FDA to withdraw them; FDA did, effective June 18, 2009. In 2013 FDA found they were not withdrawn for safety or effectiveness reasons. No sermorelin product is FDA approved today, so a product described as FDA approved is pointing to an approval that ended in 2009.",
+    "Compounded sermorelin, including troches, tablets, oral strips and injections, is not FDA approved, and using it for sleep or longevity is off-label. In 2022 a pharmacy recalled compounded sermorelin among other injectables for being out of specification. WADA names sermorelin under class S2.2.4 and bans it at all times.",
+    "The sleep research is indirect. We found no trial of sermorelin with sleep as its result, and no human study of sermorelin by mouth, troche or strip. In a 1999 German study of 23 men, natural GHRH given by nasal spray increased deep and REM sleep in the second half of the night; the abstract does not say whether it was sermorelin.",
+    "[[/glycine|Glycine]] is an amino acid sold as a dietary supplement and approved as a drug only as an irrigation fluid for urologic surgery. A 2026 scoping review found three small trials of glycine on sleep-related outcomes and called for larger ones. Whether glycine helps sleep, and whether sermorelin does at all, is not known."
   ],
   "pull": {
     "quote": "growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin)",
     "cite": "WADA 2026 Prohibited List, class S2.2.4",
     "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "The holders of the applications notified the agency in writing that the drug products were no longer marketed and requested that the approval of the applications be withdrawn. DATES: Effective: June 18, 2009.",
+      "source": "FDA, Withdrawal of approval of 92 NDAs and 49 ANDAs, Federal Register",
+      "date": "published May 2009",
+      "href": "https://www.govinfo.gov/content/pkg/FR-2009-05-19/pdf/E9-11628.pdf",
+      "note": "Geref Diagnostic (NDA 19-863) is on the notice’s list."
+    },
+    {
+      "kind": "regulator",
+      "quote": "The Food and Drug Administration (FDA) has determined that GEREF (Sermorelin Acetate) … were not withdrawn from sale for reasons of safety or effectiveness.",
+      "source": "FDA determination on GEREF, Federal Register",
+      "date": "published Mar 2013",
+      "href": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/pdf/2013-04827.pdf",
+      "note": "The notice says this allows FDA to approve generic versions."
+    },
+    {
+      "kind": "regulator",
+      "quote": "Olympia Pharmacy is voluntarily recalling 11 specific lots of Trimix Formulas F-9, T-105, SB-4, Sermorelin, Sincalide, Hydroxocobalamin, and NAD, compounded injectables to the consumer level. These compounded products were found to be out-of-specification.",
+      "source": "Olympia Pharmacy recall notice, posted by FDA",
+      "date": "published Mar 2022",
+      "href": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/olympia-pharmacy-issues-voluntary-nationwide-recall-seven-compounded-products-due-being-out"
+    },
+    {
+      "kind": "regulator",
+      "quote": "1.5% Glycine Irrigation, USP is indicated for use as irrigating fluid during transurethral prostatic resection and other transurethral surgical procedures.",
+      "source": "1.5% Glycine Irrigation label, DailyMed",
+      "date": "published Jun 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc",
+      "note": "This is glycine’s only FDA approval as a drug. It is not for sleep."
+    },
+    {
+      "kind": "trial",
+      "quote": "Moreover, results indicated that after intranasal administration GHRH increased rapid-eye-movement (REM) sleep and slow wave sleep (SWS), with this influence concentrating on the second half of sleep time.",
+      "source": "Perras et al., Psychoneuroendocrinology",
+      "date": "published Oct 1999",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/10451909/",
+      "note": "12 young and 11 older healthy men, one night each. The abstract does not say whether the GHRH was sermorelin."
+    },
+    {
+      "kind": "trial",
+      "quote": "All 3 glycine sleep trials reported benefits on at least 1 sleep-related outcome.",
+      "source": "Fan et al., J Diet Suppl (scoping review)",
+      "date": "published Sep 2026",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42687500/"
+    },
+    {
+      "kind": "trial",
+      "quote": "Larger mechanistic trials with standardized sleep outcomes are needed.",
+      "source": "Fan et al., J Diet Suppl (scoping review)",
+      "date": "published Sep 2026",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42687500/"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019863",
