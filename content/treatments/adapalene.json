@@ -1,0 +1,608 @@
+{
+  "slug": "adapalene",
+  "name": "Adapalene",
+  "row": "Adapalene",
+  "aka": [
+    "Differin",
+    "Differin XP",
+    "Differine",
+    "Epiduo",
+    "Epiduo Forte",
+    "Differin Epiduo",
+    "Cabtreo",
+    "Tactupump"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Approved; 653-person RCT",
+    "fda": "Approved; OTC 0.1%",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and rabbit birth-defect studies (oral, high dose)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before 1996 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Blood levels in 16 acne patients (label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "0.3% gel: 653-person RCT, 12 weeks",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Differin 1996; 0.1% gel OTC since 2016",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Adapalene is a retinoid, a vitamin A-like drug, put on the skin. It binds to retinoic acid receptors in the cell nucleus. The label says it changes how skin cells mature and shed and how the skin's inflammation runs, but that the meaning of these findings for acne is unknown.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+            "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+            "date": "published Dec 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US, adapalene 0.1% gel is sold over the counter for acne in people 12 and older. Stronger and other forms (0.3% gel, 0.1% cream) are prescription-only. It also comes combined with benzoyl peroxide (Epiduo Forte; and, since May 2026, Differin Epiduo over the counter) and with clindamycin and benzoyl peroxide (Cabtreo).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0739d631-171b-42a8-bd55-0022b8df2d8a",
+            "label": "Differin gel 0.1% (OTC) Drug Facts, DailyMed",
+            "date": "published Dec 2022"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+            "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+            "date": "published Dec 2023"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ADAPALENE%22&limit=40",
+            "label": "Drugs@FDA data (openFDA), all adapalene applications",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Very little reaches the blood. In 16 acne patients who put 2 grams of the 0.3% gel on the face, chest and back once a day for 10 days, blood levels were low (mean peak 0.553 ng/mL) and mostly gone 72 hours after the last use.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+            "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+            "date": "published Dec 2023"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Adapalene's US approvals rest on 12-week controlled trials in mild to moderate acne. The current labels describe one trial of the 0.3% and 0.1% gels against a plain gel, and one trial of the stronger adapalene and benzoyl peroxide gel. A 1998 pooled analysis compared it with tretinoin."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Controlled trial",
+        "title": "Adapalene gel 0.3% and 0.1% against a plain gel",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, controlled trial; adapalene 0.3%, adapalene 0.1% or vehicle (plain) gel once a day"
+          },
+          {
+            "k": "People",
+            "v": "653 people aged 12 to 52 with mild to moderate acne; about half men"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "share rated clear or almost clear; drop in inflamed and non-inflamed spots"
+          }
+        ],
+        "found": "21% on 0.3%, 16% on 0.1% and 9% on plain gel were rated clear or almost clear. Total spot counts fell by 45%, 42% and 34%. The plain gel group also improved.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+            "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+            "date": "published Dec 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Randomized double-blind trial",
+        "title": "Adapalene 0.3% with benzoyl peroxide 2.5% (Epiduo Forte)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind; Epiduo Forte, adapalene 0.1% with benzoyl peroxide 2.5%, or vehicle gel"
+          },
+          {
+            "k": "People",
+            "v": "503 people aged 12 to 57 with moderate or severe acne; 54% were 12 to 17"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "clear or almost clear with a two-grade gain; drop in spot counts"
+          }
+        ],
+        "found": "33.7% on Epiduo Forte, 27.3% on the weaker combination and 11.0% on vehicle reached the goal. The label says the trial was not designed to compare the two strengths.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e5d381-098a-4c93-9ff0-002cae46daac",
+            "label": "Epiduo Forte label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA and Europe · 1998 · Pooled analysis of 5 randomized trials",
+        "title": "Adapalene 0.1% gel against tretinoin 0.025% gel (Cunliffe et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "meta-analysis of five multicenter, randomized, investigator-blind trials"
+          },
+          {
+            "k": "People",
+            "v": "900 people with mild to moderate acne (450 per group)"
+          },
+          {
+            "k": "Length",
+            "v": "not given in the abstract"
+          },
+          {
+            "k": "Measured",
+            "v": "drop in spot counts; skin tolerance"
+          }
+        ],
+        "found": "The two gels gave similar drops in total spot counts. Adapalene showed a faster early drop at week 1 and better skin tolerance.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9990421/",
+            "label": "Cunliffe et al., Br J Dermatol",
+            "date": "published Oct 1998"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "When given by mouth at high doses (40 and 81 times the human skin exposure), adapalene caused birth defects in rats and rabbits, such as cleft palate and skeletal defects. In a rat cancer study, male rats had more adrenal tumors (pheochromocytoma). Adapalene was not mutagenic in lab tests. This is animal and lab evidence.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+            "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+            "date": "published Dec 2023"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Adapalene is FDA approved for acne. Differin gel 0.1% was approved in 1996 as a prescription drug and switched to over-the-counter sale in 2016. The 0.3% gel and 0.1% cream remain prescription-only. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Differin gel 0.1%:",
+            "text": "approved May 31, 1996 (NDA 020380). FDA switched it from prescription to nonprescription (over-the-counter) sale on July 8, 2016 (supplement S-010). Its Drug Facts label is for acne in people 12 and older.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020380",
+                "label": "Drugs@FDA data (openFDA), NDA 020380, Differin gel 0.1%",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list",
+                "label": "FDA, Prescription to Nonprescription Switch List",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0739d631-171b-42a8-bd55-0022b8df2d8a",
+                "label": "Differin gel 0.1% (OTC) Drug Facts, DailyMed",
+                "date": "published Dec 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Differin gel 0.3%:",
+            "text": "approved June 19, 2007 (NDA 021753), prescription-only.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021753",
+                "label": "Drugs@FDA data (openFDA), NDA 021753, Differin gel 0.3%",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+                "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Differin cream 0.1%:",
+            "text": "approved May 26, 2000 (NDA 020748), prescription-only.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020748",
+                "label": "Drugs@FDA data (openFDA), NDA 020748, Differin cream 0.1%",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "With benzoyl peroxide:",
+            "text": "Epiduo (adapalene 0.1%, benzoyl peroxide 2.5%) was approved in 2008 and is now discontinued. Epiduo Forte (0.3%/2.5%) was approved July 15, 2015, prescription-only.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022320",
+                "label": "Drugs@FDA data (openFDA), NDA 022320, Epiduo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA207917",
+                "label": "Drugs@FDA data (openFDA), NDA 207917, Epiduo Forte",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e5d381-098a-4c93-9ff0-002cae46daac",
+                "label": "Epiduo Forte label, DailyMed",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "New in 2026:",
+            "text": "On May 22, 2026, FDA approved Differin Epiduo (adapalene 0.1%, benzoyl peroxide 2.5%) as a partial prescription-to-OTC switch, for acne in people 12 and older.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA220736",
+                "label": "Drugs@FDA data (openFDA), NDA 220736, Differin Epiduo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list",
+                "label": "FDA, Prescription to Nonprescription Switch List",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae3f8cd9-9046-4b69-b80f-3e9d4468ba7f",
+                "label": "Differin Epiduo Acne Gel (OTC) Drug Facts, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Triple combination:",
+            "text": "Cabtreo (clindamycin, adapalene 0.15% and benzoyl peroxide) was approved October 20, 2023, prescription-only.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA216632",
+                "label": "Drugs@FDA data (openFDA), NDA 216632, Cabtreo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9468da0f-9978-4c58-8135-0274c3415084",
+                "label": "Cabtreo label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Generics:",
+            "text": "FDA has approved generic adapalene gels, creams and solutions, and generic adapalene with benzoyl peroxide.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ADAPALENE%22&limit=40",
+                "label": "Drugs@FDA data (openFDA), all adapalene applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded versions, including mixes with other ingredients, are not FDA approved.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Adapalene is an approved medicine in the US, Canada, the EU, Northern Ireland and Australia. Low-strength gel is sold without a prescription in the US and from pharmacists in Australia, but stays prescription-only in Canada. It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine. 0.1% gel over the counter (since 2016); 0.3% gel and 0.1% cream prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020380",
+              "label": "Drugs@FDA data (openFDA), NDA 020380, Differin gel 0.1%",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021753",
+              "label": "Drugs@FDA data (openFDA), NDA 021753, Differin gel 0.3%",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list",
+              "label": "FDA, Prescription to Nonprescription Switch List",
+              "date": "published Jun 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine. Differin 0.1% and Differin XP 0.3% are listed as prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=20107",
+              "label": "Health Canada Drug Product Database: Differin 0.1%",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=75946",
+              "label": "Health Canada Drug Product Database: Differin XP 0.3%",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Adapalene products (e.g. Differin, and combinations with benzoyl peroxide) are listed as authorised for Northern Ireland in EMA's data. MHRA's own record was not opened.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in all 27 EU countries, alone (e.g. Differin) or with benzoyl peroxide. Not centrally authorised by EMA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine (TGA product information for Differin). Up to 0.1% for acne in adults and children over 12 is Pharmacist Only (Schedule 3); otherwise prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=adapalene",
+              "label": "TGA, PI/CMI search: adapalene",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Adapalene is not named on the WADA 2026 Prohibited List, in any class, in or out of competition. The 2027 list does not add it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Skin irritation is the main side effect: redness, scaling, dryness and burning or stinging, mostly early in use. Allergic reactions, including anaphylaxis, have been reported. It makes skin more sensitive to sun."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Irritation:",
+            "text": "In the 0.3% gel trial (253 people assessed), scaling (63% in all: 43.5% mild, 18.6% moderate, 1.2% severe) and dryness (62%) were the most common. Most were mild to moderate, started early and eased later. Severe burning or stinging occurred in 3.6%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+                "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "Anaphylaxis, angioedema, swelling of the face, eyelids and lips, and itching have been reported after approval, sometimes needing medical treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+                "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Sun and skin:",
+            "text": "Avoid sunlight and sunlamps; the OTC label also warns against waxing treated skin and says acne may look worse in the first weeks.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+                "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+                "date": "published Dec 2023"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0739d631-171b-42a8-bd55-0022b8df2d8a",
+                "label": "Differin gel 0.1% (OTC) Drug Facts, DailyMed",
+                "date": "published Dec 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "High oral doses caused birth defects in animals. The OTC label says to ask a doctor before use if pregnant. EMA's 2018 review said retinoids put on the skin should not be used in pregnancy or by women planning a baby.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+                "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+                "date": "published Dec 2023"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0739d631-171b-42a8-bd55-0022b8df2d8a",
+                "label": "Differin gel 0.1% (OTC) Drug Facts, DailyMed",
+                "date": "published Dec 2022"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/referrals/retinoid-containing-medicinal-products",
+                "label": "EMA, Retinoid-containing medicinal products: referral",
+                "date": "published Jul 2018"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No hormonal or fertility effects in men are listed on the labels. In rats given high oral doses, fertility in males and females was not affected.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec",
+            "label": "Differin (adapalene) gel 0.3% label, DailyMed",
+            "date": "published Dec 2023"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's approval letters and reviews (accessdata.fda.gov) could not be opened; approval dates come from openFDA Drugs@FDA data and FDA's switch list.",
+    "MHRA's own product records could not be read; the UK status comes from EMA's Article 57 data for Northern Ireland.",
+    "The lengths of the five trials in the 1998 pooled analysis are not given in the abstract; the full paper was not read."
+  ],
+  "surprises": [
+    "The 0.1% gel that has been sold over the counter in the US since 2016 is still prescription-only in Canada, according to Health Canada's database.",
+    "In May 2026 FDA also moved an adapalene and benzoyl peroxide gel (Differin Epiduo) to over-the-counter sale.",
+    "In the 0.3% gel trial, 9% of people using a plain gel were also rated clear or almost clear at 12 weeks, against 21% on adapalene 0.3%."
+  ]
+}

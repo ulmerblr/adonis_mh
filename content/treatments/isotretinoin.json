@@ -1,0 +1,717 @@
+{
+  "slug": "isotretinoin",
+  "name": "Isotretinoin",
+  "row": "Isotretinoin",
+  "aka": [
+    "Accutane",
+    "Absorica",
+    "Absorica LD",
+    "Amnesteem",
+    "Claravis",
+    "Myorisan",
+    "Zenatane",
+    "Sotret",
+    "Roaccutane",
+    "Reticutan",
+    "Epuris",
+    "Clarus",
+    "Oratane",
+    "13-cis-retinoic acid"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Approved; 925-person RCT",
+    "fda": "Approved (Absorica)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat, dog studies; testicular atrophy in dogs",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before 1982 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Food and blood-level studies on the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Absorica: 925-person RCT, 20 weeks",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Accutane 1982; now only through iPLEDGE REMS",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Isotretinoin is a retinoid, a drug related to vitamin A, taken by mouth as capsules. The label says its exact action in acne is unknown. It shrinks the skin's oil glands and lowers oil (sebum) output, and the drop in oil goes along with the improvement in acne. The label says the drop in oil is temporary.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is approved only for severe recalcitrant nodular acne: acne with many inflamed nodules 5 mm or larger that has not cleared with usual treatment, including antibiotics by mouth, in people 12 and older who are not pregnant. The label reserves it for these patients because of its serious side effects.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Brands sold in the US are Absorica, Absorica LD, Amnesteem, Claravis, Myorisan and Zenatane. Accutane, the first brand, is no longer marketed in the US.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-marketed-accutane-capsule-information",
+            "label": "FDA, Isotretinoin Capsule Information",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Isotretinoin can cause severe birth defects. In the US it is sold only through a restricted program called the iPLEDGE REMS."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Isotretinoin was approved in 1982, and the trials behind that approval were not reviewed here. The current label describes one large randomized trial of Absorica against another isotretinoin capsule, and two small sperm studies in men. A Swedish register study looked at suicide attempts. Regulators in the UK and EU have reviewed reports of mental health and sexual side effects."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Randomized double-blind trial",
+        "title": "Absorica against another isotretinoin capsule (Study 1)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, parallel group; Absorica or another isotretinoin capsule, taken with food"
+          },
+          {
+            "k": "People",
+            "v": "925 people aged 12 to 54 (397 aged 12 to 17) with severe recalcitrant nodular acne and at least 10 nodules; 60% male"
+          },
+          {
+            "k": "Length",
+            "v": "20 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in nodule count; share of people with at least a 90% drop in nodules"
+          }
+        ],
+        "found": "Mean nodule counts fell from 18.4 to about 2.7 with Absorica and from 17.7 to about 2.1 with the other capsule. 70% (Absorica) and 75% (other capsule) reached a 90% drop in nodules. There was no untreated or placebo group. In the same trial, 27 of 306 teenagers (9%) had a drop in bone density during treatment.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Label data · Sperm studies",
+        "title": "Sperm in men taking isotretinoin",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "studies summarized on the label; design details not given"
+          },
+          {
+            "k": "People",
+            "v": "66 men (30 of them treated for nodular acne) in one set of trials; 50 men aged 17 to 32 treated for nodular acne in another"
+          },
+          {
+            "k": "Length",
+            "v": "not stated on the label"
+          },
+          {
+            "k": "Measured",
+            "v": "sperm count and motility; semen volume, sperm shape and seminal fructose"
+          }
+        ],
+        "found": "The label reports no significant changes in sperm count, motility, shape or semen volume.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Sweden · 2010 · Register cohort study",
+        "title": "Suicide attempts before, during and after isotretinoin (Sundström et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "retrospective cohort; a register of isotretinoin users (1980 to 1989) linked to hospital and death records up to 2001"
+          },
+          {
+            "k": "People",
+            "v": "5,756 people aged 15 to 49 prescribed isotretinoin for severe acne"
+          },
+          {
+            "k": "Length",
+            "v": "up to 3 years before and up to 15 years after treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "hospital stays for attempted suicide, compared with the expected number"
+          }
+        ],
+        "found": "128 people were admitted for attempted suicide. The rate was already raised in the year before treatment and was raised during and up to six months after treatment (1.78 times expected for all attempts). Three years after treatment it was close to expected. The authors wrote that an added risk from isotretinoin itself could not be established, because the risk was already rising before treatment.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21071484/",
+            "label": "Sundström et al., BMJ",
+            "date": "published Nov 2010"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Regulator reviews of mental health and sexual side effects"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "EU, 2018:",
+            "text": "In 2018 EMA's review of all retinoids found that the data did not clearly show whether retinoids cause neuropsychiatric problems, but added a warning on possible depression, anxiety and mood changes to oral retinoids such as isotretinoin.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/referrals/retinoid-containing-medicinal-products",
+                "label": "EMA, Retinoid-containing medicinal products: referral",
+                "date": "published Jul 2018"
+              }
+            ]
+          },
+          {
+            "lead": "UK and EU, 2017:",
+            "text": "A 2017 EU review found reports of sexual problems, including erectile dysfunction and lower libido, and these were added to the product information. MHRA wrote that one possible mechanism may be lower blood testosterone. The UK had received 14 Yellow Card reports of sexual dysfunction, 49 of erectile or ejaculation problems and 23 of lower or lost libido from 1985 to September 2017.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido",
+                "label": "MHRA Drug Safety Update: isotretinoin, rare reports of erectile dysfunction and decreased libido",
+                "date": "published Oct 2017"
+              }
+            ]
+          },
+          {
+            "lead": "UK, 2023:",
+            "text": "An expert group of the UK Commission on Human Medicines concluded that gaps in the evidence meant it could not say isotretinoin definitely caused many of the reported mental health and sexual side effects, some of which continued after treatment stopped. It asked for better patient information, monitoring of mental and sexual health at every visit, tighter checks for under-18s and more research.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/government/news/outcome-of-the-expert-review-of-the-safety-of-isotretinoin",
+                "label": "MHRA, Outcome of the expert review of the safety of isotretinoin",
+                "date": "published Apr 2023"
+              },
+              {
+                "url": "https://www.gov.uk/guidance/isotretinoin-an-expert-review-of-suspected-psychiatric-and-sexual-side-effects",
+                "label": "MHRA, Isotretinoin: an expert review of suspected psychiatric and sexual side effects",
+                "date": "published Feb 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Off-label research"
+      },
+      {
+        "t": "study",
+        "meta": "France · registered 2024 · Randomized placebo-controlled trial",
+        "title": "Isotretinoin and sperm production in men with low sperm counts",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "phase 4, randomized against placebo; weekly isotretinoin 40 mg"
+          },
+          {
+            "k": "People",
+            "v": "planned 100 men aged 21 to 55 with low sperm counts (oligozoospermia)"
+          },
+          {
+            "k": "Length",
+            "v": "20 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "millions of sperm per ejaculate"
+          }
+        ],
+        "found": "Not yet recruiting; estimated start March 2025 and primary completion December 2027. This is an off-label research use.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06698263",
+            "label": "ClinicalTrials.gov record NCT06698263",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "On the label, rats given isotretinoin by mouth showed no effect on fertility. Dogs given 10 to 30 times the human dose for about 30 weeks developed testicular atrophy with less sperm production. Rats given it for more than 18 months had more adrenal tumors (pheochromocytoma). This is animal evidence only.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Isotretinoin capsules are FDA approved, by prescription, for severe recalcitrant nodular acne. Accutane was approved in 1982; it is no longer marketed. Absorica was approved in 2012 and Absorica LD in 2019, and several generics are approved. All isotretinoin is sold only through the iPLEDGE REMS. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Accutane:",
+            "text": "approved May 7, 1982 (NDA 018662) as a new molecular entity; now listed as discontinued, with an FDA finding that it was not withdrawn for safety or effectiveness reasons.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018662",
+                "label": "Drugs@FDA data (openFDA), NDA 018662, Accutane",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Absorica:",
+            "text": "approved May 25, 2012 (NDA 021951).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021951",
+                "label": "Drugs@FDA data (openFDA), NDA 021951, Absorica",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Absorica LD:",
+            "text": "approved November 5, 2019 (NDA 211913). Absorica and Absorica LD are not interchangeable milligram for milligram.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211913",
+                "label": "Drugs@FDA data (openFDA), NDA 211913, Absorica LD",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Generics:",
+            "text": "FDA has approved generic capsules, including Amnesteem, Claravis, Myorisan and Zenatane.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22ISOTRETINOIN%22&limit=30",
+                "label": "Drugs@FDA data (openFDA), all isotretinoin applications",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a31fd109-d0fd-4ab9-ba98-a3d64333c18d",
+                "label": "Claravis label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "The iPLEDGE REMS"
+      },
+      {
+        "t": "p",
+        "text": "iPLEDGE began in 2005 and became a REMS (Risk Evaluation and Mitigation Strategy) in 2010. It covers all FDA-approved isotretinoin. Prescribers and pharmacies must be certified. Every patient must enroll. Patients who can get pregnant must have pregnancy tests and use contraception. Patients who cannot get pregnant must agree not to share the drug and not to donate blood.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ipledge-risk-evaluation-and-mitigation-strategy-rems",
+            "label": "FDA, iPLEDGE REMS page",
+            "date": "published Jun 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "On February 9, 2026, FDA approved changes to iPLEDGE. They allow at-home pregnancy tests during and after treatment if the prescriber permits, and drop monthly counseling records for patients who cannot get pregnant. The changes were due on August 8, 2026, but FDA delayed them to November 15, 2026. Until then FDA is using enforcement discretion on pregnancy testing.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ipledge-risk-evaluation-and-mitigation-strategy-rems",
+            "label": "FDA, iPLEDGE REMS page",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA warns against buying isotretinoin over the internet, because doing so bypasses the safety steps.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-marketed-accutane-capsule-information",
+            "label": "FDA, Isotretinoin Capsule Information",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Isotretinoin has a boxed warning: it can cause life-threatening birth defects and must not be used in pregnancy."
+      }
+    ],
+    "world": {
+      "lead": "Oral isotretinoin is an approved prescription medicine in the US, Canada, the UK, every EU country and Australia. The UK and EU have added warnings on mental health and sexual side effects. It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Absorica, Absorica LD and generics; severe nodular acne). Prescription-only, through the iPLEDGE REMS.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021951",
+              "label": "Drugs@FDA data (openFDA), NDA 021951, Absorica",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ipledge-risk-evaluation-and-mitigation-strategy-rems",
+              "label": "FDA, iPLEDGE REMS page",
+              "date": "published Jun 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine. Accutane, Epuris and Clarus capsules are listed as marketed, prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=5128",
+              "label": "Health Canada Drug Product Database: Accutane",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=88198",
+              "label": "Health Canada Drug Product Database: Epuris",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=74319",
+              "label": "Health Canada Drug Product Database: Clarus",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine (Roaccutane, Reticutan). Since January 2026 a second prescriber is no longer needed for under-18s; mental health and sexual function checks continue.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/guidance/isotretinoin-an-expert-review-of-suspected-psychiatric-and-sexual-side-effects",
+              "label": "MHRA, Isotretinoin: an expert review of suspected psychiatric and sexual side effects",
+              "date": "published Feb 2026"
+            },
+            {
+              "url": "https://www.gov.uk/drug-safety-update/isotretinoin-changes-to-prescribing-guidance-and-additional-risk-minimisation-measures",
+              "label": "MHRA Drug Safety Update: isotretinoin, changes to prescribing guidance",
+              "date": "published Jan 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Oral isotretinoin is authorised nationally in all 27 EU countries (e.g. Roaccutane). Since EMA's 2018 review, women who can have children must follow an updated pregnancy prevention programme.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/retinoid-containing-medicinal-products",
+              "label": "EMA, Retinoid-containing medicinal products: referral",
+              "date": "published Jul 2018"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine (TGA product information for Roaccutane, Oratane and others). Prescription-only (Schedule 4); only a specialist physician or dermatologist may prescribe it.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=isotretinoin",
+              "label": "TGA, PI/CMI search: isotretinoin",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Isotretinoin is not named on the WADA 2026 Prohibited List, in any class, in or out of competition. The 2027 list does not add it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists serious risks: birth defects, depression and suicide, raised pressure in the skull, severe skin reactions, pancreatitis, blood fat changes, hearing loss, liver injury, bowel inflammation, bone and joint problems and eye problems. Some men have reported sexual side effects that can continue after treatment stops."
+      },
+      {
+        "t": "h3",
+        "text": "Serious warnings on the US label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Birth defects (boxed warning):",
+            "text": "Extremely high risk of life-threatening birth defects with any amount, even for a short time. Miscarriage and premature birth have been documented. Patients must not donate blood during treatment and for 1 month after.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Mental health:",
+            "text": "May cause depression, psychosis and, rarely, suicidal thoughts, suicide attempts, suicide, and aggressive or violent behavior. Some patients' depression went away when they stopped and came back when they restarted.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-marketed-accutane-capsule-information",
+                "label": "FDA, Isotretinoin Capsule Information",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Other serious risks:",
+            "text": "Pseudotumor cerebri (raised pressure in the skull), some cases with tetracycline antibiotics taken at the same time; Stevens-Johnson syndrome and toxic epidermal necrolysis; acute pancreatitis; high triglycerides and low HDL; hearing loss that may persist; liver injury; inflammatory bowel disease; bone density loss, bone and joint pain; eye problems including corneal clouding and reduced night vision, sometimes lasting after treatment; and allergic reactions.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Sexual side effects and fertility in men"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "On the US label:",
+            "text": "The label lists sexual dysfunction that may continue after stopping, including erectile dysfunction and decreased libido, among reactions from trials or postmarketing reports. Their frequency and cause cannot be reliably set from such reports.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a31fd109-d0fd-4ab9-ba98-a3d64333c18d",
+                "label": "Claravis label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "UK:",
+            "text": "MHRA asks prescribers to ask about sexual function before treatment and to monitor it at each visit. The UK expert review could not say isotretinoin definitely causes these effects.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/isotretinoin-changes-to-prescribing-guidance-and-additional-risk-minimisation-measures",
+                "label": "MHRA Drug Safety Update: isotretinoin, changes to prescribing guidance",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://www.gov.uk/government/news/outcome-of-the-expert-review-of-the-safety-of-isotretinoin",
+                "label": "MHRA, Outcome of the expert review of the safety of isotretinoin",
+                "date": "published Apr 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Sperm:",
+            "text": "Two small studies on the label found no significant changes in sperm. In dogs at 10 to 30 times the human dose, the testes shrank.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+                "label": "Absorica / Absorica LD label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Common side effects"
+      },
+      {
+        "t": "p",
+        "text": "The most common side effects (5% or more) are dry lips, dry skin, back pain, dry eye, joint pain, nosebleeds, headache, colds, chapped lips, dermatitis, raised creatine kinase, cracked lips, muscle discomfort, upper airway infection and reduced sharpness of vision. Teenagers had more back and joint pain, sometimes severe.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615",
+            "label": "Absorica / Absorica LD label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's Drugs@FDA approval letters and review pages (accessdata.fda.gov) could not be opened; approval dates come from FDA's openFDA Drugs@FDA data.",
+    "The trials behind the 1982 Accutane approval were not reviewed.",
+    "The design and length of the two sperm studies on the label are not given there; the source papers were not read."
+  ],
+  "surprises": [
+    "Sexual side effects that may continue after stopping, including erectile dysfunction and lower libido, are on the current US label, yet the UK's 2023 expert review said the evidence could not show that isotretinoin definitely causes them.",
+    "The Swedish register study found suicide attempts were already rising in the year before isotretinoin was started, so the authors could not separate the drug's effect from the acne itself.",
+    "FDA approved easier iPLEDGE rules in February 2026, including at-home pregnancy tests, but delayed them to November 15, 2026."
+  ]
+}

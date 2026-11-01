@@ -47,7 +47,7 @@ plant extracts and supplements.
 - Cagrilintide — peptide: yes — amylin analogue in trials (with semaglutide as CagriSema).
 - Mazdutide — peptide: yes — GLP-1/glucagon agonist approved in China; in trials elsewhere.
 - Survodutide — peptide: yes — GLP-1/glucagon agonist in Phase 3 trials.
-- Orforglipron — peptide: no — oral non-peptide GLP-1 pill in late-stage trials.
+- Orforglipron — peptide: no — oral non-peptide GLP-1 pill; FDA approved it as Foundayo (April 2026) for weight.
 - Setmelanotide — peptide: yes — FDA-approved (Imcivree) for rare genetic obesity.
 - Phentermine — peptide: no — FDA-approved appetite suppressant; Schedule IV.
 - Topiramate — peptide: no — anti-seizure drug; with phentermine in Qsymia for weight.

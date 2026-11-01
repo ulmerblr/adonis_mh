@@ -1,0 +1,659 @@
+{
+  "slug": "benzoyl-peroxide",
+  "name": "Benzoyl peroxide",
+  "row": "Benzoyl peroxide",
+  "aka": [
+    "BPO",
+    "Epsolay",
+    "Epiduo",
+    "Epiduo Forte",
+    "Differin Epiduo",
+    "Cabtreo",
+    "Twyneo",
+    "Acanya",
+    "BenzaClin",
+    "Duac",
+    "Benzamycin",
+    "Acnecide",
+    "Benzac",
+    "Tactupump"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "Cochrane: 120 trials",
+    "fda": "OTC monograph drug",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Tumor promoter in some animal studies (label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Used for acne since the 1960s (MHRA)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Turned into benzoic acid in the skin (label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Older trials; not reviewed one by one",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Cochrane: 120 RCTs; Epsolay 2 RCTs, 733 people",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "OTC monograph 2.5–10%; Rx combinations approved",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Benzoyl peroxide is an oxidizing agent put on the skin. FDA labels describe it as killing bacteria and loosening the outer skin layer (bactericidal and keratolytic). In the skin it is converted to benzoic acid, which leaves the body in urine.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+            "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+            "date": "published Aug 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is mainly an over-the-counter acne drug sold under FDA's acne monograph at 2.5% to 10%. A monograph is a rulebook that sets allowed ingredients, strengths and label wording; products that follow it do not need their own FDA approval. FDA has also approved prescription products that contain it, alone (Epsolay, for rosacea) or with adapalene, clindamycin, tretinoin or erythromycin.",
+        "src": [
+          {
+            "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-333/subpart-D",
+            "label": "21 CFR part 333 subpart D, Topical acne drug products (eCFR)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+            "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Benzoyl peroxide can bleach hair and dyed fabric.",
+        "src": [
+          {
+            "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-333/subpart-D",
+            "label": "21 CFR part 333 subpart D, Topical acne drug products (eCFR)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Benzoyl peroxide has been studied in many trials, mostly short (up to 12 weeks) and often with a high or unclear risk of bias. A 2020 Cochrane review pooled 120 of them. The newest single-ingredient approval, Epsolay for rosacea, rests on two randomized trials. The 2024 to 2025 concern about benzene is covered under US position."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Worldwide · 2020 · Systematic review",
+        "title": "Topical benzoyl peroxide for acne (Cochrane review, Yang et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review of randomized trials of benzoyl peroxide alone or combined, against placebo, no treatment or other creams"
+          },
+          {
+            "k": "People",
+            "v": "120 trials; 29,592 people randomized in 116 of them; mean ages 18 to 30"
+          },
+          {
+            "k": "Length",
+            "v": "most trials up to 12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "people's own rating of improvement; stopping because of side effects; any side effect"
+          }
+        ],
+        "found": "Low-certainty evidence suggested benzoyl peroxide may beat placebo or no treatment on self-rated improvement (risk ratio 1.27), with little or no difference against adapalene or clindamycin. People on it were more likely to stop because of side effects than with placebo (risk ratio 2.13), mostly for redness, itching and burning. Many trials had high or unclear risk of bias; 50 were industry funded.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32175593/",
+            "label": "Yang et al., Cochrane Database Syst Rev",
+            "date": "published Mar 2020"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · 2 randomized double-blind trials",
+        "title": "Epsolay (benzoyl peroxide 5% cream) for rosacea",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two multicenter, randomized, double-blind trials against a plain (vehicle) cream (NCT03448939, NCT03564119)"
+          },
+          {
+            "k": "People",
+            "v": "733 adults with moderate to severe papulopustular rosacea; 73% women; mean age 51"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "clear or almost clear with a two-grade gain; change in inflamed spots"
+          }
+        ],
+        "found": "47.4% and 49.2% on Epsolay reached the goal, against 20.7% and 28.2% on vehicle cream. Inflamed spots fell by 17.4 and 20.3 on average, against 9.5 and 13.3.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+            "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+            "date": "published Aug 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Randomized double-blind trial",
+        "title": "Adapalene 0.3% with benzoyl peroxide 2.5% (Epiduo Forte)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, vehicle-controlled"
+          },
+          {
+            "k": "People",
+            "v": "503 people aged 12 to 57 with moderate or severe acne"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "clear or almost clear with a two-grade gain"
+          }
+        ],
+        "found": "33.7% on Epiduo Forte, 27.3% on the weaker 0.1%/2.5% gel and 11.0% on vehicle reached the goal. See the adapalene page.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e5d381-098a-4c93-9ff0-002cae46daac",
+            "label": "Epiduo Forte label, DailyMed",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "The Epsolay label says benzoyl peroxide is well established as a tumor promoter in several animal species, but its meaning for people is unknown. Two-year skin studies in rats and mice did not show a significant rise in tumors. Bacterial gene tests gave mixed results, and it caused DNA strand breaks in mammalian cells. Fertility studies were not done. This is animal and lab evidence.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+            "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+            "date": "published Aug 2025"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Benzoyl peroxide 2.5% to 10% is an over-the-counter acne drug under FDA's monograph (21 CFR 333.310). FDA has approved prescription products that contain it, and in 2025 tested acne products for benzene. As of November 1, 2026."
+      },
+      {
+        "t": "h3",
+        "text": "The OTC acne monograph"
+      },
+      {
+        "t": "p",
+        "text": "21 CFR part 333 subpart D lets benzoyl peroxide 2.5% to 10% be sold over the counter as an acne treatment if the product follows the monograph. The current wording of the benzoyl peroxide entry dates from a March 4, 2010 amendment (75 FR 9776). Required warnings include: do not use if you have very sensitive skin or are sensitive to benzoyl peroxide; avoid unnecessary sun and use sunscreen; avoid the eyes, lips and mouth; and stop and ask a doctor if irritation becomes severe.",
+        "src": [
+          {
+            "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-333/subpart-D",
+            "label": "21 CFR part 333 subpart D, Topical acne drug products (eCFR)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "FDA-approved prescription products"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Alone:",
+            "text": "Epsolay (benzoyl peroxide 5% cream), approved April 22, 2022, for inflamed rosacea spots in adults.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+                "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+                "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+                "date": "published Aug 2025"
+              }
+            ]
+          },
+          {
+            "lead": "With adapalene:",
+            "text": "Epiduo Forte (adapalene 0.3%, 2015). Differin Epiduo (adapalene 0.1%) moved to over-the-counter sale on May 22, 2026.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+                "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e5d381-098a-4c93-9ff0-002cae46daac",
+                "label": "Epiduo Forte label, DailyMed",
+                "date": "published Oct 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ae3f8cd9-9046-4b69-b80f-3e9d4468ba7f",
+                "label": "Differin Epiduo Acne Gel (OTC) Drug Facts, DailyMed",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list",
+                "label": "FDA, Prescription to Nonprescription Switch List",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "With clindamycin:",
+            "text": "Acanya (2008), Duac (2002) and BenzaClin (2000, now discontinued).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+                "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3dcd2c96-72b1-4a9f-b65c-08198d63b7df",
+                "label": "Acanya gel label, DailyMed",
+                "date": "published Sep 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Triple combination:",
+            "text": "Cabtreo (clindamycin, adapalene and benzoyl peroxide), approved October 20, 2023.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+                "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9468da0f-9978-4c58-8135-0274c3415084",
+                "label": "Cabtreo label, DailyMed",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "With tretinoin:",
+            "text": "Twyneo (tretinoin 0.1%, benzoyl peroxide 3%), approved July 26, 2021, for acne from age 9.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+                "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27208dff-e376-4c18-b56e-0a260f685a39",
+                "label": "Twyneo label, DailyMed",
+                "date": "published May 2025"
+              }
+            ]
+          },
+          {
+            "lead": "With erythromycin:",
+            "text": "Benzamycin (erythromycin 3%, benzoyl peroxide 5%), approved 1984.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+                "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Benzene testing, 2025"
+      },
+      {
+        "t": "p",
+        "text": "On March 11, 2025, FDA reported testing 95 acne products containing benzoyl peroxide after a third-party lab reported high benzene levels. FDA found 6 products with elevated benzene; more than 90% had undetectable or extremely low levels. The makers agreed to recall affected lots at the retail level, and one more maker recalled a product after its own tests. FDA said that even with daily use for decades, the cancer risk from the benzene found is very low, and it warned that unvalidated test methods can overstate benzene levels.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/limited-number-voluntary-recalls-initiated-after-fda-testing-acne-products-benzene-findings-show",
+            "label": "FDA, Limited number of voluntary recalls initiated after FDA testing of acne products for benzene",
+            "date": "published Mar 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says benzene contamination in drugs may be linked to some inactive ingredients, such as carbomer thickeners, and that makers should not release any batch with more than 2 parts per million of benzene. FDA's recall records list 19 benzene-related recalls of benzoyl peroxide products: 15 begun in 2025 and 4 in 2026, all Class II.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-safety-and-availability/frequently-asked-questions-benzene-contamination-drugs",
+            "label": "FDA, Frequently Asked Questions on Benzene Contamination in Drugs",
+            "date": "published Mar 2025"
+          },
+          {
+            "url": "https://api.fda.gov/drug/enforcement.json?search=reason_for_recall:benzene+AND+product_description:%22benzoyl%20peroxide%22&limit=100",
+            "label": "FDA recall data (openFDA enforcement reports), benzoyl peroxide and benzene",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded products containing benzoyl peroxide are not FDA approved.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Benzoyl peroxide is sold without a prescription at low strengths in the US, Canada, the UK and Australia, and is authorised across the EU. Stronger strengths and combinations are prescription-only. It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "OTC monograph drug at 2.5% to 10%; approved prescription products (Epsolay; combinations such as Epiduo Forte, Cabtreo, Twyneo).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-333/subpart-D",
+              "label": "21 CFR part 333 subpart D, Topical acne drug products (eCFR)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22BENZOYL%20PEROXIDE%22+AND+application_number:NDA*&limit=50",
+              "label": "Drugs@FDA data (openFDA), benzoyl peroxide NDAs",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Non-prescription products (e.g. benzoyl peroxide 5%) are listed as marketed; combinations with adapalene (Tactupump) or clindamycin are prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=89660",
+              "label": "Health Canada Drug Product Database: benzoyl peroxide 5%, non-prescription",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=85075",
+              "label": "Health Canada Drug Product Database: Tactupump (adapalene/benzoyl peroxide)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=72824",
+              "label": "Health Canada Drug Product Database: BenzaClin",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Medicine sold without prescription; in 2019 two 5% face products moved from pharmacy-only to general sale. Many products are authorised for Northern Ireland in EMA's data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/two-benzoyl-peroxide-products-to-treat-mild-acne-affecting-the-face-to-go-on-general-sale",
+              "label": "MHRA, Two benzoyl peroxide products to treat mild acne to go on general sale",
+              "date": "published Sep 2019"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in all 27 EU countries, alone or in combinations. Not centrally authorised by EMA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Unscheduled at 5% or less for external use; Pharmacy Medicine (Schedule 2) above 5% up to 10%; otherwise prescription-only (Schedule 4). TGA has product information for combinations (e.g. Epiduo, Duac).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=benzoyl",
+              "label": "TGA, PI/CMI search: benzoyl",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "otc"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Benzoyl peroxide is not named on the WADA 2026 Prohibited List, in any class, in or out of competition. The 2027 list does not add it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The common side effects are skin irritation: redness, dryness, peeling, burning, itching and sometimes swelling. Serious allergic reactions, including anaphylaxis, have been reported. It can make skin more sun-sensitive and bleaches hair and fabric."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Irritation:",
+            "text": "The OTC monograph warns of redness, burning, itching, peeling or possibly swelling, and says to stop and ask a doctor if irritation becomes severe.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-333/subpart-D",
+                "label": "21 CFR part 333 subpart D, Topical acne drug products (eCFR)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "In rosacea trials:",
+            "text": "In the Epsolay trials (488 people), application site pain and redness each affected 2%, itching 1% and swelling 1%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+                "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+                "date": "published Aug 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "Anaphylaxis, angioedema and hives have been reported with benzoyl peroxide products. Allergic contact dermatitis can occur.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+                "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+                "date": "published Aug 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Sun:",
+            "text": "Benzoyl peroxide may increase sensitivity to sunlight.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+                "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+                "date": "published Aug 2025"
+              },
+              {
+                "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-333/subpart-D",
+                "label": "21 CFR part 333 subpart D, Topical acne drug products (eCFR)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Stopping:",
+            "text": "In the Cochrane review, people using it were about twice as likely as those on placebo to stop because of side effects.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32175593/",
+                "label": "Yang et al., Cochrane Database Syst Rev",
+                "date": "published Mar 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Benzene:",
+            "text": "FDA found elevated benzene in 6 of 95 products tested and called the cancer risk very low.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/limited-number-voluntary-recalls-initiated-after-fda-testing-acne-products-benzene-findings-show",
+                "label": "FDA, Limited number of voluntary recalls initiated after FDA testing of acne products for benzene",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No hormonal or fertility effects in men are described on the labels; fertility studies were not done.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c",
+            "label": "Epsolay (benzoyl peroxide) cream 5% label, DailyMed",
+            "date": "published Aug 2025"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's 2025 statement says it would publish its full benzene test results in peer-reviewed journals; that publication was not found or read.",
+    "Benzoyl peroxide's original US approval history and the older single-ingredient trials were not reviewed one by one.",
+    "An FDA safety communication on serious allergic reactions to OTC acne products was looked for on fda.gov but not found; allergy warnings here come from the Epsolay label."
+  ],
+  "surprises": [
+    "FDA's own testing found elevated benzene in only 6 of 95 benzoyl peroxide products, fewer than a third-party lab had reported, and FDA called the cancer risk very low; recalls were at the retail level, not the consumer level.",
+    "The 2020 Cochrane review rated the evidence for benzoyl peroxide over placebo as low certainty, despite its long use."
+  ]
+}

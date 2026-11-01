@@ -1,0 +1,586 @@
+{
+  "slug": "afamelanotide",
+  "name": "Afamelanotide",
+  "row": "Afamelanotide",
+  "aka": [
+    "Scenesse",
+    "Melanotan I",
+    "CUV1647"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "skin"
+  ],
+  "index": {
+    "evidence": "2 phase III RCTs (EPP)",
+    "fda": "Approved (Scenesse)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat fertility and pregnancy studies (label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small EPP, sun-allergy and vitiligo pilots",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Implant blood levels in 12 healthy adults",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "EPP, vitiligo, other light disorders",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "2 EPP RCTs, 167 people; vitiligo trial ongoing",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Scenesse, 2019, EPP (EU 2014)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Afamelanotide is a synthetic peptide of 13 amino acids. It is built like alpha-melanocyte stimulating hormone (alpha-MSH), the body's own signal to make dark skin pigment. It binds mainly to the melanocortin 1 receptor (MC1-R) and raises eumelanin, the brown-black pigment, in the skin without sun or UV light.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+            "label": "Scenesse (afamelanotide) implant label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is sold as Scenesse: a 16 mg implant, a small rod about 1.7 cm long that dissolves under the skin. A trained health care professional places it under the skin above the hip bone. It is approved for adults with erythropoietic protoporphyria (EPP), a rare inherited disease in which light causes severe pain in the skin.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+            "label": "Scenesse (afamelanotide) implant label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In EPP, a substance called protoporphyrin IX builds up and reacts with light. EMA explains that more eumelanin cuts how much light gets into the skin, which helps prevent the painful reactions.",
+        "src": [
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse",
+            "label": "EMA, Scenesse: EPAR",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Afamelanotide and melanotan peptides"
+      },
+      {
+        "t": "p",
+        "text": "Australia's Poisons Standard lists afamelanotide with the cross-reference \"melanotan I\". A related peptide, melanotan II, is listed separately as prescription-only (Schedule 4).",
+        "src": [
+          {
+            "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+            "label": "Poisons Standard October 2026 (Australia)",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Melanotan II has no FDA approval: a Drugs@FDA search for melanotan finds no products. FDA lists melanotan II among peptides once placed in its compounding Category 2 (substances that may pose significant safety risks) whose nominations were later withdrawn. FDA wrote that it may cause immune reactions and that published case reports describe melanoma, a brain swelling syndrome (posterior reversible encephalopathy syndrome), a stimulant-like toxic reaction and priapism.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:MELANOTAN",
+            "label": "Drugs@FDA data (openFDA), search for melanotan (no matches)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+            "label": "FDA, Certain bulk drug substances for use in compounding that may present significant safety risks (Category 2 page)",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Published reports describe melanotan II bought over the internet and injected to tan. A 2021 study of UK and Irish online forums (623 posts by 205 people, 2016 to 2017) found people used it to look tanned, often before sun holidays or fitness competitions, and often with sunbeds. A 2012 case report described a 39-year-old man who injected melanotan II bought online to darken his skin and developed a stimulant-like toxic reaction, muscle breakdown (rhabdomyolysis) and kidney injury, and spent three days in intensive care. These are reports, not trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34464955/",
+            "label": "Gilhooley et al., Dermatology",
+            "date": "published Aug 2021"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23121206/",
+            "label": "Nelson et al., Clin Toxicol",
+            "date": "published Dec 2012"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Scenesse, an implant for EPP, is the only afamelanotide product found with an FDA approval. Melanotan peptides sold for tanning are not FDA approved."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Afamelanotide's approvals rest on randomized trials in EPP. The two main phase III trials, in the US (93 people) and Europe (74 people), measured hours in sunlight without pain. A third controlled trial added safety data. Trials in vitiligo and other light-related diseases are smaller or ongoing."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data and 2015 paper · Randomized double-blind trial",
+        "title": "Afamelanotide implant in EPP, US trial (CUV039)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "phase III, multicenter, randomized, double-blind, against a vehicle (dummy) implant (NCT01605136)"
+          },
+          {
+            "k": "People",
+            "v": "93 adults with EPP; 48 on afamelanotide, 45 on vehicle"
+          },
+          {
+            "k": "Length",
+            "v": "3 implants, 180 days"
+          },
+          {
+            "k": "Measured",
+            "v": "total hours in direct sunlight between 10 am and 6 pm on days with no pain"
+          }
+        ],
+        "found": "The label gives a median of 64.1 hours on afamelanotide and 40.5 hours on vehicle over 180 days. The published paper reported medians of 69.4 and 40.8 hours (P=0.04) and better quality of life.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+            "label": "Scenesse (afamelanotide) implant label, DailyMed",
+            "date": "published May 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26132941/",
+            "label": "Langendonk et al., N Engl J Med",
+            "date": "published Jul 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01605136",
+            "label": "ClinicalTrials.gov record NCT01605136",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Europe · label data and 2015 paper · Randomized double-blind trial",
+        "title": "Afamelanotide implant in EPP, European trial (CUV029)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "phase III, multicenter, randomized, double-blind, against a vehicle implant (NCT00979745)"
+          },
+          {
+            "k": "People",
+            "v": "74 adults with EPP; 38 on afamelanotide, 36 on vehicle"
+          },
+          {
+            "k": "Length",
+            "v": "5 implants, 270 days"
+          },
+          {
+            "k": "Measured",
+            "v": "hours outdoors between 10 am and 3 pm on pain-free days spent mostly in direct sunlight"
+          }
+        ],
+        "found": "The median was 6.0 hours on afamelanotide and 0.75 hours on vehicle over 270 days. The paper also reported fewer light reactions (77 against 146). EMA noted that the added time in sunlight was small.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+            "label": "Scenesse (afamelanotide) implant label, DailyMed",
+            "date": "published May 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26132941/",
+            "label": "Langendonk et al., N Engl J Med",
+            "date": "published Jul 2015"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse",
+            "label": "EMA, Scenesse: EPAR",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00979745",
+            "label": "ClinicalTrials.gov record NCT00979745",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Registered 2023 · Phase III · Open-label two-arm trial",
+        "title": "Afamelanotide with UVB light for vitiligo (CUV105)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "phase III, open-label, two arms: afamelanotide plus narrow-band UVB light against UVB light alone"
+          },
+          {
+            "k": "People",
+            "v": "about 200 people aged 12 and older with vitiligo (estimated)"
+          },
+          {
+            "k": "Length",
+            "v": "started October 2023; primary completion estimated December 2025"
+          },
+          {
+            "k": "Measured",
+            "v": "share reaching at least a 50% repigmentation score on the body (T-VASI 50)"
+          }
+        ],
+        "found": "Listed as active, not recruiting. No results posted. Using afamelanotide for vitiligo is off-label.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06109649",
+            "label": "ClinicalTrials.gov record NCT06109649",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "p",
+        "text": "The sponsor has also run smaller trials in polymorphic light eruption, solar urticaria, xeroderma pigmentosum, variegate porphyria, acne and skin precancers (actinic keratosis) in organ transplant patients. These are listed on ClinicalTrials.gov; their results were not reviewed here.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=afamelanotide",
+            "label": "ClinicalTrials.gov search for 'afamelanotide'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats given up to 12 times the human dose under the skin, afamelanotide did not harm fertility in males or females or harm the unborn young. It was not mutagenic in lab tests. Cancer studies have not been done. This is animal and lab evidence.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+            "label": "Scenesse (afamelanotide) implant label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Scenesse (afamelanotide) implant was FDA approved on October 8, 2019, as a new molecular entity, to increase pain-free light exposure in adults with EPP. It is prescription-only and must be implanted by a trained health care professional. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approval:",
+            "text": "NDA 210797, Clinuvel; approved October 8, 2019. The label was last updated in 2024 to add serious allergic reactions, including anaphylaxis.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA210797",
+                "label": "Drugs@FDA data (openFDA), NDA 210797, Scenesse",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+                "label": "Scenesse (afamelanotide) implant label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Use:",
+            "text": "Patients must keep up sun and light protection during treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+                "label": "Scenesse (afamelanotide) implant label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not approved:",
+            "text": "Products sold as melanotan I or melanotan II for tanning are not FDA approved; Drugs@FDA lists no product under the name melanotan. Compounded drugs are not FDA approved either.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:MELANOTAN",
+                "label": "Drugs@FDA data (openFDA), search for melanotan (no matches)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Scenesse is an approved medicine for EPP in the US, the EU, Canada and Australia, where it is prescription-only. The UK status was not confirmed. It is not named on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Scenesse implant, 2019, EPP). Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA210797",
+              "label": "Drugs@FDA data (openFDA), NDA 210797, Scenesse",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+              "label": "Scenesse (afamelanotide) implant label, DailyMed",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Scenesse is listed as approved (status date July 9, 2026), prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=107203",
+              "label": "Health Canada Drug Product Database: Scenesse",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Centrally authorised (Scenesse, December 22, 2014) under exceptional circumstances, for EPP. Specialist centres only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse",
+              "label": "EMA, Scenesse: EPAR",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/public-data-article-57-database",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EEA)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine (TGA consumer information for Scenesse). Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=afamelanotide",
+              "label": "TGA, PI/CMI search: afamelanotide",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Afamelanotide is not named on the WADA 2026 Prohibited List. Because it is approved for human use, the S0 class for non-approved substances does not cover it. Melanotan II is not named either; S0 bans at all times any substance not covered elsewhere that has no government approval for human use. The 2027 list adds \"peptides\" to the S0 examples.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In trials, the most common side effects were implant site reactions, nausea, sore throat, cough, tiredness and darker skin. Serious allergic reactions, including anaphylaxis, have been reported since approval. It darkens moles and freckles, so the label asks for a full skin check twice a year."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "In trials:",
+            "text": "Implant site reactions 21% (vehicle 10%), nausea 19% (14%), sore throat 7% (5%), cough 6% (3%), tiredness 6% (3%), darker skin 4% (0%), dizziness 4% (3%), new or changed moles 4% (2%), in 3 trials with 244 adults through 6 months.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+                "label": "Scenesse (afamelanotide) implant label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "Urticaria, angioedema and anaphylaxis have been reported. People with a history of severe allergy to it must not use it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+                "label": "Scenesse (afamelanotide) implant label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin pigment:",
+            "text": "It may darken the whole skin and existing moles and freckles. The label asks for a full body skin examination twice a year.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+                "label": "Scenesse (afamelanotide) implant label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Other:",
+            "text": "EMA says it must not be used in people with reduced liver or kidney function. US data in pregnancy are lacking.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse",
+                "label": "EMA, Scenesse: EPAR",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+                "label": "Scenesse (afamelanotide) implant label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In rats, it did not affect male fertility. No effects on testosterone or sperm in men are described on the label.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+            "label": "Scenesse (afamelanotide) implant label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "For melanotan II, which is not approved, FDA cites published case reports of melanoma, posterior reversible encephalopathy syndrome, a stimulant-like toxic reaction and priapism.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+            "label": "FDA, Certain bulk drug substances for use in compounding that may present significant safety risks (Category 2 page)",
+            "date": "published Apr 2026"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The UK (MHRA) status of Scenesse could not be confirmed; EMA's Article 57 data list it only under the EU central authorisation, Iceland, Liechtenstein and Norway.",
+    "FDA's 2019 approval letter, review and press release could not be opened; the approval date comes from openFDA Drugs@FDA data.",
+    "Health Canada lists Scenesse as approved, not yet as marketed.",
+    "Results of the smaller afamelanotide trials in other light-related diseases, and of the phase III vitiligo trial, were not reviewed."
+  ],
+  "surprises": [
+    "Australia's Poisons Standard lists \"melanotan I\", a name also used for peptides bought online to tan, as a cross-reference for afamelanotide, the active substance of the approved EPP implant.",
+    "The two EPP trials used different measures, and in the European trial the median added pain-free time in direct sunlight was about 5 hours over 9 months; EMA called the gain small.",
+    "Health Canada's database shows Scenesse approved in July 2026, more than a decade after the EU authorisation."
+  ]
+}

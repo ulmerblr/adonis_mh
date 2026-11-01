@@ -162,6 +162,10 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Spironolactone', page: { href: '/spironolactone', evidence: 'Acne RCTs in women only', fda: 'Approved (Aldactone)', sport: 'Banned' } },
     { name: 'Estriol', page: { href: '/estriol', evidence: '2 small studies in women', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Clascoterone', aka: ['Winlevi', 'CB-03-01', 'Cortexolone 17α-propionate'], page: { href: '/clascoterone', evidence: 'Acne Ph3; hair Ph3 unpubl.', fda: 'Approved (Winlevi)', sport: 'Not listed' } },
+    { name: 'Adapalene', aka: ['Differin', 'Differin XP', 'Differine', 'Epiduo', 'Epiduo Forte', 'Differin Epiduo', 'Cabtreo', 'Tactupump'], page: { href: '/adapalene', evidence: 'Approved; 653-person RCT', fda: 'Approved; OTC 0.1%', sport: 'Not listed' } },
+    { name: 'Afamelanotide', peptide: true, aka: ['Scenesse', 'Melanotan I', 'CUV1647'], page: { href: '/afamelanotide', evidence: '2 phase III RCTs (EPP)', fda: 'Approved (Scenesse)', sport: 'Not listed' } },
+    { name: 'Benzoyl peroxide', aka: ['BPO', 'Epsolay', 'Epiduo', 'Epiduo Forte', 'Differin Epiduo', 'Cabtreo', 'Twyneo', 'Acanya', 'BenzaClin', 'Duac', 'Benzamycin', 'Acnecide', 'Benzac', 'Tactupump'], page: { href: '/benzoyl-peroxide', evidence: 'Cochrane: 120 trials', fda: 'OTC monograph drug', sport: 'Not listed' } },
+    { name: 'Isotretinoin', aka: ['Accutane', 'Absorica', 'Absorica LD', 'Amnesteem', 'Claravis', 'Myorisan', 'Zenatane', 'Sotret', 'Roaccutane', 'Reticutan', 'Epuris', 'Clarus', 'Oratane', '13-cis-retinoic acid'], page: { href: '/isotretinoin', evidence: 'Approved; 925-person RCT', fda: 'Approved (Absorica)', sport: 'Not listed' } },
   ],
   longevity: [
     { name: 'NAD+', page: { href: '/nad', evidence: 'Few small human studies', fda: 'Not approved', sport: 'Not listed' } },
