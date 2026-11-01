@@ -1,0 +1,535 @@
+{
+  "slug": "setmelanotide",
+  "row": "Setmelanotide",
+  "name": "Setmelanotide",
+  "aka": [
+    "Imcivree",
+    "RM-493"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; small trials",
+    "fda": "Approved (Imcivree)",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal and lab work on the MC4 receptor",
+      "status": "done"
+    },
+    {
+      "title": "Rare-gene trials",
+      "line": "POMC and LEPR: 10 and 11 people, open-label",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Imcivree, Nov 2020, POMC, PCSK1, LEPR",
+      "status": "done"
+    },
+    {
+      "title": "BBS trial",
+      "line": "38 people with BBS or Alström syndrome",
+      "status": "done"
+    },
+    {
+      "title": "Hypothalamic obesity trial",
+      "line": "TRANSCEND: 120 people, 52 weeks",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: more uses",
+      "line": "Label now covers BBS and acquired HO",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Setmelanotide is an injected peptide that switches on the melanocortin 4 (MC4) receptor in the brain, which helps control hunger, fullness and energy use. It is sold as Imcivree by Rhythm Pharmaceuticals and injected under the skin once a day.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+            "label": "Imcivree label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is approved only for rare kinds of obesity: obesity caused by certain gene changes (POMC, PCSK1 or LEPR deficiency), Bardet-Biedl syndrome (BBS), and acquired hypothalamic obesity, which follows damage to the brain’s hypothalamus, for example from a tumor. The label says it is not approved for common (polygenic) obesity and would not be expected to help there.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+            "label": "Imcivree label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It also acts weakly on the MC1 receptor in skin pigment cells, which is why it darkens the skin in many people.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+            "label": "Imcivree label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Setmelanotide has been tested in small trials, because the conditions it treats are rare. The trials were paid for by Rhythm Pharmaceuticals. They are listed below as they were run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Seven countries · 2020 · Open-label trials",
+        "title": "POMC and LEPR deficiency (two Phase 3 trials)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-arm, open-label, with a short blinded placebo withdrawal period"
+          },
+          {
+            "k": "People",
+            "v": "10 people with POMC deficiency and 11 with LEPR deficiency, aged 6 and older"
+          },
+          {
+            "k": "What was given",
+            "v": "daily setmelanotide injections"
+          },
+          {
+            "k": "Length",
+            "v": "about 1 year"
+          },
+          {
+            "k": "Measured",
+            "v": "share losing at least 10% of body weight; hunger scores"
+          }
+        ],
+        "found": "8 of 10 people (80%) with POMC deficiency and 5 of 11 (45%) with LEPR deficiency lost at least 10% of their weight. Hunger scores fell. Injection-site reactions and skin darkening were the most common side effects. There was no placebo group for the full year. ClinicalTrials.gov NCT02896192 and NCT03287960.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33137293/",
+            "label": "Clément et al., POMC and LEPR phase 3 trials, Lancet Diabetes Endocrinol",
+            "date": "published Dec 2020"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Five countries · 2022 · Randomized trial",
+        "title": "Bardet-Biedl and Alström syndromes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3: 14 weeks randomized, double-blind, placebo-controlled, then 52 weeks open-label"
+          },
+          {
+            "k": "People",
+            "v": "38 people aged 6 and older with obesity and BBS (32) or Alström syndrome (6)"
+          },
+          {
+            "k": "What was given",
+            "v": "daily setmelanotide up to 3.0 mg or placebo, then setmelanotide for all"
+          },
+          {
+            "k": "Length",
+            "v": "66 weeks in all"
+          },
+          {
+            "k": "Measured",
+            "v": "share of people 12 and older with BBS losing at least 10% of weight after 52 weeks of setmelanotide"
+          }
+        ],
+        "found": "32.3% of people 12 and older with BBS lost at least 10% of their weight. For Alström syndrome, the findings were inconclusive. Skin darkening (61%) and injection-site redness (48%) were the most common side effects. ClinicalTrials.gov NCT03746522.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36356613/",
+            "label": "Haqq et al., Bardet-Biedl and Alström phase 3, Lancet Diabetes Endocrinol",
+            "date": "published Dec 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2026 · Randomized trial",
+        "title": "TRANSCEND: acquired hypothalamic obesity",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized 2:1, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "120 people aged 4 to 66 with obesity after a hypothalamic tumor, lesion or injury"
+          },
+          {
+            "k": "What was given",
+            "v": "daily setmelanotide 1.5 to 3.0 mg or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "52 weeks after dose increases"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in BMI; hunger score"
+          }
+        ],
+        "found": "BMI changed by -16.5% on setmelanotide and +3.3% on placebo. Hunger scores fell more on setmelanotide. Serious side effects happened in 28% on setmelanotide and 8% on placebo. Skin darkening, nausea, vomiting and headache were the most common. ClinicalTrials.gov NCT05774756.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42418774/",
+            "label": "Miller et al., TRANSCEND, N Engl J Med",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05774756",
+            "label": "TRANSCEND trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The FDA label describes the hypothalamic obesity trial with 142 patients analyzed, a larger group than the 120 in the journal report.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+            "label": "Imcivree label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Setmelanotide is FDA approved as Imcivree, first in November 2020, for three rare kinds of obesity. It is not approved for common obesity. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Imcivree, first approved 2020:",
+            "text": "approved to reduce excess weight and keep it off in people 2 and older with obesity from POMC, PCSK1 or LEPR deficiency confirmed by a gene test, or from Bardet-Biedl syndrome, and in people 4 and older with acquired hypothalamic obesity.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213793",
+                "label": "Drugs@FDA (openFDA): Imcivree, NDA 213793",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Later approvals:",
+            "text": "Drugs@FDA lists efficacy supplements approved in 2022, 2024 and March 2026; the current label adds BBS and acquired hypothalamic obesity to the first gene-based uses.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213793",
+                "label": "Drugs@FDA (openFDA): Imcivree, NDA 213793",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "the label says it is not approved for common (polygenic) obesity or other genetic syndromes. Any such use is off-label, and the label says it would not be expected to help.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded drugs:",
+            "text": "compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Imcivree is approved only for rare, specific causes of obesity. It is not approved for common obesity."
+      }
+    ],
+    "world": {
+      "lead": "Setmelanotide is approved in the US, the EU and Canada, and has a UK marketing authorisation, for rare genetic and hypothalamic obesity. It is not named on WADA’s list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Imcivree) for obesity from POMC, PCSK1 or LEPR deficiency, Bardet-Biedl syndrome, or acquired hypothalamic obesity. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+              "label": "Imcivree label, DailyMed",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213793",
+              "label": "Drugs@FDA (openFDA): Imcivree, NDA 213793",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Authorised medicine (Imcivree, 2021), an orphan medicine, for POMC/PCSK1/LEPR deficiency and Bardet-Biedl syndrome. The current EU indication also covers acquired hypothalamic obesity.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imcivree",
+              "label": "Imcivree EPAR, EMA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Imcivree (Rhythm Pharmaceuticals) is listed in Health Canada’s Drug Product Database, marketed since 2023.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=imcivree&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Imcivree",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=102647&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Imcivree status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "NICE reports that Imcivree has a UK marketing authorisation for POMC/PCSK1 or LEPR deficiency in people 6 and older (2022). An MHRA record was not opened.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.nice.org.uk/guidance/hst21/chapter/2-Information-about-setmelanotide",
+              "label": "NICE HST21: Setmelanotide for obesity caused by LEPR or POMC deficiency",
+              "date": "published Jul 2022"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information found in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=setmelanotide",
+              "label": "TGA product information search for 'setmelanotide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Setmelanotide is not named on the WADA 2026 Prohibited List or the 2027 Monitoring Program. Because it is approved, the List’s S0 class for unapproved drugs does not apply.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The Imcivree label has no boxed warning. It warns about sexual side effects, depression, serious allergy and skin darkening, and about hormone and salt problems in people with hypothalamic obesity."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Sexual effects in men:",
+            "text": "spontaneous erections and more frequent erections happened in trials. The label says an erection lasting more than 4 hours needs emergency care. Women had sexual side effects too.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Depression and suicidal thoughts:",
+            "text": "have occurred. The label advises watching for new or worse depression.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Skin darkening and moles:",
+            "text": "most people in trials had darker skin, which reverses after stopping. Existing moles can darken and new ones can appear; the label calls for full skin checks before and during treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Serious allergy:",
+            "text": "anaphylaxis has been reported, usually within minutes to hours of an injection.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Hypothalamic obesity:",
+            "text": "serious events of acute adrenal insufficiency were reported in 5% on Imcivree and none on placebo. In people who also had central diabetes insipidus, low and high blood sodium were reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Most common (20% or more in at least one use):",
+            "text": "skin darkening, injection-site reactions, nausea, headache, diarrhea, belly pain, vomiting, depression and spontaneous penile erection.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "the label says to stop Imcivree when pregnancy is recognized unless the benefit outweighs the risk to the fetus.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+                "label": "Imcivree label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The UK status comes from NICE guidance, not an MHRA record; whether the UK authorisation now covers Bardet-Biedl syndrome or hypothalamic obesity was not checked.",
+    "Which specific use each 2022, 2024 and 2026 FDA supplement added was not confirmed from FDA approval letters.",
+    "Australia’s ARTG was not searched directly; only TGA’s product information database was."
+  ],
+  "surprises": [
+    "Setmelanotide’s US label says it is approved only for rare causes of obesity and would not be expected to help in common obesity."
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "slug": "liraglutide",
+  "row": "Liraglutide",
+  "name": "Liraglutide",
+  "aka": [
+    "Saxenda",
+    "Victoza",
+    "Xultophy",
+    "Lobezyl",
+    "NN8022"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; large RCTs",
+    "fda": "Approved (Saxenda)",
+    "sport": "Not prohibited"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and mouse studies, incl. thyroid C-cell tumors",
+      "status": "done"
+    },
+    {
+      "title": "Diabetes trials",
+      "line": "LEADER: 9,340 people, median 3.8 years",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: diabetes",
+      "line": "Victoza, 2010, type 2 diabetes",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials",
+      "line": "SCALE: 3,731 adults, 56 weeks",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: weight",
+      "line": "Saxenda, 2014, weight management",
+      "status": "done"
+    },
+    {
+      "title": "Generics",
+      "line": "Generics since Dec 2024; on FDA shortage list",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Liraglutide is a man-made version of GLP-1, a hormone the gut releases after eating. The Saxenda label says it shares 97% of its sequence with human GLP-1. A fatty acid is attached so it lasts longer in the body: its half-life is about 13 hours, so it is injected once a day. It switches on the GLP-1 receptor, and the label says it lowers body weight by lowering how many calories people eat. It does not raise the energy the body burns over 24 hours.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+            "label": "Saxenda label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In animal studies, liraglutide reached brain areas that control appetite, including the hypothalamus. That finding comes from animals.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+            "label": "Saxenda label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The FDA-approved brands are Victoza, for type 2 diabetes, and Saxenda, for weight management. Both are made by Novo Nordisk and given by injection under the skin. Xultophy combines liraglutide with insulin degludec. FDA has also approved generic liraglutide.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+            "label": "Victoza label, DailyMed",
+            "date": "published Oct 2025"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+            "label": "Saxenda label, DailyMed",
+            "date": "published Feb 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:liraglutide",
+            "label": "Drugs@FDA (openFDA) search for 'liraglutide'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Liraglutide has been tested in large randomized trials paid for by its maker, Novo Nordisk. Two are listed below as they were run: the main weight trial behind Saxenda and the heart-outcome trial behind Victoza’s heart use."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2015 · Randomized trial",
+        "title": "SCALE Obesity and Prediabetes: weight in adults without diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled. Two people got liraglutide for every one on placebo."
+          },
+          {
+            "k": "People",
+            "v": "3,731 adults with a BMI of 30 or more, or 27 or more with treated or untreated high blood fats or high blood pressure. None had type 2 diabetes; 61.2% had prediabetes. 78.5% were women."
+          },
+          {
+            "k": "What was given",
+            "v": "a daily 3.0 mg liraglutide injection or placebo, both with lifestyle counseling"
+          },
+          {
+            "k": "Length",
+            "v": "56 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in body weight, and how many people lost at least 5% and more than 10%"
+          }
+        ],
+        "found": "At 56 weeks, people on liraglutide had lost an average of 8.4 kg and people on placebo 2.8 kg. 63.2% on liraglutide and 27.1% on placebo lost at least 5% of their weight; 33.1% and 10.6% lost more than 10%. Nausea and diarrhea were the most common side effects. Serious events happened in 6.2% on liraglutide and 5.0% on placebo. ClinicalTrials.gov NCT01272219.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26132939/",
+            "label": "Pi-Sunyer et al., SCALE Obesity and Prediabetes, N Engl J Med",
+            "date": "published Jul 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01272219",
+            "label": "SCALE Obesity and Prediabetes trial record, ClinicalTrials.gov",
+            "date": "updated Jan 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2016 · Randomized trial",
+        "title": "LEADER: heart outcomes in type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled. Built first to show liraglutide did not raise heart risk."
+          },
+          {
+            "k": "People",
+            "v": "9,340 adults with type 2 diabetes and high heart risk"
+          },
+          {
+            "k": "What was given",
+            "v": "liraglutide (1.8 mg in the label’s description) or placebo, on top of standard care"
+          },
+          {
+            "k": "Length",
+            "v": "median follow-up 3.8 years"
+          },
+          {
+            "k": "Measured",
+            "v": "first heart-related death, non-fatal heart attack or non-fatal stroke, counted together"
+          }
+        ],
+        "found": "The combined outcome happened in 13.0% on liraglutide and 14.9% on placebo (hazard ratio 0.87). Heart-related deaths were 4.7% and 6.0%. Stomach and bowel effects were the most common reason people stopped liraglutide. ClinicalTrials.gov NCT01179048.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27295427/",
+            "label": "Marso et al., LEADER, N Engl J Med",
+            "date": "published Jul 2016"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+            "label": "Saxenda label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The Saxenda label describes two more 56-week weight trials: one in 635 adults with type 2 diabetes, where average weight changed by -5.4% on Saxenda and -1.7% on placebo, and one in 422 adults who had first lost at least 5% on a low-calorie diet, where weight changed by a further -4.9% on Saxenda and +0.3% on placebo. In the 56-week trials, about 10% on Saxenda and 4% on placebo stopped because of side effects.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+            "label": "Saxenda label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats and mice, liraglutide caused thyroid C-cell tumors, including cancers, at exposures similar to those in people. This is the basis of the boxed warning below.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+            "label": "Saxenda label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Liraglutide is FDA approved as Victoza (type 2 diabetes, 2010) and Saxenda (weight management, 2014), and as generics. FDA’s shortage records still list liraglutide injection as in shortage. Compounded liraglutide is not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Victoza, first approved 2010:",
+            "text": "approved, with diet and exercise, to improve blood sugar control in adults and children 10 and older with type 2 diabetes, and to lower the risk of major heart events in adults with type 2 diabetes and heart disease.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+                "label": "Victoza label, DailyMed",
+                "date": "published Oct 2025"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:liraglutide",
+                "label": "Drugs@FDA (openFDA) search for 'liraglutide'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Saxenda, first approved 2014:",
+            "text": "approved, with a reduced-calorie diet and more physical activity, to reduce excess weight and keep it off in adults with obesity, adults with overweight and at least one weight-related condition, and children 12 and older who weigh more than 60 kg and have obesity.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:liraglutide",
+                "label": "Drugs@FDA (openFDA) search for 'liraglutide'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Generics:",
+            "text": "FDA records list generic liraglutide approved since December 2024. Some generic labels match Victoza’s diabetes uses; others match Saxenda’s weight use.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:liraglutide",
+                "label": "Drugs@FDA (openFDA) search for 'liraglutide'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "Victoza is approved for type 2 diabetes, not for weight management. Using it for weight loss is off-label. The Saxenda label says the benefit of liraglutide below 3 mg a day for weight reduction has not been established.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+                "label": "Victoza label, DailyMed",
+                "date": "published Oct 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Shortage and compounding"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Shortage:",
+            "text": "FDA’s shortage records list liraglutide injection as a current shortage, first posted July 18, 2023. In September 2026 updates, Victoza and Saxenda pens were listed as having limited availability, and some generic versions as available.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/shortages.json?search=generic_name:liraglutide&limit=20",
+                "label": "FDA drug shortage records for liraglutide injection (openFDA)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Saxenda discontinuation:",
+            "text": "an August 2026 shortage record says Saxenda will be available until it is discontinued in January 2027.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/shortages.json?search=generic_name:liraglutide&limit=20",
+                "label": "FDA drug shortage records for liraglutide injection (openFDA)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding during a shortage:",
+            "text": "FDA says pharmacies may compound versions of a drug on its shortage list if the compounded drug meets conditions set in federal law. Compounded versions are still not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Unapproved versions:",
+            "text": "FDA says unapproved versions of GLP-1 drugs do not go through its review for safety, effectiveness and quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded liraglutide is not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Liraglutide is an approved, prescription medicine in the US, Canada, the UK, the EU and Australia. Which brand is approved for which use differs by country. It is not prohibited in sport.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Victoza for type 2 diabetes; Saxenda for weight management; generics). Prescription-only. Compounded versions are not FDA approved.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+              "label": "Victoza label, DailyMed",
+              "date": "published Oct 2025"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+              "label": "Saxenda label, DailyMed",
+              "date": "published Feb 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:liraglutide",
+              "label": "Drugs@FDA (openFDA) search for 'liraglutide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Victoza (marketed since 2010) and Saxenda (marketed since 2015), from Novo Nordisk Canada, are listed in Health Canada’s Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=victoza&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Victoza",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=saxenda&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Saxenda",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=83627&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Victoza status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=92226&lang=en&type=json",
+              "label": "Health Canada Drug Product Database: Saxenda status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Licensed medicine. MHRA lists liraglutide among licensed GLP-1 medicines and says its approved uses are brand-specific.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/publications/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know/glp-1-medicines-for-weight-loss-and-diabetes-what-you-need-to-know",
+              "label": "MHRA: GLP-1 medicines for weight loss and diabetes, what you need to know",
+              "date": "published Feb 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Authorised medicine: Victoza (2009) for type 2 diabetes; Saxenda (2015) for weight management. EMA lists further liraglutide medicines authorised in July 2026.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/victoza",
+              "label": "Victoza EPAR, EMA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/saxenda",
+              "label": "Saxenda EPAR, EMA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Product information for Saxenda, Lobezyl and generic liraglutide is in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=liraglutide",
+              "label": "TGA product information search for 'liraglutide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "The WADA 2026 Prohibited List does not name liraglutide or GLP-1 drugs. USADA says GLP-1 medicines are not prohibited in sport and need no therapeutic use exemption. WADA’s 2027 Monitoring Program, which tracks use without banning, names only semaglutide and tirzepatide among GLP-1 drugs.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.usada.org/spirit-of-sport/weight-loss-drugs-glp-1s/",
+              "label": "USADA: Weight loss drugs, what athletes need to know about GLP-1s",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Every liraglutide label has a boxed warning, FDA’s strongest kind, about thyroid C-cell tumors. The most common side effects are stomach and bowel effects. The labels list other serious risks, below."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Boxed warning, thyroid tumors:",
+            "text": "in rats and mice, liraglutide caused thyroid C-cell tumors. It is not known if it causes them in people. Cases of medullary thyroid cancer have been reported in people using liraglutide since approval, but the label says the reports cannot show whether liraglutide caused them. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+                "label": "Victoza label, DailyMed",
+                "date": "published Oct 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pancreatitis:",
+            "text": "inflammation of the pancreas, including fatal and bleeding or dead-tissue forms, has been seen with GLP-1 medicines including liraglutide.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Gallbladder disease:",
+            "text": "in Saxenda trials, gallstones were reported in 2.2% on Saxenda and 0.8% on placebo, and gallbladder inflammation in 0.8% and 0.4%. Most people with these events needed gallbladder surgery.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Heart rate:",
+            "text": "resting heart rate rose by an average of 2 to 3 beats per minute compared with placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Kidney injury:",
+            "text": "there are reports of sudden kidney injury, some needing dialysis, mostly in people who became dehydrated from nausea, vomiting or diarrhea.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Severe stomach and bowel effects:",
+            "text": "reported in 4.8% on Saxenda and 1.4% on placebo in trials.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood sugar:",
+            "text": "the risk is higher when liraglutide is used with insulin or drugs that raise insulin release.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "serious reactions, including anaphylaxis and swelling under the skin (angioedema), have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Anesthesia:",
+            "text": "liraglutide slows stomach emptying. There are rare reports of stomach contents entering the lungs during general anesthesia or deep sedation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "the Saxenda label says weight loss offers no benefit in pregnancy and may harm the fetus, and to stop Saxenda when pregnancy is recognized.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Most common (5% or more, Saxenda):",
+            "text": "nausea, diarrhea, constipation, vomiting, injection site reactions, headache, low blood sugar, indigestion, tiredness, dizziness, belly pain, raised lipase, fever and stomach flu.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Label change:",
+            "text": "the February 2026 Saxenda label removed its warning section on suicidal behavior and ideation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+                "label": "Saxenda label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA’s own web pages were not opened, so approval years come from FDA’s Drugs@FDA dataset served through openFDA and from the labels.",
+    "The approved uses of Victoza and Saxenda in Canada were not checked; only their listing in the Drug Product Database was.",
+    "The approved uses of each liraglutide product in Australia and the UK were not checked one by one.",
+    "Whether any compounded liraglutide is being made under the shortage rules was not checked."
+  ],
+  "surprises": [
+    "FDA’s shortage records still list liraglutide injection as a current shortage in October 2026, unlike semaglutide and tirzepatide, whose shortages FDA declared resolved.",
+    "The maker plans to stop Saxenda in January 2027, according to FDA’s shortage record, while generic weight-management liraglutide is FDA approved.",
+    "The Saxenda label removed its warning on suicidal behavior and ideation in February 2026."
+  ]
+}

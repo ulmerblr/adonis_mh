@@ -1,0 +1,528 @@
+{
+  "slug": "tesofensine",
+  "row": "Tesofensine",
+  "name": "Tesofensine",
+  "aka": [
+    "NS2330",
+    "NS 2330",
+    "Tesomet"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Phase 2 trials",
+    "fda": "Not approved",
+    "sport": "Banned in-comp."
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat studies of appetite and weight",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Abuse-potential study in 52 stimulant users",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "203 adults, 24 weeks, Denmark (Lancet 2008)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "None found on ClinicalTrials.gov",
+      "status": "not"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Not confirmed from a regulator record",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Tesofensine is a small-molecule drug taken by mouth, not a peptide. It blocks the reuptake of three brain chemicals: noradrenaline, dopamine and serotonin. That makes it a \"triple reuptake inhibitor\".",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18950853/",
+            "label": "Astrup et al., tesofensine phase 2, Lancet",
+            "date": "published Nov 2008"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It was first tested for Parkinson’s disease and Alzheimer’s disease. Weight loss in those trials led to its testing for obesity. Tesomet is a combination of tesofensine with metoprolol, a heart-rate-lowering drug, tested in rare forms of obesity.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18356831/",
+            "label": "Astrup et al., weight loss in Parkinson and Alzheimer trials, Obesity",
+            "date": "published Jun 2008"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35294397/",
+            "label": "Huynh et al., Tesomet in hypothalamic obesity, Eur J Endocrinol",
+            "date": "published May 2022"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is not approved in the US, the EU, Canada or Australia as far as the search found.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:tesofensine",
+            "label": "Drugs@FDA (openFDA) search for 'tesofensine'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+            "label": "EMA medicines data (all centrally evaluated medicines)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The published human evidence is a handful of Phase 2 and smaller studies. There is no published Phase 3 trial in PubMed or on ClinicalTrials.gov. The main studies are listed below as they were run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Denmark · 2008 · Randomized trial",
+        "title": "Phase 2: weight in adults with obesity",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, five Danish obesity centers"
+          },
+          {
+            "k": "People",
+            "v": "203 adults with a BMI of 30 to 40, all on a reduced-calorie diet"
+          },
+          {
+            "k": "What was given",
+            "v": "daily tesofensine 0.25, 0.5 or 1.0 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight"
+          }
+        ],
+        "found": "Weight fell by 2.0% on placebo and 4.5%, 9.2% and 10.6% on the three tesofensine doses. 79% finished the study. Dry mouth, nausea, constipation, diarrhea and trouble sleeping were the most common side effects. Heart rate rose by 7.4 beats per minute on 0.5 mg. The authors said the findings needed confirming in Phase 3. In 2013, The Lancet published an expression of concern about this paper, and the authors replied in a letter titled \"Under-reporting of adverse effects of tesofensine\". ClinicalTrials.gov NCT00394667.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18950853/",
+            "label": "Astrup et al., tesofensine phase 2, Lancet",
+            "date": "published Nov 2008"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23561987/",
+            "label": "Lancet: Expression of concern on the 2008 tesofensine trial",
+            "date": "published Apr 2013"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23849924/",
+            "label": "Astrup et al., Under-reporting of adverse effects of tesofensine, Lancet",
+            "date": "published Jul 2013"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00394667",
+            "label": "Tesofensine phase 2 obesity trial record, ClinicalTrials.gov",
+            "date": "updated Apr 2013"
+          }
+        ],
+        "badge": "Expression of concern"
+      },
+      {
+        "t": "study",
+        "meta": "2022 · Randomized trial",
+        "title": "Tesomet in hypothalamic obesity",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "21 adults with hypothalamic obesity (16 women)"
+          },
+          {
+            "k": "What was given",
+            "v": "tesofensine 0.5 mg with metoprolol 50 mg, or placebo, with diet advice"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "safety (main goal); weight, appetite and quality of life"
+          }
+        ],
+        "found": "18 people finished. Compared with placebo, weight changed by a further -6.3%. One person had a serious worsening of anxiety linked to the drug and stopped. Sleep problems (50% vs 13%), dry mouth (43% vs 0%) and headache (36% vs 0%) were more common on Tesomet. Heart rate and blood pressure did not differ between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35294397/",
+            "label": "Huynh et al., Tesomet in hypothalamic obesity, Eur J Endocrinol",
+            "date": "published May 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 2010 · Randomized crossover trial",
+        "title": "Abuse potential in recreational stimulant users",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-dose, randomized, double-blind, crossover"
+          },
+          {
+            "k": "People",
+            "v": "52 recreational stimulant users"
+          },
+          {
+            "k": "What was given",
+            "v": "tesofensine, placebo, d-amphetamine, bupropion or atomoxetine, one at a time"
+          },
+          {
+            "k": "Length",
+            "v": "48 hours after each dose"
+          },
+          {
+            "k": "Measured",
+            "v": "drug liking and other abuse-related effects"
+          }
+        ],
+        "found": "Tesofensine’s effects did not differ from placebo on the main measures and were lower than d-amphetamine’s. The authors concluded its abuse potential was no greater than that of bupropion or atomoxetine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20520602/",
+            "label": "Schoedel et al., abuse-potential study, Clin Pharmacol Ther",
+            "date": "published Jul 2010"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A pooled analysis of 4 trials, each 14 weeks long, in Parkinson’s and Alzheimer’s disease (740 people on tesofensine, 228 on placebo, no diet program) found weight changes of -0.5% to -2.8% on tesofensine, depending on dose, versus +0.5% on placebo. Heart rate rose by up to 6.8 beats per minute; blood pressure did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18356831/",
+            "label": "Astrup et al., weight loss in Parkinson and Alzheimer trials, Obesity",
+            "date": "published Jun 2008"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2007 to 2008 long-term safety study of tesofensine in 140 people with obesity is listed as completed on ClinicalTrials.gov. The search found no journal report of its results.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00481104",
+            "label": "Tesofensine long-term safety trial record, ClinicalTrials.gov",
+            "date": "updated Jul 2011"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tesofensine",
+            "label": "PubMed search for 'tesofensine'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In diet-induced obese rats, 14 days of tesofensine lowered food intake and body weight and changed dopamine levels in brain reward areas. Those findings come from animals.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23932919/",
+            "label": "Tesofensine in diet-induced obese rats, Pharmacol Biochem Behav",
+            "date": "published Sep 2013"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Tesofensine is not FDA approved for any use. As of November 1, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Drugs@FDA has no record of an approved tesofensine product.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:tesofensine",
+            "label": "Drugs@FDA (openFDA) search for 'tesofensine'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Compounded drugs:",
+            "text": "compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Tesofensine is not FDA approved, and no Phase 3 trial has been published."
+      }
+    ],
+    "world": {
+      "lead": "Tesofensine is not approved in the US, Canada, the EU or Australia as far as the search found. Reports of approval in Mexico could not be confirmed from a regulator record. In sport it is a named, banned stimulant in competition.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:tesofensine",
+              "label": "Drugs@FDA (openFDA) search for 'tesofensine'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not in Health Canada’s Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json",
+              "label": "Health Canada Drug Product Database, active ingredient list",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not in EMA’s list of centrally evaluated medicines.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information found in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=tesofensine",
+              "label": "TGA product information search for 'tesofensine'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Mexico",
+          "regulator": "COFEPRIS",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "484"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "The WADA 2026 Prohibited List names tesofensine in class S6.B, specified stimulants, which are prohibited in competition. The 2027 List still names it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no approved label for tesofensine. The side effects below come from the published trials."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Heart rate:",
+            "text": "rose by 7.4 beats per minute on 0.5 mg in the 2008 trial. Tesomet adds metoprolol to lower heart rate.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18950853/",
+                "label": "Astrup et al., tesofensine phase 2, Lancet",
+                "date": "published Nov 2008"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35294397/",
+                "label": "Huynh et al., Tesomet in hypothalamic obesity, Eur J Endocrinol",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Common effects:",
+            "text": "dry mouth, nausea, constipation, hard stools, diarrhea and trouble sleeping in the 2008 trial; sleep problems, dry mouth and headache in the Tesomet trial.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18950853/",
+                "label": "Astrup et al., tesofensine phase 2, Lancet",
+                "date": "published Nov 2008"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35294397/",
+                "label": "Huynh et al., Tesomet in hypothalamic obesity, Eur J Endocrinol",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Mood:",
+            "text": "one person in the Tesomet trial had a serious worsening of anxiety linked to treatment.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35294397/",
+                "label": "Huynh et al., Tesomet in hypothalamic obesity, Eur J Endocrinol",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Reporting concerns:",
+            "text": "The Lancet published an expression of concern about the 2008 trial in 2013; the authors’ reply is titled \"Under-reporting of adverse effects of tesofensine\".",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23561987/",
+                "label": "Lancet: Expression of concern on the 2008 tesofensine trial",
+                "date": "published Apr 2013"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23849924/",
+                "label": "Astrup et al., Under-reporting of adverse effects of tesofensine, Lancet",
+                "date": "published Jul 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Reports that Mexico’s regulator (COFEPRIS) approved tesofensine could not be confirmed from a COFEPRIS record.",
+    "The reasons The Lancet gave in its 2013 expression of concern could not be read; only the notice and the authors’ reply title were confirmed.",
+    "The UK status could not be checked from an MHRA record.",
+    "Results of the long-term safety study (NCT00481104) were not found."
+  ],
+  "surprises": [
+    "The Lancet placed an expression of concern on the main published tesofensine weight trial in 2013, and the authors’ reply is titled \"Under-reporting of adverse effects of tesofensine\".",
+    "WADA names tesofensine as a banned stimulant in competition, next to sibutramine."
+  ]
+}

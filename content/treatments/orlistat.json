@@ -1,0 +1,560 @@
+{
+  "slug": "orlistat",
+  "name": "Orlistat",
+  "row": "Orlistat",
+  "aka": [
+    "Xenical",
+    "Alli"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; 4-year RCT",
+    "fda": "Approved (Xenical)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Blocks gut lipases that digest dietary fat",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "2-year European trial, 743 adults (1998)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: Rx",
+      "line": "Xenical 120 mg, 1999",
+      "status": "done"
+    },
+    {
+      "title": "Long-term trial",
+      "line": "XENDOS: 3,305 adults, 4 years",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: OTC",
+      "line": "Alli 60 mg, 2007, without prescription",
+      "status": "done"
+    },
+    {
+      "title": "Approved, Rx and OTC",
+      "line": "Xenical by prescription; Alli over the counter",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Orlistat is a weight-loss drug that acts in the gut. It is sold by prescription as Xenical (120 mg) and over the counter as Alli (60 mg).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+            "label": "Xenical label, DailyMed",
+            "date": "published Jan 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+            "label": "Alli Drug Facts label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Orlistat binds to and switches off lipases, the enzymes in the stomach and small intestine that break down dietary fat. Undigested fat is not absorbed and passes out in the stool. This lowers the calories taken in.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "text": "Because it acts in the gut, its main side effects are bowel changes, and it can lower absorption of fat-soluble vitamins.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Orlistat has randomized trials lasting up to 4 years. In them, people on orlistat plus diet lost a few kilograms more than people on diet alone, and many people did not finish."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Europe · 1998 · Randomized trial",
+        "title": "Orlistat for weight loss and regain, 743 adults, 2 years (Sjöström et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial at 15 European centres"
+          },
+          {
+            "k": "People",
+            "v": "743 obese adults (BMI 28 to 47) on a calorie-deficit diet; 688 entered treatment"
+          },
+          {
+            "k": "Length",
+            "v": "4-week lead-in, then 1 year of weight loss and 1 year of maintenance"
+          },
+          {
+            "k": "What was given",
+            "v": "orlistat 120 mg 3 times a day or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "weight change; cholesterol; glucose; side effects"
+          }
+        ],
+        "found": "In year 1, people lost 10.2% of body weight on orlistat and 6.1% on placebo. In year 2, those who stayed on orlistat regained about half as much as those switched to placebo. Gut side effects were more common on orlistat.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9683204/",
+            "label": "Sjöström L, et al. Lancet 1998",
+            "date": "published Jul 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Sweden · 2004 · Randomized trial",
+        "title": "Orlistat to prevent type 2 diabetes, 3,305 adults, 4 years (XENDOS)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial; all had lifestyle changes"
+          },
+          {
+            "k": "People",
+            "v": "3,305 adults with BMI 30 or more; 21% had impaired glucose tolerance"
+          },
+          {
+            "k": "Length",
+            "v": "4 years"
+          },
+          {
+            "k": "What was given",
+            "v": "orlistat 120 mg or placebo 3 times a day"
+          },
+          {
+            "k": "Measured",
+            "v": "time to type 2 diabetes; weight change"
+          }
+        ],
+        "found": "52% on orlistat and 34% on placebo completed treatment. Diabetes developed in 6.2% on orlistat and 9.0% on placebo; the difference was seen only in people with impaired glucose tolerance. Mean weight loss after 4 years was 5.8 kg vs 3.0 kg.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14693982/",
+            "label": "Torgerson JS, et al. Diabetes Care 2004 (XENDOS)",
+            "date": "published Jan 2004"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Orlistat is FDA approved. Xenical 120 mg (1999) is prescription-only, for obesity with a reduced-calorie diet. Alli 60 mg (2007) is sold over the counter to overweight adults. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Xenical:",
+            "text": "approved April 23, 1999 as a new molecular entity (NDA 020766). Approved for obesity management, including weight loss and keeping weight off, with a reduced-calorie diet, in people with a BMI of 30 or more, or 27 or more with other risk factors such as high blood pressure, diabetes or high blood fats.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020766",
+                "label": "Drugs@FDA data (openFDA), NDA 020766",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Alli:",
+            "text": "approved February 7, 2007 (NDA 021887) and listed as over-the-counter. Its label is for weight loss in overweight adults 18 and older, with a reduced-calorie, low-fat diet.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021887",
+                "label": "Drugs@FDA data (openFDA), NDA 021887",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Who must not use it:",
+            "text": "Xenical must not be used in pregnancy, with chronic malabsorption, or with cholestasis. Alli must not be used after an organ transplant, with cyclosporine, or by people who are not overweight.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled status:",
+            "text": "orlistat is not a controlled substance.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Orlistat is an approved medicine in the US, Canada, the UK, the EU and Australia. In the US, the EU and the UK the 60 mg strength is sold without a prescription; in Australia lower-strength packs are pharmacist-only. It is not on WADA's list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Xenical 120 mg (1999), prescription-only; Alli 60 mg (2007), over the counter.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020766",
+              "label": "Drugs@FDA data (openFDA), NDA 020766",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021887",
+              "label": "Drugs@FDA data (openFDA), NDA 021887",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: Xenical, marketed since 1999. Prescription-only. No other orlistat product is listed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=ORLISTAT",
+              "label": "Drug Product Database, Health Canada (orlistat)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=63865",
+              "label": "Drug Product Database status, Health Canada (Xenical)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=63865",
+              "label": "Drug Product Database schedule, Health Canada (Xenical)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine: Xenical 120 mg is prescription-only; Alli 60 mg is sold without a prescription under a pharmacist's supervision.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/orlistat-safety-update",
+              "label": "MHRA Drug Safety Update, orlistat",
+              "date": "published Dec 2014"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine: Xenical authorised July 29, 1998 (prescription); Alli authorised July 22, 2007 (no prescription needed).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xenical",
+              "label": "EMA, Xenical EPAR",
+              "date": "published May 2023"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alli",
+              "label": "EMA, Alli EPAR",
+              "date": "published Dec 2024"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Xenical and other orlistat brands. Oral weight-control products of 120 mg or less per dose are pharmacist-only (Schedule 3); others are prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=orlistat",
+              "label": "TGA, PI/CMI search: orlistat",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union: EMA says Xenical treatment should stop after 12 weeks if a person has not lost at least 5% of body weight, and that Alli should not be taken for more than 6 months.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alli",
+              "label": "EMA, Alli EPAR",
+              "date": "published Dec 2024"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "United Kingdom: a 2014 MHRA safety update said a Europe-wide review brought Alli's safety information in line with Xenical's, including rare oxalate kidney damage, and reviewed reports of liver injury.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/orlistat-safety-update",
+              "label": "MHRA Drug Safety Update, orlistat",
+              "date": "published Dec 2014"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Orlistat is not named on the WADA 2026 Prohibited List or the 2027 List, and it is approved, so class S0 does not apply.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Most side effects are in the gut: oily spotting, gas with discharge, urgency, oily stools and sometimes loss of bowel control. Rare serious effects include severe liver injury and kidney damage from oxalate."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Gut:",
+            "text": "in year 1 of trials, oily spotting 26.6% vs 1.3% on placebo, gas with discharge 23.9%, urgent need to pass stool 22.1%, fatty or oily stool 20.0%, oily evacuation 11.9%, more frequent bowel movements 10.8%, and loss of bowel control 7.7%. These usually began in the first 3 months; about half of episodes lasted under a week.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Liver:",
+            "text": "rare reports of severe liver injury, including liver failure, some leading to transplant or death.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Kidneys:",
+            "text": "orlistat can raise oxalate in the urine and cause kidney stones or kidney damage.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Gallstones:",
+            "text": "in the 4-year diabetes trial, gallstones were reported in 2.9% on orlistat and 1.8% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Vitamins:",
+            "text": "it lowers absorption of some vitamins; the labels advise a multivitamin, taken at a different time from orlistat.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Drug interactions:",
+            "text": "it can interact with cyclosporine, blood thinners, levothyroxine, anti-seizure drugs, amiodarone, diabetes medicines and HIV medicines.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e",
+                "label": "Xenical label, DailyMed",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f",
+                "label": "Alli Drug Facts label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Whether Alli or other non-prescription orlistat is sold in Canada was not confirmed; Health Canada's database lists only Xenical."
+  ],
+  "surprises": []
+}

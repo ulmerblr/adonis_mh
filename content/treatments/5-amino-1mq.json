@@ -1,0 +1,613 @@
+{
+  "slug": "5-amino-1mq",
+  "name": "5-amino-1MQ",
+  "row": "5-amino-1MQ",
+  "aka": [
+    "5-amino-1-methylquinolinium",
+    "5-AMQ",
+    "5A1MQ",
+    "5MQ"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Animal and cell only",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat and cell studies, 2018 to 2024",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published human studies found",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; not FDA approved",
+      "status": "started",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "5-amino-1MQ (5-amino-1-methylquinolinium) is a small molecule, not a peptide. It blocks an enzyme called nicotinamide N-methyltransferase (NNMT). Researchers at the University of Texas Medical Branch developed this class of NNMT blockers, and a company founded by one of them, Ridgeline Therapeutics, has studied it in mice.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29155147/",
+            "label": "Neelakantan H, et al. Biochem Pharmacol 2018",
+            "date": "published Jan 2018"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35013352/",
+            "label": "Dimet-Wiley A, et al. Sci Rep 2022",
+            "date": "published Jan 2022"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39161060/",
+            "label": "Babula JJ, et al. Diabetes Obes Metab 2024",
+            "date": "published Nov 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NNMT adds a methyl group to nicotinamide, a form of vitamin B3; it is raised in fat and muscle in some diseases. In fat cells grown in the lab, NNMT blockers lowered the enzyme's product (1-MNA), raised NAD+ and SAM, and reduced fat build-up.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29155147/",
+                "label": "Neelakantan H, et al. Biochem Pharmacol 2018",
+                "date": "published Jan 2018"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34304009/",
+                "label": "Awosemo O, et al. J Pharm Biomed Anal 2021",
+                "date": "published Sep 2021"
+              }
+            ]
+          },
+          {
+            "text": "In the 2018 study, the blockers did not inhibit related enzymes tested, and passed through cell layers in lab tests.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29155147/",
+                "label": "Neelakantan H, et al. Biochem Pharmacol 2018",
+                "date": "published Jan 2018"
+              }
+            ]
+          },
+          {
+            "text": "In mice given it under the skin, it reached fat, muscle and liver.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39161060/",
+                "label": "Babula JJ, et al. Diabetes Obes Metab 2024",
+                "date": "published Nov 2024"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these effects has been measured in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No published human studies found as of November 1, 2026. Every study found was in mice, rats or cells, and most came from the group that developed it. ClinicalTrials.gov lists no trial."
+      },
+      {
+        "t": "p",
+        "text": "PubMed searches for its chemical name returned 3 papers, none in people, and a search for '5-amino-1MQ' returned none. ClinicalTrials.gov searches for both names returned no trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=5-amino-1-methylquinolinium",
+            "label": "PubMed search for '5-amino-1-methylquinolinium'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=5-amino-1MQ",
+            "label": "PubMed search for '5-amino-1MQ'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=5-amino-1-methylquinolinium",
+            "label": "ClinicalTrials.gov search for '5-amino-1-methylquinolinium'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=5-amino-1MQ",
+            "label": "ClinicalTrials.gov search for '5-amino-1MQ'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2018 · Animal and cell study",
+        "title": "NNMT blockers in obese mice and fat cells (Neelakantan et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "lab tests of a series of methylquinolinium NNMT blockers, then an animal study of a potent one"
+          },
+          {
+            "k": "Animals",
+            "v": "mice made obese on a high-fat diet"
+          },
+          {
+            "k": "Measured",
+            "v": "body weight, white fat mass, fat-cell size, cholesterol, food intake"
+          }
+        ],
+        "found": "The blocker lowered body weight, white fat mass, fat-cell size and total cholesterol. Food intake did not change, and no adverse effects were seen. The abstract does not name the exact compound tested in mice.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29155147/",
+            "label": "Neelakantan H, et al. Biochem Pharmacol 2018",
+            "date": "published Jan 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2019 · Animal study",
+        "title": "Muscle repair in old mice (Neelakantan et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study: saline or an NNMT blocker after a chemical muscle injury"
+          },
+          {
+            "k": "Animals",
+            "v": "24-month-old mice"
+          },
+          {
+            "k": "Length",
+            "v": "1 or 3 weeks after injury"
+          },
+          {
+            "k": "Measured",
+            "v": "muscle stem cell activity, muscle fibre size, contraction strength"
+          }
+        ],
+        "found": "Muscle stem cell activity rose in treated mice. Muscle fibres in the injured muscle were nearly twice as large, and peak force was about 70% higher than in controls. The abstract calls the drug an NNMT inhibitor without naming the compound.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30753815/",
+            "label": "Neelakantan H, et al. Biochem Pharmacol 2019",
+            "date": "published May 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2021 · Animal study",
+        "title": "Blood levels in rats (Awosemo et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "drug-level study after a vein or mouth dose"
+          },
+          {
+            "k": "Animals",
+            "v": "rats"
+          },
+          {
+            "k": "Measured",
+            "v": "levels in blood and urine; half-life; oral absorption"
+          }
+        ],
+        "found": "About 38% of a mouth dose reached the blood. Half-life was about 4 hours after a vein dose and 7 hours after a mouth dose.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34304009/",
+            "label": "Awosemo O, et al. J Pharm Biomed Anal 2021",
+            "date": "published Sep 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2022 · Animal study",
+        "title": "Diet change plus 5-amino-1MQ, gut microbes in obese mice (Dimet-Wiley et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study comparing obese mice switched to a low-fat diet with or without 5-amino-1MQ"
+          },
+          {
+            "k": "Animals",
+            "v": "mice made obese on a Western diet"
+          },
+          {
+            "k": "Measured",
+            "v": "gut bacteria in the cecum; body weight and fat"
+          }
+        ],
+        "found": "With the low-fat diet, treated mice lost weight and fat faster than mice on the diet alone and had a distinct pattern of gut bacteria.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35013352/",
+            "label": "Dimet-Wiley A, et al. Sci Rep 2022",
+            "date": "published Jan 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Animal study",
+        "title": "Obese mice for 28 days (Babula et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study: vehicle or 5-amino-1MQ once a day; plus drug-level tests by vein, mouth and under the skin"
+          },
+          {
+            "k": "Animals",
+            "v": "mice made obese on a high-fat diet"
+          },
+          {
+            "k": "Length",
+            "v": "28 days"
+          },
+          {
+            "k": "Measured",
+            "v": "body composition, blood sugar, insulin, liver tissue, liver enzymes"
+          }
+        ],
+        "found": "Treated mice gained less weight and fat, handled glucose better and had less fatty liver. 4 of the 5 authors are Ridgeline Therapeutics' founder or current or former staff.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39161060/",
+            "label": "Babula JJ, et al. Diabetes Obes Metab 2024",
+            "date": "published Nov 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Animal study",
+        "title": "Old mice with and without exercise (Dimet-Wiley et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study: NNMT blocker, intensive exercise, both, or neither"
+          },
+          {
+            "k": "Animals",
+            "v": "mice from 22 to 24 months of age"
+          },
+          {
+            "k": "Length",
+            "v": "about 2 months"
+          },
+          {
+            "k": "Measured",
+            "v": "grip strength, running, muscle force and size"
+          }
+        ],
+        "found": "Grip strength was about 40% higher in treated sedentary mice than in untreated ones, and about 60% higher with treatment plus exercise. The abstract does not name the compound.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38969654/",
+            "label": "Dimet-Wiley AL, et al. Sci Rep 2024",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Turkey · 2021 · Cell study",
+        "title": "Cervical cancer cells (Akar et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "lab study on HeLa cervical cancer cells and HEK-293 kidney cells; no people or animals treated"
+          },
+          {
+            "k": "Measured",
+            "v": "cell growth; cell-death signs; gene and protein changes"
+          }
+        ],
+        "found": "5-amino-1MQ slowed HeLa cell growth and caused signs of cell death, without apparent effect on HEK-293 cells.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33645410/",
+            "label": "Akar S, et al. J Obstet Gynaecol 2021",
+            "date": "published Nov 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2024 bladder cancer study used it in mice: it reduced tumour growth and added to the effect of an immunotherapy antibody. The human part of that study looked only at the NNMT enzyme in tumour samples; no person was given 5-amino-1MQ.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39067875/",
+            "label": "Yang M, et al. J Immunother Cancer 2024",
+            "date": "published Jul 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "5-amino-1MQ is not FDA approved for any use. It is sold labelled 'for research use only' or 'not for human consumption'. FDA does not allow such products to be sold for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. No approved drug contains it, and no human trial is registered.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/search?term=5-amino-1-methylquinolinium",
+                "label": "ClinicalTrials.gov search for '5-amino-1-methylquinolinium'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "'Research use only' labels:",
+            "text": "FDA says it has warned companies that illegally sold unapproved drugs falsely labelled 'for research purposes' or 'not for human consumption' that were in fact sold to consumers for human use with dosing instructions. FDA said this about GLP-1 drugs; the same labels do not make any unapproved drug legal to sell for human use.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "it does not appear in FDA's 503A category lists (updated May 14, 2026) or 503B lists (updated March 21, 2025) of substances nominated for compounding.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated Mar 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved 5-amino-1MQ as a medicine. It has no product authorisation in Canada or the EU. It is not named by WADA.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Sold labelled for research use only, which FDA does not allow for products sold for human use.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA, concerns with unapproved GLP-1 drugs used for weight loss",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://clinicaltrials.gov/search?term=5-amino-1-methylquinolinium",
+              "label": "ClinicalTrials.gov search for '5-amino-1-methylquinolinium'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved: no product with it is in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=AMINO-1-METHYLQUINOLINIUM",
+              "label": "Drug Product Database, Health Canada, search for 'amino-1-methylquinolinium' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not approved: no centrally authorised medicine contains it.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "5-amino-1MQ is not named on the WADA 2026 Prohibited List or the 2027 List. Class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current government approval for human therapeutic use. Whether WADA applies S0 to 5-amino-1MQ was not confirmed.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Nothing is known about its side effects in people. No human study was found. Animal studies by its developers reported no observable adverse effects. No animal toxicity study was among the papers found."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Animal data:",
+            "text": "in the 2018 obese-mouse study, the authors observed no adverse effects and no change in food intake.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29155147/",
+                "label": "Neelakantan H, et al. Biochem Pharmacol 2018",
+                "date": "published Jan 2018"
+              }
+            ]
+          },
+          {
+            "lead": "People:",
+            "text": "no published study of 5-amino-1MQ in people was found, so its effects, interactions and long-term risks in humans are unknown.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=5-amino-1-methylquinolinium",
+                "label": "PubMed search for '5-amino-1-methylquinolinium'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=5-amino-1-methylquinolinium",
+                "label": "ClinicalTrials.gov search for '5-amino-1-methylquinolinium'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "FDA warns that unapproved drugs sold as research chemicals are of unknown quality and may be harmful.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "No FDA statement naming 5-amino-1MQ was found; the research-use-only point rests on FDA's general statement about falsely labelled products.",
+    "Whether 5-amino-1MQ is also sold as a dietary supplement, and whether FDA has received a new dietary ingredient notification for it, was not checked.",
+    "UK and Australian status was not confirmed.",
+    "No regulator record was found that describes how 5-amino-1MQ is sold; its 'research use only' labelling is not confirmed from a primary record."
+  ],
+  "surprises": []
+}

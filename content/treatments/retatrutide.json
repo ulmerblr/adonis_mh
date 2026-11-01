@@ -1,0 +1,652 @@
+{
+  "slug": "retatrutide",
+  "row": "Retatrutide",
+  "name": "Retatrutide",
+  "aka": [
+    "LY3437943"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Phase 3 RCTs; unapproved",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Preclinical work before first human dosing",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "First single-dose study in healthy people, 2019",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "338 adults with obesity, 48 weeks (NEJM 2023)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "TRIUMPH-1: 2,339 adults, 80 weeks (2026)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Outcome trial",
+      "line": "Heart and kidney trial, 10,000 people, to 2029",
+      "status": "started"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA warns on \"research\" sales",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Retatrutide is an experimental injected peptide from Eli Lilly, also called LY3437943. It acts on three hormone receptors at once: GIP, GLP-1 and glucagon. It is given once a week under the skin in trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37366315/",
+            "label": "Jastreboff et al., retatrutide phase 2 in obesity, N Engl J Med",
+            "date": "published Aug 2023"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
+            "label": "Jastreboff et al., TRIUMPH-1, N Engl J Med",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is not approved anywhere the search checked. FDA says it is not a part of any FDA-approved drug and has not been found safe and effective for any condition.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+            "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says retatrutide products labeled \"for research purposes\" have been sold illegally to consumers for human use, and are of unknown quality.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+            "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+            "date": "published Oct 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Retatrutide has been tested in randomized trials paid for by Eli Lilly. The main ones are listed below as they were run. Lilly’s Phase 3 program is called TRIUMPH."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "2023 · Randomized trial",
+        "title": "Phase 2: weight in adults with obesity",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, several dose groups"
+          },
+          {
+            "k": "People",
+            "v": "338 adults with a BMI of 30 or more, or 27 to under 30 with at least one weight-related condition. 51.8% were men."
+          },
+          {
+            "k": "What was given",
+            "v": "weekly retatrutide injections at 1, 4, 8 or 12 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "48 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight at 24 weeks (main goal) and at 48 weeks"
+          }
+        ],
+        "found": "At 48 weeks, average weight changed by -8.7% on 1 mg, -17.1% on 4 mg, -22.8% on 8 mg and -24.2% on 12 mg, versus -2.1% on placebo. Side effects were mostly stomach and bowel effects and rose with dose. Heart rate rose with dose, peaked at 24 weeks and then fell. ClinicalTrials.gov NCT04881760.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37366315/",
+            "label": "Jastreboff et al., retatrutide phase 2 in obesity, N Engl J Med",
+            "date": "published Aug 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2023 · Randomized trial",
+        "title": "Phase 2: type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo- and active-controlled (dulaglutide 1.5 mg)"
+          },
+          {
+            "k": "People",
+            "v": "281 adults with type 2 diabetes, on diet and exercise alone or metformin"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly retatrutide (0.5 to 12 mg), dulaglutide or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "36 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in HbA1c (long-term blood sugar) at 24 weeks"
+          }
+        ],
+        "found": "At 24 weeks, HbA1c fell by up to 2.02 points on retatrutide (12 mg), versus 0.01 on placebo and 1.41 on dulaglutide. At 36 weeks, weight fell by up to 16.94% on retatrutide versus 3.00% on placebo. Mild to moderate stomach and bowel effects were reported in 35% on retatrutide, 13% on placebo and 35% on dulaglutide. There was no severe low blood sugar and no deaths. ClinicalTrials.gov NCT04867785.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37385280/",
+            "label": "Rosenstock et al., retatrutide phase 2 in type 2 diabetes, Lancet",
+            "date": "published Aug 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2026 · Randomized trial",
+        "title": "TRIUMPH-1: obesity without diabetes, with knee and sleep-apnea substudies",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "2,339 adults with obesity and no diabetes, including 574 with knee osteoarthritis and 243 with obstructive sleep apnea"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly retatrutide 4, 9 or 12 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "80 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight; knee pain score; breathing pauses during sleep (apnea-hypopnea index)"
+          }
+        ],
+        "found": "Average weight changed by -17.6% (4 mg), -23.7% (9 mg) and -25.0% (12 mg), versus -3.9% on placebo. Knee pain scores and breathing pauses fell more on retatrutide than placebo. The most common side effects were stomach and bowel effects. ClinicalTrials.gov NCT05929066.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
+            "label": "Jastreboff et al., TRIUMPH-1, N Engl J Med",
+            "date": "published Sep 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42904878/",
+            "label": "Grunstein et al., TRIUMPH-1-OSA and TRIUMPH-2-OSA, N Engl J Med",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05929066",
+            "label": "TRIUMPH-1 trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Eight countries · 2026 · Randomized trial",
+        "title": "TRIUMPH-2: obesity with type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "1,152 adults with a BMI of 27 or more and type 2 diabetes; mean age 55; 52% men"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly retatrutide 4, 9 or 12 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "80 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight"
+          }
+        ],
+        "found": "Average weight changed by -11.9% (4 mg), -16.8% (9 mg) and -18.8% (12 mg), versus -5.1% on placebo. Diarrhea, nausea, low blood pressure and abnormal skin sensations (dysesthesia) were more common on retatrutide. 12% on 9 mg and 8% on 12 mg stopped for good because of side effects or death, versus 5% on placebo. Investigators judged all deaths unrelated to the drug. ClinicalTrials.gov NCT05929079.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+            "label": "TRIUMPH-2, Lancet",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05929079",
+            "label": "TRIUMPH-2 trial record, ClinicalTrials.gov",
+            "date": "updated Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA, Mexico, India · 2026 · Randomized trial",
+        "title": "Type 2 diabetes on diet and exercise alone",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "537 adults with type 2 diabetes not controlled by diet and exercise"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly retatrutide 4, 9 or 12 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "40 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in HbA1c; percent change in body weight"
+          }
+        ],
+        "found": "HbA1c fell by 1.69 to 1.94 points on retatrutide and 0.81 on placebo. Weight changed by -11.5% to -15.3% versus -2.6%. 2% to 5% stopped retatrutide because of side effects. No severe low blood sugar was reported. ClinicalTrials.gov NCT06354660.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42250575/",
+            "label": "Retatrutide alone in type 2 diabetes, phase 3, Lancet",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Other Phase 3 trials are listed on ClinicalTrials.gov: TRIUMPH-3 (obesity and heart disease, 1,946 people, completed), TRIUMPH-4 (knee osteoarthritis, 445 people, completed), and a heart and kidney outcomes trial of about 10,000 people due to finish in 2029. Their full results were not found in journals as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05882045",
+            "label": "TRIUMPH-3 trial record, ClinicalTrials.gov",
+            "date": "updated Jul 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05931367",
+            "label": "TRIUMPH-4 trial record, ClinicalTrials.gov",
+            "date": "updated Jan 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06383390",
+            "label": "Retatrutide heart and kidney outcomes trial, ClinicalTrials.gov",
+            "date": "updated Oct 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Retatrutide is not FDA approved for any use. FDA says it cannot be used in compounding, and that products sold \"for research purposes\" are being sold illegally. As of November 1, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Drugs@FDA has no record of an approved retatrutide product.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:retatrutide",
+            "label": "Drugs@FDA (openFDA) search for 'retatrutide'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "FDA says retatrutide is not a component of any FDA-approved drug and has not been found safe and effective for any condition.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No compounding:",
+            "text": "FDA says retatrutide cannot be used in compounding under federal law.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "\"Research use only\":",
+            "text": "FDA says it has warned companies that illegally sold unapproved drugs containing retatrutide that were falsely labeled \"for research purposes\" or \"not for human consumption\". FDA says these products were sold directly to consumers for human use with dosing instructions, are of unknown quality and may be harmful. FDA does not allow such products to be sold for human use.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Other warnings:",
+            "text": "FDA says it has warned telehealth companies for marketing retatrutide, including directly to consumers, drug-ingredient distributors for selling it to compounders, and outsourcing facilities for repackaging it.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Expanded access:",
+            "text": "ClinicalTrials.gov lists a pre-approval expanded access program for retatrutide run by Eli Lilly. Expanded access is a regulated route to an experimental drug outside a trial; it is not an approval.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07629401",
+                "label": "Pre-approval expanded access of retatrutide, ClinicalTrials.gov",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Retatrutide is not FDA approved. Products sold online as retatrutide \"for research\" are not legal for human use, and FDA says their quality is unknown."
+      }
+    ],
+    "world": {
+      "lead": "Retatrutide is not approved in any country the search checked. The UK regulator says anyone selling it is doing so illegally. It is not named on WADA’s list. WADA’s class for unapproved drugs (S0) may cover it, but WADA has not said so.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA says it cannot be compounded and has warned sellers of \"research\" products.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:retatrutide",
+              "label": "Drugs@FDA (openFDA) search for 'retatrutide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not in Health Canada’s Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json",
+              "label": "Health Canada Drug Product Database, active ingredient list",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Not authorised. MHRA says anyone selling retatrutide is doing so illegally. In October 2026 MHRA and police seized over 12,000 fake retatrutide and tirzepatide pens.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/no-summer-shortcut-for-safe-weight-loss",
+              "label": "MHRA: No summer shortcut for safe weight loss",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://www.gov.uk/government/news/counterfeit-weight-loss-pens-worth-2-million-seized-by-mhra-and-west-mids-police",
+              "label": "MHRA: Counterfeit weight loss pens worth £2 million seized",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not in EMA’s list of centrally evaluated medicines.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information found in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=retatrutide",
+              "label": "TGA product information search for 'retatrutide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Retatrutide is not named on the WADA 2026 Prohibited List. The 2026 List's class S0 (non-approved substances) bans, at all times, any drug that is not covered by another section of the List and has no current approval from any government health regulator for human use. It names drugs still in clinical development as an example. The 2027 List keeps this class and adds peptides to its examples. The search found no approval for retatrutide anywhere, so that class’s wording may cover it. WADA has not ruled on it. USADA says approved GLP-1 medicines are not prohibited.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.usada.org/spirit-of-sport/weight-loss-drugs-glp-1s/",
+              "label": "USADA: Weight loss drugs, what athletes need to know about GLP-1s",
+              "date": "published Apr 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Retatrutide has no approved label, so there is no FDA list of its risks. The side effects below come from the trials. Unapproved \"research\" products may differ from the trial drug."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Stomach and bowel effects:",
+            "text": "the most common side effects in every trial. They rose with dose and were mostly mild to moderate.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37366315/",
+                "label": "Jastreboff et al., retatrutide phase 2 in obesity, N Engl J Med",
+                "date": "published Aug 2023"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
+                "label": "Jastreboff et al., TRIUMPH-1, N Engl J Med",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+                "label": "TRIUMPH-2, Lancet",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Heart rate:",
+            "text": "in the Phase 2 obesity trial, heart rate rose with dose, peaked at 24 weeks, then fell.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37366315/",
+                "label": "Jastreboff et al., retatrutide phase 2 in obesity, N Engl J Med",
+                "date": "published Aug 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure:",
+            "text": "in TRIUMPH-2, reported in 1% to 6% on retatrutide versus under 1% on placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+                "label": "TRIUMPH-2, Lancet",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Abnormal skin sensations (dysesthesia):",
+            "text": "in TRIUMPH-2, reported in 4% to 7% on retatrutide versus 1% on placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+                "label": "TRIUMPH-2, Lancet",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Stopping treatment:",
+            "text": "in TRIUMPH-2, 12% on 9 mg and 8% on 12 mg stopped for good because of side effects or death, versus 5% on placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+                "label": "TRIUMPH-2, Lancet",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Unknown products:",
+            "text": "FDA says products sold \"for research purposes\" are of unknown quality and may be harmful. MHRA says fake products may not contain the medicine and could be contaminated.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.gov.uk/government/news/no-summer-shortcut-for-safe-weight-loss",
+                "label": "MHRA: No summer shortcut for safe weight loss",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Long-term safety, including the thyroid C-cell tumor risk that is a boxed warning on approved GLP-1 drugs, has not been set out in an FDA label for retatrutide."
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Whether Eli Lilly has filed retatrutide for FDA approval was not confirmed from an FDA record; FDA does not publish pending applications.",
+    "Full results of TRIUMPH-3, TRIUMPH-4 and later trials were not found in journals.",
+    "Retatrutide’s status in Canada and Australia was checked only by searching product databases, not by a regulator statement.",
+    "WADA has not named retatrutide or said whether its S0 class applies."
+  ],
+  "surprises": [
+    "FDA names retatrutide, with cagrilintide, as a substance that cannot be used in compounding under federal law.",
+    "FDA says \"for research purposes\" or \"not for human consumption\" labels on retatrutide sold to consumers are false labels on illegal products.",
+    "USADA says GLP-1s are not prohibited, but that refers to approved medicines; an unapproved drug like retatrutide may fall under WADA’s S0 class, which WADA has not confirmed."
+  ]
+}

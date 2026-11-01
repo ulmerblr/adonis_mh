@@ -1,0 +1,694 @@
+{
+  "slug": "bupropion",
+  "name": "Bupropion",
+  "row": "Bupropion",
+  "aka": [
+    "Wellbutrin",
+    "Wellbutrin SR",
+    "Wellbutrin XL",
+    "Zyban",
+    "Contrave (with naltrexone)",
+    "Mysimba (with naltrexone)",
+    "Amfebutamone"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; weight RCTs",
+    "fda": "Weight: Contrave only",
+    "sport": "Monitored only"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Weak dopamine and noradrenaline reuptake blocker",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: depression",
+      "line": "Wellbutrin 1985; SR 1996; XL 2003",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: smoking",
+      "line": "Zyban, 1997 (now discontinued)",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials, alone",
+      "line": "2002: 327 and 384 adults, 24 to 48 weeks",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials, combined",
+      "line": "COR trials with naltrexone, 4,536 adults",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: weight",
+      "line": "Only in Contrave (with naltrexone), 2014",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Bupropion is an antidepressant of the aminoketone class. As Wellbutrin SR and Wellbutrin XL it is approved for depression, and Wellbutrin XL also for preventing seasonal affective disorder. It was approved for quitting smoking as Zyban. For weight, it is approved only in one tablet with naltrexone, sold as Contrave in the US and Mysimba in the EU and UK.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+            "label": "Wellbutrin XL label, DailyMed",
+            "date": "published Feb 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020711",
+            "label": "Drugs@FDA data (openFDA), NDA 020711",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+            "label": "Contrave label, DailyMed",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The label says the mechanism is unknown but is thought to involve noradrenaline and dopamine. Bupropion is a relatively weak blocker of their reuptake. It does not block serotonin reuptake or inhibit monoamine oxidase.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "text": "With naltrexone, lab and animal studies suggest effects on the appetite centre (hypothalamus) and the reward system. The Contrave label says the exact effects that lead to weight loss are not fully understood.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Bupropion alone was tested for weight loss in randomized trials around 2002, but was never approved for that use. It was later developed with naltrexone, which led to Contrave."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies of bupropion alone"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2002 · Randomized trial",
+        "title": "Bupropion SR for weight, 327 adults, 24 to 48 weeks (Anderson et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicentre, randomized, double-blind, placebo-controlled trial: placebo, bupropion SR 300 or 400 mg/day; placebo group switched to bupropion after week 24"
+          },
+          {
+            "k": "People",
+            "v": "327 obese adults counselled on diet, meal replacements and exercise"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks, then a 24-week extension"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight loss in people who completed 24 weeks"
+          }
+        ],
+        "found": "Of 327 people, 227 completed 24 weeks. Among them, weight fell 5.0% on placebo, 7.2% on 300 mg and 10.1% on 400 mg. Pulse and blood pressure changes did not differ from placebo. The analysis covered completers only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12105285/",
+            "label": "Anderson JW, et al. Obes Res 2002",
+            "date": "published Jul 2002"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2002 · Randomized trial",
+        "title": "Bupropion SR in obese adults with depressive symptoms, 384 adults, 26 weeks (Jain et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial with a 500 kcal/day calorie-deficit diet"
+          },
+          {
+            "k": "People",
+            "v": "384 obese adults (BMI 30 to 44) with depressive symptoms but not major depression"
+          },
+          {
+            "k": "Length",
+            "v": "26 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "weight change; depressive symptoms"
+          }
+        ],
+        "found": "Weight fell 4.6% on bupropion and 1.8% on placebo. 40% vs 16% lost at least 5%. Mood improvement did not differ between groups overall.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12376586/",
+            "label": "Jain AK, et al. Obes Res 2002",
+            "date": "published Oct 2002"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies with naltrexone"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2009 · Randomized trial",
+        "title": "Bupropion alone, naltrexone alone or both, 419 adults (Greenway et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo- and single-drug-controlled, dose-finding trial"
+          },
+          {
+            "k": "People",
+            "v": "419 adults with uncomplicated obesity"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks, with a 24-week extension"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change at week 24"
+          }
+        ],
+        "found": "The combinations lowered weight 3.5% to 4.7% more than placebo. The highest naltrexone combination did not differ significantly from bupropion alone; the others did.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19846734/",
+            "label": "Greenway FL, et al. J Clin Endocrinol Metab 2009",
+            "date": "published Dec 2009"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2014 · Randomized trials",
+        "title": "The 4 COR trials in the Contrave label, 4,536 adults",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "4 randomized, double-blind, placebo-controlled trials"
+          },
+          {
+            "k": "People",
+            "v": "4,536 adults with obesity, or overweight with a weight-related condition; 83% women"
+          },
+          {
+            "k": "Length",
+            "v": "56 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change; share losing at least 5%"
+          }
+        ],
+        "found": "Mean weight change on Contrave vs placebo ranged from -3.7% vs -1.7% (type 2 diabetes) to -8.1% vs -4.9% (with intensive behaviour therapy). About 45% left before week 56.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+            "label": "Contrave label, DailyMed",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2016 · Randomized trial",
+        "title": "Heart safety of naltrexone plus bupropion, 8,910 adults (LIGHT)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial (NCT01601704)"
+          },
+          {
+            "k": "People",
+            "v": "8,910 overweight or obese adults at higher heart risk"
+          },
+          {
+            "k": "Length",
+            "v": "stopped early"
+          },
+          {
+            "k": "Measured",
+            "v": "heart attack, stroke or heart death"
+          }
+        ],
+        "found": "The trial ended early after the sponsor released confidential interim data. The authors said heart safety remains uncertain.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26954408/",
+            "label": "Nissen SE, et al. JAMA 2016 (LIGHT trial)",
+            "date": "published Mar 2016"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Bupropion is FDA approved, by prescription, for depression and seasonal affective disorder (Wellbutrin SR, Wellbutrin XL) and was approved for smoking cessation (Zyban). For weight, the only approved product is Contrave, with naltrexone. Using bupropion alone for weight is off-label. It has a boxed warning for suicidal thoughts. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Wellbutrin:",
+            "text": "Wellbutrin tablets were approved December 30, 1985 as a new molecular entity (NDA 018644, now discontinued). Wellbutrin SR followed October 4, 1996 (NDA 020358) and Wellbutrin XL August 28, 2003 (NDA 021515).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018644",
+                "label": "Drugs@FDA data (openFDA), NDA 018644",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020358",
+                "label": "Drugs@FDA data (openFDA), NDA 020358",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021515",
+                "label": "Drugs@FDA data (openFDA), NDA 021515",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Zyban:",
+            "text": "Zyban, bupropion for smoking cessation, was approved May 14, 1997 (NDA 020711). FDA's data list it as discontinued.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020711",
+                "label": "Drugs@FDA data (openFDA), NDA 020711",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Contrave:",
+            "text": "Contrave (naltrexone and bupropion) was approved September 10, 2014 (NDA 200063) for long-term weight management. Its label says it must not be combined with other bupropion products.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA200063",
+                "label": "Drugs@FDA data (openFDA), NDA 200063",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "antidepressants raised the risk of suicidal thoughts and behaviour in children, teens and young adults in short-term trials. The labels call for close watching for worsening mood and suicidal thoughts at any age.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "bupropion alone is not approved for weight loss. Using it that way is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled status:",
+            "text": "bupropion is not a controlled substance; it does not appear on DEA's list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Bupropion is an approved prescription medicine in the US, Canada, the UK, the EU and Australia, and the naltrexone and bupropion combination for weight is approved in all five. WADA does not prohibit it but monitors it in competition.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Wellbutrin 1985; SR 1996; XL 2003; Zyban 1997; Contrave with naltrexone 2014). Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018644",
+              "label": "Drugs@FDA data (openFDA), NDA 018644",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021515",
+              "label": "Drugs@FDA data (openFDA), NDA 021515",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA200063",
+              "label": "Drugs@FDA data (openFDA), NDA 200063",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: Wellbutrin XL, Zyban and Contrave are marketed. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=ZYBAN",
+              "label": "Drug Product Database, Health Canada (Zyban)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=76060",
+              "label": "Drug Product Database status, Health Canada (Wellbutrin XL)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=96230",
+              "label": "Drug Product Database status, Health Canada (Contrave)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine: Zyban (smoking cessation) and Mysimba (with naltrexone, weight). MHRA issued safety updates on both.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/bupropion-zyban-risk-of-serotonin-syndrome-with-use-with-other-serotonergic-drugs",
+              "label": "MHRA Drug Safety Update, bupropion and serotonin syndrome",
+              "date": "published Nov 2020"
+            },
+            {
+              "url": "https://www.gov.uk/drug-safety-update/naltrexone-bupropion-mysimba-risk-of-adverse-reactions-that-could-affect-ability-to-drive",
+              "label": "MHRA Drug Safety Update, Mysimba and driving",
+              "date": "published Aug 2019"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine: Mysimba (naltrexone and bupropion) authorised March 26, 2015 for weight management. EMA says bupropion is also licensed on its own in the EU for other uses.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mysimba",
+              "label": "EMA, Mysimba EPAR",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Zyban SR and Contrave 8/90. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=bupropion",
+              "label": "TGA, PI/CMI search: bupropion",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union: in March 2025 EMA found the benefits of Mysimba still outweigh its risks for up to 12 months, called heart safety beyond that uncertain, and required a heart outcomes study with results expected in 2028.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/mysimba",
+              "label": "EMA, Mysimba review (Article 20 referral)",
+              "date": "published Mar 2025"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "United Kingdom: in 2020 the MHRA warned that bupropion can cause serotonin syndrome, especially in overdose or with other drugs that raise serotonin, such as SSRIs and SNRIs.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/bupropion-zyban-risk-of-serotonin-syndrome-with-use-with-other-serotonergic-drugs",
+              "label": "MHRA Drug Safety Update, bupropion and serotonin syndrome",
+              "date": "published Nov 2020"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Bupropion is not prohibited. WADA's 2026 List says it is in the Monitoring Program and is not considered a prohibited substance. It stays in the 2027 Monitoring Program, in competition only.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Bupropion has a boxed warning for suicidal thoughts and behaviours. It can cause seizures, the risk rising with dose, and raise blood pressure. Common effects include dry mouth, nausea, insomnia and anxiety."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Seizures:",
+            "text": "bupropion can cause seizures; the risk rises with dose. It must not be used with a seizure disorder, an eating disorder such as bulimia or anorexia, or during sudden withdrawal from alcohol, benzodiazepines, barbiturates or anti-seizure drugs. In Contrave trials, seizures occurred in about 0.1%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Blood pressure:",
+            "text": "it can raise blood pressure and cause hypertension.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Mental health:",
+            "text": "postmarketing reports in people using it to quit smoking included mood changes, psychosis, hallucinations, paranoia, aggression, anxiety, panic, suicidal thoughts and suicide.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Common effects:",
+            "text": "dry mouth, nausea, insomnia, dizziness, sore throat, belly pain, agitation, anxiety, tremor, palpitations, sweating, ringing in the ears, muscle pain, loss of appetite, frequent urination and rash.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Weight:",
+            "text": "in depression trials, 14% to 19% on bupropion SR lost more than 5 lbs, vs 6% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Drug interactions:",
+            "text": "must not be used with MAO inhibitors, or within 14 days of one.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+                "label": "Wellbutrin XL label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Serotonin syndrome:",
+            "text": "the UK MHRA has warned of serotonin syndrome with other serotonergic drugs.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/bupropion-zyban-risk-of-serotonin-syndrome-with-use-with-other-serotonergic-drugs",
+                "label": "MHRA Drug Safety Update, bupropion and serotonin syndrome",
+                "date": "published Nov 2020"
+              }
+            ]
+          },
+          {
+            "lead": "In Contrave:",
+            "text": "nausea in about a third, constipation, headache, vomiting, dizziness, insomnia and dry mouth.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The Zyban label was not opened; Zyban is listed as discontinued in the US.",
+    "Which bupropion-alone products the MHRA licenses was not confirmed from MHRA's product database, which could not be read."
+  ],
+  "surprises": []
+}

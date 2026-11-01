@@ -1,0 +1,636 @@
+{
+  "slug": "naltrexone",
+  "name": "Naltrexone",
+  "row": "Naltrexone",
+  "aka": [
+    "Revia",
+    "Vivitrol",
+    "Contrave (with bupropion)",
+    "Mysimba (with bupropion)"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; RCTs in Contrave",
+    "fda": "Weight: Contrave only",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Opioid blocker; with bupropion acts on appetite cells",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: addiction",
+      "line": "Revia 1984; Vivitrol 2006",
+      "status": "done"
+    },
+    {
+      "title": "Dose-finding with bupropion",
+      "line": "419 adults, naltrexone alone vs combinations",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "COR trials: 4 trials, 4,536 adults, 56 weeks",
+      "status": "done"
+    },
+    {
+      "title": "Heart safety trial",
+      "line": "LIGHT: 8,910 adults; stopped early",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: weight",
+      "line": "Only in Contrave (with bupropion), 2014",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Naltrexone is an opioid antagonist: it blocks the brain's opioid receptors. Alone, it is approved for alcohol dependence and to block the effects of opioids after detox. For weight, it is approved only in one tablet with bupropion, sold as Contrave in the US and Mysimba in the EU and UK.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+            "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+            "date": "published Sep 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd11c435-b0f0-4bb9-ae78-60f101f3703f",
+            "label": "Vivitrol label, DailyMed",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+            "label": "Contrave label, DailyMed",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Naltrexone blocks opioid receptors, so opioid drugs taken while on it have little effect. The tablet label says it gives no benefit except as part of a plan to manage addiction.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "Contrave's label says animal and lab studies suggest naltrexone and bupropion act on two brain areas that control eating: the hypothalamus (appetite) and the dopamine reward system. In lab studies, the pair increased firing of appetite-regulating POMC cells. The label says the exact effects that lead to weight loss are not fully understood.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "For weight, naltrexone has been tested mainly with bupropion. In one trial that included naltrexone alone, each combination led to more weight loss than naltrexone alone."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2009 · Randomized trial",
+        "title": "Naltrexone alone, bupropion alone or both, 419 adults (Greenway et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo- and single-drug-controlled, dose-finding trial in 7 US clinics"
+          },
+          {
+            "k": "People",
+            "v": "419 adults with uncomplicated obesity"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks, with a 24-week extension"
+          },
+          {
+            "k": "What was given",
+            "v": "placebo; naltrexone 48 mg/day alone; bupropion SR 400 mg/day alone; or bupropion plus naltrexone 16, 32 or 48 mg/day"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change at week 24"
+          }
+        ],
+        "found": "Compared with placebo, the combinations lowered weight by 3.5% to 4.7% more. Each combination led to more weight loss than naltrexone alone. Mild, short-lived nausea was the most common side effect. The authors called for longer studies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19846734/",
+            "label": "Greenway FL, et al. J Clin Endocrinol Metab 2009",
+            "date": "published Dec 2009"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2010 · Randomized trial",
+        "title": "Naltrexone plus bupropion, 1,742 adults, 56 weeks (COR-I)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 3 trial at 34 US sites (NCT00532779)"
+          },
+          {
+            "k": "People",
+            "v": "1,742 adults aged 18 to 65 with BMI 30 to 45, or 27 to 45 with high blood fats or high blood pressure"
+          },
+          {
+            "k": "Length",
+            "v": "56 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change; share losing at least 5%"
+          }
+        ],
+        "found": "Weight fell 6.1% on naltrexone 32 mg plus bupropion, 5.0% on naltrexone 16 mg plus bupropion, and 1.3% on placebo. Half of people completed 56 weeks. Nausea affected about 3 in 10 on the combination. Depression and suicidality events did not rise. Funded by the developer, Orexigen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20673995/",
+            "label": "Greenway FL, et al. Lancet 2010 (COR-I)",
+            "date": "published Aug 2010"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2014 · Randomized trials",
+        "title": "The 4 COR trials in the Contrave label, 4,536 adults",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "4 randomized, double-blind, placebo-controlled trials (COR-I, COR-II, COR-BMOD, COR-Diabetes)"
+          },
+          {
+            "k": "People",
+            "v": "4,536 adults with obesity, or overweight with high blood pressure, high blood fats or type 2 diabetes; 83% women"
+          },
+          {
+            "k": "Length",
+            "v": "56 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change; share losing at least 5%"
+          }
+        ],
+        "found": "Mean weight change on Contrave vs placebo: -5.4% vs -1.3% (COR-I), -8.1% vs -4.9% with intensive behaviour therapy (COR-BMOD), -3.7% vs -1.7% in type 2 diabetes. About 45% left before week 56. 24% on Contrave and 12% on placebo stopped because of side effects.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+            "label": "Contrave label, DailyMed",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2016 · Randomized trial",
+        "title": "Heart safety of naltrexone plus bupropion, 8,910 adults (LIGHT)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled non-inferiority trial at 266 US centres (NCT01601704)"
+          },
+          {
+            "k": "People",
+            "v": "8,910 overweight or obese adults at higher heart risk; mean age 61; 85% with diabetes"
+          },
+          {
+            "k": "Length",
+            "v": "stopped early"
+          },
+          {
+            "k": "Measured",
+            "v": "time to heart attack, stroke or heart death"
+          }
+        ],
+        "found": "The trial was ended after the sponsor publicly released confidential interim data. At the 50% interim look, events occurred in 2.0% on the combination and 2.3% on placebo. The authors said heart safety remains uncertain and needs a new trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26954408/",
+            "label": "Nissen SE, et al. JAMA 2016 (LIGHT trial)",
+            "date": "published Mar 2016"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Naltrexone is FDA approved, by prescription, for alcohol dependence and opioid dependence (Revia and generic tablets, Vivitrol injection). For weight, it is approved only in Contrave, with bupropion. Using naltrexone alone for weight is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Tablets:",
+            "text": "Revia tablets were approved November 20, 1984 as a new molecular entity (NDA 018932, now discontinued). Generic tablets are labelled for alcohol dependence and to block opioids.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018932",
+                "label": "Drugs@FDA data (openFDA), NDA 018932",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Vivitrol:",
+            "text": "Vivitrol, a monthly injection, was approved April 13, 2006 (NDA 021897) for alcohol dependence and to prevent relapse to opioid dependence after detox.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021897",
+                "label": "Drugs@FDA data (openFDA), NDA 021897",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd11c435-b0f0-4bb9-ae78-60f101f3703f",
+                "label": "Vivitrol label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Contrave:",
+            "text": "Contrave (naltrexone and bupropion extended-release) was approved September 10, 2014 (NDA 200063) for long-term weight management in adults with obesity, or overweight with a weight-related condition. Its label says the effect on heart disease and death has not been established, and advises against combining it with other naltrexone products.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA200063",
+                "label": "Drugs@FDA data (openFDA), NDA 200063",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "Contrave has a boxed warning for suicidal thoughts and behaviours, because of its bupropion part.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "naltrexone alone is not approved for weight loss. Using it that way is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled status:",
+            "text": "naltrexone is not a controlled substance; it does not appear on DEA's list.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Naltrexone is an approved prescription medicine in the US, Canada, the UK, the EU and Australia. The naltrexone and bupropion combination for weight is approved in all five. It is not on WADA's list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Revia 1984; Vivitrol 2006; Contrave with bupropion 2014, weight). Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018932",
+              "label": "Drugs@FDA data (openFDA), NDA 018932",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021897",
+              "label": "Drugs@FDA data (openFDA), NDA 021897",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA200063",
+              "label": "Drugs@FDA data (openFDA), NDA 200063",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: ReVia (Teva) and generic tablets are marketed; Contrave has been marketed since 2018. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=NALTREXONE",
+              "label": "Drug Product Database, Health Canada (naltrexone)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=96230",
+              "label": "Drug Product Database status, Health Canada (Contrave)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=96230",
+              "label": "Drug Product Database schedule, Health Canada (Contrave)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine: Mysimba (naltrexone and bupropion) is in use; MHRA issued a driving-safety update on it in 2019.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/naltrexone-bupropion-mysimba-risk-of-adverse-reactions-that-could-affect-ability-to-drive",
+              "label": "MHRA Drug Safety Update, Mysimba and driving",
+              "date": "published Aug 2019"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine: Mysimba (naltrexone and bupropion) authorised March 26, 2015 for weight management. EMA says naltrexone is also licensed on its own in the EU for other uses.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mysimba",
+              "label": "EMA, Mysimba EPAR",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for naltrexone tablets and Contrave 8/90. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=naltrexone",
+              "label": "TGA, PI/CMI search: naltrexone",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union: in March 2025 EMA finished a review of Mysimba prompted by concerns about long-term heart risk. It found the benefits still outweigh the risks for use up to 12 months, said safety beyond that is uncertain, and required an ongoing heart outcomes study (INFORMUS) with results expected in 2028. Treatment should stop after 1 year if at least 5% weight loss is not kept, and doctors should review it every year.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/mysimba",
+              "label": "EMA, Mysimba review (Article 20 referral)",
+              "date": "published Mar 2025"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Naltrexone is not named on the WADA 2026 Prohibited List or the 2027 List, and it is approved, so class S0 does not apply. Bupropion, the other part of Contrave, is on WADA's Monitoring Program but is not prohibited.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Alone, naltrexone's labels warn of liver injury, sudden opioid withdrawal in people still using opioids, and a higher risk of fatal overdose if opioids are used after stopping it. In Contrave, nausea is very common, and the bupropion part adds a boxed warning, seizures and blood pressure rises."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Liver:",
+            "text": "hepatitis and significant liver problems were seen with naltrexone in trials and after marketing.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Opioid overdose risk:",
+            "text": "after detox and naltrexone, people may respond to lower opioid doses than before. Using previously tolerated doses can cause life-threatening overdose; fatal overdoses have been reported after stopping treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Who must not use it:",
+            "text": "naltrexone must not be used by people taking opioid pain medicines, dependent on opioids, or in opioid withdrawal.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Common effects of naltrexone alone:",
+            "text": "in an open-label study of about 570 people with alcoholism: nausea 10%, headache 7%, dizziness, nervousness and fatigue 4% each, insomnia and vomiting 3%, anxiety and sleepiness 2%. Depression and suicidal thoughts were reported in naltrexone, placebo and control groups.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06ff2d5a-e62b-4fa4-bbdb-01938535bc65",
+                "label": "Naltrexone hydrochloride tablets label (SpecGx), DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Injection:",
+            "text": "Vivitrol injection-site reactions can be very severe; some needed surgery.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd11c435-b0f0-4bb9-ae78-60f101f3703f",
+                "label": "Vivitrol label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "In Contrave:",
+            "text": "in trials, nausea 32.5% vs 6.7% on placebo, constipation 19.2%, headache 17.6%, vomiting 10.7%, dizziness 9.9%, insomnia 9.2% and dry mouth 8.1%. Seizures occurred in about 0.1%. Blood pressure and heart rate can rise.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "Contrave has a boxed warning for suicidal thoughts and behaviours, from bupropion.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b",
+                "label": "Contrave label, DailyMed",
+                "date": "published Nov 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Driving:",
+            "text": "the UK MHRA warns that naltrexone and bupropion can cause dizziness or sleepiness, and rarely loss of consciousness or seizure, which can affect driving.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/naltrexone-bupropion-mysimba-risk-of-adverse-reactions-that-could-affect-ability-to-drive",
+                "label": "MHRA Drug Safety Update, Mysimba and driving",
+                "date": "published Aug 2019"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Low-dose naltrexone is not covered: no regulator record or label on it was found.",
+    "Whether the MHRA licenses naltrexone alone in the UK was not confirmed from MHRA's product database, which could not be read."
+  ],
+  "surprises": [
+    "The LIGHT heart safety trial of naltrexone plus bupropion was stopped early after the sponsor publicly released confidential interim data, so heart safety was left uncertain; EMA in 2025 still called long-term heart safety uncertain and required a new study."
+  ]
+}

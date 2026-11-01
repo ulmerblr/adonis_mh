@@ -1,0 +1,603 @@
+{
+  "slug": "orforglipron",
+  "row": "Orforglipron",
+  "name": "Orforglipron",
+  "aka": [
+    "Foundayo",
+    "LY3502970"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; large RCTs",
+    "fda": "Approved (Foundayo)",
+    "sport": "Not prohibited"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Not active in rats or mice; no rodent tumors",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Dose-finding trials in obesity and diabetes, 2023",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials",
+      "line": "ATTAIN-1: 3,127 adults, 72 weeks",
+      "status": "done"
+    },
+    {
+      "title": "Diabetes trials",
+      "line": "ACHIEVE-1 to -5, incl. heart safety (2,749)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: weight",
+      "line": "Foundayo tablets, April 2026, weight",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA: type 2 diabetes",
+      "line": "Not on the US label as of Nov 2026",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Orforglipron is a GLP-1 receptor agonist taken as a daily tablet. Unlike semaglutide, liraglutide and tirzepatide, it is not a peptide: it is a small, man-made molecule. It is made by Eli Lilly and sold in the US as Foundayo.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+            "label": "Foundayo label, DailyMed",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40960239/",
+            "label": "Wharton et al., ATTAIN-1, N Engl J Med",
+            "date": "published Nov 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The label says it binds to and switches on the human GLP-1 receptor, lowers food intake, likely by lowering appetite, and slows stomach emptying. In animal studies it reached brain areas that control appetite. The label says it is not active in rats or mice and did not cause tumors in rodents.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+            "label": "Foundayo label, DailyMed",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is approved only for weight management. Using it for type 2 diabetes alone is off-label in the US, though the UK has authorised it for type 2 diabetes.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+            "label": "Foundayo label, DailyMed",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://www.gov.uk/government/news/uk-first-in-europe-to-authorise-orforglipron-for-weight-management-and-type-2-diabetes",
+            "label": "MHRA: UK first in Europe to authorise orforglipron",
+            "date": "published Aug 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Orforglipron has been tested in large randomized trials paid for by Eli Lilly: the ATTAIN program for weight and the ACHIEVE program for type 2 diabetes. The main ones are listed below as they were run. The trials used a capsule; the label lists the matching tablet doses (for example, 36 mg capsule equals 17.2 mg tablet)."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2025 · Randomized trial",
+        "title": "ATTAIN-1: weight in adults without diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "3,127 adults with obesity, or overweight with a weight-related condition; no diabetes; 64% women"
+          },
+          {
+            "k": "What was given",
+            "v": "daily orforglipron 6, 12 or 36 mg (capsule), or placebo, with diet and activity advice"
+          },
+          {
+            "k": "Length",
+            "v": "72 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight"
+          }
+        ],
+        "found": "Weight changed by -7.5% (6 mg), -8.4% (12 mg) and -11.2% (36 mg), versus -2.1% on placebo. 5.3% to 10.3% on orforglipron and 2.7% on placebo stopped because of side effects. The most common were stomach and bowel effects, mostly mild to moderate. ClinicalTrials.gov NCT05869903.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40960239/",
+            "label": "Wharton et al., ATTAIN-1, N Engl J Med",
+            "date": "published Nov 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05869903",
+            "label": "ATTAIN-1 trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "ATTAIN-2, in 1,613 adults with obesity and type 2 diabetes, is the second trial behind the US approval. The label reports weight changes of -5.1%, -7.0% and -9.6% on the three tablet doses, versus -2.5% on placebo, at 72 weeks.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+            "label": "Foundayo label, DailyMed",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05872620",
+            "label": "ATTAIN-2 trial record, ClinicalTrials.gov",
+            "date": "updated Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2025 · Randomized trial",
+        "title": "ACHIEVE-1: early type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "559 adults with type 2 diabetes on diet and exercise only, HbA1c 7.0% to 9.5%"
+          },
+          {
+            "k": "What was given",
+            "v": "daily orforglipron 3, 12 or 36 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "40 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in HbA1c (long-term blood sugar)"
+          }
+        ],
+        "found": "HbA1c fell by 1.24 to 1.48 points on orforglipron and 0.41 on placebo. Weight changed by -4.5% to -7.6% versus -1.7%. No severe low blood sugar was reported. 4.4% to 7.8% on orforglipron and 1.4% on placebo stopped because of side effects. ClinicalTrials.gov NCT05971940.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40544435/",
+            "label": "Rosenstock et al., ACHIEVE-1, N Engl J Med",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Five countries · 2026 · Open-label randomized trial",
+        "title": "ACHIEVE-3: versus oral semaglutide in type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, open-label, active-controlled"
+          },
+          {
+            "k": "People",
+            "v": "1,698 adults with type 2 diabetes on metformin, HbA1c 7.0% to 10.5%"
+          },
+          {
+            "k": "What was given",
+            "v": "daily orforglipron 12 or 36 mg, or oral semaglutide 7 or 14 mg"
+          },
+          {
+            "k": "Length",
+            "v": "52 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in HbA1c"
+          }
+        ],
+        "found": "HbA1c fell by 1.71 and 1.91 points on orforglipron and 1.23 and 1.47 on semaglutide. Stomach and bowel effects affected about 58% to 59% on orforglipron and 37% to 45% on semaglutide. 9% to 10% on orforglipron and 4% to 5% on semaglutide stopped because of side effects. Pulse rose more on orforglipron (3.7 to 4.7 beats per minute). ClinicalTrials.gov NCT06045221.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41765029/",
+            "label": "ACHIEVE-3, orforglipron vs oral semaglutide, Lancet",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "16 countries · 2026 · Open-label randomized trial",
+        "title": "ACHIEVE-4: heart safety in type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, open-label, event-driven, versus insulin glargine"
+          },
+          {
+            "k": "People",
+            "v": "2,749 adults with type 2 diabetes, overweight or obesity, and heart or kidney disease; mean age 63"
+          },
+          {
+            "k": "What was given",
+            "v": "daily orforglipron (up to 36 mg capsule) or daily insulin glargine injections"
+          },
+          {
+            "k": "Length",
+            "v": "median follow-up 2 years"
+          },
+          {
+            "k": "Measured",
+            "v": "heart-related death, heart attack, stroke or hospital stay for unstable angina, counted together"
+          }
+        ],
+        "found": "The combined outcome happened in 4.2% on orforglipron and 5.0% on insulin glargine (hazard ratio 0.84), meeting the trial’s safety goal. Stomach and bowel effects affected 62.1% and 14.2%. Serious low blood sugar affected 6.8% and 19.2%. ClinicalTrials.gov NCT05803421.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42815506/",
+            "label": "ACHIEVE-4, heart safety vs insulin glargine, Lancet",
+            "date": "published Oct 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Orforglipron is FDA approved as Foundayo tablets, since April 1, 2026, for weight management in adults. It is not approved in the US for type 2 diabetes. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Foundayo, approved April 1, 2026:",
+            "text": "approved, with a reduced-calorie diet and more physical activity, to reduce excess body weight and keep it off in adults with obesity, or overweight with at least one weight-related condition. FDA classed it as a new molecular entity. A labeling supplement was approved in August 2026.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA220934",
+                "label": "Drugs@FDA (openFDA): Foundayo, NDA 220934",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "use for type 2 diabetes alone, or in children, is off-label in the US.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded drugs:",
+            "text": "compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Foundayo is the FDA-approved orforglipron product. Any compounded or \"research\" orforglipron is not FDA approved."
+      }
+    ],
+    "world": {
+      "lead": "Orforglipron is approved in the US (weight) and the UK (weight and type 2 diabetes). In the EU, EMA’s committee adopted a positive opinion, but the final decision was not found. It is not prohibited in sport.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Foundayo tablets, April 2026) for weight management in adults. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA220934",
+              "label": "Drugs@FDA (openFDA): Foundayo, NDA 220934",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+              "label": "Foundayo label, DailyMed",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised August 10, 2026 (Foundayo) for weight management and for type 2 diabetes in adults.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/uk-first-in-europe-to-authorise-orforglipron-for-weight-management-and-type-2-diabetes",
+              "label": "MHRA: UK first in Europe to authorise orforglipron",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not yet authorised. EMA’s committee (CHMP) adopted a positive opinion on October 15, 2026, for type 2 diabetes and weight management.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo",
+              "label": "Foundayo: opinion, EMA",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not in Health Canada’s Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json",
+              "label": "Health Canada Drug Product Database, active ingredient list",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information found in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=orforglipron",
+              "label": "TGA product information search for 'orforglipron'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Orforglipron is not named on the WADA 2026 Prohibited List or the 2027 Monitoring Program. USADA says GLP-1 medicines are not prohibited in sport and need no therapeutic use exemption. Because orforglipron is approved, the List’s S0 class for unapproved drugs does not apply.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.usada.org/spirit-of-sport/weight-loss-drugs-glp-1s/",
+              "label": "USADA: Weight loss drugs, what athletes need to know about GLP-1s",
+              "date": "published Apr 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The Foundayo label has a boxed warning, FDA’s strongest kind, about thyroid C-cell tumors, as other GLP-1 drugs do. The most common side effects are stomach and bowel effects."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Boxed warning, thyroid tumors:",
+            "text": "other GLP-1 drugs caused thyroid C-cell tumors in rats and mice. Orforglipron is not active in rodents and did not cause them, but the label says the human relevance is unknown. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pancreatitis:",
+            "text": "has been seen with GLP-1 drugs, including Foundayo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Severe stomach and bowel effects:",
+            "text": "stomach and bowel side effects affected 60% to 69% on Foundayo and 37% on placebo in the weight trials; 4% of those affected had severe effects. Up to 6% stopped because of them.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Gallbladder disease:",
+            "text": "gallstones in 1% on orforglipron and 0.7% on placebo; acute gallbladder inflammation in 0.4% and 0.3%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Kidney injury, low blood sugar, allergy:",
+            "text": "the label warns of kidney injury from dehydration, low blood sugar when used with insulin or drugs that raise insulin, and serious allergic reactions.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Diabetic eye disease:",
+            "text": "not studied in people with eye disease needing urgent treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Anesthesia:",
+            "text": "stomach contents entering the lungs during anesthesia has been reported with GLP-1 drugs.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Hair loss:",
+            "text": "reported more often in women (7%) than men (0.9%) on Foundayo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Birth control and pregnancy:",
+            "text": "the label advises people on birth-control pills to switch or add a barrier method for 30 days after starting and after each dose increase, and to stop Foundayo when pregnancy is recognized.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Most common (5% or more):",
+            "text": "nausea, constipation, diarrhea, vomiting, indigestion, belly pain, headache, bloating, tiredness, burping, acid reflux, gas and hair loss.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62",
+                "label": "Foundayo label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA’s approval letter for Foundayo could not be opened (the Drugs@FDA document link returned an error); the approval date comes from FDA’s Drugs@FDA dataset served through openFDA.",
+    "Whether Lilly has filed for a US type 2 diabetes use was not confirmed from an FDA record.",
+    "The European Commission’s decision after the October 2026 CHMP opinion was not found."
+  ],
+  "surprises": [
+    "Orforglipron is not active in rats or mice, yet the label still has the same boxed warning about thyroid C-cell tumors as other GLP-1 drugs.",
+    "The UK authorised orforglipron for type 2 diabetes in August 2026, a use not on the US label."
+  ]
+}

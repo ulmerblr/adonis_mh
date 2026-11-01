@@ -1,0 +1,684 @@
+{
+  "slug": "phentermine",
+  "name": "Phentermine",
+  "row": "Phentermine",
+  "aka": [
+    "Adipex-P",
+    "Lomaira",
+    "Ionamin",
+    "Fastin",
+    "Qsymia (with topiramate)",
+    "Duromine"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; short RCTs",
+    "fda": "Approved (Adipex-P)",
+    "sport": "Banned in-comp."
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Amphetamine-like stimulant; no fertility studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Early studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: alone",
+      "line": "Ionamin 1959; Adipex-P 1980; Lomaira 2016",
+      "status": "done"
+    },
+    {
+      "title": "Short-term trials",
+      "line": "Label: trials lasted only a few weeks",
+      "status": "done"
+    },
+    {
+      "title": "Combination trials",
+      "line": "With topiramate: 1-year trials, 3,700+ adults",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: Qsymia",
+      "line": "With topiramate, 2012, long-term weight",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Phentermine is a stimulant drug related to amphetamine. FDA labels call it a sympathomimetic amine anorectic, a drug class used for weight loss. It is sold alone (Adipex-P, Lomaira and generics) and in one capsule with topiramate (Qsymia).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+            "label": "Lomaira (phentermine) label, DailyMed",
+            "date": "published Dec 2023"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+            "label": "Qsymia label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Phentermine acts like amphetamine on the central nervous system. The Lomaira label says it has not been established that its main action in obesity is appetite suppression; other brain or metabolic effects may be involved.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "text": "Typical effects of this drug class include stimulation of the central nervous system and higher blood pressure.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "text": "Tolerance has been seen with every drug of this class where it was looked for. The label says that when tolerance develops, the drug should be stopped rather than the dose raised.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Phentermine alone was approved in 1959, long before modern trial standards. Its label says the trials behind it lasted a few weeks and added only a fraction of a pound a week over diet alone. Larger, longer trials tested it combined with topiramate."
+      },
+      {
+        "t": "p",
+        "text": "The Lomaira label says that in short-term trials, obese adults on diet plus an anorectic drug lost more weight on average than those on diet plus placebo. The extra loss was only a fraction of a pound a week, was greatest in the first weeks, and varied with the investigator, the population and the diet. Because the trials lasted only a few weeks, the label calls the total effect over diet alone clinically limited.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+            "label": "Lomaira (phentermine) label, DailyMed",
+            "date": "published Dec 2023"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "South Korea · 2010 · Randomized trial",
+        "title": "Phentermine alone vs placebo, 74 adults, 12 weeks (Kang et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial of a once-daily controlled-release phentermine 30 mg"
+          },
+          {
+            "k": "People",
+            "v": "74 adults with obesity and controlled diabetes, high blood pressure or high blood fats (37 per group)"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "body weight, waist size, blood fats, blood pressure"
+          }
+        ],
+        "found": "Weight fell by 8.1 kg on phentermine and 1.7 kg on placebo. Waist size and LDL cholesterol also fell more on phentermine. Blood pressure did not differ between groups. Dry mouth and insomnia were the most common side effects. The authors said longer studies are needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20920040/",
+            "label": "Kang JG, et al. Diabetes Obes Metab 2010",
+            "date": "published Oct 2010"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Randomized trial",
+        "title": "Phentermine alone, topiramate alone, both, or placebo, 28 weeks (Aronne et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, controlled trial with 7 arms: placebo, phentermine 7.5 or 15 mg, topiramate ER 46 or 92 mg, or the two combined (7.5/46 or 15/92 mg)"
+          },
+          {
+            "k": "People",
+            "v": "obese adults; all had lifestyle counselling"
+          },
+          {
+            "k": "Length",
+            "v": "28 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight loss; share losing at least 5%; memory and attention tests"
+          }
+        ],
+        "found": "Losing at least 5% of body weight: 15.5% on placebo, 43.3% and 46.2% on phentermine alone, 39.2% and 48.6% on topiramate alone, 62.1% and 66.0% on the combination. Mean weight loss was 8.5% and 9.2% on the two combinations and 1.7% on placebo. Testing found a problem only with attention.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24136928/",
+            "label": "Aronne LJ, et al. Obesity 2013",
+            "date": "published Nov 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized trial",
+        "title": "Phentermine plus topiramate in severe obesity, 1 year (EQUIP, Qsymia Study 1)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial (NCT00554216)"
+          },
+          {
+            "k": "People",
+            "v": "1,267 adults with BMI 35 or more, without type 2 diabetes; mean age 43; 83% women"
+          },
+          {
+            "k": "Length",
+            "v": "4-week dose build-up, then 52 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change and share losing at least 5% at week 56"
+          }
+        ],
+        "found": "Weight fell 10.9% on the full-strength combination (15/92 mg), 5.1% on the low strength and 1.6% on placebo. 67%, 45% and 17% lost at least 5%. 40% of people left the study before week 56.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+            "label": "Qsymia label, DailyMed",
+            "date": "published Apr 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22051941/",
+            "label": "Allison DB, et al. Obesity 2012 (EQUIP)",
+            "date": "published Feb 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized trial",
+        "title": "Phentermine plus topiramate with weight-related illness, 1 year (Qsymia Study 2)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial (NCT00553787)"
+          },
+          {
+            "k": "People",
+            "v": "2,487 adults with BMI 27 to 45 and at least 2 weight-related conditions such as high blood pressure or diabetes; mean age 51; 70% women"
+          },
+          {
+            "k": "Length",
+            "v": "4-week dose build-up, then 52 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change and share losing at least 5% at week 56"
+          }
+        ],
+        "found": "Weight fell 9.8% on 15/92 mg, 7.8% on 7.5/46 mg and 1.2% on placebo. 70%, 62% and 21% lost at least 5%. 31% left the study before week 56.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+            "label": "Qsymia label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No trial of phentermine alone that measured heart attacks, strokes or deaths was found. The Qsymia label says its effect on heart disease and death has not been established.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+            "label": "Qsymia label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Phentermine is FDA approved, by prescription, as a short-term (a few weeks) aid to weight loss with diet, exercise and behaviour change. Since 2012 it is also approved with topiramate (Qsymia) for long-term weight management. It is a Schedule IV controlled substance. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "First approval:",
+            "text": "the first phentermine product in FDA's data is Ionamin, approved May 4, 1959 as a new molecular entity (NDA 011613, now discontinued).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA011613",
+                "label": "Drugs@FDA data (openFDA), NDA 011613",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Brands alone:",
+            "text": "Adipex-P tablets were approved October 22, 1980 (ANDA 085128) and are listed as prescription. Lomaira 8 mg tablets were approved September 12, 2016 (ANDA 203495).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA085128",
+                "label": "Drugs@FDA data (openFDA), ANDA 085128",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA203495",
+                "label": "Drugs@FDA data (openFDA), ANDA 203495",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What the label allows:",
+            "text": "the label limits phentermine alone to short-term use (a few weeks) in adults with a BMI of 30 or more, or 27 or more with other risk factors such as controlled high blood pressure, diabetes or high blood fats. It is not approved for children 16 and under.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Combining with other weight-loss drugs:",
+            "text": "the label says the safety and efficacy of phentermine combined with any other weight-loss drug, including over-the-counter and herbal products, or with SSRIs, have not been established, and advises against combining them.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Qsymia:",
+            "text": "Qsymia (phentermine and extended-release topiramate) was approved July 17, 2012 (NDA 022580), for long-term weight reduction with diet and exercise in adults with obesity, adults with overweight and a weight-related condition, and children aged 12 and older with obesity. Because of birth-defect risk from topiramate, it is sold only through certified pharmacies under a REMS safety program.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022580",
+                "label": "Drugs@FDA data (openFDA), NDA 022580",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "phentermine is a Schedule IV controlled substance (DEA code 1640). The label says abuse and dependence are possible because it is related to amphetamine.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled substances in alphabetical order",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "using phentermine alone for longer than a few weeks goes beyond the label. That is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Phentermine is an approved prescription medicine in the US and Australia. No phentermine product is marketed in Canada, and EMA refused the phentermine and topiramate combination for the EU in 2013. It is banned in competition by WADA.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Ionamin 1959; Adipex-P 1980; Lomaira 2016; Qsymia with topiramate 2012). Prescription-only; Schedule IV.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA011613",
+              "label": "Drugs@FDA data (openFDA), NDA 011613",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022580",
+              "label": "Drugs@FDA data (openFDA), NDA 022580",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+              "label": "DEA, Controlled substances in alphabetical order",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not available. Health Canada's Drug Product Database lists 3 past phentermine products (Ionamin, Fastin), all cancelled after marketing; none is marketed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=PHENTERMINE",
+              "label": "Drug Product Database, Health Canada (phentermine)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=11201",
+              "label": "Drug Product Database status, Health Canada (Ionamin)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised phentermine medicine. EMA refused Qsiva (phentermine and topiramate) in 2013. National authorisations were not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qsiva",
+              "label": "EMA, Qsiva (refused)",
+              "date": "published Jun 2013"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Duromine, Metermine and other phentermine brands. Prescription-only (Schedule 4); possession without authority is illegal (Appendix D).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=phentermine",
+              "label": "TGA, PI/CMI search: phentermine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "United Kingdom: the Home Office lists phentermine as a Class C, Schedule 3 controlled drug. Whether any phentermine medicine is licensed by the MHRA was not confirmed.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/government/publications/controlled-drugs-list--2/list-of-most-commonly-encountered-drugs-currently-controlled-under-the-misuse-of-drugs-legislation",
+              "label": "Home Office, controlled drugs list",
+              "date": "updated Apr 2025"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "European Union: EMA's committee gave a negative opinion on Qsiva in October 2012 and confirmed it in February 2013. It cited concerns about long-term effects on the heart and blood vessels, mainly from phentermine, which raises heart rate, and about psychiatric and memory effects from topiramate.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qsiva",
+              "label": "EMA, Qsiva (refused)",
+              "date": "published Jun 2013"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Phentermine is named on the WADA 2026 Prohibited List as a non-specified stimulant (class S6.A). It is banned in competition only. It is still named on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists serious heart and lung problems, abuse and dependence, and raised blood pressure. Common effects include insomnia, dry mouth and restlessness. It can also cause impotence and changes in libido."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Lung blood pressure:",
+            "text": "primary pulmonary hypertension, a rare and often fatal lung disease, was reported with phentermine plus fenfluramine or dexfenfluramine. Rare cases were reported with phentermine alone, and a link cannot be ruled out.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Heart valves:",
+            "text": "serious leaking heart valves were reported in people who took phentermine with fenfluramine or dexfenfluramine. Rare cases were reported with phentermine alone.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Heart and circulation:",
+            "text": "palpitations, fast heart rate, higher blood pressure and ischemic events.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Brain and mood:",
+            "text": "overstimulation, restlessness, dizziness, insomnia, euphoria, low mood, tremor, headache and psychosis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Gut:",
+            "text": "dry mouth, unpleasant taste, diarrhea, constipation.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Sexual function and fertility:",
+            "text": "the label lists impotence and changes in libido. No studies of fertility were done.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse and dependence:",
+            "text": "phentermine is chemically related to amphetamine. Stopping suddenly after long, high-dose use can cause extreme tiredness and depression. Chronic misuse can cause severe skin problems, insomnia, irritability and psychosis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Who must not use it:",
+            "text": "it must not be used with a history of heart disease or stroke, uncontrolled high blood pressure, overactive thyroid, glaucoma, agitation, a history of drug abuse, in pregnancy or breastfeeding, or within 14 days of MAO inhibitors.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893",
+                "label": "Lomaira (phentermine) label, DailyMed",
+                "date": "published Dec 2023"
+              }
+            ]
+          },
+          {
+            "lead": "In Qsymia:",
+            "text": "with topiramate, the most common side effects at 1 year were tingling (paraesthesia), dizziness, altered taste, insomnia, constipation and dry mouth. The combination can harm an unborn baby and needs monthly pregnancy tests in people who can become pregnant.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "No Adipex-P label was found on DailyMed; the label text used here is Lomaira's (KVK-Tech). Adipex-P is listed by FDA as a current prescription product.",
+    "Whether the MHRA licenses any phentermine medicine in the UK was not confirmed; MHRA's product search could not be read.",
+    "National phentermine authorisations in EU member states were not checked."
+  ],
+  "surprises": [
+    "The US label for phentermine alone still limits it to a few weeks and describes the extra weight loss over diet alone as 'only a fraction of a pound a week'.",
+    "Health Canada's database lists no marketed phentermine product; every past product there was cancelled."
+  ]
+}

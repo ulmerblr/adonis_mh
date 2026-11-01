@@ -1,0 +1,619 @@
+{
+  "slug": "aod-9604",
+  "name": "AOD-9604",
+  "row": "AOD-9604",
+  "aka": [
+    "AOD9604",
+    "Tyr-hGH 177-191"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Phase 2; efficacy unpub.",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Obese mice and rats, 2000-2001 (Monash University)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Single IV doses in 15 healthy men",
+      "status": "done"
+    },
+    {
+      "title": "Phase IIa",
+      "line": "Single and 7-day doses in obese men",
+      "status": "done"
+    },
+    {
+      "title": "Phase IIb",
+      "line": "300 and 502 adults; weight results unpublished",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; compounding nomination withdrawn",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "AOD-9604 is a 16-amino-acid peptide made from the tail end of human growth hormone (amino acids 177 to 191), with one extra tyrosine added at the start to make it more stable. It was developed in Australia by Metabolic Pharmaceuticals as a possible obesity drug.",
+        "src": [
+          {
+            "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+            "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+            "date": "published Apr 2013"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25208511/",
+            "label": "Cox HD, et al. Drug Test Anal 2015",
+            "date": "published Jan 2015"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and lab studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In obese mice and rats, it reduced weight gain and body fat and increased fat breakdown, without raising blood sugar the way whole growth hormone does.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11146367/",
+                "label": "Ng FM, et al. Horm Res 2000",
+                "date": "published 2000"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11673763/",
+                "label": "Heffernan MA, et al. Int J Obes 2001",
+                "date": "published Oct 2001"
+              }
+            ]
+          },
+          {
+            "text": "Unlike growth hormone, it did not bind the growth hormone receptor or make cells multiply in lab tests.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11673763/",
+                "label": "Heffernan MA, et al. Int J Obes 2001",
+                "date": "published Oct 2001"
+              }
+            ]
+          },
+          {
+            "text": "In mice it raised levels of a fat-cell receptor (beta-3 adrenergic), but its fat-burning effect did not depend on that receptor alone.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11713213/",
+                "label": "Heffernan M, et al. Endocrinology 2001",
+                "date": "published Dec 2001"
+              }
+            ]
+          },
+          {
+            "text": "In human fat tissue in the lab, the related fragment AOD-9401 increased fat breakdown and lowered fat build-up.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10950816/",
+                "label": "Heffernan MA, et al. Am J Physiol 2000",
+                "date": "published Sep 2000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these mechanisms has been shown to cause weight loss in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Six company-funded placebo-controlled trials in about 900 people ran in Australia from 2001 to 2006. The one published paper on them, written by staff of a firm consulting for the developer, reports safety only. It does not report whether people lost weight. No Phase 3 trial was found, and ClinicalTrials.gov lists no trial of AOD-9604."
+      },
+      {
+        "t": "p",
+        "text": "The paper says the two largest trials were notified to Australia's TGA under its Clinical Trial Notification scheme. The authors declared ties to the developer: one held shares in its parent company Calzada, one was a consultant and former medical director, and the writer's firm consulted for the company. Metabolic Pharmaceuticals funded all 6 trials.",
+        "src": [
+          {
+            "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+            "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+            "date": "published Apr 2013"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=AOD9604",
+            "label": "ClinicalTrials.gov search for 'AOD9604'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2001-2006 · Randomized trials",
+        "title": "6 safety and dose trials, 893 people (Stier et al., 2013 summary)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "6 randomized, double-blind, placebo-controlled trials, summarised in one paper"
+          },
+          {
+            "k": "People",
+            "v": "893 adults; all but the first were obese but otherwise healthy; the first 4 trials enrolled men only"
+          },
+          {
+            "k": "What was given",
+            "v": "single IV doses (15 healthy men; 23 obese men); single oral doses (17 obese men); 7 days by mouth (36 obese men); 12 weeks by mouth (300 adults); 24 weeks of tablets at 0.25, 0.5 or 1 mg/day (502 adults)"
+          },
+          {
+            "k": "Measured",
+            "v": "side effects, vital signs, blood tests, ECG, IGF-1, glucose tolerance, antibodies"
+          }
+        ],
+        "found": "The paper reports no rise in IGF-1, no worsening of glucose tolerance and no anti-AOD-9604 antibodies in the people tested. Side effects were reported as similar to placebo, with no serious adverse event judged related to the drug. The two Phase IIb trials were designed to measure weight loss, but the paper gives no weight results.",
+        "src": [
+          {
+            "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+            "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+            "date": "published Apr 2013"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2000 · Animal and lab study",
+        "title": "Oral fragment in obese mice and human fat tissue (Heffernan et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study plus lab tests on fat tissue"
+          },
+          {
+            "k": "Animals",
+            "v": "obese (ob/ob) mice: 8 on saline, 10 on the fragment AOD-9401, by mouth"
+          },
+          {
+            "k": "Length",
+            "v": "30 days"
+          },
+          {
+            "k": "Measured",
+            "v": "weight gain, food intake, fat-tissue activity, energy use"
+          }
+        ],
+        "found": "From day 16, weight gain was lower on the fragment. Food intake did not differ. In isolated fat tissue from obese rodents and humans, fat breakdown rose and fat build-up fell.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10950816/",
+            "label": "Heffernan MA, et al. Am J Physiol 2000",
+            "date": "published Sep 2000"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2000 · Animal study",
+        "title": "Oral AOD-9604 in obese Zucker rats (Ng et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study"
+          },
+          {
+            "k": "Animals",
+            "v": "obese Zucker rats"
+          },
+          {
+            "k": "Length",
+            "v": "19 days"
+          },
+          {
+            "k": "Measured",
+            "v": "weight gain; fat-tissue activity; insulin sensitivity"
+          }
+        ],
+        "found": "Weight gain was about half that of controls (15.8 g vs 35.6 g). Unlike growth hormone, it did not harm insulin sensitivity.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11146367/",
+            "label": "Ng FM, et al. Horm Res 2000",
+            "date": "published 2000"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2001 · Animal and lab study",
+        "title": "AOD-9604 vs growth hormone in obese and lean mice (Heffernan et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study with lab tests on cells with the growth hormone receptor"
+          },
+          {
+            "k": "Animals",
+            "v": "obese and lean mice, given growth hormone, AOD-9604 or saline by pump"
+          },
+          {
+            "k": "Length",
+            "v": "14 days"
+          },
+          {
+            "k": "Measured",
+            "v": "weight, energy use, fat burning, blood sugar and insulin; receptor binding"
+          }
+        ],
+        "found": "Both growth hormone and AOD-9604 reduced weight gain in obese mice and raised fat burning. AOD-9604 did not cause high blood sugar, did not bind the growth hormone receptor and did not make cells multiply.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11673763/",
+            "label": "Heffernan MA, et al. Int J Obes 2001",
+            "date": "published Oct 2001"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "South Korea · 2015 · Animal study",
+        "title": "Knee injections in rabbits with arthritis (Kwon and Park)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized animal study"
+          },
+          {
+            "k": "Animals",
+            "v": "32 rabbits with chemically induced knee arthritis"
+          },
+          {
+            "k": "Length",
+            "v": "weekly knee injections in weeks 4 to 7; assessed at week 8"
+          },
+          {
+            "k": "Measured",
+            "v": "cartilage damage; limping"
+          }
+        ],
+        "found": "Cartilage scores and limping were better with AOD-9604, hyaluronic acid or both than with saline, and best with both.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26275694/",
+            "label": "Kwon DR, Park GY. Ann Clin Lab Sci 2015",
+            "date": "published 2015"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "AOD-9604 is not FDA approved for any use. FDA lists it among compounding nominations that were withdrawn, with safety concerns. It is not in the HHS peptide compounding policy of October 2026. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. No approved drug contains AOD-9604; the furthest trials found were Phase IIb.",
+            "src": [
+              {
+                "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+                "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+                "date": "published Apr 2013"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2 (withdrawn):",
+            "text": "FDA's Category 2 page lists AOD-9604 under bulk drug substances that were nominated for compounding but withdrawn by the nominators, and that were previously in category 2. FDA says it may pose a significant risk of immune reactions for some routes, may have impurity problems, and that FDA has no or only limited safety information. FDA has also identified serious adverse events that may be linked to it, though cause is not clear.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Current compounding lists:",
+            "text": "AOD-9604 is not in FDA's current 503A category lists (updated May 14, 2026) or 503B lists (updated March 21, 2025).",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated Mar 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "the October 2026 HHS enforcement discretion policy names 6 peptides: BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500. AOD-9604 is not among them.",
+            "src": [
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS peptide policy (a law firm's summary; HHS's own policy appendix was not opened)",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "GRAS claim:",
+            "text": "the 2013 paper says an expert panel concluded AOD-9604 was 'Generally Recognized As Safe' (GRAS) for use in foods. That was a company-arranged panel. FDA's GRAS notice inventory has no record for AOD9604, so no GRAS notice appears to have been filed with FDA.",
+            "src": [
+              {
+                "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+                "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+                "date": "published Apr 2013"
+              },
+              {
+                "url": "https://www.hfpappexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&sort=GRN_No&order=DESC&startrow=1&type=basic&search=AOD9604",
+                "label": "FDA GRAS Notice Inventory, search for 'AOD9604' (0 records)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA approved. AOD-9604 is not approved in any form."
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved AOD-9604 as a medicine. Australia, where it was developed, lists it as a prescription-only poison that is illegal to possess without authority. WADA bans it at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Compounding nomination withdrawn; listed by FDA with safety concerns. Not covered by the 2026 HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS peptide policy (a law firm's summary; HHS's own policy appendix was not opened)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved: no product with AOD-9604 is in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=AOD9604",
+              "label": "Drug Product Database, Health Canada, search for 'AOD9604' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not approved: no centrally authorised medicine contains AOD-9604.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Not approved (no product information found). Listed in Schedule 4 (prescription only) of the Poisons Standard, and in Appendix D, clause 5: possession without authority is illegal.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            },
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=AOD-9604",
+              "label": "TGA, PI/CMI search: AOD-9604",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "AOD-9604 is named on the WADA 2026 Prohibited List in class S2.2.3 (growth hormone, its analogues and fragments) as an example of a growth hormone fragment. It is banned at all times, in and out of competition. It is still named on the 2027 List, which takes effect January 1, 2027. A 2015 anti-doping lab paper describes a urine test for it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25208511/",
+              "label": "Cox HD, et al. Drug Test Anal 2015",
+              "date": "published Jan 2015"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The only published human safety data come from the developer's own trials, which reported side effects similar to placebo. FDA says it lacks enough safety information and has identified serious adverse events that may be linked to AOD-9604. No fertility study was found."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Developer trials:",
+            "text": "in the first IV trial, 12 of 15 men reported 29 mild or moderate side effects, most often headache, tiredness, low blood sugar and dizziness, spread across AOD-9604 and placebo. No serious adverse events occurred.",
+            "src": [
+              {
+                "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+                "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+                "date": "published Apr 2013"
+              }
+            ]
+          },
+          {
+            "lead": "Growth hormone effects:",
+            "text": "the developer's paper reports no rise in IGF-1, no worsening of glucose tolerance and no antibodies in tested people.",
+            "src": [
+              {
+                "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+                "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+                "date": "published Apr 2013"
+              }
+            ]
+          },
+          {
+            "lead": "FDA's concerns:",
+            "text": "FDA says compounded AOD-9604 may pose a significant risk of immune reactions for some routes and may contain peptide-related impurities. FDA has no or only limited safety information and has identified serious adverse events that may be associated with it, though causality is not clear.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Route:",
+            "text": "the published trials gave AOD-9604 by vein or by mouth only.",
+            "src": [
+              {
+                "url": "https://www.jofem.org/index.php/jofem/article/view/157/194",
+                "label": "Stier H, Vos E, Kenley D. J Endocrinol Metab 2013 (full text)",
+                "date": "published Apr 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Weight-loss results of the two Phase IIb trials (METAOD005, METAOD006) were not found in any published paper or regulator record.",
+    "The TGA Clinical Trial Notification records for the two largest trials were not found.",
+    "No FDA record was found of whether AOD-9604 is sold as a dietary supplement or food ingredient, or of any FDA response to the GRAS claim.",
+    "The UK MHRA's position was not confirmed."
+  ],
+  "surprises": [
+    "The developer's paper says an expert panel judged AOD-9604 'Generally Recognized As Safe' for foods, but FDA's GRAS notice inventory has no record for it, so no GRAS notice appears to have been filed with FDA.",
+    "The published human trials, about 900 people, report safety only; the weight results of the trials designed to measure weight loss were not found in print."
+  ]
+}

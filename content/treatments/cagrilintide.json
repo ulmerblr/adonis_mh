@@ -1,0 +1,500 @@
+{
+  "slug": "cagrilintide",
+  "row": "Cagrilintide",
+  "name": "Cagrilintide",
+  "aka": [
+    "CagriSema",
+    "Cagrilintide-semaglutide"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Phase 3 (with semaglutide)",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Preclinical work before human trials",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "With semaglutide 2.4 mg, Lancet 2021",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "706 adults, 26 weeks, cagrilintide alone",
+      "status": "done"
+    },
+    {
+      "title": "Phase III: CagriSema",
+      "line": "REDEFINE 1: 3,417 adults, 68 weeks",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III: alone",
+      "line": "RENEW 1 and 2, started Nov 2025",
+      "status": "started"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; cannot be compounded (FDA)",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Cagrilintide is an experimental injected peptide from Novo Nordisk. It is a long-acting version of amylin, a hormone the pancreas releases that makes people feel full. It is given once a week under the skin in trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34798060/",
+            "label": "Lau et al., cagrilintide phase 2, Lancet",
+            "date": "published Dec 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Most trials test it combined with semaglutide 2.4 mg, the dose in Wegovy. That combination is called CagriSema. Novo Nordisk is also testing cagrilintide by itself in Phase 3.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40544433/",
+            "label": "Garvey et al., REDEFINE 1, N Engl J Med",
+            "date": "published Aug 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07220642",
+            "label": "RENEW 1 trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is not approved anywhere the search checked. FDA says it is not a part of any FDA-approved drug and has not been found safe and effective for any condition.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+            "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+            "date": "published Oct 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Cagrilintide has been tested in randomized trials paid for by Novo Nordisk, alone and with semaglutide. The main ones are listed below as they were run. The Phase 3 program for the combination is called REDEFINE."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Ten countries · 2021 · Randomized trial",
+        "title": "Phase 2: cagrilintide alone for weight",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, with an open active comparator (liraglutide 3.0 mg)"
+          },
+          {
+            "k": "People",
+            "v": "706 adults without diabetes, with a BMI of 30 or more, or 27 or more with high blood pressure or high blood fats"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly cagrilintide 0.3, 0.6, 1.2, 2.4 or 4.5 mg; daily liraglutide 3.0 mg; or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "26 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight"
+          }
+        ],
+        "found": "Weight fell by 6.0% to 10.8% on cagrilintide, 9.0% on liraglutide and 3.0% on placebo. Stomach and bowel side effects, mainly nausea, happened in 41% to 63% on cagrilintide and 32% on placebo. 10% stopped treatment early, at similar rates across groups. ClinicalTrials.gov NCT03856047.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34798060/",
+            "label": "Lau et al., cagrilintide phase 2, Lancet",
+            "date": "published Dec 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2025 · Randomized trial",
+        "title": "REDEFINE 1: CagriSema in adults without diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3a, randomized, double-blind, placebo- and active-controlled"
+          },
+          {
+            "k": "People",
+            "v": "3,417 adults without diabetes, with a BMI of 30 or more, or 27 or more with an obesity-related condition"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly cagrilintide 2.4 mg plus semaglutide 2.4 mg (2,108 people), semaglutide alone (302), cagrilintide alone (302) or placebo (705), all with lifestyle support"
+          },
+          {
+            "k": "Length",
+            "v": "68 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight; share losing at least 5%"
+          }
+        ],
+        "found": "Average weight changed by -20.4% on the combination and -3.0% on placebo. Stomach and bowel side effects (nausea, vomiting, diarrhea, constipation, belly pain) affected 79.6% on the combination and 39.9% on placebo, mostly short-lived and mild to moderate. ClinicalTrials.gov NCT05567796.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40544433/",
+            "label": "Garvey et al., REDEFINE 1, N Engl J Med",
+            "date": "published Aug 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05567796",
+            "label": "REDEFINE 1 trial record, ClinicalTrials.gov",
+            "date": "updated Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Twelve countries · 2025 · Randomized trial",
+        "title": "REDEFINE 2: CagriSema in adults with type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3a, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "1,206 adults with type 2 diabetes, a BMI of 27 or more and HbA1c of 7% to 10%"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly cagrilintide 2.4 mg plus semaglutide 2.4 mg, or placebo, with lifestyle support"
+          },
+          {
+            "k": "Length",
+            "v": "68 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight; share losing at least 5%"
+          }
+        ],
+        "found": "Average weight changed by -13.7% on the combination and -3.4% on placebo. 73.5% and 15.9% reached an HbA1c of 6.5% or less. Stomach and bowel side effects affected 72.5% and 34.4%. ClinicalTrials.gov NCT05394519.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40544432/",
+            "label": "Davies et al., REDEFINE 2, N Engl J Med",
+            "date": "published Aug 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05394519",
+            "label": "REDEFINE 2 trial record, ClinicalTrials.gov",
+            "date": "updated Jan 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Still running: REDEFINE 3, a heart-outcome trial of CagriSema in about 7,100 people due to finish in 2027, and RENEW 1, a Phase 3 trial of cagrilintide alone in about 300 people.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05669755",
+            "label": "REDEFINE 3 trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07220642",
+            "label": "RENEW 1 trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Cagrilintide is not FDA approved, alone or as CagriSema. FDA says it cannot be used in compounding. As of November 1, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Drugs@FDA has no record of an approved cagrilintide product.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:cagrilintide",
+            "label": "Drugs@FDA (openFDA) search for 'cagrilintide'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "FDA says cagrilintide is not a component of any FDA-approved drug and has not been found safe and effective for any condition.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No compounding:",
+            "text": "FDA says cagrilintide cannot be used in compounding under federal law. Compounded drugs are not FDA approved in any case.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Unapproved versions:",
+            "text": "FDA says unapproved versions of GLP-1-type drugs do not go through its review for safety, effectiveness and quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Cagrilintide is not FDA approved, and FDA says it cannot be used in compounding."
+      }
+    ],
+    "world": {
+      "lead": "Cagrilintide is not approved in any country the search checked. It is not named on WADA’s list. WADA’s class for unapproved drugs (S0) may cover it, but WADA has not said so.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA says it cannot be used in compounding.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:cagrilintide",
+              "label": "Drugs@FDA (openFDA) search for 'cagrilintide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not in Health Canada’s Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json",
+              "label": "Health Canada Drug Product Database, active ingredient list",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not in EMA’s list of centrally evaluated medicines.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information found in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=cagrilintide",
+              "label": "TGA product information search for 'cagrilintide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Cagrilintide is not named on the WADA 2026 Prohibited List. The 2026 List's class S0 (non-approved substances) bans, at all times, any drug that is not covered by another section of the List and has no current approval from any government health regulator for human use. It names drugs still in clinical development as an example. The 2027 List keeps this class and adds peptides to its examples. The search found no approval for cagrilintide anywhere, so that class’s wording may cover it. WADA has not ruled on it. Semaglutide, its partner in CagriSema, is approved and is on WADA’s 2027 Monitoring Program, which tracks use without banning it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Cagrilintide has no approved label, so there is no FDA list of its risks. The side effects below come from the trials."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Stomach and bowel effects:",
+            "text": "the most common side effects. In the Phase 2 trial of cagrilintide alone, nausea was reported in 20% to 47% on cagrilintide versus 18% on placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34798060/",
+                "label": "Lau et al., cagrilintide phase 2, Lancet",
+                "date": "published Dec 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Injection-site reactions:",
+            "text": "among the most frequent side effects in the Phase 2 trial.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34798060/",
+                "label": "Lau et al., cagrilintide phase 2, Lancet",
+                "date": "published Dec 2021"
+              }
+            ]
+          },
+          {
+            "lead": "With semaglutide:",
+            "text": "in REDEFINE 1 and 2, stomach and bowel effects affected 72.5% to 79.6% of people on CagriSema. CagriSema contains semaglutide, which has a boxed warning about thyroid C-cell tumors on its US labels.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40544433/",
+                "label": "Garvey et al., REDEFINE 1, N Engl J Med",
+                "date": "published Aug 2025"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40544432/",
+                "label": "Davies et al., REDEFINE 2, N Engl J Med",
+                "date": "published Aug 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+                "label": "Wegovy injection and tablets label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Whether Novo Nordisk has filed CagriSema with FDA or EMA was not confirmed from a regulator record; FDA does not publish pending applications.",
+    "The UK status could not be checked from an MHRA record.",
+    "Results for the cagrilintide-alone group in REDEFINE 1 were not in the abstract and are not reported here.",
+    "WADA has not named cagrilintide or said whether its S0 class applies."
+  ],
+  "surprises": [
+    "FDA says cagrilintide, like retatrutide, cannot be used in compounding under federal law."
+  ]
+}

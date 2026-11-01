@@ -1,0 +1,530 @@
+{
+  "slug": "survodutide",
+  "row": "Survodutide",
+  "name": "Survodutide",
+  "aka": [
+    "BI 456906",
+    "BI456906"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Phase 3 RCTs",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse and lab studies of brain appetite areas",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy people from 2017",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "387 adults with obesity, 46 weeks (2024)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "SYNCHRONIZE-1: 725 adults, 76 weeks",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Liver and heart trials",
+      "line": "Heart safety trial done; MASH trials running",
+      "status": "started"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA warns on \"research\" sales",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Survodutide (BI 456906) is an experimental injected peptide from Boehringer Ingelheim. It acts on two hormone receptors: glucagon and GLP-1. It is given once a week under the skin in trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38330987/",
+            "label": "le Roux et al., survodutide phase 2 in obesity, Lancet Diabetes Endocrinol",
+            "date": "published Mar 2024"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42253238/",
+            "label": "le Roux et al., SYNCHRONIZE-1, N Engl J Med",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is being tested for obesity and for the liver disease MASH. It is not approved anywhere the search checked.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42253238/",
+            "label": "le Roux et al., SYNCHRONIZE-1, N Engl J Med",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38847460/",
+            "label": "Sanyal et al., survodutide phase 2 in MASH, N Engl J Med",
+            "date": "published Jul 2024"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06632444",
+            "label": "LIVERAGE trial record, ClinicalTrials.gov",
+            "date": "updated Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA has warned companies that illegally sold unapproved drugs containing survodutide labeled \"for research purposes\".",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+            "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+            "date": "published Oct 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Survodutide has been tested in randomized trials paid for by Boehringer Ingelheim. The main ones are listed below as they were run. The Phase 3 obesity program is called SYNCHRONIZE."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Twelve countries · 2024 · Randomized trial",
+        "title": "Phase 2: dose-finding in obesity",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "387 adults aged 18 to 75 with a BMI of 27 or more, without diabetes"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly survodutide 0.6, 2.4, 3.6 or 4.8 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "46 weeks (20 weeks of dose increases, 26 weeks at dose)"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight"
+          }
+        ],
+        "found": "Weight changed by -6.2% to -14.9% on survodutide, depending on dose, and -2.8% on placebo. Only 60.4% finished the 46 weeks of treatment. Stomach and bowel side effects affected 75% on survodutide and 42% on placebo. ClinicalTrials.gov NCT04667377.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38330987/",
+            "label": "le Roux et al., survodutide phase 2 in obesity, Lancet Diabetes Endocrinol",
+            "date": "published Mar 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2026 · Randomized trial",
+        "title": "SYNCHRONIZE-1: obesity without diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "725 adults with a BMI of 30 or more, or 27 or more with an obesity-related condition, no diabetes; 40.6% men; mean BMI 37.9"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly survodutide up to 3.6 mg or 6.0 mg, or placebo, with lifestyle counseling"
+          },
+          {
+            "k": "Length",
+            "v": "76 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight; share losing at least 5%"
+          }
+        ],
+        "found": "Weight changed by -12.2% (3.6 mg), -13.0% (6.0 mg) and -5.4% (placebo). Stomach and bowel symptoms affected 80.9%, 89.7% and 47.9%. No deaths were reported. ClinicalTrials.gov NCT06066515.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42253238/",
+            "label": "le Roux et al., SYNCHRONIZE-1, N Engl J Med",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06066515",
+            "label": "SYNCHRONIZE-1 trial record, ClinicalTrials.gov",
+            "date": "updated Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2026 · Randomized trial",
+        "title": "SYNCHRONIZE-2: obesity with type 2 diabetes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 3, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "752 adults with type 2 diabetes and a BMI of 27 or more; mean age 55.7; 49.3% men"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly survodutide 3.6 mg or 6.0 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "76 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in body weight; share losing at least 5%"
+          }
+        ],
+        "found": "Weight changed by -8.2% (3.6 mg), -9.8% (6.0 mg) and -3.9% (placebo). HbA1c fell by 0.9, 0.8 and 0.2 points from 7.4%. Stomach and bowel effects affected 72.8%, 77.7% and 38.6%. ClinicalTrials.gov NCT06066528.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42820639/",
+            "label": "Wharton et al., SYNCHRONIZE-2, N Engl J Med",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06066528",
+            "label": "SYNCHRONIZE-2 trial record, ClinicalTrials.gov",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2024 · Randomized trial",
+        "title": "Phase 2: the liver disease MASH",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; liver biopsies"
+          },
+          {
+            "k": "People",
+            "v": "293 adults with biopsy-confirmed MASH and liver scarring stage F1 to F3"
+          },
+          {
+            "k": "What was given",
+            "v": "weekly survodutide 2.4, 4.8 or 6.0 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "48 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "improvement in MASH on biopsy without worse scarring"
+          }
+        ],
+        "found": "MASH improved without worse scarring in 47%, 62% and 43% on the three doses and 14% on placebo. Nausea (66% vs 23%), diarrhea (49% vs 23%) and vomiting (41% vs 4%) were more common on survodutide. Serious side effects happened in 8% and 7%. ClinicalTrials.gov NCT04771273.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38847460/",
+            "label": "Sanyal et al., survodutide phase 2 in MASH, N Engl J Med",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A heart-safety trial in about 5,500 people (SYNCHRONIZE-CVOT) reached its primary completion date in June 2026; its results were not found in a journal. Phase 3 MASH trials (LIVERAGE) are recruiting.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06077864",
+            "label": "SYNCHRONIZE-CVOT trial record, ClinicalTrials.gov",
+            "date": "updated Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06632444",
+            "label": "LIVERAGE trial record, ClinicalTrials.gov",
+            "date": "updated Oct 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Survodutide is not FDA approved for any use. FDA has warned companies selling it \"for research purposes\". As of November 1, 2026."
+      },
+      {
+        "t": "p",
+        "text": "Drugs@FDA has no record of an approved survodutide product.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:survodutide",
+            "label": "Drugs@FDA (openFDA) search for 'survodutide'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "\"Research use only\":",
+            "text": "FDA says it has warned companies that illegally sold unapproved drugs containing survodutide that were falsely labeled \"for research purposes\" or \"not for human consumption\". FDA says these were sold to consumers for human use with dosing instructions, are of unknown quality and may be harmful. FDA does not allow such products to be sold for human use.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded drugs:",
+            "text": "compounded drugs are not FDA approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Survodutide is not FDA approved. Products sold as survodutide \"for research\" are not legal for human use in the US."
+      }
+    ],
+    "world": {
+      "lead": "Survodutide is not approved in any country the search checked. It is not named on WADA’s list. WADA’s class for unapproved drugs (S0) may cover it, but WADA has not said so.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA has warned sellers of \"research\" survodutide.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:survodutide",
+              "label": "Drugs@FDA (openFDA) search for 'survodutide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not in Health Canada’s Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json",
+              "label": "Health Canada Drug Product Database, active ingredient list",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not in EMA’s list of centrally evaluated medicines.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (all centrally evaluated medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information found in TGA’s product information database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=pi&q=survodutide",
+              "label": "TGA product information search for 'survodutide'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Survodutide is not named on the WADA 2026 Prohibited List. The 2026 List's class S0 (non-approved substances) bans, at all times, any drug that is not covered by another section of the List and has no current approval from any government health regulator for human use. It names drugs still in clinical development as an example. The 2027 List keeps this class and adds peptides to its examples. The search found no approval for survodutide anywhere, so that class’s wording may cover it. WADA has not ruled on it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Survodutide has no approved label, so there is no FDA list of its risks. The side effects below come from the trials."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Stomach and bowel effects:",
+            "text": "the most common side effects, in 72.8% to 89.7% of people on survodutide in Phase 3, and 38.6% to 47.9% on placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42253238/",
+                "label": "le Roux et al., SYNCHRONIZE-1, N Engl J Med",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42820639/",
+                "label": "Wharton et al., SYNCHRONIZE-2, N Engl J Med",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Nausea and vomiting in MASH:",
+            "text": "in the Phase 2 MASH trial, nausea affected 66% and vomiting 41% on survodutide.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38847460/",
+                "label": "Sanyal et al., survodutide phase 2 in MASH, N Engl J Med",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Stopping treatment:",
+            "text": "in the Phase 2 obesity trial, only about six in ten people on either survodutide or placebo finished the 46 weeks of treatment.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38330987/",
+                "label": "le Roux et al., survodutide phase 2 in obesity, Lancet Diabetes Endocrinol",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Unknown products:",
+            "text": "FDA says survodutide products sold \"for research purposes\" are of unknown quality and may be harmful.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA: Concerns with unapproved GLP-1 drugs used for weight loss",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Whether Boehringer Ingelheim has filed survodutide for approval with FDA or EMA was not confirmed from a regulator record.",
+    "The UK status could not be checked from an MHRA record.",
+    "Results of the SYNCHRONIZE-CVOT heart-safety trial were not found.",
+    "WADA has not named survodutide or said whether its S0 class applies."
+  ],
+  "surprises": [
+    "FDA names survodutide among unapproved drugs being sold falsely \"for research purposes\", though the search found no approval for it anywhere."
+  ]
+}

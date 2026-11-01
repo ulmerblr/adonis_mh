@@ -1,0 +1,626 @@
+{
+  "slug": "topiramate",
+  "name": "Topiramate",
+  "row": "Topiramate",
+  "aka": [
+    "Topamax",
+    "Topamax Sprinkle",
+    "Qsymia (with phentermine)",
+    "Qsiva"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "weight"
+  ],
+  "index": {
+    "evidence": "Approved; weight RCTs",
+    "fda": "Weight: Qsymia only",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rodent seizure models; birth defects in animals",
+      "status": "done"
+    },
+    {
+      "title": "Epilepsy trials",
+      "line": "Controlled trials in the Topamax label",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: epilepsy",
+      "line": "Topamax 1996; later migraine prevention",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials, alone",
+      "line": "2003-2004: 385 and 1,289 adults; stopped early",
+      "status": "done"
+    },
+    {
+      "title": "Weight trials, combined",
+      "line": "With phentermine: 1-year trials, 3,700+ adults",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: weight",
+      "line": "Only in Qsymia (with phentermine), 2012",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Topiramate is an anti-seizure drug. As Topamax it is approved for epilepsy and for preventing migraine. For weight, it is approved only in one capsule with phentermine, sold as Qsymia.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+            "label": "Topamax label, DailyMed",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+            "label": "Qsymia label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The label says the exact way topiramate acts in epilepsy and migraine is unknown. Lab studies found 4 actions: it blocks certain sodium channels, increases the activity of the calming signal GABA at some receptors, blocks a type of glutamate receptor, and inhibits the enzyme carbonic anhydrase.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "text": "Weight loss and loss of appetite are listed among the common side effects in its epilepsy and migraine trials. The label does not explain how it lowers weight.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two large trials tested topiramate alone for weight in the early 2000s. The sponsor stopped the larger one early to develop a new formulation, and topiramate alone was never approved for weight. Later trials tested it with phentermine, which led to Qsymia."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies of topiramate alone"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2003 · Randomized trial",
+        "title": "Topiramate dose-ranging for weight, 385 adults, 6 months (Bray et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, dose-ranging trial: placebo or topiramate 64, 96, 192 or 384 mg/day"
+          },
+          {
+            "k": "People",
+            "v": "385 healthy obese adults aged 18 to 75; all in the same lifestyle program"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks, then a taper"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change; side effects"
+          }
+        ],
+        "found": "Weight fell 2.6% on placebo and 4.8% to 6.3% on topiramate. The most frequent side effects were tingling, sleepiness and trouble with memory, concentration and attention. 21% on topiramate and 11% on placebo stopped because of side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12805393/",
+            "label": "Bray GA, et al. Obes Res 2003",
+            "date": "published Jun 2003"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK-led · 2004 · Randomized trial",
+        "title": "Topiramate for weight, 1,289 adults, planned 2 years (Wilding et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial: placebo or topiramate 96, 192 or 256 mg/day"
+          },
+          {
+            "k": "People",
+            "v": "1,289 adults aged 18 to 75 with BMI 30 to 50, or 27 to 50 with controlled high blood pressure or high blood fats"
+          },
+          {
+            "k": "Length",
+            "v": "planned 2 years; the sponsor ended it early. Efficacy was analysed in 854 people who could reach 1 year"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change; blood pressure; glucose; side effects"
+          }
+        ],
+        "found": "At 60 weeks, weight fell 1.7% on placebo and 7.0%, 9.1% and 9.7% on the 3 topiramate doses. Side effects were mostly nervous-system effects: tingling, poor concentration, depression, memory and language problems, nervousness and slowed thinking.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15486569/",
+            "label": "Wilding J, et al. Int J Obes 2004",
+            "date": "published Nov 2004"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies with phentermine"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Randomized trial",
+        "title": "Topiramate alone, phentermine alone, both, or placebo, 28 weeks (Aronne et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, controlled trial with 7 arms, including topiramate ER 46 or 92 mg alone"
+          },
+          {
+            "k": "People",
+            "v": "obese adults; all had lifestyle counselling"
+          },
+          {
+            "k": "Length",
+            "v": "28 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight loss; share losing at least 5%; memory and attention tests"
+          }
+        ],
+        "found": "Losing at least 5% of body weight: 15.5% on placebo, 39.2% and 48.6% on topiramate alone, and 62.1% and 66.0% on the combination. Testing found a problem only with attention.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24136928/",
+            "label": "Aronne LJ, et al. Obesity 2013",
+            "date": "published Nov 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized trials",
+        "title": "Qsymia 1-year trials, 3,754 adults (Studies 1 and 2 in the label)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "2 randomized, double-blind, placebo-controlled trials (NCT00554216, NCT00553787)"
+          },
+          {
+            "k": "People",
+            "v": "1,267 adults with BMI 35 or more, and 2,487 adults with BMI 27 to 45 and at least 2 weight-related conditions"
+          },
+          {
+            "k": "Length",
+            "v": "4-week dose build-up, then 52 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "percent weight change and share losing at least 5% at week 56"
+          }
+        ],
+        "found": "On the full-strength combination, weight fell 10.9% and 9.8%, compared with 1.6% and 1.2% on placebo. 40% and 31% of people left before week 56.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+            "label": "Qsymia label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Topiramate is FDA approved, by prescription, as Topamax for epilepsy and migraine prevention. For weight, the only approved product is Qsymia, which combines it with phentermine. Using topiramate alone for weight is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Topamax:",
+            "text": "Topamax tablets were approved December 24, 1996 as a new molecular entity (NDA 020505); Topamax Sprinkle capsules followed on October 26, 1998 (NDA 020844). The current label covers seizures from age 2 and migraine prevention from age 12.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020505",
+                "label": "Drugs@FDA data (openFDA), NDA 020505",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020844",
+                "label": "Drugs@FDA data (openFDA), NDA 020844",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Qsymia:",
+            "text": "Qsymia (phentermine and extended-release topiramate) was approved July 17, 2012 (NDA 022580) for long-term weight reduction with diet and exercise. Because of birth-defect risk, it is distributed only through certified pharmacies under the Qsymia REMS. The label calls for a pregnancy test before starting and every month in people who can become pregnant.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022580",
+                "label": "Drugs@FDA data (openFDA), NDA 022580",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "topiramate on its own is not approved for weight loss in the US. Using it that way is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled status:",
+            "text": "topiramate is not a controlled substance. In Qsymia, the phentermine part is Schedule IV.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Topiramate is an approved prescription medicine for epilepsy and migraine in the US, Canada, the UK, the EU and Australia. The EU and UK now restrict its use in pregnancy with a pregnancy prevention programme. EMA refused the combination with phentermine in 2013. It is not on WADA's list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Topamax 1996, epilepsy; migraine prevention). For weight, only in Qsymia (2012). Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020505",
+              "label": "Drugs@FDA data (openFDA), NDA 020505",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022580",
+              "label": "Drugs@FDA data (openFDA), NDA 022580",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: Topamax by Janssen, marketed since 1999. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=TOPAMAX",
+              "label": "Drug Product Database, Health Canada (Topamax)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=63399",
+              "label": "Drug Product Database status, Health Canada (Topamax)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine (Topamax). Since June 2024 it must not be used in pregnancy, or by women who could become pregnant, unless the conditions of a Pregnancy Prevention Programme are met.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/topiramate-topamax-introduction-of-new-safety-measures-including-a-pregnancy-prevention-programme",
+              "label": "MHRA Drug Safety Update, topiramate pregnancy prevention",
+              "date": "published Jun 2024"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Authorised nationally for epilepsy and migraine prevention. Since October 2023, a pregnancy prevention programme applies. EMA refused Qsiva (with phentermine) in 2013.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/topiramate",
+              "label": "EMA, topiramate review (pregnancy measures)",
+              "date": "published Oct 2023"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qsiva",
+              "label": "EMA, Qsiva (refused)",
+              "date": "published Jun 2013"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Topamax and generic topiramate. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=topiramate",
+              "label": "TGA, PI/CMI search: topiramate",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union: in October 2023, the EU coordination group (CMDh) endorsed measures from EMA's safety committee because topiramate may raise the risk of neurodevelopmental problems in children exposed in the womb, on top of known birth defects. EMA says topiramate must not be used to prevent migraine or manage body weight during pregnancy. It also notes that in some EU countries topiramate is used with phentermine for weight reduction.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/topiramate",
+              "label": "EMA, topiramate review (pregnancy measures)",
+              "date": "published Oct 2023"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "European Union: EMA's committee refused Qsiva in October 2012 and confirmed it in February 2013. Among its concerns were long-term psychiatric effects (depression and anxiety), memory and attention problems from topiramate, and harm to an unborn baby.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qsiva",
+              "label": "EMA, Qsiva (refused)",
+              "date": "published Jun 2013"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Topiramate is not named on the WADA 2026 Prohibited List or the 2027 List, and it is approved, so class S0 does not apply. Qsymia also contains phentermine, which is banned in competition (class S6.A).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Topiramate can harm an unborn baby, including cleft lip and palate. Its labels also warn of sudden eye problems, metabolic acidosis, kidney stones, mood changes, suicidal thoughts, and problems with memory, attention and speech."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Pregnancy:",
+            "text": "first-trimester exposure raises the risk of major birth defects, including cleft lip and palate, and of babies being small for their age. Birth defects occurred in several animal species.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Child development:",
+            "text": "the UK MHRA also cites a possible higher risk of intellectual disability, autism spectrum disorder and ADHD in children of mothers who took topiramate in pregnancy.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/topiramate-topamax-introduction-of-new-safety-measures-including-a-pregnancy-prevention-programme",
+                "label": "MHRA Drug Safety Update, topiramate pregnancy prevention",
+                "date": "published Jun 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Eyes:",
+            "text": "sudden short-sightedness and secondary angle-closure glaucoma, which can lead to permanent vision loss; visual field defects.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Body chemistry:",
+            "text": "too much acid in the blood (metabolic acidosis), kidney stones (1.5% of adults in epilepsy trials, 2 to 4 times the expected rate, higher in men), decreased sweating with overheating, and high ammonia.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Suicidal thoughts:",
+            "text": "antiepileptic drugs, including topiramate, about double the risk of suicidal thoughts or behaviour compared with placebo (0.43% vs 0.24% in pooled trials).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Thinking and mood:",
+            "text": "slowed thinking, trouble finding words, poor concentration and memory, depression and mood problems. The label warns about driving and operating machinery.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Common effects:",
+            "text": "in migraine trials: tingling, loss of appetite, weight loss, altered taste, diarrhea, memory problems, numbness and nausea. In Qsymia trials: tingling, dizziness, altered taste, insomnia, constipation and dry mouth.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Stopping:",
+            "text": "stopping suddenly can cause seizures, even in people without epilepsy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9",
+                "label": "Qsymia label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "in rats, topiramate did not affect male or female fertility. No human fertility studies were found.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=21628112-0c47-11df-95b3-498d55d89593",
+                "label": "Topamax label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The year FDA approved Topamax for migraine prevention was not confirmed from FDA's record.",
+    "Which EU countries authorise a phentermine and topiramate product nationally was not checked."
+  ],
+  "surprises": [
+    "EMA refused the phentermine and topiramate combination in 2013, yet EMA's 2023 topiramate review says that in some EU countries topiramate is used with phentermine for weight reduction."
+  ]
+}
