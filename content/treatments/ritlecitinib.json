@@ -1,0 +1,463 @@
+{
+  "slug": "ritlecitinib",
+  "name": "Ritlecitinib",
+  "row": "Ritlecitinib",
+  "aka": [
+    "Litfulo",
+    "PF-06651600"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Approved; Phase 2b/3 RCT",
+    "fda": "Approved (Litfulo)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Dog studies: reversible hearing changes (label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Studied before the 2023 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Phase 2a: 48 on ritlecitinib vs 47 placebo (2021)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "ALLEGRO-2b/3: 718 people aged 12+ (2023)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Litfulo, 2023, severe alopecia areata, age 12+",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "EU, UK, Japan (2023); Canada (2024)",
+      "status": "done"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Ritlecitinib is a kinase inhibitor taken by mouth. It irreversibly blocks JAK3 and the TEC family of kinases, which relay immune signals. How this relates to its effect is not known.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+            "label": "Litfulo label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It treats alopecia areata, an autoimmune disease in which the immune system attacks hair follicles. It is not a treatment for male pattern hair loss.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+            "label": "Litfulo label, DailyMed",
+            "date": "published Jun 2026"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/litfulo",
+            "label": "EMA, Litfulo EPAR overview",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Approval rests mainly on one Phase 2b/3 trial, ALLEGRO-2b/3, in 718 people aged 12 and older with at least 50% scalp hair loss, run by Pfizer, the maker."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "18 countries · 2023 · Randomized Phase IIb/III",
+        "title": "ALLEGRO-2b/3 (King et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 2b/3 trial at 118 sites"
+          },
+          {
+            "k": "People",
+            "v": "718 people aged 12 and older with alopecia areata and at least 50% scalp hair loss; 105 were 12 to 17"
+          },
+          {
+            "k": "What was given",
+            "v": "ritlecitinib 10, 30 or 50 mg a day, with or without a 200 mg loading dose for 4 weeks, or placebo; placebo groups switched to ritlecitinib after 24 weeks"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks placebo-controlled, then a 24-week extension"
+          },
+          {
+            "k": "Measured",
+            "v": "share with SALT 20 or less (80% or more scalp hair) at week 24"
+          }
+        ],
+        "found": "At week 24, 23% on 50 mg (the approved dose) reached SALT 20 or less vs 2% on placebo. With a 200 mg loading dose then 50 mg, 31% did. Adverse events were similar between groups, and there were no deaths. Funded by Pfizer.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37062298/",
+            "label": "King et al., Lancet (ALLEGRO-2b/3)",
+            "date": "published May 2023"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03732807",
+            "label": "ClinicalTrials.gov, ALLEGRO-2b/3 (NCT03732807)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+            "label": "Litfulo label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2021 · Randomized Phase IIa",
+        "title": "Ritlecitinib and brepocitinib (King et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled Phase 2a trial"
+          },
+          {
+            "k": "People",
+            "v": "142 adults with at least 50% scalp hair loss: 48 on ritlecitinib, 47 on brepocitinib, 47 on placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in SALT score; share with at least 30% improvement"
+          }
+        ],
+        "found": "SALT score improved more on ritlecitinib than placebo (difference 31.1 points). 50% on ritlecitinib reached a 30% improvement vs 2% on placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33757798/",
+            "label": "King et al., J Am Acad Dermatol (Phase 2a)",
+            "date": "published Aug 2021"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In dogs given ritlecitinib for many months at high doses, reversible hearing loss and changes in hearing nerve tests appeared. They were not seen at lower doses. The cause was not identified.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+            "label": "Litfulo label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA approved ritlecitinib as Litfulo on June 23, 2023, for severe alopecia areata in adults and adolescents 12 and older. It has a boxed warning. It is not approved for male pattern hair loss. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 215830, Pfizer. A prescription capsule for severe alopecia areata, age 12 and older. Not to be combined with other JAK inhibitors, biologic immune drugs, cyclosporine or other strong immunosuppressants.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215830",
+                "label": "openFDA Drugs@FDA record, NDA 215830 (Litfulo)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+                "label": "Litfulo label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Litfulo:"
+          },
+          {
+            "text": "serious infections, death, cancer, major heart events and blood clots. The label notes it is not approved for rheumatoid arthritis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+                "label": "Litfulo label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Ritlecitinib (Litfulo) is an approved prescription medicine for severe alopecia areata from age 12 in the US, the EU, the UK and Japan, and is marketed in Canada.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Litfulo (2023), severe alopecia areata, age 12+. Prescription-only. Boxed warning.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215830",
+              "label": "openFDA Drugs@FDA record, NDA 215830 (Litfulo)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+              "label": "Litfulo label, DailyMed",
+              "date": "published Jun 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved prescription drug: Litfulo, marketed since February 2024.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?id=103199&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Litfulo (DIN 02543532)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=103199&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Litfulo market status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine: Litfulo, authorised November 1, 2023, for severe alopecia areata, age 12+.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/mhra-authorises-litfulo-as-a-treatment-for-severe-alopecia-areata-in-adults-and-adolescents-12-years-and-older",
+              "label": "MHRA press release, Litfulo authorised",
+              "date": "published Nov 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Approved medicine: Litfulo, authorised EU-wide on September 15, 2023, for severe alopecia areata, age 12+. Under additional monitoring.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/litfulo",
+              "label": "EMA, Litfulo EPAR overview",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Litfulo has Australian Product Information on TGA's site. Approved uses not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=PI&q=ritlecitinib",
+              "label": "TGA Product Information search: ritlecitinib",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Japan",
+          "regulator": "PMDA / MHLW",
+          "status": "Approved medicine: Litfulo, June 26, 2023, for severe, hard-to-treat alopecia areata.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.pmda.go.jp/files/000281190.pdf",
+              "label": "PMDA, list of approved products in Japan, April 2004 to February 2026",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "392"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Ritlecitinib is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is approved for human use, so class S0 (non-approved substances) does not cover it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Litfulo has a boxed warning for serious infections, death, cancer, major heart events and blood clots. Common side effects include headache, diarrhea, acne, rash and hives."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "higher risk of serious infections, including tuberculosis, that can lead to hospitalization or death. Malignancies have been reported in people taking Litfulo. Another JAK inhibitor had higher rates of death, lymphoma, lung cancer and major heart events than TNF blockers in rheumatoid arthritis. Blood clots have occurred.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+                "label": "Litfulo label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          },
+          {
+            "text": "the most frequent were appendicitis, COVID-19 (including pneumonia) and sepsis. Shingles affecting several skin areas was reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+                "label": "Litfulo label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Serious infections seen:"
+          },
+          {
+            "text": "headache, diarrhea, acne, rash, hives, folliculitis, fever, eczema, dizziness, raised creatine kinase, shingles, lower red blood cell count and mouth sores.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+                "label": "Litfulo label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Common (1% or more):"
+          },
+          {
+            "text": "allergic reactions, low blood sugar in people with diabetes, and drops in lymphocytes and platelets, which are checked before starting. Live vaccines should be avoided.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3",
+                "label": "Litfulo label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Other warnings:"
+          },
+          {
+            "text": "EMA says Litfulo must not be used in women who are pregnant or breastfeeding.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/litfulo",
+                "label": "EMA, Litfulo EPAR overview",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Pregnancy:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Australia's Product Information document sits behind a licence page and was not opened, so the approved Australian uses were not checked.",
+    "Health Canada's database API does not list Litfulo's approved use."
+  ],
+  "surprises": [
+    "Ritlecitinib treats alopecia areata, an autoimmune disease, not male pattern hair loss.",
+    "Dog studies described in the US label found reversible hearing loss at high doses, and the cause was not identified."
+  ]
+}

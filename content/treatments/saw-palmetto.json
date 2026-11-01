@@ -1,0 +1,495 @@
+{
+  "slug": "saw-palmetto",
+  "name": "Saw palmetto",
+  "row": "Saw palmetto",
+  "aka": [
+    "Serenoa repens",
+    "Sabal serrulata",
+    "Saw palmetto berry extract"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Small hair studies",
+    "fda": "Not a drug for hair",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse hair studies; lab enzyme studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small hair trials; open study vs finasteride",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Hair: small RCTs, e.g. 60 adults for 6 months",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Hair: none. Prostate: STEP and CAMUS, no benefit",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved as a drug for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Saw palmetto is an extract of the fruit (berries) of the Serenoa repens palm. Lab studies suggest it may reduce the action of male hormones such as testosterone and may reduce inflammation; how it acts is not fully known.",
+        "src": [
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/herbal/sabalis-serrulatae-fructus",
+            "label": "EMA, saw palmetto fruit herbal medicine summary",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is sold as a dietary supplement: herbs and other botanicals are dietary ingredients under the law that defines dietary supplements.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "There is little research on saw palmetto for hair loss. Large trials for prostate symptoms found no benefit."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The hair-loss evidence is a handful of small or open-label studies, often of mixed products. NIH says the evidence is too limited to reach conclusions. For an enlarged prostate, two large US trials found saw palmetto no better than placebo."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: hair loss"
+      },
+      {
+        "t": "study",
+        "meta": "2012 · Open-label comparison",
+        "title": "Saw palmetto vs finasteride (Rossi et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label study, no placebo"
+          },
+          {
+            "k": "People",
+            "v": "100 men with mild to moderate androgenetic alopecia"
+          },
+          {
+            "k": "What was given",
+            "v": "saw palmetto 320 mg a day or finasteride 1 mg a day"
+          },
+          {
+            "k": "Length",
+            "v": "24 months"
+          },
+          {
+            "k": "Measured",
+            "v": "photo-based score at the start and end"
+          }
+        ],
+        "found": "38% of men on saw palmetto had more hair growth vs 68% on finasteride.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23298508/",
+            "label": "Rossi et al., Int J Immunopathol Pharmacol",
+            "date": "published Oct 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2026 · Randomized trial",
+        "title": "A proprietary saw palmetto extract (Ablon)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "60 healthy adult men and women with self-perceived thinning hair (40 active, 20 placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "terminal and vellus hair counts, hair density"
+          }
+        ],
+        "found": "Terminal hair count rose by 18.6 on the extract vs a fall of 10.1 on placebo. No treatment-related adverse events. The extract is a branded ingredient named in the paper.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41652806/",
+            "label": "Ablon, J Cosmet Dermatol",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2020 systematic review found 5 randomized trials and 2 cohort studies of products containing saw palmetto, many combined with other ingredients. It said high-quality data are lacking and larger trials of saw palmetto alone are needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33313047/",
+            "label": "Evron et al., Skin Appendage Disord (systematic review)",
+            "date": "published Nov 2020"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In a 2018 study, a saw palmetto extract improved survival of skin cells exposed to DHT, and in mice given DHT to cause hair loss it increased hair density, weight and thickness. These are cell and animal results only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29949176/",
+            "label": "Eur Rev Med Pharmacol Sci, saw palmetto in hair-loss mice",
+            "date": "published Jun 2018"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: enlarged prostate"
+      },
+      {
+        "t": "study",
+        "meta": "US · 2006 · Randomized trial",
+        "title": "STEP (Bent et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled randomized trial"
+          },
+          {
+            "k": "People",
+            "v": "225 men over 49 with moderate to severe BPH symptoms"
+          },
+          {
+            "k": "What was given",
+            "v": "saw palmetto extract 160 mg twice a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "1 year"
+          },
+          {
+            "k": "Measured",
+            "v": "urinary symptom score (AUASI), urine flow, prostate size, PSA"
+          }
+        ],
+        "found": "No difference from placebo on symptoms, urine flow, prostate size, quality of life or PSA. Side effects were similar.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16467543/",
+            "label": "Bent et al., N Engl J Med (STEP)",
+            "date": "published Feb 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "North America · 2011 · Randomized trial",
+        "title": "CAMUS (Barry et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled randomized trial at 11 sites"
+          },
+          {
+            "k": "People",
+            "v": "369 men aged 45 and older with urinary symptoms"
+          },
+          {
+            "k": "What was given",
+            "v": "saw palmetto extract, rising from 320 mg to 960 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "72 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in urinary symptom score (AUASI)"
+          }
+        ],
+        "found": "Symptom scores fell by 2.20 points on saw palmetto and 2.99 on placebo. Saw palmetto was no better than placebo on any measure. No clearly attributable side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21954478/",
+            "label": "Barry et al., JAMA (CAMUS)",
+            "date": "published Sep 2011"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Saw palmetto is not an FDA-approved drug for hair loss or any other use. It is sold as a dietary supplement. FDA does not have the authority to approve dietary supplements before they are marketed. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "herbs and other botanicals are dietary ingredients under 21 U.S.C. 321(ff).",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Dietary supplement:"
+          },
+          {
+            "text": "FDA does not approve dietary supplements before they are marketed, and a firm generally does not have to give FDA its evidence of safety.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "No FDA review before sale:"
+          },
+          {
+            "text": "NCCIH says small studies of saw palmetto by mouth or on the scalp for male pattern hair loss are too limited to allow conclusions.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/saw-palmetto",
+                "label": "NCCIH (NIH), Saw palmetto: usefulness and safety",
+                "date": "updated Apr 2025"
+              }
+            ],
+            "lead": "NIH:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US saw palmetto is a dietary supplement. In the EU it has an official herbal medicine monograph for prostate symptoms, not for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Sold as a dietary supplement. Not an FDA-approved drug. Not reviewed by FDA before sale.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA (HMPC)",
+          "status": "Herbal monograph: hexane extract for symptoms of an enlarged prostate (well-established use); ethanol extract for related urinary symptoms (traditional use). Not for hair loss.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/herbal/sabalis-serrulatae-fructus",
+              "label": "EMA, saw palmetto fruit herbal medicine summary",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Saw palmetto is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Saw palmetto is usually well tolerated in studies. Side effects are mild and uncommon. FDA does not review supplements for safety before they are sold."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NCCIH lists digestive symptoms, dizziness and headache. EMA lists stomach pain and headache in 1 to 10 in 100 people.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/saw-palmetto",
+                "label": "NCCIH (NIH), Saw palmetto: usefulness and safety",
+                "date": "updated Apr 2025"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/herbal/sabalis-serrulatae-fructus",
+                "label": "EMA, saw palmetto fruit herbal medicine summary",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Common side effects:"
+          },
+          {
+            "text": "saw palmetto does not appear to affect PSA readings, even at higher amounts.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/saw-palmetto",
+                "label": "NCCIH (NIH), Saw palmetto: usefulness and safety",
+                "date": "updated Apr 2025"
+              }
+            ],
+            "lead": "PSA:"
+          },
+          {
+            "text": "side effects were similar to placebo in the 1-year STEP trial, and none were clearly attributable to saw palmetto in CAMUS.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16467543/",
+                "label": "Bent et al., N Engl J Med (STEP)",
+                "date": "published Feb 2006"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21954478/",
+                "label": "Barry et al., JAMA (CAMUS)",
+                "date": "published Sep 2011"
+              }
+            ],
+            "lead": "Trials:"
+          },
+          {
+            "text": "FDA does not approve supplements before they are marketed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Supplements:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Saw palmetto's status in Canada (natural health products), the UK and Australia was not checked against a regulator record.",
+    "The 2023 oral and topical saw palmetto oil trial and a 2025 study of a mixed supplement were found in PubMed but not reviewed."
+  ],
+  "surprises": [
+    "In the only head-to-head study with finasteride found (open-label, 100 men, 2 years), 38% improved on saw palmetto vs 68% on finasteride.",
+    "Two large US trials (STEP, 225 men; CAMUS, 369 men up to triple dose) found saw palmetto no better than placebo for prostate symptoms, while the EU herbal monograph still lists it for BPH symptoms."
+  ]
+}

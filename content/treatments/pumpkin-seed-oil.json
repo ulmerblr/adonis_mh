@@ -1,0 +1,401 @@
+{
+  "slug": "pumpkin-seed-oil",
+  "name": "Pumpkin seed oil",
+  "row": "Pumpkin seed oil",
+  "aka": [
+    "Cucurbita pepo seed oil",
+    "PSO"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "1 small RCT in men",
+    "fda": "Not a drug for hair",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse hair studies (2019, 2022)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "One RCT: 76 Korean men, 24 weeks (2014)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "One open trial in 60 women vs minoxidil (2021)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved as a drug for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Pumpkin seed oil comes from the seeds of Cucurbita pepo. The authors of the main hair trial note it has been shown to block 5α-reductase and to have antiandrogen effects in rats.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24864154/",
+            "label": "Cho et al., Evid Based Complement Alternat Med",
+            "date": "published Apr 2014"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it can be sold as a dietary supplement, since botanicals and their extracts are dietary ingredients under the law.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "There is little research on pumpkin seed oil for hair loss: one small trial in men."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "One randomized, placebo-controlled trial in 76 men (2014) and one comparison with minoxidil in 60 women (2021) have been published. The 2014 trial tested a capsule product and was funded by its supplier."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Korea · 2014 · Randomized trial",
+        "title": "Pumpkin seed oil capsules in men (Cho et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "76 men with mild to moderate androgenetic alopecia; 12 dropped out"
+          },
+          {
+            "k": "What was given",
+            "v": "400 mg of pumpkin seed oil a day, as a branded capsule product, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "blinded photo assessment, self-assessment, hair thickness and hair count"
+          }
+        ],
+        "found": "Mean hair count rose by 40% on pumpkin seed oil vs 10% on placebo. Self-rated improvement and satisfaction were higher. Adverse effects did not differ. The capsules, the randomization codes and a grant came from the product's supplier. DHT and PSA were not measured. A published comment noted that results for the front of the scalp were not reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24864154/",
+            "label": "Cho et al., Evid Based Complement Alternat Med",
+            "date": "published Apr 2014"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4017725/",
+            "label": "Cho et al., full text (Europe PMC)",
+            "date": "published Apr 2014"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25918542/",
+            "label": "Verma, comment on Cho et al.",
+            "date": "published Mar 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Egypt · 2021 · Randomized comparative trial",
+        "title": "Pumpkin seed oil vs minoxidil foam in women (Ibrahim et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized comparison, no placebo"
+          },
+          {
+            "k": "People",
+            "v": "60 women with female pattern hair loss (30 per group)"
+          },
+          {
+            "k": "What was given",
+            "v": "pumpkin seed oil or minoxidil 5% foam"
+          },
+          {
+            "k": "Length",
+            "v": "3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "clinical and dermoscopic (magnified scalp) findings"
+          }
+        ],
+        "found": "Both groups had less variation in hair-shaft thickness and fewer vellus hairs after treatment. Regrowing hairs increased in the pumpkin seed oil group.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33544448/",
+            "label": "Ibrahim et al., J Cosmet Dermatol",
+            "date": "published Sep 2021"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In male mice given testosterone to block hair growth, 10% pumpkin seed oil on the skin for 3 weeks raised hair growth scores and the share of follicles in the growth phase. A 2022 mouse study tested it both on the skin and by mouth. These are animal results only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31763209/",
+            "label": "Avicenna J Phytomed, pumpkin seed oil in mice",
+            "date": "published Nov 2019"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35447441/",
+            "label": "Acta Histochem, oral and topical pumpkin oil in mice",
+            "date": "published May 2022"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Pumpkin seed oil is not an FDA-approved drug for hair loss or any other use. It can be sold as a dietary supplement. FDA does not have the authority to approve dietary supplements before they are marketed. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "botanicals and their extracts are dietary ingredients under 21 U.S.C. 321(ff).",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Dietary supplement:"
+          },
+          {
+            "text": "FDA does not approve dietary supplements before they are marketed, and a firm generally does not have to give FDA its evidence of safety.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "No FDA review before sale:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US pumpkin seed is a dietary supplement. In the EU, pumpkin seed has an official traditional herbal medicine monograph for urinary symptoms of an enlarged prostate or overactive bladder, not for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement. Not an FDA-approved drug. Not reviewed by FDA before sale.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA (HMPC)",
+          "status": "Traditional herbal medicine monograph (pumpkin seed) for urinary symptoms of an enlarged prostate or overactive bladder. Not for hair loss.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+              "label": "EMA, Community herbal monograph on pumpkin seed (Cucurbita pepo L., semen)",
+              "date": "published Mar 2013"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Pumpkin seed oil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is little safety data on pumpkin seed oil for hair loss. The trials reported no difference in side effects from placebo. FDA does not review supplements before they are sold."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "adverse effects did not differ between pumpkin seed oil and placebo over 24 weeks. A questionnaire on erections (IIEF-5) showed no difference between groups.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24864154/",
+                "label": "Cho et al., Evid Based Complement Alternat Med",
+                "date": "published Apr 2014"
+              },
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4017725/",
+                "label": "Cho et al., full text (Europe PMC)",
+                "date": "published Apr 2014"
+              }
+            ],
+            "lead": "Hair trial:"
+          },
+          {
+            "text": "mild stomach and bowel complaints are listed as common (4%) for pumpkin seed herbal medicines.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+                "label": "EMA, Community herbal monograph on pumpkin seed (Cucurbita pepo L., semen)",
+                "date": "published Mar 2013"
+              }
+            ],
+            "lead": "EU monograph:"
+          },
+          {
+            "text": "FDA does not approve supplements before they are marketed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Supplements:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The full ingredient list of the branded capsule used in the 2014 trial was not given in the paper's methods, so whether it contained only pumpkin seed oil was not confirmed.",
+    "The 2022 mouse study was read only in part (abstract start); its findings are not reported here.",
+    "Pumpkin seed oil's status in Canada, the UK and Australia was not checked against a regulator record."
+  ],
+  "surprises": [
+    "The single trial behind pumpkin seed oil for male hair loss was 76 men for 24 weeks, funded by the capsule supplier, which also held the randomization codes."
+  ]
+}

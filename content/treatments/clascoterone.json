@@ -1,0 +1,518 @@
+{
+  "slug": "clascoterone",
+  "name": "Clascoterone",
+  "row": "Clascoterone",
+  "aka": [
+    "Winlevi",
+    "CB-03-01",
+    "Cortexolone 17α-propionate"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss",
+    "skin"
+  ],
+  "index": {
+    "evidence": "Acne Ph3; hair Ph3 unpubl.",
+    "fda": "Approved (Winlevi)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Blocks androgen signals in scalp cells (2019)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Heart-rhythm (QT) and drug-level studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Hair: 95 men, solution (2014 to 2016)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Hair: SCALP1 and SCALP2 done; results not posted",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Winlevi cream, 2020, acne (age 12+)",
+      "status": "done"
+    },
+    {
+      "title": "Hair-loss approval",
+      "line": "Not approved for hair loss anywhere found",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Clascoterone (cortexolone 17α-propionate) is a steroid that blocks the androgen receptor in the skin. It does not lower testosterone or DHT; it stops them from acting on the receptor where it is applied. FDA's label says how this helps acne is unknown.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+            "label": "Winlevi label, DailyMed",
+            "date": "published Jan 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In lab-grown human scalp cells (dermal papilla cells), clascoterone blocked androgen-driven gene activity about as well as finasteride, and lowered a DHT-driven inflammatory signal (IL-6) more than enzalutamide. This is a cell study by the developer's scientists.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30811143/",
+            "label": "Rosette et al., J Drugs Dermatol",
+            "date": "published Feb 2019"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is sold as Winlevi 1% cream for acne. A stronger 5% solution has been tested for male pattern hair loss.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+            "label": "Winlevi label, DailyMed",
+            "date": "published Jan 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05910450",
+            "label": "ClinicalTrials.gov, SCALP1 (NCT05910450)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "For acne, two Phase 3 trials in 1,440 people supported FDA approval. For hair loss, two Phase 3 trials (SCALP1 and SCALP2) in about 1,465 men are finished, but no results are posted on ClinicalTrials.gov and no peer-reviewed paper was found."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: hair loss"
+      },
+      {
+        "t": "study",
+        "meta": "US and Europe · 2023 to 2026 · Randomized Phase III",
+        "title": "SCALP1 and SCALP2, clascoterone 5% solution",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two randomized, double-blind, vehicle-controlled Phase 3 trials: 6 months double-blind, then 6 months single-blind"
+          },
+          {
+            "k": "People",
+            "v": "men 18 and older with androgenetic alopecia: 703 in SCALP1, 762 in SCALP2"
+          },
+          {
+            "k": "What was given",
+            "v": "clascoterone 5% solution on the scalp, or vehicle (an inactive solution)"
+          },
+          {
+            "k": "Length",
+            "v": "12 months in total"
+          },
+          {
+            "k": "Measured",
+            "v": "change in non-vellus hair count in the target area, and men's own rating of hair coverage, at 6 months"
+          }
+        ],
+        "found": "Both trials are listed as completed (SCALP2 in July 2025, SCALP1 in January 2026). No results are posted on ClinicalTrials.gov, and the search found no peer-reviewed results. Sponsor: Cassiopea.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05910450",
+            "label": "ClinicalTrials.gov, SCALP1 (NCT05910450)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05914805",
+            "label": "ClinicalTrials.gov, SCALP2 (NCT05914805)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=clascoterone+AND+(alopecia+OR+hair)",
+            "label": "PubMed search for 'clascoterone AND (alopecia OR hair)'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results posted"
+      },
+      {
+        "t": "study",
+        "meta": "US · 2014 to 2016 · Randomized Phase II",
+        "title": "Phase 2 trial of clascoterone solution",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Phase 2 trial of CB-03-01 (clascoterone) solution vs a comparator solution and vehicle"
+          },
+          {
+            "k": "People",
+            "v": "95 men with androgenetic alopecia"
+          },
+          {
+            "k": "Length",
+            "v": "started October 2014, completed May 2016"
+          }
+        ],
+        "found": "Completed. No results are posted on ClinicalTrials.gov. Sponsor: Intrepid Therapeutics.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02279823",
+            "label": "ClinicalTrials.gov, Phase 2 hair-loss trial (NCT02279823)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results posted"
+      },
+      {
+        "t": "h3",
+        "text": "Human studies: acne"
+      },
+      {
+        "t": "study",
+        "meta": "US and Europe · 2020 · Two randomized Phase III trials",
+        "title": "Winlevi cream for facial acne (Hebert et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two identical, randomized, double-blind, vehicle-controlled Phase 3 trials (CB-03-01/25 and /26)"
+          },
+          {
+            "k": "People",
+            "v": "1,440 males and non-pregnant females aged 9 and older with moderate or severe facial acne"
+          },
+          {
+            "k": "What was given",
+            "v": "clascoterone 1% cream or vehicle cream on the face twice a day"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "treatment success (clear or almost clear, with a 2-grade improvement) and lesion counts"
+          }
+        ],
+        "found": "Treatment success was 18.4% and 20.3% with clascoterone vs 9.0% and 6.5% with vehicle. Some authors are employed by Cassiopea, the developer.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32320027/",
+            "label": "Hebert et al., JAMA Dermatol",
+            "date": "published Jun 2020"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02608450",
+            "label": "ClinicalTrials.gov, acne Phase 3 trial 25 (NCT02608450)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02608476",
+            "label": "ClinicalTrials.gov, acne Phase 3 trial 26 (NCT02608476)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA approved clascoterone as Winlevi 1% cream on August 26, 2020, for acne in people 12 and older. No clascoterone product is FDA approved for hair loss; the solution for hair loss is still investigational. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 213433, Sun Pharmaceutical. A prescription cream for acne vulgaris in patients 12 years and older.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213433",
+                "label": "openFDA Drugs@FDA record, NDA 213433 (Winlevi)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+                "label": "Winlevi label, DailyMed",
+                "date": "published Jan 2025"
+              }
+            ],
+            "lead": "Winlevi:"
+          },
+          {
+            "text": "clascoterone 5% solution has finished two Phase 3 trials (NCT05910450, NCT05914805). The search found no FDA approval for hair loss. Using the acne cream on the scalp would be off-label.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05910450",
+                "label": "ClinicalTrials.gov, SCALP1 (NCT05910450)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05914805",
+                "label": "ClinicalTrials.gov, SCALP2 (NCT05914805)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=clascoterone",
+                "label": "ClinicalTrials.gov search for 'clascoterone'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Hair loss:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Clascoterone cream is an approved acne medicine in the US (2020), Canada and the EU (2025), and has Australian Product Information. No country was found that approves it for hair loss.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Winlevi cream (2020) for acne, age 12+. Prescription-only. Not approved for hair loss.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213433",
+              "label": "openFDA Drugs@FDA record, NDA 213433 (Winlevi)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+              "label": "Winlevi label, DailyMed",
+              "date": "published Jan 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved prescription drug: Winlevi, marketed since 2023.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?id=102757&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Winlevi (DIN 02538881)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=102757&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Winlevi market status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Approved medicine: Winlevi, authorised EU-wide on October 17, 2025, for acne in adults and facial acne from age 12. Not approved for hair loss.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/winlevi",
+              "label": "EMA, Winlevi EPAR overview",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Winlevi has Australian Product Information on TGA's site. Approved uses not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=PI&q=clascoterone",
+              "label": "TGA Product Information search: clascoterone",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Clascoterone is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is approved for human use, so class S0 (non-approved substances) does not cover it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Winlevi cream mostly causes skin reactions where it is put on. Because it is a steroid absorbed into the body, it can also suppress the adrenal glands (HPA axis) and raise potassium. Safety of the 5% hair-loss solution has not been published."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "in the 12-week acne trials, redness occurred in 12.2% on Winlevi vs 15.4% on vehicle, scaling or dryness in 10.5% vs 10.4%, and itching in 7.7% vs 8.2%. Skin thinning (atrophy), stretch marks and small visible blood vessels were also seen at similar rates.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+                "label": "Winlevi label, DailyMed",
+                "date": "published Jan 2025"
+              }
+            ],
+            "lead": "Skin reactions:"
+          },
+          {
+            "text": "in a 2-week study, signs of HPA axis suppression appeared in 1 of 20 adults (5%) and 2 of 22 adolescents (9%). All returned to normal 4 weeks after stopping. The label says children may be more susceptible.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+                "label": "Winlevi label, DailyMed",
+                "date": "published Jan 2025"
+              }
+            ],
+            "lead": "Adrenal suppression:"
+          },
+          {
+            "text": "potassium rose from normal to high in 5% of people on clascoterone vs 4% on vehicle; hyperkalemia is listed as an adverse reaction.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+                "label": "Winlevi label, DailyMed",
+                "date": "published Jan 2025"
+              }
+            ],
+            "lead": "Potassium:"
+          },
+          {
+            "text": "there are no human data. In rats and rabbits given injected clascoterone, malformations and pregnancy loss rose. EMA says Winlevi must not be used during pregnancy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+                "label": "Winlevi label, DailyMed",
+                "date": "published Jan 2025"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/winlevi",
+                "label": "EMA, Winlevi EPAR overview",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Pregnancy:"
+          },
+          {
+            "text": "no safety results for the 5% solution are posted or published.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05910450",
+                "label": "ClinicalTrials.gov, SCALP1 (NCT05910450)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05914805",
+                "label": "ClinicalTrials.gov, SCALP2 (NCT05914805)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Hair-loss solution:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The brand name Breezula for the hair-loss solution was not found on a regulator or registry record opened for this page; the registry calls it clascoterone solution.",
+    "Topline results of SCALP1 and SCALP2 have not been posted on ClinicalTrials.gov or published in a journal found by the search.",
+    "A 2019 paper said clascoterone was in a 'large phase 2' hair-loss trial; only one Phase 2 hair-loss trial (95 men) was found on ClinicalTrials.gov.",
+    "MHRA's product database needs a browser and GOV.UK search found no record, so UK status is not confirmed.",
+    "Australia's Product Information document sits behind a licence page and was not opened, so approved Australian uses were not checked."
+  ],
+  "surprises": [
+    "Both Phase 3 hair-loss trials of clascoterone are listed as completed, the later one in January 2026, yet no results are posted on the trial registry as of November 1, 2026.",
+    "Although it is a cream, the US label warns it can suppress the adrenal glands and raise potassium."
+  ]
+}

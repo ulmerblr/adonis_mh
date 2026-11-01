@@ -1,0 +1,504 @@
+{
+  "slug": "baricitinib",
+  "name": "Baricitinib",
+  "row": "Baricitinib",
+  "aka": [
+    "Olumiant",
+    "LY3009104"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Approved; 3 Phase 3 RCTs",
+    "fda": "Approved (Olumiant)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal studies reviewed for the 2018 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Studied before the 2018 arthritis approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "BRAVE-AA1 Phase 2 part: 110 adults (2021)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "BRAVE-AA1 and AA2: 1,200 adults; 257 teens",
+      "status": "done"
+    },
+    {
+      "title": "Hair-loss trial in children",
+      "line": "BRAVE-AA-PEDS, ages 6 to 17, recruiting",
+      "status": "started"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Olumiant: severe alopecia areata; age 12+ (2026)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Baricitinib is a Janus kinase (JAK) inhibitor taken by mouth. It blocks JAK1 and JAK2, enzymes that pass on signals from immune messengers (cytokines) thought to drive alopecia areata, an autoimmune disease in which the immune system attacks hair follicles.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35334197/",
+            "label": "King et al., N Engl J Med (BRAVE-AA1 and BRAVE-AA2)",
+            "date": "published May 2022"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olumiant",
+            "label": "EMA, Olumiant EPAR overview",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It treats alopecia areata, not male pattern hair loss. It was first approved in the US in 2018 for rheumatoid arthritis, and is also approved for COVID-19 in hospital.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+            "label": "Olumiant label, DailyMed",
+            "date": "published Oct 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two Phase 3 trials (BRAVE-AA1 and BRAVE-AA2) in 1,200 adults with severe alopecia areata, and one trial in 257 adolescents, supported approval. All were run by Eli Lilly, the maker."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2022 · Two randomized Phase III trials",
+        "title": "BRAVE-AA1 and BRAVE-AA2 (King et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two randomized, double-blind, placebo-controlled Phase 3 trials (3:2:2 randomization)"
+          },
+          {
+            "k": "People",
+            "v": "654 and 546 adults with severe alopecia areata (at least 50% scalp hair loss, SALT score 50 or more)"
+          },
+          {
+            "k": "What was given",
+            "v": "baricitinib 4 mg, 2 mg, or placebo once a day"
+          },
+          {
+            "k": "Length",
+            "v": "36 weeks for the main result"
+          },
+          {
+            "k": "Measured",
+            "v": "share of people with 80% or more scalp hair coverage (SALT 20 or less) at week 36"
+          }
+        ],
+        "found": "In BRAVE-AA1, 38.8% on 4 mg, 22.8% on 2 mg and 6.2% on placebo reached SALT 20 or less. In BRAVE-AA2 the figures were 35.9%, 19.4% and 3.3%. Acne, raised creatine kinase and higher LDL and HDL cholesterol were more common on baricitinib. Funded by Eli Lilly.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35334197/",
+            "label": "King et al., N Engl J Med (BRAVE-AA1 and BRAVE-AA2)",
+            "date": "published May 2022"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03570749",
+            "label": "ClinicalTrials.gov, BRAVE-AA1 (NCT03570749)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03899259",
+            "label": "ClinicalTrials.gov, BRAVE-AA2 (NCT03899259)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2026 label data · Randomized trial",
+        "title": "Adolescents 12 and older (AA-PEDS)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "257 people aged 12 and older, at least 30 kg, with severe alopecia areata"
+          },
+          {
+            "k": "What was given",
+            "v": "baricitinib 2 mg, 4 mg, or placebo (1:1:1)"
+          },
+          {
+            "k": "Length",
+            "v": "36 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "share with SALT 20 or less at week 36"
+          }
+        ],
+        "found": "42% on 4 mg and 27% on 2 mg reached SALT 20 or less, vs 5% on placebo. The registered trial (BRAVE-AA-PEDS) is still recruiting children from age 6.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+            "label": "Olumiant label, DailyMed",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05723198",
+            "label": "ClinicalTrials.gov, BRAVE-AA-PEDS (NCT05723198)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2021 · Randomized Phase II",
+        "title": "BRAVE-AA1 Phase 2 portion (King et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled Phase 2 part of an adaptive trial"
+          },
+          {
+            "k": "People",
+            "v": "110 adults with at least 50% scalp hair loss"
+          },
+          {
+            "k": "What was given",
+            "v": "baricitinib 1, 2 or 4 mg once a day, or placebo (1 mg was dropped early)"
+          },
+          {
+            "k": "Length",
+            "v": "36 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "share with SALT 20 or less at week 36"
+          }
+        ],
+        "found": "51.9% on 4 mg and 33.3% on 2 mg reached SALT 20 or less, vs 3.6% on placebo. The authors note the small size.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34090959/",
+            "label": "King et al., J Am Acad Dermatol (BRAVE-AA1 Phase 2)",
+            "date": "published Oct 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Baricitinib is FDA approved as Olumiant. Its label covers severe alopecia areata in adults and, since a September 2026 update, in patients 12 and older. It has a boxed warning. It is not approved for male pattern hair loss. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 207924, Eli Lilly, first approved in 2018. FDA's record lists efficacy supplements approved on June 13, 2022 and September 25, 2026. The current label lists rheumatoid arthritis, COVID-19 in hospitalized adults, and severe alopecia areata in adults and children 12 and older.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA207924",
+                "label": "openFDA Drugs@FDA record, NDA 207924 (Olumiant)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+                "label": "Olumiant label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Olumiant:"
+          },
+          {
+            "text": "serious infections, death, cancer, major heart events and blood clots. The label says not to combine it with other JAK inhibitors, biologic immune drugs, cyclosporine or other strong immunosuppressants.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+                "label": "Olumiant label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Baricitinib (Olumiant) is an approved prescription medicine in the US, Canada, the EU and Japan. In the US, the EU and Japan its approved uses include severe alopecia areata.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Olumiant, including severe alopecia areata (adults and age 12+). Prescription-only. Boxed warning.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA207924",
+              "label": "openFDA Drugs@FDA record, NDA 207924 (Olumiant)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+              "label": "Olumiant label, DailyMed",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved prescription drug: Olumiant, marketed since 2018. Approved uses not listed in the database record.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?id=97056&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Olumiant 2 mg (DIN 02480018)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=97056&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Olumiant market status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine. MHRA's 2023 JAK inhibitor safety update covers Olumiant used for chronic inflammatory disorders, including alopecia areata.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/janus-kinase-jak-inhibitors-new-measures-to-reduce-risks-of-major-cardiovascular-events-malignancy-venous-thromboembolism-serious-infections-and-increased-mortality",
+              "label": "MHRA Drug Safety Update, JAK inhibitors",
+              "date": "published Apr 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Approved medicine: Olumiant, authorised EU-wide in 2017; uses include severe alopecia areata in adults and adolescents 12+.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olumiant",
+              "label": "EMA, Olumiant EPAR overview",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Olumiant has Australian Product Information on TGA's site. Approved uses not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=PI&q=baricitinib",
+              "label": "TGA Product Information search: baricitinib",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Japan",
+          "regulator": "PMDA / MHLW",
+          "status": "Approved medicine: Olumiant (2017); alopecia areata added June 20, 2022, for severe, hard-to-treat cases.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.pmda.go.jp/files/000281190.pdf",
+              "label": "PMDA, list of approved products in Japan, April 2004 to February 2026",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "392"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Baricitinib is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is approved for human use, so class S0 (non-approved substances) does not cover it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Olumiant has a boxed warning for serious infections, death, cancer, major heart events and blood clots. In the alopecia trials, acne, raised muscle enzyme (creatine kinase) and higher cholesterol were more common than on placebo."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "higher risk of serious bacterial, fungal, viral and opportunistic infections, including tuberculosis, that can lead to hospitalization or death. Another JAK inhibitor had higher rates of death, lymphoma and lung cancer, and major heart events than TNF blockers in rheumatoid arthritis. Blood clots, including in the lungs, have occurred.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+                "label": "Olumiant label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          },
+          {
+            "text": "the Medication Guide lists upper respiratory infections, headache, acne, high cholesterol, raised creatine kinase, urinary tract infection, raised liver enzymes, folliculitis, tiredness, nausea, genital yeast infection, anemia, low neutrophils, shingles and weight gain.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+                "label": "Olumiant label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Common in alopecia areata:"
+          },
+          {
+            "text": "acne, raised creatine kinase and higher LDL and HDL cholesterol were more common on baricitinib than placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35334197/",
+                "label": "King et al., N Engl J Med (BRAVE-AA1 and BRAVE-AA2)",
+                "date": "published May 2022"
+              }
+            ],
+            "lead": "In the trials:"
+          },
+          {
+            "text": "tears in the stomach or bowel (gastrointestinal perforations) and low blood sugar in people with diabetes have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+                "label": "Olumiant label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Other warnings:"
+          },
+          {
+            "text": "the label advises of a possible risk to a fetus and not to breastfeed during treatment and for 4 days after the last dose.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf",
+                "label": "Olumiant label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Pregnancy and breastfeeding:"
+          },
+          {
+            "text": "MHRA advises periodic skin checks for skin cancer in all patients on JAK inhibitors.",
+            "src": [
+              {
+                "url": "https://www.gov.uk/drug-safety-update/janus-kinase-jak-inhibitors-new-measures-to-reduce-risks-of-major-cardiovascular-events-malignancy-venous-thromboembolism-serious-infections-and-increased-mortality",
+                "label": "MHRA Drug Safety Update, JAK inhibitors",
+                "date": "published Apr 2023"
+              }
+            ],
+            "lead": "UK safety measures:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's June 2022 approval letter and press release for Olumiant in alopecia areata could not be opened; the 2022 date comes from the efficacy supplement listed in FDA's application record and from the current label.",
+    "Australia's Product Information document sits behind a licence page and was not opened, so the approved Australian uses were not checked.",
+    "Health Canada's database API does not list Olumiant's approved uses, so Canadian approval for alopecia areata is not confirmed."
+  ],
+  "surprises": [
+    "Baricitinib treats alopecia areata, an autoimmune disease, not male pattern hair loss; the two are different conditions.",
+    "Olumiant's US label was widened in September 2026 to include patients 12 and older with severe alopecia areata."
+  ]
+}

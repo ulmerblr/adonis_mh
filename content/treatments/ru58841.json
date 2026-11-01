@@ -1,0 +1,441 @@
+{
+  "slug": "ru58841",
+  "name": "RU58841",
+  "row": "RU58841",
+  "aka": [
+    "RU-58841",
+    "RU 58841",
+    "PSK-3841",
+    "HMR-3841"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Animal data; no trials",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Hamsters, macaques, scalp grafts on mice (1994-98)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "One 2026 study: drug levels in 6 men, one dose",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "No registered trials found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold online with no approval anywhere (2026)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "RU58841 is a non-steroidal antiandrogen: it blocks the androgen receptor rather than lowering hormone levels. It was developed at Roussel Uclaf in France, first reported in 1994, as a possible skin treatment for acne, male pattern hair loss and excess hair growth.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8136306/",
+            "label": "Battmann et al., J Steroid Biochem Mol Biol",
+            "date": "published Jan 1994"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In prostate cancer cells it blocked DHT's action on the androgen receptor about as strongly as hydroxyflutamide, a prostate cancer drug. The authors warned that putting it on the skin might cause body-wide effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9798729/",
+            "label": "Pan et al., Endocrine",
+            "date": "published Aug 1998"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No published human trials of RU58841 for hair loss found as of November 1, 2026."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Evidence for RU58841 on hair is in animals and in human scalp grafted onto mice. The search found no published or registered trial in people with hair loss. The only human study measured how the body handles one dose."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "p",
+        "text": "No published human studies of RU58841 for hair loss found as of November 1, 2026. A PubMed search returned 18 records, none a treatment trial in people, and ClinicalTrials.gov returned none.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=RU58841",
+            "label": "PubMed search for 'RU58841'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=RU58841",
+            "label": "ClinicalTrials.gov search for 'RU58841'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2026 · Open-label metabolism study",
+        "title": "How the body handles one topical dose (Okutan et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "lab metabolism study, then a single-dose study in volunteers, by a sports anti-doping laboratory"
+          },
+          {
+            "k": "People",
+            "v": "6 healthy men"
+          },
+          {
+            "k": "What was given",
+            "v": "one application to the scalp of a hair product with RU58841 (30 mg)"
+          },
+          {
+            "k": "Measured",
+            "v": "RU58841 and its breakdown products in dried blood spots and urine; the steroid profile used in doping tests"
+          }
+        ],
+        "found": "Five breakdown products were found in urine. RU58841 itself and one breakdown product were found in blood, which the authors call considerable body-wide exposure from scalp use. The steroid profile did not change. Hair was not measured.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42615108/",
+            "label": "Okutan et al., Biomed Chromatogr",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "Belgium · 1997 · Controlled animal study",
+        "title": "Balding human scalp grafted onto mice (De Brouwer et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "blinded, controlled study in mice"
+          },
+          {
+            "k": "People",
+            "v": "20 scalp grafts from balding men, kept on female nude mice given testosterone"
+          },
+          {
+            "k": "What was given",
+            "v": "RU58841 1% in ethanol, or ethanol alone, on the grafts 5 days a week"
+          },
+          {
+            "k": "Length",
+            "v": "6 months of hair monitoring"
+          },
+          {
+            "k": "Measured",
+            "v": "follicles starting a new hair cycle; hair growth rate"
+          }
+        ],
+        "found": "28% of active follicles on treated grafts started a second hair cycle vs 7% on control grafts, and hair grew faster. The authors called for a clinical trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9415227/",
+            "label": "De Brouwer et al., Br J Dermatol",
+            "date": "published Nov 1997"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In bald stumptailed macaques, a monkey model of male pattern baldness, RU58841 put on the scalp increased hair density, thickness and length, with no body-wide effects detected. In hamsters, it shrank androgen-dependent skin glands at very low doses applied to the skin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9798729/",
+            "label": "Pan et al., Endocrine",
+            "date": "published Aug 1998"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8136306/",
+            "label": "Battmann et al., J Steroid Biochem Mol Biol",
+            "date": "published Jan 1994"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "RU58841 is not FDA approved for any use, and no regulator approval was found anywhere. A 2026 study says it is sold by many online suppliers and marketed online for hair loss. FDA does not allow unapproved drugs to be sold for people to use, even when labelled for research. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA's drug database has no product containing RU58841. Unapproved drugs have not been reviewed by FDA for safety, effectiveness or quality.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:RU58841",
+                "label": "openFDA Drugs@FDA search: RU58841 (no matches)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/enforcement-activities-fda/unapproved-drugs",
+                "label": "FDA, Unapproved drugs",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Not approved:"
+          },
+          {
+            "text": "FDA has said that companies selling unapproved drugs labelled “for research purposes” or “not for human consumption” directly to consumers for human use did so illegally. That statement was about GLP-1 drugs; FDA has not issued one naming RU58841.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA statement on unapproved drugs sold 'for research purposes' (GLP-1 drugs)",
+                "date": "updated Oct 2026"
+              }
+            ],
+            "lead": "“Research use only” labels:"
+          },
+          {
+            "text": "the 2026 study's authors bought a 5% RU58841 hair serum over the internet and note it is available from numerous online suppliers despite having no regulatory approval.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42615108/",
+                "label": "Okutan et al., Biomed Chromatogr",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Sold online:"
+          },
+          {
+            "text": "ClinicalTrials.gov lists no trial of RU58841.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/search?term=RU58841",
+                "label": "ClinicalTrials.gov search for 'RU58841'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "No trials:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "RU58841 is not an approved medicine anywhere the search checked. No product was found in Health Canada's or EMA's records.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved for any use. Sold online without approval; FDA says selling unapproved drugs to consumers labelled 'for research' is illegal.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/enforcement-activities-fda/unapproved-drugs",
+              "label": "FDA, Unapproved drugs",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA statement on unapproved drugs sold 'for research purposes' (GLP-1 drugs)",
+              "date": "updated Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. No RU58841 product in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=RU58841",
+              "label": "Health Canada Drug Product Database, ingredient search: RU58841",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not approved EU-wide. No RU58841 medicine in EMA's medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "RU58841 is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. The lists' class S0 bans, at all times, any pharmacological substance not covered by another class that has no current approval by any government health authority for human therapeutic use, including drugs in development or discontinued. No such approval was found for RU58841, but WADA has not published a ruling naming it. A German anti-doping laboratory studied how to detect it in 2026.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42615108/",
+              "label": "Okutan et al., Biomed Chromatogr",
+              "date": "published Oct 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no human safety data on RU58841 for hair loss. Studies suggest it reaches the bloodstream from the scalp, and it blocks the androgen receptor."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "after one scalp application in 6 men, RU58841 and a breakdown product were found in blood.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42615108/",
+                "label": "Okutan et al., Biomed Chromatogr",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Exposure:"
+          },
+          {
+            "text": "in cells it blocked the androgen receptor about as strongly as hydroxyflutamide; the authors said skin use might cause body-wide side effects.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9798729/",
+                "label": "Pan et al., Endocrine",
+                "date": "published Aug 1998"
+              }
+            ],
+            "lead": "Antiandrogen effects:"
+          },
+          {
+            "text": "FDA says unapproved drugs sold 'for research purposes' (in its statement on GLP-1 drugs) are of unknown quality and may be harmful.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA statement on unapproved drugs sold 'for research purposes' (GLP-1 drugs)",
+                "date": "updated Oct 2026"
+              }
+            ],
+            "lead": "Unknown quality:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "No regulator record was found describing how RU58841 products are labelled; the 2026 study says only that it is sold by numerous online suppliers and marketed online for hair loss.",
+    "The other code names PSK-3841 and HMR-3841 come from the 2026 paper; no trial under those names was found.",
+    "UK and Australian status were not checked against a regulator record.",
+    "The 2026 study was in 6 men given one dose; long-term human exposure has not been studied."
+  ],
+  "surprises": [
+    "RU58841 is discussed as a hair-loss drug, but no trial in people with hair loss was found; the only human study, from 2026, was run by an anti-doping laboratory.",
+    "It is often described as staying in the scalp, but the 2026 study found it in the blood after a single scalp application."
+  ]
+}

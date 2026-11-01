@@ -1,0 +1,486 @@
+{
+  "slug": "pyrilutamide",
+  "name": "Pyrilutamide (KX-826)",
+  "row": "Pyrilutamide (KX-826)",
+  "aka": [
+    "KX-826",
+    "KX826",
+    "Pyrilutamide"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Ph2-3 trials; unpublished",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Used as a comparator in mouse hair studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Two US trials, 40 men each (2019, 2020)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "US and China trials, 2020 to 2023; 403 people",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "China, 740 men; status unknown; new Ph 2/3 listed",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved",
+      "status": "not"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "No approval found",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Pyrilutamide (KX-826) is an androgen receptor blocker put on the scalp as a solution (tincture). It is being developed by Suzhou Kintor Pharmaceutical in China for male and female androgenetic alopecia. A 2026 review describes it as aiming to block the androgen receptor in the scalp without lowering hormones in the body.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06126965",
+            "label": "ClinicalTrials.gov, Phase 3 China, men (NCT06126965)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41919230/",
+            "label": "Burshtein et al., Front Pharmacol (review)",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Chemists have used it as the comparison drug when testing newer topical androgen receptor blockers in mice.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42418259/",
+            "label": "Zhang et al., J Med Chem",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No peer-reviewed results from any pyrilutamide trial were found as of November 1, 2026."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Seven KX-826 trials are registered on ClinicalTrials.gov: two Phase 1, three Phase 2, one Phase 3 and one Phase 2/3. Six are sponsored by Suzhou Kintor and one by Suzhou Koshine Biomedica. None has posted results, and no journal paper reporting their results was found."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search for 'pyrilutamide' returned 3 records and one for 'KX-826' returned 1; none reports trial results. ClinicalTrials.gov lists 7 KX-826 trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=pyrilutamide",
+            "label": "PubMed search for 'pyrilutamide'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=KX-826",
+            "label": "PubMed search for 'KX-826'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=KX-826",
+            "label": "ClinicalTrials.gov search for 'KX-826'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "US · 2019 and 2020 · Randomized Phase I",
+        "title": "Two safety and drug-level trials",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; single dose (2019) and multiple ascending doses for 14 days (2020)"
+          },
+          {
+            "k": "People",
+            "v": "40 healthy men with androgenetic alopecia in each trial"
+          },
+          {
+            "k": "Measured",
+            "v": "side effects, skin irritation, vital signs, ECG, drug levels"
+          }
+        ],
+        "found": "Both are listed as completed. No results are posted.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04984707",
+            "label": "ClinicalTrials.gov, Phase 1 single dose (NCT04984707)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04502901",
+            "label": "ClinicalTrials.gov, Phase 1 multiple dose (NCT04502901)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results posted"
+      },
+      {
+        "t": "study",
+        "meta": "US and China · 2020 to 2023 · Randomized Phase II",
+        "title": "Three dose-finding trials",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 2 trials"
+          },
+          {
+            "k": "People",
+            "v": "120 men in China, 123 men in the US, 160 women in China"
+          },
+          {
+            "k": "What was given",
+            "v": "KX-826 solution 2.5 mg or 5 mg, once or twice a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in target-area hair count"
+          }
+        ],
+        "found": "All three are listed as completed. No results are posted on ClinicalTrials.gov.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05940506",
+            "label": "ClinicalTrials.gov, Phase 2 China, men (NCT05940506)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05218642",
+            "label": "ClinicalTrials.gov, Phase 2 US, men (NCT05218642)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06409650",
+            "label": "ClinicalTrials.gov, Phase 2 China, women (NCT06409650)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results posted"
+      },
+      {
+        "t": "study",
+        "meta": "China · 2021 to 2024 · Randomized Phase III",
+        "title": "Phase 3 in Chinese men",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled Phase 3 trial"
+          },
+          {
+            "k": "People",
+            "v": "740 adult men with androgenetic alopecia"
+          },
+          {
+            "k": "What was given",
+            "v": "KX-826 0.5% twice a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in non-vellus target-area hair count"
+          }
+        ],
+        "found": "The registry status is 'unknown' (last verified November 2023). No results are posted. A new Phase 2/3 trial of 0.5% and 1.0% solution in 756 Chinese men was registered in 2024 as not yet recruiting.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06126965",
+            "label": "ClinicalTrials.gov, Phase 3 China, men (NCT06126965)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06622824",
+            "label": "ClinicalTrials.gov, Phase 2/3 China, men (NCT06622824)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "Status unknown"
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Pyrilutamide is not FDA approved for any use. It has been tested in US Phase 1 and Phase 2 trials. Any product sold outside a trial is an unapproved drug. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA's drug database has no product containing pyrilutamide. Unapproved drugs have not been reviewed by FDA for safety, effectiveness or quality.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PYRILUTAMIDE",
+                "label": "openFDA Drugs@FDA search: pyrilutamide (no matches)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/enforcement-activities-fda/unapproved-drugs",
+                "label": "FDA, Unapproved drugs",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Not approved:"
+          },
+          {
+            "text": "two Phase 1 trials (2019, 2020) and one Phase 2 trial in 123 men (2022 to 2023) were run in the US.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04984707",
+                "label": "ClinicalTrials.gov, Phase 1 single dose (NCT04984707)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04502901",
+                "label": "ClinicalTrials.gov, Phase 1 multiple dose (NCT04502901)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05218642",
+                "label": "ClinicalTrials.gov, Phase 2 US, men (NCT05218642)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "US trials:"
+          },
+          {
+            "text": "FDA has said that companies selling unapproved drugs labelled “for research purposes” or “not for human consumption” directly to consumers for human use did so illegally. That statement was about GLP-1 drugs; FDA has not issued one naming pyrilutamide.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA statement on unapproved drugs sold 'for research purposes' (GLP-1 drugs)",
+                "date": "updated Oct 2026"
+              }
+            ],
+            "lead": "“Research use only” labels:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Pyrilutamide is an investigational drug. No approval was found in the US, Canada or the EU. Its late-stage trials are in China.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Phase 1 and Phase 2 trials were run in the US.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/enforcement-activities-fda/unapproved-drugs",
+              "label": "FDA, Unapproved drugs",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://clinicaltrials.gov/study/NCT05218642",
+              "label": "ClinicalTrials.gov, Phase 2 US, men (NCT05218642)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. No pyrilutamide product in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=pyrilutamide",
+              "label": "Health Canada Drug Product Database, ingredient search: pyrilutamide",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not approved EU-wide. No pyrilutamide medicine in EMA's medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "China",
+          "regulator": "NMPA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "156"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Pyrilutamide is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. The lists' class S0 bans, at all times, any pharmacological substance not covered by another class that has no current approval by any government health authority for human therapeutic use, including drugs in development or discontinued. No such approval was found for Pyrilutamide, but WADA has not published a ruling naming it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "No safety results from pyrilutamide trials have been posted or published. Its side effects in people are not publicly known."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "the Phase 1 trials measured side effects and skin irritation, but no results are posted.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04984707",
+                "label": "ClinicalTrials.gov, Phase 1 single dose (NCT04984707)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04502901",
+                "label": "ClinicalTrials.gov, Phase 1 multiple dose (NCT04502901)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Trials:"
+          },
+          {
+            "text": "as an androgen receptor blocker, it is being tested in both men and women; no trial result on hormone or sexual side effects was found.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05218642",
+                "label": "ClinicalTrials.gov, Phase 2 US, men (NCT05218642)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06409650",
+                "label": "ClinicalTrials.gov, Phase 2 China, women (NCT06409650)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Antiandrogen:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Company announcements about KX-826 trial results were not reviewed; only registry and journal records were used, and neither holds results.",
+    "Pyrilutamide's status with China's NMPA (including any marketing application) was not checked.",
+    "The outcome of the 740-man Chinese Phase 3 trial (NCT06126965) is not posted; its registry status is 'unknown'.",
+    "UK and Australian status were not checked against a regulator record."
+  ],
+  "surprises": [
+    "Pyrilutamide has been through seven registered trials since 2019, including a 740-man Phase 3, yet none has posted results or a peer-reviewed paper as of November 1, 2026."
+  ]
+}

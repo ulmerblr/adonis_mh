@@ -1,0 +1,635 @@
+{
+  "slug": "dutasteride",
+  "name": "Dutasteride",
+  "row": "Dutasteride",
+  "aka": [
+    "Avodart",
+    "Jalyn",
+    "Avolve",
+    "Zagallo",
+    "Duodart"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Phase 3s abroad; off-label",
+    "fda": "Approved (BPH only)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal studies: harm to male fetal genitals",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Studied before the 2001 BPH approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Hair: 416 men, 6 doses vs finasteride (2006)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Hair: 917 men (2014); 153 Korean men (2010)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Avodart, 2001, enlarged prostate (BPH) only",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Japan 2015 (Zagallo) for male hair loss",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Dutasteride is a synthetic 4-azasteroid. It blocks both forms (type 1 and type 2) of 5α-reductase, the enzyme that turns testosterone into dihydrotestosterone (DHT). Finasteride blocks mainly type 2. Type 1 is also active in the skin and liver.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+            "label": "Avodart label, DailyMed",
+            "date": "published Mar 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In men taking 0.5 mg a day, median blood DHT fell by 85% after 1 week and 90% after 2 weeks. Blood testosterone rose by about 19% but stayed in the normal range. The drug stays in the body a long time: its half-life is about 5 weeks, and blood levels can be found 4 to 6 months after the last dose.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+            "label": "Avodart label, DailyMed",
+            "date": "published Mar 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is sold only as oral capsules, alone (Avodart) or with tamsulosin (Jalyn), for an enlarged prostate. FDA's database lists no dutasteride product other than oral capsules.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021319",
+            "label": "openFDA Drugs@FDA record, NDA 021319 (Avodart)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:DUTASTERIDE&limit=100",
+            "label": "openFDA Drugs@FDA search: dutasteride products",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Hair-loss trials of dutasteride were run by its maker and by Korean groups, mostly for 24 weeks. In each, men on dutasteride had higher hair counts than men on placebo. None led to a US approval for hair loss."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2006 · Randomized Phase II",
+        "title": "Doses vs finasteride (Olsen et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled trial of several dutasteride doses, with a finasteride arm"
+          },
+          {
+            "k": "People",
+            "v": "416 men aged 21 to 45 with male pattern hair loss"
+          },
+          {
+            "k": "What was given",
+            "v": "dutasteride 0.05, 0.1, 0.5 or 2.5 mg a day, finasteride 5 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "target-area hair count, expert photo review, investigator ratings, scalp and blood DHT"
+          }
+        ],
+        "found": "Hair count rose with the dutasteride dose. The 2.5 mg dose beat finasteride 5 mg at 12 and 24 weeks. Scalp and blood DHT fell, and testosterone rose, with the dose. The authors note the study lasted only 24 weeks.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17110217/",
+            "label": "Olsen et al., J Am Acad Dermatol",
+            "date": "published Dec 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Korea · 2010 · Randomized Phase III",
+        "title": "Dutasteride 0.5 mg in Korean men (Eun et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase III trial"
+          },
+          {
+            "k": "People",
+            "v": "153 men aged 18 to 49 with male pattern hair loss"
+          },
+          {
+            "k": "What was given",
+            "v": "dutasteride 0.5 mg a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "hair counts, self-assessment, investigator and panel photo ratings"
+          }
+        ],
+        "found": "Hair count rose by 12.2 hairs per cm² on dutasteride vs 4.7 on placebo. Photo and self-ratings also favored dutasteride. The authors found no major difference in adverse events between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20605255/",
+            "label": "Eun et al., J Am Acad Dermatol",
+            "date": "published Aug 2010"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2014 · Randomized Phase III",
+        "title": "Three doses vs finasteride and placebo (Gubelin Harcha et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, active- and placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "917 men aged 20 to 50 with androgenetic alopecia"
+          },
+          {
+            "k": "What was given",
+            "v": "dutasteride 0.02, 0.1 or 0.5 mg a day, finasteride 1 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "hair count in a 2.54 cm circle (main measure), hair width, photo assessments"
+          }
+        ],
+        "found": "Hair count and width rose with the dutasteride dose. The 0.5 mg dose had higher hair count and width than finasteride 1 mg and placebo at 24 weeks. The number and severity of adverse events were similar across groups. The study was run by GlaxoSmithKline, then the maker.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24411083/",
+            "label": "Gubelin Harcha et al., J Am Acad Dermatol",
+            "date": "published Mar 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Korea · 2025 · Randomized Phase III",
+        "title": "Low-dose 0.2 mg (Lee et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled Phase III trial"
+          },
+          {
+            "k": "People",
+            "v": "139 men with androgenetic alopecia analyzed"
+          },
+          {
+            "k": "What was given",
+            "v": "dutasteride 0.2 mg, placebo, or dutasteride 0.5 mg a day (2:2:1)"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in vertex hair count; investigator and panel ratings"
+          }
+        ],
+        "found": "Hair count rose by 21.53 on 0.2 mg vs 5.96 on placebo. On all measures 0.2 mg matched 0.5 mg. Adverse events were low and not different from placebo. One author is employed by a Korean drug company. The authors note the small number of men.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40736519/",
+            "label": "Lee et al., Ann Dermatol",
+            "date": "published Aug 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In animal studies, dutasteride blocked normal development of the outer genitals of male fetuses. This is why it is banned in pregnancy and why pregnant women should not handle the capsules: it can be absorbed through the skin.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+            "label": "Avodart label, DailyMed",
+            "date": "published Mar 2025"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA approved dutasteride as Avodart on November 20, 2001, for symptoms of an enlarged prostate (benign prostatic hyperplasia, BPH) in men. It is not FDA approved for hair loss; using it for hair loss in the US is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 021319, now held by Waylis Therapeutics. A prescription capsule for BPH, alone or with tamsulosin. The label says it is not approved to prevent prostate cancer, and is not for women or children.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021319",
+                "label": "openFDA Drugs@FDA record, NDA 021319 (Avodart)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Avodart:"
+          },
+          {
+            "text": "the Avodart label lists only BPH. Dutasteride for male hair loss is off-label in the US.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Hair loss:"
+          },
+          {
+            "text": "every dutasteride product in FDA's database is an oral capsule. No topical or injectable form is FDA approved.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:DUTASTERIDE&limit=100",
+                "label": "openFDA Drugs@FDA search: dutasteride products",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Other forms:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Dutasteride is an approved prostate medicine in the US, Canada, the UK, the EU and Japan. Japan also approved it for male hair loss in 2015. Regulators in the EU, the UK and Canada reviewed suicidal thoughts in 2025 and 2026 and added a mood warning as a precaution.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Avodart (2001) for an enlarged prostate. Prescription-only. Hair loss use is off-label.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021319",
+              "label": "openFDA Drugs@FDA record, NDA 021319 (Avodart)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+              "label": "Avodart label, DailyMed",
+              "date": "published Mar 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved prescription drug: Avodart, marketed since 2003. Health Canada is adding a suicidal-ideation warning to dutasteride monographs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?id=72107&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Avodart (DIN 02247813)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?id=72107&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Avodart market status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1781100269999",
+              "label": "Health Canada summary safety review, finasteride and dutasteride",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine. In May 2026 MHRA said a warning on mood changes will be added to dutasteride product information.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction",
+              "label": "MHRA Drug Safety Update, finasteride and dutasteride",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / national agencies",
+          "status": "Approved medicine, authorised nationally: 0.5 mg capsules for an enlarged prostate. 2025 EU review added mood information as a precaution.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products",
+              "label": "EMA referral, finasteride and dutasteride",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Registered products (Avodart and others) have Australian Product Information on TGA's site. Approved uses not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=PI&q=dutasteride",
+              "label": "TGA Product Information search: dutasteride",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Japan",
+          "regulator": "PMDA / MHLW",
+          "status": "Approved medicine: Avolve (2009) for an enlarged prostate and Zagallo (September 28, 2015) for male pattern hair loss.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.pmda.go.jp/files/000281190.pdf",
+              "label": "PMDA, list of approved products in Japan, April 2004 to February 2026",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "392"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "South Korea",
+          "regulator": "MFDS",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "410"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Dutasteride is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is approved for human use, so class S0 (non-approved substances) does not cover it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Dutasteride can cause erection problems, lower sex drive, ejaculation problems and breast enlargement. The label says sexual side effects may continue after stopping. It lowers sperm count, can harm a male fetus, and is linked to a higher rate of high-grade prostate cancer in one large trial."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "in the first 6 months, impotence occurred in 4.7% on Avodart vs 1.7% on placebo, lower libido in 3.0% vs 1.4%, and ejaculation disorders in 1.4% vs 0.5%. The rates were lower later on. These trials were in men aged 47 to 94 with BPH, not young men with hair loss.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Sexual side effects in the BPH trials:"
+          },
+          {
+            "text": "the label says the sexual side effects may persist after treatment ends, and that dutasteride's role in this is unknown.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Problems after stopping:"
+          },
+          {
+            "text": "in healthy men given 0.5 mg a day for 52 weeks, total sperm count, semen volume and sperm motility fell. The drop in total sperm count had not reversed 24 weeks after stopping. Values stayed in the normal range; what this means for one man's fertility is not known.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Fertility:"
+          },
+          {
+            "text": "the US label lists depressed mood from reports after approval. EMA's 2025 review found 13 EU reports of suicidal ideation with dutasteride (313 with finasteride) and could not establish a link, but added mood information as a precaution. MHRA and Health Canada took the same step.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products",
+                "label": "EMA referral, finasteride and dutasteride",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction",
+                "label": "MHRA Drug Safety Update, finasteride and dutasteride",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1781100269999",
+                "label": "Health Canada summary safety review, finasteride and dutasteride",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Mood and suicidal thoughts:"
+          },
+          {
+            "text": "in the 4-year REDUCE trial of 8,231 men aged 50 to 75, Gleason 8 to 10 prostate cancer occurred in 1.0% on Avodart vs 0.5% on placebo. Dutasteride lowers PSA by about 50%, which changes how PSA results are read.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Prostate cancer:"
+          },
+          {
+            "text": "contraindicated in pregnancy. Women who are or may be pregnant should not handle the capsules. Men should not donate blood until 6 months after the last dose.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Pregnancy and blood donation:"
+          },
+          {
+            "text": "breast tenderness and enlargement, male breast cancer, testicular pain and swelling, and allergic reactions including serious skin reactions and swelling (angioedema).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4",
+                "label": "Avodart label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Other reports:"
+          },
+          {
+            "text": "in the 24-week trials in younger men, the number and severity of adverse events were similar to placebo.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24411083/",
+                "label": "Gubelin Harcha et al., J Am Acad Dermatol",
+                "date": "published Mar 2014"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40736519/",
+                "label": "Lee et al., Ann Dermatol",
+                "date": "published Aug 2025"
+              }
+            ],
+            "lead": "Hair-loss trials:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "South Korea's MFDS site could not be reached, so dutasteride's Korean approval for hair loss is not confirmed from the regulator's record; a 2025 Korean paper says it is prescribed for male hair loss in Korea and Japan.",
+    "The Japan approval date for Zagallo (September 28, 2015) is read from the date column of PMDA's approval list.",
+    "Australia's Product Information documents sit behind a licence page and were not opened, so the approved Australian uses were not checked.",
+    "Health Canada's Drug Product Database API shows Avodart as marketed but does not list its approved use.",
+    "Studies of dutasteride injected into the scalp (mesotherapy) or applied as a solution were found in PubMed but not reviewed for this page."
+  ],
+  "surprises": [
+    "Dutasteride's US label covers only an enlarged prostate, while Japan approved it for male pattern hair loss in 2015 (Zagallo).",
+    "EMA could not link suicidal thoughts to dutasteride, yet EU, UK and Canadian regulators all added mood warnings as a precaution because it acts the same way as finasteride.",
+    "The drop in total sperm count with dutasteride had not reversed 24 weeks after stopping in the label's semen study."
+  ]
+}

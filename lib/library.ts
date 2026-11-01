@@ -143,6 +143,15 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Biotin', page: { href: '/biotin', evidence: 'Little research', fda: 'Supplement, not drug', sport: 'Not listed' } },
     { name: 'Fluocinolone', page: { href: '/fluocinolone', evidence: 'No hair-loss studies', fda: 'Approved (Synalar)', sport: 'S9 (some routes)' } },
     { name: 'Melatonin', page: { href: '/melatonin', evidence: 'Sleep RCTs; 1 hair pilot', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Baricitinib', aka: ['Olumiant', 'LY3009104'], page: { href: '/baricitinib', evidence: 'Approved; 3 Phase 3 RCTs', fda: 'Approved (Olumiant)', sport: 'Not listed' } },
+    { name: 'Clascoterone', aka: ['Winlevi', 'CB-03-01', 'Cortexolone 17α-propionate'], page: { href: '/clascoterone', evidence: 'Acne Ph3; hair Ph3 unpubl.', fda: 'Approved (Winlevi)', sport: 'Not listed' } },
+    { name: 'Deuruxolitinib', aka: ['Leqselvi', 'CTP-543'], page: { href: '/deuruxolitinib', evidence: 'Approved; 2 Phase 3 RCTs', fda: 'Approved (Leqselvi)', sport: 'Not listed' } },
+    { name: 'Dutasteride', aka: ['Avodart', 'Jalyn', 'Avolve', 'Zagallo', 'Duodart'], page: { href: '/dutasteride', evidence: 'Phase 3s abroad; off-label', fda: 'Approved (BPH only)', sport: 'Not listed' } },
+    { name: 'Pumpkin seed oil', aka: ['Cucurbita pepo seed oil', 'PSO'], page: { href: '/pumpkin-seed-oil', evidence: '1 small RCT in men', fda: 'Not a drug for hair', sport: 'Not listed' } },
+    { name: 'Pyrilutamide (KX-826)', aka: ['KX-826', 'KX826', 'Pyrilutamide'], page: { href: '/pyrilutamide', evidence: 'Ph2-3 trials; unpublished', fda: 'Not approved', sport: 'Not named' } },
+    { name: 'Ritlecitinib', aka: ['Litfulo', 'PF-06651600'], page: { href: '/ritlecitinib', evidence: 'Approved; Phase 2b/3 RCT', fda: 'Approved (Litfulo)', sport: 'Not listed' } },
+    { name: 'RU58841', aka: ['RU-58841', 'RU 58841', 'PSK-3841', 'HMR-3841'], page: { href: '/ru58841', evidence: 'Animal data; no trials', fda: 'Not approved', sport: 'Not named' } },
+    { name: 'Saw palmetto', aka: ['Serenoa repens', 'Sabal serrulata', 'Saw palmetto berry extract'], page: { href: '/saw-palmetto', evidence: 'Small hair studies', fda: 'Not a drug for hair', sport: 'Not listed' } },
   ],
   skin: [
     { name: 'Tretinoin', page: { href: '/tretinoin', evidence: 'Acne: approved; hair: few', fda: 'Approved (Retin-A)', sport: 'Not listed' } },
@@ -152,6 +161,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'GHK-Cu (copper peptide)', peptide: true, page: { href: '/ghk-cu', evidence: '1 small RCT; lab/animal', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Spironolactone', page: { href: '/spironolactone', evidence: 'Acne RCTs in women only', fda: 'Approved (Aldactone)', sport: 'Banned' } },
     { name: 'Estriol', page: { href: '/estriol', evidence: '2 small studies in women', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Clascoterone', aka: ['Winlevi', 'CB-03-01', 'Cortexolone 17α-propionate'], page: { href: '/clascoterone', evidence: 'Acne Ph3; hair Ph3 unpubl.', fda: 'Approved (Winlevi)', sport: 'Not listed' } },
   ],
   longevity: [
     { name: 'NAD+', page: { href: '/nad', evidence: 'Few small human studies', fda: 'Not approved', sport: 'Not listed' } },

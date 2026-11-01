@@ -1,0 +1,459 @@
+{
+  "slug": "deuruxolitinib",
+  "name": "Deuruxolitinib",
+  "row": "Deuruxolitinib",
+  "aka": [
+    "Leqselvi",
+    "CTP-543"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "hair-loss"
+  ],
+  "index": {
+    "evidence": "Approved; 2 Phase 3 RCTs",
+    "fda": "Approved (Leqselvi)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal studies reviewed for the 2024 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Studied before the 2024 approval",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Dose study: 57 adults, 8 mg twice vs 16 mg once",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "THRIVE-AA1 and AA2: 1,209 adults (2020 to 2022)",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Leqselvi, 2024, severe alopecia areata, adults",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "UK (2026); not found in the EU or Canada",
+      "status": "started"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Deuruxolitinib is a Janus kinase (JAK) inhibitor taken by mouth. In lab tests it blocked JAK1, JAK2 and TYK2 more strongly than JAK3. How this relates to its effect is not known.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+            "label": "Leqselvi label, DailyMed",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It treats alopecia areata, an autoimmune disease in which the immune system attacks hair follicles. It is not a treatment for male pattern hair loss. It was developed as CTP-543 by Concert Pharmaceuticals, later bought by Sun Pharmaceutical.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+            "label": "Leqselvi label, DailyMed",
+            "date": "published Sep 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04518995",
+            "label": "ClinicalTrials.gov, THRIVE-AA1 (NCT04518995)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39053611/",
+            "label": "King et al., J Am Acad Dermatol (THRIVE-AA1)",
+            "date": "published Nov 2024"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two Phase 3 trials (THRIVE-AA1 and THRIVE-AA2) in 1,209 adults aged 18 to 65 with at least 50% scalp hair loss supported approval. Each lasted 24 weeks. Both were run by Concert Pharmaceuticals."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "North America and Europe · 2024 · Randomized Phase III",
+        "title": "THRIVE-AA1 (King et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 3 trial"
+          },
+          {
+            "k": "People",
+            "v": "706 adults aged 18 to 65 with at least 50% scalp hair loss"
+          },
+          {
+            "k": "What was given",
+            "v": "deuruxolitinib 8 mg twice a day, 12 mg twice a day (not approved), or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "share with SALT 20 or less (80% or more scalp hair) at week 24"
+          }
+        ],
+        "found": "29.6% on 8 mg and 41.5% on 12 mg reached SALT 20 or less, vs 0.8% on placebo. Most adverse events were mild or moderate. Several authors have ties to the developers.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39053611/",
+            "label": "King et al., J Am Acad Dermatol (THRIVE-AA1)",
+            "date": "published Nov 2024"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04518995",
+            "label": "ClinicalTrials.gov, THRIVE-AA1 (NCT04518995)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Europe and North America · 2026 · Randomized Phase III",
+        "title": "THRIVE-AA2 (Tsianakas et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 3 trial (1:2:1)"
+          },
+          {
+            "k": "People",
+            "v": "517 adults aged 18 to 65 with SALT 50 or more for at least 6 months"
+          },
+          {
+            "k": "What was given",
+            "v": "deuruxolitinib 12 mg twice a day, 8 mg twice a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "share with SALT 20 or less at week 24"
+          }
+        ],
+        "found": "33.0% on 8 mg and 38.3% on 12 mg reached SALT 20 or less, vs 0.8% on placebo. The authors say long-term effects and how long the response lasts were not assessed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41317911/",
+            "label": "Tsianakas et al., J Am Acad Dermatol (THRIVE-AA2)",
+            "date": "published Apr 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04797650",
+            "label": "ClinicalTrials.gov, THRIVE-AA2 (NCT04797650)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2026 · Randomized Phase II",
+        "title": "Twice-daily vs once-daily dosing (King et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized Phase 2 trial (NCT03811912) comparing two schedules"
+          },
+          {
+            "k": "People",
+            "v": "57 adults with severe alopecia areata"
+          },
+          {
+            "k": "What was given",
+            "v": "deuruxolitinib 8 mg twice a day or 16 mg once a day"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "relative change in SALT score"
+          }
+        ],
+        "found": "SALT score improved by 46.4% with 8 mg twice a day vs 18.0% with 16 mg once a day. Adverse events were mild or moderate. The authors note the small size.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42727780/",
+            "label": "King et al., J Am Acad Dermatol (Phase 2 dose study)",
+            "date": "published Sep 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA approved deuruxolitinib as Leqselvi on July 25, 2024, for severe alopecia areata in adults. It has a boxed warning. It is not approved for male pattern hair loss or for people under 18. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 217900, Sun Pharmaceutical. A prescription tablet for adults with severe alopecia areata.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA217900",
+                "label": "openFDA Drugs@FDA record, NDA 217900 (Leqselvi)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Leqselvi:"
+          },
+          {
+            "text": "patients must be tested for CYP2C9 gene variants. Leqselvi is contraindicated in CYP2C9 poor metabolizers and with moderate or strong CYP2C9 inhibitors. The label says no FDA-cleared test for this purpose is currently available.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Genetic test first:"
+          },
+          {
+            "text": "serious infections, death, cancer, major heart events and blood clots. Not approved for rheumatoid arthritis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Deuruxolitinib (Leqselvi) is approved in the US (2024) and the UK (2026) for severe alopecia areata in adults. No EU-wide authorisation and no Canadian product were found.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine: Leqselvi (2024), severe alopecia areata in adults. Prescription-only. Boxed warning.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA217900",
+              "label": "openFDA Drugs@FDA record, NDA 217900 (Leqselvi)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+              "label": "Leqselvi label, DailyMed",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved. No deuruxolitinib product in Health Canada's Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=deuruxolitinib",
+              "label": "Health Canada Drug Product Database, ingredient search: deuruxolitinib",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Approved medicine: Leqselvi, approved in 2026 for severe alopecia areata in adults. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/mhra-approves-deuruxolitinib-leqselvi-to-treat-severe-alopecia-areata-in-adults",
+              "label": "MHRA press release, Leqselvi approved",
+              "date": "published Mar 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not approved EU-wide. No deuruxolitinib medicine in EMA's medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA medicines data (centrally authorised medicines)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Deuruxolitinib is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is approved for human use, so class S0 (non-approved substances) does not cover it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Leqselvi has a boxed warning for serious infections, death, cancer, major heart events and blood clots. It must not be used in people whose bodies clear it slowly (CYP2C9 poor metabolizers). Common side effects include headache, acne and raised muscle enzyme."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "higher risk of serious infections, including tuberculosis, that can lead to hospitalization or death. Malignancies have occurred in people taking Leqselvi. Another JAK inhibitor had higher rates of death, lymphoma, lung cancer, major heart events and blood clots than TNF blockers in rheumatoid arthritis. Blood clots have occurred with Leqselvi.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          },
+          {
+            "text": "headache, acne, nasopharyngitis, raised creatine kinase, high blood fats, tiredness, weight gain, low lymphocytes, high platelets, anemia, skin and soft tissue infections, low neutrophils and herpes infections.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Common (1% or more):"
+          },
+          {
+            "text": "people who are CYP2C9 poor metabolizers, or who take moderate or strong CYP2C9 inhibitors, have a higher risk of serious side effects and must not take it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "CYP2C9:"
+          },
+          {
+            "text": "tears in the stomach or bowel (gastrointestinal perforations), low blood sugar in people with diabetes, and changes in blood fats and blood counts. Live vaccines should be avoided.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095",
+                "label": "Leqselvi label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Other warnings:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The UK approval date for Leqselvi is taken from MHRA's press release (first published March 12, 2026); the exact licence date was not confirmed in MHRA's product database.",
+    "TGA's Product Information search found no deuruxolitinib document, but the Australian Register of Therapeutic Goods itself could not be searched, so Australian status is not confirmed.",
+    "Whether Leqselvi has been filed with EMA was not checked."
+  ],
+  "surprises": [
+    "Leqselvi requires a genetic test (CYP2C9) before use, yet its label says no FDA-cleared or approved test for that purpose is currently available.",
+    "The UK approved deuruxolitinib in 2026, while no EU-wide authorisation was found."
+  ]
+}
