@@ -26,7 +26,7 @@ for (const slug of slugs) {
   // EDU PROMPT 22: a new treatment's rows are added to each of its lanes (after the lane's existing rows) if missing.
   for (const lane of spec.lanes) {
     const key = lane.includes('-') ? `'${lane}'` : lane;
-    const laneRe = new RegExp(`(\\n  ${key}: \\[\\n)([\\s\\S]*?)(\\n  \\],)`);
+    const laneRe = new RegExp(`(\\n  ${key}: \\[)([\\s\\S]*?)(\\n  \\],)`);
     const m = lib.match(laneRe);
     if (!m) throw new Error(`${slug}: lane ${lane} not found`);
     if (!m[2].includes(`{ name: '${row.replace(/'/g, "\\'")}'`)) {

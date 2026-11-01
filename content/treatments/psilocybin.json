@@ -1,0 +1,625 @@
+{
+  "slug": "psilocybin",
+  "name": "Psilocybin",
+  "row": "Psilocybin",
+  "aka": [
+    "Magic mushrooms",
+    "COMP360"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "brain"
+  ],
+  "index": {
+    "evidence": "Phase 2 RCTs; Phase 3 on",
+    "fda": "Not approved; Sch. I",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Earlier step; not reviewed on this page",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Earlier step; not reviewed on this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Earlier step; not reviewed on this page",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Randomized trials, NEJM 2021 and 2022, JAMA 2023",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "COMP 005, COMP 006, PSIL301 (depression)",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; Schedule I controlled substance",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Psilocybin is a compound found in some mushrooms. The DEA lists psilocybin and psilocyn (psilocin) as constituents of “magic mushrooms” and places both in Schedule I.",
+        "src": [
+          {
+            "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+            "label": "DEA, controlled substances list (alphabetical)",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11",
+            "label": "21 CFR 1308.11 (Schedule I), eCFR, version of Oct 21, 2026",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Drug developers are testing purified, lab-made psilocybin as a medicine for depression. COMP360 is a company's “proprietary, synthetic formulation of psilocybin.” In the trials it is given once or twice, with psychological support, under supervision.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36322843/",
+            "label": "Goodwin et al., N Engl J Med, 2022",
+            "date": "published Nov 2022"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/",
+            "label": "Carhart-Harris et al., N Engl J Med, 2021",
+            "date": "published Apr 2021"
+          },
+          {
+            "url": "https://compasspathways.com/faq",
+            "label": "Compass Pathways, FAQ (company statement)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In July 2026 FDA finalized guidance for companies on how to design clinical trials of psychedelic drugs for conditions such as psychiatric disorders and substance use disorders.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/psychedelic-drugs-considerations-clinical-investigations",
+            "label": "FDA, guidance “Psychedelic Drugs: Considerations for Clinical Investigations” (final)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Psilocybin is not FDA approved for any use. It is a Schedule I controlled substance under federal law. As of November 1, 2026."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Three randomized Phase 2 trials of single or paired psilocybin doses with psychological support have been published in major journals. Three Phase 3 trials in depression are registered; none has posted or published results."
+      },
+      {
+        "t": "h3",
+        "text": "Published randomized trials"
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2021 · Randomized trial (Phase 2)",
+        "title": "Psilocybin versus escitalopram for depression (NEJM 2021)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind; psilocybin compared with escitalopram, a standard antidepressant (SSRI)"
+          },
+          {
+            "k": "People",
+            "v": "59 adults with long-standing, moderate-to-severe major depressive disorder (30 psilocybin, 29 escitalopram)"
+          },
+          {
+            "k": "Given",
+            "v": "two 25 mg psilocybin doses 3 weeks apart plus 6 weeks of daily placebo pills, or two 1 mg psilocybin doses plus 6 weeks of daily escitalopram; all had psychological support"
+          },
+          {
+            "k": "Length",
+            "v": "6 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in a self-rated depression score (QIDS-SR-16) at week 6"
+          }
+        ],
+        "found": "There was no significant difference between the groups on the main measure (scores fell by 8.0 points with psilocybin and 6.0 with escitalopram). Secondary measures generally favored psilocybin, but these were not corrected for multiple comparisons. Side effects were about as common in both groups. The authors say larger and longer trials are needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/",
+            "label": "Carhart-Harris et al., N Engl J Med, 2021",
+            "date": "published Apr 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "10 countries · 2022 · Randomized trial (Phase 2)",
+        "title": "COMP360 for treatment-resistant depression (NEJM 2022)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind; three single doses of COMP360 compared (25 mg, 10 mg, or 1 mg as the control), with psychological support"
+          },
+          {
+            "k": "People",
+            "v": "233 adults with treatment-resistant depression (79, 75 and 79 per group), in Europe, Canada and the US"
+          },
+          {
+            "k": "Length",
+            "v": "main measure at 3 weeks; follow-up to 12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in a clinician-rated depression score (MADRS) at week 3"
+          }
+        ],
+        "found": "The 25 mg dose, but not 10 mg, lowered depression scores more than 1 mg at week 3 (a 6.6-point difference). The effect did not hold as a sustained response at 12 weeks. 77% of people had side effects, including headache, nausea and dizziness. Suicidal thoughts or behavior, or self-injury, occurred in all dose groups. The trial was funded by the developer.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36322843/",
+            "label": "Goodwin et al., N Engl J Med, 2022",
+            "date": "published Nov 2022"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03775200",
+            "label": "ClinicalTrials.gov NCT03775200 (COMP001)",
+            "date": "updated Apr 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2023 · Randomized trial (Phase 2)",
+        "title": "Single dose for major depression (JAMA 2023)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind; one 25 mg dose of synthetic psilocybin or 100 mg niacin (an active placebo), each with psychological support"
+          },
+          {
+            "k": "People",
+            "v": "104 adults aged 21 to 65 with major depressive disorder, at 11 US sites; people with psychosis, mania or active suicidal intent were excluded"
+          },
+          {
+            "k": "Length",
+            "v": "43 days"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS depression score at day 43; disability score"
+          }
+        ],
+        "found": "Depression scores fell more with psilocybin than niacin at day 43 (a 12.3-point difference) and at day 8. There were no serious treatment-related adverse events, but psilocybin had more adverse events overall and more severe ones. Several authors are employees of Usona Institute, which is developing psilocybin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37651119/",
+            "label": "Raison et al., JAMA, 2023",
+            "date": "published Sep 2023"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Phase 3 trials (registered; results not posted)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "COMP 005 (NCT05624268):",
+            "text": "COMP360 25 mg versus placebo in treatment-resistant depression; 258 people in the US; main measure MADRS change. Status: completed (primary completion May 2025). ClinicalTrials.gov shows no posted results, and no peer-reviewed report was found.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05624268",
+                "label": "ClinicalTrials.gov NCT05624268 (COMP 005)",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "COMP 006 (NCT05711940):",
+            "text": "two doses of COMP360 (25 mg versus 1 mg; a 10 mg arm also) in treatment-resistant depression; 572 people in the US, Canada and Europe. Status: active, not recruiting.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05711940",
+                "label": "ClinicalTrials.gov NCT05711940 (COMP 006)",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "PSIL301 (NCT06308653):",
+            "text": "psilocybin 25 mg, 5 mg or inactive placebo with psychological support in major depressive disorder; 238 people in the US; sponsor Usona Institute. Status: active, not recruiting.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06308653",
+                "label": "ClinicalTrials.gov NCT06308653 (PSIL301)",
+                "date": "updated Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The developer of COMP360 describes it as being in Phase 3 for treatment-resistant depression and Phase 2 for PTSD. These are company statements.",
+        "src": [
+          {
+            "url": "https://compasspathways.com/our-work",
+            "label": "Compass Pathways, pipeline page (company statement)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use. Psilocybin is a Schedule I controlled substance under federal law. Oregon and Colorado license psilocybin services under state law. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA found no psilocybin product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PSILOCYBIN",
+                "label": "Drugs@FDA data (openFDA), search for 'psilocybin' (no match)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "psilocybin (DEA code 7437) and psilocyn (7438) are listed in Schedule I, the hallucinogenic substances in 21 CFR 1308.11(d). DEA's list notes both as constituents of “magic mushrooms.”",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11",
+                "label": "21 CFR 1308.11 (Schedule I), eCFR, version of Oct 21, 2026",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list (alphabetical)",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Breakthrough therapy:",
+            "text": "the developer of COMP360 states that FDA gave it Breakthrough Therapy Designation for treatment-resistant depression, and that the UK's MHRA gave it an ILAP designation. No FDA record of the designation was found. The developer also states that COMP360 has not been approved by FDA.",
+            "src": [
+              {
+                "url": "https://compasspathways.com/faq",
+                "label": "Compass Pathways, FAQ (company statement)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA guidance:",
+            "text": "FDA's final guidance on psychedelic drug trials (July 2026) covers how companies should design studies of psychedelic drugs.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/psychedelic-drugs-considerations-clinical-investigations",
+                "label": "FDA, guidance “Psychedelic Drugs: Considerations for Clinical Investigations” (final)",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "State programs"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Oregon:",
+            "text": "the Oregon Health Authority licenses and regulates the making, delivery, sale and purchase of psilocybin products and the provision of psilocybin services, under Ballot Measure 109 (passed November 2020), now ORS chapter 475A. Since September 1, 2026, the program sits in OHA's Medical Cannabis & Psilocybin Section. ORS 475A bars selling or delivering psilocybin products to anyone under 21.",
+            "src": [
+              {
+                "url": "https://www.oregon.gov/oha/ph/preventionwellness/pages/oregon-psilocybin-services.aspx",
+                "label": "Oregon Health Authority, Psilocybin Program page",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html",
+                "label": "Oregon Revised Statutes, chapter 475A (Psilocybin Regulation), 2025 edition",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Colorado:",
+            "text": "the Natural Medicine Health Act of 2022, passed by voters, and Senate Bill 23-290 define “natural medicine” as psilocybin or psilocyn (with DMT, ibogaine and mescaline possible later). The law licenses facilitators, who must be 21 or older, through the Division of Professions and Occupations in the Department of Regulatory Agencies, and licenses healing centers through a Natural Medicine Division in the Department of Revenue. A participant must be 21 or older. The act took effect July 1, 2023.",
+            "src": [
+              {
+                "url": "https://leg.colorado.gov/sites/default/files/2023a_290_signed.pdf",
+                "label": "Colorado Senate Bill 23-290 (signed act, natural medicine)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Under federal law, psilocybin remains in Schedule I and is not FDA approved, including in Oregon and Colorado."
+      }
+    ],
+    "world": {
+      "lead": "No regulator checked has approved a psilocybin medicine. Australia lets authorised psychiatrists prescribe it for treatment-resistant depression; elsewhere it is a controlled drug. WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / DEA",
+          "status": "Not approved. Schedule I controlled substance. State-licensed programs in Oregon and Colorado.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PSILOCYBIN",
+              "label": "Drugs@FDA data (openFDA), search for 'psilocybin' (no match)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11",
+              "label": "21 CFR 1308.11 (Schedule I), eCFR, version of Oct 21, 2026",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.oregon.gov/oha/ph/preventionwellness/pages/oregon-psilocybin-services.aspx",
+              "label": "Oregon Health Authority, Psilocybin Program page",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://leg.colorado.gov/sites/default/files/2023a_290_signed.pdf",
+              "label": "Colorado Senate Bill 23-290 (signed act, natural medicine)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized: no psilocybin product in the Drug Product Database. Psilocybin and psilocin are listed in Schedule III of the Controlled Drugs and Substances Act.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=PSILOCYBIN",
+              "label": "Health Canada Drug Product Database, ingredient search 'psilocybin' (no match)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://laws-lois.justice.gc.ca/eng/acts/c-38.8/FullText.html",
+              "label": "Canada, Controlled Drugs and Substances Act (Justice Laws, full text)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / Home Office",
+          "status": "No UK approval found; MHRA’s product register was not checked. Psilocin and fungus containing psilocin are Class A drugs and in Schedule 1 of the Misuse of Drugs Regulations 2001.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.uk/ukpga/1971/38/schedule/2",
+              "label": "UK, Misuse of Drugs Act 1971, Schedule 2 (legislation.gov.uk)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.uk/uksi/2001/3998/schedule/1",
+              "label": "UK, Misuse of Drugs Regulations 2001, Schedule 1 (legislation.gov.uk)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (psilocybin is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Schedule 8 (controlled) only in preparations for treatment-resistant depression, prescribed by a specialist psychiatrist who holds an authority under the Therapeutic Goods Act, or in an approved or notified trial. Otherwise Schedule 9 (prohibited).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Psilocybin and psilocin are not named on the WADA Prohibited List for 2026 or 2027, and not on the 2027 Monitoring Program. WADA’s class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current approval by any government health regulator for human therapeutic use. The lists do not say whether psilocybin falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In the published trials, side effects were common. Reported side effects included headache, nausea and dizziness. Suicidal thoughts or behavior occurred in all dose groups of the largest Phase 2 trial."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "COMP360 trial (NEJM 2022):",
+            "text": "adverse events in 179 of 233 people (77%), including headache, nausea and dizziness. Suicidal ideation or behavior, or self-injury, occurred in all dose groups, including the 1 mg control.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36322843/",
+                "label": "Goodwin et al., N Engl J Med, 2022",
+                "date": "published Nov 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Usona trial (JAMA 2023):",
+            "text": "no serious treatment-emergent adverse events, but more adverse events overall and more severe adverse events with psilocybin than with niacin.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37651119/",
+                "label": "Raison et al., JAMA, 2023",
+                "date": "published Sep 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Escitalopram comparison (NEJM 2021):",
+            "text": "the incidence of adverse events was similar in the psilocybin and escitalopram groups.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/",
+                "label": "Carhart-Harris et al., N Engl J Med, 2021",
+                "date": "published Apr 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Who was excluded:",
+            "text": "the JAMA 2023 trial excluded people with a history of psychosis or mania, active substance use disorder or active suicidal intent, so they say little about risk in those groups.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37651119/",
+                "label": "Raison et al., JAMA, 2023",
+                "date": "published Sep 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Psychological support:",
+            "text": "in all three trials psilocybin was given with psychological support.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/",
+                "label": "Carhart-Harris et al., N Engl J Med, 2021",
+                "date": "published Apr 2021"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36322843/",
+                "label": "Goodwin et al., N Engl J Med, 2022",
+                "date": "published Nov 2022"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37651119/",
+                "label": "Raison et al., JAMA, 2023",
+                "date": "published Sep 2023"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's Breakthrough Therapy Designation for COMP360 is confirmed only by the developer's own statement; no FDA record was found. A designation for Usona's psilocybin could not be confirmed because Usona's site could not be reached.",
+    "COMP 005 topline results could not be confirmed: the developer's investor site blocked requests, ClinicalTrials.gov shows no posted results, and no peer-reviewed report was found.",
+    "Colorado regulator pages (DORA, CDPHE and Department of Revenue) blocked requests, so the number of licensed healing centers and facilitators was not checked.",
+    "Health Canada access routes (Special Access Program, section 56 exemptions) were not checked against Health Canada’s own pages.",
+    "National rules in EU member states were not checked."
+  ],
+  "surprises": [
+    "Oregon and Colorado license psilocybin services under state law while psilocybin stays in federal Schedule I and has no FDA approval.",
+    "In the 2021 NEJM trial, psilocybin did not beat escitalopram on the main depression measure, although secondary measures favored it."
+  ]
+}

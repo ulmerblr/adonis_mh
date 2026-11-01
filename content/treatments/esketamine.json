@@ -1,0 +1,840 @@
+{
+  "slug": "esketamine",
+  "name": "Esketamine (Spravato)",
+  "row": "Esketamine (Spravato)",
+  "aka": [
+    "Spravato",
+    "Esketamine hydrochloride",
+    "S-ketamine"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "brain"
+  ],
+  "index": {
+    "evidence": "Approved; several RCTs",
+    "fda": "Approved (Spravato)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal data for ketamine cited in the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Built on IV ketamine depression studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-volunteer, driving and abuse studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Dose-ranging study in treatment-resistant depression",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "TRANSFORM, SUSTAIN and ASPIRE trials",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Spravato 2019; suicidal MDD 2020; alone 2025",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Esketamine is the S form of ketamine. It is sold as Spravato, a nasal spray. The FDA label says it is approved for adults with treatment-resistant depression, on its own or with an oral antidepressant, and for depressive symptoms in adults with major depressive disorder (MDD) who have acute suicidal thoughts or behavior, with an oral antidepressant.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+            "label": "Spravato label, DailyMed, section 1",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Esketamine blocks the NMDA receptor, a receptor for the brain chemical glutamate. The label says the way it eases depression is unknown.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 12.1",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "Patients use the spray themselves in a certified health care setting, under the direct watch of a health care provider, and are monitored for at least 2 hours afterwards.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.5",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "The label says Spravato is not approved as an anesthetic, and that it has not been shown to prevent suicide or reduce suicidal thoughts.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 1",
+                "date": "published Sep 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Esketamine was tested in a set of Phase 3 trials run by its maker. Some met their main goal and some did not. A later trial tested it on its own, and another compared it with quetiapine. Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Treatment-resistant depression, with an oral antidepressant"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2019 · Phase 3 randomized, double-blind trial",
+        "title": "Flexible dose, under 65, TRANSFORM-2 (Am J Psychiatry 2019)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Popova V, Daly EJ, Trivedi M, et al. Am J Psychiatry 2019;176(6):428-38 (NCT02418585)"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, active-controlled, 39 outpatient centers"
+          },
+          {
+            "k": "People",
+            "v": "227 adults with depression that had not responded to at least 2 antidepressants"
+          },
+          {
+            "k": "What was given",
+            "v": "esketamine 56 or 84 mg or placebo spray twice a week, each with a newly started oral antidepressant"
+          },
+          {
+            "k": "Length",
+            "v": "28 days"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS depression score at day 28"
+          }
+        ],
+        "found": "MADRS scores fell 4.0 points more with esketamine than placebo. Dissociation, nausea, vertigo, taste changes and dizziness were more common on esketamine. 7% on esketamine and 0.9% on placebo stopped because of side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31109201/",
+            "label": "Popova et al., American Journal of Psychiatry, PubMed",
+            "date": "published Jun 2019"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02418585",
+            "label": "ClinicalTrials.gov, NCT02418585 (TRANSFORM-2)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+            "label": "Spravato label, DailyMed, section 14.1",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2019 · Phase 3 randomized, double-blind trial",
+        "title": "Fixed dose, TRANSFORM-1 (Int J Neuropsychopharmacol 2019)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Fedgchin M, Trivedi M, Daly EJ, et al. Int J Neuropsychopharmacol 2019;22(10):616-30 (NCT02417064)"
+          },
+          {
+            "k": "People",
+            "v": "346 adults with treatment-resistant depression"
+          },
+          {
+            "k": "What was given",
+            "v": "esketamine 56 mg, 84 mg or placebo spray twice a week, each with a new oral antidepressant"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS at day 28"
+          }
+        ],
+        "found": "The trial missed its main goal: the 84 mg group did not differ significantly from placebo (difference -3.2 points; P=0.088). Under the planned rules, the 56 mg group could not be formally tested.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31290965/",
+            "label": "Fedgchin et al., Int J Neuropsychopharmacol, PubMed",
+            "date": "published Oct 2019"
+          }
+        ],
+        "badge": "Missed main goal"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2020 · Phase 3 randomized, double-blind trial",
+        "title": "Adults 65 and older, TRANSFORM-3 (Am J Geriatr Psychiatry 2020)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Ochs-Ross R, Daly EJ, Zhang Y, et al. Am J Geriatr Psychiatry 2020;28(2):121-41"
+          },
+          {
+            "k": "People",
+            "v": "adults aged 65 or older with treatment-resistant depression, randomized 1:1"
+          },
+          {
+            "k": "What was given",
+            "v": "flexible-dose esketamine or placebo spray, each with a new oral antidepressant"
+          },
+          {
+            "k": "Length",
+            "v": "28 days"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS at day 28"
+          }
+        ],
+        "found": "The trial missed its main goal (difference -3.6 points; P=0.059). In exploratory analyses the gap was larger in people aged 65 to 74 than in those 75 and older.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31734084/",
+            "label": "Ochs-Ross et al., Am J Geriatr Psychiatry, PubMed",
+            "date": "published Feb 2020"
+          }
+        ],
+        "badge": "Missed main goal"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2019 · Phase 3 randomized withdrawal trial",
+        "title": "Relapse prevention, SUSTAIN-1 (JAMA Psychiatry 2019)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Daly EJ, Trivedi MH, Janik A, et al. JAMA Psychiatry 2019;76(9):893-903 (NCT02493868)"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, randomized withdrawal, 2015 to 2018"
+          },
+          {
+            "k": "People",
+            "v": "705 adults enrolled; 297 who improved after 16 weeks of esketamine were randomized"
+          },
+          {
+            "k": "What was given",
+            "v": "continue esketamine spray or switch to placebo spray, oral antidepressant continued in both"
+          },
+          {
+            "k": "Measured",
+            "v": "time to relapse in people in stable remission"
+          }
+        ],
+        "found": "Among people in stable remission, 26.7% relapsed on esketamine and 45.3% on placebo (risk cut by 51%). Among stable responders, 25.8% and 57.6% relapsed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31166571/",
+            "label": "Daly et al., JAMA Psychiatry, PubMed",
+            "date": "published Sep 2019"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02493868",
+            "label": "ClinicalTrials.gov, NCT02493868 (SUSTAIN-1)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+            "label": "Spravato label, DailyMed, section 14.1",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Treatment-resistant depression, esketamine alone"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2025 · Phase 4 randomized, double-blind trial",
+        "title": "Esketamine without an oral antidepressant (JAMA Psychiatry 2025)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Janik A, Qiu X, Lane R, et al. JAMA Psychiatry 2025;82(9):877-87 (NCT04599855)"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, 51 US outpatient centers, 2020 to 2024"
+          },
+          {
+            "k": "People",
+            "v": "378 adults with treatment-resistant depression, off antidepressants for at least 2 weeks"
+          },
+          {
+            "k": "What was given",
+            "v": "esketamine 56 mg, 84 mg or placebo spray twice a week, randomized 1:1:2"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS at day 28 and at 24 hours"
+          }
+        ],
+        "found": "At day 28 MADRS scores were 5.1 points (56 mg) and 6.8 points (84 mg) lower than placebo; both doses also differed at 24 hours. The most common side effects were nausea (24.8%), dissociation (24.3%), dizziness (21.7%) and headache (19.0%).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40601310/",
+            "label": "Janik et al., JAMA Psychiatry, PubMed",
+            "date": "published Sep 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04599855",
+            "label": "ClinicalTrials.gov, NCT04599855",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+            "label": "Spravato label, DailyMed, section 14.1",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Depression with suicidal thoughts"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2020 · Phase 3 randomized, double-blind trial",
+        "title": "Active suicidal ideation, ASPIRE I (J Clin Psychiatry 2020)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Fu DJ, Ionescu DF, Li X, et al. J Clin Psychiatry 2020;81(3):19m13191 (NCT03039192)"
+          },
+          {
+            "k": "People",
+            "v": "226 adults with MDD, active suicidal thoughts with intent, needing hospital care"
+          },
+          {
+            "k": "What was given",
+            "v": "esketamine 84 mg or placebo spray twice a week, each with standard care including hospital admission and antidepressants"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS 24 hours after the first dose; severity of suicidality"
+          }
+        ],
+        "found": "MADRS scores were 3.8 points lower with esketamine at 24 hours. Severity of suicidality did not differ significantly between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32412700/",
+            "label": "Fu et al., Journal of Clinical Psychiatry, PubMed",
+            "date": "published May 2020"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "ASPIRE II (label Study 5, NCT03097133):",
+            "text": "an identical trial in 226 adults found a 3.9-point lower MADRS score at 24 hours. In both trials, esketamine did not beat placebo on the suicidality rating (CGI-SS-r).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 14.2",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT03097133",
+                "label": "ClinicalTrials.gov, NCT03097133 (Aspire II)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Compared with another drug"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2023 · Phase 3b open-label randomized trial",
+        "title": "Esketamine vs quetiapine, ESCAPE-TRD (N Engl J Med 2023)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Reif A, Bitter I, Buyze J, et al. N Engl J Med 2023;389(14):1298-309 (NCT04338321)"
+          },
+          {
+            "k": "Design",
+            "v": "open-label, raters blinded, active-controlled"
+          },
+          {
+            "k": "People",
+            "v": "676 adults with treatment-resistant depression on an SSRI or SNRI"
+          },
+          {
+            "k": "What was given",
+            "v": "esketamine spray or extended-release quetiapine tablets, flexible doses, added to the SSRI or SNRI"
+          },
+          {
+            "k": "Length",
+            "v": "32 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "remission (MADRS 10 or less) at week 8; no relapse through week 32"
+          }
+        ],
+        "found": "27.1% reached remission at week 8 on esketamine and 17.6% on quetiapine. 21.7% and 14.1% were in remission without relapse through week 32. Patients knew which drug they had.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37792613/",
+            "label": "Reif et al., New England Journal of Medicine, PubMed",
+            "date": "published Oct 2023"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Esketamine is FDA approved, by prescription, as Spravato nasal spray (2019). It is a Schedule III controlled substance. It has a boxed warning and is only available through a restricted program, the SPRAVATO REMS. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approvals:",
+            "text": "FDA's Drugs@FDA data show NDA 211243 approved March 5, 2019 (new active ingredient, priority review). Efficacy supplements were approved July 31, 2020 and January 17, 2025. The current label lists treatment-resistant depression, alone or with an oral antidepressant, and depressive symptoms in MDD with acute suicidal thoughts or behavior, with an oral antidepressant.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211243",
+                "label": "openFDA (FDA's Drugs@FDA data), NDA 211243 Spravato",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 1",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Boxed warning:",
+            "text": "the label's boxed warning is titled 'SEDATION; DISSOCIATION; RESPIRATORY DEPRESSION; ABUSE AND MISUSE; and SUICIDAL THOUGHTS AND BEHAVIORS'. It says patients 'must be monitored for at least 2 hours at each treatment session', and that 'Antidepressants increased the risk of suicidal thoughts and behavior in pediatric and young adult patients in short-term studies.'",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, boxed warning",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "SPRAVATO REMS:",
+            "text": "the label says Spravato is only available through a REMS 'because of the risks of serious adverse outcomes from sedation, dissociation, respiratory depression, abuse and misuse.' Health care settings and pharmacies must be certified, it may only be dispensed and given in health care settings, and outpatients must be enrolled. FDA's data list REMS changes approved from 2019 to June 2026.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.5",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211243",
+                "label": "openFDA (FDA's Drugs@FDA data), NDA 211243 Spravato",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "the label says esketamine, the S form of ketamine, is a Schedule III controlled substance. DEA's Schedule III entry covers 'Ketamine, its salts, isomers, and salts of isomers'.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 9.1",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://www.ecfr.gov/current/title-21/chapter-II/part-1308/section-1308.13",
+                "label": "eCFR, 21 CFR 1308.13 (Schedule III)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Children:",
+            "text": "the label says Spravato is not approved for use in children.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, boxed warning",
+                "date": "published Sep 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Spravato is only given in certified health care settings, with at least 2 hours of monitoring after each dose."
+      }
+    ],
+    "world": {
+      "lead": "Esketamine nasal spray (Spravato) is an approved prescription medicine in the US, Canada, the UK, the EU and Australia. The EU approval is for use with an SSRI or SNRI, not on its own. It is a controlled drug in the US, Canada, the UK and Australia, and it is not named on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Spravato 2019, treatment-resistant depression; 2020, MDD with suicidal thoughts; 2025, use on its own). Schedule III; REMS.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211243",
+              "label": "openFDA (FDA's Drugs@FDA data), NDA 211243 Spravato",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+              "label": "Spravato label, DailyMed, section 1",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: Spravato is listed as marketed. The database lists it under Schedule I of the Controlled Drugs and Substances Act.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=esketamine",
+              "label": "Health Canada Drug Product Database, ingredient search: esketamine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=98903",
+              "label": "Health Canada Drug Product Database, Spravato status record",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=98903",
+              "label": "Health Canada Drug Product Database, Spravato schedule record",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Licensed medicine for treatment-resistant depression. MHRA noted a 2022 letter requiring patients to be enrolled in a Register And Alert System before administration. Controlled with ketamine as Class B, Schedule 2.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/letters-and-medicine-recalls-sent-to-healthcare-professionals-in-march-2022",
+              "label": "MHRA Drug Safety Update, letters sent in March 2022",
+              "date": "published Apr 2022"
+            },
+            {
+              "url": "https://www.gov.uk/government/publications/ketamine-an-updated-review-of-use-and-harms/ketamine-an-updated-review-of-use-and-harms-accessible",
+              "label": "ACMD, Ketamine: an updated review of use and harms (GOV.UK)",
+              "date": "published Jan 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine (Spravato, authorised December 18, 2019): treatment-resistant depression with an SSRI or SNRI, and short-term use with an oral antidepressant in a psychiatric emergency.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spravato",
+              "label": "EMA, Spravato EPAR",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/product-information/spravato-epar-product-information_en.pdf",
+              "label": "EMA, Spravato product information (SmPC), section 4.1",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Spravato. Controlled drug (Schedule 8).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=esketamine",
+              "label": "TGA, PI/CMI search: esketamine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Esketamine (and ketamine, its parent drug) is not named anywhere on the WADA 2026 Prohibited List. Class S7 (narcotics, prohibited in competition) lists only these named opioids: buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone, methadone, morphine, nicomorphine, oxycodone, oxymorphone, pentazocine, pethidine and tramadol. Esketamine is not among them, and it is not named in S6 (stimulants) or any other class. The 2027 List, in force January 1, 2027, and the 2027 Monitoring Program do not name it either.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label's most common side effects are dissociation, dizziness, nausea, sedation, vertigo, numbness, anxiety, lethargy, raised blood pressure, vomiting and feeling drunk. Serious risks in the boxed warning are sedation, dissociation, breathing problems, abuse and misuse, and suicidal thoughts in young people."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common (TRD trials with an oral antidepressant, 346 on esketamine vs 222 on placebo):",
+            "text": "dissociation 41% vs 9%, dizziness 29% vs 8%, nausea 28% vs 9%, sedation 23% vs 9%, vertigo 23% vs 3%, taste changes 19% vs 14%, numbness 18% vs 2%, anxiety 13% vs 6%, blood pressure increased 10% vs 3%, vomiting 9% vs 2%, feeling drunk 5% vs 0.5%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 6.1",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Sedation:",
+            "text": "48% to 61% of patients in trials had sedation, and 0.3% to 0.4% lost consciousness.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.1",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Dissociation:",
+            "text": "61% to 84% had dissociative or perceptual changes, such as distorted time and space, derealization and depersonalization. The label says to assess people with psychosis carefully first.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.2",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Breathing:",
+            "text": "slowed breathing has been reported after approval, with rare reports of breathing stopping.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.3",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Blood pressure:",
+            "text": "it raises blood pressure at all doses, peaking about 40 minutes after a dose and lasting about 4 hours. 3% to 19% on esketamine and 1% to 4% on placebo had large rises. It must not be used by people with aneurysms, arteriovenous malformations or a past brain bleed.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 4",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.7",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Thinking and driving:",
+            "text": "a single dose slowed thinking at 40 minutes in healthy volunteers. Patients should not drive or use machinery until the next day after a restful sleep.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.8",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.9",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse and dependence:",
+            "text": "in a study of 34 recreational drug users, 'drug liking' after esketamine 84 mg or 112 mg was similar to IV ketamine. Withdrawal has been reported after heavy, long-term ketamine use.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 9.2",
+                "date": "published Sep 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 9.3",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bladder:",
+            "text": "urinary symptoms were more common on esketamine than placebo in trials. Ulcerative or interstitial cystitis has been reported with long-term off-label use or misuse of ketamine; no esketamine-related cases were seen in trials up to a year.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.10",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Suicidal thoughts in young people:",
+            "text": "in pooled antidepressant trials, people under 25 had more suicidal thoughts and behaviors than on placebo (14 more per 1,000 under 18; 5 more per 1,000 aged 18 to 24).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.6",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "based on animal studies of ketamine, esketamine may harm an unborn baby.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 5.11",
+                "date": "published Sep 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's REMS@FDA record and the Spravato approval letters on accessdata.fda.gov returned FDA's bot-check page; REMS details come from the label and FDA's openFDA submission data.",
+    "FDA's 2019 press announcement on Spravato could not be found on FDA's live site.",
+    "MHRA's product database did not load without a browser; the UK licence is confirmed from an MHRA Drug Safety Update and the ACMD review, not the MHRA product record."
+  ],
+  "surprises": [
+    "Two of the three short-term Phase 3 trials (TRANSFORM-1 and TRANSFORM-3, in adults 65 and older) missed their main goal; the label's efficacy section for this use describes TRANSFORM-2, the SUSTAIN-1 relapse study and the later monotherapy trial.",
+    "In both suicidal-ideation trials, esketamine lowered depression scores at 24 hours but did not beat placebo on the suicidality rating, and the label says it has not been shown to prevent suicide.",
+    "The US now allows Spravato on its own (2025), but the EU authorisation still requires an SSRI or SNRI alongside it."
+  ]
+}

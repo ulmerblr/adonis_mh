@@ -1,0 +1,802 @@
+{
+  "slug": "kratom",
+  "name": "Kratom",
+  "row": "Kratom",
+  "aka": [
+    "Mitragyna speciosa",
+    "Mitragynine",
+    "7-OH",
+    "7-hydroxymitragynine"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "brain"
+  ],
+  "index": {
+    "evidence": "Small human trials",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Published animal studies with kratom extracts",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small controlled studies since 2020",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Single-dose kratom study done (NCT06072170)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "One completed in 2025; no results posted",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "One planned in Thailand (skin patch)",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA warns against use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Kratom is a tropical tree (Mitragyna speciosa) native to Southeast Asia. Products made from its leaves are sold in the US online and in stores. FDA says kratom is often used to self-treat pain, coughing, diarrhea, anxiety and depression, opioid use disorder and opioid withdrawal. An estimated 1.7 million Americans aged 12 and older used kratom in 2021.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+            "label": "FDA, “FDA and Kratom”",
+            "date": "published Dec 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Kratom contains more than 50 alkaloids. Most research looks at mitragynine, the main one, and 7-hydroxymitragynine (7-OH). Both bind to the same brain receptors (mu-opioid receptors) as opioid drugs such as codeine. Mitragynine also acts on serotonin, dopamine, norepinephrine and kappa-opioid systems.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+            "label": "FDA, “FDA and Kratom”",
+            "date": "published Dec 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "7-OH makes up less than 2% of the alkaloids in natural kratom leaves, but it is much more potent at the mu-opioid receptor than mitragynine, and more potent than morphine. It can be made from mitragynine in one chemical step and is also formed from mitragynine in the body. FDA distinguishes concentrated 7-OH products, sold as tablets, gummies, drink mixes and shots, from the natural leaf.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+            "label": "FDA, “FDA and Kratom”",
+            "date": "published Dec 2025"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
+            "label": "DEA, notice of intent: 7-hydroxymitragynine and mitragynine pseudoindoxyl above a threshold (Federal Register 2026-20943)",
+            "date": "published Oct 14, 2026"
+          },
+          {
+            "url": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-restrict-7-oh-opioid-products-threatening-american-consumers",
+            "label": "FDA news release, steps to restrict 7-OH opioid products",
+            "date": "published Jul 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Researchers report that kratom is used in the US for energy and to self-manage pain and mood. DEA reports that unapproved 7-OH products were marketed for pain, relaxation and “mood enhancement.”",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42144893/",
+            "label": "Coe et al., Drug Test Anal, 2026",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
+            "label": "DEA, notice of intent: 7-hydroxymitragynine and mitragynine pseudoindoxyl above a threshold (Federal Register 2026-20943)",
+            "date": "published Oct 14, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No kratom or kratom-alkaloid drug is FDA approved. FDA says kratom cannot be lawfully sold as a dietary supplement or added to food."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "A few small controlled studies have given kratom or mitragynine to people, mostly to test safety, blood levels and abuse potential over days or weeks. None of the studies found tested it as a treatment for depression or anxiety. FDA says there are few well-designed human studies."
+      },
+      {
+        "t": "p",
+        "text": "FDA: “Although there are published animal studies with kratom extracts, there are few published reports from well-designed scientific studies where kratom was administered to humans.”",
+        "src": [
+          {
+            "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+            "label": "FDA, “FDA and Kratom”",
+            "date": "published Dec 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Controlled studies in people"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Randomized trial",
+        "title": "Single and 15 daily doses of dried leaf, healthy adults",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, dose-escalation"
+          },
+          {
+            "k": "People",
+            "v": "116 healthy adults aged 18 to 55 who had not used kratom for at least 12 months (49 kratom, 67 placebo)"
+          },
+          {
+            "k": "Given",
+            "v": "500 to 4,000 mg of dried kratom leaf powder (6.65 to 53.2 mg mitragynine), once and then once a day for 15 days"
+          },
+          {
+            "k": "Length",
+            "v": "47 days including follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "side effects, abuse-related effects and withdrawal"
+          }
+        ],
+        "found": "No serious adverse events or deaths. Side effects rose with dose: dizziness, nausea and feeling relaxed after single doses; headache, feeling hot, raised liver enzyme (ALT) and nausea after repeated doses. Drug-effect ratings rose only at the highest single dose, and no one met the threshold for meaningful opioid withdrawal. The trial was funded by a company, one author works for that company, and some authors consult for kratom industry groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41486478/",
+            "label": "Huestis et al., Ther Drug Monit, 2026",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42144893/",
+            "label": "Coe et al., Drug Test Anal, 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Randomized trial (Phase 1)",
+        "title": "Single doses in people with opioid experience",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, single ascending doses; first author from FDA"
+          },
+          {
+            "k": "People",
+            "v": "40 recreational drug users with opioid experience who were otherwise healthy (6 kratom and 2 placebo per dose group)"
+          },
+          {
+            "k": "Given",
+            "v": "a single dose of 1, 3, 8, 10 or 12 g of leaf kratom with trace 7-OH"
+          },
+          {
+            "k": "Measured",
+            "v": "pupil size, subjective effects, blood levels, heart tracing (ECG), labs and suicidality"
+          }
+        ],
+        "found": "No deaths or serious adverse events. Sleepiness, vomiting and nausea were most common. Doses of 3 g or more narrowed the pupils, an opioid-like effect. The 12 g dose raised ratings of “drug liking,” “good effects” and “high.”",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41837407/",
+            "label": "Reissig et al., J Clin Psychopharmacol, 2026",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06072170",
+            "label": "ClinicalTrials.gov NCT06072170 (single ascending doses of kratom)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2025 · Placebo-controlled study (Phase 1)",
+        "title": "Pure mitragynine, healthy volunteers",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-blind, placebo-controlled, within-subject"
+          },
+          {
+            "k": "People",
+            "v": "15 healthy volunteers (8 in part A, 7 in part B)"
+          },
+          {
+            "k": "Given",
+            "v": "single doses of 5, 10 and 20 mg (part A) or 40 mg (part B) of mitragynine"
+          },
+          {
+            "k": "Measured",
+            "v": "vital signs, drug experience, attention and thinking tests, and pain tolerance over 7 hours"
+          }
+        ],
+        "found": "Most measures did not change at any dose. The 5 mg dose raised ratings of arousal and attention and some attention-task scores. The 40 mg dose raised ratings of amnesia and caused mild psychiatric symptoms. Side effects were mild and short-lived.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39724441/",
+            "label": "Prevete et al., Psychopharmacology, 2025",
+            "date": "published Jun 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Malaysia · 2020 · Randomized crossover trial",
+        "title": "Pain tolerance in regular users",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, double-blind; kratom drink and matched placebo drinks during a 1-day stay"
+          },
+          {
+            "k": "People",
+            "v": "26 men, average age 24, who had used kratom daily for about 6 years"
+          },
+          {
+            "k": "Measured",
+            "v": "pain tolerance in a cold-water hand test, and withdrawal signs"
+          }
+        ],
+        "found": "Pain tolerance rose 60 minutes after the kratom drink (from 11.2 to 24.9 seconds on average) and did not change after placebo. No withdrawal signs were seen in the 10 to 20 hours without kratom.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32607084/",
+            "label": "Vicknasingam et al., Yale J Biol Med, 2020",
+            "date": "published Jun 2020"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Observational study on mood"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Observational study",
+        "title": "Kratom use and moment-to-moment anxiety and sadness",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "secondary analysis; people rated their mood on their phones several times a day for 15 days"
+          },
+          {
+            "k": "People",
+            "v": "357 adults who already used kratom"
+          },
+          {
+            "k": "Measured",
+            "v": "anxiety and sadness in the 3 hours after kratom use compared with no use"
+          }
+        ],
+        "found": "Kratom use was linked with small drops in anxiety and, less clearly, sadness. It was not a randomized trial, so it cannot show cause and effect; the authors say randomized trials are needed. One author reports consulting and paid expert-witness work.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42868887/",
+            "label": "Timmons et al., Drug Alcohol Depend, 2026",
+            "date": "published Nov 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Phase II (NCT07809282):",
+            "text": "mitragynine formulations versus placebo for 28 days in 100 healthy adults with exercise-induced muscle soreness, in Canada; also tests dependence. Completed October 2025; no results posted.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07809282",
+                "label": "ClinicalTrials.gov NCT07809282 (Phase II, mitragynine formulations)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Phase III (NCT07713771):",
+            "text": "a mitragynine skin patch for myofascial pain in 64 people at Prince of Songkla University, Thailand. Not yet recruiting.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07713771",
+                "label": "ClinicalTrials.gov NCT07713771 (Phase III, mitragynine skin patch)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Phase 1 (NCT07204171):",
+            "text": "the first test in people of MG001, a mitragynine formulation, sponsored by the US National Institute on Drug Abuse. Not yet recruiting.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07204171",
+                "label": "ClinicalTrials.gov NCT07204171 (Phase 1, MG001)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A ClinicalTrials.gov search for kratom lists 15 studies.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=kratom",
+            "label": "ClinicalTrials.gov search for 'kratom'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved. FDA says kratom is not lawfully marketed in the US as a drug, a dietary supplement or a food ingredient. Kratom and mitragynine are not federally controlled, and as of November 1, 2026, 7-OH is not yet in Schedule I; DEA has proposed to schedule 7-OH above a set level. Three related lab-made compounds have been in Schedule I since August 2026."
+      },
+      {
+        "t": "h3",
+        "text": "FDA"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Drug approval:",
+            "text": "“There are no prescription or over-the-counter drug products containing kratom or its known alkaloids that are legally on the market in the U.S.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+                "label": "FDA, “FDA and Kratom”",
+                "date": "published Dec 2025"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:MITRAGYNINE",
+                "label": "Drugs@FDA data (openFDA), search for 'mitragynine' (no match)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Dietary supplements and food:",
+            "text": "FDA has concluded that kratom is a new dietary ingredient without adequate safety information, so supplements containing it are adulterated, and that kratom added to food is an unsafe food additive.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+                "label": "FDA, “FDA and Kratom”",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Warnings:",
+            "text": "FDA warns consumers not to use kratom because of the risk of serious adverse events, including liver toxicity, seizures and substance use disorder.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+                "label": "FDA, “FDA and Kratom”",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "7-OH action, July 2025:",
+            "text": "FDA asked DEA to control certain 7-OH products under the Controlled Substances Act, aiming at concentrated 7-OH and not at natural kratom leaf products. FDA said there are no FDA-approved 7-OH drugs and that 7-OH is not lawful in dietary supplements or food. In June 2025 FDA sent warning letters to seven companies over 7-OH products.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-restrict-7-oh-opioid-products-threatening-american-consumers",
+                "label": "FDA news release, steps to restrict 7-OH opioid products",
+                "date": "published Jul 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Seizure, December 2025:",
+            "text": "US Marshals, working with FDA, seized about 73,000 units of 7-OH products (liquid shots and tablets) from three firms in Missouri.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-seizes-7-oh-opioids-protect-american-consumers",
+                "label": "FDA news release, seizure of 7-OH products",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Import alerts:",
+            "text": "DEA's 2016 notice states that FDA issued import alerts 54-15 and 66-41, which allow kratom products to be detained at the border without physical examination, and that 121 firms had been added to them since 2014. FDA's own import-alert pages could not be opened.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2016-08-31/pdf/2016-20803.pdf",
+                "label": "DEA, notice of intent to temporarily schedule mitragynine and 7-hydroxymitragynine, 81 FR 59929",
+                "date": "published Aug 31, 2016"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "DEA"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "2016 notice and withdrawal:",
+            "text": "on August 31, 2016, DEA announced it intended to place mitragynine and 7-OH temporarily in Schedule I. On October 13, 2016, DEA withdrew that notice after public comments, opened a comment period to December 1, 2016, and said it would wait for FDA's scientific evaluation.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2016-08-31/pdf/2016-20803.pdf",
+                "label": "DEA, notice of intent to temporarily schedule mitragynine and 7-hydroxymitragynine, 81 FR 59929",
+                "date": "published Aug 31, 2016"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2016-10-13/pdf/2016-24659.pdf",
+                "label": "DEA, withdrawal of the 2016 notice of intent (Federal Register 2016-24659)",
+                "date": "published Oct 13, 2016"
+              }
+            ]
+          },
+          {
+            "lead": "Schedule I since August 2026:",
+            "text": "a temporary order placed mitragynine pseudoindoxyl, MGM-15 and MGM-16 (compounds related to 7-OH) in Schedule I, effective August 26, 2026 until August 26, 2028.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-08-26/pdf/2026-17429.pdf",
+                "label": "DEA, temporary order: mitragynine pseudoindoxyl, MGM-15 and MGM-16 in Schedule I (Federal Register 2026-17429)",
+                "date": "published Aug 26, 2026"
+              },
+              {
+                "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11",
+                "label": "21 CFR 1308.11 (Schedule I), eCFR, version of Oct 21, 2026",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list (alphabetical)",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "7-OH, July 2026:",
+            "text": "DEA gave notice that it intended to schedule 7-OH above a threshold based on an HHS definition.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-06/pdf/2026-13580.pdf",
+                "label": "DEA, notice of intent: 7-hydroxymitragynine above a threshold (Federal Register 2026-13580)",
+                "date": "published Jul 6, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "7-OH, October 2026:",
+            "text": "DEA withdrew the July notice and issued a new one, based on an HHS letter of October 8, 2026. 7-OH and mitragynine pseudoindoxyl would be in Schedule I when either one, or both together, is above 1 mg per gram (solids) or 1 mg per millilitre (liquids), or when the ratio of mitragynine to them is under 100 to 1. The order is to be published on or after November 13, 2026. DEA says neither HHS nor DEA has found these substances safe below the threshold.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
+                "label": "DEA, notice of intent: 7-hydroxymitragynine and mitragynine pseudoindoxyl above a threshold (Federal Register 2026-20943)",
+                "date": "published Oct 14, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products",
+                "label": "FDA, “Hiding in Plain Sight: 7-OH Products”",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "MGM-15 and MGM-16, October 2026:",
+            "text": "DEA gave notice of a new temporary order for these two; the August 2026 order stays in effect until it is replaced.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20942.pdf",
+                "label": "DEA, notice of intent: MGM-15 and MGM-16 (Federal Register 2026-20942)",
+                "date": "published Oct 14, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Current list:",
+            "text": "DEA's controlled substances list dated October 21, 2026 names mitragynine pseudoindoxyl, MGM-15 and MGM-16 in Schedule I. It does not list kratom, mitragynine or 7-OH.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list (alphabetical)",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "State laws"
+      },
+      {
+        "t": "p",
+        "text": "DEA's October 2026 notice says ten states (Alabama, Arkansas, Connecticut, Indiana, Kansas, Louisiana, Massachusetts, Tennessee, Vermont and Wisconsin) have prohibited 7-OH consumption; that some states, such as Arizona, Colorado, South Carolina and Texas, limit 7-OH content; that 19 states have passed a kratom consumer protection act; and that some localities in other states ban kratom. This is DEA's summary; the state laws themselves were not opened for this page.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
+            "label": "DEA, notice of intent: 7-hydroxymitragynine and mitragynine pseudoindoxyl above a threshold (Federal Register 2026-20943)",
+            "date": "published Oct 14, 2026"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator checked has approved kratom as a medicine. Australia lists kratom and mitragynine as prohibited substances (Schedule 9). Health Canada warns about kratom products. WADA does not name kratom, mitragynine or 7-OH.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / DEA",
+          "status": "Not approved; FDA says it is not lawful as a drug, supplement or food ingredient. 7-OH-related compounds in Schedule I since August 2026; 7-OH scheduling proposed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+              "label": "FDA, “FDA and Kratom”",
+              "date": "published Dec 2025"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/FR-2026-08-26/pdf/2026-17429.pdf",
+              "label": "DEA, temporary order: mitragynine pseudoindoxyl, MGM-15 and MGM-16 in Schedule I (Federal Register 2026-17429)",
+              "date": "published Aug 26, 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
+              "label": "DEA, notice of intent: 7-hydroxymitragynine and mitragynine pseudoindoxyl above a threshold (Federal Register 2026-20943)",
+              "date": "published Oct 14, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized: no product in the Drug Product Database. Health Canada has warned about unauthorized kratom products and their risks.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=MITRAGYNINE",
+              "label": "Health Canada Drug Product Database, ingredient search 'mitragynine' (no match)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-products-may-pose-serious-health-risks-october-21-2020",
+              "label": "Health Canada advisory, unauthorized products that may pose serious health risks (includes kratom)",
+              "date": "published Oct 2020"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (kratom and mitragynine are not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prohibited: Mitragyna speciosa (kratom) and mitragynine are in Schedule 9 of the Poisons Standard.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Kratom, mitragynine and 7-OH are not named on the WADA Prohibited List for 2026 or 2027, and not on the 2027 Monitoring Program. The narcotics class (S7) names specific substances, such as morphine and oxycodone, and mitragynine is not among them. WADA’s class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current approval by any government health regulator for human therapeutic use. The lists do not say whether kratom or its alkaloids fall under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "FDA warns of liver toxicity, seizures and substance use disorder. Kratom's alkaloids can cause opioid-like effects, including breathing problems that may lead to death. Deaths with kratom have mostly involved other drugs as well."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA:",
+            "text": "possible opioid-like effects include sedation, nausea and vomiting, constipation, physical dependence and withdrawal, and respiratory depression that may lead to death. Cases of substance use disorder and of withdrawal in newborns after kratom use in pregnancy have been reported. Some kratom products were contaminated with Salmonella or heavy metals.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+                "label": "FDA, “FDA and Kratom”",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Deaths:",
+            "text": "FDA says deaths have been linked to kratom in rare cases, usually with other drugs, so kratom's role is unclear. CDC found kratom on toxicology in 152 of 27,338 overdose deaths (0.56%) in 27 states from July 2016 to December 2017; it was ruled a cause of death in 91. Only 7 had no other substance detected. Fentanyl was the most common other drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
+                "label": "FDA, “FDA and Kratom”",
+                "date": "published Dec 2025"
+              },
+              {
+                "url": "https://www.cdc.gov/mmwr/volumes/68/wr/mm6814a2.htm",
+                "label": "CDC MMWR, overdose deaths with kratom detected, 27 states, 2016–2017",
+                "date": "published Apr 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Poison centers, 2010–2015:",
+            "text": "660 kratom calls. Common signs were fast heart rate (25%), agitation (24%), drowsiness (19%), nausea (15%) and high blood pressure (12%). 7.4% had a major (life-threatening) outcome. 72% of callers were male; median age 28.",
+            "src": [
+              {
+                "url": "https://www.cdc.gov/mmwr/volumes/65/wr/mm6529a4.htm",
+                "label": "CDC MMWR, kratom exposures reported to poison centers, 2010–2015",
+                "date": "published Jul 2016"
+              }
+            ]
+          },
+          {
+            "lead": "7-OH:",
+            "text": "from January to July 2025, US poison centers recorded 165 exposures to 7-OH. Among people exposed to 7-OH alone, 35% had serious health problems and 67% were treated at a health care facility.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
+                "label": "DEA, notice of intent: 7-hydroxymitragynine and mitragynine pseudoindoxyl above a threshold (Federal Register 2026-20943)",
+                "date": "published Oct 14, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Health Canada:",
+            "text": "lists drowsiness, nausea, vomiting, seizures, liver toxicity and very fast heartbeat, and says kratom can be abused and cause dependence.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-products-may-pose-serious-health-risks-october-21-2020",
+                "label": "Health Canada advisory, unauthorized products that may pose serious health risks (includes kratom)",
+                "date": "published Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "In trials:",
+            "text": "dizziness, nausea, headache, feeling hot, raised liver enzyme and sleepiness; no serious adverse events at the doses tested.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41486478/",
+                "label": "Huestis et al., Ther Drug Monit, 2026",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41837407/",
+                "label": "Reissig et al., J Clin Psychopharmacol, 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's import alert 54-15 page could not be opened (the site blocked automated requests); its contents are reported from DEA's 2016 Federal Register notice.",
+    "State kratom and 7-OH laws are reported from DEA's October 2026 summary; the state statutes themselves could not be opened.",
+    "Whether DEA has issued the 7-OH temporary order is not confirmed; DEA said it would come on or after November 13, 2026.",
+    "UK status (MHRA and Home Office) was not checked against a regulator record.",
+    "National rules in EU member states were not checked."
+  ],
+  "surprises": [
+    "DEA tried to schedule kratom's two main alkaloids in 2016 and withdrew within six weeks; ten years later it scheduled three 7-OH-related compounds and proposed scheduling 7-OH itself, but not the natural leaf.",
+    "The HHS threshold for 7-OH is designed to leave products closer to natural kratom leaf outside Schedule I, while DEA says this is not a finding that they are safe."
+  ]
+}

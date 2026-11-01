@@ -3,7 +3,7 @@
   "name": "Semax",
   "peptide": true,
   "lanes": [
-    "energy"
+    "brain"
   ],
   "index": {
     "evidence": "Small Russian studies",
@@ -767,5 +767,6 @@
     "A 2022 Russian review says Semax does not cause drug dependence; FDA notes that in mice it boosted amphetamine-triggered dopamine release and that no study has assessed its abuse potential.",
     "Semax is sold online for pain, but in the only pain study FDA found, the authors concluded it \"does not exhibit analgesic activity by itself.\"",
     "Semax is marketed for ADHD, anxiety, depression, Parkinson’s and Alzheimer’s disease; FDA found no literature supporting ADHD and did not evaluate the others."
-  ]
+  ],
+  "row": "Semax"
 }

@@ -1,0 +1,767 @@
+{
+  "slug": "p21",
+  "name": "P21 (P021)",
+  "row": "P21 (P021)",
+  "aka": [
+    "P021",
+    "P-21",
+    "Peptide 021"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "brain"
+  ],
+  "index": {
+    "evidence": "Mouse and rat only",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse and rat studies since 2010",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published study in people",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Not FDA approved; research labels not for humans",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "P021 (Peptide 021) is a small lab-made compound built from part of ciliary neurotrophic factor (CNTF), a protein that supports nerve cells. Its developers took a four-amino-acid piece from what they call the most active region of CNTF and added an adamantylated glycine to one end. They say this was done to help it cross the blood–brain barrier and to slow its breakdown in the body.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/",
+            "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017",
+            "date": "published Jun 2017"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5488423/",
+            "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017 (full text, PMC)",
+            "date": "published Jun 2017"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The developers describe P021 as a pentapeptide, Ac-DGGL(A)G-NH2, with a molecular weight of 578.3. Most of the work comes from one group, led by Khalid Iqbal at the New York State Institute for Basic Research in Developmental Disabilities.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5488423/",
+            "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017 (full text, PMC)",
+            "date": "published Jun 2017"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25046994/",
+            "label": "Kazim et al., Neurobiol Dis, 2014",
+            "date": "published Nov 2014"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2010 paper from the same group used the name “P21” for the compound Ac-DGGLAG-NH2. Later papers call it P021 or Peptide 021.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20600002/",
+            "label": "Li et al., FEBS Lett, 2010",
+            "date": "published Aug 2010"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/",
+            "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017",
+            "date": "published Jun 2017"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and lab studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The authors describe P021 as a neurotrophic and neurogenic compound: in their mouse and rat studies it was linked to more new nerve cells in the hippocampus and to more markers of synapses (the contacts between nerve cells).",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/",
+                "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017",
+                "date": "published Jun 2017"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24702821/",
+                "label": "Bolognin et al., Neurobiol Aging, 2014",
+                "date": "published Sep 2014"
+              }
+            ]
+          },
+          {
+            "text": "In Alzheimer's model mice, the authors report higher brain levels of BDNF (brain-derived neurotrophic factor) and lower activity of the enzyme GSK-3β with P021.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25046994/",
+                "label": "Kazim et al., Neurobiol Dis, 2014",
+                "date": "published Nov 2014"
+              }
+            ]
+          },
+          {
+            "text": "In aged rats, the authors report that P021 crosses the blood–brain barrier.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26401692/",
+                "label": "Khatoon et al., J Alzheimers Dis, 2015",
+                "date": "published 2015"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Two of the papers disclose that the group's senior author, Khalid Iqbal, holds US patents on CNTF-derived peptides such as P021. The 2026 paper adds that he co-founded a company that holds a worldwide license to develop P021 as a drug.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28368015/",
+            "label": "Kazim et al., Sci Rep, 2017",
+            "date": "published Apr 2017"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41740658/",
+            "label": "Falangola et al., Magn Reson Imaging, 2026",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No study of P021 in people has been published. All of the evidence is in mice, rats and cells."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No published human studies found as of November 1, 2026. Every study below was done in mice, rats or cells, almost all by the group that developed P021."
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search returned 17 records; none was a study in people. A ClinicalTrials.gov search found no trial of this compound.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=P021+neurotrophic",
+            "label": "PubMed search for 'P021 neurotrophic'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=P021",
+            "label": "ClinicalTrials.gov search for 'P021'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 · Mouse study",
+        "title": "Starting early in Alzheimer's model mice, 2017",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Baazaoui N, Iqbal K. Alzheimers Res Ther 2017;9(1):45"
+          },
+          {
+            "k": "Design",
+            "v": "P021 or a plain (vehicle) diet; normal mice as a comparison group"
+          },
+          {
+            "k": "Who",
+            "v": "108 female mice: 32 3xTg-AD mice given P021, 35 3xTg-AD mice given vehicle, and 41 normal mice. 3xTg-AD mice have three human gene changes linked to Alzheimer's disease"
+          },
+          {
+            "k": "Length",
+            "v": "from 3 months of age, before plaques or tangles appear, to 21 months of age"
+          },
+          {
+            "k": "Given",
+            "v": "P021 mixed into the feed at 60 nmol per gram of food"
+          },
+          {
+            "k": "Measured",
+            "v": "new nerve cells, dendrite and synapse markers, Morris water maze (spatial memory) at 9 months of treatment and an object-location task at 15–16 months"
+          }
+        ],
+        "found": "The authors report that P021 prevented the loss of dendrite and synapse markers, increased new nerve cells, and reversed memory problems in the 3xTg-AD mice.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/",
+            "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017",
+            "date": "published Jun 2017"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5488423/",
+            "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017 (full text, PMC)",
+            "date": "published Jun 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 · Mouse study",
+        "title": "Plaques, tangles and survival in the same model, 2017",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Baazaoui N, Iqbal K. J Alzheimers Dis 2017;58(1):215-230"
+          },
+          {
+            "k": "Who",
+            "v": "female 3xTg-AD mice, treatment started at 3 months of age"
+          },
+          {
+            "k": "Length",
+            "v": "followed at 9, 15 and 18 months of treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "nerve-cell loss, amyloid-β and tau changes, object-recognition memory and deaths"
+          }
+        ],
+        "found": "The authors report less nerve-cell loss, less amyloid-β and tau change, better object-recognition memory and fewer deaths with P021.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28387677/",
+            "label": "Baazaoui and Iqbal, J Alzheimers Dis, 2017",
+            "date": "published 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2014 · Mouse study",
+        "title": "Older Alzheimer's model mice, 2014",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Kazim SF, et al. Neurobiol Dis 2014;71:110-30"
+          },
+          {
+            "k": "Who",
+            "v": "female 3xTg-AD and normal mice, treatment started at 9–10 months of age"
+          },
+          {
+            "k": "Length",
+            "v": "12 months of P021 or vehicle diet"
+          },
+          {
+            "k": "Measured",
+            "v": "tau changes, amyloid-β, BDNF, GSK-3β, memory, new nerve cells and synapse markers"
+          }
+        ],
+        "found": "Abnormal tau fell. The effect on amyloid-β was limited to lower soluble amyloid-β and a trend toward less plaque in one part of the hippocampus. The authors also report better memory and more new nerve cells.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25046994/",
+            "label": "Kazim et al., Neurobiol Dis, 2014",
+            "date": "published Nov 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2014 · Rat study",
+        "title": "Aged rats, 2014",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Bolognin S, et al. Neurobiol Aging 2014;35(9):2134-46"
+          },
+          {
+            "k": "Who",
+            "v": "Fisher rats aged 22 to 24 months"
+          },
+          {
+            "k": "Design",
+            "v": "long-term P021 by mouth"
+          },
+          {
+            "k": "Measured",
+            "v": "learning and memory, new nerve cells, BDNF, synapse markers, and brain chemistry by magnetic resonance spectroscopy"
+          }
+        ],
+        "found": "The authors report less age-related decline in learning and memory, more new nerve cells, more BDNF and fewer synapse losses with P021.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24702821/",
+            "label": "Bolognin et al., Neurobiol Aging, 2014",
+            "date": "published Sep 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Rat study",
+        "title": "Tau in the spinal fluid of aged rats, 2015",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Khatoon S, et al. J Alzheimers Dis 2015;47(3):557-64"
+          },
+          {
+            "k": "Who",
+            "v": "aged Fisher rats"
+          },
+          {
+            "k": "Measured",
+            "v": "whether P021 enters the brain, tau and amyloid-β in brain and spinal fluid, and immune reaction"
+          }
+        ],
+        "found": "P021 crossed the blood–brain barrier. It lowered tau, but not amyloid-β, in spinal fluid, to levels seen in young rats. The authors found no detectable immune reaction in the rats.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26401692/",
+            "label": "Khatoon et al., J Alzheimers Dis, 2015",
+            "date": "published 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2010 · Mouse study",
+        "title": "First description, normal mice, 2010",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Li B, et al. FEBS Lett 2010;584(15):3359-65"
+          },
+          {
+            "k": "Who",
+            "v": "normal adult C57Bl6 mice"
+          },
+          {
+            "k": "Measured",
+            "v": "learning and short-term and spatial memory, and new nerve cells in the hippocampus"
+          }
+        ],
+        "found": "The authors report that the compound, given outside the brain, improved learning and memory and increased new nerve cells in normal mice.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20600002/",
+            "label": "Li et al., FEBS Lett, 2010",
+            "date": "published Aug 2010"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Other models from the same group"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Down syndrome model mice (2017):",
+            "text": "treatment from before birth to early life in Ts65Dn mice. The authors report less developmental delay in pups and better memory in adulthood.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28368015/",
+                "label": "Kazim et al., Sci Rep, 2017",
+                "date": "published Apr 2017"
+              }
+            ]
+          },
+          {
+            "lead": "Before and just after birth (2020):",
+            "text": "3xTg-AD and normal female mice were fed P021 from day 8 of pregnancy to day 21 after birth, then a normal diet. The authors report better memory at 4 months and less tau change and plaque at 22 months.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32854771/",
+                "label": "Wei et al., Alzheimers Res Ther, 2020",
+                "date": "published Aug 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Birth to 4 months (2021):",
+            "text": "3xTg-AD and normal female mice were fed P021 from birth to day 120. The authors report that it prevented memory problems and raised BDNF at 4 months.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34057082/",
+                "label": "Wei et al., J Alzheimers Dis, 2021",
+                "date": "published 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Eye changes (2019):",
+            "text": "aged rats were treated for 3 months and 3xTg-AD mice for 18 months. The authors report fewer age-related retina changes like those of macular degeneration.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31803044/",
+                "label": "Liu et al., Front Aging Neurosci, 2019",
+                "date": "published 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Brain scans (2026):",
+            "text": "a diffusion MRI study of brain structure in 3xTg-AD mice treated early with P021.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41740658/",
+                "label": "Falangola et al., Magn Reson Imaging, 2026",
+                "date": "published Jun 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2024 · Cell and mouse study",
+        "title": "CDKL5 deficiency model, 2024",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Mottolese N, et al. J Neurodev Disord 2024;16(1):65"
+          },
+          {
+            "k": "Who",
+            "v": "a human nerve-cell line lacking CDKL5, and young and adult Cdkl5 knockout mice"
+          },
+          {
+            "k": "Measured",
+            "v": "nerve-cell growth and survival in cells; BDNF, brain structure and behavior in mice"
+          }
+        ],
+        "found": "P021 helped the nerve cells in the dish. In the mice, long-term P021 did not raise BDNF or improve brain structure, and behavior improved only a little.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39592934/",
+            "label": "Mottolese et al., J Neurodev Disord, 2024",
+            "date": "published Nov 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use. No P021 product is in Drugs@FDA and no trial is registered. Products labelled “research use only” are not for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA found no match.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:P021",
+                "label": "Drugs@FDA data (openFDA), search for 'p021' (no match)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA does not allow products labelled “for research use only” to be sold for people to take. In a 2020 consumer flyer about fake COVID-19 products, FDA said products marketed “for research use only,” or otherwise not for human consumption, “have not been evaluated for safety and should never be used by humans.” In a 2026 statement about GLP-1 drugs, FDA said it has warned companies that illegally sold unapproved drugs “falsely labeled ‘for research purposes’ or ‘not for human consumption’” to consumers for human use. Neither statement names P021; they are FDA's general statements about such labels.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (section on products sold \"for research purposes\")",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "P021 is not on FDA's 503A or 503B bulk substance category lists or on FDA's Category 2 page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "P021 is not one of the six peptides in HHS's interim compounding policy of October 2026 (BPC-157, TB-500, Epitalon, Semax, KPV and MOTS-c).",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary; the Federal Register notice does not list the peptides)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. P021 is not on the DEA's controlled substances list dated October 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list (alphabetical)",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator record found approves P021. It is not in Health Canada’s drug database or EMA’s list of authorised medicines, no human trial is registered, and WADA does not name it.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. No P021 product in Drugs@FDA. Not in the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:P021",
+              "label": "Drugs@FDA data (openFDA), search for 'p021' (no match)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+              "date": "published Oct 30, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. No P021 product in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=P021",
+              "label": "Health Canada Drug Product Database, ingredient search 'p021' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (P021 is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "P021 is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current approval by any government health regulator for human therapeutic use, including drugs still in development. For 2027, WADA adds “peptides” to the examples in S0. The lists do not say whether P021 falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: P021 is not named in the Poisons Standard that took effect on October 1, 2026. The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026 (Therapeutic Goods (Poisons Standard—October 2026) Instrument 2026)",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There are no human safety data. No one has published a study giving P021 to people."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "none.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=P021+neurotrophic",
+                "label": "PubMed search for 'P021 neurotrophic'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=P021",
+                "label": "ClinicalTrials.gov search for 'P021'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Animal findings:",
+            "text": "in aged rats, the authors found no detectable immune reaction to P021. The mouse and rat papers do not report formal toxicity studies.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26401692/",
+                "label": "Khatoon et al., J Alzheimers Dis, 2015",
+                "date": "published 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "FDA says products labelled for research use only have not been evaluated for safety.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "No formal toxicity or safety study of P021 was found in the published record.",
+    "UK (MHRA) status and Australia’s TGA register were not checked against the regulator’s own record."
+  ],
+  "surprises": [
+    "P021 is discussed as a brain peptide, but all published work is in animals and cells, nearly all from the developer's own group, and no trial in people is registered."
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "slug": "ketamine",
+  "name": "Ketamine",
+  "row": "Ketamine",
+  "aka": [
+    "Ketalar",
+    "Ketamine hydrochloride"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "brain"
+  ],
+  "index": {
+    "evidence": "Approved; depression RCTs",
+    "fda": "Approved (Ketalar)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal data in the label, incl. developing brain",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "First depression trial: 7 people, 2000",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Anesthesia drug-level studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Small placebo-controlled depression trials",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Depression: ketamine vs ECT trial, 403 people",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Ketalar 1970, anesthesia; depression off-label",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Ketamine is a general anesthetic given by injection into a vein or a muscle. The FDA label for Ketalar says it is used as the only anesthetic for procedures that do not need muscle relaxation, to start anesthesia before other anesthetics, and alongside other anesthetics.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+            "label": "Ketalar label, DailyMed, section 1",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Ketamine blocks the NMDA receptor, a receptor for the brain chemical glutamate. Its main breakdown product, norketamine, acts on the same receptor more weakly.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 12.1",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "It produces a 'dissociative' anesthetic state: strong pain relief, with throat reflexes and muscle tone kept. It raises blood pressure, heart rate and cardiac output, and it widens the airways.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 12.2",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "Ketamine is a 50:50 mix of two mirror-image forms. The S form, esketamine, is sold on its own as Spravato nasal spray, which is approved for depression. Spravato's label says it is not approved as an anesthetic.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 12.1",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 1",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "The liver breaks ketamine down mainly through the enzymes CYP2B6 and CYP3A4. After an injection into a vein, the first phase, which matches the anesthetic effect, has a half-life of 10 to 15 minutes.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 12.3",
+                "date": "published Mar 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Ketamine's approval rests on its use as an anesthetic. Its use for depression is off-label. Trials of that use started with a 7-person study in 2000 and now include a 403-person comparison with ECT. Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies in depression (off-label use)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2000 · Randomized, double-blind crossover",
+        "title": "First placebo-controlled test in depression (Biol Psychiatry 2000)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Berman RM, Cappiello A, Anand A, et al. Biol Psychiatry 2000;47(4):351-4"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind; each person had a ketamine day and a saline day"
+          },
+          {
+            "k": "People",
+            "v": "7 people with major depression completed the study"
+          },
+          {
+            "k": "What was given",
+            "v": "a single infusion of ketamine 0.5 mg/kg or saline into a vein"
+          },
+          {
+            "k": "Length",
+            "v": "2 test days; ratings for 72 hours after each"
+          },
+          {
+            "k": "Measured",
+            "v": "25-item Hamilton Depression Rating Scale"
+          }
+        ],
+        "found": "Depression scores fell by an average of 14 points within 72 hours after ketamine, and by 0 points after saline. The authors called it the first placebo-controlled trial of an NMDA blocker in depression.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10686270/",
+            "label": "Berman et al., Biological Psychiatry, PubMed",
+            "date": "published Feb 2000"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2006 · Randomized, double-blind crossover",
+        "title": "Treatment-resistant depression at NIMH (Arch Gen Psychiatry 2006)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Zarate CA Jr, Singh JB, Carlson PJ, et al. Arch Gen Psychiatry 2006;63(8):856-64"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, double-blind crossover, 2004 to 2005"
+          },
+          {
+            "k": "People",
+            "v": "18 adults with treatment-resistant major depression"
+          },
+          {
+            "k": "What was given",
+            "v": "one infusion of ketamine 0.5 mg/kg or placebo into a vein, a week apart"
+          },
+          {
+            "k": "Length",
+            "v": "ratings up to 7 days after each infusion"
+          },
+          {
+            "k": "Measured",
+            "v": "21-item Hamilton Depression Rating Scale"
+          }
+        ],
+        "found": "Scores improved more after ketamine than placebo from 110 minutes after the infusion, and the gap lasted through the week. The day after ketamine, 71% met response and 29% met remission criteria; 35% still met response criteria a week later.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16894061/",
+            "label": "Zarate et al., Archives of General Psychiatry, PubMed",
+            "date": "published Aug 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Randomized, double-blind trial",
+        "title": "Ketamine vs midazolam as an active placebo (Am J Psychiatry 2013)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Murrough JW, Iosifescu DV, Chang LC, et al. Am J Psychiatry 2013;170(10):1134-42"
+          },
+          {
+            "k": "Design",
+            "v": "two-site, parallel-arm, randomized, double-blind; midazolam (an anesthetic) as the control so both groups felt a drug effect"
+          },
+          {
+            "k": "People",
+            "v": "73 adults with treatment-resistant major depression, randomized 2:1"
+          },
+          {
+            "k": "What was given",
+            "v": "a single infusion of ketamine or midazolam into a vein"
+          },
+          {
+            "k": "Length",
+            "v": "primary result at 24 hours"
+          },
+          {
+            "k": "Measured",
+            "v": "Montgomery-Åsberg Depression Rating Scale (MADRS)"
+          }
+        ],
+        "found": "At 24 hours, MADRS scores were 7.95 points lower with ketamine than midazolam. Response rates were 64% and 28%. The authors said more data on how long the effect lasts and on safety were needed before clinical use.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23982301/",
+            "label": "Murrough et al., American Journal of Psychiatry, PubMed",
+            "date": "published Oct 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2023 · Open-label randomized noninferiority trial",
+        "title": "Ketamine vs ECT, ELEKT-D (N Engl J Med 2023)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Anand A, Mathew SJ, Sanacora G, et al. N Engl J Med 2023;388(25):2315-25"
+          },
+          {
+            "k": "Design",
+            "v": "open-label, randomized, noninferiority, 5 sites (NCT03113968)"
+          },
+          {
+            "k": "People",
+            "v": "403 adults with treatment-resistant depression without psychosis, referred for ECT; 195 got ketamine and 170 got ECT"
+          },
+          {
+            "k": "What was given",
+            "v": "ketamine 0.5 mg/kg into a vein over 40 minutes twice a week, or ECT three times a week"
+          },
+          {
+            "k": "Length",
+            "v": "3-week treatment phase; responders followed for 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "response (at least a 50% fall in depression score); memory tests; quality of life"
+          }
+        ],
+        "found": "55.4% responded on ketamine and 41.2% on ECT, which met the test for ketamine being no worse than ECT. ECT was linked to a drop in memory recall and to muscle and bone side effects; ketamine was linked to dissociation.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37224232/",
+            "label": "Anand et al., New England Journal of Medicine, PubMed",
+            "date": "published Jun 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "New Zealand, Australia, Singapore, Taiwan · 2024 · Phase 2 randomized trial",
+        "title": "Extended-release ketamine tablets, R-107 (Nat Med 2024)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Glue P, Loo C, Fam J, et al. Nat Med 2024;30(7):2004-9"
+          },
+          {
+            "k": "Design",
+            "v": "5-day open-label phase, then responders randomized, double-blind, to 4 doses or placebo"
+          },
+          {
+            "k": "People",
+            "v": "231 adults with treatment-resistant depression entered; 168 responders were randomized"
+          },
+          {
+            "k": "What was given",
+            "v": "R-107, an investigational extended-release ketamine tablet, 30 to 180 mg twice a week, or placebo; most doses were taken at home"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks of double-blind treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS at 13 weeks"
+          }
+        ],
+        "found": "At 13 weeks the 180 mg group scored 6.1 points better than placebo on MADRS. Relapse was 70.6% on placebo and 42.9% on 180 mg. The authors reported no blood pressure changes and little sedation or dissociation. R-107 is not approved in the US.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38914860/",
+            "label": "Glue et al., Nature Medicine, PubMed",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "The label reports that, in published animal studies, anesthetic drugs that block NMDA receptors increased nerve-cell death in the developing brain and caused lasting learning problems when given for more than 3 hours. In pregnant rats and rabbits, ketamine caused skeletal defects and more lost pregnancies. These findings are in animals.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+            "label": "Ketalar label, DailyMed, section 5.5",
+            "date": "published Mar 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+            "label": "Ketalar label, DailyMed, section 8.1",
+            "date": "published Mar 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Ketamine is FDA approved, by prescription, as Ketalar (1970), an anesthetic. It is a Schedule III controlled substance. No ketamine product is FDA approved for depression; that use is off-label. Compounded ketamine is not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Ketalar:",
+            "text": "FDA's Drugs@FDA data show NDA 016812 approved February 19, 1970, as a new molecular entity, as an injection. The label lists only anesthetic uses.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA016812",
+                "label": "openFDA (FDA's Drugs@FDA data), NDA 016812 Ketalar",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 1",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "the label says Ketalar contains ketamine, a Schedule III controlled substance. DEA's rules list 'Ketamine, its salts, isomers, and salts of isomers' in Schedule III, at 21 CFR 1308.13(c)(7).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 9.1",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://www.ecfr.gov/current/title-21/chapter-II/part-1308/section-1308.13",
+                "label": "eCFR, 21 CFR 1308.13 (Schedule III)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Depression is off-label:",
+            "text": "ketamine infusions, lozenges and nasal sprays for depression are off-label. The only ketamine-type drug FDA has approved for depression is esketamine nasal spray (Spravato), given in certified health care settings under a REMS.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 1",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+                "label": "Spravato label, DailyMed, section 1 and 5.5",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Label warning on repeated use:",
+            "text": "the Ketalar label says ketamine 'is associated with hepatobiliary dysfunction (most often a cholestatic pattern), with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications).' It asks for baseline liver tests and regular checks in anyone given repeated doses.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.6",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA alerts on compounded ketamine:",
+            "text": "FDA's list of compounding risk alerts includes, on October 10, 2023, 'FDA warns patients and health care providers about potential risks associated with compounded ketamine products, including oral formulations, for the treatment of psychiatric disorders', and, on February 16, 2022, 'FDA alerts health care professionals of potential risks associated with compounded ketamine nasal spray'. FDA now links both alerts only to archived copies, which could not be opened for this page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-risk-alerts",
+                "label": "FDA, Compounding Risk Alerts",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounded products:",
+            "text": "FDA says compounded drugs are not FDA approved, and that FDA does not verify their safety, effectiveness or quality before they are marketed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded ketamine (lozenges, tablets, nasal sprays) is not FDA approved. Ketamine for depression is off-label."
+      }
+    ],
+    "world": {
+      "lead": "Ketamine is an approved medicine, used in anesthesia, in the US, Canada, the UK, the EU and Australia. It is a controlled drug in the US (Schedule III), Canada (Schedule I), the UK (Class B) and Australia (Schedule 8). It is not named on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Ketalar 1970, anesthesia). Prescription-only, Schedule III. Depression use is off-label.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA016812",
+              "label": "openFDA (FDA's Drugs@FDA data), NDA 016812 Ketalar",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ecfr.gov/current/title-21/chapter-II/part-1308/section-1308.13",
+              "label": "eCFR, 21 CFR 1308.13 (Schedule III)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine. Ketalar and generic ketamine injections are listed as marketed. The database lists ketamine under Schedule I of the Controlled Drugs and Substances Act.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=ketamine",
+              "label": "Health Canada Drug Product Database, ingredient search: ketamine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=1214",
+              "label": "Health Canada Drug Product Database, Ketalar status record",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=1214",
+              "label": "Health Canada Drug Product Database, Ketalar schedule record",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / Home Office",
+          "status": "Licensed medicine (e.g. Ketalar 10 mg/ml injection, PL 00057/0529). Class B controlled drug, Schedule 2. ACMD advised in January 2026 that it stay Class B.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/ketamine-list-nationally-authorised-medicinal-products-psusa-00001804-202412_en.pdf",
+              "label": "EMA, ketamine: list of nationally authorised medicinal products (PSUSA/00001804/202412)",
+              "date": "published Jul 2025"
+            },
+            {
+              "url": "https://www.legislation.gov.uk/ukpga/1971/38/schedule/2",
+              "label": "Misuse of Drugs Act 1971, Schedule 2 (legislation.gov.uk)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.uk/uksi/2001/3998/schedule/2",
+              "label": "Misuse of Drugs Regulations 2001, Schedule 2 (legislation.gov.uk)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.gov.uk/government/news/acmd-announces-decision-on-the-classification-of-ketamine",
+              "label": "ACMD, decision on the classification of ketamine (GOV.UK)",
+              "date": "published Jan 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Nationally authorised medicine. EMA's list includes Ketalar injections in Ireland, Poland and Sweden, among others. No EU-wide (central) authorisation.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/psusa/ketamine-list-nationally-authorised-medicinal-products-psusa-00001804-202412_en.pdf",
+              "label": "EMA, ketamine: list of nationally authorised medicinal products (PSUSA/00001804/202412)",
+              "date": "published Jul 2025"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Ketalar and other ketamine injections. Controlled drug (Schedule 8).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=ketamine",
+              "label": "TGA, PI/CMI search: ketamine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "In January 2026 the UK's Advisory Council on the Misuse of Drugs (ACMD) published an updated review of ketamine harms. It advised that ketamine stay Class B, raised concern about growing high-dose use, and called for a patient registry to track off-label prescribing of ketamine and esketamine.",
+          "src": [
+            {
+              "url": "https://www.gov.uk/government/news/acmd-announces-decision-on-the-classification-of-ketamine",
+              "label": "ACMD, decision on the classification of ketamine (GOV.UK)",
+              "date": "published Jan 2026"
+            },
+            {
+              "url": "https://www.gov.uk/government/publications/ketamine-an-updated-review-of-use-and-harms/ketamine-an-updated-review-of-use-and-harms-accessible",
+              "label": "ACMD, Ketamine: an updated review of use and harms (GOV.UK)",
+              "date": "published Jan 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Ketamine is not named anywhere on the WADA 2026 Prohibited List. Class S7 (narcotics, prohibited in competition) lists only these named opioids: buprenorphine, dextromoramide, diamorphine (heroin), fentanyl and its derivatives, hydromorphone, methadone, morphine, nicomorphine, oxycodone, oxymorphone, pentazocine, pethidine and tramadol. Ketamine is not among them, and it is not named in S6 (stimulants) or any other class. The 2027 List, in force January 1, 2027, and the 2027 Monitoring Program do not name it either.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists emergence reactions (vivid dreams, hallucinations, confusion on waking) and raised blood pressure and pulse as the most common side effects. Serious risks include breathing problems, liver and bile-duct injury and bladder damage with repeated use, abuse and dependence."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Emergence reactions:",
+            "text": "about 12% of patients had confusion or agitation while waking up, usually lasting a few hours. Reactions range from dream-like states to vivid imagery, hallucinations and delirium.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.2",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Heart and blood pressure:",
+            "text": "blood pressure, heart rate and cardiac output often rise; falls in blood pressure and heart rate, abnormal rhythms and heart failure have also been seen. Ketamine must not be used where a big rise in blood pressure would be a serious hazard.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 4",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.1",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Breathing:",
+            "text": "breathing can slow or stop with an overdose or a fast injection. Combined with opioids, benzodiazepines, alcohol or other sedatives, it can cause profound sedation, breathing problems, coma and death.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.3",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.9",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Liver and bile ducts:",
+            "text": "repeated use has been linked to liver injury, narrowing and blockage of bile ducts and sclerosing cholangitis, which may reverse after stopping.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.6",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bladder and kidneys:",
+            "text": "long-term use or abuse has been linked to cystitis, a smaller bladder, narrowed ureters and kidney swelling (hydronephrosis), sometimes needing emergency surgery.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.7",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Brain pressure:",
+            "text": "a rise in pressure inside the skull has been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.8",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Abuse and dependence:",
+            "text": "the label says ketamine can be abused. Repeated high-dose misuse may affect memory and attention. Tolerance, physical dependence and withdrawal (craving, fatigue, poor appetite, anxiety) have been reported with heavy long-term use.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 9.2",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 9.3",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Young children and pregnancy:",
+            "text": "the label warns that anesthetics like ketamine given for more than 3 hours, from late pregnancy to about age 3, may affect brain development, based mainly on animal studies.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
+                "label": "Ketalar label, DailyMed, section 5.5",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "lead": "In depression trials:",
+            "text": "in the ELEKT-D trial, ketamine was linked to dissociation. In the 2024 tablet trial, the most common side effects were headache, dizziness and anxiety.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37224232/",
+                "label": "Anand et al., New England Journal of Medicine, PubMed",
+                "date": "published Jun 2023"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38914860/",
+                "label": "Glue et al., Nature Medicine, PubMed",
+                "date": "published Jul 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA's October 2023 alert on compounded ketamine (including oral forms) and its February 2022 alert on compounded ketamine nasal spray are now linked from FDA's Compounding Risk Alerts page only as archived copies on web.archive.org, which could not be reached. Only their titles and dates, from FDA's live list, are cited; their full text was not read.",
+    "MHRA's product database did not load without a browser; the UK licence number comes from EMA's list of nationally authorised ketamine products, which lists it for Northern Ireland.",
+    "Whether any EU member state authorises a ketamine product for depression was not checked."
+  ],
+  "surprises": [
+    "The Ketalar label now warns of liver and bile-duct injury with recurrent use, naming 'medically supervised unapproved indications' alongside misuse; repeated off-label dosing for depression falls under that wording.",
+    "Health Canada's database lists ketamine under Schedule I of the Controlled Drugs and Substances Act, the same schedule as opioids such as heroin, while the US places it in Schedule III.",
+    "FDA has moved its compounded-ketamine safety alerts off its live website; its own list now links to archived copies."
+  ]
+}

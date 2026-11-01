@@ -5,7 +5,7 @@
  *
  * A treatment shows a status only once its page exists with a dated, sourced record (`page`).
  */
-export type LaneKey = 'trt' | 'weight' | 'recovery' | 'vitality' | 'energy' | 'sleep' | 'hair-loss' | 'skin' | 'longevity';
+export type LaneKey = 'trt' | 'weight' | 'recovery' | 'vitality' | 'energy' | 'brain' | 'sleep' | 'hair-loss' | 'skin' | 'longevity';
 
 export const LANES: { key: LaneKey; name: string }[] = [
   { key: 'trt', name: 'TRT' },
@@ -13,6 +13,7 @@ export const LANES: { key: LaneKey; name: string }[] = [
   { key: 'recovery', name: 'Recovery' },
   { key: 'vitality', name: 'Vitality' },
   { key: 'energy', name: 'Energy' },
+  { key: 'brain', name: 'Brain' },
   { key: 'sleep', name: 'Sleep' },
   { key: 'hair-loss', name: 'Hair loss' },
   { key: 'skin', name: 'Skin' },
@@ -107,10 +108,11 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Inositol', page: { href: '/inositol', evidence: 'No trials found', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Choline', page: { href: '/choline', evidence: 'No trials found', fda: 'Not approved (energy)', sport: 'Not listed' } },
     { name: 'L-carnitine', page: { href: '/l-carnitine', evidence: 'Approved; few energy RCTs', fda: 'Approved (Carnitor)', sport: 'Not listed' } },
-    { name: 'Semax', peptide: true, page: { href: '/semax', evidence: 'Small Russian studies', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
+    { name: 'Ashwagandha', aka: ['Withania somnifera', 'Indian ginseng', 'Winter cherry'], page: { href: '/ashwagandha', evidence: 'Small RCTs; liver cases', fda: 'Supplement; not a drug', sport: 'Not listed' } },
+  ],
+  brain: [
     { name: 'Alpha-GPC (choline alfoscerate)', aka: ['Choline alfoscerate', 'Choline alphoscerate', 'L-alpha-glycerylphosphorylcholine', 'Glycerophosphocholine', 'GPC', 'Gliatilin', 'Delecit'], page: { href: '/alpha-gpc', evidence: 'Small RCTs; dementia', fda: 'Supplement; not a drug', sport: 'Not listed' } },
     { name: 'Armodafinil', aka: ['Nuvigil', 'R-modafinil'], page: { href: '/armodafinil', evidence: 'Approved; many RCTs', fda: 'Approved (Nuvigil)', sport: 'Banned in-comp.' } },
-    { name: 'Ashwagandha', aka: ['Withania somnifera', 'Indian ginseng', 'Winter cherry'], page: { href: '/ashwagandha', evidence: 'Small RCTs; liver cases', fda: 'Supplement; not a drug', sport: 'Not listed' } },
     { name: 'Cerebrolysin', peptide: true, aka: ['Cerebrolysine'], page: { href: '/cerebrolysin', evidence: 'Many RCTs; mixed reviews', fda: 'Not approved (US)', sport: 'Not listed' } },
     { name: 'Dihexa', peptide: true, aka: ['Dihexa acetate'], page: { href: '/dihexa', evidence: 'Animal and cell only', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Methylene blue', aka: ['ProvayBlue', 'Proveblue', 'Lumeblue', 'Methylthioninium chloride'], page: { href: '/methylene-blue', evidence: 'Small cognition studies', fda: 'Approved (ProvayBlue)', sport: 'Not listed' } },
@@ -119,6 +121,12 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Pinealon', peptide: true, aka: ['EDR peptide', 'Glu-Asp-Arg'], page: { href: '/pinealon', evidence: 'Few small Russian studies', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Piracetam', aka: ['Nootropil'], page: { href: '/piracetam', evidence: 'RCTs; reviews disagree', fda: 'Not approved (US)', sport: 'Not listed' } },
     { name: 'Selank', peptide: true, aka: ['Selank acetate', 'TP-7'], page: { href: '/selank', evidence: 'Small Russian studies', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Semax', peptide: true, page: { href: '/semax', evidence: 'Small Russian studies', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
+    { name: 'Esketamine (Spravato)', aka: ['Spravato', 'Esketamine hydrochloride', 'S-ketamine'], page: { href: '/esketamine', evidence: 'Approved; several RCTs', fda: 'Approved (Spravato)', sport: 'Not listed' } },
+    { name: 'Ketamine', aka: ['Ketalar', 'Ketamine hydrochloride'], page: { href: '/ketamine', evidence: 'Approved; depression RCTs', fda: 'Approved (Ketalar)', sport: 'Not listed' } },
+    { name: 'Kratom', aka: ['Mitragyna speciosa', 'Mitragynine', '7-OH', '7-hydroxymitragynine'], page: { href: '/kratom', evidence: 'Small human trials', fda: 'Not approved', sport: 'Not named' } },
+    { name: 'P21 (P021)', peptide: true, aka: ['P021', 'P-21', 'Peptide 021'], page: { href: '/p21', evidence: 'Mouse and rat only', fda: 'Not approved', sport: 'Not named' } },
+    { name: 'Psilocybin', aka: ['Magic mushrooms', 'COMP360'], page: { href: '/psilocybin', evidence: 'Phase 2 RCTs; Phase 3 on', fda: 'Not approved; Sch. I', sport: 'Not named' } },
   ],
   sleep: [
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
