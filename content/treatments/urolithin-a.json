@@ -1,0 +1,625 @@
+{
+  "slug": "urolithin-a",
+  "name": "Urolithin A",
+  "row": "Urolithin A",
+  "aka": [
+    "UA",
+    "AMAZ-02"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Small RCTs, mostly sponsor",
+    "fda": "Not approved (suppl.)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Worm lifespan and rodent muscle studies (2016)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "First-in-human safety trial in older adults (2019)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Phase 1 dose study, 60 older adults (NCT02655393)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "4-month muscle trials in 66 and 90 adults (2022)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; GRAS notice 791 (2018)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Urolithin A is made by gut bacteria from ellagitannins, plant compounds found in pomegranates, nuts and berries. Researchers describe it as a mitophagy inducer: it helps cells clear out worn mitochondria, the parts that make energy.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27400265/",
+            "label": "Ryu et al., Nat Med, 2016",
+            "date": "published Aug 2016"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "How much urolithin A a person makes from food varies with their gut bacteria. Most human trials of urolithin A taken directly were sponsored or funded by one company, Amazentis SA.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35584623/",
+            "label": "Singh et al., Cell Rep Med, 2022",
+            "date": "published May 2022"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32694802/",
+            "label": "Andreux et al., Nat Metab, 2019",
+            "date": "published Jul 2019"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Urolithin A is sold as a dietary supplement. FDA does not review supplements for safety or effectiveness before sale."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Urolithin A has been tested in several small randomized trials in people, lasting 4 weeks to 4 months. Most were funded by the company that makes it. Results on muscle were mixed: some endurance and strength measures improved, but most main outcomes did not. No trial has measured aging or lifespan in people."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Muscle trials"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2022 · Randomized trial (company-funded)",
+        "title": "Older adults' muscle endurance, 2022",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled, Seattle; sponsored by Amazentis"
+          },
+          {
+            "k": "People",
+            "v": "66 adults aged 65 to 90 (mean 72; 76% women; all White): 33 urolithin A, 33 placebo"
+          },
+          {
+            "k": "Length",
+            "v": "4 months of 1,000 mg a day or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "6-minute walk and hand-muscle energy (ATP) production (main outcomes); muscle endurance; blood markers"
+          }
+        ],
+        "found": "The main outcomes did not differ from placebo. Hand and leg muscle endurance improved more at 2 months, and some blood markers, including C-reactive protein, fell. Adverse events did not differ.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35050355/",
+            "label": "Liu et al., JAMA Netw Open, 2022",
+            "date": "published Jan 2022"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03283462",
+            "label": "NCT03283462, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 2022 · Randomized trial (company-run)",
+        "title": "Middle-aged adults' strength and fitness (ATLAS), 2022",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, blinded, placebo-controlled, two doses (500 mg and 1,000 mg), sites in Canada per the registry; sponsored by Amazentis, whose staff wrote the paper"
+          },
+          {
+            "k": "People",
+            "v": "Overweight middle-aged adults aged 40 to 65; 90 enrolled per the registry"
+          },
+          {
+            "k": "Length",
+            "v": "4 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Peak power output (main outcome), muscle strength, peak oxygen use, 6-minute walk, blood and muscle markers"
+          }
+        ],
+        "found": "Peak power, the main outcome, did not improve. The authors report about 12% more muscle strength and better fitness and walking scores, and lower blood acylcarnitines and C-reactive protein.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35584623/",
+            "label": "Singh et al., Cell Rep Med, 2022",
+            "date": "published May 2022"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03464500",
+            "label": "NCT03464500, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2025 · Randomized trial (company-funded)",
+        "title": "Trained male distance runners, 2025",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled, during an altitude training camp; funded by Amazentis"
+          },
+          {
+            "k": "People",
+            "v": "42 competitive male runners (mean age 27): 22 urolithin A, 20 placebo"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks of 1,000 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Fitness, running economy, 3,000 m time trial (in 22), muscle damage markers, muscle biopsies (in 20)"
+          }
+        ],
+        "found": "Running performance did not improve. Effort ratings and a muscle damage marker were lower after the time trial. Aerobic capacity rose within the group but did not differ significantly from placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40839339/",
+            "label": "Whitfield et al., Sports Med, 2025",
+            "date": "published Dec 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04783207",
+            "label": "NCT04783207, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Other trials"
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2025 · Randomized trial (company-funded)",
+        "title": "Immune cells in middle-aged adults, 2025",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled; funded by Amazentis, which supplied the product"
+          },
+          {
+            "k": "People",
+            "v": "50 healthy middle-aged adults (registry: ages 45 to 70)"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks of 1,000 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Types and metabolism of blood immune cells; inflammation markers"
+          }
+        ],
+        "found": "Urolithin A raised a subset of less-exhausted CD8 T cells and their fat-burning capacity, and changed several other immune cell measures. These are lab markers, not illness or infection outcomes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41174221/",
+            "label": "Denk et al., Nat Aging, 2025",
+            "date": "published Nov 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05735886",
+            "label": "NCT05735886, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 · Randomized trial",
+        "title": "Blood vessel function in adults with obesity, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled, University of Oklahoma; authors reported no conflicts"
+          },
+          {
+            "k": "People",
+            "v": "50 adults aged 40 to 64 with BMI 30 or more (74% women): 25 per group; 7 lost to follow-up"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks of 1,000 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Artery flow-mediated dilation (main outcome); other vessel tests; brain blood-flow responses"
+          }
+        ],
+        "found": "No improvement in artery function or other vessel tests. Brain blood-flow responses during a task were larger; task performance did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42853569/",
+            "label": "Pinaffi-Langley et al., JAMA Netw Open, 2026",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05921266",
+            "label": "NCT05921266, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "France · 2019 · Phase 1 randomized trial (company-run)",
+        "title": "Safety in older adults, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, blinded single- and multiple-dose study (250 mg to 2,000 mg), France; sponsored by Amazentis"
+          },
+          {
+            "k": "People",
+            "v": "Healthy, sedentary older adults; the registry lists 60 enrolled, ages 61 to 85"
+          },
+          {
+            "k": "Length",
+            "v": "Single dose, or 4 weeks of daily dosing"
+          },
+          {
+            "k": "Measured",
+            "v": "Safety (main outcome); blood levels; blood and muscle markers of mitochondria"
+          }
+        ],
+        "found": "The authors report a favorable safety profile. Doses of 500 mg and 1,000 mg for 4 weeks changed blood acylcarnitines and mitochondrial gene activity in muscle.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32694802/",
+            "label": "Andreux et al., Nat Metab, 2019",
+            "date": "published Jul 2019"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02655393",
+            "label": "NCT02655393, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In worms (C. elegans), urolithin A extended lifespan. In two mouse models of age-related muscle decline, and in young rats, it improved exercise capacity. These results have not been shown to translate into longer life in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27400265/",
+            "label": "Ryu et al., Nat Med, 2016",
+            "date": "published Aug 2016"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Urolithin A is not an FDA-approved drug. It is sold as a dietary supplement. FDA had no questions about one company's conclusion that it is safe for use in certain foods (GRAS notice 791, 2018). FDA does not review supplements for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. FDA's Drugs@FDA data have no product with urolithin A as an active ingredient.",
+            "lead": "FDA approval:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22UROLITHIN%20A%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for urolithin A as an active ingredient, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "under DSHEA, FDA does not have the authority to approve dietary supplements before they are marketed. Firms generally do not have to show FDA their safety evidence.",
+            "lead": "Dietary supplement:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "GRN 791, filed by Amazentis SA in June 2018, covers use in protein shakes, meal-replacement drinks, oatmeal, bars and yogurts. FDA closed it on December 20, 2018 with a 'no questions' letter. A search of FDA's GRAS inventory found no other urolithin notice.",
+            "lead": "Food ingredient (GRAS):",
+            "src": [
+              {
+                "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&id=791",
+                "label": "FDA GRAS Notice Inventory, GRN 791 (urolithin A)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&type=basic&search=urolithin",
+                "label": "FDA GRAS Notice Inventory search for 'urolithin'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "a 2024 study tested urolithin A and NMN supplements bought online or in pharmacies and found active-ingredient amounts from 28.6% above to 100% below the label claim.",
+            "lead": "Label accuracy:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38935229/",
+                "label": "Sandalova et al., GeroScience, 2024 (label testing)",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "text": "urolithin A does not appear in FDA's 503A or 503B lists of nominated bulk drug substances.",
+            "lead": "Compounding:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "text": "no.",
+            "lead": "Controlled substance:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Urolithin A is sold as a supplement in the US, not approved as a medicine. We could not confirm its status with regulators in Canada, the UK, the EU or Australia. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved as a drug. Sold as a dietary supplement; FDA had no questions on a GRAS notice for food use (2018).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&id=791",
+              "label": "FDA GRAS Notice Inventory, GRN 791 (urolithin A)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22UROLITHIN%20A%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for urolithin A as an active ingredient, no match",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA / EFSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia: urolithin A is not named in the Poisons Standard that took effect October 1, 2026. We could not check the TGA's register.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Urolithin A is not named on the 2026 WADA Prohibited List or on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In trials of up to 4 months, urolithin A was reported as well tolerated, with adverse events similar to placebo. Long-term safety in people has not been studied. FDA does not review supplements for safety before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "no statistical differences in adverse events between urolithin A and placebo (66 people).",
+            "lead": "Older adults, 4 months:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35050355/",
+                "label": "Liu et al., JAMA Netw Open, 2022",
+                "date": "published Jan 2022"
+              }
+            ]
+          },
+          {
+            "text": "the company-run study reported a favorable safety profile.",
+            "lead": "First-in-human trial:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32694802/",
+                "label": "Andreux et al., Nat Metab, 2019",
+                "date": "published Jul 2019"
+              }
+            ]
+          },
+          {
+            "text": "reported as well tolerated (50 people).",
+            "lead": "Obesity trial, 4 weeks:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42853569/",
+                "label": "Pinaffi-Langley et al., JAMA Netw Open, 2026",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "text": "tested products varied widely from their label claims, so the amount in a product may not match the label.",
+            "lead": "Supplement quality:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38935229/",
+                "label": "Sandalova et al., GeroScience, 2024 (label testing)",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "text": "FDA does not approve supplements before they are marketed.",
+            "lead": "Supplements in general:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open FDA's GRN 791 response letter PDF itself; the facts come from FDA's GRAS inventory record.",
+    "The ATLAS trial abstract does not give how many people took part; 90 enrolled per ClinicalTrials.gov.",
+    "We could not confirm urolithin A's status with Health Canada, the MHRA or UK Food Standards Agency, EU regulators (EFSA and EUR-Lex refused automated requests) or the TGA.",
+    "We found no record that urolithin A was filed with FDA as a new dietary ingredient; FDA's NDI list has no urolithin entry."
+  ],
+  "surprises": [
+    "Urolithin A is often promoted for muscle, but in the two 4-month trials the main outcomes (walk distance, muscle energy production, peak power) did not improve; the gains were in secondary measures.",
+    "Almost every human trial we found was sponsored or funded by one company, Amazentis SA.",
+    "A 2024 test of urolithin A and NMN supplements found amounts as far as 100% below the label claim."
+  ]
+}

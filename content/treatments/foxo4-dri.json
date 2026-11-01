@@ -1,0 +1,536 @@
+{
+  "slug": "foxo4-dri",
+  "name": "FOXO4-DRI",
+  "row": "FOXO4-DRI",
+  "aka": [
+    "FOXO4 D-retro-inverso peptide",
+    "FOXO4 peptide"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Mouse and cell only",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse and cell studies since 2017",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published study in people",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Not FDA approved; research labels not for humans",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "FOXO4-DRI is a lab-made peptide designed by a group at Erasmus University Medical Center in Rotterdam and published in 2017. It copies part of the FOXO4 protein, built in a “D-retro-inverso” (DRI) form, which the authors say can give peptides new chemical properties.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28340339/",
+            "label": "Baar et al., Cell, 2017",
+            "date": "published Mar 2017"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5556182/",
+            "label": "Baar et al., Cell, 2017 (full text, PMC)",
+            "date": "published Mar 2017"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Senescent cells are damaged cells that stop dividing but do not die. In them, the FOXO4 protein holds onto p53, a protein that can trigger cell death. FOXO4-DRI competes with FOXO4 for p53, which pushes p53 out of the nucleus and sets off cell death in senescent cells. Drugs that clear senescent cells are called senolytics.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28340339/",
+                "label": "Baar et al., Cell, 2017",
+                "date": "published Mar 2017"
+              }
+            ]
+          },
+          {
+            "text": "In lab dishes, it lowered the survival of senescent human lung cells more than normal cells.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5556182/",
+                "label": "Baar et al., Cell, 2017 (full text, PMC)",
+                "date": "published Mar 2017"
+              }
+            ]
+          },
+          {
+            "text": "A 2025 structural study found that FOXO4 and FOXO4-DRI bind a loose, unfolded part of p53.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40593617/",
+                "label": "Bourgeois et al., Nature Communications, 2025",
+                "date": "published Jul 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these effects has been tested in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: none. No published human studies found as of November 1, 2026. Everything is mouse, rat or cell work, starting with one 2017 mouse study."
+      },
+      {
+        "t": "p",
+        "text": "No published human studies found as of November 1, 2026. PubMed lists 19 papers mentioning FOXO4-DRI, none giving it to people, and ClinicalTrials.gov lists no trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=FOXO4-DRI",
+            "label": "PubMed search for 'FOXO4-DRI'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=FOXO4-DRI",
+            "label": "ClinicalTrials.gov search for 'FOXO4-DRI'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2017 · Mouse and cell study",
+        "title": "Senescent cells, chemotherapy damage and ageing mice (Baar et al.)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Baar MP, et al. Cell 2017;169(1):132-47"
+          },
+          {
+            "k": "Design",
+            "v": "controlled animal studies, FOXO4-DRI against saline (PBS), plus cell experiments"
+          },
+          {
+            "k": "Animals",
+            "v": "mice given the chemotherapy drug doxorubicin; fast-ageing XpdTTD/TTD mice; naturally old mice (about 110 weeks)"
+          },
+          {
+            "k": "What was given",
+            "v": "5 mg/kg three times, every other day, into a vein or the belly"
+          },
+          {
+            "k": "Length",
+            "v": "results measured up to 30 days after treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "senescence markers, liver and kidney blood tests, fur density, activity, body weight"
+          }
+        ],
+        "found": "In the chemotherapy mice, it reduced a liver damage marker (AST) and weight loss. In fast-ageing and old mice, it reduced senescence markers and improved fur density, activity and kidney blood tests. In fast-ageing mice, the kidney tests used groups of 7 to 8 mice per treatment. The paper reports no lifespan data.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28340339/",
+            "label": "Baar et al., Cell, 2017",
+            "date": "published Mar 2017"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5556182/",
+            "label": "Baar et al., Cell, 2017 (full text, PMC)",
+            "date": "published Mar 2017"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Testosterone, mice (2020):",
+            "text": "in naturally old mice, it lowered senescence in testosterone-making Leydig cells and raised testosterone.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31959736/",
+                "label": "Zhang et al., Aging (Albany NY), 2020",
+                "date": "published Jan 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Sperm, mice (2024):",
+            "text": "in naturally old mice, sperm quality and sperm production improved.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39025385/",
+                "label": "Li et al., Exp Gerontol, 2024",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Cartilage cells (2021):",
+            "text": "it removed senescent cells from human cartilage cells grown in the lab.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33996787/",
+                "label": "Huang et al., Front Bioeng Biotechnol, 2021",
+                "date": "published 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Lung blood pressure, mice (2023):",
+            "text": "in mice prone to lung high blood pressure, clearing senescent cells with FOXO4-DRI or another senolytic worsened lung blood pressure and caused loss of lung blood-vessel cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36515093/",
+                "label": "Born et al., Circulation, 2023",
+                "date": "published Feb 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Animal results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=FOXO4-DRI",
+            "label": "PubMed search for 'FOXO4-DRI'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use. No FOXO4-DRI product appears in FDA’s drug approval database, and no trial is registered. Products labelled “research use only” are not for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA found no match.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:FOXO4",
+                "label": "Drugs@FDA data (openFDA), search for 'FOXO4' (no match)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA says products marketed “for research use only” or otherwise not for human consumption “have not been evaluated for safety and should never be used by humans.” Such products may not be sold for human use: FDA says it acts against firms selling unapproved products.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "FOXO4-DRI is not one of the six peptides named in HHS’s interim compounding policy of October 2026 (BPC-157, TB-500, Epitalon, Semax, KPV and MOTS-c). As of November 1, 2026.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary; the Federal Register notice does not list the peptides)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "FOXO4-DRI does not appear on FDA’s lists of bulk substances nominated for compounding (503A and 503B categories) or on its Category 2 page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. FOXO4-DRI is not on the DEA’s controlled substances list dated October 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator record found approves FOXO4-DRI. It is not in Health Canada’s drug database or EMA’s list of authorized medicines, no human trial is registered, and it is not named on WADA’s Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. No FOXO4-DRI product in Drugs@FDA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:FOXO4",
+              "label": "Drugs@FDA data (openFDA), search for 'FOXO4' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. No FOXO4 product in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=foxo4",
+              "label": "Health Canada Drug Product Database, ingredient search 'foxo4' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (FOXO4-DRI is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "FOXO4-DRI is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current approval by any government health regulator for human use. For 2027, WADA adds “peptides” to the examples in S0. The lists do not say whether FOXO4-DRI falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: FOXO4-DRI is not named in the Poisons Standard that took effect on October 1, 2026. The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There are no human safety data. No one has published a study giving FOXO4-DRI to people. One mouse study found harm from clearing senescent cells."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "none.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=FOXO4-DRI",
+                "label": "PubMed search for 'FOXO4-DRI'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=FOXO4-DRI",
+                "label": "ClinicalTrials.gov search for 'FOXO4-DRI'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Lung blood vessels, mice:",
+            "text": "in mouse models of lung high blood pressure, FOXO4-DRI worsened lung blood pressure and removed lung blood-vessel cells. The authors say clearing senescent cells may worsen lung blood flow.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36515093/",
+                "label": "Born et al., Circulation, 2023",
+                "date": "published Feb 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Animal safety:",
+            "text": "the 2017 study gave short courses (three doses) that the authors describe as well tolerated. No formal toxicity studies were found.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5556182/",
+                "label": "Baar et al., Cell, 2017 (full text, PMC)",
+                "date": "published Mar 2017"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "Health Canada warns that unauthorized injectable peptides may hold too much, too little or none of the ingredient, or contaminants. It says a “research use only” label does not make them legal.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada advisory RA-81874",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "UK (MHRA) status and Australia’s TGA register were not checked against the regulator’s own record."
+  ],
+  "surprises": [
+    "FOXO4-DRI is promoted as a senolytic for ageing, but it has never been tested in people, and the original 2017 mouse study did not measure lifespan.",
+    "A 2023 mouse study found that clearing senescent cells with FOXO4-DRI worsened lung blood pressure."
+  ]
+}

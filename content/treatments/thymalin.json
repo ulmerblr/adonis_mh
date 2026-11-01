@@ -1,0 +1,532 @@
+{
+  "slug": "thymalin",
+  "name": "Thymalin",
+  "row": "Thymalin",
+  "aka": [
+    "Timalin",
+    "Тималин",
+    "thymus peptide extract",
+    "thymus peptides"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Russian studies only",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Lab studies, mostly from one St. Petersburg group",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Russian clinical studies; one small 2020 open RCT",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No registered Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Not FDA approved; research labels not for humans",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Thymalin is a mix of peptides extracted from the thymus glands of calves, with molecular weights up to 10 kDa. Its developers describe it as an immune-modulating drug. Authors of a 2021 paper write that the Russian Ministry of Health has approved it for medical use since 1982, under registration certificate 82/1108/8, made by Samson-Med in St. Petersburg.",
+        "src": [
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7877506/",
+            "label": "Khavinson et al., Stem Cell Rev Rep, 2021 (full text, Europe PMC)",
+            "date": "published Feb 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Most research comes from the St. Petersburg Institute of Bioregulation and Gerontology, led by Vladimir Khavinson, which also studies the pineal extract epithalamin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14523363/",
+            "label": "Khavinson and Morozov, Neuro Endocrinol Lett, 2003",
+            "date": "published Jun 2003"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33575961/",
+            "label": "Khavinson et al., Stem Cell Rev Rep, 2021",
+            "date": "published Feb 2021"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to lab studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The group names two dipeptides, KE (Lys-Glu) and EW (Glu-Trp), as active parts of thymalin.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37686182/",
+                "label": "Linkova et al., Int J Mol Sci, 2023",
+                "date": "published Aug 2023"
+              }
+            ]
+          },
+          {
+            "text": "In human blood stem cells in the lab, thymalin lowered stem-cell markers and raised CD28, a marker of mature T cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33237528/",
+                "label": "Khavinson et al., Bull Exp Biol Med, 2020",
+                "date": "published Nov 2020"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Thymalin is an animal-tissue extract, not a single defined molecule, and nearly all studies come from one research group."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence comes almost entirely from Russian and Ukrainian studies, most published in Russian, with few details in English. No trial is registered on ClinicalTrials.gov. The best-described study is a small open-label trial in COVID-19."
+      },
+      {
+        "t": "p",
+        "text": "ClinicalTrials.gov lists no thymalin trial.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=thymalin",
+            "label": "ClinicalTrials.gov search for 'thymalin'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Russia · 2020 · Open-label randomized controlled",
+        "title": "Thymalin added to COVID-19 treatment",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Khavinson VK, et al. Stem Cell Rev Rep 2021;17(1):285-90"
+          },
+          {
+            "k": "Design",
+            "v": "single-center, open-label, randomized by envelope, against standard care only"
+          },
+          {
+            "k": "People",
+            "v": "92 hospital patients with moderate or severe COVID-19 and low lymphocytes (42 thymalin, 50 control); mean age about 60"
+          },
+          {
+            "k": "What was given",
+            "v": "thymalin 10 mg into muscle once a day for 5 days, plus standard care"
+          },
+          {
+            "k": "Length",
+            "v": "10 to 14 days of treatment, April to July 2020"
+          },
+          {
+            "k": "Measured",
+            "v": "immune cells, IL-6, C-reactive protein, D-dimer, lung scans"
+          }
+        ],
+        "found": "Inflammation and clotting markers fell faster with thymalin, the authors report. No one died in either group. Lung scans showed progression in 5 control patients and 2 thymalin patients. The paper does not report side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33575961/",
+            "label": "Khavinson et al., Stem Cell Rev Rep, 2021",
+            "date": "published Feb 2021"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7877506/",
+            "label": "Khavinson et al., Stem Cell Rev Rep, 2021 (full text, Europe PMC)",
+            "date": "published Feb 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Russia and Ukraine · 2003 · Controlled clinical study",
+        "title": "Thymalin and epithalamin in older people",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Khavinson VKh, Morozov VG. Neuro Endocrinol Lett 2003;24(3-4):233-40"
+          },
+          {
+            "k": "Design",
+            "v": "PubMed lists it as a randomized controlled trial; the abstract does not describe randomization or blinding"
+          },
+          {
+            "k": "People",
+            "v": "266 elderly people"
+          },
+          {
+            "k": "Length",
+            "v": "6 to 8 years of follow-up; treatment in the first 2 to 3 years"
+          },
+          {
+            "k": "Measured",
+            "v": "illness rates and deaths"
+          }
+        ],
+        "found": "The authors report 2.0- to 2.1-fold lower death rates on thymalin than in controls, and 4.1-fold lower in a group given thymalin and epithalamin every year for 6 years. The abstract gives no group sizes, doses or numbers of deaths.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14523363/",
+            "label": "Khavinson and Morozov, Neuro Endocrinol Lett, 2003",
+            "date": "published Jun 2003"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "These studies come mainly from one group, were small or poorly described, and have not been repeated by independent researchers in published trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14523363/",
+            "label": "Khavinson and Morozov, Neuro Endocrinol Lett, 2003",
+            "date": "published Jun 2003"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33575961/",
+            "label": "Khavinson et al., Stem Cell Rev Rep, 2021",
+            "date": "published Feb 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use. No thymalin product appears in FDA’s drug approval database. Products labelled “research use only” are not for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA for thymalin found no match.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:thymalin",
+                "label": "Drugs@FDA data (openFDA), search for 'thymalin' (no match)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA says products marketed “for research use only” or otherwise not for human consumption “have not been evaluated for safety and should never be used by humans.” Such products may not be sold for human use: FDA says it acts against firms selling unapproved products.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "Thymalin is not one of the six peptides named in HHS’s interim compounding policy of October 2026 (BPC-157, TB-500, Epitalon, Semax, KPV and MOTS-c). As of November 1, 2026.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary; the Federal Register notice does not list the peptides)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "Thymalin does not appear on FDA’s lists of bulk substances nominated for compounding (503A and 503B categories) or on its Category 2 page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Thymalin is not on the DEA’s controlled substances list dated October 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Thymalin is reported to be a registered drug in Russia, but the Russian register could not be opened to confirm it. No approval was found in the US, Canada or the EU, and it is not named on WADA’s Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. No thymalin product in Drugs@FDA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:thymalin",
+              "label": "Drugs@FDA data (openFDA), search for 'thymalin' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. No thymalin product in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=thymalin",
+              "label": "Health Canada Drug Product Database, ingredient search 'thymalin' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (thymalin is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Russia",
+          "regulator": "Roszdravnadzor / Ministry of Health",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "643"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Thymalin is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans any pharmacological substance not covered elsewhere with no current approval by any government health regulator for human use. Whether thymalin falls under S0 depends on its approval status, which the lists do not address.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: Thymalin is not named in the Poisons Standard that took effect on October 1, 2026. The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Safety data are thin. The best-described trial, in COVID-19, did not report side effects, and the long-term study abstract gives no safety details."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "the 2020 COVID-19 trial reports no deaths but no side effect data.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7877506/",
+                "label": "Khavinson et al., Stem Cell Rev Rep, 2021 (full text, Europe PMC)",
+                "date": "published Feb 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Animal-tissue extract:",
+            "text": "thymalin is extracted from calf thymus, so it is a mix of peptides rather than one defined substance.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7877506/",
+                "label": "Khavinson et al., Stem Cell Rev Rep, 2021 (full text, Europe PMC)",
+                "date": "published Feb 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Research-use products:",
+            "text": "FDA says products sold for research use only have not been evaluated for safety and should never be used by humans.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "Health Canada warns that unauthorized injectable peptides may hold too much, too little or none of the ingredient, or contaminants.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada advisory RA-81874",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Thymalin’s registration in Russia comes from the study authors (approved since 1982, certificate 82/1108/8); the Russian state drug register (GRLS) showed a CAPTCHA and could not be opened.",
+    "UK (MHRA) status and Australia’s TGA register were not checked against the regulator’s own record.",
+    "Most thymalin papers are in Russian; only English abstracts were read, except for the 2021 COVID-19 paper."
+  ],
+  "surprises": [
+    "Thymalin is promoted for longevity on the basis of a 2003 report of halved death rates, but the abstract gives no group sizes, doses or deaths, and no independent trial has repeated it.",
+    "It is sold online as a thymus “peptide”, but it is an extract from calf thymus, not a single defined peptide."
+  ]
+}

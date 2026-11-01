@@ -1,0 +1,583 @@
+{
+  "slug": "somatropin",
+  "name": "Somatropin (growth hormone)",
+  "row": "Somatropin (growth hormone)",
+  "aka": [
+    "Human growth hormone",
+    "hGH",
+    "rhGH",
+    "GH",
+    "Genotropin",
+    "Humatrope",
+    "Norditropin",
+    "Nutropin AQ",
+    "Omnitrope",
+    "Saizen",
+    "Zomacton",
+    "Serostim",
+    "Zorbtive"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Approved; aging RCTs small",
+    "fda": "Approved (Genotropin)",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat fertility and toxicity studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "12 men over 60 given GH for 6 months (1990)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-male drug-level studies in the label",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "26-week RCT in 131 adults aged 65 to 88 (2002)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Label trials in growth hormone deficiency",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Several brands since the 1980s; never for aging",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Somatropin is recombinant human growth hormone, a protein made to match the hormone the pituitary gland releases. It is given by injection under the skin. It is a protein of 191 amino acids, not a small peptide.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+            "label": "Genotropin label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Growth hormone release falls with age. In 1990, a small study proposed that this decline helps explain the loss of lean mass and gain of fat in old age, which led to interest in growth hormone for aging.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2355952/",
+            "label": "Rudman et al., N Engl J Med, 1990",
+            "date": "published Jul 1990"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Somatropin is FDA approved only for specific medical conditions. Aging is not an approved use, and US federal law makes it a crime to distribute human growth hormone for any unapproved use."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Randomized trials in healthy older adults, lasting about 6 months, found that growth hormone added lean mass and cut fat, but did not clearly raise strength. It caused swelling, joint pain, carpal tunnel symptoms and more diabetes or glucose intolerance. No trial has shown that it slows aging or extends life."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Trials in healthy older adults"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1990 · Controlled trial",
+        "title": "Men over 60 (Rudman), 1990",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Non-randomized comparison: 12 men treated, 9 untreated, after a 6-month baseline"
+          },
+          {
+            "k": "People",
+            "v": "21 healthy men aged 61 to 81 with low IGF-1 levels"
+          },
+          {
+            "k": "Length",
+            "v": "6 months of injections three times a week"
+          },
+          {
+            "k": "Measured",
+            "v": "Lean body mass, fat mass, skin thickness, bone density"
+          }
+        ],
+        "found": "Treated men gained 8.8% lean mass, lost 14.4% fat mass and gained 1.6% spine bone density. Skin thickness changes were not significant, nor were hip or wrist bone changes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2355952/",
+            "label": "Rudman et al., N Engl J Med, 1990",
+            "date": "published Jul 1990"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2002 · Randomized trial",
+        "title": "Growth hormone with or without sex hormones, adults 65 to 88, 2002",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, 2 × 2 factorial"
+          },
+          {
+            "k": "People",
+            "v": "131 healthy community-dwelling adults aged 65 to 88: 57 women, 74 men"
+          },
+          {
+            "k": "Length",
+            "v": "26 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Lean mass, fat mass, strength, fitness (VO2 max), side effects"
+          }
+        ],
+        "found": "Growth hormone increased lean mass and cut fat in both sexes. Strength did not rise significantly, except a borderline gain in men on growth hormone plus testosterone. Diabetes or glucose intolerance occurred in 18 men given growth hormone vs 7 not given it.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12425705/",
+            "label": "Blackman et al., JAMA, 2002",
+            "date": "published Nov 2002"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2009 · Randomized trial (same cohort)",
+        "title": "Blood sugar and fats in the 2002 trial, 2009",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Secondary analysis of the 2002 double-blind, factorial trial"
+          },
+          {
+            "k": "People",
+            "v": "57 women and 74 men aged 65 to 88"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "Glucose, insulin, insulin sensitivity, blood fats"
+          }
+        ],
+        "found": "Growth hormone raised insulin resistance in women and men. It lowered LDL cholesterol and raised triglycerides.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19602554/",
+            "label": "Münzer et al., J Clin Endocrinol Metab, 2009",
+            "date": "published Oct 2009"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Systematic reviews"
+      },
+      {
+        "t": "p",
+        "text": "A 2007 review of 18 randomized trials in healthy older people (220 given growth hormone, mean age 69) found 2.1 kg less fat and 2.1 kg more lean mass, with no change in weight or bone density. Treated people had more swelling, joint pain, carpal tunnel syndrome and breast growth (gynecomastia), and somewhat more new diabetes. The review notes that growth hormone is not FDA approved for aging.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17227934/",
+            "label": "Liu et al., Ann Intern Med, 2007 (systematic review, healthy elderly)",
+            "date": "published Jan 2007"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2008 review of trials in fit young adults found more lean mass but no clear gain in strength or exercise capacity, and more swelling and fatigue.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18347346/",
+            "label": "Liu et al., Ann Intern Med, 2008 (systematic review, athletes)",
+            "date": "published May 2008"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Somatropin is FDA approved, by prescription, under many brand names for growth hormone deficiency and some other conditions. No brand is approved for aging. Distributing human growth hormone for any use other than an FDA-authorized use, on a doctor's order, is a federal crime. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA's data list somatropin products including Genotropin (1995), Humatrope, Norditropin, Nutropin, Omnitrope, Saizen, Zomacton, Serostim and Zorbtive. They are licensed as biologics (BLAs).",
+            "lead": "Approved brands:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22SOMATROPIN%22&limit=50",
+                "label": "openFDA (Drugs@FDA data): somatropin applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "children with growth failure from growth hormone deficiency, Prader-Willi syndrome, small for gestational age, Turner syndrome or idiopathic short stature; and adults with growth hormone deficiency.",
+            "lead": "Genotropin uses:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "adults with HIV and wasting or cachexia, together with antiretroviral therapy.",
+            "lead": "Serostim use:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=62b01d29-90f0-45b2-a0c4-3a750ba36c8a",
+                "label": "Serostim label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "knowingly distributing, or possessing with intent to distribute, human growth hormone for any human use other than treating a disease or recognized medical condition authorized by FDA, on a physician's order, is punishable by up to 5 years in prison (10 years if a person under 18 is involved). The law covers somatropin, somatrem and their analogues, and lets the DEA investigate.",
+            "lead": "Federal law, 21 U.S.C. 333(e):",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapIII-sec333.htm",
+                "label": "21 U.S.C. 333(e), prohibited distribution of human growth hormone, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "not an approved use on any label we read, so distributing it for anti-aging falls outside what the law allows.",
+            "lead": "Aging:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapIII-sec333.htm",
+                "label": "21 U.S.C. 333(e), prohibited distribution of human growth hormone, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "distributing growth hormone for an off-label use, one FDA has not authorized, falls under this law.",
+            "lead": "Off-label:",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapIII-sec333.htm",
+                "label": "21 U.S.C. 333(e), prohibited distribution of human growth hormone, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Growth hormone for aging, body composition or sport is not an FDA-approved use. Distributing it for those uses is a federal crime."
+      }
+    ],
+    "world": {
+      "lead": "Somatropin is an approved prescription medicine in the US, the EU, the UK and Canada, and a prescription-only medicine in Australia with extra possession controls. No regulator we checked has approved it for aging. WADA prohibits growth hormone at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved biologic under many brands (e.g. Genotropin) for growth disorders, adult GH deficiency and HIV wasting. Distribution for unapproved uses is a crime.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22SOMATROPIN%22&limit=50",
+              "label": "openFDA (Drugs@FDA data): somatropin applications",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+              "label": "Genotropin label, DailyMed",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapIII-sec333.htm",
+              "label": "21 U.S.C. 333(e), prohibited distribution of human growth hormone, govinfo",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Genotropin is an approved prescription drug, listed on Schedule D. Not approved for aging.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=genotropin",
+              "label": "Health Canada Drug Product Database: Genotropin",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=88658",
+              "label": "Health Canada Drug Product Database: Genotropin schedule (DIN 02401681)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Genotropin is a reference medicine with licensed biosimilars (e.g. Omnitrope); all are prescription-only. Not licensed for aging.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/biosimilar-products",
+              "label": "MHRA Drug Safety Update, biosimilar products",
+              "date": "published Dec 2014"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Omnitrope, a biosimilar of Genotropin, authorised EU-wide since April 12, 2006, prescription-only, for growth disorders and adult GH deficiency.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/omnitrope",
+              "label": "EMA, Omnitrope EPAR",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4). Listed in Appendix D, clause 5: illegal to possess without authority.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Growth hormone is prohibited at all times (in and out of competition) under S2.2.3 of the 2026 WADA Prohibited List, with its analogues and fragments. It is a non-Specified Substance. The 2027 list keeps the same wording.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Somatropin can cause fluid retention, joint and muscle pain, carpal tunnel syndrome and high blood sugar. The label warns of deaths in critically ill patients and in some children with Prader-Willi syndrome, and of tumor growth. In healthy older adults it raised the rate of diabetes or glucose intolerance."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "increased deaths have been reported in people with acute critical illness after heart or abdominal surgery, major trauma or acute respiratory failure.",
+            "lead": "Critical illness:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "deaths have been reported after starting treatment in children with severe obesity, airway obstruction, sleep apnea or respiratory infection.",
+            "lead": "Prader-Willi syndrome:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "monitor existing tumors for growth; childhood cancer survivors have a higher risk of a second tumor, especially meningioma after head radiation.",
+            "lead": "Tumors:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "it may unmask glucose intolerance or diabetes. In older adults, diabetes or glucose intolerance occurred in 18 men on growth hormone vs 7 not on it.",
+            "lead": "Blood sugar:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12425705/",
+                "label": "Blackman et al., JAMA, 2002",
+                "date": "published Nov 2002"
+              }
+            ]
+          },
+          {
+            "text": "swelling, joint pain, muscle pain and carpal tunnel syndrome, especially in adults. In the 2002 trial, swelling affected 39% of women on growth hormone and joint pain 41% of men.",
+            "lead": "Fluid retention:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12425705/",
+                "label": "Blackman et al., JAMA, 2002",
+                "date": "published Nov 2002"
+              }
+            ]
+          },
+          {
+            "text": "raised pressure in the skull, severe allergic reactions, low cortisol, low thyroid, slipped hip growth plates and worsening scoliosis in children, and pancreatitis.",
+            "lead": "Other label warnings:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "the label has no human fertility data. In rats, very high doses (about 24 times the human dose) caused fewer and less motile sperm in males, irregular cycles in females, and lower pregnancy rates.",
+            "lead": "Fertility:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+                "label": "Genotropin label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "gynecomastia was more common with growth hormone in trials of healthy older people.",
+            "lead": "Breast growth in men:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17227934/",
+                "label": "Liu et al., Ann Intern Med, 2007 (systematic review, healthy elderly)",
+                "date": "published Jan 2007"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA web pages did not load; brand and application data come from FDA's openFDA records, which list some original approval dates we did not check against Drugs@FDA.",
+    "We did not read the Norditropin, Humatrope or other brand labels; label facts on this page come from Genotropin and Serostim.",
+    "We did not confirm on a DEA record whether somatropin is a scheduled controlled substance.",
+    "We could not open the MHRA product database; the UK status rests on an MHRA safety update about biosimilars.",
+    "We did not check the TGA's ARTG register for individual Australian products."
+  ],
+  "surprises": [
+    "Growth hormone has its own criminal law: 21 U.S.C. 333(e) makes distributing it for any use FDA has not authorized a felony, with up to 5 years in prison, so off-label anti-aging distribution is itself a crime.",
+    "Australia lists somatropin in Appendix D of its Poisons Standard, making possession without authority illegal.",
+    "In healthy older adults, growth hormone added lean mass but did not clearly raise strength, and raised diabetes or glucose intolerance."
+  ]
+}

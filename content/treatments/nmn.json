@@ -1,0 +1,656 @@
+{
+  "slug": "nmn",
+  "name": "NMN (nicotinamide mononucleotide)",
+  "row": "NMN (nicotinamide mononucleotide)",
+  "aka": [
+    "Nicotinamide mononucleotide",
+    "β-NMN",
+    "Beta-nicotinamide mononucleotide",
+    "MIB-626"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Small RCTs; NAD+ markers",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "12-month mouse aging study (2016)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "10-week trial in 25 women with prediabetes (2021)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "MIB-626 drug-level study, 32 adults, 14 days",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "MIB-626 Phase 2 trials registered; few results",
+      "status": "started"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; FDA position unconfirmed",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Nicotinamide mononucleotide (NMN) is a molecule the body uses to make NAD+, a coenzyme cells need to turn food into energy. EFSA treats it as a source of niacin (vitamin B3). In mice, NAD+ availability falls with age.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33888596/",
+            "label": "Yoshino et al., Science, 2021",
+            "date": "published Jun 2021"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28068222/",
+            "label": "Mills et al., Cell Metab, 2016",
+            "date": "published Dec 2016"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42125559/",
+            "label": "EFSA NDA Panel, EFSA J, 2026 (β-NMN as a novel food)",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "NMN is sold as a supplement. A pharmaceutical form called MIB-626 is also being tested as a drug in registered clinical trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35182418/",
+            "label": "Pencina et al., J Gerontol A, 2023 (MIB-626)",
+            "date": "published Jan 2023"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.intr=MIB-626",
+            "label": "ClinicalTrials.gov search for 'MIB-626'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "NMN is not an FDA-approved drug. Its legal status as a US dietary supplement depends on FDA decisions we could not confirm from FDA's own records."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "NMN has been tested in people in small randomized trials lasting 2 weeks to 24 weeks. Nearly all show that it raises NAD+ in blood. Effects on health outcomes were small or mixed. A 2026 meta-analysis of 15 trials found no clear effect on weight, blood sugar or cholesterol. No trial has measured aging or lifespan in people."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Randomized trials"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2021 · Randomized trial",
+        "title": "Women with prediabetes, 2021",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled, Washington University in St. Louis"
+          },
+          {
+            "k": "People",
+            "v": "25 postmenopausal women with prediabetes and overweight or obesity (registry enrollment)"
+          },
+          {
+            "k": "Length",
+            "v": "10 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Insulin sensitivity by clamp; muscle insulin signaling; muscle gene activity"
+          }
+        ],
+        "found": "Muscle insulin sensitivity and signaling rose on NMN and did not change on placebo. One author shares NMN patent licensing fees.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33888596/",
+            "label": "Yoshino et al., Science, 2021",
+            "date": "published Jun 2021"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03151239",
+            "label": "NCT03151239, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Japan · 2022 · Randomized trial",
+        "title": "Healthy older men, 2022",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled, parallel groups; three authors work for Mitsubishi Corporation Life Sciences"
+          },
+          {
+            "k": "People",
+            "v": "Healthy older men"
+          },
+          {
+            "k": "Length",
+            "v": "6 or 12 weeks of 250 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Blood NAD+ and related compounds; muscle strength and walking; body composition"
+          }
+        ],
+        "found": "NAD+ rose. Walking speed and left-hand grip improved only nominally, and the authors said this needs larger studies. Body composition did not change. No harmful effects were found.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35927255/",
+            "label": "Igarashi et al., NPJ Aging, 2022",
+            "date": "published May 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2023 · Randomized trial",
+        "title": "Healthy middle-aged adults, three doses, 2023",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Multicenter, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "80 healthy middle-aged adults"
+          },
+          {
+            "k": "Length",
+            "v": "60 days of placebo, 300 mg, 600 mg or 900 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Blood NAD+ (main outcome); safety; 6-minute walk; a blood-test 'biological age' score; insulin resistance; SF-36"
+          }
+        ],
+        "found": "NAD+ rose in all NMN groups. Walk distance rose more than on placebo. The blood 'biological age' score rose on placebo and stayed level on NMN. Insulin resistance did not change. No safety issues were found.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36482258/",
+            "label": "Yi et al., GeroScience, 2023",
+            "date": "published Feb 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Japan · 2024 · Randomized trial (company-run)",
+        "title": "Walking in older adults, 2024",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled; authors worked for Meiji; registered UMIN000047871"
+          },
+          {
+            "k": "People",
+            "v": "60 older adults"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks of 250 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Stepping test (main outcome); 4-m walking time; blood NAD+; sleep and stress questionnaires"
+          }
+        ],
+        "found": "The main outcome did not differ from placebo. Walking time over 4 m was shorter and sleep scores better on NMN. No adverse effects linked to NMN were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38789831/",
+            "label": "Morifuji et al., GeroScience, 2024",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2023 · Randomized trial (company-run)",
+        "title": "MIB-626 drug-level study, 2023",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled; co-authors from Metro International Biotech, which develops MIB-626"
+          },
+          {
+            "k": "People",
+            "v": "32 adults aged 55 to 80 with overweight or obesity"
+          },
+          {
+            "k": "Length",
+            "v": "14 days of 1,000 mg once or twice a day, or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "Blood NMN, NAD+ and related compounds; adverse events"
+          }
+        ],
+        "found": "Blood NAD+ rose with dose. Adverse events were similar across groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35182418/",
+            "label": "Pencina et al., J Gerontol A, 2023 (MIB-626)",
+            "date": "published Jan 2023"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Pooled analysis"
+      },
+      {
+        "t": "p",
+        "text": "A 2026 meta-analysis pooled 15 randomized trials of NMN by mouth (doses 250 to 2,000 mg a day, 14 days to 24 weeks). NMN did not increase adverse events or liver enzymes. It had no significant effect on body weight, BMI, fasting glucose, HbA1c, cholesterol or systolic blood pressure. Diastolic blood pressure fell slightly. The authors called for larger, longer trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42514320/",
+            "label": "Yang et al., Nutrients, 2026 (meta-analysis)",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Drug development"
+      },
+      {
+        "t": "p",
+        "text": "Registered Phase 2 trials of MIB-626 include NCT05878119 (124 people, with and without exercise, completed, no results posted) and NCT05759468 (156 people with diabetic kidney disease, recruiting).",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05878119",
+            "label": "NCT05878119, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05759468",
+            "label": "NCT05759468, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.intr=MIB-626",
+            "label": "ClinicalTrials.gov search for 'MIB-626'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In normal mice given NMN for 12 months, NMN reduced age-related weight gain and improved energy use, physical activity, insulin sensitivity, blood fats and eye function, with no obvious toxicity.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28068222/",
+            "label": "Mills et al., Cell Metab, 2016",
+            "date": "published Dec 2016"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "NMN is not an FDA-approved drug. It is sold in the US as a dietary supplement, but whether it may lawfully be one has been an open question with FDA. We could not open FDA's letters on it, so we do not state FDA's current position. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. FDA's Drugs@FDA data have no product with NMN as an active ingredient.",
+            "lead": "FDA approval:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20MONONUCLEOTIDE%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for nicotinamide mononucleotide as an active ingredient, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "the law that defines dietary supplements excludes an article that was authorized for investigation as a new drug, with substantial public clinical studies, unless it was marketed as a supplement or food first. MIB-626, a form of NMN, is in registered drug trials.",
+            "lead": "The legal question:",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/api/v2/studies?query.intr=MIB-626",
+                "label": "ClinicalTrials.gov search for 'MIB-626'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA's list of new dietary ingredient notifications shows 12 NMN notifications, submitted from August 2020 to February 2026, each with an FDA response date (the latest April 2026). The list does not say what FDA replied.",
+            "lead": "FDA's notifications list:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193535/download",
+                "label": "FDA, list of new dietary ingredient notifications (spreadsheet)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/food/new-dietary-ingredient-ndi-notification-process/submitted-75-day-premarket-notifications-new-dietary-ingredients",
+                "label": "FDA, submitted 75-day premarket notifications for new dietary ingredients",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "a search of FDA's GRAS notice inventory found no NMN notice.",
+            "lead": "Food ingredient (GRAS):",
+            "src": [
+              {
+                "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&type=basic&search=mononucleotide",
+                "label": "FDA GRAS Notice Inventory search for 'mononucleotide'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "lead": "Supplements in general:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "a 2024 study tested NMN and urolithin A supplements and found active-ingredient amounts from 28.6% above to 100% below the label claim.",
+            "lead": "Label accuracy:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38935229/",
+                "label": "Sandalova et al., GeroScience, 2024 (label testing)",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "text": "NMN does not appear in FDA's 503A or 503B lists of nominated bulk drug substances.",
+            "lead": "Compounding:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "text": "no.",
+            "lead": "Controlled substance:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "NMN is not an approved medicine in any country we checked. In the EU, EFSA's food panel judged one synthetic form safe as a novel food in 2026; we could not confirm an EU authorisation. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved as a drug. Sold as a supplement; FDA's position on whether NMN can be a supplement not confirmed from FDA records.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20MONONUCLEOTIDE%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for nicotinamide mononucleotide as an active ingredient, no match",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193535/download",
+              "label": "FDA, list of new dietary ingredient notifications (spreadsheet)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "European Commission / EFSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "EU: in May 2026, EFSA's panel on nutrition and novel foods concluded that chemically made β-NMN is safe as a novel food in food supplements for adults, excluding pregnant and breastfeeding women, up to 300 mg a day as a source of niacin. In a 90-day rat study, effects on reproductive organs were seen; EFSA set the no-adverse-effect level at 400 mg/kg of body weight a day. An EFSA opinion is not an authorisation; we could not confirm whether the European Commission has authorised it.",
+          "src": [
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42125559/",
+              "label": "EFSA NDA Panel, EFSA J, 2026 (β-NMN as a novel food)",
+              "date": "published May 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: NMN is not named in the Poisons Standard that took effect October 1, 2026. We could not check the TGA's register.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "NMN is not named on the 2026 WADA Prohibited List or on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In short trials, NMN by mouth was generally well tolerated. A 2026 meta-analysis found no rise in adverse events or liver enzymes. Long-term safety in people is unknown. FDA does not review supplements for safety before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "no increase in overall, serious or system-specific adverse events, or in liver enzymes (ALT, AST), over 14 days to 24 weeks.",
+            "lead": "Pooled trials:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42514320/",
+                "label": "Yang et al., Nutrients, 2026 (meta-analysis)",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "no safety issues in 80 adults taking up to 900 mg a day for 60 days.",
+            "lead": "Dose trial:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36482258/",
+                "label": "Yi et al., GeroScience, 2023",
+                "date": "published Feb 2023"
+              }
+            ]
+          },
+          {
+            "text": "EFSA noted effects on reproductive organs in a 90-day rat study (no-adverse-effect level 400 mg/kg a day), and still judged the safety margin sufficient for the proposed use.",
+            "lead": "Animal finding:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42125559/",
+                "label": "EFSA NDA Panel, EFSA J, 2026 (β-NMN as a novel food)",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "tested products varied widely from their label claims.",
+            "lead": "Supplement quality:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38935229/",
+                "label": "Sandalova et al., GeroScience, 2024 (label testing)",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "text": "FDA does not approve supplements before they are marketed.",
+            "lead": "Supplements in general:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open FDA's 2022 letter(s) stating that NMN is excluded from the definition of a dietary supplement, or any later FDA statement changing that position: regulations.gov, where FDA says its NDI responses are posted, refused automated requests. FDA's own NDI list shows only that FDA responded, and when.",
+    "We found no FDA web page on NMN in FDA's site map.",
+    "We could not confirm whether the European Commission has authorised β-NMN after EFSA's 2026 opinion (EUR-Lex refused automated requests).",
+    "We could not confirm NMN's status with Health Canada, the UK, or the TGA.",
+    "The 2022 Japanese trial abstract does not give how many men took part."
+  ],
+  "surprises": [
+    "NMN is widely sold as a US supplement, yet a form of it (MIB-626) is in registered drug trials, and the law excludes from supplements some ingredients first studied as drugs.",
+    "FDA's list shows 12 NMN dietary-ingredient notifications since 2020, but no NMN GRAS notice.",
+    "EFSA judged β-NMN safe as a food supplement ingredient in 2026, but noted reproductive-organ effects in a 90-day rat study."
+  ]
+}

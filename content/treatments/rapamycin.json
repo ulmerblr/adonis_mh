@@ -1,0 +1,670 @@
+{
+  "slug": "rapamycin",
+  "name": "Rapamycin (sirolimus)",
+  "row": "Rapamycin (sirolimus)",
+  "aka": [
+    "Sirolimus",
+    "Rapamune",
+    "Fyarro",
+    "Hyftor"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Approved; aging pilots",
+    "fda": "Approved (Rapamune)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Extended mouse lifespan, started late in life (2009)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "8-week safety pilot, 25 adults aged 70+ (2018)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Phase 1/2 aging trials recruiting, e.g. NCT06727305",
+      "status": "started"
+    },
+    {
+      "title": "Phase II",
+      "line": "PEARL (NCT04488601), 48 weeks; RAPA-EX-01, 13 weeks",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "No Phase 3 aging trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Rapamune 1999, kidney transplant (not aging)",
+      "status": "done"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Sirolimus, also called rapamycin, is an mTOR inhibitor. mTOR is a protein that controls cell growth. Sirolimus is a prescription medicine that suppresses the immune system. Its label says it is used to prevent rejection of a transplanted kidney and to treat a rare lung disease called lymphangioleiomyomatosis (LAM).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+            "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In mice, rapamycin added to food from about 600 days of age extended median and maximum lifespan in both sexes, at three test sites. That study is the main reason rapamycin is discussed for aging.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19587680/",
+            "label": "Harrison et al., Nature, 2009",
+            "date": "published Jul 2009"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Sirolimus is FDA approved for transplant and some rare diseases. Using it for longevity is off-label. No trial has shown that it slows aging in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The human evidence for rapamycin and aging is a few small randomized trials of safety, body composition, fitness and skin, lasting 8 weeks to 48 weeks. None measured how long people live or how fast they age clinically. The lifespan results come from mice."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Trials in older and middle-aged adults"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2025 · Randomized trial (company-run)",
+        "title": "Low-dose weekly rapamycin for 48 weeks (PEARL), 2025",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Decentralized, double-blind, placebo-controlled. Run by AgelessRx, whose staff wrote the paper and hold shares. The rapamycin was compounded."
+          },
+          {
+            "k": "People",
+            "v": "Healthy adults aged 50 to 85, per the registry; 129 enrolled"
+          },
+          {
+            "k": "Length",
+            "v": "48 weeks: placebo, 5 mg or 10 mg rapamycin once a week"
+          },
+          {
+            "k": "Measured",
+            "v": "Belly (visceral) fat by DXA scan (main outcome); blood tests; lean mass; bone; health surveys; side effects"
+          }
+        ],
+        "found": "Visceral fat did not change. Blood tests stayed in normal ranges. Adverse events were similar across groups. Lean mass and self-reported pain improved in women on 10 mg; some well-being scores improved on 5 mg. No other differences were found. The registry lists no posted results.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40188830/",
+            "label": "Moel et al., Aging (Albany NY), 2025 (PEARL)",
+            "date": "published Apr 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04488601",
+            "label": "NCT04488601 (PEARL), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "Registry: no results posted"
+      },
+      {
+        "t": "study",
+        "meta": "New Zealand · 2026 · Randomized trial",
+        "title": "Weekly sirolimus with home exercise (RAPA-EX-01), 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled; registered as ACTRN12624000790549"
+          },
+          {
+            "k": "People",
+            "v": "40 sedentary adults aged 65 to 85 (mean 72; 47.5% women)"
+          },
+          {
+            "k": "Length",
+            "v": "13 weeks: 6 mg sirolimus or placebo once a week, plus a home strength and cycling program"
+          },
+          {
+            "k": "Measured",
+            "v": "Chair-stand repetitions (main outcome), grip, 6-minute walk, quality of life, blood markers, epigenetic age, side effects"
+          }
+        ],
+        "found": "Both groups improved. Sirolimus did not add to the gains. In the main analysis the difference was -2.13 repetitions in favor of placebo, not significant; two backup analyses favored placebo significantly. There were more adverse events on sirolimus (99 vs 63), including one serious pneumonia possibly linked to the drug.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41985884/",
+            "label": "Stanfield et al., J Cachexia Sarcopenia Muscle, 2026 (RAPA-EX-01)",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2018 · Randomized pilot trial",
+        "title": "Daily low-dose rapamycin in adults aged 70 to 95, 2018",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, placebo-controlled pilot, University of Texas Health Science Center, San Antonio"
+          },
+          {
+            "k": "People",
+            "v": "25 generally healthy older adults analyzed (11 rapamycin, 14 placebo); mean age 80.5"
+          },
+          {
+            "k": "Length",
+            "v": "At least 8 weeks of 1 mg a day or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "Blood counts and chemistry, glucose tolerance, thinking tests, grip and walking, immune cells"
+          }
+        ],
+        "found": "No change in thinking, physical tests or glucose handling. Several red blood cell measures, including hemoglobin, fell on rapamycin. Side effects on rapamycin were facial rash, mouth sores and stomach upset.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29408453/",
+            "label": "Kraig et al., Exp Gerontol, 2018",
+            "date": "published May 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2019 · Randomized exploratory trial",
+        "title": "Rapamycin cream on aging skin, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Exploratory, placebo-controlled, Drexel University dermatology clinic"
+          },
+          {
+            "k": "People",
+            "v": "36 adults over 40 with sun-damaged skin enrolled; 19 stopped or were lost to follow-up"
+          },
+          {
+            "k": "Length",
+            "v": "Not stated in the abstract; the registry lists Sep to Nov 2017"
+          },
+          {
+            "k": "Measured",
+            "v": "Skin biopsy markers of cell aging (p16) and collagen; skin appearance"
+          }
+        ],
+        "found": "p16 fell and collagen VII rose in treated skin. The authors reported better skin appearance in several people. This was a topical cream, not a pill.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31761958/",
+            "label": "Chung et al., GeroScience, 2019",
+            "date": "published Dec 2019"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03103893",
+            "label": "NCT03103893, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Trials still running"
+      },
+      {
+        "t": "p",
+        "text": "ClinicalTrials.gov lists more aging trials of sirolimus, for example: NCT06727305 (Phase 1/2, UT Southwestern, adults 65 and older, recruiting), NCT05237687 (Phase 2, functional decline in adults 65 and older, recruiting) and NCT05836025 (Phase 2, Columbia University, ovarian aging in women, active). None has posted results.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06727305",
+            "label": "NCT06727305, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05237687",
+            "label": "NCT05237687, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05836025",
+            "label": "NCT05836025, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=rapamycin+AND+aging",
+            "label": "ClinicalTrials.gov search for 'rapamycin AND aging'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In genetically mixed mice, rapamycin fed from 600 days of age raised lifespan, based on age at 90% mortality, by 14% in females and 9% in males. A separate group started at 270 days also lived longer. These results have not been shown in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19587680/",
+            "label": "Harrison et al., Nature, 2009",
+            "date": "published Jul 2009"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Sirolimus is FDA approved, by prescription, as Rapamune (1999), Fyarro (2021) and Hyftor (2022), and as generic tablets and oral solution. None is approved for aging or longevity. That use is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "oral solution approved September 15, 1999 (NDA 021083); tablets approved August 25, 2000 (NDA 021110). The label lists two uses: preventing kidney transplant rejection in people 13 and older, and treating LAM.",
+            "lead": "Rapamune:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021083",
+                "label": "openFDA (Drugs@FDA data), NDA 021083 (Rapamune oral solution)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021110",
+                "label": "openFDA (Drugs@FDA data), NDA 021110 (Rapamune tablets)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "sirolimus protein-bound particles given by vein, approved November 22, 2021 (NDA 213312), for adults with an advanced or spreading tumor called malignant PEComa.",
+            "lead": "Fyarro:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213312",
+                "label": "openFDA (Drugs@FDA data), NDA 213312 (Fyarro)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf",
+                "label": "Fyarro label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "sirolimus gel for the skin, approved March 22, 2022 (NDA 213478), for facial angiofibroma in tuberous sclerosis, in adults and children 6 and older.",
+            "lead": "Hyftor:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213478",
+                "label": "openFDA (Drugs@FDA data), NDA 213478 (Hyftor)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=edb3ea90-5adc-48ec-99f5-ab963e302f18",
+                "label": "Hyftor label, DailyMed",
+                "date": "published Aug 2025"
+              }
+            ]
+          },
+          {
+            "text": "FDA's data list several generic sirolimus tablets and oral solutions approved under abbreviated applications.",
+            "lead": "Generics:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22SIROLIMUS%22&limit=50",
+                "label": "openFDA (Drugs@FDA data): sirolimus applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "the oral label warns of immune suppression, with higher risk of infection, lymphoma and other cancers. It says use in liver or lung transplant patients is not advised, because of excess deaths, graft loss and blood clots in the liver artery, and breakdown of airway joins after lung transplant.",
+            "lead": "Boxed warning:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "using sirolimus to slow aging or for longevity is off-label. The PEARL trial used compounded rapamycin.",
+            "lead": "Off-label:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40188830/",
+                "label": "Moel et al., Aging (Albany NY), 2025 (PEARL)",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "text": "no.",
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "FDA approval covers transplant, LAM, PEComa and a skin condition in tuberous sclerosis. It does not cover aging."
+      }
+    ],
+    "world": {
+      "lead": "Sirolimus is an approved prescription medicine in the US, the EU, the UK and Canada, and prescription-only in Australia. No regulator we checked has approved it for aging. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Rapamune 1999; Fyarro 2021; Hyftor 2022; generics). Prescription-only. Longevity use is off-label.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021083",
+              "label": "openFDA (Drugs@FDA data), NDA 021083 (Rapamune oral solution)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213312",
+              "label": "openFDA (Drugs@FDA data), NDA 213312 (Fyarro)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213478",
+              "label": "openFDA (Drugs@FDA data), NDA 213478 (Hyftor)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+              "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+              "date": "published Mar 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Rapamune oral solution and tablets are marketed prescription drugs (first marketed 2001). Not approved for aging.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=rapamune",
+              "label": "Health Canada Drug Product Database: Rapamune",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=67127",
+              "label": "Health Canada Drug Product Database: Rapamune status (DIN 02243237)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Rapamune is a licensed medicine for preventing kidney transplant rejection, per an MHRA safety update. Not licensed for aging.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/drug-safety-update/sirolimus-different-immunoassays-for-therapeutic-drug-monitoring-risk-of-incorrect-dose-adjustment",
+              "label": "MHRA Drug Safety Update, sirolimus immunoassays",
+              "date": "published Dec 2014"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Rapamune authorised EU-wide since March 14, 2001, for kidney transplant and a form of LAM. Not authorised for aging.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rapamune",
+              "label": "EMA, Rapamune EPAR",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4) in the Poisons Standard, October 2026. Product approvals not checked on the ARTG.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Sirolimus (rapamycin) is not named on the 2026 WADA Prohibited List or on the 2027 list, and neither list mentions mTOR inhibitors. Because it is an approved medicine, the list's S0 class for non-approved substances does not apply to it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Sirolimus has a boxed warning for immune suppression, infection, lymphoma and other cancers. It can cause mouth sores, high blood fats, swelling, slow wound healing, lung inflammation and kidney protein loss. It can lower sperm counts. In older adults in aging trials, side effects were mostly minor, but the trials were small and short."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "higher risk of infection and of lymphoma and other cancers, especially of the skin, from immune suppression. Not advised in liver or lung transplant patients.",
+            "lead": "Boxed warning:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "the label warns that azoospermia (no sperm) or oligospermia (low sperm) may occur. Azoospermia has been reversible after stopping in most cases. In male rats, it shrank the testes and lowered sperm counts.",
+            "lead": "Male fertility:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "ovarian cysts and missed or heavy periods have been reported. It can harm an unborn baby; the label advises highly reliable birth control during use and for 12 weeks after.",
+            "lead": "Female fertility and pregnancy:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "swelling, high triglycerides and cholesterol, high blood pressure, raised creatinine, stomach pain, diarrhea, headache, fever, urinary infection, anemia, nausea, joint pain and low platelets.",
+            "lead": "Common in transplant patients (30% or more):",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "mouth sores, diarrhea, stomach pain, nausea, colds, acne, chest pain, swelling, headache, dizziness, muscle pain and high cholesterol.",
+            "lead": "Common in LAM patients (20% or more):",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "allergic reactions including angioedema, fluid build-up and poor wound healing, lung inflammation (some fatal), protein in the urine, reactivated viral infections, skin cancer, and avoiding live vaccines.",
+            "lead": "Other label warnings:",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+                "label": "Sirolimus tablets label (NDA 021110, Mylan), DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "mouth sores, facial rash and stomach upset in a 25-person pilot, with small drops in red blood cell measures; more adverse events than placebo and one serious pneumonia in a 40-person trial; similar adverse events to placebo in PEARL.",
+            "lead": "In aging trials:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29408453/",
+                "label": "Kraig et al., Exp Gerontol, 2018",
+                "date": "published May 2018"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41985884/",
+                "label": "Stanfield et al., J Cachexia Sarcopenia Muscle, 2026 (RAPA-EX-01)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40188830/",
+                "label": "Moel et al., Aging (Albany NY), 2025 (PEARL)",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "text": "mouth sores in 79% of people in its trial, plus tiredness, rash, infection, nausea and swelling; the label also warns of male infertility.",
+            "lead": "Fyarro (by vein):",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf",
+                "label": "Fyarro label, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not find Pfizer's own Rapamune label on DailyMed; the label cited is the version filed under the Rapamune tablet application (NDA 021110) by Mylan.",
+    "Drugs@FDA web pages did not load; approval dates come from FDA's openFDA data.",
+    "The PEARL paper's abstract does not give how many people finished; 129 enrolled per ClinicalTrials.gov.",
+    "We could not reach the TGA's ARTG register to list approved sirolimus products in Australia; only the Schedule 4 listing is confirmed.",
+    "The UK status rests on an MHRA safety update; we could not open the MHRA product database, which loads by script."
+  ],
+  "surprises": [
+    "Rapamycin is widely discussed as a longevity drug, but the longest placebo-controlled aging trial we found (PEARL, 48 weeks) found no change in its main outcome, visceral fat.",
+    "In a 2026 trial in adults 65 to 85, weekly sirolimus did not add to exercise gains and may have reduced them, with more adverse events than placebo.",
+    "The sirolimus label warns that it can cause azoospermia (no sperm); none of the aging trials we read reported sperm counts."
+  ]
+}

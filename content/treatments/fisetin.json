@@ -1,0 +1,611 @@
+{
+  "slug": "fisetin",
+  "name": "Fisetin",
+  "row": "Fisetin",
+  "aka": [
+    "3,3',4',7-tetrahydroxyflavone"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Pilot trials; few results",
+    "fda": "Not approved (suppl.)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Extended mouse lifespan, started late in life (2018)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Open-label pilots with posted results (Mayo)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Phase 1/2 pilots recruiting, e.g. NCT06431932",
+      "status": "started"
+    },
+    {
+      "title": "Phase II",
+      "line": "Mayo AFFIRM trials since 2018; no results yet",
+      "status": "started"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Fisetin is a flavonoid, a plant pigment found in some fruits and vegetables. In a 2018 lab screen of 10 flavonoids, it was the strongest senolytic, meaning it killed senescent cells: old, damaged cells that stop dividing and release inflammatory signals.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30279143/",
+            "label": "Yousefzadeh et al., EBioMedicine, 2018",
+            "date": "published Oct 2018"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Fisetin is sold as a dietary supplement. FDA does not review supplements for safety or effectiveness before sale. No published trial has shown that fisetin removes senescent cells or slows aging in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Fisetin's case rests on mouse studies. In people, most trials are small pilots run by Mayo Clinic and others, many still running. The two Mayo frailty trials (AFFIRM and AFFIRM-LITE) started in 2018 and have posted no results. A few completed trials have posted results on ClinicalTrials.gov without a journal paper."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.intr=fisetin",
+            "label": "ClinicalTrials.gov search for 'fisetin'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Mayo Clinic trials"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2018 to now · Phase 2 randomized trials",
+        "title": "Frailty in older adults (AFFIRM, AFFIRM-LITE)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, placebo-controlled, Mayo Clinic; enrolling by invitation"
+          },
+          {
+            "k": "People",
+            "v": "40 women aged 70 and older (AFFIRM); 40 adults aged 70 and older (AFFIRM-LITE), planned"
+          },
+          {
+            "k": "Length",
+            "v": "Started February and November 2018; completion listed as November 2027"
+          },
+          {
+            "k": "Measured",
+            "v": "6-minute walk (AFFIRM); blood inflammation markers (AFFIRM-LITE)"
+          }
+        ],
+        "found": "No results posted and no paper found as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03430037",
+            "label": "NCT03430037 (AFFIRM), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03675724",
+            "label": "NCT03675724 (AFFIRM-LITE), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2020 to 2023 · Phase 2 randomized, open-label trial",
+        "title": "Bone turnover in older women, results posted",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Open-label, randomized, three arms (dasatinib plus quercetin, fisetin, no treatment), Mayo Clinic"
+          },
+          {
+            "k": "People",
+            "v": "74 women aged 60 and older enrolled; 14 in the fisetin arm, 11 analyzed for the main outcome"
+          },
+          {
+            "k": "Length",
+            "v": "20 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in the bone breakdown marker CTX (main outcome); other bone turnover markers"
+          }
+        ],
+        "found": "Posted results only. Median CTX change was +13.7% on fisetin and -7.7% with no treatment; the registry posts no statistical test for the fisetin arm. One serious adverse event, a stomach bleed, occurred in the fisetin arm.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04313634",
+            "label": "NCT04313634 (senolytics and bone, Mayo Clinic), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "Results posted, no paper found"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2022 to 2024 · Phase 2 randomized trial",
+        "title": "COVID-19 in nursing-home residents (COVID-FIS)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled pilot, Mayo Clinic; about 20 mg/kg a day by mouth or tube on days 0, 1, 8 and 9"
+          },
+          {
+            "k": "People",
+            "v": "20 adults aged 65 and older in nursing homes (10 per group)"
+          },
+          {
+            "k": "Length",
+            "v": "Two 2-day courses a week apart; the trial ran from April 2022 and was stopped early"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in COVID-19 severity"
+          }
+        ],
+        "found": "Stopped for futility by the safety board and the National Institute on Aging. One serious adverse event in each group.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04537299",
+            "label": "NCT04537299 (COVID-FIS), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "Terminated; results posted"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2021 to 2022 · Phase 2 randomized trial",
+        "title": "COVID-19 in at-risk outpatients (COVFIS-HOME)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled pilot, Mayo Clinic; about 20 mg/kg a day on days 0, 1, 8 and 9"
+          },
+          {
+            "k": "People",
+            "v": "55 adults with COVID-19 at home: 29 fisetin, 26 placebo"
+          },
+          {
+            "k": "Length",
+            "v": "Two 2-day courses a week apart; trial ran July 2021 to September 2022"
+          },
+          {
+            "k": "Measured",
+            "v": "WHO ordinal scale of COVID-19 severity"
+          }
+        ],
+        "found": "Posted results list serious adverse events in 0 of 29 on fisetin and 2 of 26 on placebo. The registry posts no statistical comparison of the main outcome.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04771611",
+            "label": "NCT04771611 (COVFIS-HOME), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "Results posted, no paper found"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2022 to 2025 · Phase 2 single-arm trial",
+        "title": "Carpal tunnel syndrome (FITCATS)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Single group, no placebo, Mayo Clinic; 100 mg capsules on 2 days, repeated after 1 month"
+          },
+          {
+            "k": "People",
+            "v": "40 adults aged 21 to 80 with carpal tunnel syndrome"
+          },
+          {
+            "k": "Length",
+            "v": "About 1 month of dosing; trial ran October 2022 to January 2025"
+          },
+          {
+            "k": "Measured",
+            "v": "Change in the Boston Carpal Tunnel Questionnaire score; blood senescence markers"
+          }
+        ],
+        "found": "Posted mean change in the symptom score was -0.5. With no control group, this cannot show an effect. No serious adverse events in 40 people.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05416515",
+            "label": "NCT05416515 (FITCATS), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "Results posted"
+      },
+      {
+        "t": "p",
+        "text": "A Mayo trial in diabetic and chronic kidney disease (NCT03325322) is listed as suspended.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03325322",
+            "label": "NCT03325322 (kidney disease), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Other trials"
+      },
+      {
+        "t": "study",
+        "meta": "2026 · Randomized trial",
+        "title": "Obese men with exercise training, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Double-blind, placebo-controlled, four groups (placebo, fisetin, training plus placebo, training plus fisetin)"
+          },
+          {
+            "k": "People",
+            "v": "60 sedentary men with obesity"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks; fisetin 200 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Asprosin, MCP-1 and adiponectin (main outcomes); leptin; blood fats; body weight"
+          }
+        ],
+        "found": "The fisetin-only group lost more weight than placebo. The largest changes in the main markers were in the training plus fisetin group. These are blood markers, not aging outcomes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41683255/",
+            "label": "Alipour et al., Nutrients, 2026",
+            "date": "published Jan 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In mice with a fast-aging syndrome and in old normal mice, fisetin lowered senescence markers in several tissues. Given late in life to normal mice, it reduced age-related tissue damage and extended median and maximum lifespan. It also lowered senescence in human fat tissue in the lab. None of this has been shown in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30279143/",
+            "label": "Yousefzadeh et al., EBioMedicine, 2018",
+            "date": "published Oct 2018"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Fisetin is not an FDA-approved drug. It is sold as a dietary supplement, which FDA does not review for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. FDA's Drugs@FDA data have no product with fisetin as an active ingredient.",
+            "lead": "FDA approval:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22FISETIN%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for fisetin as an active ingredient, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "under DSHEA, FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "lead": "Dietary supplement:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA's list shows one fisetin notification (from Cotinus coggygria), submitted March 2025, with an FDA response in April 2025. The list does not say what FDA replied.",
+            "lead": "New dietary ingredient notification:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193535/download",
+                "label": "FDA, list of new dietary ingredient notifications (spreadsheet)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "a search of FDA's GRAS notice inventory found no fisetin notice.",
+            "lead": "Food ingredient (GRAS):",
+            "src": [
+              {
+                "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&type=basic&search=fisetin",
+                "label": "FDA GRAS Notice Inventory search for 'fisetin'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "Mayo's frailty trials list fisetin as a dietary supplement intervention; other trials list it as a drug.",
+            "lead": "In trials:",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT03430037",
+                "label": "NCT03430037 (AFFIRM), ClinicalTrials.gov",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04313634",
+                "label": "NCT04313634 (senolytics and bone, Mayo Clinic), ClinicalTrials.gov",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "fisetin does not appear in FDA's 503A or 503B lists of nominated bulk drug substances.",
+            "lead": "Compounding:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "text": "no.",
+            "lead": "Controlled substance:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Fisetin is sold as a supplement in the US and is not an approved medicine there. We could not confirm its status with regulators in Canada, the UK, the EU or Australia. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved as a drug. Sold as a dietary supplement.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22FISETIN%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for fisetin as an active ingredient, no match",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "European Commission / EFSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia: fisetin is not named in the Poisons Standard that took effect October 1, 2026. We could not check the TGA's register.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Fisetin is not named on the 2026 WADA Prohibited List or on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Human safety data on fisetin are thin. Most trials have not published results. In posted results, one stomach bleed occurred in a 14-person fisetin arm. FDA does not review supplements for safety before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "one serious adverse event (gastric hemorrhage) among 14 women in the fisetin arm; none in the other two arms of 30 each.",
+            "lead": "Bone trial:",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04313634",
+                "label": "NCT04313634 (senolytics and bone, Mayo Clinic), ClinicalTrials.gov",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "serious adverse events in 1 of 10 on fisetin and 1 of 10 on placebo (nursing homes), and 0 of 29 on fisetin and 2 of 26 on placebo (outpatients).",
+            "lead": "COVID trials:",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04537299",
+                "label": "NCT04537299 (COVID-FIS), ClinicalTrials.gov",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04771611",
+                "label": "NCT04771611 (COVFIS-HOME), ClinicalTrials.gov",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "no serious adverse events among 40 people.",
+            "lead": "Carpal tunnel trial:",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05416515",
+                "label": "NCT05416515 (FITCATS), ClinicalTrials.gov",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA does not approve supplements before they are marketed.",
+            "lead": "Supplements in general:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We found no journal paper reporting results from Mayo's AFFIRM or AFFIRM-LITE trials, or from the fisetin arm of the bone trial (NCT04313634).",
+    "The AFFIRM registry records do not state the fisetin dose.",
+    "We could not confirm fisetin's status with Health Canada, the UK, EU regulators or the TGA.",
+    "The 2026 trial in obese men does not state its country in the abstract we read."
+  ],
+  "surprises": [
+    "Fisetin is often described as a senolytic for people, but Mayo's two frailty trials, started in 2018, have posted no results eight years later.",
+    "In the only posted fisetin result on bone, the bone breakdown marker rose on fisetin (+13.7%) while it fell with no treatment (-7.7%), with no statistical test posted.",
+    "A Mayo COVID-19 trial of fisetin in nursing homes was stopped for futility."
+  ]
+}

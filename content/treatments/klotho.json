@@ -1,0 +1,687 @@
+{
+  "slug": "klotho",
+  "name": "Klotho",
+  "row": "Klotho",
+  "aka": [
+    "alpha-klotho",
+    "α-klotho",
+    "soluble klotho",
+    "KL"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Animal and monkey only",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat and one monkey study since 1997",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Protein never given; 2 gene-therapy pilots, no results",
+      "status": "started"
+    },
+    {
+      "title": "Phase I",
+      "line": "No Phase I trial of klotho protein found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Not FDA approved; research labels not for humans",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Klotho is a protein made by the body. It was named in 1997, when researchers found that mice lacking the klotho gene developed a syndrome that looked like early ageing: a short life, infertility, hardened arteries, thin skin, bone loss and emphysema. The gene makes a protein that sits in the cell membrane and resembles beta-glucosidase enzymes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9363890/",
+            "label": "Kuro-o et al., Nature, 1997",
+            "date": "published Nov 1997"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A form of klotho also circulates in the blood. A 2005 mouse study described it as a hormone that dampens insulin and IGF-1 signalling inside cells.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16123266/",
+            "label": "Kurosu et al., Science, 2005",
+            "date": "published Sep 2005"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Mice engineered to make extra klotho lived longer than normal mice.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16123266/",
+                "label": "Kurosu et al., Science, 2005",
+                "date": "published Sep 2005"
+              }
+            ]
+          },
+          {
+            "text": "Mice engineered to make extra klotho did better on learning and memory tests, and showed stronger connections between brain cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24813892/",
+                "label": "Dubal et al., Cell Reports, 2014",
+                "date": "published May 2014"
+              }
+            ]
+          },
+          {
+            "text": "A single injection of klotho protein under the skin improved memory tests in old rhesus monkeys, at a low dose but not at higher doses.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37400721/",
+                "label": "Castner et al., Nature Aging, 2023",
+                "date": "published Jul 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these effects has been tested by giving klotho protein to people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: no published study has given klotho protein to people. Human data link blood levels or gene variants with health. Two small gene-therapy pilots that inject klotho DNA are registered and have posted no results."
+      },
+      {
+        "t": "p",
+        "text": "The searches found no published study and no registered trial in which klotho protein itself was given to people. The registry lists two pilot studies of klotho gene therapy (below). A 2020 study measured klotho in the cord blood of preterm babies, but gave klotho only to rat pups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=recombinant+klotho+clinical+trial",
+            "label": "PubMed search for 'recombinant klotho clinical trial'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=klotho",
+            "label": "ClinicalTrials.gov search for 'klotho'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32704023/",
+            "label": "Batlahally et al., Sci Rep, 2020",
+            "date": "published Jul 2020"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2011 · Observational cohort",
+        "title": "Blood klotho and death in older adults (InCHIANTI)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Semba RD, et al. J Gerontol A Biol Sci Med Sci 2011;66(7):794-800"
+          },
+          {
+            "k": "Design",
+            "v": "observational; no one was given klotho"
+          },
+          {
+            "k": "People",
+            "v": "804 adults aged 65 or older in Tuscany"
+          },
+          {
+            "k": "Length",
+            "v": "6 years of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "plasma klotho and death from any cause"
+          }
+        ],
+        "found": "194 people (24.1%) died. After adjusting for age, sex, diseases and other factors, people in the lowest third of klotho levels had a higher risk of death than those in the highest third (hazard ratio 1.78). The authors say more studies are needed to find out why. An association like this cannot show that klotho causes longer life.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21474560/",
+            "label": "Semba et al., J Gerontol A, 2011",
+            "date": "published Jul 2011"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2014 · Genetic association",
+        "title": "A klotho gene variant and thinking skills",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Dubal DB, et al. Cell Rep 2014;7(4):1065-76"
+          },
+          {
+            "k": "Design",
+            "v": "genetic association in people, plus mouse experiments. No person was given klotho."
+          },
+          {
+            "k": "Measured",
+            "v": "the KL-VS variant of the klotho gene, blood klotho levels and cognitive test scores"
+          }
+        ],
+        "found": "People with one copy of KL-VS had better cognitive scores and higher blood klotho. The abstract does not give the number of people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24813892/",
+            "label": "Dubal et al., Cell Reports, 2014",
+            "date": "published May 2014"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered gene-therapy pilots with no results yet"
+      },
+      {
+        "t": "study",
+        "meta": "Honduras · 2025 · Registered pilot · Phase 1",
+        "title": "Klotho plasmid gene therapy in healthy adults",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT07216781, sponsored by Minicircle"
+          },
+          {
+            "k": "Design",
+            "v": "single group, open-label, no placebo"
+          },
+          {
+            "k": "People",
+            "v": "14 healthy adults aged 23 to 90 enrolled"
+          },
+          {
+            "k": "What was given",
+            "v": "klotho DNA in a non-viral plasmid, injected under the skin into belly fat"
+          },
+          {
+            "k": "Measured",
+            "v": "blood klotho, side effects, FGF23, parathyroid hormone, vitamin D, phosphate, cognitive tests"
+          },
+          {
+            "k": "Note",
+            "v": "The registry says the product is given at a clinic in Roatán, Honduras, outside FDA jurisdiction; only before-and-after testing takes place at a US site in Austin, Texas."
+          }
+        ],
+        "found": "Started October 2025. Active, not recruiting. No results posted. This is gene therapy, not klotho protein.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07216781",
+            "label": "ClinicalTrials.gov NCT07216781",
+            "date": "updated Aug 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "study",
+        "meta": "Honduras · 2025 · Registered pilot · Early Phase 1",
+        "title": "Klotho plus follistatin gene therapy",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT07285629, sponsored by Minicircle"
+          },
+          {
+            "k": "Design",
+            "v": "single group, open-label, no placebo"
+          },
+          {
+            "k": "People",
+            "v": "14 healthy adults aged 50 to 80 enrolled"
+          },
+          {
+            "k": "What was given",
+            "v": "klotho and follistatin DNA in a non-viral plasmid, injected into belly fat"
+          },
+          {
+            "k": "Measured",
+            "v": "blood klotho and follistatin, side effects, for 3 months"
+          }
+        ],
+        "found": "Listed as completed in April 2026. No results posted.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07285629",
+            "label": "ClinicalTrials.gov NCT07285629",
+            "date": "updated Aug 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2023 · Monkey study",
+        "title": "One klotho injection and memory in old rhesus monkeys",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Castner SA, et al. Nat Aging 2023;3(8):931-7"
+          },
+          {
+            "k": "Design",
+            "v": "monkeys tested at baseline, after a vehicle injection and after klotho; the protein was first checked in mice"
+          },
+          {
+            "k": "Animals",
+            "v": "18 rhesus monkeys aged 15 to 28 (13 female, 5 male)"
+          },
+          {
+            "k": "What was given",
+            "v": "one injection under the skin of rhesus klotho protein, 10 µg/kg; 20 and 30 µg/kg tested in an exploratory analysis"
+          },
+          {
+            "k": "Length",
+            "v": "memory tests from 4 hours to 2 weeks after the dose"
+          },
+          {
+            "k": "Measured",
+            "v": "a spatial memory task with easier and harder versions"
+          }
+        ],
+        "found": "At 10 µg/kg, memory scores rose 4 hours after the shot, and the effect lasted at least 2 weeks. The higher doses did not improve memory. The University of California holds a patent on klotho for cognition naming one author as inventor; several authors consulted for or own stock in Unity Biotechnology, and two founded a company to develop klotho therapies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37400721/",
+            "label": "Castner et al., Nature Aging, 2023",
+            "date": "published Jul 2023"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10432271/",
+            "label": "Castner et al., Nature Aging, 2023 (full text, PMC)",
+            "date": "published Jul 2023"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Klotho loss, mice:",
+            "text": "mice missing the klotho gene aged early and died young.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9363890/",
+                "label": "Kuro-o et al., Nature, 1997",
+                "date": "published Nov 1997"
+              }
+            ]
+          },
+          {
+            "lead": "Extra klotho, mice:",
+            "text": "mice engineered to overproduce klotho lived longer than normal mice.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16123266/",
+                "label": "Kurosu et al., Science, 2005",
+                "date": "published Sep 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Newborn lungs, rats:",
+            "text": "in rat pups exposed to high oxygen, klotho injections every other day reduced lung and blood-vessel damage.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32704023/",
+                "label": "Batlahally et al., Sci Rep, 2020",
+                "date": "published Jul 2020"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Animal results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37400721/",
+            "label": "Castner et al., Nature Aging, 2023",
+            "date": "published Jul 2023"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use. No klotho product appears in FDA’s drug approval database. Products labelled “research use only” are not for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA for klotho found no match.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:klotho",
+                "label": "Drugs@FDA data (openFDA), search for 'klotho' (no match)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA says products marketed “for research use only” or otherwise not for human consumption “have not been evaluated for safety and should never be used by humans.” Such products may not be sold for human use: FDA says it acts against firms selling unapproved products.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Gene-therapy pilots:",
+            "text": "the registry says the klotho gene therapy in NCT07216781 is given outside the US, at a site not under FDA jurisdiction.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07216781",
+                "label": "ClinicalTrials.gov NCT07216781",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "Klotho is not one of the six peptides named in HHS’s interim compounding policy of October 2026 (BPC-157, TB-500, Epitalon, Semax, KPV and MOTS-c). As of November 1, 2026.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary; the Federal Register notice does not list the peptides)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "Klotho does not appear on FDA’s lists of bulk substances nominated for compounding (503A and 503B categories) or on its Category 2 page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Klotho is not on the DEA’s controlled substances list dated October 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator record found approves klotho as a medicine. It is not in Health Canada’s drug database or EMA’s list of authorized medicines, and it is not named on WADA’s Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. No klotho product in Drugs@FDA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:klotho",
+              "label": "Drugs@FDA data (openFDA), search for 'klotho' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. No klotho product in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=klotho",
+              "label": "Health Canada Drug Product Database, ingredient search 'klotho' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (klotho is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Klotho is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current approval by any government health regulator for human use. For 2027, WADA adds “peptides” to the examples in S0. The lists do not say whether klotho falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: Klotho is not named in the Poisons Standard that took effect on October 1, 2026. The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There are no human safety data for klotho protein. No published study has given it to people, and the two gene-therapy pilots have posted no results."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "none published. The gene-therapy pilots list side effects as a main measure but have posted no results.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07216781",
+                "label": "ClinicalTrials.gov NCT07216781",
+                "date": "updated Aug 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07285629",
+                "label": "ClinicalTrials.gov NCT07285629",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Dose in monkeys:",
+            "text": "in old monkeys, higher single doses (20 and 30 µg/kg) did not improve memory and did not make it significantly worse. The authors say it is not known whether even higher doses could impair memory.",
+            "src": [
+              {
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10432271/",
+                "label": "Castner et al., Nature Aging, 2023 (full text, PMC)",
+                "date": "published Jul 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "FDA says products sold for research use only have not been evaluated for safety and should never be used by humans.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "UK (MHRA) status and Australia’s TGA register were not checked against the regulator’s own record.",
+    "Klotho would be a biological product; FDA’s Purple Book of licensed biologics was not searched, only Drugs@FDA.",
+    "The Dubal 2014 abstract gives no number of people for the human genetic analysis; the full paper was not read."
+  ],
+  "surprises": [
+    "Klotho is promoted as a longevity protein, but no published study has given klotho protein to a person.",
+    "The best-known primate result is from 18 old monkeys given one injection; higher doses did not help, and the authors include a patent inventor and company stockholders.",
+    "A klotho gene-therapy pilot is registered with a US testing site, but the registry says the injections are given in Honduras, outside FDA jurisdiction."
+  ]
+}

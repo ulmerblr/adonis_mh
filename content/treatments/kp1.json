@@ -1,0 +1,548 @@
+{
+  "slug": "kp1",
+  "name": "KP1 (Klotho-derived peptide 1)",
+  "row": "KP1 (Klotho-derived peptide)",
+  "aka": [
+    "Klotho-derived peptide 1",
+    "KP-1",
+    "klotho peptide"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Animal and cell only",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse, rat and cell studies since 2022, mostly 1 group",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published study in people",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Not FDA approved; research labels not for humans",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "KP1 is a chain of 30 amino acids cut from the human klotho protein, from position 57 to 86. A kidney research group at Southern Medical University in Guangzhou, China, found it in 2022 by screening many klotho fragments. Klotho itself is a large protein, which the authors say is hard to use as a medicine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35064106/",
+            "label": "Yuan et al., Nature Communications, 2022",
+            "date": "published Jan 2022"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8782923/",
+            "label": "Yuan et al., Nature Communications, 2022 (full text, PMC)",
+            "date": "published Jan 2022"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to animal and cell studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In kidney cells, KP1 bound to the TGF-β type 2 receptor and blocked TGF-β, a signal that drives scarring (fibrosis).",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35064106/",
+                "label": "Yuan et al., Nature Communications, 2022",
+                "date": "published Jan 2022"
+              }
+            ]
+          },
+          {
+            "text": "In mice, KP1 injected into a vein gathered mainly in injured kidneys and restored the kidneys’ own klotho.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35064106/",
+                "label": "Yuan et al., Nature Communications, 2022",
+                "date": "published Jan 2022"
+              }
+            ]
+          },
+          {
+            "text": "In diseased mouse kidneys, it lowered markers of cell ageing (senescence), through a microRNA that blocks klotho.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38164143/",
+                "label": "Zhang et al., Theranostics, 2024",
+                "date": "published Jan 2024"
+              }
+            ]
+          },
+          {
+            "text": "In 2026, the same group reported that it binds a mitochondrial protein, ATAD3A, in kidney cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42640132/",
+                "label": "Zhang et al., Advanced Science, 2026",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "None of these effects has been tested in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: none. No published human studies found as of November 1, 2026. All published KP1 studies are in mice, rats or cells, and almost all come from one research group in Guangzhou."
+      },
+      {
+        "t": "p",
+        "text": "No published human studies found as of November 1, 2026. PubMed lists five KP1 papers, all in animals or cells, and ClinicalTrials.gov lists no trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=KP1+klotho",
+            "label": "PubMed search for 'KP1 klotho'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=KP1+klotho",
+            "label": "ClinicalTrials.gov search for 'KP1 klotho'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "study",
+        "meta": "China · 2022 · Mouse and cell study",
+        "title": "Kidney scarring in mice",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Yuan Q, et al. Nat Commun 2022;13(1):438"
+          },
+          {
+            "k": "Design",
+            "v": "controlled animal study, KP1 against vehicle, plus cell experiments"
+          },
+          {
+            "k": "Animals",
+            "v": "mouse models of kidney scarring: blocked ureter, and reduced blood flow to one kidney"
+          },
+          {
+            "k": "What was given",
+            "v": "KP1 1 mg/kg into a vein once a day, for 6 days in the blocked-ureter model"
+          },
+          {
+            "k": "Measured",
+            "v": "kidney function (creatinine, urea), scarring, TGF-β signalling, klotho levels"
+          }
+        ],
+        "found": "KP1 preserved kidney function, reduced scarring and restored kidney klotho in mice. The authors declared no competing interests.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35064106/",
+            "label": "Yuan et al., Nature Communications, 2022",
+            "date": "published Jan 2022"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8782923/",
+            "label": "Yuan et al., Nature Communications, 2022 (full text, PMC)",
+            "date": "published Jan 2022"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Acute kidney injury, mice (2026):",
+            "text": "in mouse models of acute kidney injury from cisplatin or from cut-off blood flow, KP1 improved kidney function and reduced tubule cell death.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42640132/",
+                "label": "Zhang et al., Advanced Science, 2026",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "COVID-related kidney injury, mice (2024):",
+            "text": "in mice made to express a SARS-CoV-2 protein, and in cells, KP1 reduced kidney tubule injury.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38239193/",
+                "label": "Xu et al., Front Pharmacol, 2024",
+                "date": "published Jan 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Liver scarring, mice (2026):",
+            "text": "in klotho-deficient mice and in mice with chemical or bile-duct liver injury, KP1 reduced liver scarring.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41608630/",
+                "label": "Tan et al., Int J Biol Sci, 2026",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Erectile function, rats (2026):",
+            "text": "in rats with cut penile nerves, a klotho-derived peptide reduced penile scarring and preserved erections. The abstract calls it “KP” and does not say whether it is KP1.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41962889/",
+                "label": "Xi et al., Eur J Pharmacol, 2026",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "These are animal and cell results from mostly one research group. They have not been tested in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=KP1+klotho",
+            "label": "PubMed search for 'KP1 klotho'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA-approved for any use. No KP1 product appears in FDA’s drug approval database. Products labelled “research use only” are not for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA for klotho found no match, and no KP1 trial is registered.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:klotho",
+                "label": "Drugs@FDA data (openFDA), search for 'klotho' (no match)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=KP1+klotho",
+                "label": "ClinicalTrials.gov search for 'KP1 klotho'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA says products marketed “for research use only” or otherwise not for human consumption “have not been evaluated for safety and should never be used by humans.” Such products may not be sold for human use: FDA says it acts against firms selling unapproved products.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "KP1 is not one of the six peptides named in HHS’s interim compounding policy of October 2026 (BPC-157, TB-500, Epitalon, Semax, KPV and MOTS-c). As of November 1, 2026.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary; the Federal Register notice does not list the peptides)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "KP1 does not appear on FDA’s lists of bulk substances nominated for compounding (503A and 503B categories) or on its Category 2 page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk substances page",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. KP1 is not on the DEA’s controlled substances list dated October 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator record found approves KP1. It is an early laboratory peptide with no registered human trial anywhere, and it is not named on WADA’s Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. No klotho or KP1 product in Drugs@FDA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:klotho",
+              "label": "Drugs@FDA data (openFDA), search for 'klotho' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. No klotho product in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=klotho",
+              "label": "Health Canada Drug Product Database, ingredient search 'klotho' (no match)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (KP1 is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "KP1 is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 bans at all times any pharmacological substance not covered elsewhere on the List and with no current approval by any government health regulator for human use. For 2027, WADA adds “peptides” to the examples in S0. The lists do not say whether KP1 falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: KP1 is not named in the Poisons Standard that took effect on October 1, 2026. The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There are no human safety data. No one has published a study giving KP1 to people, and no formal animal toxicity studies were found."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Human studies:",
+            "text": "none.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=KP1+klotho",
+                "label": "PubMed search for 'KP1 klotho'",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/search?term=KP1+klotho",
+                "label": "ClinicalTrials.gov search for 'KP1 klotho'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Animal safety:",
+            "text": "the published papers test kidney, liver and nerve injury models over days to weeks. None was a standard toxicity study.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35064106/",
+                "label": "Yuan et al., Nature Communications, 2022",
+                "date": "published Jan 2022"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42640132/",
+                "label": "Zhang et al., Advanced Science, 2026",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/41608630/",
+                "label": "Tan et al., Int J Biol Sci, 2026",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "Health Canada warns that unauthorized injectable peptides may hold too much, too little or none of the ingredient, or contaminants. It says a “research use only” label does not make them legal.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada advisory RA-81874",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "UK (MHRA) status and Australia’s TGA register were not checked against the regulator’s own record.",
+    "The 2026 rat study of erectile function calls its peptide “KP”; whether it is KP1 was not confirmed from the full text."
+  ],
+  "surprises": [
+    "KP1 is promoted as a klotho-based anti-ageing peptide, but every published study is in mice, rats or cells, and almost all come from one lab group.",
+    "The published work is about kidney and liver scarring in injury models, not about ageing or lifespan."
+  ]
+}

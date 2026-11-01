@@ -1,0 +1,618 @@
+{
+  "slug": "resveratrol",
+  "name": "Resveratrol",
+  "row": "Resveratrol",
+  "aka": [
+    "trans-Resveratrol",
+    "3,5,4'-trihydroxystilbene",
+    "SRT501"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Many small RCTs; mixed",
+    "fda": "Not approved (suppl.)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mice lived longer only on a high-calorie diet",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "30-day crossover in 11 obese men (2011)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "NCI Phase 1 studies, e.g. NCT00721877",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "52-week Alzheimer's trial, 119 people (2015)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found for aging",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Resveratrol (3,5,4'-trihydroxystilbene) is a plant compound found in grapes, red wine, some berries and certain roots. It has been studied because it extended lifespan in yeast, worms and flies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17086191/",
+            "label": "Baur et al., Nature, 2006",
+            "date": "published Nov 2006"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24819981/",
+            "label": "Semba et al., JAMA Intern Med, 2014 (InCHIANTI)",
+            "date": "published Jul 2014"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Researchers proposed it acts on sirtuins (SIRT1) and AMPK, proteins linked to calorie restriction. A 2012 trial in women found it did not change those targets in muscle or fat.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22055504/",
+            "label": "Timmers et al., Cell Metab, 2011",
+            "date": "published Nov 2011"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23102619/",
+            "label": "Yoshino et al., Cell Metab, 2012",
+            "date": "published Nov 2012"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Resveratrol is sold as a dietary supplement. FDA does not review supplements for safety or effectiveness before sale. No trial has shown that it slows aging in people."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Resveratrol has been tested in many small human trials; ClinicalTrials.gov lists over 200 studies. The metabolic trials disagree: one small 30-day study in obese men found changes like calorie restriction, while larger and longer trials in women and obese men found none. A large observational study found dietary resveratrol levels were not linked to longer life."
+      },
+      {
+        "t": "p",
+        "text": "Each is listed below as it was run.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.intr=resveratrol",
+            "label": "ClinicalTrials.gov search for 'resveratrol'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Metabolic trials"
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2011 · Randomized crossover trial",
+        "title": "Obese men, 30 days, 2011",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "11 healthy obese men"
+          },
+          {
+            "k": "Length",
+            "v": "30 days of 150 mg a day and 30 days of placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "Metabolic rate, muscle mitochondria, liver fat, blood sugar and fats, blood pressure"
+          }
+        ],
+        "found": "Resting and sleeping metabolic rate fell. Muscle mitochondrial measures, liver fat, glucose, triglycerides, inflammation markers and systolic blood pressure improved. The authors called the changes calorie-restriction-like.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22055504/",
+            "label": "Timmers et al., Cell Metab, 2011",
+            "date": "published Nov 2011"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized trial",
+        "title": "Non-obese women with normal blood sugar, 2012",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "Non-obese postmenopausal women with normal glucose tolerance"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks of 75 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Insulin sensitivity of liver, muscle and fat by clamp; body composition; metabolic rate; blood fats; SIRT1 and AMPK in tissue"
+          }
+        ],
+        "found": "No change in insulin sensitivity, body composition, metabolic rate, blood fats or inflammation markers. Resveratrol did not affect SIRT1, AMPK or related targets in muscle or fat.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23102619/",
+            "label": "Yoshino et al., Cell Metab, 2012",
+            "date": "published Nov 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Denmark · 2013 · Randomized trial",
+        "title": "High-dose resveratrol in obese men, 2013",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, parallel groups; investigator-initiated"
+          },
+          {
+            "k": "People",
+            "v": "24 obese but otherwise healthy men"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Insulin sensitivity by clamp (main outcome); glucose turnover; blood pressure; energy use; body fat; markers"
+          }
+        ],
+        "found": "No effect on insulin sensitivity, glucose, blood pressure, energy use, liver or belly fat, or blood markers. The authors said this raised doubt about resveratrol as a supplement for metabolic disorders.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23193181/",
+            "label": "Poulsen et al., Diabetes, 2013",
+            "date": "published Apr 2013"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Brain trial"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Phase 2 randomized trial",
+        "title": "Mild to moderate Alzheimer's disease, 2015",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Randomized, double-blind, placebo-controlled, multicenter (Alzheimer's Disease Cooperative Study)"
+          },
+          {
+            "k": "People",
+            "v": "119 people with mild to moderate Alzheimer's"
+          },
+          {
+            "k": "Length",
+            "v": "52 weeks; dose rose from 500 mg a day to 1,000 mg twice a day"
+          },
+          {
+            "k": "Measured",
+            "v": "Safety; amyloid and tau in blood and spinal fluid; brain volume on MRI; clinical scores"
+          }
+        ],
+        "found": "Resveratrol reached the brain. Amyloid-40 fell less than on placebo. Brain volume loss was greater on resveratrol. Nausea, diarrhea and weight loss were the most common side effects. Results are posted on ClinicalTrials.gov.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26362286/",
+            "label": "Turner et al., Neurology, 2015",
+            "date": "published Oct 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01504854",
+            "label": "NCT01504854 (resveratrol for Alzheimer's), ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Observational study"
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2014 · Prospective cohort study",
+        "title": "Diet resveratrol and death in older adults (InCHIANTI), 2014",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Population study in two Chianti villages, 1998 to 2009. Not randomized."
+          },
+          {
+            "k": "People",
+            "v": "783 community-dwelling adults aged 65 and older"
+          },
+          {
+            "k": "Length",
+            "v": "9 years of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "24-hour urine resveratrol metabolites; death from any cause; inflammation; heart disease; cancer"
+          }
+        ],
+        "found": "Urine resveratrol levels were not linked to death, inflammation, heart disease or cancer. 268 people died during follow-up.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24819981/",
+            "label": "Semba et al., JAMA Intern Med, 2014 (InCHIANTI)",
+            "date": "published Jul 2014"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In middle-aged mice on a high-calorie diet, resveratrol improved health measures and survival. In mice on a standard diet started at 12 months of age, it reduced several signs of aging but did not extend lifespan.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17086191/",
+            "label": "Baur et al., Nature, 2006",
+            "date": "published Nov 2006"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18599363/",
+            "label": "Pearson et al., Cell Metab, 2008",
+            "date": "published Aug 2008"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Several animal and lab papers on resveratrol and the heart from one laboratory in Farmington, Connecticut, were retracted by their journals in 2012, for example in Free Radical Biology and Medicine and the American Journal of Physiology. The retraction notices we opened do not state a reason. A 2014 paper from the same group was retracted in 2022 over figure problems the authors could not explain. None of these were human trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23016155/",
+            "label": "Retraction notice, Free Radic Biol Med, 2012",
+            "date": "published Aug 2012"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23016154/",
+            "label": "Retraction notice, Free Radic Biol Med, 2012",
+            "date": "published Aug 2012"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22833916/",
+            "label": "Retraction notice, Am J Physiol Heart Circ Physiol, 2012",
+            "date": "published Jun 2012"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9392640/",
+            "label": "Retraction notice, Oxid Med Cell Longev, 2022",
+            "date": "published Aug 2022"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=resveratrol+AND+Das+DK%5Bau%5D+AND+retracted+publication%5Bpt%5D",
+            "label": "PubMed search for 'resveratrol AND Das DK[au] AND retracted publication[pt]'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Resveratrol is not an FDA-approved drug. It is sold as a dietary supplement, which FDA does not review for safety or effectiveness before sale. A GRAS notice for it was withdrawn before FDA finished its review. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. FDA's Drugs@FDA data have no product with resveratrol as an active ingredient.",
+            "lead": "FDA approval:",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22RESVERATROL%22",
+                "label": "openFDA (FDA's Drugs@FDA data): search for resveratrol as an active ingredient, no match",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "under DSHEA, FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "lead": "Dietary supplement:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA's list shows several resveratrol notifications from 2000 onward, each with an FDA response date. The list does not say what FDA replied.",
+            "lead": "New dietary ingredient notifications:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193535/download",
+                "label": "FDA, list of new dietary ingredient notifications (spreadsheet)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "GRN 224, for trans-resveratrol, closed August 1, 2007; at the notifier's request, FDA stopped evaluating it.",
+            "lead": "Food ingredient (GRAS):",
+            "src": [
+              {
+                "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&type=basic&search=resveratrol",
+                "label": "FDA GRAS Notice Inventory search for 'resveratrol' (GRN 224)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "text": "resveratrol is in Category 1 (under evaluation) on FDA's 503A list of nominated bulk substances, updated May 14, 2026, and in Category 3 (nominated without adequate support) on the 503B list. That is not approval.",
+            "lead": "Compounding:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "text": "no.",
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Resveratrol is sold as a supplement in the US and is not an approved medicine there. We could not confirm its status with regulators in Canada, the UK, the EU or Australia. It is not named on the WADA list.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved as a drug. Sold as a dietary supplement. 503A Category 1 (under evaluation) for compounding.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22RESVERATROL%22",
+              "label": "openFDA (FDA's Drugs@FDA data): search for resveratrol as an active ingredient, no match",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, 503A bulk drug substance categories",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "European Commission / EFSA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia: resveratrol is not named in the Poisons Standard that took effect October 1, 2026. We could not check the TGA's register.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Resveratrol is not named on the 2026 WADA Prohibited List or on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In trials, resveratrol was generally well tolerated. In a year-long Alzheimer's trial at high doses, nausea, diarrhea and weight loss were most common, and brain volume fell more than on placebo. FDA does not review supplements for safety before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "nausea, diarrhea and weight loss were the most common adverse events. Brain volume loss was greater than on placebo; the meaning of this is unclear.",
+            "lead": "Alzheimer's trial (up to 2,000 mg a day, 52 weeks):",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26362286/",
+                "label": "Turner et al., Neurology, 2015",
+                "date": "published Oct 2015"
+              }
+            ]
+          },
+          {
+            "text": "the 4-week to 12-week trials above reported no benefit in most measures; the abstracts do not list side effects.",
+            "lead": "Short metabolic trials:",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23193181/",
+                "label": "Poulsen et al., Diabetes, 2013",
+                "date": "published Apr 2013"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23102619/",
+                "label": "Yoshino et al., Cell Metab, 2012",
+                "date": "published Nov 2012"
+              }
+            ]
+          },
+          {
+            "text": "FDA does not approve supplements before they are marketed.",
+            "lead": "Supplements in general:",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We could not open the reason for the 2012 retractions of resveratrol papers from the Farmington, Connecticut laboratory; the retraction notices in PubMed have no text, and we did not find an ORI finding.",
+    "We could not confirm resveratrol's status with Health Canada, the UK, EU regulators (EUR-Lex and EFSA refused automated requests) or the TGA.",
+    "We could not read the SRT501 multiple myeloma trial (Popat et al., 2013); its PubMed record has no abstract.",
+    "We did not count how many resveratrol NDI notifications FDA lists or read FDA's replies.",
+    "The 2012 US trial abstract does not give how many women took part."
+  ],
+  "surprises": [
+    "Resveratrol is often linked to the 'red wine' longevity story, but in older Italians, resveratrol levels from diet were not linked to living longer.",
+    "In mice on a normal diet, resveratrol did not extend lifespan; the lifespan gain was in mice on a high-calorie diet.",
+    "In a year-long Alzheimer's trial, brain volume fell more on resveratrol than on placebo.",
+    "Resveratrol sits in FDA's 503A Category 1, meaning FDA is still evaluating it for compounding, not that it is approved."
+  ]
+}

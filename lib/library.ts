@@ -176,6 +176,18 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
     { name: 'MOTS-c', peptide: true, page: { href: '/mots-c', evidence: 'No human studies', fda: 'Not approved; HHS discretion', sport: 'Banned (S4)' } },
     { name: 'Epitalon', peptide: true, page: { href: '/epitalon', evidence: 'Animal/cell; few in people', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
+    { name: 'Elamipretide (SS-31)', peptide: true, aka: ['Forzinity', 'SS-31', 'MTP-131', 'Bendavia'], page: { href: '/elamipretide', evidence: 'Approved; small trials', fda: 'Accelerated approval', sport: 'Not listed' } },
+    { name: 'Fisetin', aka: ['3,3\',4\',7-tetrahydroxyflavone'], page: { href: '/fisetin', evidence: 'Pilot trials; few results', fda: 'Not approved (suppl.)', sport: 'Not listed' } },
+    { name: 'FOXO4-DRI', peptide: true, aka: ['FOXO4 D-retro-inverso peptide', 'FOXO4 peptide'], page: { href: '/foxo4-dri', evidence: 'Mouse and cell only', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Humanin', peptide: true, aka: ['HN', 'HNG', 'humanin G', 'S14G-humanin', 'MT-RNR2'], page: { href: '/humanin', evidence: 'Animal; human levels only', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Klotho', aka: ['alpha-klotho', 'α-klotho', 'soluble klotho', 'KL'], page: { href: '/klotho', evidence: 'Animal and monkey only', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'KP1 (Klotho-derived peptide)', peptide: true, aka: ['Klotho-derived peptide 1', 'KP-1', 'klotho peptide'], page: { href: '/kp1', evidence: 'Animal and cell only', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'NMN (nicotinamide mononucleotide)', aka: ['Nicotinamide mononucleotide', 'β-NMN', 'Beta-nicotinamide mononucleotide', 'MIB-626'], page: { href: '/nmn', evidence: 'Small RCTs; NAD+ markers', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Rapamycin (sirolimus)', aka: ['Sirolimus', 'Rapamune', 'Fyarro', 'Hyftor'], page: { href: '/rapamycin', evidence: 'Approved; aging pilots', fda: 'Approved (Rapamune)', sport: 'Not listed' } },
+    { name: 'Resveratrol', aka: ['trans-Resveratrol', '3,5,4\'-trihydroxystilbene', 'SRT501'], page: { href: '/resveratrol', evidence: 'Many small RCTs; mixed', fda: 'Not approved (suppl.)', sport: 'Not listed' } },
+    { name: 'Somatropin (growth hormone)', aka: ['Human growth hormone', 'hGH', 'rhGH', 'GH', 'Genotropin', 'Humatrope', 'Norditropin', 'Nutropin AQ', 'Omnitrope', 'Saizen', 'Zomacton', 'Serostim', 'Zorbtive'], page: { href: '/somatropin', evidence: 'Approved; aging RCTs small', fda: 'Approved (Genotropin)', sport: 'Banned (S2)' } },
+    { name: 'Thymalin', peptide: true, aka: ['Timalin', 'Тималин', 'thymus peptide extract', 'thymus peptides'], page: { href: '/thymalin', evidence: 'Russian studies only', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Urolithin A', aka: ['UA', 'AMAZ-02'], page: { href: '/urolithin-a', evidence: 'Small RCTs, mostly sponsor', fda: 'Not approved (suppl.)', sport: 'Not listed' } },
   ],
 };
 

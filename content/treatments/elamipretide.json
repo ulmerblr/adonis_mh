@@ -1,0 +1,775 @@
+{
+  "slug": "elamipretide",
+  "name": "Elamipretide (SS-31)",
+  "row": "Elamipretide (SS-31)",
+  "aka": [
+    "Forzinity",
+    "SS-31",
+    "MTP-131",
+    "Bendavia"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "longevity"
+  ],
+  "index": {
+    "evidence": "Approved; small trials",
+    "fda": "Accelerated approval",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal and cell studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small studies in heart, muscle and eye disease",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Phase 1 safety studies completed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Phase 2 trials in heart, eye and muscle disease",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Muscle disease trial missed goals; eye trial running",
+      "status": "started"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Forzinity, Sep 2025, accelerated, Barth syndrome",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Elamipretide is a short peptide of 4 amino acids: D-Arg-2,6-dimethyl-Tyr-Lys-Phe-NH2. The arginine is in its mirror-image (D) form. The medicine contains it as a hydrochloride salt. It is also known by its research code SS-31 and the older code MTP-131.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+            "label": "Forzinity label, DailyMed",
+            "date": "published Dec 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02245620",
+            "label": "ClinicalTrials.gov NCT02245620",
+            "date": "updated Jun 2020"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Its maker is Stealth BioTherapeutics. It is sold as Forzinity, an injection under the skin, approved by FDA in September 2025 for Barth syndrome, a rare inherited mitochondrial disease that mainly affects males.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome",
+            "label": "FDA news release, accelerated approval of Forzinity",
+            "date": "published Sep 2025"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+            "label": "Forzinity label, DailyMed",
+            "date": "published Dec 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The label calls it a mitochondrial cardiolipin binder. It settles in the inner membrane of mitochondria, the energy-producing parts of cells, and the label says it improves their shape and function.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "text": "After an injection under the skin, blood levels peak within 30 to 60 minutes, and about 92% of the dose reaches the blood.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "The approval covers Barth syndrome only. Use for ageing or longevity would be off-label, and no trial has tested elamipretide for longevity."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human evidence: one tiny approval trial in Barth syndrome that missed its main goals, with muscle strength gains seen later in an open-label extension. Larger trials in other diseases mostly missed their main goals. One small study in older adults measured muscle energy after a single infusion."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "2017 · Randomized crossover, then open-label · Phase 2/3",
+        "title": "Barth syndrome (TAZPOWER), the basis for approval",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT03098797, sponsored by Stealth BioTherapeutics"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled crossover, then a 168-week open-label extension"
+          },
+          {
+            "k": "People",
+            "v": "12 males aged 12 to 35 with genetically confirmed Barth syndrome; 11 were white"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks on elamipretide and 12 weeks on placebo, with 4 weeks off between; 8 people stayed on through week 168"
+          },
+          {
+            "k": "What was given",
+            "v": "40 mg under the skin once a day"
+          },
+          {
+            "k": "Measured",
+            "v": "main goals: 6-minute walk distance and a fatigue score. Knee muscle strength was a secondary measure."
+          }
+        ],
+        "found": "Elamipretide was not better than placebo on either main goal. Knee strength did not rise in the randomized part. It rose during the open-label extension, where everyone got the drug and there was no placebo group. FDA based the accelerated approval on that knee strength change.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+            "label": "Forzinity label, DailyMed",
+            "date": "published Dec 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03098797",
+            "label": "ClinicalTrials.gov NCT03098797",
+            "date": "updated Apr 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2017 · Randomized controlled · Phase 3",
+        "title": "Primary mitochondrial myopathy (MMPOWER-3)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Karaa A, et al. Neurology 2023;101(3):e238-52; NCT03323749"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "218 adults with genetic mitochondrial muscle disease; mean age 45.6, 64% women"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "What was given",
+            "v": "40 mg under the skin once a day, or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "6-minute walk distance and a fatigue score"
+          }
+        ],
+        "found": "The trial did not meet its main goals. Walk distance differed from placebo by −3.2 meters, and fatigue scores did not differ. The open-label part was stopped for this reason. Most side effects were mild to moderate.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37268435/",
+            "label": "Karaa et al., Neurology, 2023",
+            "date": "published Jul 2023"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03323749",
+            "label": "ClinicalTrials.gov NCT03323749",
+            "date": "updated Jan 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2019 · Randomized controlled · Phase 2",
+        "title": "Dry age-related macular degeneration (ReCLAIM-2)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT03891875; Ophthalmology Science 2024"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-masked, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "176 people aged 55 or older with geographic atrophy (117 elamipretide, 59 placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "48 weeks"
+          },
+          {
+            "k": "What was given",
+            "v": "40 mg under the skin once a day, or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "vision in low light and growth of the atrophy area"
+          }
+        ],
+        "found": "It missed both main goals. Some secondary eye-scan measures differed from placebo, which the authors report with nominal P values. Side effects were reported in 86% on elamipretide and 71% on placebo, mostly injection site reactions.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39605874/",
+            "label": "ReCLAIM-2, Ophthalmology Science, 2024",
+            "date": "published Oct 2024"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03891875",
+            "label": "ClinicalTrials.gov NCT03891875",
+            "date": "updated Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2015 · Randomized controlled · Phase 2",
+        "title": "One infusion in older adults with weak muscle mitochondria",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Roshanravan B, et al. PLoS One 2021;16(7):e0253849; NCT02245620"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "39 healthy adults aged 60 to 85 with poorly working muscle mitochondria; 46% women"
+          },
+          {
+            "k": "What was given",
+            "v": "a single infusion into a vein over 2 hours, 0.25 mg/kg each hour"
+          },
+          {
+            "k": "Measured",
+            "v": "maximum ATP (energy) production in a hand muscle, and hand muscle fatigue"
+          }
+        ],
+        "found": "Right after the infusion, ATP production was higher than with placebo (P = 0.055 for the change; P = 0.045 for the percent change). There was no difference on day 7, and no difference in muscle fatigue. Stealth funded the study, and three authors were paid consultants for Stealth from 2014 to 2016.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34264994/",
+            "label": "Roshanravan et al., PLoS One, 2021",
+            "date": "published Jul 2021"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02245620",
+            "label": "ClinicalTrials.gov NCT02245620",
+            "date": "updated Jun 2020"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "International · 2012 · Randomized controlled · Phase 2a",
+        "title": "Heart attack treated with stenting (EMBRACE STEMI)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "NCT01572909, sponsored by Stealth BioTherapeutics"
+          },
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "300 adults with a first front-wall heart attack"
+          },
+          {
+            "k": "What was given",
+            "v": "an infusion into a vein starting before the artery was opened"
+          },
+          {
+            "k": "Measured",
+            "v": "heart muscle damage, by the amount of the enzyme CK-MB released over 72 hours"
+          }
+        ],
+        "found": "Average CK-MB release was similar in both groups (6,582 against 6,738 units). The registry posts no statistical test.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01572909",
+            "label": "ClinicalTrials.gov NCT01572909",
+            "date": "updated Jun 2020"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Registered trials with no results yet"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Healthy ageing (NCT07275424):",
+            "text": "an open-label Phase 2a pilot in about 30 healthy adults aged 65 to 80, given injections under the skin once a day for 4 weeks, sponsored by David Marcinek. The main measure is side effects. Recruiting since November 2025; no results posted.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07275424",
+                "label": "ClinicalTrials.gov NCT07275424",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Barth syndrome (NCT07531251):",
+            "text": "the confirmatory trial FDA required. Phase 3b/4, randomized, double-blind, placebo-controlled, about 48 males aged 5 to 55, 72 weeks. Recruiting since July 2026; completion estimated November 2029.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07531251",
+                "label": "ClinicalTrials.gov NCT07531251",
+                "date": "updated Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "ReNEW (NCT06373731):",
+            "text": "Phase 3 in dry macular degeneration, 313 people enrolled, 96 weeks. Primary completion estimated August 2027.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06373731",
+                "label": "ClinicalTrials.gov NCT06373731",
+                "date": "updated Sep 2026"
+              }
+            ]
+          },
+          {
+            "lead": "NuPower (NCT05162768):",
+            "text": "Phase 3, 48 weeks, 102 adults with mitochondrial muscle disease due to nuclear DNA changes. Completed December 2024; no results posted.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05162768",
+                "label": "ClinicalTrials.gov NCT05162768",
+                "date": "updated Oct 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "FDA-approved as Forzinity under accelerated approval, on September 19, 2025, to improve muscle strength in adults and children with Barth syndrome who weigh at least 30 kg. Continued approval may depend on a confirmatory trial. Any other use, including for ageing, is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approval:",
+            "text": "FDA granted accelerated approval on September 19, 2025 (NDA 215244, Stealth BioTherapeutics), with priority review and a rare pediatric disease voucher. It is a new molecular entity and a prescription drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome",
+                "label": "FDA news release, accelerated approval of Forzinity",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215244",
+                "label": "Drugs@FDA data (openFDA), NDA 215244, Forzinity",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/190705/download",
+                "label": "FDA, CDER New Drug Therapy Approvals 2025",
+                "date": "published Jan 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What accelerated means:",
+            "text": "accelerated approval rests on a measure that is “reasonably likely” to predict benefit but does not directly measure it. Here that measure is knee extensor strength. FDA requires a randomized, double-blind, placebo-controlled trial to confirm that this change means real benefit.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome",
+                "label": "FDA news release, accelerated approval of Forzinity",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "What the label says:",
+            "text": "the label says Forzinity was not better than placebo on the trial’s main goals, walk distance and fatigue.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Off-label:",
+            "text": "the approval does not cover ageing, longevity, heart failure, eye disease or other mitochondrial diseases. Using it for those would be off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Research-use products:",
+            "text": "FDA says products marketed “for research use only” or otherwise not for human consumption “have not been evaluated for safety and should never be used by humans.” “SS-31” sold this way is not Forzinity.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/142396/download",
+                "label": "FDA, “Beware of Fraudulent Coronavirus Tests, Vaccines & Treatments” (consumer flyer)",
+                "date": "revised Oct 2020"
+              }
+            ]
+          },
+          {
+            "lead": "HHS peptide policy:",
+            "text": "elamipretide is not one of the six peptides named in HHS’s October 2026 compounding policy.",
+            "src": [
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary; the Federal Register notice does not list the peptides)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Controlled substance:",
+            "text": "no. Elamipretide is not on the DEA’s controlled substances list dated October 2026.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, controlled substances list",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Approved in the US for Barth syndrome only. Not authorized in Canada, where Health Canada names SS-31 among seized unauthorized peptides, and EMA lists no elamipretide medicine.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Forzinity), accelerated approval, Sep 2025, Barth syndrome. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome",
+              "label": "FDA news release, accelerated approval of Forzinity",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215244",
+              "label": "Drugs@FDA data (openFDA), NDA 215244, Forzinity",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+              "label": "Forzinity label, DailyMed",
+              "date": "published Dec 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. No product in the Drug Product Database; SS-31 named among seized unauthorized peptides.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=elamipretide",
+              "label": "Health Canada Drug Product Database, ingredient search 'elamipretide' (no match)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada advisory RA-81874",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU",
+          "regulator": "EMA",
+          "status": "Not authorized by EMA (elamipretide is not in EMA’s medicines list). National status not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Elamipretide is not named on the WADA Prohibited List for 2026 or 2027. WADA’s class S0 covers only substances with no current approval by any government health regulator for human use; elamipretide has been approved in the US since September 2025. The lists do not mention it by name.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome",
+              "label": "FDA news release, accelerated approval of Forzinity",
+              "date": "published Sep 2025"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: Elamipretide is not named in the Poisons Standard that took effect on October 1, 2026. The TGA’s product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Australia, Poisons Standard October 2026",
+              "date": "published Sep 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "From the label: injection site reactions are the most common side effect. Serious allergic reactions have been reported. The trial data are small: 12 people with Barth syndrome."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Injection site reactions:",
+            "text": "in the 12-person controlled trial, every patient (100%) had a local reaction on elamipretide, against 67% on placebo: redness (100% vs 25%), pain (75% vs 42%), hardening (67% vs 17%), itching (67% vs 17%), bruising (25% vs 0%) and hives (25% vs 0%).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions (warning):",
+            "text": "hypersensitivity reactions, including serious allergic reactions needing emergency care, have been reported. They included rash, bumps, eczema-like skin changes and cough, and can start minutes to months after starting. People with a serious reaction should not be given it again.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Eosinophils:",
+            "text": "eosinophil counts (a type of white blood cell) often rose in studies lasting 30 days or more, peaking around day 90 and returning to baseline after 6 to 12 months or after stopping. The rise was not linked to symptoms.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Benzyl alcohol:",
+            "text": "the product contains benzyl alcohol, which has caused serious and fatal reactions in small and premature newborns given it by vein. Forzinity is not approved for newborns or for use by vein.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility and cancer:",
+            "text": "no cancer studies have been done. In rats, doses up to about 5 times human exposure did not harm fertility. There are no data in pregnant women.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Overdose:",
+            "text": "the label says overdose signs are likely histamine-related, such as low blood pressure or nearly fainting.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+                "label": "Forzinity label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Other trials:",
+            "text": "in MMPOWER-3 (218 people), most side effects were mild to moderate. In ReCLAIM-2 (176 people), side effects were reported in 86% on elamipretide and 71% on placebo, most often injection site reactions.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/37268435/",
+                "label": "Karaa et al., Neurology, 2023",
+                "date": "published Jul 2023"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39605874/",
+                "label": "ReCLAIM-2, Ophthalmology Science, 2024",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Research-use products:",
+            "text": "Health Canada warns that unauthorized injectable peptides, a list that includes SS-31, may hold the wrong amount of ingredient or contaminants.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada advisory RA-81874",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA’s approval letter and review documents on accessdata.fda.gov could not be opened from this session; the approval details come from FDA’s news release, openFDA and the DailyMed label.",
+    "FDA’s orphan drug designation record for elamipretide was not checked.",
+    "UK (MHRA) status and Australia’s TGA register were not checked against the regulator’s own record.",
+    "NuPower (NCT05162768) finished in December 2024, but no results were found on the registry."
+  ],
+  "surprises": [
+    "Elamipretide is marketed online as a longevity peptide, but its only approval is for Barth syndrome, and that approval came even though the pivotal trial missed both of its main goals.",
+    "The muscle strength gain behind the approval appeared only in an open-label extension without a placebo group, in 8 to 10 patients.",
+    "The one trial in healthy older adults found a short-lived rise in muscle energy after one infusion and no change in muscle fatigue.",
+    "Health Canada lists SS-31 among unauthorized injectable peptides it has seized, while the same molecule is an FDA-approved drug in the US."
+  ]
+}
