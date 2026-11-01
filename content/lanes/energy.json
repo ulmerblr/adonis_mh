@@ -21,22 +21,76 @@
     {
       "icon": "calendar",
       "label": "Semax",
-      "line": "Registered only in Russia, as nasal drops. HHS compounding discretion since Oct 30, 2026."
+      "line": "Registered in Russia, as nasal drops. HHS compounding discretion in the US since Oct 30, 2026."
     }
   ],
-  "paragraphs": [
-    "The energy shots in this lane are built around [[/vitamin-b12|vitamin B12]]. Through Beluga, Adonis carries a methylcobalamin injection, B12 added to some compounded GLP-1 injections, and B12 inside “MIC” lipotropic blends, named for the [[/methionine|methionine]], [[/inositol|inositol]] and [[/choline|choline]] they also contain. Some blends add [[/vitamin-b6|vitamin B6]]; another, Lipo-Mino, adds [[/l-carnitine|L-carnitine]]. All of them are compounded, and none is FDA approved.",
-    "B12 itself is an approved drug for one job: cyanocobalamin injection treats B12 deficiency caused by poor absorption, including pernicious anemia. Injecting it for energy or weight loss in someone who is not deficient is off-label. We found two small placebo-controlled trials of B12 injections for energy. In one, 20 singers with vocal fatigue got a B12 shot and a salt-water shot weeks apart; scores improved about the same after both. In the other, 15 people with chronic fatigue syndrome responded to both the active injection and the placebo, with no significant difference. We found no trial of B12 injections for weight loss.",
-    "For the other letters in MIC the record is thinner still. We found no published human study of injected methionine, inositol, choline or vitamin B6, alone or in a blend, for energy or fat loss, and no FDA-approved methionine or inositol product. B6 and L-carnitine injections are approved for deficiency, not energy. Most L-carnitine weight studies used supplements by mouth, and we found no study of a Lipo-Mino-style injection.",
-    "FDA’s recall records add a quality question. Many compounded lipotropic, Lipo-B and MIC injections have been recalled by compounding pharmacies, most often for “lack of assurance of sterility.” Examples include vials from 2017, 2018, 2020 and 2022.",
-    "The lane’s one peptide comes from Russia. [[/semax|Semax]] is a synthetic fragment of the hormone ACTH, made at the Russian Academy of Sciences. FDA’s 2026 review found it registered as a medicine in Russia, as nasal drops; the register entry itself could not be opened for our page. Its human studies are small, almost all Russian and many published only in Russian, and all used nasal drops. FDA found two usable references for the uses it reviewed, both small and uncontrolled, and no study of Semax by injection.",
-    "Semax is not FDA approved. Since October 30, 2026, HHS has said it will not take enforcement action against licensed pharmacies and physicians that compound Semax for use in the nose, under set conditions; that is enforcement discretion, not approval. FDA’s advisory committee voted 8 to 5, with one abstention, to recommend it, as reported by Healio. Adonis does not carry Semax today. WADA’s list does not name it."
+  "summary": [
+    "Injections sold for energy are built around [[/vitamin-b12|vitamin B12]], often in “MIC” lipotropic blends named for the [[/methionine|methionine]], [[/inositol|inositol]] and [[/choline|choline]] they contain, sometimes with [[/vitamin-b6|vitamin B6]] or [[/l-carnitine|L-carnitine]]. These blends are compounded and not FDA approved. FDA’s recall records list many compounded lipotropic and MIC injections recalled by pharmacies, most often for lack of assurance of sterility.",
+    "B12 itself is approved for one job: cyanocobalamin injection treats B12 deficiency caused by poor absorption. Injecting it for energy in someone who is not deficient is off-label. In the two small placebo-controlled trials we found, 20 singers and 15 people with chronic fatigue syndrome did about as well on placebo as on the B12 injection. B6 and L-carnitine injections are approved for deficiency, not energy, and we found no published human study of injected methionine, inositol or choline for energy or fat loss.",
+    "[[/semax|Semax]], a synthetic fragment of the hormone ACTH, is the lane’s one peptide. FDA’s 2026 review found it registered as a medicine in Russia, as nasal drops. Its human studies are small, almost all Russian, and all used nasal drops. It is not FDA approved; since October 30, 2026, HHS has allowed it to be compounded for use in the nose under set conditions, which is enforcement discretion, not approval. WADA’s list does not name it.",
+    "What is not known: whether B12 shots help energy in people with normal B12, what the MIC blends do at all, and whether Semax is safe or effective outside the Russian studies. FDA found no study of Semax given by injection."
   ],
   "pull": {
     "quote": "Semax is a registered drug in Russia and is available as 0.1% and 1% nasal drops.",
     "cite": "FDA briefing on Semax, July 2026",
     "href": "https://www.fda.gov/media/193348/download"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "Cyanocobalamin is indicated for vitamin B 12 deficiencies due to malabsorption which may be associated with the following conditions: Addisonian (pernicious) anemia",
+      "source": "Cyanocobalamin Injection, USP label, DailyMed",
+      "date": "published Oct 2023",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
+      "note": "The label goes on to list other causes of poor absorption. Energy is not among the approved uses."
+    },
+    {
+      "kind": "regulator",
+      "quote": "The parenteral route is indicated when oral administration is not feasible as in anorexia, nausea and vomiting, and preoperative and postoperative conditions.",
+      "source": "Pyridoxine Hydrochloride Injection label, DailyMed",
+      "date": "published Oct 2024",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
+      "note": "The approved B6 injection is for deficiency when B6 cannot be taken by mouth."
+    },
+    {
+      "kind": "regulator",
+      "quote": "No studies were found in which semax was used as a compounded drug product.",
+      "source": "FDA briefing on Semax, Pharmacy Compounding Advisory Committee",
+      "date": "published Jul 2026",
+      "href": "https://www.fda.gov/media/193348/download",
+      "note": "This is FDA’s own briefing to its advisers."
+    },
+    {
+      "kind": "regulator",
+      "quote": "At the time of this evaluation, the nominator did not submit, and FDA did not identify nonclinical developmental and reproductive studies of semax.",
+      "source": "FDA briefing on Semax, Pharmacy Compounding Advisory Committee",
+      "date": "published Jul 2026",
+      "href": "https://www.fda.gov/media/193348/download"
+    },
+    {
+      "kind": "trial",
+      "quote": "This randomized, double-blind, placebo-controlled, crossover trial found that after empirical vitamin B12 injection to improve mild voice-related symptoms, the improvement in self-reported voice measures in singers shows no meaningful difference compared with placebo.",
+      "source": "Shoffel-Havakuk et al., JAMA Otolaryngol Head Neck Surg",
+      "date": "published Jan 2021",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/33180098/"
+    },
+    {
+      "kind": "trial",
+      "quote": "Although patients responded to placebo and LEFAC by several criteria of functional status, no significant difference was apparent between response to placebo and that to LEFAC. The placebo response appeared to be strong.",
+      "source": "Kaslow et al., Arch Intern Med",
+      "date": "published Nov 1989",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/2684076/",
+      "note": "LEFAC was an injection of liver extract, folic acid and B12, given to 15 people with chronic fatigue syndrome."
+    },
+    {
+      "kind": "reporting",
+      "quote": "On Friday afternoon, the committee voted 8-5-1 for semax in both acetate and free-base forms. Most of the ‘no’ voters cited safety concerns.",
+      "source": "Healio, “FDA committee recommends looser restrictions for several peptides”",
+      "date": "published Jul 24, 2026",
+      "href": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+      "note": "FDA has not posted the official vote record."
+    }
+  ],
   "sources": [
     {
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
