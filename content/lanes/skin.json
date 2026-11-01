@@ -32,151 +32,219 @@
       }
     }
   ],
-  "summary": [
-    "[[/spironolactone|Spironolactone]] was approved as Aldactone in 1960 for heart failure, high blood pressure and fluid build-up. Acne is not an approved use. Because it also blocks the male hormone receptor, it is prescribed off-label for acne in adult women, and both randomized acne trials, SAFA (410 women) and FASCE (133 women), enrolled only women. In men, the label says it can cause breast growth, lower libido and trouble with erections, and WADA bans it at all times as a diuretic.",
-    "[[/estriol|Estriol]] is an estrogen, one of the female hormones the body makes. In some European countries it is a prescription vaginal cream for postmenopausal women. FDA says there are no FDA-approved drugs containing estriol; marketed estriol drugs are compounded. Its skin evidence is two small 1990s studies, in 18 and 59 women around menopause, with no placebo group. We found no study of estriol on men’s skin.",
-    "For contrast, some skin treatments went through FDA approval. [[/tretinoin|Tretinoin]] was approved as Retin-A in 1971 for acne. [[/azelaic-acid|Azelaic acid]] is approved as Azelex for acne and Finacea for rosacea. [[/doxycycline|Doxycycline]] is an approved antibiotic, and Oracea was approved in 2006 for the bumps of rosacea. [[/niacinamide|Niacinamide]] has no FDA drug approval for any skin use. Compounded creams that combine these ingredients are not FDA approved.",
-    "The copper peptide [[/ghk-cu|GHK-Cu]] has the least behind it: it is not FDA approved for any use, and its only randomized human study, of 13 patients after laser resurfacing, found no measured difference in redness, wrinkles or skin quality. Whether estriol or spironolactone is safe on men’s skin over time is not known."
-  ],
   "pull": {
-    "quote": "FDA does not have evidence that drugs containing estriol are safe and effective, or are “safer forms of estrogen.”",
-    "cite": "FDA, Menopause (women’s health topics)",
-    "href": "https://www.fda.gov/consumers/womens-health-topics/menopause"
+    "quote": "There are no FDA-approved drugs containing estriol.",
+    "note": "meno"
   },
-  "excerpts": [
-    {
-      "kind": "regulator",
-      "quote": "There are no FDA-approved drugs containing estriol. Marketed drugs that contain estriol are compounded drugs, which are not FDA-approved.",
-      "source": "FDA, Menopause (women’s health topics)",
-      "date": "published Dec 2023",
-      "href": "https://www.fda.gov/consumers/womens-health-topics/menopause"
-    },
-    {
-      "kind": "regulator",
-      "quote": "ALDACTONE can cause gynecomastia. In RALES, patients with heart failure treated with a mean dose of 26 mg of spironolactone once daily, about 9% of the male subjects developed gynecomastia. The risk of gynecomastia increases in a dose-dependent manner with an onset that varies widely from 1–2 months to over a year. Gynecomastia is usually reversible.",
-      "source": "Aldactone (spironolactone) label, section 5.4, DailyMed",
-      "date": "published Nov 2025",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
-      "note": "Gynecomastia is breast growth in men."
-    },
-    {
-      "kind": "regulator",
-      "quote": "Reproductive: Decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast and nipple pain.",
-      "source": "Aldactone (spironolactone) label, adverse reactions, DailyMed",
-      "date": "published Nov 2025",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc"
-    },
-    {
-      "kind": "regulator",
-      "quote": "All diuretics and masking agents, including all optical isomers, e.g. d- and l- where relevant, are prohibited. Including, but not limited to: • Diuretics such as: Acetazolamide; amiloride; bumetanide; canrenone; chlortalidone; etacrynic acid; furosemide; indapamide; metolazone; spironolactone",
-      "source": "WADA 2026 Prohibited List, class S5",
-      "date": "published Sep 2025",
-      "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
-    },
-    {
-      "kind": "regulator",
-      "quote": "RETIN-A is indicated for topical application in the treatment of acne vulgaris.",
-      "source": "Retin-A (tretinoin) label, DailyMed",
-      "date": "published May 2024",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b"
-    },
-    {
-      "kind": "trial",
-      "quote": "Spironolactone improved outcomes compared with placebo, with greater differences at week 24 than week 12. Spironolactone is a useful alternative to oral antibiotics for women with acne.",
-      "source": "Santer et al., BMJ (SAFA)",
-      "date": "published May 2023",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/37192767/",
-      "note": "All 410 people in the trial were women."
-    },
-    {
-      "kind": "trial",
-      "quote": "Objective evaluation found no significant improvement in wrinkles or overall skin quality. However, patient satisfaction was significantly higher for those who used GHK-Cu skin care products after CO(2) laser skin resurfacing.",
-      "source": "Miller et al., Arch Facial Plast Surg",
-      "date": "published Jul 2006",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
-      "note": "13 patients finished. This is GHK-Cu’s only randomized human study."
-    }
+  "body": [
+    "Some of the skin treatments men are offered were tested almost entirely in women. The clearest case is [[/spironolactone|spironolactone]]. FDA approved it as Aldactone in January 1960,[^aldactonefda] and its uses today are heart failure, high blood pressure and fluid build-up.[^aldactone] Acne is not one of them. Because the drug also blocks the receptor for male hormones, doctors prescribe it off-label for acne in adult women.",
+    "The two best randomized trials of spironolactone for acne enrolled only women. SAFA, in England and Wales, assigned 410 women to spironolactone or a placebo.[^safa] Its authors reported that “Spironolactone improved outcomes compared with placebo, with greater differences at week 24 than week 12.”[^safa] FASCE, in France, randomized 133 women with moderate acne to spironolactone or the antibiotic doxycycline, each with benzoyl peroxide.[^fasce] Neither trial tells us how the drug behaves in men.",
+    "The label does. It warns that “ALDACTONE can cause gynecomastia,”[^aldactone] the growth of breast tissue in men, and says that in one heart failure trial “about 9% of the male subjects developed gynecomastia.”[^aldactone] Its list of reproductive side effects includes “Decreased libido, inability to achieve or maintain erection”.[^aldactone] It can also raise potassium in the blood.[^aldactone] Athletes face a separate rule: the World Anti-Doping Agency names spironolactone among the diuretics and masking agents it bans.[^wada]",
+    "The second borrowing is a hormone. [[/estriol|Estriol]] is an estrogen, one of the female sex hormones the body makes, and it turns up in face creams. FDA is plain about it: “There are no FDA-approved drugs containing estriol. Marketed drugs that contain estriol are compounded drugs, which are not FDA-approved.”[^meno] The agency adds that it “does not have evidence that drugs containing estriol are safe and effective”[^meno], or that they are safer than other estrogens.",
+    "The skin evidence for estriol comes from one group at the University of Vienna in the 1990s. A 1994 pilot study treated the faces of perimenopausal women with an estriol cream (8 patients) or an estradiol cream (10 patients) for six months.[^schmidt94] Both groups improved, and the authors judged the estriol results “slightly superior with regard to their extent and onset.”[^schmidt94] A 1996 study compared the same two creams in 59 women and reported that after six months “elasticity and firmness of the skin had markedly improved”[^schmidt96] in both groups. Neither had a placebo group, and the search found no study of estriol on men’s skin.",
+    "For contrast, several acne drugs went through FDA approval. [[/tretinoin|Tretinoin]] was approved as Retin-A in October 1971,[^retinafda] and its label says it “is indicated for topical application in the treatment of acne vulgaris.”[^retina] [[/adapalene|Adapalene]] was approved as Differin in May 1996,[^differinfda] and its 0.1% gel moved to over-the-counter sale in July 2016.[^switch] [[/benzoyl-peroxide|Benzoyl peroxide]] is sold without a prescription too, and FDA notes that some acne products containing it “have been recalled due to benzene contamination.”[^benzene] [[/clascoterone|Clascoterone]] cream was approved as Winlevi in August 2020[^winlevifda]. Its label describes it as “an androgen receptor inhibitor”[^winlevi], meaning it blocks male hormones where it is applied.",
+    "The strongest acne drug has the strictest rules. [[/isotretinoin|Isotretinoin]] was first approved as Accutane in May 1982.[^accutane] Today’s labels reserve it for “severe recalcitrant nodular acne”[^absorica] and say it is available only through a restricted program called iPLEDGE, whose goal FDA describes as “to mitigate the risk of embryo-fetal toxicity.”[^ipledge] The label also warns that it “may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors”.[^absorica] In the UK, an expert review was set up after patients raised concerns about mental health and sexual side effects “that sometimes continue after treatment with isotretinoin has been stopped.”[^mhra]",
+    "Rosacea has its own approved drugs. [[/azelaic-acid|Azelaic acid]] gel, sold as Finacea, “is indicated for topical treatment of inflammatory papules and pustules of mild to moderate rosacea.”[^finacea] A low-dose capsule of [[/doxycycline|doxycycline]], Oracea, was approved in May 2006[^oraceafda] for “only inflammatory lesions (papules and pustules) of rosacea in adult patients.”[^oracea] [[/niacinamide|Niacinamide]], a form of vitamin B3, appears in FDA’s approval records only as one vitamin in multivitamin products, not as a skin drug.[^niacinamide]",
+    "The lane’s best-known peptide has the least behind it. [[/ghk-cu|GHK-Cu]], a copper peptide, is not FDA approved for any use. FDA lists the injected form among substances that may pose significant safety risks in compounding, warning that injected products “may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities.”[^cat2] Its only randomized human skin study followed patients after laser resurfacing around the mouth; 13 completed it.[^miller] Blinded evaluators found no difference between groups in redness, and while all patients improved in wrinkles and skin quality, “no differences were found between groups.”[^miller] Patients using GHK-Cu did rate their improvement higher on a questionnaire.[^miller]",
+    "One peptide in this lane is FDA approved, but for a rare disease, not for tanning. [[/afamelanotide|Afamelanotide]] was approved as Scenesse, an implant, in October 2019.[^scenessefda] Its label says it “is indicated to increase pain free light exposure in adult patients with a history of phototoxic reactions from erythropoietic protoporphyria (EPP).”[^scenesse] EPP is an inherited condition in which sunlight causes severe pain in the skin. Because the drug darkens the skin, including moles and freckles, the label says that “A full body skin examination (twice yearly) is recommended”.[^scenesse] Serious allergic reactions, including anaphylaxis, have been reported.[^scenesse]",
+    "What is still not known is how most of these treatments behave in men over years. For spironolactone and estriol, the trials were run in women. For GHK-Cu, the human data come from 13 people. Compounded creams that mix these ingredients have not been tested at all in published trials, and FDA says compounded drugs are not FDA approved.[^compounding]"
   ],
-  "sources": [
+  "notes": [
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
-      "label": "Aldactone (spironolactone) label, DailyMed",
-      "date": "published Nov 2025"
+      "key": "aldactonefda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Aldactone, NDA 012151",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA012151"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37192767/",
-      "label": "Santer et al. (SAFA), BMJ, 2023",
-      "date": "published May 2023"
+      "key": "aldactone",
+      "source": "DailyMed",
+      "title": "Aldactone (spironolactone) prescribing information",
+      "date": "Nov 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38380975/",
-      "label": "Dréno et al. (FASCE), Acta Derm Venereol, 2024",
-      "date": "published Feb 2024"
+      "key": "safa",
+      "source": "Santer et al., BMJ",
+      "title": "Effectiveness of spironolactone for women with acne vulgaris (SAFA) in England and Wales: pragmatic, multicentre, phase 3, double blind, randomised controlled trial",
+      "date": "May 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37192767/"
     },
     {
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-      "label": "WADA Prohibited List 2026",
-      "date": "published Sep 2025"
+      "key": "fasce",
+      "source": "Dréno et al., Acta Dermato-Venereologica",
+      "title": "Efficacy of spironolactone compared with doxycycline in moderate acne in adult females: results of the FASCE study",
+      "date": "Feb 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38380975/"
     },
     {
-      "url": "https://www.fda.gov/consumers/womens-health-topics/menopause",
-      "label": "FDA, Menopause (women's health topics)",
-      "date": "published Dec 2023"
+      "key": "wada",
+      "source": "World Anti-Doping Agency",
+      "title": "The 2026 Prohibited List",
+      "date": "Sep 2025",
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/7877517/",
-      "label": "Schmidt et al., Maturitas, 1994",
-      "date": "published Nov 1994"
+      "key": "meno",
+      "source": "FDA",
+      "title": "Menopause (women’s health topics)",
+      "date": "Dec 2023",
+      "url": "https://www.fda.gov/consumers/womens-health-topics/menopause"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/8876303/",
-      "label": "Schmidt et al., Int J Dermatol, 1996",
-      "date": "published Sep 1996"
+      "key": "schmidt94",
+      "source": "Schmidt et al., Maturitas",
+      "title": "Treatment of skin ageing symptoms in perimenopausal females with estrogen compounds. A pilot study",
+      "date": "Nov 1994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7877517/"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b",
-      "label": "Retin-A label, DailyMed",
-      "date": "published May 2024"
+      "key": "schmidt96",
+      "source": "Schmidt et al., International Journal of Dermatology",
+      "title": "Treatment of skin aging with topical estrogens",
+      "date": "Sep 1996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8876303/"
     },
     {
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019963",
-      "label": "Drugs@FDA, NDA 019963",
-      "date": "accessed Oct 31, 2026"
+      "key": "retinafda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Retin-A, NDA 016921",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA016921"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebdfcaf7-b5d6-47e1-be87-ccaba4b97e75",
-      "label": "Azelex (azelaic acid) cream 20% label, DailyMed",
-      "date": "published Mar 2024"
+      "key": "retina",
+      "source": "DailyMed",
+      "title": "Retin-A (tretinoin) prescribing information",
+      "date": "May 2024",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb",
-      "label": "Finacea (azelaic acid) gel 15% label, DailyMed",
-      "date": "published Apr 2011"
+      "key": "differinfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Differin gel 0.1%, NDA 020380",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020380"
     },
     {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA207071",
-      "label": "Drugs@FDA data (openFDA), NDA 207071, Finacea Foam",
-      "date": "accessed Oct 31, 2026"
+      "key": "switch",
+      "source": "FDA",
+      "title": "Prescription to nonprescription (Rx-to-OTC) switch list",
+      "date": "Jun 2026",
+      "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/prescription-nonprescription-switch-list"
     },
     {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA050805",
-      "label": "Drugs@FDA data (openFDA), NDA 050805, Oracea",
-      "date": "accessed Oct 31, 2026"
+      "key": "benzene",
+      "source": "FDA",
+      "title": "Frequently asked questions on benzene contamination in drugs",
+      "date": "Mar 2025",
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/frequently-asked-questions-benzene-contamination-drugs"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997",
-      "label": "Oracea (doxycycline) 40 mg capsules label, DailyMed",
-      "date": "published Apr 2025"
+      "key": "winlevifda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Winlevi, NDA 213433",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213433"
     },
     {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NIACINAMIDE&limit=20",
-      "label": "Drugs@FDA data (openFDA), applications containing niacinamide",
-      "date": "accessed Oct 31, 2026"
+      "key": "winlevi",
+      "source": "DailyMed",
+      "title": "Winlevi (clascoterone) cream prescribing information",
+      "date": "Jan 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
-      "label": "Miller et al., Arch Facial Plast Surg, 2006",
-      "date": "published Jul 2006"
+      "key": "accutane",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Accutane, NDA 018662",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018662"
+    },
+    {
+      "key": "absorica",
+      "source": "DailyMed",
+      "title": "Absorica and Absorica LD (isotretinoin) prescribing information",
+      "date": "Aug 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615"
+    },
+    {
+      "key": "ipledge",
+      "source": "FDA",
+      "title": "iPLEDGE Risk Evaluation and Mitigation Strategy (REMS)",
+      "date": "Jun 2026",
+      "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ipledge-risk-evaluation-and-mitigation-strategy-rems"
+    },
+    {
+      "key": "mhra",
+      "source": "MHRA",
+      "title": "Outcome of the expert review of the safety of isotretinoin",
+      "date": "Apr 2023",
+      "url": "https://www.gov.uk/government/news/outcome-of-the-expert-review-of-the-safety-of-isotretinoin"
+    },
+    {
+      "key": "finacea",
+      "source": "DailyMed",
+      "title": "Finacea (azelaic acid) gel 15% prescribing information",
+      "date": "Apr 2011",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=63773349-0295-4d56-a72e-0d7cade88ddb"
+    },
+    {
+      "key": "oraceafda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Oracea, NDA 050805",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA050805"
+    },
+    {
+      "key": "oracea",
+      "source": "DailyMed",
+      "title": "Oracea (doxycycline) 40 mg capsules prescribing information",
+      "date": "Apr 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa15c93a-ff4c-447a-8a21-96da506d8997"
+    },
+    {
+      "key": "niacinamide",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Applications containing niacinamide",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:NIACINAMIDE&limit=20"
+    },
+    {
+      "key": "cat2",
+      "source": "FDA",
+      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
+      "date": "Apr 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+    },
+    {
+      "key": "miller",
+      "source": "Miller et al., Archives of Facial Plastic Surgery",
+      "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+      "date": "Jul 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/"
+    },
+    {
+      "key": "scenessefda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Scenesse, NDA 210797",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA210797"
+    },
+    {
+      "key": "scenesse",
+      "source": "DailyMed",
+      "title": "Scenesse (afamelanotide) implant prescribing information",
+      "date": "May 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48"
+    },
+    {
+      "key": "compounding",
+      "source": "FDA",
+      "title": "Compounding and the FDA: questions and answers",
+      "date": "Sep 2025",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
     }
   ]
 }
