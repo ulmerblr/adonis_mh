@@ -10,7 +10,7 @@ const ROWS: Row[] = LANES.flatMap((l) => TREATMENTS[l.key].map((t) => ({ ...t, l
 
 /** Case-insensitive, ignoring hyphens, spaces and punctuation: "bpc157" finds BPC-157. */
 const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9+]/g, '');
-const matches = (r: Row, q: string) => !q || [r.name, r.laneName, r.peptide ? 'Peptide' : ''].some((f) => norm(f).includes(q));
+const matches = (r: Row, q: string) => !q || [r.name, r.laneName, r.peptide ? 'Peptide' : '', ...(r.aka ?? [])].some((f) => norm(f).includes(q));
 
 /**
  * The treatment finder: a search box, lane tabs ("All" and the nine lanes, each with its count) and the treatment rows.

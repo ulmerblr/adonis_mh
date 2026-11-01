@@ -22,6 +22,8 @@ export type Spec = {
   track: Step[];
   sections: { what: Block[]; research: Block[]; us: Block[]; world: { lead: string; countries: Country[]; after?: Block[] }; side: Block[] };
   unconfirmed?: string[]; surprises?: string[];
+  /** EDU PROMPT 22: the row name in lib/library.ts, other names people search for (brands, codes), and the check date. */
+  row?: string; aka?: string[]; checked?: string;
 };
 
 function srcs(src?: Source[]): React.ReactNode {
@@ -97,7 +99,7 @@ export function fromSpec(spec: Spec): TreatmentData {
     name: spec.name,
     lane: spec.lanes[0],
     peptide: spec.peptide,
-    statusLine: 'Statuses as of October 31, 2026. Clinical review: pending.',
+    statusLine: `Statuses as of ${spec.checked ?? 'October 31, 2026'}. Clinical review: pending.`,
     track: spec.track,
     sections: [
       { title: 'What it is', body: blocks(s.what) },
@@ -115,6 +117,6 @@ export function fromSpec(spec: Spec): TreatmentData {
         ),
       },
     ],
-    sourcesTitle: 'Sources — all checked October 31, 2026',
+    sourcesTitle: `Sources — all checked ${spec.checked ?? 'October 31, 2026'}`,
   };
 }

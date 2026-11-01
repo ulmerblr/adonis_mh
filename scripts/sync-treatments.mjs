@@ -21,8 +21,19 @@ let lib = fs.readFileSync('lib/library.ts', 'utf8');
 for (const slug of slugs) {
   const spec = JSON.parse(fs.readFileSync(`content/treatments/${slug}.json`, 'utf8'));
   if (spec.slug !== slug) throw new Error(`${slug}: slug field says ${spec.slug}`);
-  const row = ROW_NAME[slug];
+  const row = spec.row ?? ROW_NAME[slug];
   if (!row) throw new Error(`${slug}: no library row mapped`);
+  // EDU PROMPT 22: a new treatment's rows are added to each of its lanes (after the lane's existing rows) if missing.
+  for (const lane of spec.lanes) {
+    const key = lane.includes('-') ? `'${lane}'` : lane;
+    const laneRe = new RegExp(`(\\n  ${key}: \\[\\n)([\\s\\S]*?)(\\n  \\],)`);
+    const m = lib.match(laneRe);
+    if (!m) throw new Error(`${slug}: lane ${lane} not found`);
+    if (!m[2].includes(`{ name: '${row.replace(/'/g, "\\'")}'`)) {
+      const aka = spec.aka?.length ? `, aka: [${spec.aka.map(q).join(', ')}]` : '';
+      lib = lib.replace(laneRe, (_x, a, body, c) => `${a}${body}\n    { name: ${q(row)}${spec.peptide ? ', peptide: true' : ''}${aka} }${c}`);
+    }
+  }
   fs.mkdirSync(`app/${slug}`, { recursive: true });
   fs.writeFileSync(`app/${slug}/page.tsx`, `import { fromSpec, type Spec } from '@/components/treatment/from-spec';
 import { TreatmentPage } from '@/components/treatment/template';
@@ -37,9 +48,9 @@ export default function Page() {
   const { evidence, fda, sport } = spec.index;
   const page = `page: { href: ${q('/' + slug)}, evidence: ${q(evidence)}, fda: ${q(fda)}, sport: ${q(sport)} }`;
   const esc = row.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const re = new RegExp(`\\{ name: '${esc}'(, peptide: true)?(, page: \\{[^}]*\\})? \\}`, 'g');
+  const re = new RegExp(`\\{ name: '${esc}'(, peptide: true)?(, aka: \\[[^\\]]*\\])?(, page: \\{[^}]*\\})? \\}`, 'g');
   let n = 0;
-  lib = lib.replace(re, (_m, pep) => { n++; return `{ name: '${row}'${pep ?? ''}, ${page} }`; });
+  lib = lib.replace(re, (_m, pep, aka) => { n++; return `{ name: ${q(row)}${pep ?? ''}${aka ?? ''}, ${page} }`; });
   if (!n) throw new Error(`${slug}: row '${row}' not found in lib/library.ts`);
   console.log(`${slug}: route written; ${n} row(s) linked`);
 }

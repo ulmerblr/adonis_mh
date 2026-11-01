@@ -22,6 +22,8 @@ export const LANES: { key: LaneKey; name: string }[] = [
 export type Treatment = {
   name: string;
   peptide?: boolean;
+  /** Other names the finder's search matches: brands, codes, common names. */
+  aka?: string[];
   /** Only when the treatment's page exists with a dated, sourced record. */
   page?: { href: string; evidence: string; fda: string; sport: string };
 };
