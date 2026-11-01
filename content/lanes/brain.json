@@ -28,204 +28,191 @@
       }
     }
   ],
-  "summary": [
-    "The Brain lane holds 16 treatments sold to men for focus, memory or mood, and few of them are approved for any of that. [[/esketamine|Esketamine]] is: FDA approved it as Spravato in 2019 for treatment-resistant depression, with a boxed warning, and it is available only through a restricted program, the SPRAVATO REMS. [[/modafinil|Modafinil]] is approved to improve wakefulness in narcolepsy, sleep apnea and shift work disorder; using it, or [[/armodafinil|armodafinil]], for focus is off-label. [[/ketamine|Ketamine]] is approved as an anesthetic, so its use for depression is off-label, and [[/methylene-blue|methylene blue]] is approved only as an intravenous antidote.",
-    "Several have never been tested in people. [[/p21|P21]], built from part of a nerve-growth protein called CNTF, has been studied only in mice and rats. FDA says it has not identified any human exposure data for [[/dihexa|dihexa]], and in April 2025 a journal retracted the main paper on how dihexa acts, along with two related papers. Others come from Russia or Europe with small studies: [[/semax|Semax]], [[/selank|Selank]], [[/noopept|Noopept]] and [[/pinealon|Pinealon]], and [[/cerebrolysin|Cerebrolysin]], approved in Austria. None of them is FDA approved, and neither is [[/piracetam|piracetam]], a licensed medicine in the UK. [[/alpha-gpc|Alpha-GPC]] is sold in the US as a supplement.",
-    "Two are marketed for mood under very different laws. [[/psilocybin|Psilocybin]] is a Schedule I controlled substance under federal law and is in Phase 3 trials for depression; Oregon and Colorado license psilocybin services under state law. FDA says [[/kratom|kratom]] is not lawfully marketed in the US as a drug, a dietary supplement or a food ingredient, and DEA has proposed to schedule the related compound 7-OH above a set level.",
-    "What is not known: whether any of these sharpens focus or memory in healthy men, and what long-term use of the research-only compounds does. For P21 and dihexa, nothing has been measured in people at all."
-  ],
   "pull": {
-    "quote": "FDA lacks important information regarding any safety issues raised by dihexa acetate, including whether it would cause harm if administered to humans",
-    "cite": "FDA, Category 2 page",
-    "href": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+    "quote": "FDA lacks important information regarding any safety issues raised by dihexa acetate, including whether it would cause harm if administered to humans.",
+    "note": "cat2"
   },
-  "excerpts": [
-    {
-      "kind": "regulator",
-      "quote": "Risk for sedation, dissociation, and respiratory depression after administration. Monitor patients for at least two hours after administration. … SPRAVATO is only available through a restricted program called the SPRAVATO REMS.",
-      "source": "Spravato (esketamine) label, boxed warning, DailyMed",
-      "date": "published Sep 2026",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
-      "note": "A REMS is an FDA-required safety program that limits how a drug is given."
-    },
-    {
-      "kind": "regulator",
-      "quote": "PROVIGIL is indicated to improve wakefulness in adult patients with excessive sleepiness associated with narcolepsy, obstructive sleep apnea (OSA), or shift work disorder (SWD).",
-      "source": "Provigil (modafinil) label, DailyMed",
-      "date": "published Mar 2025",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
-      "note": "Focus, studying and general fatigue are not on the list."
-    },
-    {
-      "kind": "regulator",
-      "quote": "Ketamine administration is associated with hepatobiliary dysfunction (most often a cholestatic pattern), with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications).",
-      "source": "Ketalar (ketamine) label, section 5.6, DailyMed",
-      "date": "published Mar 2026",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
-      "note": "Hepatobiliary means the liver and bile ducts."
-    },
-    {
-      "kind": "regulator",
-      "quote": "FDA has not identified any human exposure data on drug products containing dihexa acetate administered via any route of administration.",
-      "source": "FDA, Category 2 page (bulk drug substances that may present significant safety risks)",
-      "date": "published Apr 2026",
-      "href": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
-      "note": "Dihexa is listed among nominations that were later withdrawn."
-    },
-    {
-      "kind": "regulator",
-      "quote": "Therefore, kratom is not lawfully marketed in the U.S. as a drug product, a dietary supplement, or a food additive in conventional food.",
-      "source": "FDA, “FDA and Kratom”",
-      "date": "published Dec 2025",
-      "href": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom"
-    },
-    {
-      "kind": "trial",
-      "quote": "Retraction notice to \"The Procognitive and Synaptogenic Effects of Angiotensin IV-Derived Peptides Are Dependent on Activation of the Hepatocyte Growth Factor/c-Met System\"",
-      "source": "J Pharmacol Exp Ther, retraction notice",
-      "date": "published Apr 2025",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/40312093/",
-      "note": "This 2014 paper described how dihexa acts. The notice gives no reason in its PubMed record."
-    },
-    {
-      "kind": "trial",
-      "quote": "Availability of appropriate neurotrophic support during the period of synaptic compensation can prevent synaptic deficit and cognitive impairment, and P021 is a promising neurotrophic compound for this purpose.",
-      "source": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017",
-      "date": "published Jun 2017",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/28655344/",
-      "note": "This was a mouse study. P21 has not been given to people."
-    }
+  "body": [
+    "The newest lane in this magazine covers the treatments men take for their minds: for focus, for memory, for mood. There are 16 of them, and the gap between what they are sold for and what they are approved for is wider here than almost anywhere else on the site. Only a handful are approved to treat anything in the brain, and none is approved to sharpen a healthy man’s focus.",
+    "Start with the one that is. FDA approved [[/esketamine|esketamine]] as Spravato, a nasal spray, in March 2019, for depression that has not responded to other treatment.[^spravapp] Its label opens with a boxed warning: “Risk for sedation, dissociation, and respiratory depression after administration. Monitor patients for at least two hours after administration.”[^spravato] It also says “SPRAVATO is only available through a restricted program called the SPRAVATO REMS,”[^spravato] which means it is given in a certified health care setting, not taken home. Its label now covers treatment-resistant depression in adults “as monotherapy or in conjunction with an oral antidepressant,”[^spravato] and depressive symptoms in adults with major depression who have acute suicidal thoughts or behavior, alongside an oral antidepressant.[^spravato] It is not approved for children.[^spravato]",
+    "Its older relative, [[/ketamine|ketamine]], is approved as an anesthetic, Ketalar, and has been since 1970.[^ketapp] Its use for depression, in clinics and in other forms, is off-label. The research on that use has grown. In a randomized trial that compared ketamine with electroconvulsive therapy for treatment-resistant depression, the authors concluded that “ketamine was noninferior to ECT as therapy for treatment-resistant major depression without psychosis.”[^elektd] The Ketalar label, meanwhile, now warns that “ketamine administration is associated with hepatobiliary dysfunction (most often a cholestatic pattern), with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications).”[^ketalar] Hepatobiliary means the liver and bile ducts.",
+    "Then come the wakefulness drugs. [[/modafinil|Modafinil]] is approved as Provigil, and its label is specific: “PROVIGIL is indicated to improve wakefulness in adult patients with excessive sleepiness associated with narcolepsy, obstructive sleep apnea (OSA), or shift work disorder (SWD).”[^provigil] Studying, focus and general fatigue are not on that list, so using modafinil, or its close cousin [[/armodafinil|armodafinil]], for them is off-label. Athletes should know that modafinil is named on the World Anti-Doping Agency’s list of stimulants banned in competition.[^wada] [[/methylene-blue|Methylene blue]], promoted online for energy and memory, is approved only as an intravenous antidote for a blood disorder called methemoglobinemia.[^provayblue]",
+    "At the other end of the lane are compounds that have never been tested in people. [[/p21|P21]], also called P021, was built from part of a nerve-growth protein called ciliary neurotrophic factor. Its research is in mice and rats. A 2017 paper concluded that “P021 is a promising neurotrophic compound”[^p21] for preventing synaptic and cognitive decline, but that conclusion came from mice, and no study has given P21 to a person.",
+    "[[/dihexa|Dihexa]] has a similar gap and a troubled paper trail. On its page of substances that may present significant safety risks in compounding, FDA writes that it “has not identified any human exposure data on drug products containing dihexa acetate administered via any route of administration.”[^cat2] It adds: “FDA lacks important information regarding any safety issues raised by dihexa acetate, including whether it would cause harm if administered to humans.”[^cat2] In April 2025, the Journal of Pharmacology and Experimental Therapeutics published a retraction notice for the 2014 paper that described how dihexa acts in the brain.[^retraction]",
+    "Between those poles sit treatments with some human research, mostly from Russia or Europe. [[/semax|Semax]] and [[/selank|Selank]] are short peptides with small Russian studies; [[/noopept|Noopept]] is a prescription medicine in Russia; [[/pinealon|Pinealon]] has only a few small studies.[^deigin][^vanhee] [[/cerebrolysin|Cerebrolysin]], a peptide mixture made from pig brain, is approved in Austria.[^basg] A 2023 Cochrane review found that moderate-certainty evidence indicates that Cerebrolysin or similar peptide mixtures “probably have no beneficial effect on preventing all-cause death in acute ischaemic stroke.”[^cochrane] [[/piracetam|Piracetam]] is a licensed medicine in the UK for a movement disorder called cortical myoclonus.[^nootropil] None of these is approved in the US. [[/alpha-gpc|Alpha-GPC]] is sold in the US as a dietary supplement.",
+    "Two more are sold for mood under very different laws. [[/psilocybin|Psilocybin]] is a Schedule I controlled substance under federal law,[^sched1] yet Oregon licenses psilocybin services under state law, and Colorado passed its own natural medicine law in 2023.[^oha][^colorado] The trials are still mixed. In a 2021 trial against the antidepressant escitalopram, the authors wrote that the main measure “did not show a significant difference in antidepressant effects between psilocybin and escitalopram in a selected group of patients.”[^carhart] In a 2022 trial in treatment-resistant depression, a single 25 mg dose “reduced depression scores significantly more than a 1-mg dose over a period of 3 weeks but was associated with adverse effects.”[^goodwin]",
+    "[[/kratom|Kratom]], a plant sold for energy, mood and pain, is a different case. FDA’s position is blunt: “kratom is not lawfully marketed in the U.S. as a drug product, a dietary supplement, or a food additive in conventional food.”[^kratom] The agency has also moved against products made with a concentrated kratom compound called 7-OH, including a seizure of such products in December 2025.[^seizure]",
+    "Most of the unapproved items in this lane share one more feature: they are easy to buy online, often labelled as research chemicals or supplements, and none of that labelling makes them approved drugs. For the ones sold as supplements, FDA says it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa]",
+    "What is not known is the question most men are asking: whether any of these makes a healthy brain work better. None of the approved drugs was approved for that, and for P21 and dihexa nothing has been measured in people at all. For the rest, the evidence ranges from careful trials in serious illness to small studies that no regulator outside Russia has relied on."
   ],
-  "sources": [
+  "notes": [
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
-      "label": "Spravato label, DailyMed",
-      "date": "published Sep 2026"
+      "key": "spravapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Spravato, NDA 211243",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211243"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8",
-      "label": "Provigil label, DailyMed",
-      "date": "published Mar 2025"
+      "key": "spravato",
+      "source": "DailyMed",
+      "title": "Spravato (esketamine) nasal spray prescribing information",
+      "date": "Sep 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063",
-      "label": "Ketalar label, DailyMed",
-      "date": "published Mar 2026"
+      "key": "ketapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Ketalar, NDA 016812",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA016812"
     },
     {
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
-      "label": "FDA, Category 2 bulk substances page",
-      "date": "published Apr 2026"
+      "key": "elektd",
+      "source": "Anand et al., New England Journal of Medicine",
+      "title": "Ketamine versus ECT for Nonpsychotic Treatment-Resistant Major Depression",
+      "date": "Jun 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37224232/"
     },
     {
-      "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom",
-      "label": "FDA, “FDA and Kratom”",
-      "date": "published Dec 2025"
+      "key": "ketalar",
+      "source": "DailyMed",
+      "title": "Ketalar (ketamine) prescribing information",
+      "date": "Mar 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/",
-      "label": "J Pharmacol Exp Ther, retraction notice for Benoist et al. 2014",
-      "date": "published Apr 2025"
+      "key": "provigil",
+      "source": "DailyMed",
+      "title": "Provigil (modafinil) prescribing information",
+      "date": "Mar 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/",
-      "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017",
-      "date": "published Jun 2017"
+      "key": "wada",
+      "source": "World Anti-Doping Agency",
+      "title": "The 2026 Prohibited List",
+      "date": "Sep 2025",
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
     },
     {
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-      "label": "WADA Prohibited List 2026",
-      "date": "published Sep 2025"
+      "key": "provayblue",
+      "source": "DailyMed",
+      "title": "ProvayBlue (methylene blue) injection prescribing information",
+      "date": "Jun 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5488423/",
-      "label": "Baazaoui and Iqbal, Alzheimers Res Ther, 2017 (full text, PMC)",
-      "date": "published Jun 2017"
+      "key": "p21",
+      "source": "Baazaoui and Iqbal, Alzheimer’s Research & Therapy",
+      "title": "Prevention of dendritic and synaptic deficits and cognitive impairment with a neurotrophic compound",
+      "date": "Jun 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/"
     },
     {
-      "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11",
-      "label": "21 CFR 1308.11 (Schedule I), eCFR, version of Oct 21, 2026",
-      "date": "accessed Nov 1, 2026"
+      "key": "cat2",
+      "source": "FDA",
+      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
+      "date": "Apr 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
     },
     {
-      "url": "https://www.oregon.gov/oha/ph/preventionwellness/pages/oregon-psilocybin-services.aspx",
-      "label": "Oregon Health Authority, Psilocybin Program page",
-      "date": "accessed Nov 1, 2026"
+      "key": "retraction",
+      "source": "Journal of Pharmacology and Experimental Therapeutics",
+      "title": "Retraction notice for Benoist et al., 2014",
+      "date": "Apr 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/"
     },
     {
-      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html",
-      "label": "Oregon Revised Statutes, chapter 475A (Psilocybin Regulation), 2025 edition",
-      "date": "accessed Nov 1, 2026"
+      "key": "deigin",
+      "source": "Deigin et al., Pharmaceutics",
+      "title": "Review of Russian peptide drugs",
+      "date": "Mar 2022",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/"
     },
     {
-      "url": "https://leg.colorado.gov/sites/default/files/2023a_290_signed.pdf",
-      "label": "Colorado Senate Bill 23-290 (signed act, natural medicine)",
-      "date": "accessed Nov 1, 2026"
+      "key": "vanhee",
+      "source": "Vanhee et al., Journal of Xenobiotics",
+      "title": "Study of nootropic products by official medicines control laboratories",
+      "date": "Jun 2025",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/"
     },
     {
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-restrict-7-oh-opioid-products-threatening-american-consumers",
-      "label": "FDA news release, steps to restrict 7-OH opioid products",
-      "date": "published Jul 2025"
+      "key": "basg",
+      "source": "Austrian Federal Office for Safety in Health Care (BASG)",
+      "title": "Cerebrolysin patient leaflet",
+      "date": "Mar 2021",
+      "url": "https://medikamente.basg.gv.at/documents/1-21380__DOTC_GEBR_INFO.pdf"
     },
     {
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-seizes-7-oh-opioids-protect-american-consumers",
-      "label": "FDA news release, seizure of 7-OH products",
-      "date": "published Dec 2025"
+      "key": "cochrane",
+      "source": "Ziganshina et al., Cochrane Database of Systematic Reviews",
+      "title": "Cerebrolysin for acute ischaemic stroke",
+      "date": "Oct 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37818733/"
     },
     {
-      "url": "https://medikamente.basg.gv.at/documents/1-21380__DOTC_GEBR_INFO.pdf",
-      "label": "Cerebrolysin patient leaflet (Gebrauchsinformation), Austrian medicines agency BASG database",
-      "date": "published Mar 2021"
+      "key": "nootropil",
+      "source": "emc (UK)",
+      "title": "Nootropil 1200 mg film-coated tablets, summary of product characteristics",
+      "date": "Jul 2025",
+      "url": "https://www.medicines.org.uk/emc/product/101131/smpc"
     },
     {
-      "url": "https://www.medicines.org.uk/emc/product/101131/smpc",
-      "label": "Nootropil 1200 mg film-coated tablets, UK SmPC (PL 12762/0688), emc",
-      "date": "revised Jul 2025"
+      "key": "sched1",
+      "source": "eCFR",
+      "title": "21 CFR 1308.11, Schedule I",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/",
-      "label": "Deigin et al., Pharmaceutics, 2022",
-      "date": "published Mar 2022"
+      "key": "oha",
+      "source": "Oregon Health Authority",
+      "title": "Oregon Psilocybin Services",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://www.oregon.gov/oha/ph/preventionwellness/pages/oregon-psilocybin-services.aspx"
     },
     {
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/",
-      "label": "Vanhee et al., J Xenobiot, 2025 (12 official medicines control laboratories, including TGA)",
-      "date": "published Jun 2025"
+      "key": "colorado",
+      "source": "Colorado General Assembly",
+      "title": "Senate Bill 23-290 (Natural Medicine Regulation and Legalization), signed act",
+      "date": "2023",
+      "url": "https://leg.colorado.gov/sites/default/files/2023a_290_signed.pdf"
     },
     {
-      "url": "https://api.ods.od.nih.gov/dsld/v9/search-filter?q=alpha-gpc",
-      "label": "NIH Office of Dietary Supplements, Dietary Supplement Label Database search: alpha-gpc",
-      "date": "accessed Nov 1, 2026"
+      "key": "carhart",
+      "source": "Carhart-Harris et al., New England Journal of Medicine",
+      "title": "Trial of Psilocybin versus Escitalopram for Depression",
+      "date": "Apr 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/"
     },
     {
-      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
-      "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
-      "date": "accessed Nov 1, 2026"
+      "key": "goodwin",
+      "source": "Goodwin et al., New England Journal of Medicine",
+      "title": "Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression",
+      "date": "Nov 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36322843/"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232",
-      "label": "ProvayBlue label, DailyMed",
-      "date": "published Jun 2025"
+      "key": "suppqa",
+      "source": "FDA",
+      "title": "Questions and answers on dietary supplements",
+      "date": "Aug 2026",
+      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
     },
     {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA204630",
-      "label": "openFDA (FDA's Drugs@FDA data), NDA 204630 ProvayBlue",
-      "date": "accessed Nov 1, 2026"
+      "key": "kratom",
+      "source": "FDA",
+      "title": "FDA and Kratom",
+      "date": "Dec 2025",
+      "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d878aed0-ddbf-8fa1-abf7-d3e480260845",
-      "label": "Nuvigil label, DailyMed",
-      "date": "published May 2025"
-    },
-    {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211243",
-      "label": "openFDA (FDA's Drugs@FDA data), NDA 211243 Spravato",
-      "date": "accessed Nov 1, 2026"
-    },
-    {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA016812",
-      "label": "openFDA (FDA's Drugs@FDA data), NDA 016812 Ketalar",
-      "date": "accessed Nov 1, 2026"
+      "key": "seizure",
+      "source": "FDA",
+      "title": "FDA seizes 7-OH opioids to protect American consumers",
+      "date": "Dec 2025",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-seizes-7-oh-opioids-protect-american-consumers"
     }
   ]
 }
