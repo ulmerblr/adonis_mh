@@ -28,19 +28,72 @@
       }
     }
   ],
-  "paragraphs": [
-    "[[/nad|NAD+]] is a coenzyme every cell uses, and it is one of the most-sold longevity treatments. Adonis carries it through Beluga as a compounded injection and a compounded nasal spray; neither is FDA approved. The human evidence for injected NAD+ is small: one pilot study of an IV infusion in 11 healthy men, a chart review of 14 clinic clients, and two randomized trials in China that used a hospital NAD+ injection for heart disease, not aging. We found no published human study of NAD+ nasal spray.",
-    "Its relative has been tested far more. [[/nicotinamide-riboside|Nicotinamide riboside]] (NR), a form of vitamin B3 the body turns into NAD+, has been through many randomized trials by mouth. They show it raises NAD+ in the blood; effects on health have been small, mixed or absent. The largest, NOPARK, gave oral NR or placebo for 52 weeks to 410 people with early Parkinson’s disease in Norway. NR did not help: the disease score worsened 2.72 points more on NR than on placebo, and non-motor symptoms also worsened more. NR is sold as a supplement; no NR injection is FDA approved, and the one Adonis carries is compounded.",
-    "[[/metformin|Metformin]] is the approved drug in the lane, as Glucophage since 1995 and many generics, for type 2 diabetes. Use for aging is off-label. The aging evidence is small trials of aging biology and exercise in older adults; in older adults it reduced some gains from exercise. A large trial called TAME was proposed in 2016, and we found no registry record for it. Its label carries a boxed warning for lactic acidosis.",
-    "Two peptides here have less. FDA’s 2026 review found no published study in which [[/mots-c|MOTS-c]] was given to people; one trial is registered with no results. WADA names it under S4.4.1 and bans it at all times. For [[/epitalon|Epitalon]], FDA found three studies that gave it to people and none that assessed safety; most of the research comes from one St. Petersburg group. Since October 30, 2026, HHS has allowed both to be compounded under set conditions, which is enforcement discretion, not approval. Adonis does not carry either today. [[/ghk-cu|GHK-Cu]] and [[/sermorelin|sermorelin]] also sit in this lane, with no human study measuring longevity.",
-    "[[/glutathione|Glutathione]] raises a quality problem. On August 27, 2026, FDA said it knew of at least 30 patients with adverse events after IV glutathione compounded by different pharmacies from one supplier’s lot, labeled dietary supplement grade; some were hospitalized. FDA had issued a similar warning in 2019, and in October 2026 Greenwich Rx recalled glutathione injections for elevated endotoxin.",
-    "Adonis carries glutathione as a compounded injection and nasal spray; neither is FDA approved. Its human studies are few and small, mostly in Parkinson’s disease, where they did not show a clear benefit over placebo. None measured aging."
+  "summary": [
+    "[[/nad|NAD+]] is a coenzyme every cell uses, and injections and nasal sprays of it are sold for aging. Neither form is FDA approved. The human evidence for injected NAD+ is one pilot infusion study in 11 healthy men, a chart review of 14 clinic clients and two Chinese trials of a hospital NAD+ injection for heart disease, not aging. We found no published human study of NAD+ nasal spray.",
+    "Its relative [[/nicotinamide-riboside|nicotinamide riboside]] (NR), a form of vitamin B3 the body turns into NAD+, has been tested in many randomized trials by mouth. It raises NAD+ in the blood, but effects on health have been small, mixed or absent. The largest, NOPARK, gave NR or placebo for 52 weeks to 410 people with early Parkinson’s disease, and outcomes were worse on NR. NR is sold as a supplement; no NR injection is FDA approved.",
+    "[[/metformin|Metformin]] is approved for type 2 diabetes; use for aging is off-label, and the proposed TAME aging trial has no registry record we could find. [[/mots-c|MOTS-c]] has no published study in people, and WADA bans it at all times. For [[/epitalon|Epitalon]], FDA found three studies that gave it to people. HHS now allows both to be compounded under set conditions, which is not approval. [[/ghk-cu|GHK-Cu]] and [[/sermorelin|sermorelin]] also sit in this lane, with no human study measuring longevity.",
+    "[[/glutathione|Glutathione]] injections raise a quality problem. In August 2026 FDA said at least 30 patients had adverse events after IV glutathione made from supplement-grade ingredient from one supplier, and it had warned about the same risk in 2019. None of these treatments has been shown to slow aging in people."
   ],
   "pull": {
     "quote": "The glutathione was labeled as dietary supplement grade, which is not an appropriate ingredient to make injectable drugs.",
     "cite": "FDA, Aug 27, 2026",
     "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "FDA is aware of reports of at least 30 patients who experienced adverse events following the administration of intravenous (IV) glutathione alone or in combination with other ingredients.",
+      "source": "FDA, reminder to compounders on supplement-grade glutathione",
+      "date": "Aug 27, 2026",
+      "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables"
+    },
+    {
+      "kind": "regulator",
+      "quote": "FDA received a report concerning seven patients who received an injectable drug compounded with L-glutathione and experienced adverse events due to potentially high levels of endotoxins, a substance that may cause unintended health consequences ranging from fever to death.",
+      "source": "FDA, concerns with using dietary ingredient glutathione to compound sterile injectables",
+      "date": "published Jun 2019",
+      "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables"
+    },
+    {
+      "kind": "regulator",
+      "quote": "Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias.",
+      "source": "Metformin hydrochloride tablets label, boxed warning, DailyMed",
+      "date": "published Oct 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0"
+    },
+    {
+      "kind": "regulator",
+      "quote": "FDA did not evaluate the proposed uses: insulin resistance, obesity, osteoporosis, vascular calcification, muscle/fat metabolism, longevity because the nomination did not include sufficient information for the Agency to evaluate whether the substance is appropriate for these uses in compounded drug products. In addition, FDA did not identify clinical studies evaluating these uses of MOTS-c.",
+      "source": "FDA briefing on MOTS-c, Pharmacy Compounding Advisory Committee",
+      "date": "published Jul 2026",
+      "href": "https://www.fda.gov/media/193347/download",
+      "note": "This is FDA’s own briefing to its advisers."
+    },
+    {
+      "kind": "regulator",
+      "quote": "After conducting a literature search, three studies were found in which epitalon was administered to humans.",
+      "source": "FDA briefing on epitalon, Pharmacy Compounding Advisory Committee",
+      "date": "published Jul 2026",
+      "href": "https://www.fda.gov/media/193345/download",
+      "note": "FDA found none that assessed its safety."
+    },
+    {
+      "kind": "trial",
+      "quote": "Among patients with early Parkinson disease, nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo.",
+      "source": "NOPARK trial, JAMA",
+      "date": "published Oct 2026",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/42848371/",
+      "note": "410 people in Norway, NR by mouth."
+    },
+    {
+      "kind": "trial",
+      "quote": "While studies have documented the efficacy of some NAD+ precursors such as nicotinamide riboside (NR) in raising plasma NAD+, no data are currently available on the fate of directly infused NAD+ in a human cohort.",
+      "source": "Grant et al., Front Aging Neurosci",
+      "date": "published Sep 2019",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/31572171/",
+      "note": "This was the background to their 11-man pilot study of IV NAD+."
+    }
+  ],
   "sources": [
     {
       "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/",

@@ -27,8 +27,6 @@ export type LaneStory = {
   byline: string;
   summary: string[];
   excerpts: Excerpt[];
-  /** Before EDU PROMPT 21 (a lane not yet rebuilt): the old six-paragraph body. Removed once all nine are rebuilt. */
-  paragraphs?: string[];
   glance: GlanceRow[];
   pull: { quote: string; cite: string; href: string };
   sources: { url: string; label: string; date: string }[];
