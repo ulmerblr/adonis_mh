@@ -32,19 +32,71 @@
       }
     }
   ],
-  "paragraphs": [
-    "[[/spironolactone|Spironolactone]] was approved as Aldactone in 1960 for heart failure, high blood pressure, fluid build-up and a hormone disorder called primary hyperaldosteronism. Acne is not an approved use. It also blocks the androgen, or male hormone, receptor, which is why it is prescribed off-label for acne in adult women.",
-    "Both randomized acne trials enrolled only women: SAFA in England and Wales, with 410 women against placebo, and FASCE in France, with 133 women against doxycycline. Neither tells us how it works or how safe it is in men. The FDA label does: in men, spironolactone can cause breast growth, lower libido and trouble getting or keeping an erection, and it can raise blood potassium to dangerous levels. WADA bans it at all times as a diuretic and masking agent.",
-    "The second borrowing is a hormone. [[/estriol|Estriol]] is an estrogen, one of the female sex hormones the body makes. In some European countries it is a prescription vaginal cream for postmenopausal women. Adonis’s catalog lists it in two face creams, one with tretinoin and one with niacinamide and GHK-Cu; whether they are compounded or approved products is still being confirmed. There is no FDA-approved estriol product in the US, so a compounded one would not be FDA approved either. The skin evidence is two small 1990s studies from one Vienna group, in 18 and 59 women around menopause, with no placebo group. We found no study of estriol on men’s skin.",
-    "For contrast, two treatments in this lane went through FDA approval for skin conditions. [[/tretinoin|Tretinoin]] was first approved as Retin-A in 1971 for acne, and later as Renova for fine facial wrinkles. [[/azelaic-acid|Azelaic acid]] is approved as Azelex 20% cream for acne (1995) and as Finacea 15% gel (2002) and foam (2015) for rosacea, on randomized, vehicle-controlled trials. [[/doxycycline|Doxycycline]] is an approved antibiotic, and Oracea 40 mg was approved in 2006 for the bumps of rosacea. The compounded azelaic acid and niacinamide cream Adonis carries is not FDA approved, and [[/niacinamide|niacinamide]] has no FDA drug approval for any skin use.",
-    "The lane’s one peptide has the least behind it. [[/ghk-cu|GHK-Cu]], a copper peptide, is not FDA approved for any use. Its only randomized human study, published in 2006, followed 13 patients after laser resurfacing around the mouth. It found no significant difference between groups in redness, wrinkles or overall skin quality on objective measures, though patients using GHK-Cu rated their improvement higher on a questionnaire.",
-    "None of this tells a man whether a treatment will work for him. It shows where the evidence was gathered: in women for spironolactone and estriol, in approval trials for tretinoin and azelaic acid, and in 13 people for GHK-Cu."
+  "summary": [
+    "[[/spironolactone|Spironolactone]] was approved as Aldactone in 1960 for heart failure, high blood pressure and fluid build-up. Acne is not an approved use. Because it also blocks the male hormone receptor, it is prescribed off-label for acne in adult women, and both randomized acne trials, SAFA (410 women) and FASCE (133 women), enrolled only women. In men, the label says it can cause breast growth, lower libido and trouble with erections, and WADA bans it at all times as a diuretic.",
+    "[[/estriol|Estriol]] is an estrogen, one of the female hormones the body makes. In some European countries it is a prescription vaginal cream for postmenopausal women. FDA says there are no FDA-approved drugs containing estriol; marketed estriol drugs are compounded. Its skin evidence is two small 1990s studies, in 18 and 59 women around menopause, with no placebo group. We found no study of estriol on men’s skin.",
+    "For contrast, some skin treatments went through FDA approval. [[/tretinoin|Tretinoin]] was approved as Retin-A in 1971 for acne. [[/azelaic-acid|Azelaic acid]] is approved as Azelex for acne and Finacea for rosacea. [[/doxycycline|Doxycycline]] is an approved antibiotic, and Oracea was approved in 2006 for the bumps of rosacea. [[/niacinamide|Niacinamide]] has no FDA drug approval for any skin use. Compounded creams that combine these ingredients are not FDA approved.",
+    "The copper peptide [[/ghk-cu|GHK-Cu]] has the least behind it: it is not FDA approved for any use, and its only randomized human study, of 13 patients after laser resurfacing, found no measured difference in redness, wrinkles or skin quality. Whether estriol or spironolactone is safe on men’s skin over time is not known."
   ],
   "pull": {
     "quote": "FDA does not have evidence that drugs containing estriol are safe and effective, or are “safer forms of estrogen.”",
     "cite": "FDA, Menopause (women’s health topics)",
     "href": "https://www.fda.gov/consumers/womens-health-topics/menopause"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "There are no FDA-approved drugs containing estriol. Marketed drugs that contain estriol are compounded drugs, which are not FDA-approved.",
+      "source": "FDA, Menopause (women’s health topics)",
+      "date": "published Dec 2023",
+      "href": "https://www.fda.gov/consumers/womens-health-topics/menopause"
+    },
+    {
+      "kind": "regulator",
+      "quote": "ALDACTONE can cause gynecomastia. In RALES, patients with heart failure treated with a mean dose of 26 mg of spironolactone once daily, about 9% of the male subjects developed gynecomastia. The risk of gynecomastia increases in a dose-dependent manner with an onset that varies widely from 1–2 months to over a year. Gynecomastia is usually reversible.",
+      "source": "Aldactone (spironolactone) label, section 5.4, DailyMed",
+      "date": "published Nov 2025",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
+      "note": "Gynecomastia is breast growth in men."
+    },
+    {
+      "kind": "regulator",
+      "quote": "Reproductive: Decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast and nipple pain.",
+      "source": "Aldactone (spironolactone) label, adverse reactions, DailyMed",
+      "date": "published Nov 2025",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc"
+    },
+    {
+      "kind": "regulator",
+      "quote": "All diuretics and masking agents, including all optical isomers, e.g. d- and l- where relevant, are prohibited. Including, but not limited to: • Diuretics such as: Acetazolamide; amiloride; bumetanide; canrenone; chlortalidone; etacrynic acid; furosemide; indapamide; metolazone; spironolactone",
+      "source": "WADA 2026 Prohibited List, class S5",
+      "date": "published Sep 2025",
+      "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
+    },
+    {
+      "kind": "regulator",
+      "quote": "RETIN-A is indicated for topical application in the treatment of acne vulgaris.",
+      "source": "Retin-A (tretinoin) label, DailyMed",
+      "date": "published May 2024",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9556d73d-c573-4e0a-9feb-764ce2d1107b"
+    },
+    {
+      "kind": "trial",
+      "quote": "Spironolactone improved outcomes compared with placebo, with greater differences at week 24 than week 12. Spironolactone is a useful alternative to oral antibiotics for women with acne.",
+      "source": "Santer et al., BMJ (SAFA)",
+      "date": "published May 2023",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/37192767/",
+      "note": "All 410 people in the trial were women."
+    },
+    {
+      "kind": "trial",
+      "quote": "Objective evaluation found no significant improvement in wrinkles or overall skin quality. However, patient satisfaction was significantly higher for those who used GHK-Cu skin care products after CO(2) laser skin resurfacing.",
+      "source": "Miller et al., Arch Facial Plast Surg",
+      "date": "published Jul 2006",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+      "note": "13 patients finished. This is GHK-Cu’s only randomized human study."
+    }
+  ],
   "sources": [
     {
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc",
