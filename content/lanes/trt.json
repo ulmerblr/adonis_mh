@@ -7,200 +7,177 @@
   "dek": "FDA dropped the heart-risk boxed warning in 2025 and added a blood pressure warning.",
   "photoAlt": "Illustration for the TRT lane.",
   "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
-  "glance": [
-    {
-      "icon": "calendar",
-      "label": "Label change, 2025",
-      "line": "Heart-risk boxed warning language removed; blood pressure warning added.",
-      "src": {
-        "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
-        "label": "FDA class-wide labeling changes for testosterone, Feb 28, 2025"
-      }
-    },
-    {
-      "icon": "people",
-      "label": "Fertility",
-      "line": "Testosterone can suppress sperm production, the labels say."
-    },
-    {
-      "icon": "banned",
-      "label": "Banned in sport",
-      "line": "Testosterone, anastrozole and hCG (males) are named on WADA’s list; enclomiphene falls in a banned class.",
-      "src": {
-        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-        "label": "WADA 2026 Prohibited List (S1; S4.1; S2.2.1; S4.2)"
-      }
-    }
-  ],
-  "summary": [
-    "On February 28, 2025, FDA told the makers of every [[/testosterone|testosterone]] product to change their labels: add the results of TRAVERSE, a heart-safety trial of 5,246 men aged 45 to 80; remove Boxed Warning language about a higher risk of heart outcomes; and add or update warnings that testosterone can raise blood pressure. In TRAVERSE, heart attack, stroke or heart death occurred in 7.0% of men on testosterone and 7.3% on placebo. Atrial fibrillation, acute kidney injury and pulmonary embolism were more common on testosterone, and a sub-study found more fractures (3.50% vs 2.46%).",
-    "Other parts of the label did not change. Safety and effectiveness in men whose testosterone is low only because of age have not been established, so that use is off-label. Testosterone stays a Schedule III controlled substance. The labels say large doses can suppress sperm production, and in a 1990 World Health Organization study of weekly injections, 157 of 271 men stopped producing sperm. Compounded testosterone creams and sprays are not FDA approved.",
-    "Three other drugs come up alongside testosterone. [[/enclomiphene|Enclomiphene]] is not approved anywhere we checked: the EU refused it in 2018, and an FDA advisory committee voted 8 to 4 in 2022 against adding it to the list pharmacies may compound from. [[/anastrozole|Anastrozole]] is approved only for breast cancer in postmenopausal women; use in men is off-label, and in a one-year trial of 88 older men spine bone density fell on it. [[/hcg|hCG]] is approved for a few uses; taking it with testosterone is off-label, and since March 23, 2020 it has been regulated as a biologic.",
-    "Much is still unknown. TRAVERSE was built to test heart safety, not whether testosterone helps symptoms. The enclomiphene trials measured hormones and sperm, not symptoms. We found no large trial of hCG given with testosterone, only studies of 29 and 26 men, and no long trial of anastrozole’s effects in men beyond one year."
-  ],
   "pull": {
-    "quote": "removing language from the Boxed Warning related to an increased risk of adverse cardiovascular outcomes for all testosterone products.",
-    "cite": "FDA, class-wide labeling changes, Feb 28, 2025",
-    "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products"
+    "quote": "is approved solely for use in men who lack or have low testosterone levels in conjunction with an associated medical condition.",
+    "note": "fda25"
   },
-  "excerpts": [
-    {
-      "kind": "regulator",
-      "quote": "Results from the completed ABPM studies confirmed an increase in blood pressure with use of all testosterone products, class-wide.",
-      "source": "FDA, class-wide labeling changes for testosterone products",
-      "date": "Feb 28, 2025",
-      "href": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
-      "note": "ABPM means ambulatory blood pressure monitoring: blood pressure measured around the clock."
-    },
-    {
-      "kind": "regulator",
-      "quote": "Limitations of use: Safety and efficacy of AndroGel 1.62% in men with “age-related hypogonadism” (also referred to as “late-onset hypogonadism”) have not been established.",
-      "source": "AndroGel 1.62% label, DailyMed",
-      "date": "published Nov 2025",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee"
-    },
-    {
-      "kind": "regulator",
-      "quote": "With large doses of exogenous androgens, including AndroGel 1.62%, spermatogenesis may be suppressed through feedback inhibition of pituitary FSH possibly leading to adverse effects on semen parameters including sperm count.",
-      "note": "Spermatogenesis is sperm production.",
-      "source": "AndroGel 1.62% label, DailyMed",
-      "date": "published Nov 2025",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee"
-    },
-    {
-      "kind": "regulator",
-      "quote": "The CHMP noted that although the studies showed an increase in testosterone levels with EnCyzix, they did not look at whether EnCyzix would improve symptoms such as bone strength, weight gain, impotence and libido. In addition, there is a risk of venous thromboembolism (problems due to the formation of blood clots in the veins) with the medicine.",
-      "source": "EMA, questions and answers on the refusal of EnCyzix (enclomifene)",
-      "date": "published Jan 2018",
-      "href": "https://www.ema.europa.eu/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-encyzix-enclomifene_en.pdf",
-      "note": "EnCyzix was the enclomiphene product the EU refused."
-    },
-    {
-      "kind": "regulator",
-      "quote": "ARIMIDEX is indicated for adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer.",
-      "source": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "note": "Every approved use on the label is in postmenopausal women."
-    },
-    {
-      "kind": "regulator",
-      "quote": "Outsourcing facilities have recently reported using four bulk drug substances that are affected by the transition: human chorionic gonadotropin, hyaluronidase, follicle stimulating hormone (FSH or urofollitropin) and menotropins.",
-      "source": "FDA, Notice to compounders: changes that affect compounding on March 23, 2020",
-      "date": "published Mar 2020",
-      "href": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020",
-      "note": "The transition is hCG’s move to regulation as a biologic."
-    },
-    {
-      "kind": "trial",
-      "quote": "In men with hypogonadism and preexisting or a high risk of cardiovascular disease, testosterone-replacement therapy was noninferior to placebo with respect to the incidence of major adverse cardiac events.",
-      "source": "Lincoff et al., NEJM (TRAVERSE)",
-      "date": "published Jul 2023",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/37326322/"
-    },
-    {
-      "kind": "trial",
-      "quote": "Among middle-aged and older men with hypogonadism, testosterone treatment did not result in a lower incidence of clinical fracture than placebo. The fracture incidence was numerically higher among men who received testosterone than among those who received placebo.",
-      "source": "Snyder et al., NEJM (TRAVERSE fracture sub-study)",
-      "date": "published Jan 2024",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/38231621/"
-    }
+  "body": [
+    "On February 28, 2025, FDA told the makers of every [[/testosterone|testosterone]] product in the United States to rewrite their labels.[^fda25] The agency had finished reviewing a large heart-safety trial called TRAVERSE, along with blood pressure studies it had required years earlier. It asked companies to add the trial’s results to every label and to begin “removing language from the Boxed Warning related to an increased risk of adverse cardiovascular outcomes for all testosterone products.”[^fda25] In the same notice, FDA required new or updated blood pressure warnings, because the completed studies “confirmed an increase in blood pressure with use of all testosterone products, class-wide.”[^fda25]",
+    "The label change did not turn testosterone into a general wellness drug. FDA’s notice says testosterone “is approved solely for use in men who lack or have low testosterone levels in conjunction with an associated medical condition.”[^fda25] The approved forms now include gels, a skin patch, a system that sticks to the gum, injections and capsules taken by mouth.[^fda25] Testosterone undecanoate, one of those forms, was approved as the Aveed injection in 2014 and as the Jatenzo capsule in 2019.[^aveed][^jatenzo]",
+    "TRAVERSE was the evidence behind the change. It enrolled 5,246 men aged 45 to 80 who had heart disease or a high risk of it, symptoms of low testosterone and two low blood tests, and gave them a daily testosterone gel or a placebo gel.[^traverse] Heart attack, stroke or death from heart causes occurred in 7.0% of the men on testosterone and 7.3% on placebo.[^traverse] The authors concluded that testosterone “was noninferior to placebo with respect to the incidence of major adverse cardiac events.”[^traverse] Noninferior means it was not worse by a set margin; the trial was built to test heart safety, not whether testosterone helps symptoms.",
+    "Other problems did show up. The AndroGel 1.62% label now reports that in TRAVERSE, atrial fibrillation occurred in 3.5% of men on testosterone and 2.4% on placebo, and acute kidney injury in 2.3% and 1.5%.[^androgel] A separate analysis of 5,204 of the same men looked at broken bones. Fractures occurred in 3.50% of the testosterone group and 2.46% of the placebo group, and the researchers wrote that testosterone “did not result in a lower incidence of clinical fracture than placebo.”[^fracture]",
+    "Some parts of the label did not change at all. FDA kept its “Limitation of Use”[^fda25] language on aging. The AndroGel label says that safety and efficacy in men whose testosterone is low only because of age “have not been established,”[^androgel] so that use is off-label. Testosterone remains a Schedule III controlled substance under federal law.[^dea] Compounded creams and sprays are not FDA approved; FDA does not review compounded drugs for safety, effectiveness or quality before they are sold.[^compq]",
+    "Fertility is where many men first run into trouble. The label warns that with large doses, “spermatogenesis may be suppressed through feedback inhibition of pituitary FSH,”[^androgel] which can lower sperm count. The clearest measure of that effect comes from a 1990 World Health Organization study that tested weekly testosterone injections as a male contraceptive. Of 271 healthy, fertile men in ten centres across seven countries, 157 stopped producing sperm in three semen samples in a row.[^who]",
+    "That is why three other drugs come up so often around testosterone. The first, [[/enclomiphene|enclomiphene]], is not approved by any regulator we checked. The European Medicines Agency refused it in 2018. Its committee noted that the studies “did not look at whether EnCyzix would improve symptoms such as bone strength, weight gain, impotence and libido.”[^emaqa] The agency’s assessment counted four blood-clot events in men taking it, one of them a fatal ischaemic stroke.[^emaar] In June 2022, FDA’s compounding advisory committee voted 8 to 4 against putting enclomiphene on the list of substances pharmacies may compound from.[^pcac22] It remains in FDA’s category of nominated substances still under evaluation.[^cat1]",
+    "The second, [[/anastrozole|anastrozole]], lowers estrogen. Its label is narrow: “ARIMIDEX is indicated for adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer.”[^arimidex] Every approved use is in women, so use in men is off-label. In a one-year randomized trial in older men with low or borderline testosterone, spine bone density fell on anastrozole compared with placebo.[^burnett]",
+    "The third is [[/hcg|hCG]], a hormone that acts much like the pituitary signal to the testes. Its label lists undescended testes in boys, some cases of low testosterone from a pituitary problem, and ovulation in women.[^novarel] Taking it alongside testosterone is off-label, and the studies of that use are small: a three-week trial in healthy men that measured testosterone inside the testis,[^coviello] and a review of the records of 26 men.[^hsieh] Since March 23, 2020, hCG has been regulated as a biologic, and FDA says such products “are not eligible for the exemptions for compounded drugs under sections 503A and 503B of the FD&C Act.”[^notice]",
+    "Two more groups of products sit near this lane. [[/clomiphene|Clomiphene]], the older fertility drug that contains enclomiphene, is indicated “for the treatment of ovulatory dysfunction in women desiring pregnancy,”[^clomid] and its use in men is off-label. Then there are the SARMs, such as [[/enobosarm|enobosarm]], [[/rad-140|RAD-140]] and [[/lgd-4033|LGD-4033]], which are often sold online. FDA says SARMs “are considered unapproved drugs,”[^sarms] and that they “cannot be legally marketed in the U.S. as a dietary supplement or drug at this time.”[^sarms]",
+    "Much is still unknown. TRAVERSE did not test whether testosterone improves energy, mood or sex drive, and no large trial has tested hCG given with testosterone. The enclomiphene trials measured hormones and sperm, not symptoms. For athletes the answer is simpler: testosterone is on the World Anti-Doping Agency’s list, banned at all times.[^wada]"
   ],
-  "sources": [
+  "notes": [
     {
-      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
-      "label": "FDA class-wide labeling changes for testosterone",
-      "date": "published Feb 2025"
+      "key": "fda25",
+      "source": "FDA",
+      "title": "FDA issues class-wide labeling changes for testosterone products",
+      "date": "Feb 28, 2025",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/",
-      "label": "Lincoff et al., NEJM, 2023 (TRAVERSE)",
-      "date": "published Jul 2023"
+      "key": "aveed",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Aveed, NDA 022219",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022219"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38231621/",
-      "label": "Snyder et al., NEJM, 2024",
-      "date": "published Jan 2024"
+      "key": "jatenzo",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Jatenzo, NDA 206089",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA206089"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee",
-      "label": "AndroGel 1.62% label, DailyMed",
-      "date": "published Nov 2025"
+      "key": "traverse",
+      "source": "Lincoff et al., New England Journal of Medicine",
+      "title": "Cardiovascular Safety of Testosterone-Replacement Therapy",
+      "date": "Jul 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39",
-      "label": "Depo-Testosterone label, DailyMed",
-      "date": "published Aug 2026"
+      "key": "androgel",
+      "source": "DailyMed",
+      "title": "AndroGel 1.62% (testosterone gel) prescribing information",
+      "date": "Nov 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee"
     },
     {
-      "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
-      "label": "DEA, controlled substances list",
-      "date": "published Oct 2026"
+      "key": "fracture",
+      "source": "Snyder et al., New England Journal of Medicine",
+      "title": "Testosterone Treatment and Fractures in Men with Hypogonadism",
+      "date": "Jan 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38231621/"
     },
     {
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
-      "label": "FDA, Compounding and the FDA: Q&A",
-      "date": "published Sep 2025"
+      "key": "dea",
+      "source": "DEA",
+      "title": "Controlled substances, alphabetical order",
+      "date": "Oct 2026",
+      "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/",
-      "label": "WHO Task Force, Lancet, 1990",
-      "date": "published Oct 1990"
+      "key": "compq",
+      "source": "FDA",
+      "title": "Compounding and the FDA: Questions and Answers",
+      "date": "Sep 2025",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
     },
     {
-      "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf",
-      "label": "EMA, EnCyzix refusal assessment report (EMA/88321/2018)",
-      "date": "published Apr 2018"
+      "key": "who",
+      "source": "World Health Organization Task Force, The Lancet",
+      "title": "Contraceptive efficacy of testosterone-induced azoospermia in normal men",
+      "date": "Oct 1990",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/"
     },
     {
-      "url": "https://www.fda.gov/media/158541/download",
-      "label": "FDA briefing, Pharmacy Compounding Advisory Committee, June 8, 2022",
-      "date": "published May 2022"
+      "key": "emaqa",
+      "source": "European Medicines Agency",
+      "title": "Questions and answers on the refusal of the marketing authorisation for EnCyzix (enclomifene)",
+      "date": "Jan 2018",
+      "url": "https://www.ema.europa.eu/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-encyzix-enclomifene_en.pdf"
     },
     {
-      "url": "https://www.fda.gov/media/94155/download",
-      "label": "FDA, Bulk drug substances nominated under section 503A (categories)",
-      "date": "published May 2026"
+      "key": "emaar",
+      "source": "European Medicines Agency",
+      "title": "EnCyzix: refusal assessment report (EMA/88321/2018)",
+      "date": "Apr 2018",
+      "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de",
-      "label": "Arimidex (anastrozole) label, DailyMed",
-      "date": "published Mar 2026"
+      "key": "pcac22",
+      "source": "FDA",
+      "title": "Pharmacy Compounding Advisory Committee meeting minutes, June 8, 2022",
+      "date": "Aug 2022",
+      "url": "https://www.fda.gov/media/161293/download"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/",
-      "label": "Burnett-Bowie et al., J Clin Endocrinol Metab",
-      "date": "published Dec 2009"
+      "key": "cat1",
+      "source": "FDA",
+      "title": "Bulk drug substances nominated for use in compounding under section 503A (categories)",
+      "date": "May 2026",
+      "url": "https://www.fda.gov/media/94155/download"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
-      "label": "Novarel label, DailyMed",
-      "date": "published Sep 2025"
+      "key": "arimidex",
+      "source": "DailyMed",
+      "title": "Arimidex (anastrozole) prescribing information",
+      "date": "Mar 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/15713727/",
-      "label": "Coviello et al., J Clin Endocrinol Metab, 2005",
-      "date": "published May 2005"
+      "key": "burnett",
+      "source": "Burnett-Bowie et al., Journal of Clinical Endocrinology & Metabolism",
+      "title": "Effects of aromatase inhibition on bone mineral density and bone turnover in older men with low testosterone levels",
+      "date": "Dec 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/23260550/",
-      "label": "Hsieh et al., J Urol, 2013",
-      "date": "published Feb 2013"
+      "key": "novarel",
+      "source": "DailyMed",
+      "title": "Novarel (chorionic gonadotropin) prescribing information",
+      "date": "Sep 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8"
     },
     {
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020",
-      "label": "FDA Notice to Compounders, March 2020",
-      "date": "published Mar 2020"
+      "key": "coviello",
+      "source": "Coviello et al., Journal of Clinical Endocrinology & Metabolism",
+      "title": "Low-dose human chorionic gonadotropin maintains intratesticular testosterone in normal men with testosterone-induced gonadotropin suppression",
+      "date": "May 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15713727/"
     },
     {
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-      "label": "WADA Prohibited List 2026",
-      "date": "published Sep 2025"
+      "key": "hsieh",
+      "source": "Hsieh et al., Journal of Urology",
+      "title": "Concomitant intramuscular human chorionic gonadotropin preserves spermatogenesis in men undergoing testosterone replacement therapy",
+      "date": "Feb 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23260550/"
     },
     {
-      "url": "https://www.ema.europa.eu/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-encyzix-enclomifene_en.pdf",
-      "label": "EMA, questions and answers on the refusal of EnCyzix (enclomifene)",
-      "date": "published Jan 2018"
+      "key": "notice",
+      "source": "FDA",
+      "title": "Notice to compounders: changes that affect compounding on March 23, 2020",
+      "date": "Mar 2020",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020"
+    },
+    {
+      "key": "clomid",
+      "source": "DailyMed",
+      "title": "Clomid (clomiphene citrate) prescribing information",
+      "date": "Feb 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ca373c1-4dba-4126-8616-5c533d606fe5"
+    },
+    {
+      "key": "sarms",
+      "source": "FDA",
+      "title": "FDA warns of use of selective androgen receptor modulators (SARMs) among teens, young adults",
+      "date": "Apr 2023",
+      "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults"
+    },
+    {
+      "key": "wada",
+      "source": "World Anti-Doping Agency",
+      "title": "The 2026 Prohibited List",
+      "date": "Sep 2025",
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
     }
   ]
 }

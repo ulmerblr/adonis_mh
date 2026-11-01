@@ -665,3 +665,16 @@ span.tone-none { background: #d9d0bd; }
 
 /* EDU PROMPT 22: long treatment names ("Testosterone undecanoate is here") wrap on phones instead of running off the screen. */
 @media (max-width: 600px) { .hereFlag { white-space: normal; width: max-content; max-width: 12em; } }
+
+/* EDU PROMPT 24: footnotes and the Notes list at the end of each lane article. */
+.fnRef { font-size: 0.7em; line-height: 0; vertical-align: super; margin-left: 1px; }
+.fnRef a { color: var(--navy); font-weight: 800; text-decoration: none; padding: 0 2px; }
+.fnRef a:hover, .fnRef a:focus-visible { text-decoration: underline; }
+.notes { margin-top: 28px; padding-top: 12px; border-top: 4px solid var(--ink); }
+.notesHead { font-family: var(--anton); font-weight: 400; text-transform: uppercase; color: var(--navy); font-size: 22px; line-height: 1.05; margin: 0 0 8px; }
+.notesList { margin: 0; padding-left: 1.6em; font-size: 14px; line-height: 1.5; color: var(--soft); overflow-wrap: anywhere; }
+.notesList li { margin: 0 0 6px; scroll-margin-top: 80px; }
+.notesList li:target { background: var(--sand); }
+.notesList a { color: var(--ink); }
+.fnBack { margin-left: 4px; text-decoration: none; font-weight: 800; color: var(--navy) !important; }
+.spreadText sup[id] { scroll-margin-top: 80px; }

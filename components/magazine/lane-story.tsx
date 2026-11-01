@@ -2,6 +2,7 @@ import { A } from '@/components/ext';
 import { InThisIssue } from './in-this-issue';
 import { StandardsCard } from './standards';
 import { StoryArticle, StoryPhoto, lanePhoto, linkify } from './story';
+import { StoryArticleNotes } from './article';
 import { UpdatesCard } from './updates';
 import { issueEntries } from '@/content/home/in-this-issue';
 import { STORIES } from '@/content/lanes';
@@ -19,7 +20,11 @@ export function LaneSpread({ lane, laneMark = false }: { lane: LaneKey; laneMark
       <div className="wrap spread2">
         <StoryPhoto photo={lanePhoto(lane, st.photoAlt, photo)} headline={st.headline} dek={st.dek} />
         <InThisIssue entries={issueEntries(lane)} laneMark={laneMark} />
-        <StoryArticle byline={st.byline} glance={st.glance} paragraphs={st.summary.map((p) => linkify(p))} pull={st.pull} record={st.excerpts} />
+        {st.body && st.notes ? (
+          <StoryArticleNotes lane={lane} byline={st.byline} body={st.body} notes={st.notes} glance={st.glance} pull={st.pull} />
+        ) : (
+          <StoryArticle byline={st.byline} glance={st.glance ?? []} paragraphs={(st.summary ?? []).map((p) => linkify(p))} pull={st.pull as { quote: string; cite: string; href: string }} record={st.excerpts} />
+        )}
         <aside className="spreadSide">
           <UpdatesCard />
           <StandardsCard />
@@ -31,12 +36,13 @@ export function LaneSpread({ lane, laneMark = false }: { lane: LaneKey; laneMark
 
 /** The story's Sources list (dated). */
 export function LaneSources({ lane }: { lane: LaneKey }) {
+  if (STORIES[lane].notes) return null; // EDU PROMPT 24: the article's Notes replace Sources.
   return (
     <section className="section" id="sources">
       <div className="wrap">
         <div className="secHead"><h2 className="h2">Sources</h2></div>
         <ol className="sources">
-          {STORIES[lane].sources.map((s) => <li key={s.url + s.label}><span><A href={s.url}>{s.label}</A>, {s.date}</span></li>)}
+          {(STORIES[lane].sources ?? []).map((s) => <li key={s.url + s.label}><span><A href={s.url}>{s.label}</A>, {s.date}</span></li>)}
         </ol>
       </div>
     </section>

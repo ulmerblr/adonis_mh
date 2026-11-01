@@ -55,17 +55,7 @@ export function StoryArticle({ byline, glance, paragraphs, pull, record }: {
     <article className="spreadArticle">
       <p className="spreadByline">{byline}</p>
       <div className="spreadText">
-        <aside className="atGlance" aria-label="At a glance">
-          <p className="glanceHead">At a glance</p>
-          <ul>
-            {glance.map((g) => (
-              <li key={g.label}>
-                <span className="glanceIcon">{ICONS[g.icon]()}</span>
-                <span><span className="glanceLabel">{g.label}</span><span className="glanceLine">{g.line}</span>{g.src ? <span className="glanceLine">Source: <A href={g.src.href}>{g.src.label}</A></span> : null}</span>
-              </li>
-            ))}
-          </ul>
-        </aside>
+        <GlanceBox glance={glance} />
         {paragraphs.map((p, i) => <p key={i} className={i === 0 ? 'spreadDrop' : undefined}>{p}</p>)}
         <figure className="spreadPull">
           <blockquote>{`“${pull.quote}”`}</blockquote>
@@ -85,6 +75,22 @@ export function StoryArticle({ byline, glance, paragraphs, pull, record }: {
         </section>
       ) : null}
     </article>
+  );
+}
+
+export function GlanceBox({ glance }: { glance: GlanceRow[] }) {
+  return (
+    <aside className="atGlance" aria-label="At a glance">
+      <p className="glanceHead">At a glance</p>
+      <ul>
+        {glance.map((g) => (
+          <li key={g.label}>
+            <span className="glanceIcon">{ICONS[g.icon]()}</span>
+            <span><span className="glanceLabel">{g.label}</span><span className="glanceLine">{g.line}</span>{g.src ? <span className="glanceLine">Source: <A href={g.src.href}>{g.src.label}</A></span> : null}</span>
+          </li>
+        ))}
+      </ul>
+    </aside>
   );
 }
 
