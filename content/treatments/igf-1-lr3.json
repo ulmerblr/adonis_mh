@@ -1,0 +1,512 @@
+{
+  "slug": "igf-1-lr3",
+  "name": "IGF-1 LR3",
+  "row": "IGF-1 LR3",
+  "aka": [
+    "Long R3 IGF-1",
+    "LR3-IGF-1",
+    "Long R3 IGF-I",
+    "Long-R3-IGF-I",
+    "Long arginine 3 IGF-I"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "No human studies",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat, pig, sheep and cell studies since the 1990s",
+      "status": "done"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; never in trials",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved (Increlex is a different drug)",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "IGF-1 LR3 (Long R3 IGF-I) is a man-made version of human insulin-like growth factor 1 (IGF-1). It has an extra chain of amino acids added at the start, and the third amino acid is changed from glutamate to arginine (the “R3”).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8371075/",
+            "label": "Tomas FM, et al. J Endocrinol 1993",
+            "date": "published Jun 1993"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "These changes make it bind about 1,000 times less strongly to the IGF binding proteins that normally hold IGF-1 in the blood. In rats it was cleared from the blood faster than IGF-1, yet it was about six times more potent at increasing growth.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7683526/",
+            "label": "Ballard FJ, et al. Growth Regul 1993",
+            "date": "published Mar 1993"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is used mainly in cell culture and animal research. It is not the same as mecasermin (Increlex), the FDA-approved IGF-1 medicine, which has the same 70-amino-acid sequence as the body’s own IGF-1.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=IGF-1%20LR3",
+            "label": "PubMed search for 'IGF-1 LR3'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+            "label": "Increlex (mecasermin) label, DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "IGF-1 LR3 has never been tested in a published human study."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No published human studies found as of November 1, 2026. All research on IGF-1 LR3 is in animals and cells. A 2026 review of growth-hormone-related peptides found no peer-reviewed human studies."
+      },
+      {
+        "t": "p",
+        "text": "No published human studies found as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=IGF-1%20LR3",
+            "label": "PubMed search for 'IGF-1 LR3'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=IGF-1%20LR3",
+            "label": "ClinicalTrials.gov search for 'IGF-1 LR3'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The PubMed search found 44 papers. The ones indexed as human research were lab, cell or review papers; none gave IGF-1 LR3 to people. ClinicalTrials.gov returned no records.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=IGF-1%20LR3",
+            "label": "PubMed search for 'IGF-1 LR3'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=IGF-1%20LR3",
+            "label": "ClinicalTrials.gov search for 'IGF-1 LR3'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+            "label": "Dominikowski A, et al. Front Endocrinol 2026 (review)",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "study",
+        "meta": "Rats · 1993 · Animal study",
+        "title": "Growth in normal female rats, 1993",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study comparing IGF-1 and IGF-1 LR3 given by pump under the skin"
+          },
+          {
+            "k": "Animals",
+            "v": "growing female rats"
+          },
+          {
+            "k": "Length",
+            "v": "14 days"
+          },
+          {
+            "k": "Measured",
+            "v": "weight gain, nitrogen retention, food efficiency and organ weights"
+          }
+        ],
+        "found": "Both raised weight gain and nitrogen retention. IGF-1 LR3 did so at a much lower dose than IGF-1.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8371075/",
+            "label": "Tomas FM, et al. J Endocrinol 1993",
+            "date": "published Jun 1993"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Sheep · 2025 · Animal study",
+        "title": "Growth-restricted fetal sheep, 2025",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "controlled animal study, IGF-1 LR3 or vehicle infused into the fetus"
+          },
+          {
+            "k": "Animals",
+            "v": "14 growth-restricted sheep fetuses late in pregnancy (7 per group)"
+          },
+          {
+            "k": "Length",
+            "v": "1 week"
+          },
+          {
+            "k": "Measured",
+            "v": "fetal weight, insulin, glucose and amino acids"
+          }
+        ],
+        "found": "IGF-1 LR3 did not improve fetal growth. Blood amino acids fell.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39679943/",
+            "label": "White A, et al. Am J Physiol Endocrinol Metab 2025",
+            "date": "published Jan 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Doping-control report"
+      },
+      {
+        "t": "p",
+        "text": "In 2010, a doping lab analyzed an injection vial from the black market and found IGF-1 LR3 with a laboratory purification tag (a His-tag) still attached. The authors said the effects of this tagged form in humans have never been described and the product was likely a by-product of lab research.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20675162/",
+            "label": "Kohler M, et al. Growth Horm IGF Res 2010",
+            "date": "published Oct 2010"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "IGF-1 LR3 is not FDA approved for any use. It is sold online as a “research compound.” FDA does not allow unapproved drugs labelled for research to be sold for human use. The approved IGF-1 drug, mecasermin (Increlex), is a different product. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none for IGF-1 LR3. It does not appear on FDA’s 503A nomination category lists or its Category 2 safety-risk page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "a 2026 review lists IGF-1 LR3 among peptides marketed as “research compounds” and used without regulatory approval.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+                "label": "Dominikowski A, et al. Front Endocrinol 2026 (review)",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "FDA on research labels:",
+            "text": "FDA has said that companies selling unapproved drugs “falsely labeled ‘for research purposes’ or ‘not for human consumption’” have sold them illegally, when the products are sold to consumers for human use. FDA made this statement about GLP-1 drugs.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (section on products sold \"for research purposes\")",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "The approved IGF-1 drug:",
+            "text": "Increlex (mecasermin), approved by FDA in 2005 (BLA 021839), is recombinant human IGF-1 with the natural sequence. It is approved only for growth failure in children aged 2 and older with severe primary IGF-1 deficiency, or with growth hormone gene deletion and antibodies to growth hormone. It is not a substitute for growth hormone. Any other use is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+                "label": "Increlex (mecasermin) label, DailyMed",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:mecasermin",
+                "label": "Drugs@FDA via openFDA, Increlex BLA 021839",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved IGF-1 LR3. Mecasermin (Increlex), a different IGF-1 drug, is approved in the US, Canada, the EU and Australia for rare growth disorders in children. Australia lists insulin-like growth factors as prescription-only and illegal to possess without authority.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "IGF-1 LR3 not approved. Mecasermin (Increlex) approved 2005 for severe primary IGF-1 deficiency in children.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:mecasermin",
+              "label": "Drugs@FDA via openFDA, Increlex BLA 021839",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+              "label": "Increlex (mecasermin) label, DailyMed",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "IGF-1 LR3 not in the Drug Product Database. Increlex (mecasermin) is listed as marketed. Health Canada says peptides are generally regulated as prescription drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=insulin-like",
+              "label": "Health Canada Drug Product Database, ingredient search for 'insulin-like'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?brandname=increlex&lang=en&type=json",
+              "label": "Health Canada Drug Product Database, Increlex (DIN 02509733)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "IGF-1 LR3 not authorised. Increlex (mecasermin) authorised since 2007 for severe primary IGF-1 deficiency in children.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Insulin-like growth factors are prescription-only (Schedule 4) and illegal to possess without authority (Appendix D, clause 5). IGF-1 LR3 is not named. Increlex has a TGA product information document.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-06-01/text/original/pdf",
+              "label": "Australian Poisons Standard, June 2026 (F2026L00633)",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=mecasermin",
+              "label": "TGA product and consumer medicine information search for 'mecasermin'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "IGF-1 LR3 is prohibited at all times under class S2.3 of the 2026 Prohibited List, which names “Insulin-like growth factor 1 (IGF-1, mecasermin) and its analogues.” IGF-1 LR3 is an IGF-1 analogue. S2 substances are not “specified substances.” The 2027 list keeps the entry.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "No human safety data exist for IGF-1 LR3. The approved IGF-1 drug, Increlex, shows what IGF-1 itself can do; IGF-1 LR3 is more potent in animals, and its effects in people are unknown."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "IGF-1 LR3:",
+            "text": "no peer-reviewed human studies; a 2026 review notes a theoretical risk of promoting cell growth, based on IGF-1 signaling biology.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+                "label": "Dominikowski A, et al. Front Endocrinol 2026 (review)",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Increlex label (IGF-1, not LR3):",
+            "text": "severe low blood sugar, including seizures; allergic reactions including anaphylaxis; raised pressure in the skull; enlarged tonsils; hip joint problems (slipped capital femoral epiphysis); worsening scoliosis; and cases of cancer in treated children. Increlex is contraindicated in children with cancer or a history of cancer.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+                "label": "Increlex (mecasermin) label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Animal data (Increlex):",
+            "text": "in a 2-year rat study, mecasermin increased adrenal tumors (pheochromocytoma) and some skin tumors.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+                "label": "Increlex (mecasermin) label, DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product content:",
+            "text": "a black-market vial tested by a doping lab held a tagged lab-grade form never studied in people.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20675162/",
+                "label": "Kohler M, et al. Growth Horm IGF Res 2010",
+                "date": "published Oct 2010"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "MHRA records were not checked.",
+    "Whether Australia’s Poisons Standard entry for insulin-like growth factors covers IGF-1 LR3 was not confirmed with TGA."
+  ],
+  "surprises": [
+    "In rats, IGF-1 LR3 left the blood faster than natural IGF-1 but was about six times more potent, because it escapes the binding proteins that normally restrain IGF-1."
+  ]
+}

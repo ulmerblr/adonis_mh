@@ -73,6 +73,13 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved; HHS discretion', sport: 'Banned' } },
     { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true, page: { href: '/tb-500', evidence: '3-case report; no trials', fda: 'Not approved; HHS discretion', sport: 'Banned (S2)' } },
     { name: 'KPV', peptide: true, page: { href: '/kpv', evidence: 'Animal and cell only', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
+    { name: 'ARA-290 (cibinetide)', peptide: true, aka: ['Cibinetide', 'ARA 290', 'ARA290', 'Pyroglutamate helix B surface peptide', 'pHBSP'], page: { href: '/ara-290', evidence: 'Small Phase 2 trials', fda: 'Not approved', sport: 'Not named' } },
+    { name: 'Creatine', aka: ['Creatine monohydrate'], page: { href: '/creatine', evidence: 'Many RCTs in men', fda: 'Supplement; GRAS food', sport: 'Not listed' } },
+    { name: 'Follistatin', aka: ['Follistatin 344', 'Follistatin-344', 'FS344', 'FST', 'FS315'], page: { href: '/follistatin', evidence: 'Small gene therapy trials', fda: 'Not approved', sport: 'Banned (S4.3)' } },
+    { name: 'IGF-1 LR3', peptide: true, aka: ['Long R3 IGF-1', 'LR3-IGF-1', 'Long R3 IGF-I', 'Long-R3-IGF-I', 'Long arginine 3 IGF-I'], page: { href: '/igf-1-lr3', evidence: 'No human studies', fda: 'Not approved', sport: 'Banned (S2)' } },
+    { name: 'LL-37 (cathelicidin)', peptide: true, aka: ['Cathelicidin', 'Ropocamptide', 'hCAP18', 'Human cathelicidin antimicrobial peptide'], page: { href: '/ll-37', evidence: 'Phase 2 wound trials', fda: 'Not approved', sport: 'Not named' } },
+    { name: 'PEG-MGF', peptide: true, aka: ['Pegylated mechano growth factor', 'PEG MGF', 'Mechano growth factor', 'MGF', 'IGF-1Ec'], page: { href: '/peg-mgf', evidence: 'No human studies', fda: 'Not approved', sport: 'Banned (S2)' } },
+    { name: 'Thymosin alpha-1', peptide: true, aka: ['Thymalfasin', 'Zadaxin', 'Tα1', 'Ta1', 'Thymosin α1'], page: { href: '/thymosin-alpha-1', evidence: 'Phase 3 trials, mixed', fda: 'Not approved in US', sport: 'Not named' } },
   ],
   vitality: [
     { name: 'Sildenafil', page: { href: '/sildenafil', evidence: 'Approved; many RCTs', fda: 'Approved (Viagra)', sport: 'Not listed' } },

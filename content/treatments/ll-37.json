@@ -1,0 +1,556 @@
+{
+  "slug": "ll-37",
+  "name": "LL-37",
+  "row": "LL-37 (cathelicidin)",
+  "aka": [
+    "Cathelicidin",
+    "Ropocamptide",
+    "hCAP18",
+    "Human cathelicidin antimicrobial peptide"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "Phase 2 wound trials",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Cell and animal studies of infection and wounds",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "First-in-human leg ulcer trial, 34 people (2014)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Phase 1/2 melanoma injections, 4 people (US)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Phase IIb leg ulcers, 148 people: missed main goal",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA lists safety concerns",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "LL-37 is a chain of 37 amino acids. It is the only cathelicidin, a family of germ-killing (antimicrobial) peptides, that the human body makes. It is cut from a larger precursor protein called hCAP18. Skin, the gut, the airways, the testis and several kinds of white blood cells make it.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16716248/",
+            "label": "Dürr UH, et al. Biochim Biophys Acta 2006 (review)",
+            "date": "published Sep 2006"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In lab work, LL-37 kills a wide range of bacteria and also acts on the immune system: it can dampen or steer inflammation, draw immune cells to a wound, bind bacterial toxins, and help skin cells cover a wound.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16716248/",
+            "label": "Dürr UH, et al. Biochim Biophys Acta 2006 (review)",
+            "date": "published Sep 2006"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "The body makes LL-37 on its own. Injected or applied LL-37 is a drug that no regulator has approved."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "LL-37 has been tested in people in a few small trials, mostly as a cream or solution put on chronic wounds. The largest trial, with 148 people with leg ulcers, did not meet its main goal. No trial has tested it for muscle or injury recovery."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Sweden · 2014 · Randomized, placebo-controlled trial (first in humans)",
+        "title": "Hard-to-heal venous leg ulcers, 2014 (Sweden)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "3-week placebo run-in, then randomized, double-blind treatment with one of three strengths of LL-37 (0.5, 1.6 or 3.2 mg/mL) or placebo, put on the ulcer twice a week"
+          },
+          {
+            "k": "People",
+            "v": "34 adults with venous leg ulcers that had not healed"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks of treatment and 4 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "safety and the rate of wound healing"
+          }
+        ],
+        "found": "The two lower strengths had healing rates about six and three times higher than placebo (only the lowest was statistically significant). The highest strength did no better than placebo. There were no local or whole-body safety concerns. The first author worked for Pergamum AB, a drug company.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25041740/",
+            "label": "Grönberg A, et al. Wound Repair Regen 2014",
+            "date": "published Sep 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Poland and Sweden · 2021 · Phase IIb randomized, placebo-controlled trial",
+        "title": "HEAL LL-37: venous leg ulcers, 2021",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, three groups: LL-37 at 0.5 or 1.6 mg/mL, or placebo, put on the ulcer twice a week along with compression bandaging (EudraCT 2018-000536-10)"
+          },
+          {
+            "k": "People",
+            "v": "148 adults with hard-to-heal venous leg ulcers, mean age 67.6, at 15 sites"
+          },
+          {
+            "k": "Length",
+            "v": "3-week run-in, 13 weeks of treatment, 16 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "main goal: confirmed complete closure of the ulcer by week 13"
+          }
+        ],
+        "found": "In the whole group, LL-37 did not improve healing compared with placebo. A post hoc look at people with large ulcers (at least 10 cm²) found better healing measures with LL-37; this was not the planned main analysis. 12 serious adverse events occurred in 11 people (7.4%); none was judged related to the drug. Three authors worked for Promore Pharma, which developed the drug.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34687253/",
+            "label": "Mahlapuu M, et al. Wound Repair Regen 2021",
+            "date": "published Nov 2021"
+          },
+          {
+            "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9298190",
+            "label": "Mahlapuu M, et al. Wound Repair Regen 2021, full text (PMC9298190)",
+            "date": "published Nov 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Indonesia · 2023 · Randomized double-blind trial",
+        "title": "Diabetic foot ulcers, 2023 (Indonesia)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind: LL-37 cream or placebo cream twice a week, on top of standard wound care (NCT04098562)"
+          },
+          {
+            "k": "People",
+            "v": "25 adults aged 18 to 60 with diabetic foot ulcers that were uninfected or mildly infected (13 on LL-37, 12 on placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "wound healing (granulation index), two inflammation markers and bacteria counts"
+          }
+        ],
+        "found": "The granulation index rose more in the LL-37 group at each weekly check. Inflammation markers and bacteria counts did not differ between groups. One person on LL-37 had mild skin irritation from wound fluid. The authors declared no conflicts of interest.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37480520/",
+            "label": "Miranda E, et al. Arch Dermatol Res 2023",
+            "date": "published Nov 2023"
+          },
+          {
+            "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10514151",
+            "label": "Miranda E, et al. Arch Dermatol Res 2023, full text (PMC10514151)",
+            "date": "published Nov 2023"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04098562",
+            "label": "ClinicalTrials.gov NCT04098562",
+            "date": "published Sep 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015–2020 · Phase 1/2, open-label",
+        "title": "LL-37 injected into melanoma, MD Anderson (NCT02225366)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label dose-finding study; no control group"
+          },
+          {
+            "k": "People",
+            "v": "4 enrolled adults with melanoma; results posted for 3"
+          },
+          {
+            "k": "What was given",
+            "v": "LL-37 injected into tumors once a week, at two dose levels"
+          },
+          {
+            "k": "Length",
+            "v": "up to 8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "side effects, to find a dose, and immune response"
+          }
+        ],
+        "found": "The posted results list no serious adverse events and no deaths. Other events included anemia, low white blood cell counts, raised bilirubin and skin changes. No paper reporting the results was found.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02225366",
+            "label": "ClinicalTrials.gov NCT02225366",
+            "date": "updated Dec 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2023 · Open-label randomized trial",
+        "title": "Oral LL-37 made by bacteria, in COVID-19, 2023 (China)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, randomized, placebo-controlled, single center. The product was Lactococcus lactis bacteria engineered to make LL-37 in the gut, not the peptide itself."
+          },
+          {
+            "k": "People",
+            "v": "238 adults in hospital with the Omicron variant"
+          },
+          {
+            "k": "Measured",
+            "v": "time until virus tests turned negative, and adverse events"
+          }
+        ],
+        "found": "Virus tests turned negative sooner with the product than with placebo when it was started early. No severe adverse events were seen. This tested a live bacterial product, so it does not tell us about injected LL-37.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37605995/",
+            "label": "Zhao Y, et al. J Med Virol 2023",
+            "date": "published Aug 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No trial has tested LL-37 by injection for muscle, tendon or sports injuries. ClinicalTrials.gov lists no such study.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=LL-37",
+            "label": "ClinicalTrials.gov search for 'LL-37'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "LL-37 is not FDA approved for any use. FDA lists it on its Category 2 page (bulk drug substances that may present significant safety risks in compounding), among nominations that were later withdrawn. It is not one of the six peptides in the October 2026 HHS compounding policy. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no approved drug containing cathelicidin (LL-37).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:cathelicidin",
+                "label": "Drugs@FDA via openFDA, search for cathelicidin",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists “cathelicidin LL-37” among bulk drug substances “nominated but withdrawn” from its safety-risk category. FDA says compounded LL-37 “may pose risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization.” It adds: “FDA lacks sufficient safety-related information regarding cathelicidin LL-37 to know whether the drug would cause harm when administered to humans. Nonclinical research findings suggest detrimental effects on male reproduction and that this drug can be protumorigenic in some tissues.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS policy:",
+            "text": "the HHS enforcement discretion policy published October 30, 2026 covers only BPC-157, TB-500, epitalon, semax, KPV and MOTS-c. LL-37 is not among them.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator record found approves LL-37 as a medicine. EMA lists no authorised product. Its trials have been in Sweden, Poland, Indonesia, China and the US.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. On FDA’s list of withdrawn Category 2 nominations, with stated safety concerns. Not covered by the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+              "date": "published Oct 28, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in the Drug Product Database. Health Canada says peptides are generally regulated as prescription drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=cathelicidin",
+              "label": "Health Canada Drug Product Database, ingredient search for 'cathelicidin'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA’s medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "LL-37 is not named on the WADA 2026 Prohibited List. Class S0 (non-approved substances) bans at all times any pharmacological substance not covered by another class that has no current approval by any government health authority for human use, such as drugs still in clinical development. No regulator record found approves LL-37. Whether WADA applies S0 to LL-37 was not confirmed. The 2027 list adds “peptides” to the examples in S0; WADA says peptides not approved for human use may be prohibited even if not named.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_explanatory_note_en_final_17_august_2026_1.pdf",
+              "label": "WADA 2027 Prohibited List, summary of changes",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In the small wound trials, LL-37 put on the skin raised no safety concerns. FDA, however, says it lacks the safety data to know whether LL-37 would cause harm, and points to animal and lab findings on male reproduction and tumor growth."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA concerns:",
+            "text": "possible immune reactions, impurities, and “nonclinical research findings” that “suggest detrimental effects on male reproduction and that this drug can be protumorigenic in some tissues.” These findings come from animal or lab studies, not from people.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Leg ulcer trials:",
+            "text": "no local or whole-body safety concerns in the 34-person trial. In the 148-person trial, 12 serious adverse events (the most common was the skin infection erysipelas) occurred in 11 people; none was judged related to LL-37.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25041740/",
+                "label": "Grönberg A, et al. Wound Repair Regen 2014",
+                "date": "published Sep 2014"
+              },
+              {
+                "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9298190",
+                "label": "Mahlapuu M, et al. Wound Repair Regen 2021, full text (PMC9298190)",
+                "date": "published Nov 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Diabetic foot trial:",
+            "text": "one person of 13 on LL-37 cream had mild skin irritation, which cleared with a different dressing.",
+            "src": [
+              {
+                "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10514151",
+                "label": "Miranda E, et al. Arch Dermatol Res 2023, full text (PMC10514151)",
+                "date": "published Nov 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Melanoma injections:",
+            "text": "results posted for 3 people list anemia, low white blood cell and lymphocyte counts, raised bilirubin, skin changes and other events; no serious adverse events.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT02225366",
+                "label": "ClinicalTrials.gov NCT02225366",
+                "date": "updated Dec 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "no published study of LL-37 reporting sperm or fertility in men was found. FDA’s concern about male reproduction is based on non-human findings.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "MHRA and TGA records for LL-37 were not found or could not be searched.",
+    "FDA does not name the specific animal or lab studies behind its male-reproduction and tumor concerns.",
+    "The 2014 Swedish trial registration (EudraCT 2012-002100-41) was read only as cited in the 2021 paper."
+  ],
+  "surprises": [
+    "LL-37 is the body’s own wound-defense peptide, yet the largest trial (148 people with leg ulcers) did not improve healing overall, and FDA lists concerns about male reproduction and tumor growth."
+  ]
+}

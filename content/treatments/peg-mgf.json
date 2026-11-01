@@ -1,0 +1,471 @@
+{
+  "slug": "peg-mgf",
+  "name": "PEG-MGF",
+  "row": "PEG-MGF",
+  "aka": [
+    "Pegylated mechano growth factor",
+    "PEG MGF",
+    "Mechano growth factor",
+    "MGF",
+    "IGF-1Ec"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "No human studies",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Cell and animal studies of MGF; none of PEG-MGF",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Pilot in people",
+      "line": "None (FDA found no human exposure data)",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; on FDA safety-risk list",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Mechano growth factor (MGF) is the name given to a form of insulin-like growth factor 1 (IGF-1) that muscle makes after mechanical stress. In people it comes from a splice variant called IGF-1Ec. The “MGF peptide” studied in labs is a synthetic chain of 24 amino acids from the end (E-domain) of this form.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25466910/",
+            "label": "Thevis M, et al. Growth Horm IGF Res 2014",
+            "date": "published Dec 2014"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "PEG-MGF is MGF with polyethylene glycol (PEG) attached. It is not an official drug name. No published study of PEG-MGF itself was found.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=PEG-MGF",
+            "label": "PubMed search for 'PEG-MGF'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+            "label": "Dominikowski A, et al. Front Endocrinol 2026 (review)",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In a lab study, the short MGF peptide and a stabilized version did not switch on the IGF-1 receptor at all. A longer, “full-length” MGF did, though it needed about nine times the concentration of IGF-1.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26991004/",
+            "label": "Janssen JA, et al. PLoS One 2016",
+            "date": "published Mar 2016"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "There are no published studies of PEG-MGF in people or animals. Doping labs have found MGF variants in seized vials."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No published human studies found as of November 1, 2026. FDA has not identified any human exposure data on PEG-MGF by any route. A 2026 review of these peptides likewise found no peer-reviewed human studies."
+      },
+      {
+        "t": "p",
+        "text": "No published human studies found as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=PEG-MGF",
+            "label": "PubMed search for 'PEG-MGF'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=PEG-MGF",
+            "label": "ClinicalTrials.gov search for 'PEG-MGF'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The PubMed search for “PEG-MGF” found one paper, the 2026 review. The ClinicalTrials.gov search returned 14 records; none tested PEG-MGF (they matched other pegylated drugs).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=PEG-MGF",
+            "label": "PubMed search for 'PEG-MGF'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=PEG-MGF",
+            "label": "ClinicalTrials.gov search for 'PEG-MGF'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+            "label": "Dominikowski A, et al. Front Endocrinol 2026 (review)",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Lab and doping-control studies of MGF (not PEG-MGF)"
+      },
+      {
+        "t": "study",
+        "meta": "Doping lab · 2014 · Lab analysis",
+        "title": "A “full-length MGF” product offered to athletes",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "laboratory analysis of a product obtained from illicit channels"
+          },
+          {
+            "k": "Measured",
+            "v": "what protein the product contained, and whether doping tests can detect it"
+          }
+        ],
+        "found": "The product held a protein close to IGF-1Ec, with a changed end. Adapted routine doping tests could detect it. MGF has been treated as prohibited by WADA since 2005.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25466910/",
+            "label": "Thevis M, et al. Growth Horm IGF Res 2014",
+            "date": "published Dec 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Doping lab · 2017 · Lab analysis",
+        "title": "Confiscated vials of BPC-157 and an MGF variant",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "laboratory analysis of seized vials and test-tube breakdown in plasma"
+          },
+          {
+            "k": "Measured",
+            "v": "identity and stability, to build doping tests"
+          }
+        ],
+        "found": "One vial held an MGF variant (MGF R23H) that was stable in plasma and should be detectable in urine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28035768/",
+            "label": "Cox HD, et al. Drug Test Anal 2017",
+            "date": "published Oct 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Lab · 2016 · Cell study",
+        "title": "Does MGF switch on the IGF-1 receptor?",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "receptor activation tests in cells"
+          },
+          {
+            "k": "Measured",
+            "v": "activation of the IGF-1 and insulin receptors by full-length MGF, short MGF peptides and IGF-1"
+          }
+        ],
+        "found": "Full-length MGF switched on the IGF-1 receptor at high concentrations. The short MGF peptides did not. Effects in the body were not tested.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26991004/",
+            "label": "Janssen JA, et al. PLoS One 2016",
+            "date": "published Mar 2016"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "PEG-MGF is not FDA approved for any use. FDA lists it on its Category 2 page (bulk drug substances that may present significant safety risks), among nominations that were later withdrawn, and says it has found no human exposure data. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no approved drug containing mechano growth factor.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:mechano",
+                "label": "Drugs@FDA via openFDA, search for mechano",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists “Mechano growth factor pegylated (PEG-MGF)” among nominations that were withdrawn. FDA says compounded PEG-MGF “may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization. FDA has not identified any human exposure data on drug products containing PEG-MGF administered via any route of administration.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Plain MGF:",
+            "text": "FDA’s 503A list puts “Mechano growth factor (MGF)” in category 3, nominated without adequate support.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS policy:",
+            "text": "PEG-MGF is not one of the six peptides in the October 2026 HHS compounding policy (BPC-157, TB-500, epitalon, semax, KPV, MOTS-c).",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator record found approves PEG-MGF. EMA lists no authorised product. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. On FDA’s list of withdrawn Category 2 nominations; no human exposure data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in the Drug Product Database. Health Canada says peptides are generally regulated as prescription drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=mechano",
+              "label": "Health Canada Drug Product Database, ingredient search for 'mechano'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA’s medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Mechano growth factors are prohibited at all times under class S2.3 (growth factors and growth factor modulators) of the 2026 Prohibited List, which names “Mechano growth factors (MGFs).” PEG-MGF is not named separately. S2 substances are not “specified substances.” The 2027 list keeps the entry.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Nothing is known about PEG-MGF’s side effects in people. FDA says it lacks important information on any safety issues, including whether it would cause harm."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA:",
+            "text": "possible immune reactions (immunogenicity) and impurities; no human exposure data by any route.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Review, 2026:",
+            "text": "a review of growth-hormone and IGF-1 related peptides found no peer-reviewed human studies of PEG-MGF and noted a theoretical concern about cell growth, based on MGF (IGF-1Ec) findings in cancer research.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42395176/",
+                "label": "Dominikowski A, et al. Front Endocrinol 2026 (review)",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product content:",
+            "text": "doping labs that analyzed illicit and seized MGF products found modified versions, with changed amino acids, rather than the natural sequence.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25466910/",
+                "label": "Thevis M, et al. Growth Horm IGF Res 2014",
+                "date": "published Dec 2014"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28035768/",
+                "label": "Cox HD, et al. Drug Test Anal 2017",
+                "date": "published Oct 2017"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "MHRA and TGA records for PEG-MGF were not checked; PEG-MGF and MGF are not named in Australia’s June 2026 Poisons Standard."
+  ],
+  "surprises": [
+    "In a lab test, the short MGF peptide did not activate the IGF-1 receptor at all."
+  ]
+}

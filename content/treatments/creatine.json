@@ -1,0 +1,520 @@
+{
+  "slug": "creatine",
+  "name": "Creatine",
+  "row": "Creatine",
+  "aka": [
+    "Creatine monohydrate"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "Many RCTs in men",
+    "fda": "Supplement; GRAS food",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Muscle energy and rat kidney studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small trials since the 1990s",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Not developed as a drug",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Many small randomized trials (not drug phases)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Not run as a drug",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; FDA does not review it first",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Creatine is a compound the body makes and also gets from meat and fish. It is stored mainly in skeletal muscle, and also in heart muscle, brain and testes. The body breaks it down to creatinine, which leaves in the urine. Creatine monohydrate is the common supplement form, made by chemical synthesis.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/144598/download",
+            "label": "FDA response letter to GRAS Notice 931 (creatine monohydrate)",
+            "date": "published Dec 2020"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Taking creatine raises the amount stored in muscle. In a 1999 trial, muscle creatine rose 22% after one week of supplements and stayed higher than with placebo for 12 weeks.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10449017/",
+            "label": "Volek JS, et al. Med Sci Sports Exerc 1999",
+            "date": "published Aug 1999"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Creatine has been tested in many small randomized trials, mostly in men doing resistance training. Most found larger gains in strength and lean mass than training alone; some, including a trial in men with prostate cancer, found no added effect."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies in men"
+      },
+      {
+        "t": "study",
+        "meta": "Men · 1999 · Randomized, double-blind",
+        "title": "Resistance-trained young men, 12 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "matched, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "19 healthy resistance-trained men (10 creatine, 9 placebo)"
+          },
+          {
+            "k": "What was given",
+            "v": "25 g a day for 1 week, then 5 g a day, with heavy resistance training"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "bench press and squat strength, fat-free mass, muscle fiber size, muscle creatine"
+          }
+        ],
+        "found": "Bench press rose 24% and squat 32% with creatine, compared with 16% and 24% with placebo. Body mass and fat-free mass rose more with creatine (6.3% vs about 3%). No side effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10449017/",
+            "label": "Volek JS, et al. Med Sci Sports Exerc 1999",
+            "date": "published Aug 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Older men · 2001 · Randomized, double-blind",
+        "title": "Older men, resistance training, 12 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "30 men with a mean age of about 70 (16 creatine, 14 placebo)"
+          },
+          {
+            "k": "What was given",
+            "v": "a weight-based loading dose for 5 days, then a lower dose, with training three times a week"
+          },
+          {
+            "k": "Length",
+            "v": "36 training sessions"
+          },
+          {
+            "k": "Measured",
+            "v": "leg press, knee extension and bench press strength; lean tissue by DXA scan"
+          }
+        ],
+        "found": "Leg strength, endurance, power and lean tissue rose more with creatine (lean tissue +3.3 kg vs +1.3 kg). Bench press strength and fat mass changed similarly in both groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11740307/",
+            "label": "Chrusch MJ, et al. Med Sci Sports Exerc 2001",
+            "date": "published Dec 2001"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Men with prostate cancer · 2025 · Randomized, double-blind",
+        "title": "Men with prostate cancer on hormone therapy, 12 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; both groups did supervised resistance exercise 3 days a week"
+          },
+          {
+            "k": "People",
+            "v": "30 men aged 59 to 84 with prostate cancer on androgen deprivation therapy"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "lean mass, fat mass, strength and physical function"
+          }
+        ],
+        "found": "Both groups gained lean mass and strength, with no difference between creatine and placebo. No adverse events were reported from creatine or exercise.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39366880/",
+            "label": "Fairman CM, et al. J Sci Med Sport 2025",
+            "date": "published Feb 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "South Africa · 2009 · Randomized, double-blind crossover",
+        "title": "Hormones in college rugby players, 3 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover with a 6-week washout"
+          },
+          {
+            "k": "People",
+            "v": "20 male college rugby players in season"
+          },
+          {
+            "k": "What was given",
+            "v": "25 g a day for 7 days, then 5 g a day for 14 days (with glucose), or glucose placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "blood testosterone and dihydrotestosterone (DHT)"
+          }
+        ],
+        "found": "Testosterone did not change. DHT rose 56% after the first week and stayed 40% above baseline at 3 weeks. The authors said the long-term meaning is unknown. The study did not measure hair.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19741313/",
+            "label": "van der Merwe J, et al. Clin J Sport Med 2009",
+            "date": "published Sep 2009"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Pooled analysis"
+      },
+      {
+        "t": "p",
+        "text": "A 2024 meta-analysis of 23 trials in adults under 50 (most of them in men) found that creatine plus resistance training increased upper-body strength by about 4.4 kg and lower-body strength by about 11.4 kg more than placebo. Gains were seen in men but not significantly in women. One author has advised creatine makers.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39519498/",
+            "label": "Wang Z, et al. Nutrients 2024 (meta-analysis)",
+            "date": "published Oct 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Creatine is sold in the US as a dietary supplement. FDA does not approve supplements before they are sold. FDA has also raised no questions about one maker’s conclusion that creatine monohydrate is safe (GRAS) for use in some foods. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Dietary supplement:",
+            "text": "under US law, a dietary supplement can contain “a dietary substance for use by man to supplement the diet by increasing the total dietary intake.” FDA says it “does not have the authority to approve dietary supplements before they are marketed.”",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "GRAS notice 931:",
+            "text": "in 2020 FDA replied “no questions” to a German ingredient maker’s notice that creatine monohydrate is generally recognized as safe (GRAS) in energy drinks, protein bars and powders, shakes, meal replacements, meat analogs and drink mixes, at about 1 g of creatine per serving. FDA stressed that its letter is not an affirmation of GRAS status.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/144598/download",
+                "label": "FDA response letter to GRAS Notice 931 (creatine monohydrate)",
+                "date": "published Dec 2020"
+              },
+              {
+                "url": "https://www.hfpappexternal.fda.gov/scripts/fdcc/index.cfm?set=GRASNotices&id=931",
+                "label": "FDA GRAS Notice Inventory, GRN 931",
+                "date": "updated Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "creatine monohydrate is in category 1 (under evaluation) of FDA’s 503A nomination list, and in category 3 (nominated without adequate support) for outsourcing facilities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated Mar 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Drug approval:",
+            "text": "Drugs@FDA lists no approved drug with creatine as an active ingredient.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:creatine",
+                "label": "Drugs@FDA via openFDA, search for creatine",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "FDA does not review dietary supplements for safety or effectiveness before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Creatine is sold without a prescription in the US (as a dietary supplement) and in Canada (as a licensed natural health product). It is not on the WADA Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Dietary supplement; GRAS notice 931 (no questions) for some foods. Not an approved drug.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/144598/download",
+              "label": "FDA response letter to GRAS Notice 931 (creatine monohydrate)",
+              "date": "published Dec 2020"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Natural health product. Health Canada’s creatine monohydrate monograph (2024) sets the claims and warnings licensed products must follow.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=creatine.mono&lang=eng",
+              "label": "Health Canada natural health product monograph: creatine monohydrate",
+              "date": "published Jun 2024"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EFSA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA / FSANZ",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Creatine is not listed on the WADA 2026 Prohibited List or the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In trials, creatine has caused few reported side effects. The most consistent change is weight gain. Health Canada requires a kidney warning on licensed products. FDA does not review supplements before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Weight gain:",
+            "text": "body mass rose more with creatine than placebo in the 1999 trial; Health Canada requires products to warn that users may gain weight.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10449017/",
+                "label": "Volek JS, et al. Med Sci Sports Exerc 1999",
+                "date": "published Aug 1999"
+              },
+              {
+                "url": "https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=creatine.mono&lang=eng",
+                "label": "Health Canada natural health product monograph: creatine monohydrate",
+                "date": "published Jun 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Kidneys:",
+            "text": "Health Canada requires products to tell people with a kidney disorder, or who are pregnant or breastfeeding, to ask a health care practitioner before use.",
+            "src": [
+              {
+                "url": "https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=creatine.mono&lang=eng",
+                "label": "Health Canada natural health product monograph: creatine monohydrate",
+                "date": "published Jun 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Safety studies summarized for FDA:",
+            "text": "the GRAS notice cited human studies with no sign of liver or kidney harm at intakes up to 7 g a day for over a year and up to 25 g a day for 4 years, and an animal study with no kidney harm. These are the notifier’s summaries; FDA did not reach its own conclusion on them.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/144598/download",
+                "label": "FDA response letter to GRAS Notice 931 (creatine monohydrate)",
+                "date": "published Dec 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Hormones:",
+            "text": "in 20 rugby players, DHT rose 56% after one week while testosterone did not change. Whether this affects hair loss or the prostate has not been studied.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19741313/",
+                "label": "van der Merwe J, et al. Clin J Sport Med 2009",
+                "date": "published Sep 2009"
+              }
+            ]
+          },
+          {
+            "lead": "Trials:",
+            "text": "no side effects were reported in the 1999 trial, and no adverse events from creatine in the 2025 prostate cancer trial.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10449017/",
+                "label": "Volek JS, et al. Med Sci Sports Exerc 1999",
+                "date": "published Aug 1999"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39366880/",
+                "label": "Fairman CM, et al. J Sci Med Sport 2025",
+                "date": "published Feb 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "FDA does not review dietary supplements for safety or effectiveness before they are sold."
+      }
+    ]
+  },
+  "unconfirmed": [
+    "EU, UK and Australian records for creatine could not be opened (EUR-Lex and TGA blocked automated requests; NIH ODS also returned an error)."
+  ],
+  "surprises": [
+    "Creatine monohydrate is under evaluation (category 1) for FDA’s 503A compounding list."
+  ]
+}

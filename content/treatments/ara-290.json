@@ -1,0 +1,633 @@
+{
+  "slug": "ara-290",
+  "name": "ARA-290",
+  "row": "ARA-290 (cibinetide)",
+  "aka": [
+    "Cibinetide",
+    "ARA 290",
+    "ARA290",
+    "Pyroglutamate helix B surface peptide",
+    "pHBSP"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "Small Phase 2 trials",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rodent nerve-pain, kidney and diabetes models",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Sarcoidosis pilot, 22 people (2012)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-volunteer study, 36 people",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Phase 2 trials in sarcoidosis and diabetes, Araim",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "ARA-290 (international name cibinetide) is a chain of 11 amino acids, pyroglutamate-Glu-Gln-Leu-Glu-Arg-Ala-Leu-Asn-Ser-Ser. It was designed from part of erythropoietin (EPO), the hormone that makes the body produce red blood cells, but it does not raise red blood cell production.",
+        "src": [
+          {
+            "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-orphan_designations-json-report_en.json",
+            "label": "EMA data file of orphan designations",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25387363/",
+            "label": "Brines M, et al. Mol Med 2015",
+            "date": "published Mar 2015"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Its developer, Araim Pharmaceuticals, describes it as acting on the “innate repair receptor,” a receptor that animal studies link to tissue protection and lower inflammation after injury. Araim officers who own stock in the company co-wrote several of the trials below.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28475703/",
+            "label": "Culver DA, et al. Invest Ophthalmol Vis Sci 2017",
+            "date": "published May 2017"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32674280/",
+            "label": "Lois N, et al. J Clin Med 2020",
+            "date": "published Jul 2020"
+          },
+          {
+            "url": "https://link.springer.com/article/10.2119/molmed.2014.00215",
+            "label": "Brines M, et al. Mol Med 2015, full text",
+            "date": "published Nov 2014"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "ARA-290 has been tested in a few small trials for nerve pain. It is not approved anywhere."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "ARA-290 has been tested in people in a handful of small trials, mostly in people with sarcoidosis or type 2 diabetes who had small-fiber nerve damage and pain. Araim ran or co-wrote several of them. No trial has tested it for muscle or sports injuries, and no Phase 3 trial has been run."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2012 · Randomized, double-blind pilot",
+        "title": "Sarcoidosis with small-fiber neuropathy, IV doses, 2012",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled exploratory trial"
+          },
+          {
+            "k": "People",
+            "v": "22 people with sarcoidosis, nerve symptoms and a pain score of 5 or more (12 on ARA-290, 10 on placebo)"
+          },
+          {
+            "k": "What was given",
+            "v": "ARA-290 2 mg or placebo into a vein three times a week"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "pain, a small-fiber neuropathy symptom score, quality of life, depression and fatigue"
+          }
+        ],
+        "found": "The neuropathy symptom score improved more with ARA-290 than placebo at week 4. Pain and fatigue scores improved equally in both groups. No safety concerns were found.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23168581/",
+            "label": "Heij L, et al. Mol Med 2012",
+            "date": "published Nov 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2013 · Randomized, placebo-controlled",
+        "title": "Sarcoidosis with small nerve fiber loss, injections under the skin, 2013",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "blinded, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "38 people with sarcoidosis and documented small nerve fiber loss (18 women, 20 men; mean age 49.5)"
+          },
+          {
+            "k": "What was given",
+            "v": "ARA-290 or placebo by injection under the skin once a day"
+          },
+          {
+            "k": "Length",
+            "v": "28 days, then 12 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "nerve symptoms, corneal nerve fiber density, skin temperature sensing and a 6-minute walk test"
+          }
+        ],
+        "found": "Symptoms improved more with ARA-290, and corneal nerve fiber density rose. No serious adverse events occurred and no antibodies to ARA-290 were found. Araim staff were among the authors.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24136731/",
+            "label": "Dahan A, et al. Mol Med 2013",
+            "date": "published Nov 2013"
+          },
+          {
+            "url": "https://link.springer.com/article/10.2119/molmed.2013.00122",
+            "label": "Dahan A, et al. Mol Med 2013, full text",
+            "date": "published Oct 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA and Netherlands · 2014–2015 · Phase 2b randomized, placebo-controlled",
+        "title": "Sarcoidosis nerve fiber loss, dose-ranging, Araim (NCT02039687)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, quadruple-blind; three doses (1, 4 or 8 mg a day under the skin) or placebo"
+          },
+          {
+            "k": "People",
+            "v": "64 adults with sarcoidosis-related small nerve fiber loss and nerve pain"
+          },
+          {
+            "k": "Length",
+            "v": "28 days"
+          },
+          {
+            "k": "Measured",
+            "v": "main goal: change in corneal nerve fiber area"
+          }
+        ],
+        "found": "Only the 4 mg group had a statistically significant rise in corneal nerve fiber area. Pain improved in all groups, including placebo; the difference from placebo was not significant. Serious events included fainting and suicidal thoughts in single participants (see Side effects).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28475703/",
+            "label": "Culver DA, et al. Invest Ophthalmol Vis Sci 2017",
+            "date": "published May 2017"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02039687",
+            "label": "ClinicalTrials.gov NCT02039687",
+            "date": "updated Apr 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2014 · Phase 2 randomized, double-blind",
+        "title": "Type 2 diabetes with painful neuropathy, 2014",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, investigator-initiated (Netherlands Trial Register NTR3858)"
+          },
+          {
+            "k": "People",
+            "v": "49 people with type 2 diabetes and painful feet or hands enrolled; 48 analyzed"
+          },
+          {
+            "k": "What was given",
+            "v": "ARA-290 4 mg or placebo, self-injected under the skin once a day"
+          },
+          {
+            "k": "Length",
+            "v": "28 days, then 28 days without treatment"
+          },
+          {
+            "k": "Measured",
+            "v": "safety, HbA1c (long-term blood sugar), nerve pain questionnaires and corneal nerve fibers"
+          }
+        ],
+        "found": "HbA1c and one nerve pain score improved in the ARA-290 group. Corneal nerve fiber density rose in a subgroup. Four serious adverse events occurred on ARA-290; two were judged possibly related (a slight worsening of kidney function and a severe leg skin infection). Three authors were Araim officers.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25387363/",
+            "label": "Brines M, et al. Mol Med 2015",
+            "date": "published Mar 2015"
+          },
+          {
+            "url": "https://link.springer.com/article/10.2119/molmed.2014.00215",
+            "label": "Brines M, et al. Mol Med 2015, full text",
+            "date": "published Nov 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2016–2017 · Phase 2, open-label, single group",
+        "title": "Diabetic macular edema (eye swelling), Belfast",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, no control group (ISRCTN16962255; NCT06626971)"
+          },
+          {
+            "k": "People",
+            "v": "9 people with diabetes and macular edema; 8 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "cibinetide 4 mg a day under the skin"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "visual acuity, retinal thickness and other eye measures"
+          }
+        ],
+        "found": "Vision and retinal thickness did not improve on average. A vision questionnaire score improved. No serious adverse events or antibodies were seen. The trial ended early because the study drug expired with no replacement.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32674280/",
+            "label": "Lois N, et al. J Clin Med 2020",
+            "date": "published Jul 2020"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06626971",
+            "label": "ClinicalTrials.gov NCT06626971",
+            "date": "published Oct 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2015 · Randomized, double-blind",
+        "title": "Healthy volunteers, emotion processing, 2015",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, parallel-group; one dose of ARA-290 2 mg or placebo"
+          },
+          {
+            "k": "People",
+            "v": "36 healthy adults aged 18 to 35"
+          },
+          {
+            "k": "Length",
+            "v": "tested one week after the dose"
+          },
+          {
+            "k": "Measured",
+            "v": "brain responses to faces (MRI) and emotion tests"
+          }
+        ],
+        "found": "Some measures of emotional processing changed; mood did not.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26431906/",
+            "label": "Cerit H, et al. Eur Neuropsychopharmacol 2015",
+            "date": "published Dec 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02070783",
+            "label": "ClinicalTrials.gov NCT02070783",
+            "date": "published Feb 2014"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A further Phase 2 trial in people with prediabetes or type 2 diabetes in Stockholm (NCT01933529, 24 planned) has no posted results; its status is listed as unknown.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01933529",
+            "label": "ClinicalTrials.gov NCT01933529",
+            "date": "updated Sep 2015"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In a 2026 case report, three dental patients with nerve injury got ARA-290 mixed with BPC-157, TB-500 and dexamethasone. Their numbness lessened, but the report had no control group and the authors say spontaneous recovery cannot be ruled out.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42876687/",
+            "label": "Froum S, et al. Front Oral Health 2026",
+            "date": "published Sep 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "ARA-290 is not FDA approved for any use. It was nominated for pharmacy compounding, and FDA put it in category 3: nominated without adequate support. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no approved drug containing cibinetide.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:cibinetide",
+                "label": "Drugs@FDA via openFDA, search for cibinetide",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA’s 503A list puts “Cibinetide (ARA-290)” in category 3, “bulk drug substances nominated without adequate support.” It is not on FDA’s Category 2 safety-risk page, and it is not one of the six peptides in the October 2026 HHS compounding policy.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Trials:",
+            "text": "ClinicalTrials.gov lists three Araim-linked Phase 2 trials (NCT02039687, NCT01933529, NCT06626971); none is recruiting.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT02039687",
+                "label": "ClinicalTrials.gov NCT02039687",
+                "date": "updated Apr 2017"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT01933529",
+                "label": "ClinicalTrials.gov NCT01933529",
+                "date": "updated Sep 2015"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06626971",
+                "label": "ClinicalTrials.gov NCT06626971",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved ARA-290. The EU gave it orphan designations in 2013 (sarcoidosis) and 2016 (islet transplantation); an orphan designation is not an approval.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Compounding nomination in category 3 (inadequate support).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in the Drug Product Database. Health Canada says peptides are generally regulated as prescription drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=cibinetide",
+              "label": "Health Canada Drug Product Database, ingredient search for 'cibinetide'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not authorised. Orphan designations EU/3/13/1191 (sarcoidosis, 2013) and EU/3/16/1721 (islet transplantation, 2016).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-orphan_designations-json-report_en.json",
+              "label": "EMA data file of orphan designations",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "ARA-290 is not named on the WADA 2026 Prohibited List. Class S2.1.5 bans “innate repair receptor agonists, e.g. asialo EPO; carbamylated EPO,” at all times, and ARA-290’s developers describe it as an innate repair receptor agonist. Whether WADA applies S2.1.5 to ARA-290 was not confirmed. S2 substances are not “specified substances.” The 2027 list keeps S2.1.5 unchanged.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28475703/",
+              "label": "Culver DA, et al. Invest Ophthalmol Vis Sci 2017",
+              "date": "published May 2017"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The trials were small and short. Most found no clear drug-related safety problem, but a few serious events were judged possibly related."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Phase 2b sarcoidosis trial:",
+            "text": "serious adverse events: in the 1 mg group, 2 of 16 people (fainting, headache, chest tightness, shortness of breath, small-bowel inflammation); in the 8 mg group, 1 of 14 (suicidal thoughts); none on 4 mg or placebo. Common events included headache, nausea, diarrhea, tiredness and injection-site pain, which also occurred on placebo.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT02039687",
+                "label": "ClinicalTrials.gov NCT02039687",
+                "date": "updated Apr 2017"
+              }
+            ]
+          },
+          {
+            "lead": "Diabetes trial:",
+            "text": "of four serious events on ARA-290, two were judged possibly related: slight worsening of kidney function in a man on a diuretic, and a severe leg skin infection (cellulitis) needing hospital care.",
+            "src": [
+              {
+                "url": "https://link.springer.com/article/10.2119/molmed.2014.00215",
+                "label": "Brines M, et al. Mol Med 2015, full text",
+                "date": "published Nov 2014"
+              }
+            ]
+          },
+          {
+            "lead": "Other trials:",
+            "text": "no serious adverse events in the 2013 sarcoidosis trial or the eye trial, and no antibodies to the drug.",
+            "src": [
+              {
+                "url": "https://link.springer.com/article/10.2119/molmed.2013.00122",
+                "label": "Dahan A, et al. Mol Med 2013, full text",
+                "date": "published Oct 2013"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32674280/",
+                "label": "Lois N, et al. J Clin Med 2020",
+                "date": "published Jul 2020"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA’s orphan drug database could not be searched (the site blocked automated requests), so US orphan status was not checked.",
+    "MHRA and TGA records for ARA-290 were not checked.",
+    "The 2012 pilot trial registration was not found on ClinicalTrials.gov."
+  ],
+  "surprises": [
+    "FDA did not put ARA-290 in its safety-risk category, as it did for many other peptides; it sits in 503A category 3, nominated without adequate support."
+  ]
+}

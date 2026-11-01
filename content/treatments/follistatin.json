@@ -1,0 +1,542 @@
+{
+  "slug": "follistatin",
+  "name": "Follistatin",
+  "row": "Follistatin",
+  "aka": [
+    "Follistatin 344",
+    "Follistatin-344",
+    "FS344",
+    "FST",
+    "FS315"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "Small gene therapy trials",
+    "fda": "Not approved",
+    "sport": "Banned (S4.3)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse and monkey gene-delivery studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Gene therapy in 6 Becker dystrophy patients (2015)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Small Phase 1 and 1/2 gene therapy trials",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase II",
+      "line": "None with published results",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved, as a protein or gene therapy",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Follistatin is a protein the body makes. It binds and blocks myostatin, a signal that limits muscle growth, and activin. Because it also acts on the pituitary’s activin–inhibin system, it can lower follicle-stimulating hormone (FSH), a reproductive hormone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27858738/",
+            "label": "Al-Zaidy SA, et al. J Neuromuscul Dis 2015 (review)",
+            "date": "published Sep 2015"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The gene makes several forms. “FS344” (follistatin 344) is one spliced form; it is processed into FS315, which circulates in the blood and binds activin about ten times less strongly than the FS288 form. Researchers chose FS344 for gene therapy partly for this reason.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27858738/",
+            "label": "Al-Zaidy SA, et al. J Neuromuscul Dis 2015 (review)",
+            "date": "published Sep 2015"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25322757/",
+            "label": "Mendell JR, et al. Mol Ther 2015",
+            "date": "published Jan 2015"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In human trials, follistatin has been given as gene therapy: a virus (AAV) or a DNA ring (plasmid) containing the FS344 gene is injected into muscle so the body makes the protein. The protein itself has not been tested as an injected drug in a published trial. FDA has found “Follistatin-344” promoted online in multi-ingredient compounded products.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25322757/",
+            "label": "Mendell JR, et al. Mol Ther 2015",
+            "date": "published Jan 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06411366",
+            "label": "ClinicalTrials.gov NCT06411366",
+            "date": "published May 2024"
+          },
+          {
+            "url": "https://www.fda.gov/media/193346/download",
+            "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+            "date": "published May 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Follistatin is a protein, not a short peptide. The human data are from small gene therapy trials in muscle disease."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "All human data on follistatin come from small gene therapy trials. The published ones treated 6 patients with Becker muscular dystrophy and 6 people with inclusion body myositis, without placebo groups. Newer plasmid and AAV trials in healthy or older adults have no published results."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies (gene therapy)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Phase 1/2a, open-label",
+        "title": "Becker muscular dystrophy, AAV1.CMV.FS344, 2015",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, two dose groups, no placebo (NCT01519349)"
+          },
+          {
+            "k": "People",
+            "v": "6 patients with Becker muscular dystrophy, an inherited muscle disease that affects males"
+          },
+          {
+            "k": "What was given",
+            "v": "a single set of injections of the FS344 gene, delivered by an AAV1 virus, into both thigh (quadriceps) muscles"
+          },
+          {
+            "k": "Measured",
+            "v": "main goal: distance walked in 6 minutes; also muscle biopsies"
+          }
+        ],
+        "found": "4 of 6 walked farther (by 29 to 125 meters); 2 showed no change. Biopsies showed less scarring in muscle. No adverse effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25322757/",
+            "label": "Mendell JR, et al. Mol Ther 2015",
+            "date": "published Jan 2015"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01519349",
+            "label": "ClinicalTrials.gov NCT01519349",
+            "date": "updated Oct 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 · Open-label, compared with untreated patients",
+        "title": "Sporadic inclusion body myositis, AAV1 FS344, 2017",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, with an exercise program; compared with 8 untreated patients matched for age, sex and baseline (not randomized)"
+          },
+          {
+            "k": "People",
+            "v": "6 people with sporadic inclusion body myositis, a muscle disease most common in men over 50"
+          },
+          {
+            "k": "What was given",
+            "v": "the FS344 gene by AAV1 virus into both thigh muscles"
+          },
+          {
+            "k": "Measured",
+            "v": "distance walked in 6 minutes, over about a year"
+          }
+        ],
+        "found": "Walking distance rose by a median 56 meters a year in treated people and fell by 25.8 meters in untreated ones. Four of six improved by 58 to 153 meters; two barely changed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28279643/",
+            "label": "Mendell JR, et al. Mol Ther 2017",
+            "date": "published Apr 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015–2017 · Phase 1/2, open-label",
+        "title": "Duchenne muscular dystrophy (NCT02354781)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, one dose level"
+          },
+          {
+            "k": "People",
+            "v": "3 boys enrolled (6 were planned)"
+          },
+          {
+            "k": "What was given",
+            "v": "the FS344 gene by AAV1 into hip, thigh and shin muscles"
+          },
+          {
+            "k": "Measured",
+            "v": "dose-limiting side effects"
+          }
+        ],
+        "found": "The record lists the trial as completed in 2017. No results were found posted or published.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02354781",
+            "label": "ClinicalTrials.gov NCT02354781",
+            "date": "updated Oct 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Honduras · 2022–2023 · Phase 1, open-label",
+        "title": "Plasmid follistatin in healthy adults (NCT06411366)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-dose, open-label, no control group"
+          },
+          {
+            "k": "People",
+            "v": "43 adults aged 22 and over"
+          },
+          {
+            "k": "What was given",
+            "v": "an injected plasmid containing the FS344 gene"
+          },
+          {
+            "k": "Measured",
+            "v": "treatment-related side effects and blood follistatin at 3 months"
+          }
+        ],
+        "found": "No results are posted and no paper was found.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06411366",
+            "label": "ClinicalTrials.gov NCT06411366",
+            "date": "published May 2024"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "p",
+        "text": "Two more trials are listed: a completed early pilot of combined follistatin and klotho plasmid gene therapy in 14 adults aged 50 to 80 (NCT07285629), and a Phase 1/2a trial of AAV9-follistatin, alone or with a VEGF plasmid, recruiting 12 adults with age-related muscle decline in Honduras (NCT07443826). Neither has published results.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07285629",
+            "label": "ClinicalTrials.gov NCT07285629",
+            "date": "updated Aug 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07443826",
+            "label": "ClinicalTrials.gov NCT07443826",
+            "date": "updated Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "In cynomolgus monkeys, the FS344 gene injected into the thigh muscle by AAV1 led to larger, stronger muscles that lasted, with no abnormal changes found in key organs. The authors had filed a patent on the approach.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20368179/",
+            "label": "Kota J, et al. Sci Transl Med 2009",
+            "date": "published Nov 2009"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Follistatin is not FDA approved, either as a protein or as a gene therapy. No follistatin product appears on FDA’s list of approved cellular and gene therapy products. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. FDA’s list of approved cellular and gene therapy products, current as of October 30, 2026, includes no follistatin product.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+                "label": "FDA, approved cellular and gene therapy products",
+                "date": "updated Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Gene therapy trials:",
+            "text": "the US trials of follistatin gene therapy were run at Nationwide Children’s Hospital in Columbus, Ohio, under research protocols.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT01519349",
+                "label": "ClinicalTrials.gov NCT01519349",
+                "date": "updated Oct 2023"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT02354781",
+                "label": "ClinicalTrials.gov NCT02354781",
+                "date": "updated Oct 2023"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA’s 2026 KPV review found websites promoting KPV together with BPC-157, TB-500, AOD-9604 and “Follistatin-344” as compounded “regenerative combo” products. Follistatin does not appear on FDA’s 503A nomination category lists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193346/download",
+                "label": "FDA briefing document on KPV, PCAC meeting July 2026",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No regulator has approved follistatin. Australia lists it as prescription-only and illegal to possess without authority. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved as a protein or gene therapy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+              "label": "FDA, approved cellular and gene therapy products",
+              "date": "updated Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=follistatin",
+              "label": "Health Canada Drug Product Database, ingredient search for 'follistatin'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA’s medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4); possession without authority is illegal (Appendix D, clause 5).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-06-01/text/original/pdf",
+              "label": "Australian Poisons Standard, June 2026 (F2026L00633)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Follistatin is prohibited at all times under class S4.3 (agents preventing activin receptor IIB activation) of the 2026 Prohibited List, which names it as a myostatin-binding protein: “Myostatin-binding proteins (e.g. follistatin, myostatin propeptide).” S4.3 substances are not “specified substances.” Follistatin gene therapy also falls under M3 (gene and cell doping), which bans the use of nucleic acids that may alter gene expression. The 2027 list keeps both entries.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The Becker trial reported no adverse effects. The published gene therapy trials treated only 12 people in total. Long-term safety of follistatin gene therapy is not known."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Trials:",
+            "text": "no adverse effects in the 6-patient Becker trial; the inclusion body myositis paper does not report treatment-related harms in its abstract.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/25322757/",
+                "label": "Mendell JR, et al. Mol Ther 2015",
+                "date": "published Jan 2015"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28279643/",
+                "label": "Mendell JR, et al. Mol Ther 2017",
+                "date": "published Apr 2017"
+              }
+            ]
+          },
+          {
+            "lead": "Hormones and fertility:",
+            "text": "follistatin can lower FSH, a pituitary hormone involved in reproduction, through the activin–inhibin system. This is one reason researchers chose the FS344 form. No published trial reporting sperm or fertility in men was found.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/27858738/",
+                "label": "Al-Zaidy SA, et al. J Neuromuscul Dis 2015 (review)",
+                "date": "published Sep 2015"
+              }
+            ]
+          },
+          {
+            "lead": "Gene therapy:",
+            "text": "the trials used viral or plasmid gene delivery, which is meant to make the body produce follistatin for a long time. The newer plasmid and AAV9 trials list side effects as their main outcome but have not posted results.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06411366",
+                "label": "ClinicalTrials.gov NCT06411366",
+                "date": "published May 2024"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07443826",
+                "label": "ClinicalTrials.gov NCT07443826",
+                "date": "updated Jul 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "MHRA records for follistatin were not checked.",
+    "Results of the Duchenne trial (NCT02354781) and the Honduras plasmid trials were not found.",
+    "No published trial of injected follistatin protein (as opposed to gene therapy) was found."
+  ],
+  "surprises": [
+    "FDA found “Follistatin-344” promoted in compounded multi-ingredient products, yet FS344 is the name of a gene form used in gene therapy trials; no published trial has tested follistatin protein given as a drug."
+  ]
+}

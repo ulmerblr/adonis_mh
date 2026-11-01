@@ -1,0 +1,672 @@
+{
+  "slug": "thymosin-alpha-1",
+  "name": "Thymosin alpha-1",
+  "row": "Thymosin alpha-1",
+  "aka": [
+    "Thymalfasin",
+    "Zadaxin",
+    "Tα1",
+    "Ta1",
+    "Thymosin α1"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "recovery"
+  ],
+  "index": {
+    "evidence": "Phase 3 trials, mixed",
+    "fda": "Not approved in US",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse and monkey toxicity studies (Zadaxin label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Hepatitis B pilot trials from 1991",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "NIAID Phase 1 in HIV, 12 people (with IL-2)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Many trials: hepatitis, cancer, infection",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Hepatitis B (US), sepsis (China, 1,106 people)",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Italy (AIFA): Zadaxin, 1996; not FDA approved",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Thymosin alpha-1 (international name thymalfasin) is a chain of 28 amino acids. The drug version is synthetic and has the same structure as the natural peptide first isolated from thymus tissue (“thymosin fraction 5”). It acts on immune cells, especially lymphocytes, and is classed as an immunostimulant.",
+        "src": [
+          {
+            "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/1361/farmaci/028364/stampati?ts=RCP",
+            "label": "Zadaxin summary of product characteristics (Italian), AIFA",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Injected under the skin, it reaches its highest blood level in about 6 hours and returns to baseline within 24 hours.",
+        "src": [
+          {
+            "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/1361/farmaci/028364/stampati?ts=RCP",
+            "label": "Zadaxin summary of product characteristics (Italian), AIFA",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Thymosin alpha-1 is an approved medicine in Italy (Zadaxin), but not in the US. It is an immune drug, not a muscle or tissue-repair drug."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Thymosin alpha-1 has been tested in many human trials, including large ones. A US Phase 3 trial in hepatitis B did not confirm a benefit, and the largest sepsis trial (1,106 people) found no effect on death rates. No trial has tested it for muscle or injury recovery."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run."
+      },
+      {
+        "t": "h3",
+        "text": "Sepsis"
+      },
+      {
+        "t": "study",
+        "meta": "China · 2016–2020 · Phase 3 randomized, double-blind",
+        "title": "TESTS: adults with sepsis, 22 centers",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, double-blind, placebo-controlled (NCT02867267)"
+          },
+          {
+            "k": "People",
+            "v": "1,106 adults aged 18 to 85 with sepsis (552 thymosin alpha-1, 554 placebo); 1,089 analyzed"
+          },
+          {
+            "k": "What was given",
+            "v": "injections under the skin every 12 hours for up to 7 days"
+          },
+          {
+            "k": "Measured",
+            "v": "main goal: death from any cause within 28 days"
+          }
+        ],
+        "found": "28-day death rates were 23.4% with thymosin alpha-1 and 24.1% with placebo, no meaningful difference. No secondary or safety outcome differed. Subgroups by age and diabetes hinted at different effects; the authors concluded there was no clear evidence of benefit. The trial was partly funded by SciClone Pharmaceuticals, Zadaxin’s maker, and several authors received grants from it.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39814420/",
+            "label": "Wu J, et al. BMJ 2025 (TESTS trial)",
+            "date": "published Jan 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02867267",
+            "label": "ClinicalTrials.gov NCT02867267",
+            "date": "updated Apr 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2008–2010 · Randomized, single-blind",
+        "title": "ETASS: severe sepsis, 6 hospitals",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, single-blind, randomized, no placebo (NCT00711620)"
+          },
+          {
+            "k": "People",
+            "v": "361 adults with severe sepsis in intensive care (181 thymosin alpha-1, 180 control)"
+          },
+          {
+            "k": "Measured",
+            "v": "death from any cause at 28 days; immune markers"
+          }
+        ],
+        "found": "Death rates were 26.0% with thymosin alpha-1 and 35.0% in controls, a borderline result (P = 0.062 in the main analysis). No serious drug-related adverse event was recorded. The larger TESTS trial later found no difference.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23327199/",
+            "label": "Wu J, et al. Crit Care 2013 (ETASS trial)",
+            "date": "published Jan 2013"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39814420/",
+            "label": "Wu J, et al. BMJ 2025 (TESTS trial)",
+            "date": "published Jan 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Hepatitis B"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1999 · Phase 3 randomized, double-blind",
+        "title": "Chronic hepatitis B, multicenter US trial",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled, double-blind"
+          },
+          {
+            "k": "People",
+            "v": "97 adults with HBeAg-positive chronic hepatitis B (49 thymosin alpha-1, 48 placebo)"
+          },
+          {
+            "k": "What was given",
+            "v": "1.6 mg or placebo twice a week"
+          },
+          {
+            "k": "Length",
+            "v": "6 months of treatment, 6 months of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "complete response: virus DNA and HBeAg negative at month 12"
+          }
+        ],
+        "found": "Complete response: 14% on thymosin alpha-1, 4% on placebo (P = 0.084, not significant). The authors wrote that the results “do not confirm” benefits reported in other studies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10607256/",
+            "label": "Mutchnick MG, et al. J Viral Hepat 1999",
+            "date": "published Sep 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Taiwan · 1998 · Randomized, controlled",
+        "title": "Chronic hepatitis B, 26 vs 52 weeks of treatment",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, three groups: 26 weeks, 52 weeks, or no treatment"
+          },
+          {
+            "k": "People",
+            "v": "98 people with chronic hepatitis B"
+          },
+          {
+            "k": "Length",
+            "v": "18 months of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "clearance of virus DNA and HBeAg"
+          }
+        ],
+        "found": "At 18 months, complete response was 40.6% with 26 weeks of treatment, 26.5% with 52 weeks and 9.4% untreated. Only the 26-week group differed significantly. No significant side effects were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9581695/",
+            "label": "Chien RN, et al. Hepatology 1998",
+            "date": "published May 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Japan · 2005 · Randomized, two doses",
+        "title": "Chronic hepatitis B, 0.8 vs 1.6 mg",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized comparison of two doses; no placebo group"
+          },
+          {
+            "k": "People",
+            "v": "316 people with chronic hepatitis B and raised liver enzymes"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks of treatment, follow-up to 72 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "liver enzymes, virus DNA and HBeAg"
+          }
+        ],
+        "found": "Response rates were similar with both doses. All drug reactions were mild; most were changes in liver enzymes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15850471/",
+            "label": "Iino S, et al. J Viral Hepat 2005",
+            "date": "published May 2005"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Other uses"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2021–2023 · Phase 2 randomized, open-label",
+        "title": "COVID-19 prevention in people on dialysis, Kansas City",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, no placebo; thymalfasin twice a week vs standard care (NCT04428008)"
+          },
+          {
+            "k": "People",
+            "v": "189 people with kidney failure on hemodialysis"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks of treatment, about 4 months of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "COVID-19 infections, hospital stays, deaths"
+          }
+        ],
+        "found": "Posted results: COVID-19 in 5 of 91 treated people and 7 of 98 controls; deaths 3 and 7; serious adverse events 28 and 26. No significance tests were reported in the record.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04428008",
+            "label": "ClinicalTrials.gov NCT04428008",
+            "date": "updated Apr 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36881981/",
+            "label": "Tuthill CW, et al. Int Immunopharmacol 2023",
+            "date": "published Apr 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "SciClone Pharmaceuticals ran US Phase 3 trials of thymalfasin with peginterferon in hepatitis C in the early 2000s (for example NCT00039962, 500 planned). The record has no posted results.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00039962",
+            "label": "ClinicalTrials.gov NCT00039962",
+            "date": "updated Jan 2008"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Thymosin alpha-1 is not FDA approved for any use. FDA lists it among compounding nominations withdrawn from its safety-risk category, and it is not one of the six peptides in the October 2026 HHS compounding policy. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. Drugs@FDA lists no approved drug containing thymalfasin. Zadaxin is approved in Italy, not in the US.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:thymalfasin",
+                "label": "Drugs@FDA via openFDA, search for thymalfasin",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/formadosaggio/ricerca?query=zadaxin&spellingCorrection=true&page=0",
+                "label": "AIFA medicines database record for Zadaxin (AIC 028364026)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists “Thymosin-alpha 1 (Ta1)” among bulk drug substances nominated but withdrawn. FDA says compounded thymosin alpha-1 “may pose significant risk for immunogenicity for certain routes of administration and may have complexities with regard to peptide-related impurities and API characterization. The safety-related information is inadequate for the agency to sufficiently understand the extent of any safety issues raised by the proposed compounded drug.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "503B:",
+            "text": "for outsourcing facilities, FDA’s 503B list puts thymosin alpha-1 in category 3, nominated without adequate support.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated Mar 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "HHS policy:",
+            "text": "not covered. The October 2026 policy names only BPC-157, TB-500, epitalon, semax, KPV and MOTS-c.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496)",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Thymosin alpha-1 is an approved prescription medicine in Italy (Zadaxin, authorised 1996), where its approved use is as an add-on to flu vaccination in people with weak immune systems. It is not approved in the US, Canada or by the EU centrally.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. On FDA’s list of withdrawn Category 2 nominations. Not covered by the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+              "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+              "date": "published Oct 28, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Italy",
+          "regulator": "AIFA",
+          "status": "Approved: Zadaxin 1.6 mg injection, authorised 1996, prescription-only, paid by the patient (class C). Use: add-on to flu vaccination in immunocompromised people.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/formadosaggio/ricerca?query=zadaxin&spellingCorrection=true&page=0",
+              "label": "AIFA medicines database record for Zadaxin (AIC 028364026)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/1361/farmaci/028364/stampati?ts=RCP",
+              "label": "Zadaxin summary of product characteristics (Italian), AIFA",
+              "date": "published Feb 2026"
+            }
+          ],
+          "iso": [
+            "380"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product. Orphan designation EU/3/02/110 for liver cancer (hepatocellular carcinoma), which is not an approval. National approvals exist in at least Italy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-orphan_designations-json-report_en.json",
+              "label": "EMA data file of orphan designations",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with this ingredient in the Drug Product Database. Health Canada says peptides are generally regulated as prescription drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=thymalfasin",
+              "label": "Health Canada Drug Product Database, ingredient search for 'thymalfasin'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "No product information document found in TGA’s medicine information search; not named in the Poisons Standard.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=thymalfasin",
+              "label": "TGA product and consumer medicine information search for 'thymalfasin'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-06-01/text/original/pdf",
+              "label": "Australian Poisons Standard, June 2026 (F2026L00633)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "China",
+          "regulator": "NMPA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "156"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Thymosin alpha-1 is not named on the WADA 2026 Prohibited List. The list’s S2.3 entry names thymosin-β4 (beta-4) and its derivatives, a different peptide. Class S0 applies only to substances with no current approval by any government health authority; thymosin alpha-1 is approved in Italy. Whether WADA classes it elsewhere was not confirmed. The 2027 list does not name it either.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/formadosaggio/ricerca?query=zadaxin&spellingCorrection=true&page=0",
+              "label": "AIFA medicines database record for Zadaxin (AIC 028364026)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In trials and in the Italian label, thymosin alpha-1 has caused few reported side effects, mostly mild injection-site pain. It is an immune drug, so the label urges caution with other immune-modifying medicines."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Italian label:",
+            "text": "no clinically relevant side effects were seen, except occasional mild, short-lived pain at the injection site. It is contraindicated in pregnancy and breastfeeding and in people allergic to it. Caution is advised with other immunomodulating drugs.",
+            "src": [
+              {
+                "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/1361/farmaci/028364/stampati?ts=RCP",
+                "label": "Zadaxin summary of product characteristics (Italian), AIFA",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Animal data (label):",
+            "text": "in mice and monkeys, high long-term doses caused low neutrophil counts, mild low platelets and raised white cells; in mouse pregnancy studies, a slight rise in late fetal loss and delayed skull bone formation.",
+            "src": [
+              {
+                "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/1361/farmaci/028364/stampati?ts=RCP",
+                "label": "Zadaxin summary of product characteristics (Italian), AIFA",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Sepsis trials:",
+            "text": "no safety outcome differed from placebo in the 1,106-person TESTS trial; no serious drug-related adverse event in ETASS.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39814420/",
+                "label": "Wu J, et al. BMJ 2025 (TESTS trial)",
+                "date": "published Jan 2025"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23327199/",
+                "label": "Wu J, et al. Crit Care 2013 (ETASS trial)",
+                "date": "published Jan 2013"
+              }
+            ]
+          },
+          {
+            "lead": "Hepatitis B trial (Japan):",
+            "text": "all drug reactions mild, mostly liver enzyme changes.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15850471/",
+                "label": "Iino S, et al. J Viral Hepat 2005",
+                "date": "published May 2005"
+              }
+            ]
+          },
+          {
+            "lead": "FDA:",
+            "text": "possible immune reactions and impurities in compounded versions; FDA says the safety information is inadequate.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "the Italian label says fertility studies in rats and rabbits showed no harm to the reproductive system. No published study reporting sperm or fertility in men was found.",
+            "src": [
+              {
+                "url": "https://api.aifa.gov.it/aifa-bdf-eif-be/1.0.0/organizzazione/1361/farmaci/028364/stampati?ts=RCP",
+                "label": "Zadaxin summary of product characteristics (Italian), AIFA",
+                "date": "published Feb 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Approval of Zadaxin in China and other countries was not confirmed with a regulator record.",
+    "MHRA records for thymosin alpha-1 were not checked.",
+    "FDA’s orphan drug database could not be searched (it blocked automated requests).",
+    "Results of SciClone’s US hepatitis C Phase 3 trials were not found."
+  ],
+  "surprises": [
+    "The one approved use found for thymosin alpha-1 (Italy) is as an add-on to flu vaccination in immunocompromised people, not tissue repair, and the largest sepsis trial (1,106 people) found no effect on death rates."
+  ]
+}
