@@ -1,0 +1,598 @@
+{
+  "slug": "hexarelin",
+  "name": "Hexarelin",
+  "row": "Hexarelin",
+  "aka": [
+    "Examorelin"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Small 1990s human studies",
+    "fda": "Not approved",
+    "sport": "Banned"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat heart and cell studies published",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small 1990s studies of GH release and the heart",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Never approved anywhere we checked",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; not legal to sell",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Hexarelin is a lab-made peptide of six amino acids. It is a growth hormone-releasing peptide (GHRP), related to GHRP-6. WADA lists it by its official name, examorelin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8548949/",
+            "label": "Laron et al., Clin Endocrinol (Oxf), 1995",
+            "date": "published Nov 1995"
+          },
+          {
+            "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+            "label": "WADA 2026 Prohibited List",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In people it causes strong growth hormone release after injection into a vein or under the skin, by nose spray or by mouth. It also raises other hormones: cortisol, ACTH and prolactin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9589671/",
+            "label": "Rahim et al., J Clin Endocrinol Metab, 1998",
+            "date": "published May 1998"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15177700/",
+            "label": "Frieboes et al., Psychoneuroendocrinology, 2004",
+            "date": "published Aug 2004"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Heart studies suggest it also acts directly on receptors for growth hormone secretagogues in heart muscle, apart from its effect on growth hormone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12144941/",
+            "label": "Broglio et al., Eur J Pharmacol, 2002",
+            "date": "published Jul 2002"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10528131/",
+            "label": "Bisi et al., Eur J Pharmacol, 1999",
+            "date": "published Sep 1999"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Hexarelin is not an approved medicine. Using it for sleep or anything else is off-label and outside any approval."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human studies of hexarelin are small and mostly from the 1990s and early 2000s. Most gave a single dose and measured hormones or heart pumping. The one sleep study found it reduced deep sleep. ClinicalTrials.gov lists no hexarelin trial."
+      },
+      {
+        "t": "h3",
+        "text": "Sleep"
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2004 · Placebo-controlled study",
+        "title": "Hexarelin and sleep in healthy volunteers, 2004",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled; four injections of hexarelin (4 x 50 micrograms) or placebo between 10 pm and 1 am, with sleep EEG recorded"
+          },
+          {
+            "k": "People",
+            "v": "7 young healthy volunteers"
+          },
+          {
+            "k": "Length",
+            "v": "one night per condition"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep stages and EEG delta power; night-time GH, ACTH, cortisol, prolactin, leptin and immune markers"
+          }
+        ],
+        "found": "Deep sleep (stage 4) in the first half of the night and delta power over the whole night fell significantly with hexarelin. GH and prolactin rose all night; ACTH and cortisol rose in the first half. The authors concluded sleep was impaired after hexarelin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15177700/",
+            "label": "Frieboes et al., Psychoneuroendocrinology, 2004",
+            "date": "published Aug 2004"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Growth hormone release"
+      },
+      {
+        "t": "study",
+        "meta": "UK · 1998 · Open study",
+        "title": "Twice-daily injections for 16 weeks, 1998",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open study, no placebo group"
+          },
+          {
+            "k": "People",
+            "v": "adults (number not given in the abstract)"
+          },
+          {
+            "k": "Length",
+            "v": "16 weeks of injections under the skin, then 4 weeks off"
+          },
+          {
+            "k": "Measured",
+            "v": "GH response to a test dose; IGF-1; bone markers; body composition; bone density"
+          }
+        ],
+        "found": "The GH response shrank by week 4 and stayed lower at week 16, then recovered 4 weeks after stopping. IGF-1, body fat, lean mass and bone density did not change significantly.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9589671/",
+            "label": "Rahim et al., J Clin Endocrinol Metab, 1998",
+            "date": "published May 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Israel · 1995 · Open study",
+        "title": "Nasal spray in short children, 1995",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open study, no placebo group"
+          },
+          {
+            "k": "People",
+            "v": "8 short children aged 4 to 11, before puberty"
+          },
+          {
+            "k": "Length",
+            "v": "up to 8 months"
+          },
+          {
+            "k": "Measured",
+            "v": "IGF-1 and growth rate"
+          }
+        ],
+        "found": "IGF-1 rose and growth rate rose from 5.3 to 8.3 cm per year. The authors saw no apparent undesirable side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8548949/",
+            "label": "Laron et al., Clin Endocrinol (Oxf), 1995",
+            "date": "published Nov 1995"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "The heart"
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 1999 · Single-dose study",
+        "title": "One dose in healthy men, 1999",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single intravenous dose of hexarelin or growth hormone, on separate occasions"
+          },
+          {
+            "k": "People",
+            "v": "7 healthy male volunteers"
+          },
+          {
+            "k": "Length",
+            "v": "90 minutes after each dose"
+          },
+          {
+            "k": "Measured",
+            "v": "heart pumping (ejection fraction) by radionuclide scan; hormones"
+          }
+        ],
+        "found": "Hexarelin raised ejection fraction from 64% to 71%, lasting up to 60 minutes. Growth hormone at a matched level did not. Hexarelin, but not growth hormone, raised cortisol.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10342360/",
+            "label": "Bisi et al., J Endocrinol Invest, 1999",
+            "date": "published Apr 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 1999 to 2002 · Single-dose studies",
+        "title": "One dose in heart patients, 1999 to 2002",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single intravenous doses, compared with controls, GHRH, growth hormone or placebo"
+          },
+          {
+            "k": "People",
+            "v": "7 men with growth hormone deficiency; 13 people with severe heart failure from cardiomyopathy; 24 men during heart bypass surgery"
+          },
+          {
+            "k": "Length",
+            "v": "minutes to hours after one dose"
+          },
+          {
+            "k": "Measured",
+            "v": "ejection fraction and other heart measures"
+          }
+        ],
+        "found": "Ejection fraction rose in men with GH deficiency and in ischemic cardiomyopathy, but not in dilated cardiomyopathy. In bypass surgery, hexarelin raised ejection fraction and cardiac output for up to 90 minutes; GHRH, growth hormone and placebo did not. None of these studies tested long-term use or outcomes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10528131/",
+            "label": "Bisi et al., Eur J Pharmacol, 1999",
+            "date": "published Sep 1999"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11959048/",
+            "label": "Imazio et al., Eur J Heart Fail, 2002",
+            "date": "published Mar 2002"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12144941/",
+            "label": "Broglio et al., Eur J Pharmacol, 2002",
+            "date": "published Jul 2002"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats with an induced heart attack, two weeks of hexarelin injections raised stroke volume and cardiac output and lowered vascular resistance, similar to growth hormone. This is animal evidence only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10614623/",
+            "label": "Tivesten et al., Endocrinology, 2000",
+            "date": "published Jan 2000"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No registered trial of hexarelin was found as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=hexarelin",
+            "label": "ClinicalTrials.gov search for 'hexarelin'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hexarelin",
+            "label": "PubMed search for 'hexarelin'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Hexarelin is not FDA approved for any use, and no company holds an approval for it. It is not on FDA’s lists of bulk substances nominated for compounding. Products sold online labelled “for research use only” or “not for human consumption” are not legal to sell for people to use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "a search of FDA’s drug approvals data for hexarelin found no matches.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:HEXARELIN",
+                "label": "Drugs@FDA search for hexarelin (no matches), openFDA",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "hexarelin does not appear in FDA’s 503A or 503B bulk substance category lists. Compounded drugs are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA has warned that products labelled “for research purposes” or “not for human consumption” have been sold to consumers for human use with dosing instructions, and that such products are unapproved drugs of unknown quality. FDA does not allow these products to be sold for human use.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (research-labelled products)",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, certain bodybuilding products put consumers at risk",
+                "date": "published Dec 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "We found no country where hexarelin is an approved medicine. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Not on FDA’s compounding nomination lists. Research-labelled products may not be sold for human use.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:HEXARELIN",
+              "label": "Drugs@FDA search for hexarelin (no matches), openFDA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+              "date": "published May 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94164/download",
+              "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+              "date": "published Mar 2025"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA, concerns with unapproved GLP-1 drugs (research-labelled products)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with hexarelin found in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=hexarelin",
+              "label": "Drug Product Database, Health Canada (hexarelin: no product)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Hexarelin is prohibited at all times under WADA class S2.2.4, growth hormone releasing factors, which names “GH-releasing peptides (GHRPs) [e.g. alexamorelin, examorelin (hexarelin), GHRP-1, … GHRP-6].” All S2 substances are non-Specified. It is still named on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no drug label for hexarelin. Safety data come from small, short studies, and research-labelled products have no quality standard."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Sleep:",
+            "text": "in the 2004 study, deep sleep fell after hexarelin.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15177700/",
+                "label": "Frieboes et al., Psychoneuroendocrinology, 2004",
+                "date": "published Aug 2004"
+              }
+            ]
+          },
+          {
+            "lead": "Other hormones:",
+            "text": "hexarelin raises cortisol, ACTH and prolactin, not only growth hormone. A 16-week study looked at this because repeated spikes of these hormones were a concern; the cortisol response was lower after 16 weeks.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15177700/",
+                "label": "Frieboes et al., Psychoneuroendocrinology, 2004",
+                "date": "published Aug 2004"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10341859/",
+                "label": "Rahim et al., Clin Endocrinol (Oxf), 1999",
+                "date": "published Jan 1999"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10342360/",
+                "label": "Bisi et al., J Endocrinol Invest, 1999",
+                "date": "published Apr 1999"
+              }
+            ]
+          },
+          {
+            "lead": "Tolerance:",
+            "text": "the growth hormone response weakened with 16 weeks of use and recovered after stopping.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9589671/",
+                "label": "Rahim et al., J Clin Endocrinol Metab, 1998",
+                "date": "published May 1998"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "single doses changed heart pumping in the studies above. Long-term heart effects have not been studied.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12144941/",
+                "label": "Broglio et al., Eur J Pharmacol, 2002",
+                "date": "published Jul 2002"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11959048/",
+                "label": "Imazio et al., Eur J Heart Fail, 2002",
+                "date": "published Mar 2002"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "FDA says research-labelled products sold for human use are of unknown quality and may be harmful.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (research-labelled products)",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The number of people in the 1998 16-week study (Rahim et al.) is not given in the abstract, and the full paper was not opened.",
+    "Status in the UK, the EU and Australia was not checked against a regulator record (TGA’s ARTG search did not load; EMA search was blocked).",
+    "We found no FDA statement naming hexarelin specifically; the research-use statements cited are FDA’s general warnings about research-labelled drugs."
+  ],
+  "surprises": [
+    "The only sleep study of hexarelin (7 volunteers, 2004) found that it reduced deep sleep, while a 1997 study of the oral secretagogue ibutamoren reported more deep sleep; GH secretagogues do not all act alike on sleep."
+  ]
+}

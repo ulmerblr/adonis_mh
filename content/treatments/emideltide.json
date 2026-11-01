@@ -1,0 +1,871 @@
+{
+  "slug": "emideltide",
+  "name": "Emideltide (DSIP)",
+  "row": "Emideltide (DSIP)",
+  "aka": [
+    "DSIP",
+    "Delta sleep-inducing peptide",
+    "Emideltide acetate"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Small 1980s studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rabbit, rat and cat studies since the 1970s",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small 1981–1998 studies, 1 to 107 people each",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase I",
+      "line": "No formal Phase I trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "No registered trial found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA panel voted no, July 2026",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Emideltide is the international nonproprietary name listed by WHO for delta sleep-inducing peptide (DSIP). FDA notes it has no US adopted name (USAN). It is a chain of nine amino acids: Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu. It was first found in the blood of rabbits in 1963 and made in the lab in 1976. It is sold as a free base or as an acetate salt, which FDA treats as different substances.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "The name comes from animal studies. Given to rabbits, rats and cats, it increased the slow \"delta\" brain waves of deep sleep. FDA's review says its sleep effects in animals seem to work through the body's opioid system: it does not bind opioid receptors directly, but it can trigger the release of endorphins.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In people, it is cleared from the blood very fast, with a half-life of about 8 minutes. FDA found no data on how it behaves when injected under the skin, the route it was nominated for in compounding.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Emideltide is not an approved medicine in the US or any country FDA searched. Using it for sleep is not an approved use anywhere."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Emideltide has been tested in people, but only in small studies from 1981 to 1998, all with injections into a vein. The early studies by one research group reported better sleep. Two double-blind studies by other research groups, in 1987 and 1992, found little or no benefit. No trial is registered on ClinicalTrials.gov."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=emideltide",
+            "label": "ClinicalTrials.gov search for 'emideltide'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=delta+sleep-inducing+peptide",
+            "label": "ClinicalTrials.gov search for 'delta sleep-inducing peptide'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Chronic insomnia"
+      },
+      {
+        "t": "study",
+        "meta": "1981 · Randomized crossover",
+        "title": "Six adults with insomnia, 1981",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover. Each person got DSIP or placebo by vein just before bed, on three test nights."
+          },
+          {
+            "k": "People",
+            "v": "6 middle-aged adults with chronic insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "3 test nights"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep recordings, sleepiness ratings, diaries"
+          }
+        ],
+        "found": "Sleep was longer, with fewer interruptions, from the second hour after the injection. In the first hour there was a slight arousing effect. No daytime sedation was reported. FDA noted the study was very small and did not report placebo numbers in full.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7028502/",
+            "label": "Schneider-Helmert and Schoenenberger, Experientia, 1981",
+            "date": "published Sep 1981"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "1986 · Open study, no placebo group",
+        "title": "Middle-aged and older adults, 1986",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo baseline nights, then DSIP by vein each evening, compared with outside healthy controls. No placebo group."
+          },
+          {
+            "k": "People",
+            "v": "18 adults with chronic insomnia: 9 aged 29–59, 9 aged 60–83"
+          },
+          {
+            "k": "Length",
+            "v": "one week of DSIP (6 doses), then one week of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "time to fall asleep, time awake, total sleep, sleep efficiency"
+          }
+        ],
+        "found": "The author reported sleep improved to normal levels in both age groups. FDA said the small size and the lack of a proper control group limit what this shows.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3792404/",
+            "label": "Schneider-Helmert, Eur Neurol, 1986",
+            "date": "published 1986"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "1987 · Before-and-after, external controls",
+        "title": "Sleep and daytime performance, 1987",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "seven nights of DSIP by vein, with placebo on the first and last nights. Results were compared with each person's baseline and with healthy people from outside the study."
+          },
+          {
+            "k": "People",
+            "v": "14 middle-aged adults with chronic insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "7 nights of DSIP, with a placebo night at the start and at the end"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep recordings, daytime tests, mood scales"
+          }
+        ],
+        "found": "Average time to fall asleep went from 58 to 28 minutes and total sleep from 313 to 385 minutes. The author called it placebo-controlled, but FDA said there was no placebo group, so the results are hard to interpret.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3622582/",
+            "label": "Schneider-Helmert, Eur Neurol, 1987",
+            "date": "published 1987"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "1987 · Randomized crossover",
+        "title": "Six adults with severe insomnia, 1987",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover, done twice with a 4-day break"
+          },
+          {
+            "k": "People",
+            "v": "6 adults with severe chronic insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "9 nights per round; 4 nights of DSIP or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep recordings, sleep quality ratings"
+          }
+        ],
+        "found": "Total sleep rose by about 20 minutes, but there were no significant differences from baseline or placebo. The authors concluded the sleep improvement was of little clinical significance.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3583493/",
+            "label": "Monti et al., Int J Clin Pharmacol Res, 1987",
+            "date": "published 1987"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 1992 · Randomized, parallel groups",
+        "title": "Sixteen adults with insomnia, 1992",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, matched pairs. Half got DSIP by vein and half got a glucose placebo, in the afternoon before three nights."
+          },
+          {
+            "k": "People",
+            "v": "16 adults with chronic insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "5 nights in a sleep lab"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep recordings, sleep quality, tiredness"
+          }
+        ],
+        "found": "Small differences in sleep efficiency and time to fall asleep were weak and may have come from a change in the placebo group. Subjective sleep quality did not change. The authors concluded short-term DSIP is not likely to be of major benefit for chronic insomnia.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1299794/",
+            "label": "Bes et al., Neuropsychobiology, 1992",
+            "date": "published 1992"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "1984:",
+            "text": "an open study of 7 people with severe insomnia, given 10 injections. The author reported sleep was normal in all but one for 3 to 7 months afterwards. There was no control group.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/6391926/",
+                "label": "Kaeser, Eur Neurol, 1984",
+                "date": "published 1984"
+              }
+            ]
+          },
+          {
+            "lead": "Review, 1986:",
+            "text": "FDA notes a 1986 review of these studies concluded the results were preliminary and did not show that DSIP reliably starts or keeps sleep.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Healthy volunteers"
+      },
+      {
+        "t": "study",
+        "meta": "1981 · Randomized crossover",
+        "title": "First study in people, 1981",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind crossover; DSIP or placebo slowly by vein in the morning"
+          },
+          {
+            "k": "People",
+            "v": "6 healthy volunteers (4 men, 2 women)"
+          },
+          {
+            "k": "Length",
+            "v": "2 test days"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep in the 130 minutes after the infusion, the next night's sleep, mood and alertness tests"
+          }
+        ],
+        "found": "Sleep in the 130 minutes after DSIP was 59% longer than after placebo (median). The next night, people fell asleep faster. No sedation, mood change or side effects were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6895513/",
+            "label": "Schneider-Helmert et al., Int J Clin Pharmacol Ther Toxicol, 1981",
+            "date": "published Aug 1981"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Narcolepsy"
+      },
+      {
+        "t": "p",
+        "text": "One case report, 1984: a 35-year-old man with narcolepsy had a week of evening and a week of morning DSIP injections. Sleep attacks fell from 6 in the baseline week to 3 in each treatment week. A single case cannot show whether it works.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6548968/",
+            "label": "Schneider-Helmert, Eur Neurol, 1984 (narcolepsy)",
+            "date": "published 1984"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Opioid and alcohol withdrawal"
+      },
+      {
+        "t": "study",
+        "meta": "Switzerland · 1984 · Open study, no control group",
+        "title": "Withdrawal in hospital inpatients, 1984",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, no comparison group; DSIP by vein when withdrawal symptoms appeared"
+          },
+          {
+            "k": "People",
+            "v": "107 inpatients: 60 withdrawing from opioids, 47 from alcohol"
+          },
+          {
+            "k": "Length",
+            "v": "up to 6 days"
+          },
+          {
+            "k": "Measured",
+            "v": "withdrawal signs judged by doctors and nurses"
+          }
+        ],
+        "found": "The authors reported symptoms cleared or improved in most patients who could be evaluated, but anxiety eased slowly and some had anxiety and marked insomnia 1 to 3 days after stopping. FDA said the lack of blinding and a control group limits what this shows.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6548969/",
+            "label": "Dick et al., Eur Neurol, 1984",
+            "date": "published 1984"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "1998: an open study of 7 people withdrawing from opioids. Symptom scores fell after the first injection, but only 2 people finished the full course, and both needed another drug for insomnia.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9617990/",
+            "label": "Backmund et al., J Clin Psychopharmacol, 1998",
+            "date": "published Jun 1998"
+          },
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rabbits, rats and cats, DSIP given into the brain or by injection increased deep-sleep brain waves, although results on sleep stages were not consistent. FDA found no standard toxicity studies (repeat-dose, cancer or reproduction) and no studies of whether it can be addictive.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/media/193344/download",
+            "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+            "date": "published Jul 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "What FDA concluded"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA's scientists, in a review dated May 11, 2026, recommended against adding emideltide (free base or acetate) to the list of substances pharmacies may compound. They reviewed it for injection under the skin for opioid withdrawal, chronic insomnia and narcolepsy.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA found the substance is not well characterized, the human studies are small and poorly controlled, and there are no safety data for injection under the skin. It noted FDA-approved drugs exist for insomnia, narcolepsy and opioid withdrawal.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "FDA's advisory committee voted on emideltide on July 24, 2026. The votes failed, with 6 in favor of adding it, 7 against and 1 abstaining, for both forms, as reported by Healio. FDA has not posted the official vote record.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, July 23-24, 2026 Pharmacy Compounding Advisory Committee meeting page",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions, July 2026",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use. FDA's advisory committee voted against adding it to the list pharmacies may compound from. It is not covered by the HHS peptide policy of October 2026. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. FDA says neither form is part of any FDA-approved drug, and there is no official (USP) drug monograph.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA's page of substances that may pose significant safety risks lists emideltide (DSIP) among nominations that were withdrawn after being in Category 2. FDA says compounded emideltide \"may pose risk for immunogenicity for certain routes of administration\" and that \"the agency lacks sufficient information to know whether the drug would cause harm if administered to humans.\"",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding review:",
+            "text": "two nominations for the 503A bulks list were withdrawn. FDA reviewed both forms anyway, on its own initiative, and in May 2026 recommended against adding them.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Advisory committee vote:",
+            "text": "July 24, 2026: 6 for, 7 against, 1 abstaining, for both forms, as reported by Healio. FDA has not posted the official vote record, and we found no final FDA decision.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+                "label": "FDA, July 23-24, 2026 Pharmacy Compounding Advisory Committee meeting page",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/193711/download",
+                "label": "FDA, PCAC voting questions, July 2026",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+                "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+                "date": "published Jul 24, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "the HHS enforcement discretion policy published October 30, 2026 names BPC-157, TB-500, epitalon, Semax, KPV and MOTS-c. Emideltide is not on it.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Use in compounding:",
+            "text": "no outsourcing facility reported making emideltide products to FDA. FDA found US clinics, medical spas and online retailers offering emideltide injections and nasal sprays, mostly without saying whether they were compounded. FDA also cites a federal prosecutor's press release about a pharmacy that compounded and distributed emideltide products from 2018 to 2020.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Emideltide is not approved as a medicine in any country FDA searched. Canada has seized it as an unauthorized drug, and no product containing it is authorised in the EU.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Not on the 503A bulks list; FDA panel voted against adding it (July 2026). Not in the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/media/193344/download",
+              "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+              "date": "published Jul 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
+              "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
+              "date": "published Jul 24, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. DSIP is named among unauthorized injectable peptides seized by Health Canada.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides (RA-81874)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=EMIDELTIDE",
+              "label": "Health Canada Drug Product Database, active ingredient search (emideltide)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA's medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Emideltide (DSIP) is not named on the WADA Prohibited List for 2026 or 2027. WADA class S0 bans at all times any pharmacological substance not covered by another class and with no current approval by any government health authority for human therapeutic use. For 2027, WADA adds \"peptides\" to the examples in S0. FDA found emideltide is not a registered drug in any country it searched. The lists do not say whether emideltide falls under S0.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/193344/download",
+              "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+              "date": "published Jul 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: emideltide and DSIP are not named in the Poisons Standard (June 2026). The TGA's product register was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-05-28/text/original/epub/OEBPS/document_1/document_1.html",
+              "label": "Australia, Poisons Standard June 2026 (Therapeutic Goods (Poisons Standard—June 2026) Instrument 2026)",
+              "date": "published May 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side effects are poorly known. FDA counts 209 people who had emideltide by vein in published studies, for 1 to 15 days. No one has published safety data for injection under the skin, the route nominated for compounding."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Insomnia studies:",
+            "text": "FDA says the small studies by vein reported it was well tolerated, with no significant adverse events. One study saw a slight arousing effect in the first hour.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/7028502/",
+                "label": "Schneider-Helmert and Schoenenberger, Experientia, 1981",
+                "date": "published Sep 1981"
+              }
+            ]
+          },
+          {
+            "lead": "Withdrawal study:",
+            "text": "of 107 patients, 9 had minor, short-lived effects such as sweating, headache, nausea and dizziness. Three had serious reactions: two had low blood pressure at the start of the first injection, and one patient who got a second injection had \"progressive\" low blood pressure. Some patients had anxiety and marked insomnia 1 to 3 days after stopping.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/6548969/",
+                "label": "Dick et al., Eur Neurol, 1984",
+                "date": "published 1984"
+              }
+            ]
+          },
+          {
+            "lead": "FDA reports:",
+            "text": "FDA's adverse event database had no reports for emideltide through March 3, 2024. FDA found no case reports.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA says a peptide of this size, injected, may trigger immune reactions, made worse by clumping (aggregation) and impurities. Reactions can range from harmless antibodies to life-threatening ones.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Opioid system:",
+            "text": "FDA notes emideltide acts on the body's opioid system in animals, which could pose a risk of addiction. No study has tested this.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "the supplier certificates sent to FDA had no endotoxin or bacterial testing, which FDA says is critical for injections.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/193344/download",
+                "label": "FDA briefing document, emideltide (memo dated May 11, 2026), PCAC July 2026",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "FDA has not posted the official vote record for the July 24, 2026 committee meeting; the vote counts come from Healio.",
+    "We found no FDA record of a final decision on emideltide after the July 2026 meeting.",
+    "The date emideltide was first placed in Category 2 is not shown on FDA's Category 2 page.",
+    "Status in the UK and Australia (TGA product register) was not checked against a regulator record.",
+    "Most published studies do not say whether they used the free base or the acetate form."
+  ],
+  "surprises": [
+    "Emideltide is promoted for sleep, but the two double-blind insomnia studies by other research groups (1987 and 1992) found little or no benefit.",
+    "It was nominated for compounding as an injection under the skin, yet every published human study FDA found gave it into a vein, and FDA found no safety data for the under-the-skin route.",
+    "Of the seven peptides FDA's advisory committee reviewed in July 2026, emideltide was the only one the committee voted against (as reported by Healio)."
+  ]
+}

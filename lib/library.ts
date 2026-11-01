@@ -123,6 +123,16 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
   sleep: [
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
     { name: 'Glycine', page: { href: '/glycine', evidence: 'Little sleep research', fda: 'Not a drug for sleep', sport: 'Not listed' } },
+    { name: 'CJC-1295', peptide: true, aka: ['CJC 1295', 'CJC1295'], page: { href: '/cjc-1295', evidence: 'Small studies; no sleep', fda: 'Not approved', sport: 'Banned (S2)' } },
+    { name: 'Emideltide (DSIP)', peptide: true, aka: ['DSIP', 'Delta sleep-inducing peptide', 'Emideltide acetate'], page: { href: '/emideltide', evidence: 'Small 1980s studies', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'GHRP-2 (pralmorelin)', peptide: true, aka: ['Pralmorelin', 'Pralmorelin hydrochloride', 'Pralmorelin dihydrochloride', 'KP-102', 'GHRP Kaken 100', 'Growth hormone releasing peptide-2'], page: { href: '/ghrp-2', evidence: 'GH-test studies; 1 sleep', fda: 'Not approved in US', sport: 'Banned (S2)' } },
+    { name: 'GHRP-6', peptide: true, aka: ['Growth hormone releasing peptide-6', 'Growth hormone-releasing hexapeptide', 'GHRP6'], page: { href: '/ghrp-6', evidence: 'Small studies; 2 on sleep', fda: 'Not approved', sport: 'Banned (S2)' } },
+    { name: 'Hexarelin', peptide: true, aka: ['Examorelin'], page: { href: '/hexarelin', evidence: 'Small 1990s human studies', fda: 'Not approved', sport: 'Banned' } },
+    { name: 'Ibutamoren (MK-677)', aka: ['MK-677', 'MK-0677', 'Ibutamoren mesylate', 'LUM-201'], page: { href: '/ibutamoren', evidence: '1 small sleep study; RCTs', fda: 'Not approved; Cat. 2', sport: 'Banned' } },
+    { name: 'Ipamorelin', peptide: true, aka: ['Ipamorelin acetate'], page: { href: '/ipamorelin', evidence: 'Phase II; no sleep data', fda: 'Not approved', sport: 'Banned (S2)' } },
+    { name: 'Magnesium', aka: ['Magnesium bisglycinate', 'Magnesium L-threonate', 'Magnesium sulfate'], page: { href: '/magnesium', evidence: 'Small RCTs; low certainty', fda: 'Not approved for sleep', sport: 'Not listed' } },
+    { name: 'Melatonin', aka: ['Slenyto', 'Circadin'], page: { href: '/melatonin', evidence: 'Sleep RCTs; 1 hair pilot', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Tesamorelin', peptide: true, aka: ['Egrifta', 'Egrifta SV', 'Egrifta WR', 'TH9507'], page: { href: '/tesamorelin', evidence: 'Approved; no sleep RCTs', fda: 'Approved (Egrifta)', sport: 'Banned' } },
   ],
   'hair-loss': [
     { name: 'Finasteride', page: { href: '/finasteride', evidence: 'Approved; many RCTs', fda: 'Approved (Propecia)', sport: 'Not listed' } },
@@ -132,7 +142,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Tretinoin', page: { href: '/tretinoin', evidence: 'Acne: approved; hair: few', fda: 'Approved (Retin-A)', sport: 'Not listed' } },
     { name: 'Biotin', page: { href: '/biotin', evidence: 'Little research', fda: 'Supplement, not drug', sport: 'Not listed' } },
     { name: 'Fluocinolone', page: { href: '/fluocinolone', evidence: 'No hair-loss studies', fda: 'Approved (Synalar)', sport: 'S9 (some routes)' } },
-    { name: 'Melatonin (topical)', page: { href: '/melatonin', evidence: '1 pilot RCT; open studies', fda: 'Not approved', sport: 'Not listed' } },
+    { name: 'Melatonin', page: { href: '/melatonin', evidence: 'Sleep RCTs; 1 hair pilot', fda: 'Not approved', sport: 'Not listed' } },
   ],
   skin: [
     { name: 'Tretinoin', page: { href: '/tretinoin', evidence: 'Acne: approved; hair: few', fda: 'Approved (Retin-A)', sport: 'Not listed' } },

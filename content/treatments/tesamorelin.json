@@ -1,0 +1,638 @@
+{
+  "slug": "tesamorelin",
+  "name": "Tesamorelin",
+  "row": "Tesamorelin",
+  "aka": [
+    "Egrifta",
+    "Egrifta SV",
+    "Egrifta WR",
+    "TH9507"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Approved; no sleep RCTs",
+    "fda": "Approved (Egrifta)",
+    "sport": "Banned"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "GHRH analogue studied in labs and animals",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Early drug-level studies by the maker",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Trials of other uses, e.g. memory in older adults",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Two 52-week RCTs in HIV belly fat, 816 people",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Egrifta, 2010, belly fat in HIV lipodystrophy",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Approval for sleep",
+      "line": "Never approved or tested in a sleep trial",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Tesamorelin is a man-made version of human growth hormone-releasing factor (GRF, also called GHRH). It has all 44 amino acids of the natural hormone, plus a small fatty chain (a hexenoyl group) attached at one end. It is made as an acetate salt.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+            "label": "Egrifta WR (tesamorelin) label, DailyMed",
+            "date": "published Mar 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It binds the same pituitary receptor as natural GRF, with similar strength in the lab. That makes the pituitary release more of the body’s own growth hormone, which in turn raises IGF-1.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+            "label": "Egrifta WR (tesamorelin) label, DailyMed",
+            "date": "published Mar 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is FDA approved as Egrifta for one use: to reduce excess belly fat in adults with HIV who have lipodystrophy. The current US forms are Egrifta SV (2 mg vial) and Egrifta WR (11.6 mg vial).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+            "label": "Egrifta WR (tesamorelin) label, DailyMed",
+            "date": "published Mar 2025"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d783378-b02d-4f19-99dd-0fc91a042224",
+            "label": "Egrifta SV (tesamorelin) label, DailyMed",
+            "date": "published Mar 2024"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:BLA022505",
+            "label": "Drugs@FDA record, BLA 022505 (Egrifta), openFDA",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Tesamorelin for sleep, aging, memory or general fat loss is off-label. The label says it is not for weight loss."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The trials behind approval measured belly fat in people with HIV, not sleep. Later trials tested it for liver fat and memory. We found one small trial that measured sleep among other things; it found no significant change. Two planned sleep trials were withdrawn before anyone enrolled."
+      },
+      {
+        "t": "h3",
+        "text": "Approval trials (HIV lipodystrophy)"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2005 to 2008 · Two randomized trials",
+        "title": "The two phase III trials on the Egrifta label",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two multicenter, randomized, double-blind, placebo-controlled trials (Study 1, NCT00123253; Study 2, NCT00435136), each with a 26-week main phase and a 26-week extension"
+          },
+          {
+            "k": "People",
+            "v": "816 adults with HIV, lipodystrophy and excess belly fat (412 and 404); mean age 48; about 85% men; on stable HIV treatment"
+          },
+          {
+            "k": "Length",
+            "v": "26 weeks, then 26 more weeks for those re-randomized"
+          },
+          {
+            "k": "Measured",
+            "v": "change in deep belly fat (visceral adipose tissue) on CT scan; IGF-1, weight, waist, body-image ratings, safety"
+          }
+        ],
+        "found": "At week 26, deep belly fat fell 18% with tesamorelin vs. a 2% rise with placebo in Study 1, and fell 14% vs. 2% in Study 2. IGF-1 rose by about 107 ng/mL. Weight did not change. Waist size fell by 1 to 2 cm more than with placebo. Sleep was not a measure.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+            "label": "Egrifta WR (tesamorelin) label, DailyMed",
+            "date": "published Mar 2025"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00123253",
+            "label": "NCT00123253, ClinicalTrials.gov",
+            "date": "published Jul 2005"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Other uses (off-label)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 to 2019 · Randomized trial",
+        "title": "Liver fat in people with HIV, 2019",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, two centers"
+          },
+          {
+            "k": "People",
+            "v": "61 adults with HIV and fatty liver (5% or more liver fat)"
+          },
+          {
+            "k": "Length",
+            "v": "12 months, then 6 months open-label"
+          },
+          {
+            "k": "Measured",
+            "v": "change in liver fat fraction by MR spectroscopy; glucose as the main safety measure"
+          }
+        ],
+        "found": "Liver fat fell by 4.1 percentage points more than with placebo (a 37% relative drop). Glucose and HbA1c did not differ between groups. Injection-site complaints were more common with tesamorelin; none were judged serious.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31611038/",
+            "label": "Stanley et al., Lancet HIV, 2019",
+            "date": "published Dec 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized trial",
+        "title": "Memory and thinking in older adults, 2012",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "152 adults aged 55 to 87 (66 with mild cognitive impairment); 137 finished"
+          },
+          {
+            "k": "Length",
+            "v": "20 weeks of nightly injections, then a 10-week washout"
+          },
+          {
+            "k": "Measured",
+            "v": "tests of executive function and memory; IGF-1, body fat, insulin"
+          }
+        ],
+        "found": "Overall cognition scores were better with tesamorelin (P=.03), mainly executive function. IGF-1 rose 117% and body fat fell 7.4%. Fasting insulin rose 35% in those with cognitive impairment. Mild adverse events were reported by 68% on tesamorelin and 36% on placebo. Sleep was not reported in the abstract.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22869065/",
+            "label": "Baker et al., Arch Neurol, 2012",
+            "date": "published Nov 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 to 2026 · Randomized pilot",
+        "title": "Low-dose tesamorelin, cognition and sleep, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled pilot (NCT02553603)"
+          },
+          {
+            "k": "People",
+            "v": "22 adults with normal cognition to mild cognitive impairment"
+          },
+          {
+            "k": "Length",
+            "v": "10 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "body composition, fatigue, sleep, physical performance, glucose tolerance, cognition, brain scans"
+          }
+        ],
+        "found": "The low dose was not linked with significant changes in any study measure, including sleep. A machine-learning analysis suggested possible differences in some brain areas.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42382101/",
+            "label": "Stewart et al., eNeurologicalSci, 2026",
+            "date": "published Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Sleep trials that never ran:",
+            "text": "a Johns Hopkins trial of Egrifta and sleep-disordered breathing (NCT01788462) was withdrawn for lack of funding with no one enrolled, and a NINR trial of tesamorelin for insomnia after brain injury in service members (NCT02931474) was withdrawn with no one enrolled.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT01788462",
+                "label": "NCT01788462, ClinicalTrials.gov",
+                "date": "published Feb 2013"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT02931474",
+                "label": "NCT02931474, ClinicalTrials.gov",
+                "date": "published Oct 2016"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "No published human study of tesamorelin with sleep as its main result was found as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tesamorelin+AND+sleep",
+            "label": "PubMed search for 'tesamorelin AND sleep'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=tesamorelin",
+            "label": "ClinicalTrials.gov search for 'tesamorelin'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Tesamorelin is FDA approved, as Egrifta, only to reduce excess belly fat in adults with HIV and lipodystrophy. Any other use, including sleep, is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approval:",
+            "text": "FDA approved Egrifta on November 10, 2010, as a new molecular entity. FDA’s records list it as BLA 022505 (Theratechnologies).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:BLA022505",
+                "label": "Drugs@FDA record, BLA 022505 (Egrifta), openFDA",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Current forms:",
+            "text": "Egrifta SV (2 mg per vial) and Egrifta WR (11.6 mg per vial). The WR label says its use is based on the Egrifta trials plus a study showing comparable drug levels.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d783378-b02d-4f19-99dd-0fc91a042224",
+                "label": "Egrifta SV (tesamorelin) label, DailyMed",
+                "date": "published Mar 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Label limits:",
+            "text": "long-term heart safety has not been established; it is not for weight loss; and there is no evidence it improves adherence to HIV medicines.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Prescription:",
+            "text": "the label marks it Rx only.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "tesamorelin is not in FDA’s 503A or 503B bulk substance category lists. Compounded drugs are not FDA approved; FDA does not review their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Tesamorelin is an approved medicine in the US for one HIV-related use. In Canada, Egrifta was marketed and then cancelled; in the EU, the application was withdrawn in 2012 when regulators judged that benefits did not outweigh risks. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Egrifta SV, Egrifta WR) for excess belly fat in adults with HIV lipodystrophy. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:BLA022505",
+              "label": "Drugs@FDA record, BLA 022505 (Egrifta), openFDA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+              "label": "Egrifta WR (tesamorelin) label, DailyMed",
+              "date": "published Mar 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Egrifta was marketed from 2015; that product was cancelled after marketing in 2022, and a second one was cancelled before marketing. No current product found.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=tesamorelin",
+              "label": "Drug Product Database, Health Canada (tesamorelin)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=92311",
+              "label": "Drug Product Database status, Health Canada (Egrifta, DIN 02438712)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=90838",
+              "label": "Drug Product Database status, Health Canada (Egrifta, DIN 02423677)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Not authorised. The applicant, Ferrer Internacional, withdrew its application for Egrifta in June 2012; EMA’s committee was of the opinion that benefits did not outweigh risks.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/egrifta",
+              "label": "Egrifta: withdrawal of application, EMA",
+              "date": "published Jul 2012"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Tesamorelin is prohibited at all times (in and out of competition) under WADA class S2.2.4, growth hormone releasing factors, which names “growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin).” All S2 substances are non-Specified. It is still named on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The Egrifta label lists serious warnings, including tumor risk, high IGF-1, fluid retention, diabetes risk, allergic reactions and a caution in critical illness. These come from trials in people with HIV."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common (more than 5%):",
+            "text": "joint pain, injection-site redness and itching, pain in the arms or legs, swelling of the legs and muscle pain. Injection-site reactions occurred in 25% vs. 14% on placebo in the first 26 weeks.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Tumors:",
+            "text": "it raises growth hormone, a known growth factor. It must not be used with active cancer, and should be stopped if cancer returns.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "IGF-1:",
+            "text": "it raises IGF-1; the effects of long-term high IGF-1 are unknown. The label calls for IGF-1 monitoring.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Blood sugar:",
+            "text": "HbA1c of 6.5% or more developed in 5% on tesamorelin vs. 1% on placebo (hazard ratio 3.3). The label calls for glucose checks.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Fluid retention:",
+            "text": "swelling, joint pain and carpal tunnel syndrome.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Allergic reactions:",
+            "text": "in 4% of trial patients (itching, redness, flushing, hives, rash). The label also asks for eye checks for diabetic retinopathy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Critical illness:",
+            "text": "growth hormone has been linked to higher death rates in acute critical illness, so stopping tesamorelin should be considered in critically ill patients.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy:",
+            "text": "contraindicated; rat studies showed hydrocephaly in offspring.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "no effect on fertility was seen in male or female rats. The label reports no human fertility data.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+                "label": "Egrifta WR (tesamorelin) label, DailyMed",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Europe:",
+            "text": "EMA’s committee called the IGF-1 rise in many patients a major safety concern, citing possible cancer risk and worse diabetic eye disease, and noted the lack of long-term safety data.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/egrifta",
+                "label": "Egrifta: withdrawal of application, EMA",
+                "date": "published Jul 2012"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The FDA approval dates of the Egrifta SV and Egrifta WR forms were not confirmed from an FDA approval letter; Drugs@FDA’s web page did not open, so the openFDA record was used.",
+    "The full results of Study 2 (NCT00435136) were taken from the label; the trial record itself was not opened.",
+    "Status in the UK and Australia was not checked against a regulator record (TGA’s ARTG search did not load)."
+  ],
+  "surprises": [
+    "Tesamorelin is FDA approved, but only for excess belly fat in adults with HIV lipodystrophy; its label says it is not for weight loss, and no completed trial has had sleep as its main result.",
+    "The EU never authorised it: the application was withdrawn in 2012 after EMA’s committee judged that benefits did not outweigh risks, citing IGF-1 rises as a major safety concern.",
+    "In Canada, where its maker is based, Health Canada’s database shows Egrifta cancelled after marketing in 2022."
+  ]
+}

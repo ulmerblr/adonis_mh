@@ -1,0 +1,522 @@
+{
+  "slug": "magnesium",
+  "name": "Magnesium",
+  "row": "Magnesium",
+  "aka": [
+    "Magnesium bisglycinate",
+    "Magnesium L-threonate",
+    "Magnesium sulfate"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Small RCTs; low certainty",
+    "fda": "Not approved for sleep",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Proposed NMDA and GABA actions (trial papers)",
+      "status": "done"
+    },
+    {
+      "title": "Small trials",
+      "line": "RCTs of 46 to 155 people, weeks long",
+      "status": "done"
+    },
+    {
+      "title": "Reviews",
+      "line": "2021 and 2026 reviews: low to very low certainty",
+      "status": "done"
+    },
+    {
+      "title": "Large sleep trials",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Approved drug forms only for other uses",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold without FDA review before sale",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Magnesium is a mineral. Under US law, a product with a mineral that is meant to supplement the diet can be sold as a dietary supplement.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Researchers study it for sleep because it blocks NMDA receptors and supports GABA signaling, two brain systems involved in sleep. That is the reasoning given in trial papers, not a result.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23853635/",
+            "label": "Abbasi et al., J Res Med Sci, 2012",
+            "date": "published Dec 2012"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Supplements come in many salts, such as magnesium bisglycinate and magnesium L-threonate, which have each been tested in sleep trials. Magnesium sulfate is also an FDA-approved injectable drug, but for other uses.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40918053/",
+            "label": "Schuster et al., Nat Sci Sleep, 2025",
+            "date": "published Aug 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39252819/",
+            "label": "Hausenblas et al., Sleep Med X, 2024",
+            "date": "published Aug 2024"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a5d362b-7aa7-40d3-898d-09407cce0713",
+            "label": "Magnesium Sulfate Injection, USP (Fresenius Kabi) label, DailyMed",
+            "date": "published Feb 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No magnesium product is approved for sleep. Using it for sleep is a supplement use, not an approved one."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Sleep trials of magnesium are small and short, and they used different salts, doses and measures. A 2026 systematic review of 12 trials rated the evidence low to very low certainty and said it does not support magnesium as a routine insomnia treatment."
+      },
+      {
+        "t": "h3",
+        "text": "Reviews"
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2026 · Systematic review",
+        "title": "Magnesium for sleep in adults, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review of randomized controlled trials of magnesium alone, searched to June 2026"
+          },
+          {
+            "k": "People",
+            "v": "12 trials on sleep, insomnia or poor sleep in adults (plus 3 on cramp or leg-movement sleep problems)"
+          },
+          {
+            "k": "Length",
+            "v": "varied"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep questionnaires, EEG, actigraphy, wearables, body markers"
+          }
+        ],
+        "found": "Findings were inconsistent across measures. Certainty was low to very low. The authors found modest benefit on some self-rated outcomes in some adults and said the evidence does not support routine use for insomnia.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42661485/",
+            "label": "Lopresti et al., J Diet Suppl, 2026 (systematic review)",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 2021 · Meta-analysis",
+        "title": "Magnesium for insomnia in older adults, 2021",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis of randomized trials vs. placebo"
+          },
+          {
+            "k": "People",
+            "v": "3 trials, 151 older adults, 3 countries"
+          },
+          {
+            "k": "Length",
+            "v": "varied"
+          },
+          {
+            "k": "Measured",
+            "v": "time to fall asleep, total sleep time, side effects"
+          }
+        ],
+        "found": "People fell asleep 17 minutes sooner with magnesium than with placebo. Total sleep time rose 16 minutes, which was not statistically significant. All trials had moderate to high risk of bias, and evidence quality was low to very low.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33865376/",
+            "label": "Mah and Pitre, BMC Complement Med Ther, 2021 (meta-analysis)",
+            "date": "published Apr 2021"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Trials"
+      },
+      {
+        "t": "study",
+        "meta": "Iran · 2012 · Randomized trial",
+        "title": "Older adults with insomnia, 2012",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "46 older adults with primary insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "Insomnia Severity Index, sleep log, blood melatonin, renin and cortisol"
+          }
+        ],
+        "found": "Insomnia scores, sleep efficiency and time to fall asleep improved vs. placebo. Total sleep time did not differ significantly between groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23853635/",
+            "label": "Abbasi et al., J Res Med Sci, 2012",
+            "date": "published Dec 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 2025 · Randomized trial",
+        "title": "Magnesium bisglycinate in adults with poor sleep, 2025",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "155 adults aged 18 to 65 reporting poor sleep"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks for the main result"
+          },
+          {
+            "k": "Measured",
+            "v": "Insomnia Severity Index and other questionnaires"
+          }
+        ],
+        "found": "Insomnia scores fell by 3.9 points vs. 2.3 on placebo (p=0.049), a small effect. Other questionnaires did not differ. Sleep was not measured objectively. One author runs a research firm funded by supplement companies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40918053/",
+            "label": "Schuster et al., Nat Sci Sleep, 2025",
+            "date": "published Aug 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Randomized trial",
+        "title": "Magnesium L-threonate in adults with sleep problems, 2024",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, placebo-controlled, parallel groups"
+          },
+          {
+            "k": "People",
+            "v": "80 adults aged 35 to 55 with self-reported sleep problems"
+          },
+          {
+            "k": "Length",
+            "v": "21 days"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep questionnaires; a consumer sleep ring; mood and energy"
+          }
+        ],
+        "found": "Several ring-based scores (deep sleep and REM scores) and some daytime ratings were better than with placebo. The paper declares possible competing interests. Consumer ring scores are not a clinical sleep test.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39252819/",
+            "label": "Hausenblas et al., Sleep Med X, 2024",
+            "date": "published Aug 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Magnesium can be sold in the US as a dietary supplement. FDA does not approve supplements before they are sold. FDA-approved magnesium drugs, such as magnesium sulfate injection, are for other uses, not sleep. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Dietary supplement:",
+            "text": "minerals are dietary ingredients under the law that defines dietary supplements.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No review before sale:",
+            "text": "under the 1994 supplement law (DSHEA), FDA does not have the authority to approve dietary supplements before they are marketed, and firms generally do not have to give FDA their safety evidence.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Approved drug forms:",
+            "text": "Magnesium Sulfate Injection, USP (NDA 019316) is approved for magnesium deficiency, for magnesium in IV nutrition, and to prevent and control seizures in pre-eclampsia and eclampsia. It is given by a clinician, not for sleep.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a5d362b-7aa7-40d3-898d-09407cce0713",
+                "label": "Magnesium Sulfate Injection, USP (Fresenius Kabi) label, DailyMed",
+                "date": "published Feb 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/label.json?search=set_id:6a5d362b-7aa7-40d3-898d-09407cce0713",
+                "label": "openFDA label record (NDA 019316)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA lists magnesium chloride and magnesium sulfate in 503B Category 1 (under evaluation) and marks them as components of FDA-approved drugs. Compounded drugs are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US, magnesium is sold as a dietary supplement and is not an approved sleep medicine. We did not confirm its status in other countries.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Sold as a dietary supplement. Approved as a drug (e.g., magnesium sulfate injection) only for other uses.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a5d362b-7aa7-40d3-898d-09407cce0713",
+              "label": "Magnesium Sulfate Injection, USP (Fresenius Kabi) label, DailyMed",
+              "date": "published Feb 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA / FSA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Magnesium is not listed on the WADA 2026 Prohibited List or the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "FDA does not review magnesium supplements for safety before sale. The sleep trials were short and reported few problems. Injected magnesium can be dangerous in overdose."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Sleep trials:",
+            "text": "the 2024 trial reported magnesium L-threonate was well tolerated over 21 days. The 2021 meta-analysis looked at side effects, but its abstract gives no rates.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/39252819/",
+                "label": "Hausenblas et al., Sleep Med X, 2024",
+                "date": "published Aug 2024"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33865376/",
+                "label": "Mah and Pitre, BMC Complement Med Ther, 2021 (meta-analysis)",
+                "date": "published Apr 2021"
+              }
+            ]
+          },
+          {
+            "lead": "Injected magnesium (label):",
+            "text": "adverse effects are usually from magnesium toxicity: flushing, sweating, low blood pressure, weak reflexes, paralysis, low body temperature, and heart and breathing depression leading to respiratory paralysis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a5d362b-7aa7-40d3-898d-09407cce0713",
+                "label": "Magnesium Sulfate Injection, USP (Fresenius Kabi) label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Pregnancy (injection label):",
+            "text": "giving magnesium sulfate for more than 5 to 7 days in pregnancy can cause low calcium and bone problems in the baby.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a5d362b-7aa7-40d3-898d-09407cce0713",
+                "label": "Magnesium Sulfate Injection, USP (Fresenius Kabi) label, DailyMed",
+                "date": "published Feb 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Supplements:",
+            "text": "FDA does not approve supplements before they are sold, so the safety of a given product is not reviewed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "NIH Office of Dietary Supplements’ magnesium fact sheet (intake limits, side effects of oral supplements) could not be opened; the site returned a bot-check page.",
+    "Magnesium’s status in Canada, the UK, the EU and Australia was not checked against a regulator record."
+  ],
+  "surprises": [
+    "Magnesium sulfate is an FDA-approved drug, but for magnesium deficiency and seizures in pre-eclampsia and eclampsia, not for sleep."
+  ]
+}

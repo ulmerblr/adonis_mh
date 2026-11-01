@@ -1,12 +1,19 @@
 {
   "slug": "melatonin",
-  "name": "Melatonin (topical)",
+  "name": "Melatonin",
+  "row": "Melatonin",
+  "aka": [
+    "Slenyto",
+    "Circadin"
+  ],
+  "checked": "November 1, 2026",
   "peptide": false,
   "lanes": [
-    "hair-loss"
+    "hair-loss",
+    "sleep"
   ],
   "index": {
-    "evidence": "1 pilot RCT; open studies",
+    "evidence": "Sleep RCTs; 1 hair pilot",
     "fda": "Not approved",
     "sport": "Not listed"
   },
@@ -57,18 +64,39 @@
         ]
       },
       {
+        "t": "p",
+        "text": "Taken by mouth, melatonin is used for sleep. In the US it is sold as a dietary supplement. In the EU, prolonged-release melatonin tablets are prescription medicines: Circadin for short-term insomnia in people 55 and over, and Slenyto for insomnia in children and teens with autism, certain genetic conditions or ADHD.",
+        "src": [
+          {
+            "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+            "label": "Melatonin: what you need to know, NIH NCCIH",
+            "date": "published May 2024"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/circadin",
+            "label": "Circadin EPAR, EMA",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/slenyto",
+            "label": "Slenyto EPAR, EMA",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
         "t": "callout",
-        "text": "Using melatonin on the scalp for hair loss is off-label."
+        "text": "Using melatonin on the scalp for hair loss is off-label. Melatonin by mouth for sleep is sold as a supplement in the US and is an approved prescription medicine only in some countries."
       }
     ],
     "research": [
       {
         "t": "lead",
-        "text": "One small randomized trial and a set of open, uncontrolled studies have tested melatonin solution on the scalp."
+        "text": "For hair loss, one small randomized trial and a set of open, uncontrolled studies have tested melatonin solution on the scalp. For sleep, melatonin by mouth has been tested in many placebo-controlled trials; meta-analyses find small effects on how fast people fall asleep and on sleep quality."
       },
       {
         "t": "h3",
-        "text": "Human studies"
+        "text": "Hair loss: human studies"
       },
       {
         "t": "study",
@@ -132,12 +160,209 @@
             "date": "published Oct 2012"
           }
         ]
+      },
+      {
+        "t": "h3",
+        "text": "Sleep: melatonin by mouth"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Meta-analysis",
+        "title": "Melatonin for primary sleep disorders, 2013",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "meta-analysis of randomized, placebo-controlled trials"
+          },
+          {
+            "k": "People",
+            "v": "19 trials, 1,683 adults and children with primary sleep disorders"
+          },
+          {
+            "k": "Length",
+            "v": "varied"
+          },
+          {
+            "k": "Measured",
+            "v": "time to fall asleep, total sleep time, sleep quality"
+          }
+        ],
+        "found": "Melatonin cut time to fall asleep by about 7 minutes and added about 8 minutes of sleep vs. placebo, and sleep quality improved. The authors called the effects modest; they did not fade with continued use. Effects were larger in longer trials and at higher doses.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23691095/",
+            "label": "Ferracioli-Oda et al., PLoS One, 2013 (meta-analysis)",
+            "date": "published May 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "France · 2023 · Meta-analysis",
+        "title": "Melatonin and ramelteon for insomnia disorder, 2023",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis vs. placebo"
+          },
+          {
+            "k": "People",
+            "v": "22 studies, 4,875 participants (925 on melatonin, mostly prolonged-release)"
+          },
+          {
+            "k": "Length",
+            "v": "short- and long-term"
+          },
+          {
+            "k": "Measured",
+            "v": "self-rated and lab-measured time to fall asleep, total sleep time, sleep efficiency"
+          }
+        ],
+        "found": "Prolonged-release melatonin cut time to fall asleep by about 5 to 6 minutes and raised sleep efficiency by about 2 percentage points, small to medium effects. Effects on sleep efficiency were larger when patients’ mean age was 55 or more.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37434463/",
+            "label": "Maruani et al., J Sleep Res, 2023 (meta-analysis)",
+            "date": "published Dec 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2007 · Randomized trial",
+        "title": "Prolonged-release melatonin (Circadin) in people aged 55 to 80",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, after a 2-week placebo run-in; primary care in the West of Scotland"
+          },
+          {
+            "k": "People",
+            "v": "354 men and women aged 55 to 80 with primary insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "3 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "responders with better sleep quality and morning alertness (Leeds questionnaire); sleep index; time to fall asleep; quality of life"
+          }
+        ],
+        "found": "26% on melatonin vs. 15% on placebo were responders. Time to fall asleep fell by 24 minutes vs. 13 minutes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17875243/",
+            "label": "Wade et al., Curr Med Res Opin, 2007",
+            "date": "published Oct 2007"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "France · 2007 · Randomized trial",
+        "title": "Prolonged-release melatonin in insomnia patients 55 and over",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "170 outpatients aged 55 and over with primary insomnia"
+          },
+          {
+            "k": "Length",
+            "v": "3 weeks, then a check for rebound and withdrawal"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep quality and morning alertness questionnaires"
+          }
+        ],
+        "found": "Sleep quality and morning alertness improved more than with placebo. No rebound insomnia or withdrawal effects were seen after stopping. Side effects were few and mostly minor.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18036082/",
+            "label": "Lemoine et al., J Sleep Res, 2007",
+            "date": "published Dec 2007"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Europe · 2018 · Randomized trial (EMA summary)",
+        "title": "Slenyto in children with autism or Smith-Magenis syndrome",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "main placebo-controlled study behind Slenyto’s EU approval"
+          },
+          {
+            "k": "People",
+            "v": "125 children aged 2 to 17 (121 with autism, 4 with Smith-Magenis syndrome) who had tried sleep routines"
+          },
+          {
+            "k": "Length",
+            "v": "13 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "total sleep time and time to fall asleep"
+          }
+        ],
+        "found": "Children on Slenyto slept 51 more minutes per night vs. 19 more on placebo, and fell asleep about 38 minutes earlier vs. 13 minutes on placebo.",
+        "src": [
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/slenyto",
+            "label": "Slenyto EPAR, EMA",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Chronic insomnia guidelines:",
+            "text": "NIH’s NCCIH reports that the American Academy of Sleep Medicine (2017) and American College of Physicians (2016) found not enough strong evidence on melatonin’s effectiveness or safety for chronic insomnia to back its use.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Jet lag:",
+            "text": "NCCIH reports reviews from 2010 and 2014 suggesting melatonin may help jet lag symptoms after eastward and westward flights.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Shift work:",
+            "text": "NCCIH reports that 2014 reviews of 7 and 8 small studies were inconclusive; one found about 24 minutes more daytime sleep, with low-quality evidence.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          }
+        ]
       }
     ],
     "us": [
       {
         "t": "lead",
-        "text": "In the US, melatonin is sold as a dietary supplement. It is not an FDA-approved drug for hair loss."
+        "text": "In the US, melatonin is sold as a dietary supplement. No melatonin product is FDA approved, for sleep or for hair loss. As of November 1, 2026."
       },
       {
         "t": "p",
@@ -174,11 +399,45 @@
       },
       {
         "t": "p",
-        "text": "No melatonin product is FDA approved for hair loss. Compounded hair sprays that contain it are not FDA approved."
+        "text": "No melatonin product is FDA approved for sleep or hair loss; a search of FDA’s drug approvals data for melatonin found no matches. Compounded hair sprays that contain it are not FDA approved.",
+        "src": [
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:MELATONIN",
+            "label": "Drugs@FDA search for melatonin (no matches), openFDA",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Supplement for sleep:",
+            "text": "melatonin sold for sleep in the US is a dietary supplement, regulated less strictly than prescription or over-the-counter drugs. In several other countries it is available only with a prescription.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Label accuracy:",
+            "text": "in a 2017 test of 31 melatonin supplements, most did not contain the amount on the label, and 26% contained serotonin. A 2023 study found 22 of 25 melatonin gummies inaccurately labeled, with 74% to 347% of the stated amount.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          }
+        ]
       }
     ],
     "world": {
-      "lead": "Melatonin is a supplement in the US but a prescription-only medicine in the UK, and the EU has authorised it as a prescription medicine for sleep. No regulator we checked has approved it for hair loss.",
+      "lead": "Melatonin is a supplement in the US but a prescription-only medicine in the UK. The EU has authorised two prescription melatonin medicines for sleep, Circadin and Slenyto, and Canada now markets Slenyto. No regulator we checked has approved it for hair loss.",
       "countries": [
         {
           "country": "United States",
@@ -205,18 +464,23 @@
         {
           "country": "Canada",
           "regulator": "Health Canada",
-          "status": "A melatonin medicine (Slenyto) is marketed as a prescription drug. Not approved for hair loss.",
-          "checked": "Oct 31, 2026",
+          "status": "Slenyto (prolonged-release melatonin) is a prescription drug, marketed since July 2026. No Circadin product found. Not approved for hair loss.",
+          "checked": "Nov 1, 2026",
           "sources": [
             {
               "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=slenyto",
               "label": "Drug Product Database, Health Canada (Slenyto)",
-              "date": "accessed Oct 31, 2026"
+              "date": "accessed Nov 1, 2026"
             },
             {
               "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106382",
-              "label": "Drug Product Database status, Health Canada",
-              "date": "accessed Oct 31, 2026"
+              "label": "Drug Product Database status, Health Canada (Slenyto)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=circadin",
+              "label": "Drug Product Database, Health Canada (Circadin: no product)",
+              "date": "accessed Nov 1, 2026"
             },
             {
               "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=106382",
@@ -249,13 +513,18 @@
         {
           "country": "EU",
           "regulator": "EMA",
-          "status": "Circadin (melatonin) is authorised across the EU for short-term insomnia in people 55 and over. Prescription-only. Not approved for hair loss.",
-          "checked": "Oct 31, 2026",
+          "status": "Circadin is authorised across the EU (2007) for short-term primary insomnia in people 55 and over, and Slenyto (2018) for insomnia in children and teens with autism, certain neurogenetic disorders or ADHD. Both prescription-only. Not approved for hair loss.",
+          "checked": "Nov 1, 2026",
           "sources": [
             {
               "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/circadin",
               "label": "Circadin EPAR, EMA",
-              "date": "accessed Oct 31, 2026"
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/slenyto",
+              "label": "Slenyto EPAR, EMA",
+              "date": "accessed Nov 1, 2026"
             }
           ],
           "iso": [
@@ -324,7 +593,7 @@
     "side": [
       {
         "t": "lead",
-        "text": "No label covers melatonin on the scalp. The side effects below are for melatonin taken by mouth."
+        "text": "No label covers melatonin on the scalp. The side effects below are for melatonin taken by mouth, from NIH, EMA and the sleep trials."
       },
       {
         "t": "list",
@@ -350,6 +619,50 @@
                 "date": "accessed Oct 31, 2026"
               }
             ]
+          },
+          {
+            "lead": "Long-term use:",
+            "text": "short-term use appears safe for most people, but information on long-term safety is lacking. People with epilepsy or on blood thinners need medical supervision.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Children:",
+            "text": "CDC estimated about 11,000 emergency visits in 2019 to 2022 for unsupervised melatonin swallowing by children 5 and under, many involving gummies.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know",
+                "label": "Melatonin: what you need to know, NIH NCCIH",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Trials:",
+            "text": "in the 2007 trial of 170 people, side effects were few and mostly minor, with no rebound insomnia or withdrawal after stopping.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18036082/",
+                "label": "Lemoine et al., J Sleep Res, 2007",
+                "date": "published Dec 2007"
+              }
+            ]
+          },
+          {
+            "lead": "Supplements:",
+            "text": "FDA does not approve dietary supplements before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ]
           }
         ]
       },
@@ -369,10 +682,14 @@
   "unconfirmed": [
     "We could not open Health Canada’s natural health product records for melatonin; only the prescription drug Slenyto was confirmed.",
     "We did not confirm whether low-dose melatonin food supplements are allowed in individual EU countries.",
-    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending."
+    "We could not reach Australia’s TGA (ARTG search failed), so Australia is pending.",
+    "Health Canada’s approved indication for Slenyto was not opened; only its marketed status and prescription schedule were confirmed.",
+    "The funding of the 2007 Circadin trials (Wade, Lemoine) is not stated in the abstracts and the full papers were not opened.",
+    "Circadin’s status in the UK (MHRA) was not confirmed from an MHRA product record."
   ],
   "surprises": [
     "Melatonin is sold freely as a supplement in the US, but the UK’s MHRA treats it as a prescription-only medicine and has pulled a supplement found to contain it.",
-    "Most of the hair research on topical melatonin is open studies of a cosmetic solution without placebo groups; only one small placebo-controlled trial (40 women, 2004) was found."
+    "Most of the hair research on topical melatonin is open studies of a cosmetic solution without placebo groups; only one small placebo-controlled trial (40 women, 2004) was found.",
+    "Melatonin is an approved prescription sleep medicine in the EU (Circadin since 2007, Slenyto since 2018) and in Canada (Slenyto, marketed since July 2026), but in the US it has no FDA approval and is sold only as a supplement."
   ]
 }

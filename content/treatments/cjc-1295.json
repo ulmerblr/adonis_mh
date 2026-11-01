@@ -1,0 +1,567 @@
+{
+  "slug": "cjc-1295",
+  "name": "CJC-1295",
+  "row": "CJC-1295",
+  "aka": [
+    "CJC 1295",
+    "CJC1295"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Small studies; no sleep",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and mouse studies, 2005–2006",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Overnight growth hormone study in young men, 2006",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Two dose trials in healthy adults, 2006",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "ConjuChem HIV belly-fat trial, terminated 2006",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "Never run",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; was in FDA Category 2 (withdrawn)",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "CJC-1295 is a lab-made version of growth hormone-releasing hormone (GHRH). It is the first 29 amino acids of human GHRH with four amino acids swapped, plus an added lysine with a chemical group that makes it bind to albumin, a protein in the blood. The Canadian company ConjuChem described it in 2005.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15817669/",
+            "label": "Jetté et al., Endocrinology, 2005",
+            "date": "published Jul 2005"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Binding to albumin makes it last much longer than natural GHRH. In healthy adults its half-life was 5.8 to 8.1 days. Like natural GHRH, it acts on the pituitary gland to release growth hormone, which raises IGF-1.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+            "label": "Teichman et al., J Clin Endocrinol Metab, 2006",
+            "date": "published Mar 2006"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17018654/",
+            "label": "Ionescu and Frohman, J Clin Endocrinol Metab, 2006",
+            "date": "published Dec 2006"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "What is sold under the name may differ. A product seized in Norway in 2009 and analysed by an anti-doping laboratory contained a 29-amino-acid peptide whose sequence matched the peptide marketed as CJC-1295.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21204297/",
+            "label": "Henninge et al., Drug Test Anal, 2010",
+            "date": "published Dec 2010"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "CJC-1295 is not an approved medicine anywhere we checked. Using it for sleep has not been studied."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "CJC-1295 has been tested in a few small studies in healthy adults, measuring growth hormone and IGF-1. ConjuChem's one Phase II trial was terminated, and no results are posted. We found no study of CJC-1295 and sleep."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=CJC-1295+sleep",
+            "label": "PubMed search for 'CJC-1295 sleep'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=CJC-1295",
+            "label": "ClinicalTrials.gov search for 'CJC-1295'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "2006 · Two randomized trials",
+        "title": "Dose trials in healthy adults, 2006",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two randomized, placebo-controlled, double-blind, ascending-dose trials. Injections under the skin: single doses in the first trial, 2 or 3 weekly or every-other-week doses in the second."
+          },
+          {
+            "k": "People",
+            "v": "healthy adults aged 21 to 61 (the abstract does not give the number)"
+          },
+          {
+            "k": "Length",
+            "v": "28 and 49 days"
+          },
+          {
+            "k": "Measured",
+            "v": "growth hormone, IGF-1, drug levels, safety"
+          }
+        ],
+        "found": "One injection raised average growth hormone 2- to 10-fold for 6 days or more, and IGF-1 1.5- to 3-fold for 9 to 11 days. With repeat doses, IGF-1 stayed above baseline for up to 28 days. No serious adverse reactions were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+            "label": "Teichman et al., J Clin Endocrinol Metab, 2006",
+            "date": "published Mar 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2006 · Before-and-after study",
+        "title": "Overnight growth hormone pulses, 2006",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "blood every 20 minutes over one night, before and 1 week after a single injection. No placebo group."
+          },
+          {
+            "k": "People",
+            "v": "healthy men aged 20 to 40"
+          },
+          {
+            "k": "Length",
+            "v": "1 week"
+          },
+          {
+            "k": "Measured",
+            "v": "growth hormone pulses, IGF-1"
+          }
+        ],
+        "found": "Growth hormone pulses kept their normal rhythm. Baseline growth hormone rose 7.5-fold, average growth hormone 46% and IGF-1 45%. Sleep was not measured.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17018654/",
+            "label": "Ionescu and Frohman, J Clin Endocrinol Metab, 2006",
+            "date": "published Dec 2006"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2009 analysis of blood from 11 healthy young men, before and a week after one CJC-1295 injection, found changes in several blood proteins. It looked for markers of growth hormone action, not health effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19386527/",
+            "label": "Sackmann-Sala et al., Growth Horm IGF Res, 2009",
+            "date": "published Dec 2009"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2005 · Randomized trial (Phase II)",
+        "title": "HIV-related belly fat, ConjuChem",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, double-blind, placebo-controlled Phase II; low dose, high dose or placebo"
+          },
+          {
+            "k": "People",
+            "v": "planned 120 adults aged 18 to 65 with HIV and excess belly fat"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks of treatment, 6 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "efficacy, drug levels, safety and tolerability"
+          }
+        ],
+        "found": "The registry lists the trial as terminated, with a completion date of September 2006. It gives no reason and no results.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00267527",
+            "label": "NCT00267527, ClinicalTrials.gov",
+            "date": "published Dec 2005"
+          }
+        ],
+        "badge": "No results posted"
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats, CJC-1295 raised growth hormone more than unmodified GHRH(1-29) and stayed in the blood beyond 72 hours. In mice bred without GHRH, daily injections normalized growth. These results are in animals only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15817669/",
+            "label": "Jetté et al., Endocrinology, 2005",
+            "date": "published Jul 2005"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16822960/",
+            "label": "Alba et al., Am J Physiol Endocrinol Metab, 2006",
+            "date": "published Dec 2006"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use. It was in FDA's Category 2 (substances that may pose significant safety risks) before its compounding nominations were withdrawn. It is not on the 503A or 503B bulks lists, and it is not in the HHS peptide policy of October 2026. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA found no product with CJC-1295 as an active ingredient, and the only Phase II trial was terminated.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22CJC-1295%22&limit=1",
+                "label": "openFDA Drugs@FDA search, active ingredient 'cjc-1295' (no matches)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT00267527",
+                "label": "NCT00267527, ClinicalTrials.gov",
+                "date": "published Dec 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2:",
+            "text": "FDA lists CJC-1295 among nominations that were withdrawn after being in Category 2. FDA says compounded CJC-1295 \"may pose risk for immunogenicity for certain routes of administration\" and that \"FDA has identified serious adverse events associated with CJC-1295 including increased heart rate and systemic vasodilatory reaction. Available clinical data are limited.\"",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Bulks lists:",
+            "text": "CJC-1295 is not named in FDA's current 503A or 503B category lists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "the HHS enforcement discretion policy published October 30, 2026 names BPC-157, TB-500, epitalon, Semax, KPV and MOTS-c. CJC-1295 is not on it.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "CJC-1295 is not approved as a medicine in any country we checked. Canada has seized it, Australia makes it prescription-only and illegal to hold without authority, and WADA bans it at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Formerly in FDA's compounding Category 2; nominations withdrawn. Not in the HHS peptide policy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22CJC-1295%22&limit=1",
+              "label": "openFDA Drugs@FDA search, active ingredient 'cjc-1295' (no matches)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+              "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+              "date": "published Oct 30, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. Named among unauthorized injectable peptides seized by Health Canada.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides (RA-81874)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=CJC",
+              "label": "Health Canada Drug Product Database, active ingredient search (cjc)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA's medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only (Schedule 4) in the Poisons Standard, and on the list of poisons that are illegal to possess without authority, such as a legal prescription.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-05-28/text/original/epub/OEBPS/document_1/document_1.html",
+              "label": "Australia, Poisons Standard June 2026 (Therapeutic Goods (Poisons Standard—June 2026) Instrument 2026)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "CJC-1295 is prohibited at all times (in and out of competition) under WADA class S2.2.4, growth hormone releasing factors. The class names \"growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin).\" All substances in class S2 are non-Specified. It is still named in the same class on the 2027 list, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Safety data are limited to small, short studies and to what FDA has gathered. FDA names serious adverse events."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA:",
+            "text": "FDA says it has identified serious adverse events with CJC-1295, \"including increased heart rate and systemic vasodilatory reaction\" (widening of blood vessels throughout the body). It says available clinical data are limited.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Trials in healthy adults:",
+            "text": "no serious adverse reactions were reported. The authors called it relatively well tolerated, particularly at the two lower doses tested.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+                "label": "Teichman et al., J Clin Endocrinol Metab, 2006",
+                "date": "published Mar 2006"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA says compounded CJC-1295 may pose a risk of immune reactions for some routes, and that impurities and characterization are complex.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Phase II trial:",
+            "text": "the HIV trial was terminated and has no posted safety results.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT00267527",
+                "label": "NCT00267527, ClinicalTrials.gov",
+                "date": "published Dec 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Product identity:",
+            "text": "an anti-doping lab found a product sold as CJC-1295 contained a different-length peptide from the one described by its developer.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21204297/",
+                "label": "Henninge et al., Drug Test Anal, 2010",
+                "date": "published Dec 2010"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15817669/",
+                "label": "Jetté et al., Endocrinology, 2005",
+                "date": "published Jul 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Not studied:",
+            "text": "we found no study of long-term use, of use for sleep, or of effects on fertility.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=CJC-1295+sleep",
+                "label": "PubMed search for 'CJC-1295 sleep'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The reason ConjuChem's Phase II trial (NCT00267527) was terminated is not given in the registry, and no results are posted.",
+    "FDA's Category 2 page does not give the date CJC-1295 was added or say which nomination (503A or 503B) it was under.",
+    "The number of people in the 2006 healthy-adult dose trials is not given in the abstract.",
+    "We could not open an FDA record describing the adverse event reports behind FDA's Category 2 statement.",
+    "Status in the UK was not checked against a regulator record."
+  ],
+  "surprises": [
+    "FDA names serious adverse events for CJC-1295, increased heart rate and a systemic vasodilatory reaction, although the published trials in healthy adults reported none.",
+    "The CJC-1295 described in trials has an extra albumin-binding lysine group; a product sold under that name and seized in Norway contained a 29-amino-acid peptide.",
+    "We found no published study of CJC-1295 and sleep, and no trial of it for any sleep problem."
+  ]
+}

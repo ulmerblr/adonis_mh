@@ -1,0 +1,612 @@
+{
+  "slug": "ibutamoren",
+  "name": "Ibutamoren (MK-677)",
+  "row": "Ibutamoren (MK-677)",
+  "aka": [
+    "MK-677",
+    "MK-0677",
+    "Ibutamoren mesylate",
+    "LUM-201"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "1 small sleep study; RCTs",
+    "fda": "Not approved; Cat. 2",
+    "sport": "Banned"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Merck research compound from the 1990s",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "1997 sleep study, 14 people",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Hip fracture trial stopped for heart failure",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "LUM-201 in children with GH deficiency, 2026",
+      "status": "started"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA Category 2 for compounding",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; not legal to sell",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Ibutamoren (code names MK-677 and MK-0677) is a small, non-peptide molecule taken by mouth. It mimics ghrelin and acts on the growth hormone secretagogue receptor, making the pituitary release more growth hormone and raising IGF-1. It was studied by Merck from the 1990s.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+            "label": "Nass et al., Ann Intern Med, 2008",
+            "date": "published Nov 2008"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19015485/",
+            "label": "Sevigny et al., Neurology, 2008",
+            "date": "published Nov 2008"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15066065/",
+            "label": "Bach et al., J Am Geriatr Soc, 2004",
+            "date": "published Apr 2004"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A company now tests it as LUM-201 (ibutamoren mesylate) for growth hormone deficiency in children.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05364684",
+            "label": "NCT05364684, ClinicalTrials.gov",
+            "date": "published May 2022"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06948214",
+            "label": "NCT06948214, ClinicalTrials.gov",
+            "date": "published Apr 2025"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Ibutamoren is not an approved medicine. FDA has placed it in Category 2 for compounding because of a heart failure safety signal. Using it for sleep is off-label and outside any approval."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Ibutamoren has been tested in several randomized trials in older adults, people after hip fracture and people with Alzheimer’s disease. Only one small study, from 1997, measured sleep. A hip fracture trial was stopped early because of heart failure. Trials in children with growth hormone deficiency are ongoing."
+      },
+      {
+        "t": "h3",
+        "text": "Sleep"
+      },
+      {
+        "t": "study",
+        "meta": "Belgium · 1997 · Placebo-controlled crossover",
+        "title": "Sleep in young and older adults, 1997",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "young group: double-blind, placebo-controlled, three-period crossover (5 mg, 25 mg, placebo at bedtime); older group: two treatment periods (2 mg, then 25 mg) compared with baseline"
+          },
+          {
+            "k": "People",
+            "v": "8 young adults aged 18 to 30; 6 older adults aged 65 to 71"
+          },
+          {
+            "k": "Length",
+            "v": "7 days per period (young); 14 days per period (older)"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep stages by polysomnography; hormones"
+          }
+        ],
+        "found": "In young adults, the 25 mg dose increased stage 4 (deep) sleep by about 50% and REM sleep by more than 20% vs. placebo. In older adults, REM sleep rose by nearly 50% and REM latency fell. We found no larger sleep trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9349662/",
+            "label": "Copinschi et al., Neuroendocrinology, 1997",
+            "date": "published Oct 1997"
+          }
+        ],
+        "badge": "Small"
+      },
+      {
+        "t": "h3",
+        "text": "Older adults"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2008 · Randomized trial",
+        "title": "Two years in healthy older adults, 2008",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, randomized, placebo-controlled, modified crossover"
+          },
+          {
+            "k": "People",
+            "v": "65 healthy adults aged 60 to 81"
+          },
+          {
+            "k": "Length",
+            "v": "2 years (main results at 1 year)"
+          },
+          {
+            "k": "Measured",
+            "v": "GH and IGF-1, lean mass, belly fat, strength, function, glucose, cortisol, bone"
+          }
+        ],
+        "found": "GH and IGF-1 rose to young-adult levels. Lean mass rose 1.1 kg vs. a 0.5 kg fall on placebo, but strength and function did not change. Weight rose 2.7 kg vs. 0.8 kg. Fasting glucose rose and insulin sensitivity fell. Cortisol rose. Sleep was not a measure.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+            "label": "Nass et al., Ann Intern Med, 2008",
+            "date": "published Nov 2008"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Hip fracture"
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2004 · Randomized trial",
+        "title": "Recovery after hip fracture, first trial, 2004",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; 13 centers in Europe, Canada and the US"
+          },
+          {
+            "k": "People",
+            "v": "161 previously mobile hip-fracture patients aged 65 and over"
+          },
+          {
+            "k": "Length",
+            "v": "6 months, then 6 months follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "physical function tests, Sickness Impact Profile, independent living, IGF-1"
+          }
+        ],
+        "found": "IGF-1 rose 84% vs. 17% on placebo. There were no significant differences in function or overall health scores.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15066065/",
+            "label": "Bach et al., J Am Geriatr Soc, 2004",
+            "date": "published Apr 2004"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2011 · Randomized phase IIb trial",
+        "title": "Recovery after hip fracture, second trial (stopped early)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled phase IIb, multicenter"
+          },
+          {
+            "k": "People",
+            "v": "123 older hip-fracture patients (62 on ibutamoren 25 mg a day, 61 on placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "planned 24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "physical function, IGF-1, falls"
+          }
+        ],
+        "found": "IGF-1 rose by 51 ng/mL. Gait speed improved, but stair climbing and most other function measures did not. The trial was stopped early because of a safety signal of congestive heart failure in a limited number of patients. The authors concluded the drug has an unfavorable safety profile in this group.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21067829/",
+            "label": "Adunsky et al., Arch Gerontol Geriatr, 2011",
+            "date": "published Sep 2011"
+          }
+        ],
+        "badge": "Stopped early"
+      },
+      {
+        "t": "h3",
+        "text": "Alzheimer’s disease"
+      },
+      {
+        "t": "study",
+        "meta": "Multicenter · 2008 · Randomized trial",
+        "title": "Alzheimer’s disease progression, 2008",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, multicenter, randomized, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "563 people with mild to moderate Alzheimer’s disease; 416 completed"
+          },
+          {
+            "k": "Length",
+            "v": "12 months"
+          },
+          {
+            "k": "Measured",
+            "v": "standard scales of cognition, daily function and dementia severity"
+          }
+        ],
+        "found": "IGF-1 rose 73% at 12 months, but there was no difference from placebo on any scale.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19015485/",
+            "label": "Sevigny et al., Neurology, 2008",
+            "date": "published Nov 2008"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Current trials (LUM-201)"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Phase III:",
+            "text": "a 12-month randomized, double-blind, placebo-controlled trial of oral LUM-201 in about 150 children with growth hormone deficiency (NCT06948214, Lumos Pharma) started in May 2026 and is recruiting.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06948214",
+                "label": "NCT06948214, ClinicalTrials.gov",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Phase II:",
+            "text": "a 24-month open-label trial in 104 children compared LUM-201 with growth hormone injections (NCT04614337); it is completed.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT04614337",
+                "label": "NCT04614337, ClinicalTrials.gov",
+                "date": "published Nov 2020"
+              }
+            ]
+          },
+          {
+            "lead": "Liver fat:",
+            "text": "a 12-person pilot of LUM-201 in fatty liver disease (NCT05364684, Massachusetts General Hospital) is completed.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05364684",
+                "label": "NCT05364684, ClinicalTrials.gov",
+                "date": "published May 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Sleep:",
+            "text": "no registered trial of ibutamoren for sleep was found.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/search?term=ibutamoren%20OR%20MK-677%20OR%20LUM-201",
+                "label": "ClinicalTrials.gov search for 'ibutamoren OR MK-677 OR LUM-201'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Ibutamoren is not FDA approved for any use. FDA has placed it in Category 2 for both 503A and 503B compounding, meaning it raises significant safety risks. Products sold labelled “for research use only” are not legal to sell for human use. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "a search of FDA’s drug approvals data for ibutamoren found no matches. It is being tested as LUM-201 in a phase III trial in children.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:IBUTAMOREN",
+                "label": "Drugs@FDA search for ibutamoren (no matches), openFDA",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06948214",
+                "label": "NCT06948214, ClinicalTrials.gov",
+                "date": "published Apr 2025"
+              }
+            ]
+          },
+          {
+            "lead": "FDA Category 2:",
+            "text": "ibutamoren mesylate was added to Category 2 for 503B on December 29, 2022 and for 503A on September 29, 2023. FDA states: “Ibutamoren mesylate poses significant safety risks due to the potential for congestive heart failure in certain patients. The agency is aware of a randomized, placebo-controlled trial assessing ibutamoren mesylate for the treatment of patients recovering from hip fracture that ‘was terminated early due to a potential safety signal of congestive heart failure.’”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk drug substances (significant safety risks)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding lists:",
+            "text": "FDA’s 503A list (updated May 2026) and 503B list (updated March 2025) both show ibutamoren mesylate in Category 2. Compounded drugs are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Research use only:",
+            "text": "FDA has warned that products labelled “for research purposes” or “not for human consumption” have been sold to consumers for human use with dosing instructions, and that they are unapproved drugs of unknown quality. FDA does not allow these products to be sold for human use.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (research-labelled products)",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, certain bodybuilding products put consumers at risk",
+                "date": "published Dec 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Ibutamoren is not an approved medicine anywhere we checked. In the US it is on FDA’s Category 2 safety list for compounding. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA Category 2 (503A and 503B) for heart failure risk. In a phase III trial in children as LUM-201.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:IBUTAMOREN",
+              "label": "Drugs@FDA search for ibutamoren (no matches), openFDA",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, Category 2 bulk drug substances (significant safety risks)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://clinicaltrials.gov/study/NCT06948214",
+              "label": "NCT06948214, ClinicalTrials.gov",
+              "date": "published Apr 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with ibutamoren found in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=ibutamoren",
+              "label": "Drug Product Database, Health Canada (ibutamoren: no product)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Ibutamoren is prohibited at all times under WADA class S2.2.4, growth hormone releasing factors, which names “growth hormone secretagogues (GHS) and their mimetics [e.g. anamorelin, capromorelin, ibutamoren (MK-677), ipamorelin, …].” All S2 substances are non-Specified. It is still named on the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no approved label for ibutamoren. The trials report heart failure in hip-fracture patients, higher blood sugar, lower insulin sensitivity, swelling and weight gain."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Heart failure:",
+            "text": "the second hip fracture trial was stopped early for a safety signal of congestive heart failure. FDA cites this in placing it in Category 2.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21067829/",
+                "label": "Adunsky et al., Arch Gerontol Geriatr, 2011",
+                "date": "published Sep 2011"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, Category 2 bulk drug substances (significant safety risks)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Blood sugar:",
+            "text": "over a year, fasting glucose rose by about 5 mg/dL and insulin sensitivity fell in healthy older adults.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+                "label": "Nass et al., Ann Intern Med, 2008",
+                "date": "published Nov 2008"
+              }
+            ]
+          },
+          {
+            "lead": "Common effects:",
+            "text": "increased appetite that faded over a few months, and short-lived mild leg swelling and muscle pain.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+                "label": "Nass et al., Ann Intern Med, 2008",
+                "date": "published Nov 2008"
+              }
+            ]
+          },
+          {
+            "lead": "Weight and hormones:",
+            "text": "weight rose 2.7 kg vs. 0.8 kg on placebo, and cortisol rose.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+                "label": "Nass et al., Ann Intern Med, 2008",
+                "date": "published Nov 2008"
+              }
+            ]
+          },
+          {
+            "lead": "Product quality:",
+            "text": "FDA says research-labelled products sold for human use are of unknown quality and may be harmful.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (research-labelled products)",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The 1997 sleep study abstract does not say how the older group’s results were compared (it describes baseline data and two dose periods, without placebo).",
+    "We could not confirm whether the 2008 older-adult trial recorded sleep; the abstract does not mention it.",
+    "Status in the UK, the EU and Australia was not checked against a regulator record (TGA’s ARTG search did not load; EMA search was blocked).",
+    "A Merck hip fracture trial registered as NCT00128115 (protocol 0677-032, terminated, 83 enrolled) may be the trial Adunsky et al. reported with 123 patients; the numbers differ and the link was not confirmed.",
+    "Published results of the LUM-201 trials in children were not reviewed."
+  ],
+  "surprises": [
+    "The only sleep study of ibutamoren had 14 people and FDA has put it on its Category 2 safety list after a hip fracture trial was stopped for heart failure.",
+    "It is not abandoned as a drug: as LUM-201 it entered a phase III trial in children with growth hormone deficiency in May 2026."
+  ]
+}

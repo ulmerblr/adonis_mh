@@ -1,0 +1,608 @@
+{
+  "slug": "ghrp-6",
+  "name": "GHRP-6",
+  "row": "GHRP-6",
+  "aka": [
+    "Growth hormone releasing peptide-6",
+    "Growth hormone-releasing hexapeptide",
+    "GHRP6"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "sleep"
+  ],
+  "index": {
+    "evidence": "Small studies; 2 on sleep",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat, monkey, lamb and calf studies from 1984",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "GH tests and 2 small sleep studies, 1995–2000",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Combined Phase I/II stroke trial, Cuba, 2017–2018",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Same trial: 36 people, given with EGF",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "With EGF in stroke; missed main goal (2026)",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; FDA Category 2 (503B), 2023",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "GHRP-6 is a lab-made chain of six amino acids, His-D-Trp-Ala-Trp-D-Phe-Lys-NH2. It was described in 1984 as a small peptide that acts on the pituitary to release growth hormone, without releasing other pituitary hormones in those tests.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6714155/",
+            "label": "Bowers et al., Endocrinology, 1984",
+            "date": "published May 1984"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It acts through the same pituitary receptor as other growth hormone-releasing peptides. In pigs it raised the stress hormones ACTH and cortisol as well as growth hormone. In men it raised ACTH and cortisol during the night.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+            "label": "Raun et al., Eur J Endocrinol, 1998",
+            "date": "published Nov 1998"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7617137/",
+            "label": "Frieboes et al., Neuroendocrinology, 1995",
+            "date": "published May 1995"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "GHRP-6 is not an approved medicine anywhere we checked. Using it for sleep has been studied only in two small one-night studies in healthy men."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "GHRP-6 has been studied in people as a one-dose growth hormone test, in two small sleep studies, and, combined with epidermal growth factor (EGF), in stroke trials. The sleep studies found more light sleep but no more deep sleep."
+      },
+      {
+        "t": "p",
+        "text": "Each study is listed below as it was run.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=GHRP-6+sleep",
+            "label": "PubMed search for 'GHRP-6 sleep'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=GHRP-6",
+            "label": "ClinicalTrials.gov search for 'GHRP-6'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Sleep"
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 1995 · Placebo-controlled study",
+        "title": "Night-time injections in healthy men, 1995",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "four injections of GHRP-6 by vein during the night, compared with placebo"
+          },
+          {
+            "k": "People",
+            "v": "healthy young men (the abstract does not give the number)"
+          },
+          {
+            "k": "Length",
+            "v": "single nights"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep recordings, growth hormone, ACTH, cortisol"
+          }
+        ],
+        "found": "Growth hormone, ACTH and cortisol rose. Stage 2 (light) sleep rose from 245 to 270 minutes. Deep (slow-wave) sleep and other sleep measures did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7617137/",
+            "label": "Frieboes et al., Neuroendocrinology, 1995",
+            "date": "published May 1995"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "1999 · Placebo-controlled study",
+        "title": "By mouth, nose or under the tongue, 1999",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "GHRP-6 by mouth, by nasal spray or under the tongue, each compared with placebo"
+          },
+          {
+            "k": "People",
+            "v": "healthy young men (the abstract does not give the number)"
+          },
+          {
+            "k": "Length",
+            "v": "single nights"
+          },
+          {
+            "k": "Measured",
+            "v": "sleep recordings, growth hormone, ACTH, cortisol"
+          }
+        ],
+        "found": "By mouth, hormones did not change. By nasal spray, growth hormone rose and light sleep tended to increase. The authors said the effects depend on dose, timing and route.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10336729/",
+            "label": "Frieboes et al., J Neuroendocrinol, 1999",
+            "date": "published Jun 1999"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Growth hormone testing"
+      },
+      {
+        "t": "study",
+        "meta": "2000 · Multicenter diagnostic study",
+        "title": "GHRH plus GHRP-6 test, 2000",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "one dose of GHRH plus GHRP-6 by vein; 27 controls and all patients also had an insulin tolerance test"
+          },
+          {
+            "k": "People",
+            "v": "125 adults with pituitary disease and 125 healthy people"
+          },
+          {
+            "k": "Length",
+            "v": "2 hours of blood sampling"
+          },
+          {
+            "k": "Measured",
+            "v": "peak growth hormone"
+          }
+        ],
+        "found": "The combined test separated people with growth hormone deficiency from healthy people, and the authors reported no side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11030292/",
+            "label": "Popovic et al., Lancet, 2000",
+            "date": "published Sep 2000"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Stroke (given together with EGF)"
+      },
+      {
+        "t": "study",
+        "meta": "Cuba · 2017–2018 · Randomized, open-label (Phase I/II)",
+        "title": "EGF plus GHRP-6 in acute stroke",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, open-label, controlled; two dose groups vs standard care. Registered in the Cuban registry (RPCEC00000214)."
+          },
+          {
+            "k": "People",
+            "v": "36 adults with ischemic stroke, treated within 12 hours"
+          },
+          {
+            "k": "Length",
+            "v": "twice daily for 7 days, followed for 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "safety; disability and function scores"
+          }
+        ],
+        "found": "Serious adverse events occurred in 9 of 16 in the standard-care group and in 3 of 10 and 2 of 10 in the treated groups. Two events in one treated patient were attributed to the treatment. Because GHRP-6 was given with EGF, its own effect cannot be separated.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38638315/",
+            "label": "Hernández-Bernal et al., Front Neurol, 2024",
+            "date": "published Apr 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2026 · Randomized, open-label (Phase III)",
+        "title": "COURAGE-2 stroke trial, 2026",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, randomized, open-label Phase III; EGF plus GHRP-6 vs standard care"
+          },
+          {
+            "k": "People",
+            "v": "188 adults with acute ischemic stroke"
+          },
+          {
+            "k": "Length",
+            "v": "twice daily for 7 days; followed 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "disability (modified Rankin scale), survival, function"
+          }
+        ],
+        "found": "The trial missed its main goal: no differences in disability, function or survival overall. A subgroup with severe stroke did better. Serious adverse events occurred in 30 of 95 treated patients and 18 of 93 controls; the authors judged none treatment-related.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42462342/",
+            "label": "Hernández-Bernal et al., J Clin Neurosci, 2026",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats, monkeys, lambs and calves, GHRP-6 released growth hormone. Given under the skin to young rats for 9 to 25 days, it increased weight gain. These results are in animals only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6714155/",
+            "label": "Bowers et al., Endocrinology, 1984",
+            "date": "published May 1984"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Not FDA approved for any use. FDA placed GHRP-6 in Category 2 for outsourcing facilities (503B) on September 29, 2023, because it may present significant safety risks. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA approval:",
+            "text": "none. A search of Drugs@FDA found no product with GHRP-6 as an active ingredient.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22GHRP-6%22&limit=1",
+                "label": "openFDA Drugs@FDA search, active ingredient 'ghrp-6' (no matches)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Category 2 (503B):",
+            "text": "GHRP-6 was added on September 29, 2023. FDA says compounded GHRP-6 may pose a risk of immune reactions, and that \"the available data reveal safety concerns including potential effect on cortisol and increase in blood glucose due to decreases in insulin sensitivity.\"",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+                "date": "published Mar 2025"
+              }
+            ]
+          },
+          {
+            "lead": "503A:",
+            "text": "GHRP-6 is in 503A Category 3, nominated without adequate support.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories 1 to 3)",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "lead": "HHS interim policy:",
+            "text": "the HHS enforcement discretion policy published October 30, 2026 names BPC-157, TB-500, epitalon, Semax, KPV and MOTS-c. GHRP-6 is not on it.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
+                "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
+                "date": "published Oct 30, 2026"
+              },
+              {
+                "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+                "label": "BakerHostetler summary of the HHS policy (a law firm's summary, used because HHS's own policy appendix could not be opened)",
+                "date": "published Oct 28, 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "GHRP-6 is not approved as a medicine in any country we checked. Australia makes it prescription-only and illegal to hold without authority, and WADA bans it at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. In FDA's compounding Category 2 for outsourcing facilities (503B) since Sept 29, 2023.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22GHRP-6%22&limit=1",
+              "label": "openFDA Drugs@FDA search, active ingredient 'ghrp-6' (no matches)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94164/download",
+              "label": "FDA, bulk drug substances nominated under section 503B (categories 1 to 3)",
+              "date": "published Mar 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No product with GHRP as an active ingredient found in the Drug Product Database.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=GHRP",
+              "label": "Health Canada Drug Product Database, active ingredient search (ghrp)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "No centrally authorised product in EMA's medicines data.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA data file of centrally authorised medicines",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "GHRP-6 is prescription-only (Schedule 4) in the Poisons Standard, and on the list of poisons that are illegal to possess without authority, such as a legal prescription.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L00633/asmade/2026-05-28/text/original/epub/OEBPS/document_1/document_1.html",
+              "label": "Australia, Poisons Standard June 2026 (Therapeutic Goods (Poisons Standard—June 2026) Instrument 2026)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "Cuba",
+          "regulator": "CECMED",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "192"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "GHRP-6 is prohibited at all times (in and out of competition) under WADA class S2.2.4, growth hormone releasing factors. The class names \"GH-releasing peptides (GHRPs) [e.g. alexamorelin, examorelin (hexarelin), GHRP-1, GHRP-2 (pralmorelin), GHRP-3, GHRP-4, GHRP-5 and GHRP-6].\" All substances in class S2 are non-Specified. It is still named in the same class on the 2027 list, which takes effect January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Safety data come from one-night studies, one-dose tests and short stroke trials where it was given with EGF. FDA flags effects on cortisol and blood sugar."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "FDA:",
+            "text": "\"potential effect on cortisol and increase in blood glucose due to decreases in insulin sensitivity.\"",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Stress hormones:",
+            "text": "in healthy men, night-time GHRP-6 by vein raised ACTH and cortisol.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/7617137/",
+                "label": "Frieboes et al., Neuroendocrinology, 1995",
+                "date": "published May 1995"
+              }
+            ]
+          },
+          {
+            "lead": "Diagnostic test:",
+            "text": "in 250 people given one dose of GHRH plus GHRP-6, the authors reported no side effects.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11030292/",
+                "label": "Popovic et al., Lancet, 2000",
+                "date": "published Sep 2000"
+              }
+            ]
+          },
+          {
+            "lead": "Stroke trials:",
+            "text": "serious adverse events were common in these very ill patients in both groups. In the Phase III trial they occurred in 30 of 95 treated patients and 18 of 93 controls; none was judged treatment-related.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38638315/",
+                "label": "Hernández-Bernal et al., Front Neurol, 2024",
+                "date": "published Apr 2024"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42462342/",
+                "label": "Hernández-Bernal et al., J Clin Neurosci, 2026",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Immune reactions:",
+            "text": "FDA says compounded GHRP-6 may pose a risk of immune reactions, because of clumping (aggregation) and impurities.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not studied:",
+            "text": "we found no study of repeated use for sleep or of effects on fertility.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=GHRP-6+sleep",
+                "label": "PubMed search for 'GHRP-6 sleep'",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The number of men in the 1995 and 1999 sleep studies is not given in the abstracts.",
+    "GHRP-6's regulatory status in Cuba, where the 2017–2018 stroke trial was run, was not checked with CECMED.",
+    "Status in the UK was not checked against a regulator record."
+  ],
+  "surprises": [
+    "In the two small sleep studies we found, GHRP-6 increased light sleep and stress hormones, not deep sleep.",
+    "The largest trials of GHRP-6 are stroke trials in which it was always given together with EGF; the Phase III trial missed its main goal.",
+    "FDA flags GHRP-6 for effects on cortisol and on blood sugar through lower insulin sensitivity."
+  ]
+}
