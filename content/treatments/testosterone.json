@@ -1,6 +1,13 @@
 {
   "slug": "testosterone",
   "name": "Testosterone",
+  "aka": [
+    "Natesto",
+    "AndroGel",
+    "Depo-Testosterone",
+    "Testim",
+    "Testopel"
+  ],
   "peptide": false,
   "lanes": [
     "trt"
@@ -366,6 +373,22 @@
               }
             ],
             "lead": "AndroGel (testosterone gel):"
+          },
+          {
+            "lead": "Natesto (testosterone nasal gel, Acerus):",
+            "text": "approved in 2014 under application NDA 205488. It is a gel given into the nose from a metered pump, approved for the same two kinds of hypogonadism in adult men.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA205488",
+                "label": "Drugs@FDA data (openFDA), Natesto",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dea6bed1-eaca-11e3-ac10-0800200c9a66",
+                "label": "Natesto label, DailyMed",
+                "date": "published Jul 2026"
+              }
+            ]
           },
           {
             "text": "use in men whose testosterone is low only because of age (“age-related” or “late-onset” hypogonadism), and use in males under 18 (AndroGel). Use outside the labeled conditions is off-label.",
