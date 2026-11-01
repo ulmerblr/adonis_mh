@@ -15,7 +15,7 @@ same template, tabs, track, map and per-tab Sources as /bpc-157. Today's date is
    measured, what was found. Say plainly when evidence is in animals or cells only.
 4. Approved vs compounded. If a brand is FDA approved, give the brand, the approved use and the year. Then say plainly, as a
    general fact citing FDA, that compounded versions are not FDA approved. Never call a compounded product FDA approved.
-   This is a research site (EDU PROMPT 21): never mention what Adonis or any pharmacy sells, carries or compounds, and never
+   This is a research site (EDU PROMPT 21): never mention what Adonis or any pharmacy sells or compounds, and never
    tie a treatment to a product.
 5. Off-label use is labelled "off-label" (e.g. sertraline for premature ejaculation, oral minoxidil for hair loss,
    metformin for longevity, spironolactone for acne).

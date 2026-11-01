@@ -6,7 +6,7 @@ import type { LaneKey } from '@/lib/library';
  * Body (EDU PROMPT 21): the Adonis summary (3 or 4 short paragraphs, drop cap, At a glance, one pull quote), then
  * "From the record": 5 to 8 word-for-word excerpts, regulator first, then trials, then reporting. Government records may
  * run to a paragraph; journals, law firms and news outlets one or two sentences, always linked. Summary text may link a
- * treatment once with [[/slug|words]]. Every claim is backed by `sources` (dated). No product or catalog mentions.
+ * treatment once with [[/slug|words]]. Every claim is backed by `sources` (dated). No product mentions.
  */
 export type Excerpt = {
   quote: string;
