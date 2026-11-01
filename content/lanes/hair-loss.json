@@ -28,19 +28,72 @@
       "line": "Lower libido and erection problems on the label; suicidal thoughts added in the EU in 2025."
     }
   ],
-  "paragraphs": [
-    "In April 2025, FDA warned health care providers, compounders and consumers about compounded [[/finasteride|finasteride]] put on the scalp. It said some compounders and telemedicine platforms sell topical finasteride, alone or mixed with drugs such as minoxidil, and that there is no FDA-approved topical form. It had received 32 adverse event reports from 2019 to 2024, including erectile dysfunction, anxiety, suicidal thoughts, brain fog, depression and lower libido; most said the problems continued after stopping. FDA also noted that sprays have no tablet coating, so the drug can more easily pass to others, including women.",
-    "Adonis carries finasteride in exactly that kind of product. Its catalog lists a 1 mg tablet, oral strips that combine finasteride with [[/minoxidil|minoxidil]] and [[/biotin|biotin]], and four compounded hair sprays that combine finasteride with minoxidil and, in some, with [[/tretinoin|tretinoin]], [[/latanoprost|latanoprost]], [[/ketoconazole|ketoconazole]] or [[/fluocinolone|fluocinolone]]. One more minoxidil spray adds biotin and [[/melatonin|melatonin]] instead of finasteride. The strips and sprays are compounded and not FDA approved, and no trial has tested them. None of those added ingredients is approved for hair loss: they are approved for eye pressure, fungal infections and dandruff, acne and inflamed skin, or sold as supplements.",
-    "What is approved is narrower. FDA approved finasteride as Proscar, 5 mg for an enlarged prostate, in 1992, and as Propecia, 1 mg for male pattern hair loss in men only, on December 19, 1997, on three 12-month trials in 1,879 men. Topical minoxidil was approved as Rogaine in 1988 and is sold over the counter. Europe has authorised a finasteride skin spray nationally; the US has not.",
-    "Minoxidil tablets are approved only for severe high blood pressure. Taking them for hair loss is off-label, and the tablet label says so plainly: “Use of minoxidil tablets, in any formulation, to promote hair growth is not an approved indication.” The evidence for that use is one randomized trial of 90 men, small open-label studies and a large review of records.",
-    "Finasteride’s side effects are on its label. In the 12-month hair-loss trials, 3.8% of men on Propecia reported one or more sexual side effects, against 2.1% on placebo, including lower libido and erection problems. Since approval, reports describe sexual problems that continued after treatment ended, and FDA added erectile dysfunction that continued after stopping to the label in 2012. A 2022 safety labeling change added the risk of suicidal thoughts and behavior.",
-    "Europe went further in 2025. An EU review confirmed suicidal ideation as a side effect of finasteride 1 mg and 5 mg tablets; most cases were in men taking 1 mg for hair loss. The UK and EU advise men on 1 mg to stop and contact a doctor if they develop low mood or suicidal thoughts."
+  "summary": [
+    "In April 2025, FDA warned health care providers, compounders and consumers about compounded [[/finasteride|finasteride]] put on the scalp, alone or mixed with drugs such as [[/minoxidil|minoxidil]]. No topical finasteride is FDA approved. FDA had received 32 adverse event reports from 2019 to 2024, including erectile dysfunction, anxiety, suicidal thoughts, depression and lower libido, and noted that sprays have no tablet coating, so the drug can pass more easily to others.",
+    "What is approved is narrower. Finasteride tablets were approved as Proscar for an enlarged prostate in 1992 and as Propecia for male pattern hair loss in men in 1997. Topical minoxidil was approved as Rogaine in 1988 and is sold over the counter. Minoxidil tablets are approved only for severe high blood pressure; taking them for hair loss is off-label. Other drugs mixed into compounded hair sprays, such as [[/tretinoin|tretinoin]], [[/latanoprost|latanoprost]], [[/ketoconazole|ketoconazole]] and [[/fluocinolone|fluocinolone]], are approved for other conditions, and [[/biotin|biotin]] and [[/melatonin|melatonin]] are sold as supplements; none is approved for hair loss.",
+    "Finasteride’s side effects are on its label: lower libido, erection problems and ejaculation disorders in the trials, and reports of sexual problems that continued after stopping. In 2025 an EU review confirmed suicidal thoughts as a side effect of finasteride tablets, and UK and EU regulators advise men on 1 mg to stop and contact a doctor if they develop low mood or suicidal thoughts.",
+    "What is not known: how often these effects happen, since the reports are voluntary, and how compounded scalp products behave, since no trial has tested them. The oral minoxidil evidence is one randomized trial of 90 men, small open studies and a large review of records."
   ],
   "pull": {
     "quote": "There are no FDA-approved topical products with finasteride alone or in combination with other ingredients.",
     "cite": "FDA alert on compounded topical finasteride, Apr 2025",
     "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "There were 32 cases reported to the FDA Adverse Event Reporting System between 2019 and 2024. Absorption of finasteride through the skin into the bloodstream is expected, and the reports describe adverse events that are consistent with those reported in association with the approved oral finasteride products, such as erectile dysfunction, anxiety, suicidal ideation, brain fog, depression, fatigue, insomnia, decreased libido and testicular pain following the use of compounded topical products with finasteride alone or in combination with other active ingredients.",
+      "source": "FDA alert on compounded topical finasteride",
+      "date": "published Apr 2025",
+      "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded"
+    },
+    {
+      "kind": "regulator",
+      "quote": "The most common adverse reactions, reported in ≥1% of patients treated with PROPECIA and greater than in patients treated with placebo are: decreased libido, erectile dysfunction and ejaculation disorder",
+      "source": "Propecia (finasteride) label, DailyMed",
+      "date": "published Oct 2024",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36"
+    },
+    {
+      "kind": "regulator",
+      "quote": "Reproductive System: sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, libido disorders, ejaculation disorders, and orgasm disorders",
+      "source": "Propecia (finasteride) label, reports after approval, DailyMed",
+      "date": "published Oct 2024",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36",
+      "note": "These come from voluntary reports, so how often they happen is not known."
+    },
+    {
+      "kind": "regulator",
+      "quote": "Use of minoxidil tablets, in any formulation, to promote hair growth is not an approved indication. While clinical trials with ROGAINE ® Topical Solution 2% demonstrated that formulation and dosage were safe and effective, the effects of extemporaneous formulations and dosages have not been shown to be safe or effective.",
+      "source": "Minoxidil tablets label, DailyMed",
+      "date": "published Aug 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789",
+      "note": "Extemporaneous formulations are pharmacy-made or home-made versions."
+    },
+    {
+      "kind": "regulator",
+      "quote": "Suicidal ideation was confirmed as a side effect of finasteride 1 and 5 mg tablets by the PRAC, following an EU-wide review of available data on these medicines. The frequency of the side effect is unknown, meaning that it is not possible to estimate it from available data. Most cases of suicidal ideation were reported in people using 1 mg finasteride tablets, which are used to treat androgenetic alopecia (hair loss due to male hormones).",
+      "source": "EMA, finasteride and dutasteride referral",
+      "date": "Jun 2025 review; accessed Oct 31, 2026",
+      "href": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products",
+      "note": "PRAC is EMA’s drug-safety committee."
+    },
+    {
+      "kind": "regulator",
+      "quote": "patients prescribed finasteride 1 mg should stop taking the medicine if they develop suicidal thoughts or depression and contact their healthcare professional as soon as possible",
+      "source": "MHRA Drug Safety Update, finasteride and dutasteride",
+      "date": "published May 2026",
+      "href": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction"
+    },
+    {
+      "kind": "trial",
+      "quote": "In this study, oral minoxidil, 5 mg, once per day for 24 weeks did not demonstrate superiority over topical minoxidil, 5%, twice per day in men with AGA.",
+      "source": "Penha et al., JAMA Dermatology",
+      "date": "published Jun 2024",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/38598226/",
+      "note": "AGA is male pattern hair loss. Oral minoxidil for hair loss is off-label."
+    }
+  ],
   "sources": [
     {
       "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
