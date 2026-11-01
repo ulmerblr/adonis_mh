@@ -662,3 +662,6 @@ span.tone-none { background: #d9d0bd; }
 .spreadPhotoPlaceholder .spreadCaption { background: none; }
 .issueLanes a[aria-current='true'] .issueNum, .issueLanes a[aria-current='true'] .issueNow { color: var(--punch); }
 .issueLanes a[aria-current='true'] .issueStory { color: var(--ink); }
+
+/* EDU PROMPT 22: long treatment names ("Testosterone undecanoate is here") wrap on phones instead of running off the screen. */
+@media (max-width: 600px) { .hereFlag { white-space: normal; width: max-content; max-width: 12em; } }
