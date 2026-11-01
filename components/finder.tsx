@@ -2,15 +2,9 @@
 
 import Link from 'next/link';
 import { useId, useLayoutEffect, useRef, useState } from 'react';
-import { LANES, TREATMENTS, countWords, type LaneKey, type Treatment } from '@/lib/library';
+import { LANES, countWords, type LaneKey } from '@/lib/library';
+import { ROWS, matches, norm, type Row } from '@/lib/finder-rows';
 import { Label, Pill } from './ext';
-
-type Row = Treatment & { lane: LaneKey; laneName: string };
-const ROWS: Row[] = LANES.flatMap((l) => TREATMENTS[l.key].map((t) => ({ ...t, lane: l.key, laneName: l.name })));
-
-/** Case-insensitive, ignoring hyphens, spaces and punctuation: "bpc157" finds BPC-157. */
-const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9+]/g, '');
-const matches = (r: Row, q: string) => !q || [r.name, r.laneName, r.peptide ? 'Peptide' : '', ...(r.aka ?? [])].some((f) => norm(f).includes(q));
 
 /**
  * The treatment finder: a search box, lane tabs ("All" and the nine lanes, each with its count) and the treatment rows.

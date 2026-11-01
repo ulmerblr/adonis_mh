@@ -5,6 +5,7 @@ import logoB from '@/public/images/logo-b.png';
 import { CLINIC, UPDATED } from '@/lib/library';
 import { A } from './ext';
 import { LaneBar } from './lane-bar';
+import { PhoneIcon } from './phone-icon';
 
 export function Top() {
   return (
@@ -16,7 +17,10 @@ export function Top() {
         </div>
       </div>
       <header className="masthead">
-        <div className="wrap">
+        <div className="wrap mastWrap">
+          <div className="mastTop">
+            <Link href="/app" className="appBtn" aria-label="App view of the treatments"><PhoneIcon />App</Link>
+          </div>
           <Link href="/" className="mastLogo" aria-label="AdonisMensHealth.com, home">
             <Image src={logoC} alt="Adonis Men’s Health" priority sizes="(max-width: 600px) 80vw, 520px" style={{ height: 'auto' }} />
           </Link>
