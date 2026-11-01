@@ -1,14 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import Image, { type StaticImageData } from 'next/image';
-import Link from 'next/link';
 import { A } from '@/components/ext';
 import { Banned, Calendar, Mortar, People, ShieldX } from './glance-icons';
 
 /**
  * The Magazine Section's story parts, shared by Home and the nine lane pages (one design):
  *   StoryPhoto: the photo with the headline and dek on it (or a sand placeholder until the photo exists);
- *   StoryArticle: the byline, the article with the "At a glance" box wrapped into it, the drop cap and one pull quote.
+ *   GlanceBox: the optional "At a glance" box the article (./article.tsx) wraps its text around.
  */
 export type GlanceIcon = 'shield' | 'mortar' | 'banned' | 'people' | 'calendar';
 export type GlanceRow = { icon: GlanceIcon; label: string; line: string; src?: { href: string; label: string } };
@@ -45,39 +44,6 @@ export function StoryPhoto({ photo, headline, dek, as = 'h2' }: { photo: StoryPh
   );
 }
 
-export type RecordExcerpt = { quote: string; source: string; date: string; href: string; note?: string };
-
-export function StoryArticle({ byline, glance, paragraphs, pull, record }: {
-  byline: string; glance: GlanceRow[]; paragraphs: React.ReactNode[]; pull: { quote: string; cite: string; href: string };
-  record?: RecordExcerpt[];
-}) {
-  return (
-    <article className="spreadArticle">
-      <p className="spreadByline">{byline}</p>
-      <div className="spreadText">
-        <GlanceBox glance={glance} />
-        {paragraphs.map((p, i) => <p key={i} className={i === 0 ? 'spreadDrop' : undefined}>{p}</p>)}
-        <figure className="spreadPull">
-          <blockquote>{`“${pull.quote}”`}</blockquote>
-          <figcaption><A href={pull.href}>{pull.cite}</A></figcaption>
-        </figure>
-      </div>
-      {record?.length ? (
-        <section className="record" aria-labelledby="from-the-record">
-          <h3 className="recordHead" id="from-the-record">From the record</h3>
-          {record.map((e, i) => (
-            <figure className="excerpt" key={i}>
-              <blockquote cite={e.href}>{`“${e.quote}”`}</blockquote>
-              <figcaption className="excerptSrc"><A href={e.href}>{e.source}</A>, {e.date}</figcaption>
-              {e.note ? <p className="excerptNote">{e.note}</p> : null}
-            </figure>
-          ))}
-        </section>
-      ) : null}
-    </article>
-  );
-}
-
 export function GlanceBox({ glance }: { glance: GlanceRow[] }) {
   return (
     <aside className="atGlance" aria-label="At a glance">
@@ -92,16 +58,4 @@ export function GlanceBox({ glance }: { glance: GlanceRow[] }) {
       </ul>
     </aside>
   );
-}
-
-/** Story text with links: [[/slug|words]] becomes a link to that treatment page. */
-export function linkify(text: string): React.ReactNode {
-  const out: React.ReactNode[] = []; let last = 0; let k = 0;
-  for (const m of text.matchAll(/\[\[(\/[a-z0-9-]+)\|([^\]]+)\]\]/g)) {
-    out.push(text.slice(last, m.index));
-    out.push(<Link key={k++} href={m[1]} className="spreadLink">{m[2]}</Link>);
-    last = (m.index ?? 0) + m[0].length;
-  }
-  out.push(text.slice(last));
-  return <>{out}</>;
 }

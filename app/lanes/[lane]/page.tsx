@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { TreatmentFinder } from '@/components/finder';
-import { LaneSources, LaneSpread } from '@/components/magazine/lane-story';
+import { LaneSpread } from '@/components/magazine/lane-story';
 import { MagazineSection } from '@/components/magazine/magazine-section';
 import { LANES, laneOf, type LaneKey } from '@/lib/library';
 
@@ -32,8 +32,6 @@ export default async function LanePage({ params }: { params: Promise<{ lane: str
           <TreatmentFinder lane={key} hideTabs />
         </div>
       </section>
-
-      <LaneSources lane={key} />
     </>
   );
 }

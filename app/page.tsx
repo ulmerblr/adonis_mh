@@ -1,5 +1,5 @@
 import { TreatmentFinder } from '@/components/finder';
-import { LaneSources, LaneSpread } from '@/components/magazine/lane-story';
+import { LaneSpread } from '@/components/magazine/lane-story';
 import { MagazineSection } from '@/components/magazine/magazine-section';
 import { coverLane } from '@/content/cover';
 
@@ -21,8 +21,6 @@ export default function Home() {
           <TreatmentFinder />
         </div>
       </section>
-
-      <LaneSources lane={coverLane} />
     </>
   );
 }
