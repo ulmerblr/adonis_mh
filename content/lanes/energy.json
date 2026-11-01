@@ -20,142 +20,127 @@
     },
     {
       "icon": "calendar",
-      "label": "Semax",
-      "line": "Registered in Russia, as nasal drops. HHS compounding discretion in the US since Oct 30, 2026."
+      "label": "Ashwagandha",
+      "line": "A US supplement; illegal to sell as a food in Denmark."
     }
   ],
-  "summary": [
-    "Injections sold for energy are built around [[/vitamin-b12|vitamin B12]], often in “MIC” lipotropic blends named for the [[/methionine|methionine]], [[/inositol|inositol]] and [[/choline|choline]] they contain, sometimes with [[/vitamin-b6|vitamin B6]] or [[/l-carnitine|L-carnitine]]. These blends are compounded and not FDA approved. FDA’s recall records list many compounded lipotropic and MIC injections recalled by pharmacies, most often for lack of assurance of sterility.",
-    "B12 itself is approved for one job: cyanocobalamin injection treats B12 deficiency caused by poor absorption. Injecting it for energy in someone who is not deficient is off-label. In the two small placebo-controlled trials we found, 20 singers and 15 people with chronic fatigue syndrome did about as well on placebo as on the B12 injection. B6 and L-carnitine injections are approved for deficiency, not energy, and we found no published human study of injected methionine, inositol or choline for energy or fat loss.",
-    "[[/semax|Semax]], a synthetic fragment of the hormone ACTH, is now listed in the Brain lane. FDA’s 2026 review found it registered as a medicine in Russia, as nasal drops. Its human studies are small, almost all Russian, and all used nasal drops. It is not FDA approved; since October 30, 2026, HHS has allowed it to be compounded for use in the nose under set conditions, which is enforcement discretion, not approval. WADA’s list does not name it.",
-    "What is not known: whether B12 shots help energy in people with normal B12, what the MIC blends do at all, and whether Semax is safe or effective outside the Russian studies. FDA found no study of Semax given by injection."
+  "body": [
+    "The energy shot is one of the most familiar offers in men’s health: a quick injection, usually built around [[/vitamin-b12|vitamin B12]], promised to lift a tired week. Often it is sold as an MIC or lipotropic blend, named for the [[/methionine|methionine]], [[/inositol|inositol]] and [[/choline|choline]] it contains, sometimes with [[/vitamin-b6|vitamin B6]] or [[/l-carnitine|L-carnitine]] added. These blends are made by compounding pharmacies, and compounded drugs are not FDA approved; FDA does not review them for safety, effectiveness or quality before they are sold.[^compq]",
+    "B12 itself has a narrow approved job. The label for cyanocobalamin injection says it “is indicated for vitamin B 12 deficiencies due to malabsorption,”[^b12] and goes on to list the conditions that cause poor absorption, starting with pernicious anemia.[^b12] Feeling tired is not on that list. Injecting B12 for energy in someone whose B12 levels are normal is off-label.",
+    "The research on B12 shots for energy in people who are not deficient is thin, and what exists does not favor the shot. In a randomized, double-blind crossover trial, 20 professional singers with mild voice symptoms such as fatigue received one B12 injection and one salt-water injection, weeks apart.[^singers] The authors found “no meaningful difference compared with placebo.”[^singers] An older trial gave 15 people with chronic fatigue syndrome injections of liver extract, folic acid and B12, or a placebo, in a crossover design.[^kaslow] “Although patients responded to placebo and LEFAC by several criteria of functional status, no significant difference was apparent between response to placebo and that to LEFAC,”[^kaslow] the authors wrote, adding: “The placebo response appeared to be strong.”[^kaslow] LEFAC was the name of the active injection. Both trials were small, and neither tested the multi-ingredient blends that men are usually offered today, so even this modest evidence speaks only to B12 on its own.",
+    "For the other ingredients the record is thinner still. We found no published human study of injected methionine, inositol or choline, alone or in a blend, for energy or fat loss. FDA’s drug records list no approved methionine product and no approved inositol product.[^methfda][^inosfda] Vitamin B6 and L-carnitine are approved drugs, but for other purposes. The pyridoxine injection label says the injected route “is indicated when oral administration is not feasible as in anorexia, nausea and vomiting, and preoperative and postoperative conditions,”[^b6] in people with B6 deficiency. The Carnitor label approves levocarnitine for carnitine deficiency, not for energy.[^carnitor] Most studies of L-carnitine and weight used supplements taken by mouth.",
+    "Then there is the question of how the shots are made. FDA’s recall records list many compounded lipotropic, Lipo-B and MIC injections recalled by the pharmacies that made them. A 2016 recall of a lipotropic injection containing L-carnitine and methylcobalamin, a form of B12, gave the reason as “Lack of Assurance of Sterility.”[^recalls] That phrase appears again and again in the records for these products.[^recalls] Sterility matters more for an injection than for a pill, because the product goes directly into the body.",
+    "None of this means B12 is useless. People who are truly deficient need it, and the injection is the approved treatment when the gut cannot absorb it.[^b12] The point is narrower: the shot sold as a general pick-me-up has very little evidence behind it, and the blends sold alongside it have almost none. Even the approved injection is not risk-free. Its label warns that “anaphylactic shock and death have been reported after parenteral vitamin B 12 administration,”[^b12] and recommends a small test dose under the skin first.[^b12] Parenteral means given by injection rather than by mouth.",
+    "The other popular energy product in this lane is not a shot at all. [[/ashwagandha|Ashwagandha]], the root of Withania somnifera, is sold in the US as a dietary supplement, and FDA says it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa] The agency adds that, generally, “a firm does not have to provide FDA with the evidence it relies on to substantiate safety before or after it markets its products.”[^suppqa] Ashwagandha is marketed for stress, energy and testosterone. Its trials are small and short. In one randomized, double-blind crossover trial in 57 overweight men aged 40 to 70 with mild fatigue, an extract raised testosterone 14.7% more than placebo over eight weeks, “although no significant between-group differences were found in cortisol, estradiol, fatigue, vigor, or sexual well-being.”[^lopresti]",
+    "Ashwagandha also has a safety record that its marketing rarely mentions. A case series from Iceland and the US Drug-Induced Liver Injury Network described five people with liver injury after taking it.[^bjornsson] The authors concluded that “these cases illustrate the hepatotoxic potential of ashwagandha,”[^bjornsson] and that the injury was “typically cholestatic or mixed with severe jaundice and pruritus, but self-limited with liver tests normalizing in 1-5 months.”[^bjornsson] Hepatotoxic means harmful to the liver.",
+    "One country has gone further. Denmark’s food agency says ashwagandha may not be sold as a food there, including in supplements and drinks, citing a 2020 risk assessment by the Danish technical university’s food institute.[^dk][^dtu] That assessment looked at animal studies that showed effects on sex hormones and reproduction in male rats, and on the thyroid.[^dtu] In the US, it remains on store shelves as a supplement.",
+    "What is still unknown is simple to state. No good trial has shown that B12 shots raise energy in people with normal B12, no human study has tested what the MIC blends do, and the long-term safety of ashwagandha in men has not been studied in large trials. For athletes, none of these is named on the World Anti-Doping Agency’s list, but large intravenous infusions are banned as a method.[^wada]"
   ],
-  "pull": {
-    "quote": "Semax is a registered drug in Russia and is available as 0.1% and 1% nasal drops.",
-    "cite": "FDA briefing on Semax, July 2026",
-    "href": "https://www.fda.gov/media/193348/download"
-  },
-  "excerpts": [
+  "notes": [
     {
-      "kind": "regulator",
-      "quote": "Cyanocobalamin is indicated for vitamin B 12 deficiencies due to malabsorption which may be associated with the following conditions: Addisonian (pernicious) anemia",
-      "source": "Cyanocobalamin Injection, USP label, DailyMed",
-      "date": "published Oct 2023",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
-      "note": "The label goes on to list other causes of poor absorption. Energy is not among the approved uses."
+      "key": "compq",
+      "source": "FDA",
+      "title": "Compounding and the FDA: Questions and Answers",
+      "date": "Sep 2025",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
     },
     {
-      "kind": "regulator",
-      "quote": "The parenteral route is indicated when oral administration is not feasible as in anorexia, nausea and vomiting, and preoperative and postoperative conditions.",
-      "source": "Pyridoxine Hydrochloride Injection label, DailyMed",
-      "date": "published Oct 2024",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
-      "note": "The approved B6 injection is for deficiency when B6 cannot be taken by mouth."
+      "key": "b12",
+      "source": "DailyMed",
+      "title": "Cyanocobalamin Injection, USP prescribing information (American Regent)",
+      "date": "Oct 2023",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc"
     },
     {
-      "kind": "regulator",
-      "quote": "No studies were found in which semax was used as a compounded drug product.",
-      "source": "FDA briefing on Semax, Pharmacy Compounding Advisory Committee",
-      "date": "published Jul 2026",
-      "href": "https://www.fda.gov/media/193348/download",
-      "note": "This is FDA’s own briefing to its advisers."
+      "key": "singers",
+      "source": "Shoffel-Havakuk et al., JAMA Otolaryngology–Head & Neck Surgery",
+      "title": "Effect of Vitamin B12 Injection on the Vocal Performance of Professional Singers",
+      "date": "Jan 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33180098/"
     },
     {
-      "kind": "regulator",
-      "quote": "At the time of this evaluation, the nominator did not submit, and FDA did not identify nonclinical developmental and reproductive studies of semax.",
-      "source": "FDA briefing on Semax, Pharmacy Compounding Advisory Committee",
-      "date": "published Jul 2026",
-      "href": "https://www.fda.gov/media/193348/download"
+      "key": "kaslow",
+      "source": "Kaslow et al., Archives of Internal Medicine",
+      "title": "Liver extract-folic acid-cyanocobalamin vs placebo for chronic fatigue syndrome",
+      "date": "Nov 1989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2684076/"
     },
     {
-      "kind": "trial",
-      "quote": "This randomized, double-blind, placebo-controlled, crossover trial found that after empirical vitamin B12 injection to improve mild voice-related symptoms, the improvement in self-reported voice measures in singers shows no meaningful difference compared with placebo.",
-      "source": "Shoffel-Havakuk et al., JAMA Otolaryngol Head Neck Surg",
-      "date": "published Jan 2021",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/33180098/"
+      "key": "methfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for methionine products",
+      "date": "accessed Oct 31, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:methionine&limit=50"
     },
     {
-      "kind": "trial",
-      "quote": "Although patients responded to placebo and LEFAC by several criteria of functional status, no significant difference was apparent between response to placebo and that to LEFAC. The placebo response appeared to be strong.",
-      "source": "Kaslow et al., Arch Intern Med",
-      "date": "published Nov 1989",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/2684076/",
-      "note": "LEFAC was an injection of liver extract, folic acid and B12, given to 15 people with chronic fatigue syndrome."
+      "key": "inosfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for inositol products",
+      "date": "accessed Oct 31, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:inositol&limit=50"
     },
     {
-      "kind": "reporting",
-      "quote": "On Friday afternoon, the committee voted 8-5-1 for semax in both acetate and free-base forms. Most of the ‘no’ voters cited safety concerns.",
-      "source": "Healio, “FDA committee recommends looser restrictions for several peptides”",
-      "date": "published Jul 24, 2026",
-      "href": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
-      "note": "FDA has not posted the official vote record."
-    }
-  ],
-  "sources": [
-    {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
-      "label": "Cyanocobalamin Injection, USP label (American Regent), DailyMed",
-      "date": "published Oct 2023"
+      "key": "b6",
+      "source": "DailyMed",
+      "title": "Pyridoxine Hydrochloride Injection, USP prescribing information (Fresenius Kabi)",
+      "date": "Oct 2024",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33180098/",
-      "label": "Shoffel-Havakuk H, et al. JAMA Otolaryngol Head Neck Surg, 2021 (PubMed)",
-      "date": "published Jan 2021"
+      "key": "carnitor",
+      "source": "DailyMed",
+      "title": "Carnitor (levocarnitine) injection prescribing information",
+      "date": "Nov 2023",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/2684076/",
-      "label": "Kaslow JE, et al. Arch Intern Med, 1989 (PubMed)",
-      "date": "published Nov 1989"
+      "key": "recalls",
+      "source": "FDA (openFDA, drug recall enforcement reports)",
+      "title": "Recalls of lipotropic and methionine products",
+      "date": "accessed Oct 31, 2026",
+      "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30"
     },
     {
-      "url": "https://www.fda.gov/media/94155/download",
-      "label": "FDA, 503A bulk drug substance categories",
-      "date": "published May 2026"
+      "key": "suppqa",
+      "source": "FDA",
+      "title": "Questions and answers on dietary supplements",
+      "date": "Aug 2026",
+      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
     },
     {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:inositol&limit=50",
-      "label": "Drugs@FDA data search for inositol (FDA, openFDA)",
-      "date": "accessed Oct 31, 2026"
+      "key": "lopresti",
+      "source": "Lopresti et al., American Journal of Men’s Health",
+      "title": "A randomized, double-blind, placebo-controlled, crossover study examining the hormonal and vitality effects of ashwagandha (Withania somnifera) in aging, overweight males",
+      "date": "Mar 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30854916/"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a",
-      "label": "Pyridoxine Hydrochloride Injection, USP label (Fresenius Kabi), DailyMed",
-      "date": "published Oct 2024"
+      "key": "bjornsson",
+      "source": "Björnsson et al., Liver International",
+      "title": "Ashwagandha-induced liver injury: a case series from Iceland and the US Drug-Induced Liver Injury Network",
+      "date": "Apr 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/"
     },
     {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3",
-      "label": "Carnitor (levocarnitine) Injection label, DailyMed",
-      "date": "published Nov 2023"
+      "key": "dk",
+      "source": "Danish Veterinary and Food Administration",
+      "title": "Ashwagandha i kosttilskud og drikkevarer (ashwagandha in supplements and drinks)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://www.foedevarestyrelsen.dk/kost-og-foedevarer/alt-om-mad/kemi-i-maden/mad-med-uoensket-kemi/ashwagandha"
     },
     {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:methionine&limit=50",
-      "label": "Drugs@FDA data search for methionine (FDA, openFDA)",
-      "date": "accessed Oct 31, 2026"
+      "key": "dtu",
+      "source": "DTU National Food Institute (for the Danish food agency)",
+      "title": "Risikovurdering af roden fra Withania somnifera (risk assessment of Withania somnifera root)",
+      "date": "May 2020",
+      "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf"
     },
     {
-      "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30",
-      "label": "FDA drug recall enforcement reports, lipotropic and methionine products (openFDA)",
-      "date": "accessed Oct 31, 2026"
-    },
-    {
-      "url": "https://www.fda.gov/media/193348/download",
-      "label": "FDA briefing, Semax (memo dated May 11, 2026)",
-      "date": "published Jul 2026"
-    },
-    {
-      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf",
-      "label": "HHS notice, Federal Register 2026-22192 (Docket HHS-OASH-2026-0496), signed by Secretary Kennedy, filed Oct 28, 2026",
-      "date": "published Oct 30, 2026"
-    },
-    {
-      "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides",
-      "label": "Healio, \"FDA committee recommends looser restrictions for several peptides\"",
-      "date": "published Jul 24, 2026"
-    },
-    {
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-      "label": "WADA Prohibited List 2026",
-      "date": "published Sep 2025"
+      "key": "wada",
+      "source": "World Anti-Doping Agency",
+      "title": "The 2026 Prohibited List",
+      "date": "Sep 2025",
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
     }
   ]
 }
