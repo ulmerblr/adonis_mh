@@ -15,7 +15,7 @@ export function LaneSpread({ lane, laneMark = false }: { lane: LaneKey; laneMark
   const st = STORIES[lane];
   const photo = st.photo ? { ...st.photo, file: `/images/photos/${st.photo.file}` } : undefined;
   return (
-    <section className="section spreadSection">
+    <section className="section spreadSection" data-lane={lane}>
       <div className="wrap spread2">
         <StoryPhoto photo={lanePhoto(lane, st.photoAlt, photo)} headline={st.headline} dek={st.dek} />
         <InThisIssue entries={issueEntries(lane)} laneMark={laneMark} />

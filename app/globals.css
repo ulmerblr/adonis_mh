@@ -626,7 +626,7 @@ span.tone-none { background: #d9d0bd; }
 .spread2 .spreadSide { align-content: start; }
 /* Keep the headline legible where a tall crop puts it over his shirt: a sand fade on the left that ends before his face
    (his face starts at about two thirds of the width at every size). The caption gets a light paper backing. */
-.spread2 .spreadPhoto::after { content: ''; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(90deg, rgba(226, 212, 186, 0.92) 0%, rgba(226, 212, 186, 0.82) 36%, rgba(226, 212, 186, 0) 60%); }
+.spread2 .spreadPhoto::after { content: ''; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(90deg, rgba(226, 212, 186, 0.92) 0%, rgba(226, 212, 186, 0.82) var(--fade-solid, 36%), rgba(226, 212, 186, 0) var(--fade-end, 60%)); }
 .spread2 .spreadHead, .spread2 .spreadCaption { z-index: 2; }
 .spread2 .spreadCaption { background: rgba(247, 243, 234, 0.78); padding: 1px 6px; border-radius: 2px; }
 
@@ -732,3 +732,28 @@ span.tone-none { background: #d9d0bd; }
 .appDetail .mapBox { padding: 4px; }
 .appDetail .mapPop { max-width: calc(100% - 8px); }
 .appDetail .btnHuge { width: 100%; }
+
+/* EDU PROMPT 27: the TRT and Weight lane photos. Each lane sets its own crop so his face sits to the right, clear of the
+   headline, and the same sand fade (above) runs solid behind the headline and ends before his face. TRT's headline sits
+   at the top so it ends above the hard hat, at a size where "Testosterone's" fits beside his face. */
+[data-lane='trt'] .spreadPhoto img { object-position: 0% 30% !important; }
+[data-lane='trt'] .spreadHead { top: 14px; transform: none; }
+[data-lane='trt'] .spreadTitle { font-size: clamp(26px, 8.4cqw, 60px); }
+[data-lane='trt'] .spreadPhoto { --fade-solid: 57%; --fade-end: 66%; }
+[data-lane='weight'] .spreadPhoto img { object-position: 10% 30% !important; }
+[data-lane='weight'] .spreadPhoto { --fade-solid: 62%; --fade-end: 69%; }
+@media (min-width: 860px) {
+  [data-lane='trt'] .spreadPhoto img { object-position: 72% 30% !important; }
+  [data-lane='trt'] .spreadHead { top: 24px; }
+  [data-lane='trt'] .spreadPhoto { --fade-solid: 57%; --fade-end: 64%; }
+  [data-lane='weight'] .spreadPhoto img { object-position: 74% 30% !important; }
+  [data-lane='weight'] .spreadPhoto { --fade-solid: 51%; --fade-end: 57%; }
+  [data-lane='weight'] .spreadHead { max-width: 46%; }
+  [data-lane='weight'] .spreadTitle { font-size: clamp(30px, 9.5cqw, 72px); }
+}
+@media (min-width: 1000px) {
+  [data-lane='weight'] .spreadPhoto img { object-position: 62% 30% !important; }
+  [data-lane='weight'] .spreadPhoto { --fade-solid: 58%; --fade-end: 66%; }
+  [data-lane='weight'] .spreadHead { max-width: 54%; }
+  [data-lane='weight'] .spreadTitle { font-size: clamp(30px, 11cqw, 72px); }
+}
