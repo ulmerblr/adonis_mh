@@ -87,7 +87,9 @@ export const bpc157: TreatmentData = {
       body: (
         <>
         <p className="bodyLead">
-          Human evidence: five published studies, about 80 people in total, according to FDA’s July 2026 review. Two were run in
+          Human evidence: five published studies, in which about 80 people were given BPC-157, according to FDA’s July 2026
+          review. FDA counts 24 healthy volunteers, about 26 people with ulcerative colitis, 17 with knee pain, 12 with
+          interstitial cystitis and 2 healthy adults given it by IV. <Src href={U.fdaBriefing} label="FDA briefing" /> Two were run in
           Croatia in the early 2000s and three in Florida since 2021. Two more randomized trials are registered but have no results yet.
         </p>
         <p className="body">Each is listed below exactly as it was run.</p>

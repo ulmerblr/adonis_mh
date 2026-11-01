@@ -3,8 +3,7 @@
   "name": "Sermorelin",
   "peptide": true,
   "lanes": [
-    "sleep",
-    "longevity"
+    "sleep"
   ],
   "index": {
     "evidence": "No sleep or aging RCTs",

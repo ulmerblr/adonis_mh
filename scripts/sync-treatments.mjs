@@ -1,5 +1,5 @@
 // For each content/treatments/<slug>.json: create its route (app/<slug>/page.tsx) and set the page link on its row(s) in
-// lib/library.ts (evidence, fda and sport from the JSON's "index"). Shared treatments (Tretinoin, GHK-Cu, Sermorelin) get
+// lib/library.ts (evidence, fda and sport from the JSON's "index"). Shared treatments (Tretinoin, GHK-Cu) get
 // one page; every row with that name links to it. Run: node scripts/sync-treatments.mjs [slug …]
 import fs from 'node:fs';
 

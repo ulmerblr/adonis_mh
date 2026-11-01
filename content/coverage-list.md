@@ -1,4 +1,4 @@
-# Coverage list (EDU PROMPT 22, updated EDU PROMPT 23)
+# Coverage list (EDU PROMPT 22, updated EDU PROMPTS 23 and 25)
 
 ## Standing rules (hold from now on)
 A. Medicine only. The site covers drugs, peptides, hormones and supplements: things a man takes. No devices, no
@@ -14,7 +14,16 @@ B. Clinical lanes are fixed. The original 37 rows (the rows on the site before E
    - Sleep: Sermorelin; Glycine
    - Hair loss: Finasteride; Minoxidil; Latanoprost; Ketoconazole; Tretinoin; Biotin
    - Skin: Tretinoin; Azelaic acid; Niacinamide; Doxycycline; GHK-Cu (copper peptide)
-   - Longevity: NAD+; Nicotinamide riboside; Glutathione; Metformin; GHK-Cu (copper peptide); Sermorelin
+   - Longevity: NAD+; Nicotinamide riboside; Glutathione; Metformin; GHK-Cu (copper peptide)
+   (EDU PROMPT 25: the Sermorelin row was removed from Longevity under rule C, since Adonis Clinical carries sermorelin
+   only in Sleep. Its Sleep row and its page stay.)
+C. Every compound Adonis Clinical carries sits in the same lane on both sites. The source of truth is Adonis Clinical's
+   content/cart/products.json in ulmerblr/adonis (read-only; never edit that repo). Each product's 'group' is its lane:
+   trt, vitality, hair (= hair-loss here), skin, longevity, sleep, energy, weight, recovery. A Clinical compound may
+   appear in a second research-site lane only if Clinical also carries it in that lane. Treatments Clinical does not
+   carry may sit in any lane. The order of the lanes does not need to match.
+   Check: node scripts/check-clinical-lanes.mjs (run it whenever a row is added or a lane changes; it must report
+   0 mismatches).
 
 Lanes (EDU PROMPT 23): TRT, Weight, Recovery, Vitality, Energy, Brain, Sleep, Hair loss, Skin, Longevity.
 

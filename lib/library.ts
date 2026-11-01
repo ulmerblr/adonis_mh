@@ -71,7 +71,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Topiramate', aka: ['Topamax', 'Topamax Sprinkle', 'Qsymia (with phentermine)', 'Qsiva'], page: { href: '/topiramate', evidence: 'Approved; weight RCTs', fda: 'Weight: Qsymia only', sport: 'Not listed' } },
   ],
   recovery: [
-    { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 people', fda: 'Not approved; HHS discretion', sport: 'Banned' } },
+    { name: 'BPC-157', peptide: true, page: { href: '/bpc-157', evidence: '5 studies, ~80 treated', fda: 'Not approved; HHS discretion', sport: 'Banned' } },
     { name: 'TB-500 (thymosin beta-4 fragment)', peptide: true, page: { href: '/tb-500', evidence: '3-case report; no trials', fda: 'Not approved; HHS discretion', sport: 'Banned (S2)' } },
     { name: 'KPV', peptide: true, page: { href: '/kpv', evidence: 'Animal and cell only', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
     { name: 'ARA-290 (cibinetide)', peptide: true, aka: ['Cibinetide', 'ARA 290', 'ARA290', 'Pyroglutamate helix B surface peptide', 'pHBSP'], page: { href: '/ara-290', evidence: 'Small Phase 2 trials', fda: 'Not approved', sport: 'Not named' } },
@@ -181,7 +181,6 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Glutathione', page: { href: '/glutathione', evidence: 'Small trials, not aging', fda: 'Not approved', sport: 'Not listed' } },
     { name: 'Metformin', page: { href: '/metformin', evidence: 'Approved; aging data thin', fda: 'Approved (Glucophage)', sport: 'Not listed' } },
     { name: 'GHK-Cu (copper peptide)', peptide: true, page: { href: '/ghk-cu', evidence: '1 small RCT; lab/animal', fda: 'Not approved', sport: 'Not listed' } },
-    { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },
     { name: 'MOTS-c', peptide: true, page: { href: '/mots-c', evidence: 'No human studies', fda: 'Not approved; HHS discretion', sport: 'Banned (S4)' } },
     { name: 'Epitalon', peptide: true, page: { href: '/epitalon', evidence: 'Animal/cell; few in people', fda: 'Not approved; HHS discretion', sport: 'Not listed' } },
     { name: 'Elamipretide (SS-31)', peptide: true, aka: ['Forzinity', 'SS-31', 'MTP-131', 'Bendavia'], page: { href: '/elamipretide', evidence: 'Approved; small trials', fda: 'Accelerated approval', sport: 'Not listed' } },
