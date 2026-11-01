@@ -11,164 +11,133 @@
     {
       "icon": "calendar",
       "label": "Approval withdrawn",
-      "line": "Geref approved 1990 and 1997; withdrawn June 18, 2009, at the maker’s request."
+      "line": "Geref (sermorelin) approved 1990 and 1997; withdrawn June 18, 2009."
     },
     {
       "icon": "people",
       "label": "Sleep trials",
-      "line": "No sermorelin trial with sleep as its result. Glycine: 3 small trials."
+      "line": "No sermorelin trial with sleep as its result. Magnesium: low-certainty evidence."
     },
     {
       "icon": "banned",
       "label": "Banned in sport",
-      "line": "Sermorelin is named under S2.2.4 and banned at all times. Glycine is not listed.",
+      "line": "Sermorelin, CJC-1295, ipamorelin and the GHRPs are banned at all times.",
       "src": {
         "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
         "label": "WADA 2026 Prohibited List (S2.2.4)"
       }
     }
   ],
-  "summary": [
-    "[[/sermorelin|Sermorelin]] is a short version of growth hormone-releasing hormone, the signal that tells the pituitary to release growth hormone. It was once FDA approved, as Geref: in 1990 as a test of pituitary function and in 1997 for children with growth hormone deficiency. The maker stopped selling both products and asked FDA to withdraw them; FDA did, effective June 18, 2009. In 2013 FDA found they were not withdrawn for safety or effectiveness reasons. No sermorelin product is FDA approved today, so a product described as FDA approved is pointing to an approval that ended in 2009.",
-    "Compounded sermorelin, including troches, tablets, oral strips and injections, is not FDA approved, and using it for sleep or longevity is off-label. In 2022 a pharmacy recalled compounded sermorelin among other injectables for being out of specification. WADA names sermorelin under class S2.2.4 and bans it at all times.",
-    "The sleep research is indirect. We found no trial of sermorelin with sleep as its result, and no human study of sermorelin by mouth, troche or strip. In a 1999 German study of 23 men, natural GHRH given by nasal spray increased deep and REM sleep in the second half of the night; the abstract does not say whether it was sermorelin.",
-    "[[/glycine|Glycine]] is an amino acid sold as a dietary supplement and approved as a drug only as an irrigation fluid for urologic surgery. A 2026 scoping review found three small trials of glycine on sleep-related outcomes and called for larger ones. Whether glycine helps sleep, and whether sermorelin does at all, is not known."
+  "body": [
+    "Men who sleep badly are offered a long list of fixes, and the most heavily marketed ones work through growth hormone. The idea is that the body releases much of its growth hormone during deep sleep, so a drug that raises it might deepen sleep too. The best known of these drugs, [[/sermorelin|sermorelin]], has an unusual history: it was once FDA approved, and it is not anymore.",
+    "Sermorelin is a short version of growth hormone-releasing hormone, the signal that tells the pituitary gland to release growth hormone. FDA approved it as Geref, first in 1990 as a test of whether the pituitary can release growth hormone, and in 1997 to treat children with growth hormone deficiency.[^geref1][^geref2] Then its maker stopped selling it. A 2009 Federal Register notice listed Geref among products whose holders “notified the agency in writing that the drug products were no longer marketed and requested that the approval of the applications be withdrawn.”[^fr2009] The withdrawal took effect on June 18, 2009.[^fr2009]",
+    "The reason was not safety. In 2013, FDA published its finding that Geref was “not withdrawn from sale for reasons of safety or effectiveness,”[^fr2013] a step that leaves room for generic versions. But no sermorelin product is FDA approved today. So when a product is described as FDA approved, it is pointing to an approval that ended in 2009. Compounded sermorelin is not FDA approved, and using it for sleep is off-label. In 2022, a compounding pharmacy recalled lots of several injectable products, including sermorelin, because “these compounded products were found to be out-of-specification.”[^olympia]",
+    "The sleep research behind sermorelin is indirect. We found no trial of sermorelin with sleep as its main result. In a 1999 German study, 12 young and 11 older healthy men were given growth hormone-releasing hormone or a placebo by nasal spray before bed.[^perras] The authors reported that the hormone “increased rapid-eye-movement (REM) sleep and slow wave sleep (SWS), with this influence concentrating on the second half of sleep time.”[^perras] The abstract does not say whether the hormone used was sermorelin.",
+    "A group of related peptides is sold for the same purpose, with less behind them. [[/cjc-1295|CJC-1295]] is a longer-acting relative of sermorelin, and [[/ipamorelin|ipamorelin]], [[/ghrp-2|GHRP-2]], [[/ghrp-6|GHRP-6]] and [[/hexarelin|hexarelin]] push the pituitary to release growth hormone by another route. FDA placed ipamorelin acetate in its category of compounding substances that may present significant safety risks in 2023, noting that “a study published in literature identified serious adverse events including death when ipamorelin was administered intravenously for improving gastric motility.”[^cat2] For GHRP-6, FDA writes that “the available data reveal safety concerns including potential effect on cortisol and increase in blood glucose due to decreases in insulin sensitivity.”[^cat2] For CJC-1295, it says it “has identified serious adverse events associated with CJC-1295 including increased heart rate and systemic vasodilatory reaction.”[^cat2] The pill [[/ibutamoren|ibutamoren]], sold as MK-677, is on the same list. FDA says it “poses significant safety risks due to the potential for congestive heart failure in certain patients,”[^cat2] and cites a hip-fracture trial that “was terminated early due to a potential safety signal of congestive heart failure.”[^cat2]",
+    "One peptide in this family is approved, but not for sleep. [[/tesamorelin|Tesamorelin]] is sold as Egrifta, and its label is narrow: it “is indicated for the reduction of excess abdominal fat in HIV-infected adult patients with lipodystrophy.”[^egrifta] Lipodystrophy is an abnormal shift in body fat. Any other use, including sleep, is off-label. The label also says that “Long-term cardiovascular safety of EGRIFTA WR has not been established.”[^egrifta]",
+    "Then there is [[/emideltide|emideltide]], sold online as DSIP, short for delta sleep-inducing peptide. Its name makes a promise its record does not keep. FDA’s compounding advisory committee considered it in July 2026, and according to Healio’s report, “the votes on emideltide failed with 6 ‘yes’ votes, 7 ‘no’ votes and 1 abstaining.”[^healio] FDA has not posted an official vote record. FDA had already noted that it “has not identified safety-related information regarding emideltide for the proposed route of administration.”[^cat2] It is not part of the October 2026 HHS peptide policy.",
+    "The supplements in this lane are simpler. [[/glycine|Glycine]] is an amino acid sold as a dietary supplement; its only FDA approval as a drug is as a surgical irrigation fluid, which “is indicated for use as irrigating fluid during transurethral prostatic resection and other transurethral surgical procedures.”[^glycine] A 2026 scoping review found that “all 3 glycine sleep trials reported benefits on at least 1 sleep-related outcome,”[^fan] and added that “larger mechanistic trials with standardized sleep outcomes are needed.”[^fan] [[/magnesium|Magnesium]] has more trials but no clearer answer. A 2026 systematic review of 12 randomized trials found that “current evidence does not support oral magnesium as a routine treatment for insomnia.”[^mag] The reviewers rated the certainty of the evidence as low to very low.[^mag] [[/melatonin|Melatonin]] is sold as a supplement in the US, while the European Union has authorised prescription melatonin medicines for sleep.[^circadin]",
+    "For athletes, the growth hormone route is closed. The World Anti-Doping Agency’s list bans growth hormone-releasing factors, naming “growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin),”[^wada] along with the growth hormone secretagogues, at all times.[^wada] Glycine, magnesium and melatonin are not listed.",
+    "What is not known is whether any of the growth hormone drugs improves sleep in healthy men. No trial has tested sermorelin for sleep, the related peptides have little or no human sleep data, and the supplements’ trials are small. The one approved drug in the group, tesamorelin, was approved for something else entirely."
   ],
-  "pull": {
-    "quote": "growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin)",
-    "cite": "WADA 2026 Prohibited List, class S2.2.4",
-    "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
-  },
-  "excerpts": [
+  "notes": [
     {
-      "kind": "regulator",
-      "quote": "The holders of the applications notified the agency in writing that the drug products were no longer marketed and requested that the approval of the applications be withdrawn. DATES: Effective: June 18, 2009.",
-      "source": "FDA, Withdrawal of approval of 92 NDAs and 49 ANDAs, Federal Register",
-      "date": "published May 2009",
-      "href": "https://www.govinfo.gov/content/pkg/FR-2009-05-19/pdf/E9-11628.pdf",
-      "note": "Geref Diagnostic (NDA 19-863) is on the notice’s list."
+      "key": "geref1",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Geref Diagnostic, NDA 019863",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019863"
     },
     {
-      "kind": "regulator",
-      "quote": "The Food and Drug Administration (FDA) has determined that GEREF (Sermorelin Acetate) … were not withdrawn from sale for reasons of safety or effectiveness.",
-      "source": "FDA determination on GEREF, Federal Register",
-      "date": "published Mar 2013",
-      "href": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/pdf/2013-04827.pdf",
-      "note": "The notice says this allows FDA to approve generic versions."
+      "key": "geref2",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Geref, NDA 020443",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020443"
     },
     {
-      "kind": "regulator",
-      "quote": "Olympia Pharmacy is voluntarily recalling 11 specific lots of Trimix Formulas F-9, T-105, SB-4, Sermorelin, Sincalide, Hydroxocobalamin, and NAD, compounded injectables to the consumer level. These compounded products were found to be out-of-specification.",
-      "source": "Olympia Pharmacy recall notice, posted by FDA",
-      "date": "published Mar 2022",
-      "href": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/olympia-pharmacy-issues-voluntary-nationwide-recall-seven-compounded-products-due-being-out"
+      "key": "fr2009",
+      "source": "FDA, Federal Register",
+      "title": "Withdrawal of approval of 92 new drug applications and 49 abbreviated new drug applications (74 FR 23407)",
+      "date": "May 19, 2009",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2009-05-19/pdf/E9-11628.pdf"
     },
     {
-      "kind": "regulator",
-      "quote": "1.5% Glycine Irrigation, USP is indicated for use as irrigating fluid during transurethral prostatic resection and other transurethral surgical procedures.",
-      "source": "1.5% Glycine Irrigation label, DailyMed",
-      "date": "published Jun 2026",
-      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc",
-      "note": "This is glycine’s only FDA approval as a drug. It is not for sleep."
+      "key": "fr2013",
+      "source": "FDA, Federal Register",
+      "title": "Determination that GEREF (sermorelin acetate) was not withdrawn from sale for reasons of safety or effectiveness (78 FR 14095)",
+      "date": "Mar 4, 2013",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/pdf/2013-04827.pdf"
     },
     {
-      "kind": "trial",
-      "quote": "Moreover, results indicated that after intranasal administration GHRH increased rapid-eye-movement (REM) sleep and slow wave sleep (SWS), with this influence concentrating on the second half of sleep time.",
+      "key": "olympia",
+      "source": "FDA (company announcement)",
+      "title": "Olympia Pharmacy issues voluntary nationwide recall of compounded products due to being out of specification",
+      "date": "Mar 2022",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/olympia-pharmacy-issues-voluntary-nationwide-recall-seven-compounded-products-due-being-out"
+    },
+    {
+      "key": "perras",
       "source": "Perras et al., Psychoneuroendocrinology",
-      "date": "published Oct 1999",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/10451909/",
-      "note": "12 young and 11 older healthy men, one night each. The abstract does not say whether the GHRH was sermorelin."
+      "title": "Sleep and endocrine changes after intranasal administration of growth hormone-releasing hormone in young and aged humans",
+      "date": "Oct 1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10451909/"
     },
     {
-      "kind": "trial",
-      "quote": "All 3 glycine sleep trials reported benefits on at least 1 sleep-related outcome.",
-      "source": "Fan et al., J Diet Suppl (scoping review)",
-      "date": "published Sep 2026",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/42687500/"
+      "key": "cat2",
+      "source": "FDA",
+      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
+      "date": "Apr 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
     },
     {
-      "kind": "trial",
-      "quote": "Larger mechanistic trials with standardized sleep outcomes are needed.",
-      "source": "Fan et al., J Diet Suppl (scoping review)",
-      "date": "published Sep 2026",
-      "href": "https://pubmed.ncbi.nlm.nih.gov/42687500/"
-    }
-  ],
-  "sources": [
-    {
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019863",
-      "label": "Drugs@FDA, NDA 019863 (Geref)",
-      "date": "accessed Oct 31, 2026"
+      "key": "egrifta",
+      "source": "DailyMed",
+      "title": "Egrifta WR (tesamorelin) prescribing information",
+      "date": "Mar 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75"
     },
     {
-      "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020443",
-      "label": "Drugs@FDA, NDA 020443 (Geref)",
-      "date": "accessed Oct 31, 2026"
+      "key": "healio",
+      "source": "Healio",
+      "title": "FDA committee recommends looser restrictions for several peptides",
+      "date": "Jul 24, 2026",
+      "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides"
     },
     {
-      "url": "https://www.govinfo.gov/content/pkg/FR-2009-05-19/pdf/E9-11628.pdf",
-      "label": "FDA, Withdrawal of approval of 92 NDAs and 49 ANDAs, 74 FR 23407",
-      "date": "published May 2009"
+      "key": "glycine",
+      "source": "DailyMed",
+      "title": "1.5% Glycine Irrigation, USP label (ICU Medical)",
+      "date": "Jun 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc"
     },
     {
-      "url": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/pdf/2013-04827.pdf",
-      "label": "FDA, Determination that GEREF (sermorelin acetate) was not withdrawn for safety or effectiveness, 78 FR 14095",
-      "date": "published Mar 2013"
+      "key": "fan",
+      "source": "Fan et al., Journal of Dietary Supplements",
+      "title": "Glycine bioavailability and sleep-related outcomes following oral glycine and collagen supplementation: a scoping review",
+      "date": "Sep 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687500/"
     },
     {
-      "url": "https://www.fda.gov/media/94164/download",
-      "label": "FDA, 503B nominated substances by category",
-      "date": "published Mar 2025"
+      "key": "mag",
+      "source": "Lopresti et al., Journal of Dietary Supplements",
+      "title": "Magnesium supplementation for sleep in adults: a systematic review of randomized controlled trials",
+      "date": "Aug 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661485/"
     },
     {
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/olympia-pharmacy-issues-voluntary-nationwide-recall-seven-compounded-products-due-being-out",
-      "label": "Olympia Pharmacy recall notice, FDA",
-      "date": "published Mar 2022"
+      "key": "circadin",
+      "source": "European Medicines Agency",
+      "title": "Circadin (melatonin): EPAR",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/circadin"
     },
     {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/1379256/",
-      "label": "Corpas et al., J Clin Endocrinol Metab, 1992",
-      "date": "published Aug 1992"
-    },
-    {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/9141536/",
-      "label": "Khorram et al., J Clin Endocrinol Metab, 1997",
-      "date": "published May 1997"
-    },
-    {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/10451909/",
-      "label": "Perras et al., Psychoneuroendocrinology, 1999",
-      "date": "published Oct 1999"
-    },
-    {
-      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
-      "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
-      "date": "accessed Oct 31, 2026"
-    },
-    {
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc",
-      "label": "1.5% Glycine Irrigation label (ICU Medical), DailyMed",
-      "date": "published Jun 2026"
-    },
-    {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687500/",
-      "label": "Fan et al., J Diet Suppl, 2026 (scoping review)",
-      "date": "published Sep 2026"
-    },
-    {
-      "url": "https://pubmed.ncbi.nlm.nih.gov/22529837/",
-      "label": "Bannai et al., Front Neurol, 2012",
-      "date": "published Apr 2012"
-    },
-    {
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-      "label": "WADA Prohibited List 2026",
-      "date": "published Sep 2025"
-    },
-    {
-      "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
-      "label": "WADA 2027 Prohibited List (redline)",
-      "date": "published Sep 2026"
+      "key": "wada",
+      "source": "World Anti-Doping Agency",
+      "title": "The 2026 Prohibited List",
+      "date": "Sep 2025",
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
     }
   ]
 }
