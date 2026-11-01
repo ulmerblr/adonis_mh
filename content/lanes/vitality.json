@@ -4,7 +4,7 @@
     "The pill and",
     "the troche."
   ],
-  "dek": "Three ED drugs are FDA approved as tablets. The troches, gummies and combinations are not.",
+  "dek": "Three ED drugs are FDA approved as tablets. Troches, gummies and combinations are not.",
   "photoAlt": "Illustration for the Vitality lane.",
   "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
   "glance": [
@@ -21,22 +21,76 @@
     {
       "icon": "people",
       "label": "Not studied",
-      "line": "We found no published human study of the troche, gummy or oxytocin combinations."
+      "line": "No published human study of ED drugs as troches or gummies, or combined with oxytocin."
     }
   ],
-  "paragraphs": [
-    "Three drugs for erectile dysfunction have been through FDA approval, and all three work the same way, by blocking an enzyme called PDE5. [[/sildenafil|Sildenafil]] was approved as Viagra on March 27, 1998. [[/tadalafil|Tadalafil]] followed as Cialis on November 21, 2003, and was later approved for the urinary symptoms of an enlarged prostate. [[/vardenafil|Vardenafil]] was approved as Levitra on August 19, 2003; that brand is now discontinued, and FDA found it was not withdrawn for safety or effectiveness reasons. Generic tablets of all three are approved.",
-    "The approvals rest on randomized trials run in thousands of men: 21 placebo-controlled trials of more than 3,000 men behind Viagra’s label, and 22 trials of more than 4,000 men behind Cialis’s. Those trials tested the approved tablets taken by mouth.",
-    "Much of what Adonis carries in this lane is something else. Through Beluga it offers sildenafil and tadalafil as gums, gummies, troches dissolved in the mouth and oral strips, and as combinations: tadalafil with [[/oxytocin|oxytocin]], and tadalafil with oxytocin and PT-141. These are compounded products, and they are not FDA approved. FDA does not review compounded drugs for safety, effectiveness or quality before they are sold. A PubMed search for our pages found no published human study of sildenafil or tadalafil given as a gum, gummy or troche, or combined with oxytocin.",
-    "The two added ingredients are approved for other people and other uses. Oxytocin is approved only as an injection, Pitocin, for labor and bleeding after birth; an oxytocin nasal spray was once approved and withdrawn in 1997, and no oxytocin spray, strip or tablet is approved today. The human research on oxytocin and male sexual function is a few small studies, mostly a single dose. [[/bremelanotide|Bremelanotide (PT-141)]] is approved only as Vyleesi, an injection for premenopausal women with low sexual desire. Use of either in men is off-label.",
-    "The labels also warn about combining. The Viagra label says sildenafil must not be used with nitrates in any form, and that combinations with other PDE5 inhibitors or other ED treatments have not been studied and are not recommended. The Levitra label says the same of vardenafil combined with other ED treatments.",
-    "The last drug in the lane is an antidepressant. [[/sertraline|Sertraline]], sold as Zoloft since 1991, is approved for depression and five other psychiatric conditions, not for premature ejaculation; prescribing it for that is off-label. Small randomized trials of 36 to 147 men, mostly 4 to 8 weeks long, and a 2019 pooled analysis of 977 men found it lengthened time to ejaculation and raised the risk of stomach upset. Its label carries a boxed warning about suicidal thoughts in children, teenagers and young adults."
+  "summary": [
+    "Three drugs for erectile dysfunction have been through FDA approval, all PDE5 blockers: [[/sildenafil|sildenafil]] (Viagra, 1998), [[/tadalafil|tadalafil]] (Cialis, 2003, later also for an enlarged prostate) and [[/vardenafil|vardenafil]] (Levitra, 2003; that brand is discontinued, not for safety reasons). Generic tablets of all three are approved. Their approvals rest on randomized trials in thousands of men taking the tablets by mouth.",
+    "Compounded versions are sold in other forms: troches dissolved in the mouth, gums, gummies, oral strips, and combinations of two ED drugs or of an ED drug with [[/oxytocin|oxytocin]] or [[/bremelanotide|PT-141]]. None is FDA approved, and FDA does not review compounded drugs for safety, effectiveness or quality. A PubMed search found no published human study of sildenafil or tadalafil as a gum, gummy or troche, or combined with oxytocin. The Viagra label says combining it with other PDE5 inhibitors has not been studied and is not recommended.",
+    "The added ingredients are approved for other people and other uses. Oxytocin is approved only as an injection, Pitocin, for labor and after birth. PT-141 is approved only as Vyleesi, an injection for premenopausal women with low sexual desire. Use of either in men is off-label. [[/sertraline|Sertraline]], an antidepressant approved since 1991 for six psychiatric conditions, is used off-label for premature ejaculation on the strength of small trials.",
+    "What is not known: how the troche, gummy and strip forms behave in the body, whether combinations are safe, and whether oxytocin or PT-141 helps men at all. The human research on oxytocin and male sexual function is a few small studies, mostly a single dose."
   ],
   "pull": {
     "quote": "VYLEESI is not indicated for the treatment of HSDD in postmenopausal women or in men.",
     "cite": "Vyleesi (bremelanotide) label, DailyMed",
     "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf"
   },
+  "excerpts": [
+    {
+      "kind": "regulator",
+      "quote": "Administration of VIAGRA to patients using nitric oxide donors, such as organic nitrates or organic nitrites in any form. VIAGRA was shown to potentiate the hypotensive effect of nitrates",
+      "source": "Viagra label, contraindications, DailyMed",
+      "date": "published Feb 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e",
+      "note": "This is the first item in the label’s list of who must not take it."
+    },
+    {
+      "kind": "regulator",
+      "quote": "The safety and efficacy of combinations of VIAGRA with other PDE5 Inhibitors, including REVATIO or other pulmonary arterial hypertension (PAH) treatments containing sildenafil, or other treatments for erectile dysfunction have not been studied. Such combinations may further lower blood pressure. Therefore, the use of such combinations is not recommended.",
+      "source": "Viagra label, section 5.7, DailyMed",
+      "date": "published Feb 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e"
+    },
+    {
+      "kind": "regulator",
+      "quote": "Antepartum: Pitocin is indicated for the initiation or improvement of uterine contractions, where this is desirable and considered suitable for reasons of fetal or maternal concern, in order to achieve vaginal delivery.",
+      "source": "Pitocin (oxytocin) label, DailyMed",
+      "date": "published May 2026",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+      "note": "Pitocin is the only FDA-approved form of oxytocin."
+    },
+    {
+      "kind": "regulator",
+      "quote": "VYLEESI is a melanocortin receptor agonist indicated for the treatment of premenopausal women with acquired, generalized hypoactive sexual desire disorder (HSDD)",
+      "source": "Vyleesi (bremelanotide) label, DailyMed",
+      "date": "published Nov 2025",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+      "note": "Bremelanotide is the drug often called PT-141."
+    },
+    {
+      "kind": "regulator",
+      "quote": "ZOLOFT is indicated for the treatment of the following [See Clinical Studies (14) ] : • Major depressive disorder (MDD) • Obsessive-compulsive disorder (OCD) • Panic disorder (PD) • Posttraumatic stress disorder (PTSD) • Social anxiety disorder (SAD) • Premenstrual dysphoric disorder (PMDD)",
+      "source": "Zoloft (sertraline) label, DailyMed",
+      "date": "published Jul 2025",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7",
+      "note": "Premature ejaculation is not on the list."
+    },
+    {
+      "kind": "regulator",
+      "quote": "Antidepressants increased the risk of suicidal thoughts and behavior in pediatric and young adult patients in short-term studies. Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors",
+      "source": "Zoloft (sertraline) label, boxed warning, DailyMed",
+      "date": "published Jul 2025",
+      "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+    },
+    {
+      "kind": "trial",
+      "quote": "Sertraline can prolong IELT of PE patients, improve sexual satisfaction rates of patients and spouses, but increase risk of gastrointestinal upset.",
+      "source": "Yi et al., Medicine (Baltimore), 2019 (pooled analysis of 14 trials)",
+      "date": "published Jun 2019",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/31169738/",
+      "note": "IELT is the time to ejaculation. The trials were small and short; this use is off-label."
+    }
+  ],
   "sources": [
     {
       "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020895",
@@ -77,11 +131,6 @@
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
       "label": "Pitocin label, DailyMed",
       "date": "published May 2026"
-    },
-    {
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:\"NDA012285\"",
-      "label": "Drugs@FDA data (openFDA), Syntocinon nasal NDA 012285",
-      "date": "accessed Oct 31, 2026"
     },
     {
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
