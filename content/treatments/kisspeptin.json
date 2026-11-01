@@ -1,0 +1,641 @@
+{
+  "slug": "kisspeptin",
+  "name": "Kisspeptin",
+  "row": "Kisspeptin",
+  "aka": [
+    "Kisspeptin-10",
+    "Kisspeptin-54",
+    "KP-10",
+    "Metastin",
+    "Kisspeptin 112-121"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "trt",
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Small human studies",
+    "fda": "Not approved",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Hormone family that drives GnRH release",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small hormone and brain-scan studies, 2015 to 2026",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Phase 1 studies, Massachusetts General Hospital",
+      "status": "done"
+    },
+    {
+      "title": "In clinical trials",
+      "line": "Phase 2, sponsor S. Seminara, NCT05896293",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "No treatment trial; small physiology studies only",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; kisspeptin-10 on Category 2 (2023)",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Kisspeptins are a family of natural peptide hormones. The 2 forms most studied in people are kisspeptin-54 and kisspeptin-10, a short 10-amino-acid piece. Both act on the hypothalamus to release GnRH, the hormone that drives the reproductive system.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26089302/",
+            "label": "Jayasena et al., Hum Reprod",
+            "date": "published Aug 2015"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to human studies:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Kisspeptin triggers GnRH release, which makes the pituitary release LH and FSH. In healthy men, kisspeptin-10 and kisspeptin-54 given into a vein raised LH and FSH, but less than GnRH itself.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26089302/",
+                "label": "Jayasena et al., Hum Reprod",
+                "date": "published Aug 2015"
+              }
+            ]
+          },
+          {
+            "text": "Given under the skin, kisspeptin-10 raised LH, FSH and testosterone in healthy men. When it was given non-stop for 5 days, LH and FSH fell back to the same levels as with placebo; daily 8-h infusions kept them raised for 12 days.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42549827/",
+                "label": "Yeung et al., Eur J Endocrinol",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "In brain-scan studies, kisspeptin changed activity in brain areas that process sexual and emotional cues.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28112678/",
+                "label": "Comninos et al., J Clin Invest",
+                "date": "published Feb 2017"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36735255/",
+                "label": "Mills et al., JAMA Netw Open",
+                "date": "published Feb 2023"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Kisspeptin is not approved as a medicine anywhere checked. FDA placed kisspeptin-10 in Category 2 in 2023 because of possible safety risks in compounding."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human studies of kisspeptin are small physiology studies, many from Imperial College London, plus early-phase trials in the US. They measured hormone release and brain responses over minutes to 12 days. None is a large treatment trial."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2015 · Single-blind, placebo-controlled",
+        "title": "Kisspeptin-10 vs kisspeptin-54 vs GnRH in healthy men (Jayasena et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-blind, placebo-controlled physiology study"
+          },
+          {
+            "k": "People",
+            "v": "healthy men, 5 per dose group"
+          },
+          {
+            "k": "What was given",
+            "v": "3-h infusions into a vein of vehicle, kisspeptin-10, kisspeptin-54 or GnRH, at 3 doses, on separate days"
+          },
+          {
+            "k": "Measured",
+            "v": "LH and FSH"
+          }
+        ],
+        "found": "Both kisspeptins raised LH and FSH to a similar degree. GnRH raised LH and FSH about 3 times more than kisspeptin-10 and 2 times more than kisspeptin-54. The authors noted the small sample.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26089302/",
+            "label": "Jayasena et al., Hum Reprod",
+            "date": "published Aug 2015"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2017 · Vehicle-controlled, brain imaging",
+        "title": "Kisspeptin and sexual and emotional brain processing (Comninos et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "comparison of kisspeptin vs vehicle, with functional MRI, hormone and questionnaire measures"
+          },
+          {
+            "k": "People",
+            "v": "29 healthy young heterosexual men"
+          },
+          {
+            "k": "Length",
+            "v": "single study visits"
+          },
+          {
+            "k": "Measured",
+            "v": "brain activity in response to sexual and couple-bonding images; mood"
+          }
+        ],
+        "found": "Kisspeptin increased activity in limbic brain areas in response to sexual and bonding images. These changes correlated with measures of reward, drive, mood and sexual aversion, and kisspeptin reduced negative mood.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28112678/",
+            "label": "Comninos et al., J Clin Invest",
+            "date": "published Feb 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2023 · Randomized, double-blind crossover",
+        "title": "Kisspeptin in men with low sexual desire (Mills et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, 2-way crossover, single center (ISRCTN17271094)"
+          },
+          {
+            "k": "People",
+            "v": "37 men with hypoactive sexual desire disorder; 32 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "kisspeptin-54 infused into a vein for 75 minutes, or placebo, at 2 visits at least 7 days apart"
+          },
+          {
+            "k": "Measured",
+            "v": "brain activity while viewing sexual videos (fMRI), penile tumescence, desire and arousal questionnaires"
+          }
+        ],
+        "found": "Kisspeptin changed activity in the brain’s sexual-processing network compared with placebo. Penile tumescence rose by up to 56% more than placebo, and “happiness about sex” scores rose. Each man got a single infusion; no longer-term effects were tested.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36735255/",
+            "label": "Mills et al., JAMA Netw Open",
+            "date": "published Feb 2023"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2022 · Randomized, double-blind crossover",
+        "title": "Kisspeptin in women with low sexual desire (Thurston et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-masked, placebo-controlled, 2-way crossover"
+          },
+          {
+            "k": "People",
+            "v": "40 premenopausal women with hypoactive sexual desire disorder; 32 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "kisspeptin-54 infused into a vein for 75 minutes, or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "brain activity in response to erotic videos and faces"
+          }
+        ],
+        "found": "Kisspeptin changed activity in brain areas for sexual and facial attraction processing. Some changes correlated with sexual distress and aversion scores. No side effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36287566/",
+            "label": "Thurston et al., JAMA Netw Open",
+            "date": "published Oct 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 2026 · Randomized, single-blind",
+        "title": "12 days of kisspeptin-10 under the skin in healthy men (Yeung et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, single-blinded, placebo-controlled, 3 sub-studies"
+          },
+          {
+            "k": "People",
+            "v": "15 healthy men given kisspeptin-10, 12 men as controls"
+          },
+          {
+            "k": "What was given",
+            "v": "infusions of kisspeptin-10 under the skin: 8-h dose-response tests, 5 days non-stop, or 8 h a day for 12 days"
+          },
+          {
+            "k": "Length",
+            "v": "up to 12 days"
+          },
+          {
+            "k": "Measured",
+            "v": "LH, FSH, testosterone"
+          }
+        ],
+        "found": "Kisspeptin-10 raised LH, FSH and testosterone in a dose-dependent way. With non-stop infusion for 5 days, testosterone stayed up but LH and FSH returned to placebo levels. Daily 8-h infusions kept gonadotropins raised for 12 days.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42549827/",
+            "label": "Yeung et al., Eur J Endocrinol",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Trials registered in the US"
+      },
+      {
+        "t": "p",
+        "text": "Several US trials are sponsored by Stephanie Seminara, MD (earlier ones list Massachusetts General Hospital as sponsor) and use a peptide called kisspeptin 112-121. A phase 2 trial of 2 weeks of pulsatile kisspeptin under the skin in hypogonadotropic hypogonadism is recruiting (NCT05896293, about 36 people). An earlier phase 2 trial in 18 people finished in August 2025 (NCT04648969); no results were found posted. A phase 1 study started in March 2026 (NCT07224490).",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05896293",
+            "label": "ClinicalTrials.gov NCT05896293, subcutaneous kisspeptin in hypogonadotropic hypogonadism",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT04648969",
+            "label": "ClinicalTrials.gov NCT04648969, prolonged pulsatile kisspeptin in hypogonadotropic hypogonadism",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07224490",
+            "label": "ClinicalTrials.gov NCT07224490, kisspeptin to measure GnRH neuron function",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies?query.term=kisspeptin",
+            "label": "ClinicalTrials.gov search for “kisspeptin”",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2026 review of peptides for TRT-related suppression of the testes said direct evidence that kisspeptin-based approaches restore sperm production or fertility remains limited. A 2026 review in sexual medicine called kisspeptin investigational.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42666625/",
+            "label": "Cretu et al., Front Reprod Health",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42862021/",
+            "label": "Vasylieva et al., Sex Med Rev",
+            "date": "published Sep 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Kisspeptin is not FDA approved for any use. In September 2023 FDA placed kisspeptin-10 in Category 2 for 503A compounding, meaning it raises significant safety risks. It is being tested in phase 1 and 2 trials. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. FDA’s Drugs@FDA data returns no kisspeptin product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22KISSPEPTIN%22",
+                "label": "Drugs@FDA data (openFDA), search for kisspeptin (no matches)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "FDA approval:"
+          },
+          {
+            "text": "FDA’s list of bulk substances that may present significant safety risks includes kisspeptin-10 (503A), added September 29, 2023. FDA says compounded kisspeptin-10 may pose a risk of immune reactions for some routes, may have problems with peptide impurities and characterization of the active ingredient, and that FDA has no or only limited safety information for the proposed routes.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "Category 2:"
+          },
+          {
+            "text": "phase 2 (NCT05896293, recruiting) and phase 1 (NCT07224490, recruiting) trials sponsored by Stephanie Seminara, MD, in hypogonadotropic hypogonadism and to measure GnRH neuron function.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT05896293",
+                "label": "ClinicalTrials.gov NCT05896293, subcutaneous kisspeptin in hypogonadotropic hypogonadism",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07224490",
+                "label": "ClinicalTrials.gov NCT07224490, kisspeptin to measure GnRH neuron function",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "In clinical trials:"
+          },
+          {
+            "text": "ClinicalTrials.gov tags 3 small kisspeptin studies as phase 3. The one checked (15 men, Quaid-e-Azam University) is listed as basic science, a study of hormone responses, not a treatment trial.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT03315325",
+                "label": "ClinicalTrials.gov NCT03315325, kisspeptin-10 responsiveness with age in men",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Phase 3 label:"
+          },
+          {
+            "text": "kisspeptin is not on the DEA’s list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Kisspeptin is not an authorised medicine in any country checked. It is being studied in research trials. FDA lists kisspeptin-10 as a compounding safety risk. It is banned in sport for men at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Kisspeptin-10 is in FDA’s 503A Category 2 (significant safety risks) since September 2023. Research use in phase 1 and 2 trials.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22KISSPEPTIN%22",
+              "label": "Drugs@FDA data (openFDA), search for kisspeptin (no matches)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://clinicaltrials.gov/study/NCT05896293",
+              "label": "ClinicalTrials.gov NCT05896293, subcutaneous kisspeptin in hypogonadotropic hypogonadism",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorised: the Drug Product Database lists no product containing kisspeptin.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=kisspeptin",
+              "label": "Health Canada Drug Product Database, ingredient search: kisspeptin (no products)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "No authorised product found: EMA’s Article 57 data lists no kisspeptin product for Northern Ireland. Great Britain was not checked separately. Human research is under way at Imperial College London.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/36735255/",
+              "label": "Mills et al., JAMA Netw Open",
+              "date": "published Feb 2023"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Not authorised: EMA’s Article 57 data lists no kisspeptin product in any member state.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) does not name kisspeptin. The TGA’s register could not be reached.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Kisspeptin and its agonist analogues are named under S2.2.1, testosterone-stimulating peptides in males, on the WADA 2026 Prohibited List. S2 is prohibited at all times (in and out of competition) and its substances are non-Specified. The entry is limited to males. The 2027 list keeps it, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Side-effect data are limited to single doses or a few days in small studies. FDA’s concerns for compounded kisspeptin-10 are immune reactions, impurities and a lack of safety data. Long-term effects on hormones and fertility have not been studied."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "FDA says compounded kisspeptin-10 may cause immune reactions for some routes and has complexities with peptide impurities; FDA lacks enough information to know whether it would cause harm in humans.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "FDA Category 2 risks:"
+          },
+          {
+            "text": "the 2022 trial in 40 women reported kisspeptin was well tolerated with no reported side effects.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36287566/",
+                "label": "Thurston et al., JAMA Netw Open",
+                "date": "published Oct 2022"
+              }
+            ],
+            "lead": "In trials:"
+          },
+          {
+            "text": "with continuous infusion for 5 days, LH and FSH returned to placebo levels while testosterone stayed raised, showing the body can adapt to constant exposure. Effects of months of use are unknown.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42549827/",
+                "label": "Yeung et al., Eur J Endocrinol",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Hormone adaptation:"
+          },
+          {
+            "text": "a 2026 review said peptide safety data are limited by short follow-up and small samples, with incomplete assessment of heart, metabolic and cancer outcomes.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42862021/",
+                "label": "Vasylieva et al., Sex Med Rev",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Evidence gaps:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "HHS’s October 2026 peptide enforcement-discretion policy lists covered peptides in an appendix on hhs.gov that returned Access Denied; whether kisspeptin-10 is covered could not be checked.",
+    "The TGA’s register could not be reached.",
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s product register.",
+    "The Comninos 2017 abstract does not say which kisspeptin form or route was used."
+  ],
+  "surprises": [
+    "ClinicalTrials.gov tags several small kisspeptin physiology studies as phase 3, although they are basic-science studies, not treatment trials.",
+    "WADA’s ban on kisspeptin (S2.2.1) applies only to males."
+  ]
+}

@@ -31,7 +31,7 @@ for (const slug of slugs) {
     if (!m) throw new Error(`${slug}: lane ${lane} not found`);
     if (!m[2].includes(`{ name: '${row.replace(/'/g, "\\'")}'`)) {
       const aka = spec.aka?.length ? `, aka: [${spec.aka.map(q).join(', ')}]` : '';
-      lib = lib.replace(laneRe, (_x, a, body, c) => `${a}${body}\n    { name: ${q(row)}${spec.peptide ? ', peptide: true' : ''}${aka} }${c}`);
+      lib = lib.replace(laneRe, (_x, a, body, c) => `${a}${body}\n    { name: ${q(row)}${spec.peptide ? ', peptide: true' : ''}${aka} },${c}`);
     }
   }
   fs.mkdirSync(`app/${slug}`, { recursive: true });

@@ -1,0 +1,662 @@
+{
+  "slug": "enobosarm",
+  "name": "Enobosarm (ostarine)",
+  "row": "Enobosarm (ostarine)",
+  "aka": [
+    "Ostarine",
+    "MK-2866",
+    "GTx-024",
+    "Enobosarm"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Phase 2 and 3 trials",
+    "fda": "Not approved",
+    "sport": "Banned (S1.2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat studies of muscle and bone",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Drug-interaction study, published 2016",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Elderly adults, cancer wasting, breast cancer",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Two lung cancer trials, 2011 to 2014; not approved",
+      "status": "done"
+    },
+    {
+      "title": "In clinical trials",
+      "line": "Phase 2b with semaglutide, Veru, NCT07446998",
+      "status": "started",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Enobosarm (also called ostarine, GTx-024 or MK-2866) is a nonsteroidal selective androgen receptor modulator (SARM). It binds the androgen receptor. It was designed to act on muscle and bone while having less effect on tissues such as the prostate and hair. It was developed by GTx, Inc., and is now being studied by Veru Inc.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22031847/",
+            "label": "Dalton et al., J Cachexia Sarcopenia Muscle, 2011",
+            "date": "published Sep 2011"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07446998",
+            "label": "ClinicalTrials.gov NCT07446998",
+            "date": "updated Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Enobosarm is not an approved medicine in the US. Products labelled as containing it are sold online, often as “research use only.” FDA considers such SARM products unapproved drugs.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+            "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+            "date": "updated Apr 2023"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Enobosarm is not FDA approved for any use. It is banned in sport at all times."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Enobosarm has been tested in people since the 2000s, mostly by its developers. The trials measured lean body mass, physical function, cancer outcomes and urinary incontinence. No trial tested it as a treatment for low testosterone in men."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2011 · Randomized, double-blind Phase II",
+        "title": "Healthy elderly men and postmenopausal women (Dalton et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled Phase II trial"
+          },
+          {
+            "k": "People",
+            "v": "120 healthy men over 60 and postmenopausal women"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "total lean body mass by DXA scan; physical function, weight, insulin resistance, safety"
+          }
+        ],
+        "found": "Lean body mass rose with dose; the 3 mg group differed from placebo. Stair-climb physical function and insulin resistance also differed at 3 mg. Adverse events were similar across groups. The authors worked for GTx, the developer.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22031847/",
+            "label": "Dalton et al., J Cachexia Sarcopenia Muscle, 2011",
+            "date": "published Sep 2011"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA and Argentina · 2013 · Randomized, double-blind Phase II",
+        "title": "Muscle wasting in people with cancer (Dobs et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 2 trial (NCT00467844)"
+          },
+          {
+            "k": "People",
+            "v": "159 men over 45 and postmenopausal women with cancer and at least 2% weight loss; 100 had usable body scans"
+          },
+          {
+            "k": "What was given",
+            "v": "enobosarm 1 mg or 3 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "up to 113 days"
+          },
+          {
+            "k": "Measured",
+            "v": "change in total lean body mass by DXA scan"
+          }
+        ],
+        "found": "Lean body mass rose from baseline in both enobosarm groups (median 1.5 kg and 1.0 kg) and did not change on placebo. The most common serious adverse events were cancer progression, pneumonia and febrile neutropenia, at similar rates in all groups; none were judged drug-related. Funded by GTx.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23499390/",
+            "label": "Dobs et al., Lancet Oncol, 2013",
+            "date": "published Apr 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "International · 2011 to 2014 · Two randomized, double-blind Phase III trials",
+        "title": "POWER trials in lung cancer (NCT01355484, NCT01355497)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two randomized, double-blind, placebo-controlled Phase III trials run by GTx"
+          },
+          {
+            "k": "People",
+            "v": "321 and 330 people with non-small cell lung cancer starting platinum chemotherapy"
+          },
+          {
+            "k": "Length",
+            "v": "84 days"
+          },
+          {
+            "k": "Measured",
+            "v": "share of people with stair-climb power up 10% or more, and share with no loss of lean body mass"
+          }
+        ],
+        "found": "In the registry results, more people on enobosarm kept lean body mass in both trials (41.9% vs 30.4%; 46.5% vs 37.9%). For stair-climb power, the share was 29.4% vs 24.2% in one trial and 19.5% vs 24.8% (lower on enobosarm) in the other. Enobosarm was not approved for cancer wasting.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01355484",
+            "label": "ClinicalTrials.gov NCT01355484",
+            "date": "updated Mar 2016"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01355497",
+            "label": "ClinicalTrials.gov NCT01355497",
+            "date": "updated Nov 2020"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "International · 2024 · Randomized, open-label Phase 2",
+        "title": "Advanced ER-positive breast cancer (Palmieri et al., G200802)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, open-label, multicentre Phase 2 trial comparing two doses"
+          },
+          {
+            "k": "People",
+            "v": "136 postmenopausal women with previously treated AR-positive, ER-positive, HER2-negative advanced breast cancer"
+          },
+          {
+            "k": "What was given",
+            "v": "enobosarm 9 mg or 18 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "clinical benefit at 24 weeks; safety"
+          }
+        ],
+        "found": "At 24 weeks, 32% (9 mg) and 29% (18 mg) of evaluable women had clinical benefit. Grade 3 or 4 drug-related adverse events occurred in 8% and 16%, most often raised liver enzymes, high blood calcium and fatigue. Funded by GTx.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38342115/",
+            "label": "Palmieri et al., Lancet Oncol, 2024",
+            "date": "published Mar 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2017 to 2018 · Randomized, double-blind Phase 2",
+        "title": "Stress urinary incontinence in postmenopausal women (NCT03241342)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase 2 trial run by GTx"
+          },
+          {
+            "k": "People",
+            "v": "491 postmenopausal women enrolled"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "number of women with stress incontinence episodes cut by half or more"
+          }
+        ],
+        "found": "In the registry results, 94 of 163 (1 mg), 96 of 163 (3 mg) and 87 of 165 (placebo) women met the 50% reduction goal.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03241342",
+            "label": "ClinicalTrials.gov NCT03241342",
+            "date": "updated Mar 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 to 2025 · Randomized, double-blind Phase 2",
+        "title": "Older adults starting semaglutide (NCT06282458)",
+        "badge": "No results posted",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, double-blind dose-finding Phase 2 trial; sponsor Veru Inc."
+          },
+          {
+            "k": "People",
+            "v": "168 adults aged 60 and over starting semaglutide for weight management"
+          },
+          {
+            "k": "What was given",
+            "v": "enobosarm 3 mg or 6 mg a day, or placebo, with semaglutide"
+          },
+          {
+            "k": "Length",
+            "v": "112 days, then up to day 196 without semaglutide"
+          },
+          {
+            "k": "Measured",
+            "v": "percent change in total lean body mass at day 112"
+          }
+        ],
+        "found": "The registry lists the trial as completed in August 2025, with no results posted. The search found no peer-reviewed paper reporting it.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT06282458",
+            "label": "ClinicalTrials.gov NCT06282458",
+            "date": "updated Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2026 to 2027 · Randomized, double-blind Phase 2b",
+        "title": "PLATEAU: enobosarm with semaglutide, adults 65 and over (NCT07446998)",
+        "badge": "Ongoing",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, triple-masked Phase 2b trial; sponsor Veru Inc."
+          },
+          {
+            "k": "People",
+            "v": "239 adults aged 65 and over taking semaglutide (Wegovy)"
+          },
+          {
+            "k": "What was given",
+            "v": "enobosarm 3 mg or placebo, with weekly semaglutide"
+          },
+          {
+            "k": "Measured",
+            "v": "total body weight at day 476; physical function and safety"
+          }
+        ],
+        "found": "Started March 2026; active, not recruiting. Completion is estimated for December 2027. No results yet.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07446998",
+            "label": "ClinicalTrials.gov NCT07446998",
+            "date": "updated Sep 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats with their ovaries or testes removed, enobosarm has been studied for bone loss. In castrated male rats it also increased prostate weight. These results are in animals only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41134342/",
+            "label": "Calcif Tissue Int, 2025 (ovariectomized rats)",
+            "date": "published Oct 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37378829/",
+            "label": "Endocrine, 2023 (orchiectomized rats)",
+            "date": "published Sep 2023"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Enobosarm is not FDA approved for any use. It is an investigational drug in clinical trials. Products sold as “research use only” are unapproved drugs, and FDA does not allow them to be sold for people to take. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "FDA says SARMs, which mimic the effects of testosterone and anabolic steroids, are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "“Research use only” labels:",
+            "text": "FDA says that although SARMs are often marketed as dietary supplements or “sold for research use only,” they are considered unapproved drugs, and SARMs cannot be legally marketed in the US as a dietary supplement or a drug at this time. FDA also notes that products labelled “for research purposes” or “not for human consumption” have been sold directly to consumers for human use. FDA does not allow these products to be sold for people to take.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Not dietary supplements:",
+            "text": "FDA says bodybuilding products containing SARMs are generally marketed as dietary supplements but are not dietary supplements; they are unapproved drugs that FDA has not reviewed for safety and effectiveness.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Enforcement:",
+            "text": "FDA says it has issued warning letters to companies selling products marketed as SARMs and has pursued criminal actions against distributors.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "In clinical trials:",
+            "text": "Veru Inc. is running a Phase 2b trial of enobosarm with semaglutide in adults 65 and over (NCT07446998); a Phase 2 dose-finding trial (NCT06282458) finished in 2025.",
+            "src": [
+              {
+                "url": "https://clinicaltrials.gov/study/NCT07446998",
+                "label": "ClinicalTrials.gov NCT07446998",
+                "date": "updated Sep 2026"
+              },
+              {
+                "url": "https://clinicaltrials.gov/study/NCT06282458",
+                "label": "ClinicalTrials.gov NCT06282458",
+                "date": "updated Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Enobosarm is not FDA approved. Products labelled “for research use only” may not be sold for human use."
+      }
+    ],
+    "world": {
+      "lead": "Enobosarm is not an approved medicine in any country checked. Canada says SARMs are not authorized for any use. Australia lists enobosarm as prescription only, and possession without authority is illegal.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA says SARMs cannot be legally sold as dietary supplements or drugs; “research use only” products are unapproved drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+              "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+              "date": "updated Apr 2023"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+              "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+              "date": "updated Dec 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized for any use. Health Canada says SARMs have not been reviewed for safety, effectiveness or quality.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+              "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+              "date": "updated Dec 2025"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Enobosarm is named in Schedule 4 (prescription only); as a SARM it is in Appendix D clause 5: possession without authority is illegal.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard October 2026 (Australia), F2026L01327",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "The WADA 2026 Prohibited List names enobosarm (ostarine) under S1.2 Other anabolic agents, in the class of selective androgen receptor modulators (SARMs). S1 substances are prohibited at all times, in and out of competition. The 2027 list keeps the same S1.2 wording.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In trials, enobosarm’s side effects included raised liver enzymes and high blood calcium. Case reports describe liver injury in people who used products sold as ostarine. FDA warns of serious risks from SARMs."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Trials:",
+            "text": "in the 120-person elderly trial, adverse events were similar to placebo. In the breast cancer trial, grade 3 or 4 drug-related events occurred in 8% (9 mg) and 16% (18 mg), most often raised liver enzymes, high blood calcium and fatigue.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22031847/",
+                "label": "Dalton et al., J Cachexia Sarcopenia Muscle, 2011",
+                "date": "published Sep 2011"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38342115/",
+                "label": "Palmieri et al., Lancet Oncol, 2024",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Liver injury, case reports:",
+            "text": "a 31-year-old man developed liver injury three weeks after starting a muscle-building product containing enobosarm, and improved after stopping it. A second report describes significant cholestatic liver injury linked to ostarine.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35655632/",
+                "label": "Weinblatt and Roy, J Med Cases, 2022",
+                "date": "published May 2022"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34368386/",
+                "label": "Bedi et al., ACG Case Rep J, 2021",
+                "date": "published Jan 2021"
+              }
+            ]
+          },
+          {
+            "lead": "FDA warning:",
+            "text": "FDA lists serious or life-threatening problems linked to SARMs in studies and reports: higher risk of heart attack or stroke, psychosis and hallucinations, sleep problems, sexual dysfunction, liver injury and acute liver failure, infertility, miscarriage and testicular shrinkage. FDA says liver injuries needing hospital care have occurred.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Health Canada warning:",
+            "text": "Health Canada links SARMs to drug-induced liver damage, heart attack and stroke, changes in blood lipids, fluid retention, thicker blood, and hormone disruption that can lead to infertility, lower sex drive, sexual dysfunction and breast enlargement in men.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+                "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "SARMs act on the androgen receptor. Like testosterone, they can lower the body’s own testosterone and the hormones that drive sperm production. FDA and Health Canada both list infertility among the risks.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+                "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+                "date": "updated Dec 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "No peer-reviewed paper or registry results were found for the NCT06282458 semaglutide trial, so its results are not reported.",
+    "Enobosarm's status with the UK MHRA and in the EU was not checked against a regulator record.",
+    "Published results of the two Phase III POWER trials in a journal were not found; the registry results are reported instead."
+  ],
+  "surprises": [
+    "Enobosarm is often sold online as a 'research chemical', but it is also a real investigational drug: it reached two Phase III trials and is in a Phase 2b trial in 2026.",
+    "In one of the two Phase III lung cancer trials, fewer people on enobosarm than on placebo met the stair-climb goal."
+  ]
+}

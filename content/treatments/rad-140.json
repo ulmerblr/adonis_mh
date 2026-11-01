@@ -1,0 +1,463 @@
+{
+  "slug": "rad-140",
+  "name": "RAD-140 (testolone)",
+  "row": "RAD-140 (testolone)",
+  "aka": [
+    "Testolone",
+    "RAD140"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "1 Phase 1; case reports",
+    "fda": "Not approved",
+    "sport": "Banned (S1.2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Breast cancer models; mouse muscle and bone",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "22 women with breast cancer, 2017 to 2020",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; FDA: unapproved",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "RAD-140 (also written RAD140, and called testolone) is a nonsteroidal selective androgen receptor modulator (SARM). In lab and mouse models of breast cancer that have both androgen and estrogen receptors, it slowed tumour growth.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28974548/",
+            "label": "Yu et al., Clin Cancer Res, 2017",
+            "date": "published Dec 2017"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Its only published human trial was a small first-in-human study in women with breast cancer. It is not an approved medicine. FDA considers SARM products sold online unapproved drugs.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34565686/",
+            "label": "LoRusso et al., Clin Breast Cancer, 2022",
+            "date": "published Jan 2022"
+          },
+          {
+            "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+            "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+            "date": "updated Apr 2023"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "RAD-140 has never been tested in a trial in men. It is not FDA approved and is banned in sport."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "One published human trial exists: a Phase 1 safety study in 22 women with advanced breast cancer. There are no trials in men. Most other human reports are case reports of harm in people who used products sold as RAD-140."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2022 · Open-label Phase 1 dose escalation",
+        "title": "First-in-human study in metastatic breast cancer (LoRusso et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, dose-escalation Phase 1 study (3 + 3 design) with a drug-level expansion group; registry NCT03088527"
+          },
+          {
+            "k": "People",
+            "v": "22 heavily pretreated postmenopausal women with ER-positive, HER2-negative metastatic breast cancer"
+          },
+          {
+            "k": "What was given",
+            "v": "50, 100 or 150 mg once a day"
+          },
+          {
+            "k": "Measured",
+            "v": "safety, tolerated dose, drug levels, tumour response"
+          }
+        ],
+        "found": "Grade 3 or 4 adverse events occurred in 16 of 22 women (72.7%), including raised liver enzymes (AST/ALT) in 22.7%. Raised AST occurred in 59.1% and ALT in 45.5% overall. One woman had a partial response; median progression-free survival was 2.3 months. The registry lists Stemline Therapeutics as sponsor.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34565686/",
+            "label": "LoRusso et al., Clin Breast Cancer, 2022",
+            "date": "published Jan 2022"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT03088527",
+            "label": "ClinicalTrials.gov NCT03088527",
+            "date": "updated Aug 2022"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In young male rats, 14 days of RAD-140 increased muscle fibre size without changing bone. In female mice, 10 weeks of RAD-140 increased frailty and mortality risk and did not improve strength. These results are in animals only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40680216/",
+            "label": "Puskas et al., Physiol Rep, 2025 (rats)",
+            "date": "published Jul 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37758180/",
+            "label": "Brown et al., Clin Exp Pharmacol Physiol, 2023 (female mice)",
+            "date": "published Dec 2023"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "RAD-140 is not FDA approved for any use. Products labelled “research use only” are unapproved drugs, and FDA does not allow them to be sold for people to take. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "FDA says SARMs, which mimic the effects of testosterone and anabolic steroids, are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "“Research use only” labels:",
+            "text": "FDA says that although SARMs are often marketed as dietary supplements or “sold for research use only,” they are considered unapproved drugs, and SARMs cannot be legally marketed in the US as a dietary supplement or a drug at this time. FDA also notes that products labelled “for research purposes” or “not for human consumption” have been sold directly to consumers for human use. FDA does not allow these products to be sold for people to take.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Not dietary supplements:",
+            "text": "FDA says bodybuilding products containing SARMs are generally marketed as dietary supplements but are not dietary supplements; they are unapproved drugs that FDA has not reviewed for safety and effectiveness.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Enforcement:",
+            "text": "FDA says it has issued warning letters to companies selling products marketed as SARMs and has pursued criminal actions against distributors.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "RAD-140 is not FDA approved. Products labelled “for research use only” may not be sold for human use."
+      }
+    ],
+    "world": {
+      "lead": "RAD-140 is not an approved medicine in any country checked. Canada says SARMs are not authorized for any use. In Australia SARMs are prescription only, and possession without authority is illegal.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA says SARMs cannot be legally sold as dietary supplements or drugs; “research use only” products are unapproved drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+              "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+              "date": "updated Apr 2023"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+              "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+              "date": "updated Dec 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized for any use. Health Canada says SARMs have not been reviewed for safety, effectiveness or quality.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+              "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+              "date": "updated Dec 2025"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Schedule 4 (prescription only) as a SARM, and listed in Appendix D clause 5: possession without authority, such as a prescription, is illegal.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard October 2026 (Australia), F2026L01327",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "The WADA 2026 Prohibited List names RAD140 under S1.2 Other anabolic agents, in the class of selective androgen receptor modulators (SARMs). S1 substances are prohibited at all times, in and out of competition. The 2027 list keeps the same S1.2 wording.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Raised liver enzymes were the most common side effect in the only trial. Published case reports describe serious liver injury, and heart problems, in people who used products sold as RAD-140."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Trial:",
+            "text": "in the 22-woman Phase 1 study, raised AST (59.1%), ALT (45.5%) and bilirubin (27.3%), vomiting, dehydration, and lower appetite and weight were common. Grade 3 or 4 events occurred in 72.7%.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/34565686/",
+                "label": "LoRusso et al., Clin Breast Cancer, 2022",
+                "date": "published Jan 2022"
+              }
+            ]
+          },
+          {
+            "lead": "Liver injury, case reports:",
+            "text": "a 24-year-old man developed jaundice and cholestatic liver injury after 5 weeks of RAD-140, with bilirubin peaking at 38.5 mg/dL; it resolved after stopping. A 52-year-old man developed liver injury after products containing RAD-140 and LGD-4033; liver tests returned to normal about 3 months after stopping. Severe liver injury after RAD-140 has also been reported in Australia.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36561105/",
+                "label": "Leung et al., Ochsner J, 2022",
+                "date": "published Dec 2022"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33062783/",
+                "label": "Barbara et al., ACG Case Rep J, 2020",
+                "date": "published Jun 2020"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38444893/",
+                "label": "Perananthan and George, Aust Prescr, 2024",
+                "date": "published Feb 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Heart, case reports:",
+            "text": "case reports describe acute myocarditis and heart failure in men using RAD-140.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/35233331/",
+                "label": "Cureus, 2022 (myocarditis)",
+                "date": "published Jan 2022"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38864168/",
+                "label": "Pol Arch Intern Med, 2024 (heart failure)",
+                "date": "published Aug 2024"
+              }
+            ]
+          },
+          {
+            "lead": "FDA warning:",
+            "text": "FDA lists serious or life-threatening problems linked to SARMs in studies and reports: higher risk of heart attack or stroke, psychosis and hallucinations, sleep problems, sexual dysfunction, liver injury and acute liver failure, infertility, miscarriage and testicular shrinkage. FDA says liver injuries needing hospital care have occurred.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Health Canada warning:",
+            "text": "Health Canada links SARMs to drug-induced liver damage, heart attack and stroke, changes in blood lipids, fluid retention, thicker blood, and hormone disruption that can lead to infertility, lower sex drive, sexual dysfunction and breast enlargement in men.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+                "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "SARMs act on the androgen receptor. Like testosterone, they can lower the body’s own testosterone and the hormones that drive sperm production. FDA and Health Canada both list infertility among the risks.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+                "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+                "date": "updated Dec 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Other development names for RAD140 were not confirmed in a regulator record and are not listed.",
+    "RAD-140's status with the UK MHRA and in the EU was not checked against a regulator record.",
+    "The heart case reports (myocarditis, heart failure) are listed from their PubMed titles; full texts were not opened."
+  ],
+  "surprises": [
+    "RAD-140 is marketed for muscle building in men, but its only published trial was in 22 women with breast cancer, and most had grade 3 or 4 side effects."
+  ]
+}

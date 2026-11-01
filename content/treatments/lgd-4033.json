@@ -1,0 +1,476 @@
+{
+  "slug": "lgd-4033",
+  "name": "LGD-4033 (ligandrol)",
+  "row": "LGD-4033 (ligandrol)",
+  "aka": [
+    "Ligandrol",
+    "VK5211",
+    "LGD4033"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Phase 1 and 2 trials",
+    "fda": "Not approved",
+    "sport": "Banned (S1.2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat muscle and bone studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "76 healthy men, 21 days (published 2013)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "VK5211 hip fracture trial, 108 people, 2015 to 2017",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; FDA: unapproved",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "LGD-4033 (ligandrol) is a nonsteroidal, oral selective androgen receptor modulator (SARM). It binds the androgen receptor with high affinity and selectivity. It was later developed under the code VK5211.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22459616/",
+            "label": "Basaria et al., J Gerontol A Biol Sci Med Sci, 2013",
+            "date": "published Jan 2013"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37407738/",
+            "label": "J Bone Miner Metab, 2023 (ligandrol, also VK5211)",
+            "date": "published Nov 2023"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It is not an approved medicine. Products labelled as containing it are sold online, often as “research use only.” FDA considers such SARM products unapproved drugs.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+            "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+            "date": "updated Apr 2023"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "LGD-4033 is not FDA approved for any use. It is banned in sport at all times."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two human trials have been reported: a 3-week Phase 1 study in 76 healthy young men, and a 12-week Phase 2 trial in older adults after hip fracture. Neither tested it for low testosterone."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Randomized, placebo-controlled Phase 1",
+        "title": "Safety and drug levels in healthy young men (Basaria et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, ascending-dose study"
+          },
+          {
+            "k": "People",
+            "v": "76 healthy men aged 21 to 50"
+          },
+          {
+            "k": "What was given",
+            "v": "placebo or 0.1, 0.3 or 1.0 mg a day"
+          },
+          {
+            "k": "Length",
+            "v": "21 days, with 5 weeks of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "safety, drug levels, lean and fat mass, strength, stair-climb power, hormones, lipids, PSA"
+          }
+        ],
+        "found": "Lean body mass rose with dose; fat mass did not change. Total testosterone, SHBG, HDL cholesterol and triglycerides fell with dose. FSH and free testosterone fell at the 1.0 mg dose. Hormones and lipids returned to baseline after stopping. No drug-related serious adverse events; liver enzymes and PSA did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22459616/",
+            "label": "Basaria et al., J Gerontol A Biol Sci Med Sci, 2013",
+            "date": "published Jan 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 to 2017 · Randomized, double-blind Phase II",
+        "title": "VK5211 after hip fracture (NCT02578095)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase II trial; sponsor Viking Therapeutics"
+          },
+          {
+            "k": "People",
+            "v": "108 men and women aged 65 and over recovering from hip fracture"
+          },
+          {
+            "k": "What was given",
+            "v": "VK5211 0.5, 1.0 or 2.0 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in lean body mass (excluding head) by DXA scan"
+          }
+        ],
+        "found": "In the registry results, placebo-corrected lean mass rose 4.75%, 7.15% and 9.08% in the three dose groups (79 people analyzed). Serious adverse events occurred in 4 of 28 on placebo and 2 to 5 per dose group. The search found no peer-reviewed paper of the full results.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT02578095",
+            "label": "ClinicalTrials.gov NCT02578095",
+            "date": "updated Dec 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats with their ovaries removed, ligandrol was studied for bone. In healthy male rats given ligandrol for 8 weeks, endurance, testosterone and FSH fell, and triglycerides and cholesterol rose. These results are in animals only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37407738/",
+            "label": "J Bone Miner Metab, 2023 (ovariectomized rats)",
+            "date": "published Nov 2023"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40087185/",
+            "label": "Naunyn Schmiedebergs Arch Pharmacol, 2025 (male rats)",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "LGD-4033 is not FDA approved for any use. Products labelled “research use only” are unapproved drugs, and FDA does not allow them to be sold for people to take. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Not approved:",
+            "text": "FDA says SARMs, which mimic the effects of testosterone and anabolic steroids, are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "“Research use only” labels:",
+            "text": "FDA says that although SARMs are often marketed as dietary supplements or “sold for research use only,” they are considered unapproved drugs, and SARMs cannot be legally marketed in the US as a dietary supplement or a drug at this time. FDA also notes that products labelled “for research purposes” or “not for human consumption” have been sold directly to consumers for human use. FDA does not allow these products to be sold for people to take.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Not dietary supplements:",
+            "text": "FDA says bodybuilding products containing SARMs are generally marketed as dietary supplements but are not dietary supplements; they are unapproved drugs that FDA has not reviewed for safety and effectiveness.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Enforcement:",
+            "text": "FDA says it has issued warning letters to companies selling products marketed as SARMs and has pursued criminal actions against distributors.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "LGD-4033 is not FDA approved. Products labelled “for research use only” may not be sold for human use."
+      }
+    ],
+    "world": {
+      "lead": "LGD-4033 is not an approved medicine in any country checked. Canada says SARMs are not authorized for any use. In Australia SARMs are prescription only, and possession without authority is illegal.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. FDA says SARMs cannot be legally sold as dietary supplements or drugs; “research use only” products are unapproved drugs.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+              "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+              "date": "updated Apr 2023"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+              "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+              "date": "updated Dec 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized for any use. Health Canada says SARMs have not been reviewed for safety, effectiveness or quality.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+              "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+              "date": "updated Dec 2025"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Schedule 4 (prescription only) as a SARM, and listed in Appendix D clause 5: possession without authority, such as a prescription, is illegal.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard October 2026 (Australia), F2026L01327",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "The WADA 2026 Prohibited List names LGD-4033 (ligandrol) under S1.2 Other anabolic agents, in the class of selective androgen receptor modulators (SARMs). S1 substances are prohibited at all times, in and out of competition. The 2027 list keeps the same S1.2 wording.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In the Phase 1 trial, LGD-4033 lowered the body’s own testosterone, SHBG and HDL (“good”) cholesterol in 3 weeks. Case reports describe severe liver injury in people who used products sold as ligandrol."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Hormones and lipids:",
+            "text": "total testosterone, SHBG, HDL cholesterol and triglycerides fell with dose; FSH and free testosterone fell at 1.0 mg. Levels returned to baseline after stopping.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/22459616/",
+                "label": "Basaria et al., J Gerontol A Biol Sci Med Sci, 2013",
+                "date": "published Jan 2013"
+              }
+            ]
+          },
+          {
+            "lead": "Liver injury, case reports:",
+            "text": "a 32-year-old man developed severe liver injury after using ligandrol; a liver biopsy showed cholestatic hepatitis with mild fibrosis. Another man developed liver injury after products containing RAD-140 and LGD-4033.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32637435/",
+                "label": "Barbara et al., ACG Case Rep J, 2020",
+                "date": "published Jun 2020"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33062783/",
+                "label": "Barbara et al., ACG Case Rep J, 2020 (RAD-140 and LGD-4033)",
+                "date": "published Jun 2020"
+              }
+            ]
+          },
+          {
+            "lead": "FDA warning:",
+            "text": "FDA lists serious or life-threatening problems linked to SARMs in studies and reports: higher risk of heart attack or stroke, psychosis and hallucinations, sleep problems, sexual dysfunction, liver injury and acute liver failure, infertility, miscarriage and testicular shrinkage. FDA says liver injuries needing hospital care have occurred.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/fraudulent-products/certain-bodybuilding-products-put-consumers-risk-heart-attack-stroke-serious-liver-damage-and-more",
+                "label": "FDA, Certain bodybuilding products put consumers at risk (SARMs)",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Health Canada warning:",
+            "text": "Health Canada links SARMs to drug-induced liver damage, heart attack and stroke, changes in blood lipids, fluid retention, thicker blood, and hormone disruption that can lead to infertility, lower sex drive, sexual dysfunction and breast enlargement in men.",
+            "src": [
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+                "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+                "date": "updated Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "SARMs act on the androgen receptor. Like testosterone, they can lower the body’s own testosterone and the hormones that drive sperm production. FDA and Health Canada both list infertility among the risks.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA consumer update: FDA warns of use of SARMs among teens, young adults",
+                "date": "updated Apr 2023"
+              },
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/unauthorized-health-products-seized-two-stores-maple-ridge-bc-may-pose-serious-health",
+                "label": "Health Canada public advisory on seized unauthorized health products, including SARMs",
+                "date": "updated Dec 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Viking's VK5211 hip fracture trial results are reported from the ClinicalTrials.gov registry; no peer-reviewed paper of the full results was found.",
+    "LGD-4033's status with the UK MHRA and in the EU was not checked against a regulator record."
+  ],
+  "surprises": [
+    "LGD-4033 is promoted for muscle in men, but in its only trial in healthy men it lowered their own testosterone and HDL cholesterol within 3 weeks."
+  ]
+}

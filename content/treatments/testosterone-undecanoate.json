@@ -1,0 +1,765 @@
+{
+  "slug": "testosterone-undecanoate",
+  "name": "Testosterone undecanoate",
+  "row": "Testosterone undecanoate",
+  "aka": [
+    "Jatenzo",
+    "Tlando",
+    "Kyzatrex",
+    "Aveed",
+    "Nebido"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Approved; hormone trials",
+    "fda": "Approved (4 brands)",
+    "sport": "Banned (S1)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat, dog and monkey fertility data on the labels",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Nebido injection, authorised across the EU",
+      "status": "done"
+    },
+    {
+      "title": "Phase III: injection",
+      "line": "Aveed: 84 weeks, 130 men, one arm, open-label",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: Aveed",
+      "line": "Aveed injection, March 2014, with a REMS",
+      "status": "done"
+    },
+    {
+      "title": "Phase III: oral",
+      "line": "Oral: 95 to 166 men per trial, open-label",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval: oral",
+      "line": "Jatenzo 2019; Tlando and Kyzatrex 2022 (oral)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Testosterone undecanoate is an ester of testosterone: testosterone with a long fatty-acid chain attached. The body cuts off that chain, which releases testosterone. It is the active ingredient of 3 oral capsules approved in the US (Jatenzo, Tlando, Kyzatrex) and of 1 injection given into the buttock muscle (Aveed).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+            "label": "Aveed (testosterone undecanoate) label, DailyMed",
+            "date": "published Mar 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+            "label": "Jatenzo label, DailyMed",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Once released, testosterone acts like the body’s own: it drives the growth of the male sex organs and keeps up male traits such as body hair, a deeper voice, and muscle and fat distribution.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ]
+          },
+          {
+            "text": "Testosterone from outside the body signals the brain to cut its output of LH and FSH. With large doses this can suppress sperm production.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "All 4 US brands are approved only for men whose low testosterone has a medical cause (hypogonadism). Their safety and efficacy in men with low testosterone due to age alone have not been established."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Each US brand was approved on an open-label trial in men with hypogonadism. The main measure was hormone levels: the share of men whose average testosterone landed in the normal range. These trials were not built to test symptoms, heart outcomes or fertility."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2020 · Randomized, open-label, phase 3",
+        "title": "Oral Jatenzo vs a testosterone solution (Swerdloff et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized 3 to 1, active-controlled, open-label (NCT02722278)"
+          },
+          {
+            "k": "People",
+            "v": "222 men aged 18 to 65 with hypogonadism: 166 on oral testosterone undecanoate (Jatenzo), 56 on a testosterone solution applied to the skin (Axiron)"
+          },
+          {
+            "k": "Length",
+            "v": "3 to 4 months, with 2 dose adjustments"
+          },
+          {
+            "k": "Measured",
+            "v": "average testosterone over 24 hours (Cavg); safety, including 24-h blood pressure"
+          }
+        ],
+        "found": "87% of men in both groups had an average testosterone in the normal range. Safety looked similar between groups, but the oral product raised average systolic blood pressure by about 3 to 5 mm Hg. The study was funded by the maker (Clarus Therapeutics).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32382745/",
+            "label": "Swerdloff et al., J Clin Endocrinol Metab",
+            "date": "published Aug 2020"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+            "label": "Jatenzo label, DailyMed",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Open-label, one arm",
+        "title": "Tlando study 16-002",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, open-label, single-arm (NCT03242590)"
+          },
+          {
+            "k": "People",
+            "v": "95 men with hypogonadism, median age 56"
+          },
+          {
+            "k": "What was given",
+            "v": "Tlando 225 mg twice a day with food, no dose adjustment"
+          },
+          {
+            "k": "Length",
+            "v": "about 24 days"
+          },
+          {
+            "k": "Measured",
+            "v": "24-h average testosterone"
+          }
+        ],
+        "found": "80% of men had an average testosterone in the normal range (300 to 1,080 ng/dL). A separate 4-month study in 138 men measured blood pressure.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+            "label": "Tlando label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Open-label, one arm",
+        "title": "Kyzatrex study MRS-TU-2019EXT",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, open-label (NCT04467697)"
+          },
+          {
+            "k": "People",
+            "v": "155 men with hypogonadism; 139 in the efficacy analysis, median age 50"
+          },
+          {
+            "k": "Length",
+            "v": "about 6 months, doses adjusted at days 28 and 56"
+          },
+          {
+            "k": "Measured",
+            "v": "24-h average testosterone at day 90; blood pressure"
+          }
+        ],
+        "found": "88% had an average testosterone in the normal range (222 to 800 ng/dL) at day 90. A 12-month open-label study in 212 men added safety data.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f7167a7-2a25-47e2-acf5-33f499fce971",
+            "label": "Kyzatrex label, DailyMed",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · label data · Open-label, one arm",
+        "title": "Aveed 84-week study",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-arm, open-label, multicenter"
+          },
+          {
+            "k": "People",
+            "v": "130 men with hypogonadism, mean age 54; 117 analysed after the third injection"
+          },
+          {
+            "k": "What was given",
+            "v": "Aveed 750 mg at the start, at 4 weeks, then every 10 weeks"
+          },
+          {
+            "k": "Length",
+            "v": "84 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "average testosterone over the 10-week dosing interval"
+          }
+        ],
+        "found": "94% had an average testosterone in the normal range (300 to 1,000 ng/dL); 5.1% were below and 0.9% above it. 7.7% had a peak above 1,500 ng/dL.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+            "label": "Aveed (testosterone undecanoate) label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "The labels report that testosterone from outside the body suppressed sperm production in rats, dogs and monkeys, and that this reversed when treatment stopped.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+            "label": "Aveed (testosterone undecanoate) label, DailyMed",
+            "date": "published Mar 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Testosterone undecanoate is FDA approved, as 4 brands, for men with hypogonadism. It is a Schedule III controlled substance. Aveed can be given only in certified healthcare settings under a REMS safety program. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "intramuscular injection, NDA 022219, approved March 5, 2014. Now held by Endo. Approved for adult men with primary or hypogonadotropic hypogonadism, and only when the benefit outweighs the serious risks of POME and anaphylaxis.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022219",
+                "label": "Drugs@FDA data (openFDA), Aveed (NDA 022219)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Aveed:"
+          },
+          {
+            "text": "oral capsule, NDA 206089, approved March 27, 2019 (Tolmar).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA206089",
+                "label": "Drugs@FDA data (openFDA), Jatenzo (NDA 206089)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Jatenzo:"
+          },
+          {
+            "text": "oral capsule, NDA 208088, approved March 28, 2022 (Verity).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA208088",
+                "label": "Drugs@FDA data (openFDA), Tlando (NDA 208088)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+                "label": "Tlando label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Tlando:"
+          },
+          {
+            "text": "oral capsule, NDA 213953, approved July 27, 2022 (Marius).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213953",
+                "label": "Drugs@FDA data (openFDA), Kyzatrex (NDA 213953)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f7167a7-2a25-47e2-acf5-33f499fce971",
+                "label": "Kyzatrex label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Kyzatrex:"
+          },
+          {
+            "text": "FDA’s data also lists a generic testosterone undecanoate injection (ANDA 207583, Hikma) with tentative approval only (December 2016), not as a marketed product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22TESTOSTERONE+UNDECANOATE%22",
+                "label": "Drugs@FDA data (openFDA), all testosterone undecanoate applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Generic:"
+          },
+          {
+            "text": "all 4 labels say safety and efficacy have not been established in men with “age-related” (late-onset) hypogonadism or in males under 18. Use outside the labeled conditions is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+                "label": "Tlando label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f7167a7-2a25-47e2-acf5-33f499fce971",
+                "label": "Kyzatrex label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Not established:"
+          },
+          {
+            "text": "Aveed is available only through the Aveed REMS Program. Prescribers and healthcare settings must be certified, and the setting must be able to manage POME and anaphylaxis. Patients are observed for 30 minutes after each injection.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "REMS:"
+          },
+          {
+            "text": "on February 28, 2025, FDA told makers of all testosterone products to add TRAVERSE results, remove the boxed warning language about heart outcomes, and add or update warnings that testosterone can raise blood pressure. The current oral labels list blood pressure increases as a warning.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+                "label": "FDA class-wide labeling changes for testosterone",
+                "date": "published Feb 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "2025 class labeling change:"
+          },
+          {
+            "text": "yes. Each label says the product contains testosterone, a Schedule III controlled substance.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Testosterone undecanoate is an approved prescription medicine in the US, Canada, the EU and Northern Ireland. In Europe the products listed are injections such as Nebido. Canada added Jatenzo, Kyzatrex and Tlando in 2026. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / DEA",
+          "status": "Approved medicine (Aveed injection, 2014; Jatenzo, Tlando and Kyzatrex capsules, 2019 to 2022) for male hypogonadism. Prescription-only; Schedule III.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022219",
+              "label": "Drugs@FDA data (openFDA), Aveed (NDA 022219)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA206089",
+              "label": "Drugs@FDA data (openFDA), Jatenzo (NDA 206089)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+              "label": "Aveed (testosterone undecanoate) label, DailyMed",
+              "date": "published Mar 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+              "label": "Jatenzo label, DailyMed",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Authorised medicine. Jatenzo (marketed April 2026) and Kyzatrex (marketed September 2026) capsules; Tlando approved September 29, 2026. Jatenzo is listed as a controlled drug (CDSA Schedule IV).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=testosterone%20undecanoate",
+              "label": "Health Canada Drug Product Database, ingredient search: testosterone undecanoate",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106652",
+              "label": "Health Canada Drug Product Database, Jatenzo (DIN 02563770) status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106559",
+              "label": "Health Canada Drug Product Database, Kyzatrex (DIN 02562731) status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=107402",
+              "label": "Health Canada Drug Product Database, Tlando (DIN 02572036) status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=106652",
+              "label": "Health Canada Drug Product Database, Jatenzo schedule",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised medicine in Northern Ireland: EMA’s Article 57 data lists Nebido and 4 other testosterone undecanoate injections there. Great Britain was not checked separately.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in 25 of the 27 member states, as intramuscular injections (Nebido, Reandron and others). No oral product is listed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) lists testosterone in Schedule 4 (prescription only) and in Appendix D, clause 5, for anabolic and androgenic steroids, which must not be possessed without authority under local law. The TGA’s register could not be reached to confirm which products are registered.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Testosterone is named under class S1.1, anabolic androgenic steroids, on the WADA 2026 Prohibited List, when given from outside the body; the class covers its esters. S1 is prohibited at all times (in and out of competition) and its substances are non-Specified. Testosterone stays named in S1.1 on the 2027 list, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Aveed has a boxed warning for serious pulmonary oil microembolism (POME) reactions and anaphylaxis, which can be life-threatening. All 4 brands share testosterone’s class warnings: higher red cell counts, blood clots, blood pressure increases, prostate effects, and lower sperm production that may not reverse."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "serious POME reactions (urge to cough, shortness of breath, throat tightening, chest pain, dizziness, fainting) and anaphylaxis have been reported during or just after the injection, after any dose including the first. In a review of 18 clinical trials with 3,556 men, 9 POME events in 8 men and 2 anaphylaxis events were judged to have occurred.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Aveed boxed warning:"
+          },
+          {
+            "text": "Jatenzo raised 24-h systolic/diastolic blood pressure by an average 4.9/2.5 mm Hg after 4 months, and blood pressure had not levelled off by the end of the trial. Aveed raised it by 3.1/2.0 mm Hg after 16 weeks. In TRAVERSE, a trial of testosterone gel in men with heart disease or risk factors, major heart events were 7% vs 7.3% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Blood pressure:"
+          },
+          {
+            "text": "testosterone can raise hematocrit (red cell mass), which may raise the risk of blood clots. Blood clots in the veins (DVT and pulmonary embolism) have been reported with testosterone products.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Blood and clots:"
+          },
+          {
+            "text": "reduced fertility is seen in some men on testosterone. With large doses, sperm production may be suppressed, and the labels say the effect on fertility may be irreversible.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Fertility:"
+          },
+          {
+            "text": "testosterone can worsen an enlarged prostate and may raise the risk of prostate cancer. It must not be used by men with breast cancer or known or suspected prostate cancer. In the Aveed trial, PSA rose above 4 ng/mL in 14 men (10.9%) who started below it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Prostate:"
+          },
+          {
+            "text": "acne, injection site pain and PSA increase were most common with Aveed. Headache, raised hematocrit and high blood pressure were most common with Jatenzo; high blood pressure and raised hematocrit with Tlando.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+                "label": "Tlando label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Common in trials:"
+          },
+          {
+            "text": "Jatenzo’s label warns that depression and suicidal thoughts were reported in its trials. Tlando’s label warns about raised prolactin.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b0b92e9-6d3c-a0e5-e1c7-342999f72580",
+                "label": "Tlando label, DailyMed",
+                "date": "published Mar 2026"
+              }
+            ],
+            "lead": "Other label warnings:"
+          },
+          {
+            "text": "swelling (edema), breast growth, sleep apnea, cholesterol changes, raised calcium and liver effects are listed warnings. Testosterone has been abused at high doses, with serious heart and mental health effects. It must not be used in pregnancy, because it can masculinize a female fetus.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f80f025b-17d8-40af-8739-20ce07902045",
+                "label": "Aveed (testosterone undecanoate) label, DailyMed",
+                "date": "published Mar 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed7b5d41-7475-4c10-99b9-b62b3434ae60",
+                "label": "Jatenzo label, DailyMed",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Also listed:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The TGA’s register could not be reached, so Australian product registrations were not confirmed.",
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s own product register, which could not be read automatically.",
+    "Drugs@FDA’s web pages redirected automated requests; approval dates come from FDA’s openFDA copy of Drugs@FDA."
+  ],
+  "surprises": [
+    "Canada’s drug database lists Jatenzo and Kyzatrex as marketed since 2026, and Tlando as approved in September 2026.",
+    "The oral labels no longer have a boxed warning; blood pressure is now a regular warning after FDA’s 2025 class change.",
+    "EMA’s Article 57 data lists only injectable testosterone undecanoate in the EU, no oral capsules."
+  ]
+}

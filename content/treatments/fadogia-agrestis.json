@@ -1,0 +1,442 @@
+{
+  "slug": "fadogia-agrestis",
+  "name": "Fadogia agrestis",
+  "row": "Fadogia agrestis",
+  "aka": [
+    "Fadogia",
+    "Vangueria agrestis"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Rat studies only",
+    "fda": "Not a drug; supplement",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat studies, Nigeria, 2005 to 2023",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "No published human studies found",
+      "status": "not"
+    },
+    {
+      "title": "Phase I",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "None",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not an approved drug",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Fadogia agrestis (also classified as Vangueria agrestis) is a West African shrub. Its stem is used in traditional African medicine for pain, inflammation and as an aphrodisiac.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30170324/",
+            "label": "Avula et al., Planta Med, 2019",
+            "date": "published Jan 2019"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30325205/",
+            "label": "Nat Prod Res, 2020 (Vangueria agrestis)",
+            "date": "published Mar 2020"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Products sold as dietary supplements claim to contain it. A 2019 lab analysis of 17 such supplements found the plant’s marker compounds in 12 and none in 5.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30170324/",
+            "label": "Avula et al., Planta Med, 2019",
+            "date": "published Jan 2019"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "All published research on Fadogia agrestis and testosterone is in rats. No published human studies found as of November 1, 2026."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "No published human studies found as of November 1, 2026. All the testosterone and sexual-function research is in rats, mostly from one research group in Nigeria."
+      },
+      {
+        "t": "p",
+        "text": "Searches run on November 1, 2026 found no human study and no registered clinical trial of Fadogia agrestis.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Fadogia+agrestis",
+            "label": "PubMed search for 'Fadogia agrestis'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=Fadogia+agrestis",
+            "label": "ClinicalTrials.gov search for 'Fadogia agrestis'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "study",
+        "meta": "Nigeria · 2005 · Rat study",
+        "title": "Sexual behaviour and testosterone in male rats (Yakubu et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study; stem water extract given by mouth"
+          },
+          {
+            "k": "Subjects",
+            "v": "male albino rats"
+          },
+          {
+            "k": "What was given",
+            "v": "18, 50 or 100 mg/kg body weight"
+          },
+          {
+            "k": "Length",
+            "v": "5 days"
+          },
+          {
+            "k": "Measured",
+            "v": "mating behaviour and serum testosterone"
+          }
+        ],
+        "found": "Mating measures and blood testosterone rose in all dose groups. This is a rat study only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16281088/",
+            "label": "Yakubu et al., Asian J Androl, 2005 (rats)",
+            "date": "published Dec 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Nigeria · 2008 · Rat study",
+        "title": "Testicular function in male rats over 28 days (Yakubu et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal study with a 10-day recovery period"
+          },
+          {
+            "k": "Subjects",
+            "v": "male rats"
+          },
+          {
+            "k": "What was given",
+            "v": "18, 50 or 100 mg/kg body weight a day"
+          },
+          {
+            "k": "Length",
+            "v": "28 days"
+          },
+          {
+            "k": "Measured",
+            "v": "testis weight and testicular enzymes and chemistry"
+          }
+        ],
+        "found": "All doses changed testicular measures. The authors called these signs of adverse effects on testicular function; the rats recovered on some measures, mainly at the lowest dose.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18023305/",
+            "label": "Yakubu et al., J Ethnopharmacol, 2008 (rats)",
+            "date": "published Jan 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Nigeria · 2009 · Rat study",
+        "title": "Liver and kidney cell toxicity in male rats (Yakubu et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "animal toxicity study"
+          },
+          {
+            "k": "Subjects",
+            "v": "male rats"
+          },
+          {
+            "k": "Length",
+            "v": "28 days"
+          },
+          {
+            "k": "Measured",
+            "v": "liver and kidney enzymes, serum markers of cell damage"
+          }
+        ],
+        "found": "The extract lowered enzyme activity in liver and kidney with matching rises in blood, and raised a marker of membrane damage (malondialdehyde). The authors suggest damage to liver and kidney cell membranes. No deaths or organ swelling were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19755438/",
+            "label": "Yakubu et al., Hum Exp Toxicol, 2009 (rats)",
+            "date": "published Aug 2009"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2023 study in rats given paroxetine to cause erectile problems found the extract restored several penile and testicular chemical markers. This too is in rats only.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35969364/",
+            "label": "Ogunro and Yakubu, Reprod Sci, 2023 (rats)",
+            "date": "published Feb 2023"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Fadogia agrestis is sold in the US as a dietary supplement. It is not an FDA-approved drug, and FDA does not review supplements for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Dietary supplement:",
+            "text": "Fadogia agrestis is a botanical. Under US law, a product meant to supplement the diet that contains an herb or other botanical can be sold as a dietary supplement.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No FDA review before sale:",
+            "text": "FDA does not have the authority to approve dietary supplements before they are marketed, and a firm generally does not have to give FDA its safety evidence. FDA does not approve supplements or their labelling.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not a drug:",
+            "text": "Fadogia agrestis is not an FDA-approved drug for any use, including low testosterone or erectile problems.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US Fadogia agrestis can be sold as a botanical dietary supplement. Its status in other countries was not checked against regulator records.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement; not an approved drug.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "updated Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Fadogia agrestis is not named on the WADA 2026 Prohibited List or the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "There is no human safety data. In rats, 28 days of the extract changed testicular measures and showed signs of liver and kidney cell damage."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Testes (rats):",
+            "text": "the authors described adverse effects on testicular function at all doses, with partial recovery mainly at the lowest dose.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18023305/",
+                "label": "Yakubu et al., J Ethnopharmacol, 2008 (rats)",
+                "date": "published Jan 2008"
+              }
+            ]
+          },
+          {
+            "lead": "Liver and kidney (rats):",
+            "text": "enzyme and membrane-damage markers suggested harm to liver and kidney cells.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19755438/",
+                "label": "Yakubu et al., Hum Exp Toxicol, 2009 (rats)",
+                "date": "published Aug 2009"
+              }
+            ]
+          },
+          {
+            "lead": "Product contents:",
+            "text": "5 of 17 supplements labelled as Fadogia agrestis had none of the plant’s marker compounds.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30170324/",
+                "label": "Avula et al., Planta Med, 2019",
+                "date": "published Jan 2019"
+              }
+            ]
+          },
+          {
+            "lead": "No pre-market review:",
+            "text": "FDA does not review dietary supplements for safety before they are sold, so product contents and strength are not checked by FDA.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Fadogia agrestis's status in Canada, the UK, the EU and Australia was not checked against regulator records."
+  ],
+  "surprises": [
+    "Fadogia agrestis is sold to men for testosterone, but the main rat studies behind it also reported adverse effects on the testes and signs of liver and kidney cell damage."
+  ]
+}

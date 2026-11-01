@@ -1,0 +1,551 @@
+{
+  "slug": "dhea",
+  "name": "DHEA (prasterone)",
+  "row": "DHEA (prasterone)",
+  "aka": [
+    "Dehydroepiandrosterone",
+    "Prasterone",
+    "Intrarosa",
+    "DHEA"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "RCTs; little effect in men",
+    "fda": "Women only (Intrarosa)",
+    "sport": "Banned (S1.1)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Decades of hormone research",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small RCTs in older men since the 1990s",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Dose and hormone studies in older men",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Intrarosa trials in postmenopausal women",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Intrarosa, 2016: vaginal insert, women only",
+      "status": "done"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "DHEA (dehydroepiandrosterone; drug name prasterone) is a steroid hormone made mainly by the adrenal glands. The body turns it into androgens and estrogens. In 14 older men, a single oral dose of DHEA raised estradiol and estrone but did not change testosterone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10372727/",
+            "label": "Arlt et al., J Clin Endocrinol Metab, 1999",
+            "date": "published Jun 1999"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7",
+            "label": "Intrarosa (prasterone) label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "DHEA is widely promoted as an “anti-aging” supplement. The one FDA-approved prasterone product is Intrarosa, a vaginal insert for women after menopause.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17050889/",
+            "label": "Nair et al., N Engl J Med, 2006",
+            "date": "published Oct 2006"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:prasterone",
+            "label": "Drugs@FDA via openFDA, NDA 208470 (Intrarosa)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7",
+            "label": "Intrarosa (prasterone) label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "DHEA is not FDA approved for men or for low testosterone. In the US it is sold as a supplement, which FDA does not review before sale."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "DHEA has been tested in many randomized trials in older men. A 2013 meta-analysis of 25 placebo-controlled trials (1,353 men) found a small drop in fat mass and no effect on lipids, blood sugar, bone, sexual function or quality of life."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2006 · Randomized, double-blind trial",
+        "title": "DHEA or testosterone in elderly people, 2 years (Nair et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "2-year, randomized, double-blind, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "87 elderly men with low DHEA sulfate and low bioavailable testosterone (29 DHEA, 27 testosterone, 31 placebo) and 57 elderly women"
+          },
+          {
+            "k": "Length",
+            "v": "2 years"
+          },
+          {
+            "k": "Measured",
+            "v": "physical performance, body composition, bone density, insulin sensitivity, quality of life"
+          }
+        ],
+        "found": "DHEA raised DHEA sulfate levels but did not change body composition, oxygen use, muscle strength, insulin sensitivity or quality of life. Men on DHEA had a rise in bone density at the hip (femoral neck). No major adverse effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17050889/",
+            "label": "Nair et al., N Engl J Med, 2006",
+            "date": "published Oct 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 2009 · Randomized, placebo-controlled trial",
+        "title": "DHEA vs oral testosterone for sexual problems (Morales et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled, randomized, double-blind trial"
+          },
+          {
+            "k": "People",
+            "v": "86 men with sexual dysfunction and low testosterone and/or DHEA; 79 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "DHEA 50 mg twice a day, oral testosterone undecanoate, or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function (IIEF), androgen deficiency and aging male symptom scores, hormones, PSA"
+          }
+        ],
+        "found": "No differences between groups in sexual interest or erectile function on any of four questionnaires. DHEA levels rose in the DHEA group. PSA stayed stable.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19883295/",
+            "label": "Morales et al., Aging Male, 2009",
+            "date": "published Dec 2009"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1999 · Randomized, double-blind trial",
+        "title": "DHEA vs androstenedione in trained middle-aged men (Wallace et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, double-blind trial"
+          },
+          {
+            "k": "People",
+            "v": "40 healthy, weight-trained men, average age 48"
+          },
+          {
+            "k": "What was given",
+            "v": "DHEA or androstenedione 50 mg twice a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "body composition, strength, hormones, PSA, liver tests, lipids"
+          }
+        ],
+        "found": "Lean mass, strength and testosterone did not change more than with placebo. DHEA sulfate levels rose. No changes in PSA, liver tests or lipids were seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10613429/",
+            "label": "Wallace et al., Med Sci Sports Exerc, 1999",
+            "date": "published Dec 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "International · 2013 · Meta-analysis",
+        "title": "DHEA in elderly men: 25 placebo-controlled trials (Corona et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "meta-analysis of double-blind, placebo-controlled randomized trials"
+          },
+          {
+            "k": "People",
+            "v": "1,353 elderly men; average follow-up 36 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "body composition, lipids, blood sugar, bone, sexual function, quality of life"
+          }
+        ],
+        "found": "DHEA was linked to a small drop in fat mass, which disappeared after adjusting for the rise in testosterone and estradiol. No effect was seen on lipids, blood sugar, bone health, sexual function or quality of life.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23824417/",
+            "label": "Corona et al., J Clin Endocrinol Metab, 2013 (meta-analysis)",
+            "date": "published Sep 2013"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Prasterone is FDA approved only as Intrarosa (2016), a vaginal insert for painful sex due to menopause. DHEA is also sold as a dietary supplement, which FDA does not review before sale. It is not FDA approved for men or for low testosterone. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Approved drug:",
+            "text": "Intrarosa (prasterone) vaginal insert, NDA 208470, approved November 2016 for moderate to severe dyspareunia (painful sex), a symptom of vulvar and vaginal atrophy, due to menopause. Use of prasterone in men would be off-label.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:prasterone",
+                "label": "Drugs@FDA via openFDA, NDA 208470 (Intrarosa)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7",
+                "label": "Intrarosa (prasterone) label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not an anabolic steroid under US drug law:",
+            "text": "the federal definition of “anabolic steroid” expressly leaves out dehydroepiandrosterone, so DHEA is not a controlled anabolic steroid in the US.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap13-subchapI-partA-sec802.htm",
+                "label": "21 U.S.C. 802(41), definition of anabolic steroid, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Dietary supplement:",
+            "text": "DHEA is widely promoted as a supplement. FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17050889/",
+                "label": "Nair et al., N Engl J Med, 2006",
+                "date": "published Oct 2006"
+              },
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "DHEA is listed in Category 1 (under evaluation) of FDA’s 503B bulk drug substance categories, marked as a component of an FDA-approved drug. Plain DHEA does not appear in the 503A categories; 7-keto DHEA is in 503A Category 1. Compounded drugs are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "updated Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories",
+                "date": "updated May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded drugs are not FDA-approved. FDA does not check their safety, effectiveness or quality before they are sold."
+      }
+    ],
+    "world": {
+      "lead": "Prasterone is an approved medicine (Intrarosa, for women) in the US, Canada and the EU. Canada lists it as a controlled drug, the UK lists it as a Class C controlled drug, and Australia lists it as prescription only.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Intrarosa, vaginal, women after menopause). DHEA is also sold as a dietary supplement.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:prasterone",
+              "label": "Drugs@FDA via openFDA, NDA 208470 (Intrarosa)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7",
+              "label": "Intrarosa (prasterone) label, DailyMed",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap13-subchapI-partA-sec802.htm",
+              "label": "21 U.S.C. 802(41), definition of anabolic steroid, govinfo",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine (Intrarosa, marketed since 2022). Scheduled as a controlled drug (CDSA Schedule IV).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=98351",
+              "label": "Health Canada Drug Product Database, Intrarosa (DIN 02493500)",
+              "date": "updated May 2024"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine (Intrarosa) for postmenopausal women with vulvar and vaginal atrophy.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/intrarosa",
+              "label": "EMA, Intrarosa (prasterone) EPAR",
+              "date": "published Feb 2018"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Schedule 4 (prescription only). Listed in Appendix D clause 5 as an anabolic/androgenic steroidal agent: possession without authority is illegal.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/text",
+              "label": "Poisons Standard October 2026 (Australia), F2026L01327",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "United Kingdom: prasterone is listed as a Class C controlled drug in Schedule 2 of the Misuse of Drugs Act 1971. Whether a prasterone medicine is licensed by the MHRA was not checked.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.uk/ukpga/1971/38/schedule/2",
+              "label": "Misuse of Drugs Act 1971, Schedule 2, legislation.gov.uk",
+              "date": "accessed Nov 1, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "The WADA 2026 Prohibited List names prasterone (dehydroepiandrosterone, DHEA) under S1.1 Anabolic androgenic steroids, prohibited at all times. Related compounds such as 7-keto-DHEA are also named. The 2027 list keeps the same entry.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In the trials described here, DHEA did not cause major adverse effects, and PSA and liver tests did not change. DHEA is turned into estrogens as well as androgens."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Hormones:",
+            "text": "in older men, oral DHEA raised estradiol and estrone in a dose-dependent way, without changing testosterone.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10372727/",
+                "label": "Arlt et al., J Clin Endocrinol Metab, 1999",
+                "date": "published Jun 1999"
+              }
+            ]
+          },
+          {
+            "lead": "Trials in men:",
+            "text": "the 2-year trial found no major adverse effects. The 12-week trial in trained men found no changes in PSA, liver tests or lipids. The 2009 trial found PSA stable.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17050889/",
+                "label": "Nair et al., N Engl J Med, 2006",
+                "date": "published Oct 2006"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10613429/",
+                "label": "Wallace et al., Med Sci Sports Exerc, 1999",
+                "date": "published Dec 1999"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19883295/",
+                "label": "Morales et al., Aging Male, 2009",
+                "date": "published Dec 2009"
+              }
+            ]
+          },
+          {
+            "lead": "Fertility:",
+            "text": "the trials described here did not measure sperm or fertility. DHEA is a hormone that the body turns into androgens and estrogens.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10372727/",
+                "label": "Arlt et al., J Clin Endocrinol Metab, 1999",
+                "date": "published Jun 1999"
+              }
+            ]
+          },
+          {
+            "lead": "Intrarosa label (women):",
+            "text": "the most common side effect in 12-week trials was vaginal discharge (5.71% vs 3.66% on placebo); in a 52-week trial, vaginal discharge and abnormal Pap smear. The label notes that estrogen is a metabolite of prasterone and that Intrarosa has not been studied in women with a history of breast cancer.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ada639d4-bac0-2ad0-e053-2a95a90afce7",
+                "label": "Intrarosa (prasterone) label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No pre-market review:",
+            "text": "FDA does not review dietary supplements for safety before they are sold, so product contents and strength are not checked by FDA.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Whether the MHRA licenses a prasterone medicine in the UK was not checked.",
+    "No FDA record was found that names DHEA as a dietary ingredient; its supplement status rests on the dietary supplement law and on how it is marketed.",
+    "NIH's Office of Dietary Supplements pages could not be opened (blocked by a bot check)."
+  ],
+  "surprises": [
+    "DHEA is often sold to men as a testosterone aid, but in a single-dose study in older men it raised estrogens, not testosterone.",
+    "DHEA is a supplement in the US but a controlled drug in Canada and the UK, and prescription only in Australia."
+  ]
+}

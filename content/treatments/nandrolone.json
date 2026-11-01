@@ -1,0 +1,603 @@
+{
+  "slug": "nandrolone",
+  "name": "Nandrolone",
+  "row": "Nandrolone",
+  "aka": [
+    "Nandrolone decanoate",
+    "Deca-Durabolin",
+    "Durabolin",
+    "19-nortestosterone",
+    "Deca"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Small RCTs (kidney, HIV)",
+    "fda": "Discontinued in US",
+    "sport": "Banned (S1)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Before 1962 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before 1962 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Before 1962 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Later small RCTs: dialysis (1999), HIV (2005)",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Deca-Durabolin listed in 8 EU member states",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Deca-Durabolin 1962; approval withdrawn 2024",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Nandrolone (19-nortestosterone) is a synthetic anabolic steroid, a chemical relative of testosterone. Nandrolone decanoate is its long-acting ester, given as an oily injection into the muscle. DEA lists Deca-Durabolin and Durabolin as its trade names.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+            "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+            "date": "published Feb 2007"
+          },
+          {
+            "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+            "label": "DEA, Controlled Substances in alphabetical order",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Anabolic steroids are synthetic derivatives of testosterone. The label says their anabolic (muscle-building) and androgenic (masculinizing) effects have never been fully separated.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ]
+          },
+          {
+            "text": "They suppress the pituitary’s gonadotropin signals to the testes and may act directly on the testis.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ]
+          },
+          {
+            "text": "The approved use was the anemia of kidney failure: it raised hemoglobin and red cell mass.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "No nandrolone product is marketed in the US: FDA lists every one as discontinued. Its approved use was anemia of kidney failure; using it for muscle, testosterone replacement or sport is not an approved use."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Nandrolone decanoate was approved in 1962, before modern trial rules. Later, small randomized trials tested it for muscle loss in people on dialysis and in men with HIV and weight loss. They measured lean body mass and physical function over 3 to 6 months."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1999 · Randomized, double-blind",
+        "title": "Nandrolone in patients on dialysis (Johansen et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "29 patients on dialysis for at least 3 months"
+          },
+          {
+            "k": "What was given",
+            "v": "nandrolone decanoate 100 mg (14 patients) or placebo (15) by injection into the muscle once a week"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "weight, lean body mass, fatigue, grip strength, walking and stair-climbing, treadmill performance"
+          }
+        ],
+        "found": "Lean body mass rose 4.5 kg on nandrolone vs 1.9 kg on placebo. Walking and stair-climbing time fell from 36.5 to 32.7 seconds on nandrolone and rose on placebo (P = .05). Grip strength did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10208142/",
+            "label": "Johansen et al., JAMA",
+            "date": "published Apr 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2006 · Randomized, 2 by 2 factorial",
+        "title": "Nandrolone and exercise in hemodialysis (Johansen et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized 2 x 2 factorial trial: nandrolone or placebo (double-blind), with or without leg resistance exercise"
+          },
+          {
+            "k": "People",
+            "v": "79 patients on maintenance hemodialysis; 68 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "nandrolone decanoate weekly (100 mg for women, 200 mg for men) or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "lean body mass (DXA), thigh muscle size (MRI), knee strength, physical function"
+          }
+        ],
+        "found": "Lean body mass rose 3.1 kg on nandrolone; exercise did not raise it. Thigh muscle size rose with both nandrolone and exercise. Strength rose with exercise. The authors said studies of survival are needed.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16825332/",
+            "label": "Johansen et al., J Am Soc Nephrol",
+            "date": "published Aug 2006"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2005 · Randomized, double-blind",
+        "title": "Nandrolone in men with HIV and weight loss (Storer et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled (double-blind), with open-label growth hormone as a reference"
+          },
+          {
+            "k": "People",
+            "v": "men with HIV who had lost 5% to 15% of body weight in 6 months"
+          },
+          {
+            "k": "What was given",
+            "v": "nandrolone 150 mg by injection every 2 weeks, placebo, or growth hormone"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "lean body mass, muscle performance, function, hormones, sexual function, quality of life"
+          }
+        ],
+        "found": "Lean body mass rose 1.6 kg on nandrolone vs 0.4 kg on placebo, not significantly different from growth hormone (2.5 kg). Sexual function improved compared with placebo. Appetite, insulin sensitivity and cachexia scores did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15914526/",
+            "label": "Storer et al., J Clin Endocrinol Metab",
+            "date": "published Aug 2005"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "The label states that nandrolone decanoate has not been tested in laboratory animals for cancer-causing or genetic effects.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+            "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+            "date": "published Feb 2007"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Nandrolone decanoate was FDA approved as Deca-Durabolin in 1962, for the anemia of kidney failure. Every US product is listed as discontinued, and FDA withdrew the Deca-Durabolin application in December 2024 at the applicant’s request. It remains a Schedule III controlled substance. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 013132, approved October 5, 1962, as an injection. Durabolin (nandrolone phenpropionate, NDA 011891, Organon) was a related product. FDA’s data lists every nandrolone decanoate product, brand and generic, as discontinued.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA013132",
+                "label": "Drugs@FDA data (openFDA), Deca-Durabolin (NDA 013132)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA011891",
+                "label": "Drugs@FDA data (openFDA), Durabolin (NDA 011891)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NANDROLONE+DECANOATE%22&limit=100",
+                "label": "Drugs@FDA data (openFDA), all nandrolone decanoate applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Deca-Durabolin:"
+          },
+          {
+            "text": "the label’s only indication was management of the anemia of renal insufficiency. It says the drug has not been shown to be safe and effective for enhancing athletic performance and should not be used for that purpose.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Approved use:"
+          },
+          {
+            "text": "in 2010 FDA determined that Deca-Durabolin 200 mg/mL was not withdrawn from sale for safety or effectiveness reasons, so generic versions could still be approved.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2010-08-10/pdf/2010-19698.pdf",
+                "label": "FDA notice, Deca-Durabolin 200 mg/mL not withdrawn for safety or effectiveness, 75 FR 48351",
+                "date": "published Aug 2010"
+              }
+            ],
+            "lead": "2010 determination:"
+          },
+          {
+            "text": "FDA’s notice of November 19, 2024 lists Deca-Durabolin (NDA 013132) among 26 applications whose approval was withdrawn as of December 19, 2024, because the products were no longer marketed and the applicants asked for withdrawal.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/FR-2024-11-19/pdf/2024-26913.pdf",
+                "label": "FDA notice, withdrawal of approval of 26 new drug applications, 89 FR 91410",
+                "date": "published Nov 2024"
+              }
+            ],
+            "lead": "2024 withdrawal:"
+          },
+          {
+            "text": "FDA lists nandrolone decanoate in 503B category 1 (under evaluation), marked as a component of FDA-approved drugs. Compounded nandrolone is not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated March 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Outsourcing facilities (503B):"
+          },
+          {
+            "text": "yes. Nandrolone is a Schedule III anabolic steroid under federal law; the label cites the Anabolic Steroids Control Act of 1990.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Nandrolone decanoate is no longer approved in the US, and Canada lists no marketed product. EMA’s Article 57 data lists Deca-Durabolin in 8 EU member states. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / DEA",
+          "status": "No product marketed: FDA lists all as discontinued, and Deca-Durabolin’s approval was withdrawn in December 2024. Schedule III controlled substance.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NANDROLONE+DECANOATE%22&limit=100",
+              "label": "Drugs@FDA data (openFDA), all nandrolone decanoate applications",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.govinfo.gov/content/pkg/FR-2024-11-19/pdf/2024-26913.pdf",
+              "label": "FDA notice, withdrawal of approval of 26 new drug applications, 89 FR 91410",
+              "date": "published Nov 2024"
+            },
+            {
+              "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+              "label": "DEA, Controlled Substances in alphabetical order",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No marketed product. Both Deca-Durabolin products are cancelled post-market (1996 and 2010).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=nandrolone",
+              "label": "Health Canada Drug Product Database, ingredient search: nandrolone",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in 8 member states (Austria, Belgium, Finland, Greece, Luxembourg, Netherlands, Poland, Portugal), as Deca-Durabolin and similar injections.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "For the United Kingdom, EMA’s Article 57 data lists no nandrolone product in Northern Ireland. Great Britain could not be checked on the MHRA’s register.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) lists nandrolone in Schedule 4 (prescription only) and in Appendix D, clause 5, for anabolic and androgenic steroids, which must not be possessed without authority under local law. The TGA’s register could not be reached.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Nandrolone (19-nortestosterone) is named under class S1.1, anabolic androgenic steroids, on the WADA 2026 Prohibited List, with its esters. S1 is prohibited at all times (in and out of competition) and its substances are non-Specified. Nandrolone stays named in S1.1 on the 2027 list, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label warns of peliosis hepatis (blood-filled cysts in the liver), liver tumors, and cholesterol changes that raise the risk of heart disease. In men it can shut down the testes, shrink them and lower sperm counts. In women it can cause masculinization that may not reverse."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "peliosis hepatis, which can lead to liver failure or bleeding, and liver tumors, usually benign but sometimes fatal, have been reported with anabolic steroids.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Liver (warning):"
+          },
+          {
+            "text": "HDL (good) cholesterol falls and LDL sometimes rises, which the label says could seriously raise the risk of atherosclerosis and coronary artery disease.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Cholesterol (warning):"
+          },
+          {
+            "text": "after puberty: inhibition of testicular function, testicular shrinkage and low sperm counts (oligospermia), impotence, prolonged erections (priapism) and breast growth.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Men and fertility:"
+          },
+          {
+            "text": "deepening of the voice, extra hair, acne, clitoral enlargement and menstrual changes. Some of these changes do not reverse.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Women:"
+          },
+          {
+            "text": "in children it can close the growth plates early and reduce adult height.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Children:"
+          },
+          {
+            "text": "swelling and fluid retention, with or without heart failure; cholestatic jaundice; raised calcium in women with breast cancer; lower glucose tolerance; bleeding with blood thinners; increased or decreased libido; habituation, excitation, insomnia and depression.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Other side effects:"
+          },
+          {
+            "text": "men with breast cancer or known or suspected prostate cancer, pregnancy, and certain kidney diseases (nephrosis). Older men may face higher risk of prostate enlargement and cancer.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586b484-1b46-40b9-9508-fd28002ad383",
+                "label": "Nandrolone decanoate injection label (Watson), DailyMed",
+                "date": "published Feb 2007"
+              }
+            ],
+            "lead": "Must not be used in:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s product register; EMA’s Article 57 data lists no nandrolone product in Northern Ireland.",
+    "The TGA’s register could not be reached, so Australian product registrations were not confirmed.",
+    "Whether nandrolone decanoate has a USP monograph, which affects 503A compounding, was not confirmed.",
+    "Drugs@FDA’s web pages redirected automated requests; approval dates come from FDA’s openFDA copy of Drugs@FDA."
+  ],
+  "surprises": [
+    "FDA withdrew approval of Deca-Durabolin (NDA 013132) as of December 19, 2024, at the applicant’s request because it was no longer marketed; every US nandrolone decanoate product is listed as discontinued."
+  ]
+}

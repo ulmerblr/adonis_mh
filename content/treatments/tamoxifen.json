@@ -1,0 +1,648 @@
+{
+  "slug": "tamoxifen",
+  "name": "Tamoxifen",
+  "row": "Tamoxifen",
+  "aka": [
+    "Nolvadex",
+    "Soltamox",
+    "Tamoxifen citrate"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Approved; male RCTs small",
+    "fda": "Approved (Nolvadex)",
+    "sport": "Banned (S4)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat breast tumor studies on the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before 1977 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Before 1977 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before 1977 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "NSABP and other large trials in women",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Nolvadex, 1977, breast cancer (men included)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Tamoxifen is a non-steroidal anti-estrogen, taken by mouth. It competes with estrogen for binding sites in tissues such as the breast. The label notes it also has some estrogen-like effects, which may explain its effect on the uterus.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+            "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In breast cancer cells it competes with estradiol for the estrogen receptor. In rats it blocked and shrank chemically induced breast tumors.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "text": "In men with low sperm counts, the label says tamoxifen raised LH, FSH, testosterone and estrogen levels. This is the basis for its off-label use in men.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Tamoxifen is FDA approved for breast cancer, including metastatic breast cancer in men. Its use in men for breast growth (gynecomastia), testosterone or fertility is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Tamoxifen’s approvals rest on large trials in women with breast cancer or at high risk of it. The label adds published data on men with breast cancer. For off-label uses in men, randomized trials have tested it to prevent breast growth caused by the prostate cancer drug bicalutamide, and, combined with testosterone undecanoate, in men with low sperm counts."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies in men"
+      },
+      {
+        "t": "study",
+        "meta": "Published series · label data · Uncontrolled reports",
+        "title": "Men with breast cancer (tamoxifen label)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "published reports and case reports, no control group"
+          },
+          {
+            "k": "People",
+            "v": "132 evaluable men with breast cancer"
+          },
+          {
+            "k": "Measured",
+            "v": "objective tumor response"
+          }
+        ],
+        "found": "66 of 132 men responded, a 50% objective response rate. The label reports this as the basis for treating metastatic breast cancer in men. Loss of libido and impotence led some men to stop.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+            "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2005 · Randomized trial",
+        "title": "Tamoxifen or radiotherapy to prevent breast growth on bicalutamide (Perdonà et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized controlled trial, 3 arms"
+          },
+          {
+            "k": "People",
+            "v": "151 men with prostate cancer starting bicalutamide 150 mg a day"
+          },
+          {
+            "k": "What was given",
+            "v": "bicalutamide alone, bicalutamide plus tamoxifen 10 mg a day, or bicalutamide plus a single dose of breast radiotherapy"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "breast growth and breast pain; PSA; quality of life"
+          }
+        ],
+        "found": "Breast growth occurred in 35 of 51 men on bicalutamide alone, 4 of 50 with tamoxifen and 17 of 50 with radiotherapy. Breast pain: 29 of 51, 3 of 50 and 15 of 50. This use is off-label.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15863377/",
+            "label": "Perdonà et al., Lancet Oncol",
+            "date": "published May 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 2007 · Randomized, double-blind",
+        "title": "Tamoxifen dose-response for bicalutamide breast events (Fradet et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, parallel-group, multicentre"
+          },
+          {
+            "k": "People",
+            "v": "282 men with prostate cancer on bicalutamide 150 mg a day"
+          },
+          {
+            "k": "What was given",
+            "v": "tamoxifen 1, 2.5, 5, 10 or 20 mg a day, or placebo, for 12 months, then 12 months of bicalutamide alone"
+          },
+          {
+            "k": "Length",
+            "v": "24 months"
+          },
+          {
+            "k": "Measured",
+            "v": "breast growth or pain; PSA control"
+          }
+        ],
+        "found": "At 6 months, breast events fell with dose: 96.7% on placebo, 86.2% on 1 mg and 8.8% on 20 mg. PSA control was not affected. After tamoxifen stopped, breast events were common in all groups. Hot flushes rose at 5 mg or more. This use is off-label.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17270340/",
+            "label": "Fradet et al., Eur Urol",
+            "date": "published Jul 2007"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Greece · 2003 · Randomized, placebo-controlled",
+        "title": "Tamoxifen plus testosterone undecanoate in low sperm counts (Adamopoulos et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "prospective, randomized, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "212 men with low sperm counts of unknown cause (idiopathic oligozoospermia) in subfertile couples; 82 men with normal counts as a comparison"
+          },
+          {
+            "k": "What was given",
+            "v": "tamoxifen 20 mg plus testosterone undecanoate 120 mg a day, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "6 months, with 3 months of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "pregnancies, sperm count, motility and shape"
+          }
+        ],
+        "found": "Total sperm count, motility and normal shape rose on the combination, not on placebo. Spontaneous pregnancies: 33.9% vs 10.3% (36 vs 11). This tested the combination, not tamoxifen alone, and is off-label.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14556812/",
+            "label": "Adamopoulos et al., Fertil Steril",
+            "date": "published Oct 2003"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Studies in women (the approved uses)"
+      },
+      {
+        "t": "p",
+        "text": "The label describes large trials in women, including NSABP P-1 in women at high risk of breast cancer. These trials define its serious risks (uterine cancers, stroke, lung clots). They do not tell us about off-label effects in men.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+            "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats, tamoxifen impaired fertility and conception in females and caused fetal deaths. In rats it blocked and shrank chemically induced breast tumors.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+            "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Tamoxifen is FDA approved, first as Nolvadex in December 1977, for breast cancer. The label covers metastatic breast cancer in women and men. Uses in men for breast growth, testosterone or fertility are off-label. It is not a controlled substance. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 017970 (AstraZeneca), approved December 30, 1977, is now listed as discontinued. Generic tablets are approved and marketed, and Soltamox, an oral solution, was approved in October 2005 (NDA 021807).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA017970",
+                "label": "Drugs@FDA data (openFDA), Nolvadex (NDA 017970)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021807",
+                "label": "Drugs@FDA data (openFDA), Soltamox (NDA 021807)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22TAMOXIFEN+CITRATE%22",
+                "label": "Drugs@FDA data (openFDA), all tamoxifen citrate applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Nolvadex:"
+          },
+          {
+            "text": "metastatic breast cancer in women and men; add-on (adjuvant) treatment of breast cancer; ductal carcinoma in situ (DCIS) after surgery and radiation; and lowering breast cancer risk in women at high risk.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Approved uses:"
+          },
+          {
+            "text": "metastatic breast cancer is an approved use. Preventing or treating breast growth from bicalutamide or other causes, raising testosterone and male infertility are off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15863377/",
+                "label": "Perdonà et al., Lancet Oncol",
+                "date": "published May 2005"
+              }
+            ],
+            "lead": "Men:"
+          },
+          {
+            "text": "the label has a boxed warning for women with DCIS and women at high risk of breast cancer: uterine cancers, stroke and pulmonary embolism, some fatal, were more common on tamoxifen in NSABP P-1. It says the benefits outweigh the risks in women already diagnosed with breast cancer.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Boxed warning:"
+          },
+          {
+            "text": "under section 503A, pharmacies may compound only with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA’s 503A bulks list. Tamoxifen citrate is the active ingredient of FDA-approved tablets. A compounded tamoxifen product is not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22TAMOXIFEN+CITRATE%22",
+                "label": "Drugs@FDA data (openFDA), all tamoxifen citrate applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Compounding:"
+          },
+          {
+            "text": "no. Tamoxifen is not on the DEA’s list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Tamoxifen is an approved breast cancer medicine in the US, Canada, Northern Ireland and all 27 EU member states. Use in men for breast growth, testosterone or fertility is off-label wherever checked. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Nolvadex, 1977, discontinued; generics; Soltamox solution) for breast cancer in women and men. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA017970",
+              "label": "Drugs@FDA data (openFDA), Nolvadex (NDA 017970)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22TAMOXIFEN+CITRATE%22",
+              "label": "Drugs@FDA data (openFDA), all tamoxifen citrate applications",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+              "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+              "date": "published Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Authorised medicine: generic tablets such as Teva-Tamoxifen are marketed. Nolvadex-D was cancelled post-market in March 2023.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=tamoxifen",
+              "label": "Health Canada Drug Product Database, tamoxifen products",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=10790",
+              "label": "Health Canada Drug Product Database, Teva-Tamoxifen (DIN 00851965) status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=18639",
+              "label": "Health Canada Drug Product Database, Nolvadex-D (DIN 02048485) status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised in Northern Ireland: EMA’s Article 57 data lists Nolvadex and 14 generic tamoxifen products there. Great Britain was not checked separately.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in all 27 member states as tablets (for example Nolvadex, Tamoxifen generics).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) lists tamoxifen in Schedule 4 (prescription only). The TGA’s register could not be reached to confirm which products are registered.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Tamoxifen is named under class S4.2, anti-estrogenic substances (anti-estrogens and SERMs), on the WADA 2026 Prohibited List. S4 is prohibited at all times (in and out of competition), and S4.2 substances are Specified Substances. The ban is not limited to men. Tamoxifen stays named in S4.2 on the 2027 list, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label’s serious risks come from trials in women: uterine cancers, stroke, pulmonary embolism and other blood clots, cataracts and liver effects. In men, the label notes loss of libido and impotence; in the bicalutamide trials, hot flushes rose at higher doses."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "in NSABP P-1, endometrial cancer occurred at 2.20 vs 0.71 per 1,000 women-years on tamoxifen vs placebo; stroke at 1.43 vs 1.00; pulmonary embolism at 0.75 vs 0.25. Some were fatal.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Boxed warning (women):"
+          },
+          {
+            "text": "deep vein thrombosis and pulmonary embolism are more common on tamoxifen, more so with chemotherapy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Blood clots:"
+          },
+          {
+            "text": "corneal changes, color vision changes, retinal vein clots and retinopathy have been reported. Cataracts and cataract surgery were more common in NSABP P-1.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Eyes:"
+          },
+          {
+            "text": "liver cancer was reported in a few patients in some trials; rarely, fatty liver, cholestasis, hepatitis and liver necrosis have also been reported, a few of them fatal.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Liver:"
+          },
+          {
+            "text": "the label says the safety profile in men appears similar to that in women. Loss of libido and impotence have led men to stop treatment.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Men:"
+          },
+          {
+            "text": "hot flushes were more common at tamoxifen doses of 5 mg or more in the 2007 trial; other side effects were similar across groups.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17270340/",
+                "label": "Fradet et al., Eur Urol",
+                "date": "published Jul 2007"
+              }
+            ],
+            "lead": "In the bicalutamide trial:"
+          },
+          {
+            "text": "hot flushes are the most common side effect in metastatic breast cancer. Rarely, raised triglycerides with pancreatitis, severe skin reactions (including Stevens-Johnson syndrome), lung inflammation and allergic swelling have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Other side effects:"
+          },
+          {
+            "text": "it may cause fetal harm. The label tells women not to become pregnant while taking it or for 2 months after stopping.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ee3d3d2-85d1-4018-8e70-5ed8a64ae1f0",
+                "label": "Tamoxifen citrate tablets label (Mylan), DailyMed",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Pregnancy:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The TGA’s register could not be reached, so Australian product registrations were not confirmed.",
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s own product register.",
+    "The year FDA first approved tamoxifen for male breast cancer was not found in the records opened; the current label includes it."
+  ],
+  "surprises": [
+    "Male breast cancer is an approved use on the US tamoxifen label (metastatic breast cancer in women and men), based on published uncontrolled reports in 132 men with a 50% response rate."
+  ]
+}

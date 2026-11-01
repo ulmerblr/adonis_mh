@@ -1,0 +1,586 @@
+{
+  "slug": "letrozole",
+  "name": "Letrozole",
+  "row": "Letrozole",
+  "aka": [
+    "Femara"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Approved; small male RCTs",
+    "fda": "Approved (Femara)",
+    "sport": "Banned (S4)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Mouse and rat studies on the label",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before 1997 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Before 1997 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Before 1997 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "BIG 1-98, MA-17 and others, in women",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Femara, 1997, breast cancer. Men: off-label",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Letrozole is a non-steroidal aromatase inhibitor taken by mouth. Aromatase is the enzyme that turns androgens (androstenedione and testosterone) into estrogens (estrone and estradiol). Letrozole binds the enzyme and blocks it, which lowers estrogen in all tissues.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+            "label": "Femara (letrozole) label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label and studies in men:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "In women it lowers estrone, estradiol and estrone sulfate. It has no significant effect on cortisol-type hormones, aldosterone or thyroid hormones.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ]
+          },
+          {
+            "text": "In men, lower estradiol weakens estrogen’s brake on the pituitary, so LH and testosterone rise. Studies in obese men and in infertile men measured this.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18426834/",
+                "label": "Loves et al., Eur J Endocrinol",
+                "date": "published May 2008"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42313386/",
+                "label": "Sun et al., JAMA Netw Open",
+                "date": "published Jun 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Letrozole is approved only for breast cancer in postmenopausal women. Its use in men, for example to raise testosterone or for infertility, is off-label."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Femara was approved on large trials in postmenopausal women with breast cancer. In men, studies are small: a 12-man pilot and a 42-man placebo-controlled trial in obese men with low testosterone, and a 296-man randomized trial in men with severe infertility. Hormones changed clearly; symptoms and body measures did not in the placebo-controlled trial."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies in men (off-label)"
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2008 · Open-label pilot",
+        "title": "Weekly letrozole in severely obese men (Loves et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open, uncontrolled pilot study"
+          },
+          {
+            "k": "People",
+            "v": "12 severely obese men (BMI over 35) with low testosterone from the pituitary"
+          },
+          {
+            "k": "What was given",
+            "v": "letrozole 2.5 mg once a week"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "estradiol, LH, total and free testosterone"
+          }
+        ],
+        "found": "After 6 weeks, estradiol fell by about half, LH rose from 4.4 to 11.1 U/L and total testosterone from 5.9 to 19.6 nmol/L. Free testosterone rose above the normal range in 7 of the 12 men. Levels stayed stable over 6 months.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18426834/",
+            "label": "Loves et al., Eur J Endocrinol",
+            "date": "published May 2008"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Netherlands · 2013 · Randomized, double-blind",
+        "title": "Letrozole vs placebo in obese men with low testosterone (Loves et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "42 obese men (BMI over 35) with total testosterone under 10 nmol/L; 39 completed"
+          },
+          {
+            "k": "What was given",
+            "v": "letrozole starting at 2.5 mg a week, increased monthly toward a testosterone target, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "mood and psychological function, body composition, exercise capacity, glucose, lipids and bone"
+          }
+        ],
+        "found": "Estradiol fell from 119 to 59 pmol/L and total testosterone rose from 8.6 to 21.5 nmol/L. None of the planned clinical endpoints changed significantly.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23949882/",
+            "label": "Loves et al., Eur J Endocrinol",
+            "date": "published Nov 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2026 · Randomized, open-label",
+        "title": "Letrozole in men with spermatogenic failure (Sun et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicenter, open-label, assessor-blinded randomized trial at 10 centers (ChiCTR2300073861)"
+          },
+          {
+            "k": "People",
+            "v": "296 men, mean age 30, with no sperm from testicular failure, very few sperm, or severe low counts; 74% had no sperm"
+          },
+          {
+            "k": "What was given",
+            "v": "letrozole 2.5 mg a day plus vitamins C and E (147 men), or vitamins C and E alone (149)"
+          },
+          {
+            "k": "Length",
+            "v": "3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "share of men moving up a WHO sperm concentration category; semen; hormones"
+          }
+        ],
+        "found": "14.3% on letrozole vs 5.4% on control moved up a sperm concentration category. LH, FSH and testosterone rose and estradiol fell. Semen measures did not differ between groups. Lower libido was more common on letrozole (12.2% vs 5.4%).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42313386/",
+            "label": "Sun et al., JAMA Netw Open",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Studies in women (the approved use)"
+      },
+      {
+        "t": "p",
+        "text": "The label’s trials, such as BIG 1-98 (letrozole vs tamoxifen) and MA-17 (letrozole vs placebo after tamoxifen), enrolled postmenopausal women with breast cancer. These results do not tell us about effects in men.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+            "label": "Femara (letrozole) label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "In male animals, letrozole may impair fertility, according to the label. In young male rats it caused testicular damage and lower fertility that did not reverse at clinically relevant exposures. In mice and rats it increased benign ovarian tumors.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+            "label": "Femara (letrozole) label, DailyMed",
+            "date": "published Jun 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Letrozole is FDA approved, as Femara since July 25, 1997, for breast cancer in postmenopausal women. Every approved use is in postmenopausal women; use in men is off-label. It is not a controlled substance. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 020726 (Novartis), approved July 25, 1997, still marketed. Generic letrozole tablets are also approved.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020726",
+                "label": "Drugs@FDA data (openFDA), Femara (NDA 020726)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:%22LETROZOLE%22",
+                "label": "Drugs@FDA data (openFDA), letrozole applications",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Femara:"
+          },
+          {
+            "text": "add-on (adjuvant) treatment of hormone receptor-positive early breast cancer; extended adjuvant treatment after 5 years of tamoxifen; and first- and second-line treatment of advanced breast cancer. All are in postmenopausal women.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Approved uses:"
+          },
+          {
+            "text": "off-label. Men are not in any approved indication. The label says safety and effectiveness have not been established in children.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Men:"
+          },
+          {
+            "text": "under section 503A, pharmacies may compound only with bulk substances that meet a USP or NF monograph, are part of an FDA-approved drug, or are on FDA’s 503A bulks list. Letrozole is the active ingredient of FDA-approved Femara. A compounded letrozole product is not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+                "label": "FDA, bulk drug substances used in 503A compounding",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020726",
+                "label": "Drugs@FDA data (openFDA), Femara (NDA 020726)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Compounding:"
+          },
+          {
+            "text": "no. Letrozole is not on the DEA’s list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Letrozole is an approved breast cancer medicine in the US, Canada, Northern Ireland and all 27 EU member states, for postmenopausal women. Use in men is off-label wherever checked. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Femara, 1997; generics) for breast cancer in postmenopausal women. Prescription-only. Use in men is off-label.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020726",
+              "label": "Drugs@FDA data (openFDA), Femara (NDA 020726)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+              "label": "Femara (letrozole) label, DailyMed",
+              "date": "published Jun 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Authorised medicine (Femara, DIN 02231384, Novartis), marketed since September 1997. Generic letrozole is also marketed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=femara",
+              "label": "Health Canada Drug Product Database, Femara",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=50695",
+              "label": "Health Canada Drug Product Database, Femara (DIN 02231384) status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=79471",
+              "label": "Health Canada Drug Product Database, PMS-Letrozole (DIN 02309114) status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised in Northern Ireland: EMA’s Article 57 data lists Femara and 15 generic letrozole products there. Great Britain was not checked separately.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in all 27 member states as tablets (Femara and many generics).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) lists letrozole in Schedule 4 (prescription only). The TGA’s register could not be reached to confirm which products are registered.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Letrozole is named under class S4.1, aromatase inhibitors, on the WADA 2026 Prohibited List. S4 is prohibited at all times (in and out of competition), and S4.1 substances are Specified Substances. The ban is not limited to men. Letrozole stays named in S4.1 on the 2027 list, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label’s side effects come from trials in postmenopausal women: bone loss and fractures, higher cholesterol, hot flushes, joint pain, fatigue and dizziness, with rare serious skin, allergic and liver reactions. In men, a 2026 trial found lower libido more often on letrozole, and a pilot study found free testosterone above the normal range in most men."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "lumbar spine bone density fell a median 4.1% at 24 months on letrozole vs a 0.3% rise on tamoxifen. In BIG 1-98, fractures occurred in 14.7% vs 11.4%; in MA-17, 13.3% vs 7.8% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Bone:"
+          },
+          {
+            "text": "raised cholesterol was reported in 52.3% on letrozole vs 28.6% on tamoxifen in BIG 1-98.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Cholesterol:"
+          },
+          {
+            "text": "hot flushes (33.5%), joint pain or arthritis (25.4%), night sweats, weight gain, nausea, fatigue and muscle pain. The label warns that fatigue, dizziness and sleepiness can affect driving.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Common (women):"
+          },
+          {
+            "text": "after approval: liver enzyme rises and hepatitis, allergic reactions including anaphylaxis, angioedema, toxic epidermal necrolysis, erythema multiforme, tendon rupture and trigger finger, and blurred vision.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Rare and serious:"
+          },
+          {
+            "text": "lower libido in 12.2% vs 5.4% on control in the 2026 infertility trial. In the 2008 pilot, free testosterone rose above the normal range in 7 of 12 obese men.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42313386/",
+                "label": "Sun et al., JAMA Netw Open",
+                "date": "published Jun 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/18426834/",
+                "label": "Loves et al., Eur J Endocrinol",
+                "date": "published May 2008"
+              }
+            ],
+            "lead": "Men, from trials:"
+          },
+          {
+            "text": "based on studies in male animals, letrozole may impair male fertility. In women of reproductive age it can harm a fetus and is contraindicated in pregnancy.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406",
+                "label": "Femara (letrozole) label, DailyMed",
+                "date": "published Jun 2026"
+              }
+            ],
+            "lead": "Fertility and pregnancy:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The TGA’s register could not be reached, so Australian product registrations were not confirmed.",
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s own product register.",
+    "Drugs@FDA’s web pages redirected automated requests; approval dates come from FDA’s openFDA copy of Drugs@FDA."
+  ],
+  "surprises": [
+    "In a placebo-controlled trial in 42 obese men (6 months), letrozole more than doubled testosterone but changed none of the planned clinical endpoints, including mood, body composition and bone."
+  ]
+}

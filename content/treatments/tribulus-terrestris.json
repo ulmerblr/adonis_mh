@@ -1,0 +1,527 @@
+{
+  "slug": "tribulus-terrestris",
+  "name": "Tribulus terrestris",
+  "row": "Tribulus terrestris",
+  "aka": [
+    "Tribulus",
+    "Puncture vine",
+    "Gokshura"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "RCTs; mixed results",
+    "fda": "Not a drug; supplement",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Animal and lab studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small trials in young men and athletes",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "RCTs of 21 to 180 men, 4 to 12 weeks",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not an approved drug",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Tribulus terrestris (puncture vine) is a plant used in herbal medicine for sexual function and fertility. Its effects are attributed to steroidal saponins, mainly protodioscin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30253697/",
+            "label": "GamalEl Din et al., Urologia, 2019",
+            "date": "published May 2019"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is sold as a botanical dietary supplement, often promoted for strength and muscle. FDA does not review supplements before sale.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17530942/",
+            "label": "Rogerson et al., J Strength Cond Res, 2007",
+            "date": "published May 2007"
+          },
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+            "label": "Questions and answers on dietary supplements, FDA",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Tribulus is not an approved drug. Trials on testosterone mostly found no change."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Randomized trials of tribulus in men are small to medium in size. Several found no change in testosterone. A 2026 meta-analysis of 8 trials found higher erectile function scores than placebo but no difference in total testosterone."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Bulgaria · 2005 · Randomized trial",
+        "title": "Androgens in healthy young men (Neychev and Mitev)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled trial, two dose groups"
+          },
+          {
+            "k": "People",
+            "v": "21 healthy men aged 20 to 36"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "testosterone, androstenedione and LH at six time points"
+          }
+        ],
+        "found": "No difference from placebo in testosterone, androstenedione or LH.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15994038/",
+            "label": "Neychev and Mitev, J Ethnopharmacol, 2005",
+            "date": "published Oct 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Australia · 2007 · Randomized, double-blind trial",
+        "title": "Elite rugby league players in preseason (Rogerson et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "match-paired, randomized, double-blind, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "22 elite male rugby league players, average age 20"
+          },
+          {
+            "k": "What was given",
+            "v": "450 mg tribulus extract a day or placebo, with training"
+          },
+          {
+            "k": "Length",
+            "v": "5 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "strength, fat-free mass, urinary testosterone/epitestosterone (T/E) ratio"
+          }
+        ],
+        "found": "Strength and fat-free mass rose in both groups, with no difference between them. The T/E ratio did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17530942/",
+            "label": "Rogerson et al., J Strength Cond Res, 2007",
+            "date": "published May 2007"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Brazil · 2014 · Randomized, double-blind trial",
+        "title": "Erectile dysfunction, 30 men (Santos et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "prospective, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "30 men aged 40 and over with erectile dysfunction"
+          },
+          {
+            "k": "What was given",
+            "v": "800 mg tribulus a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "30 days"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function (IIEF-5) and total testosterone"
+          }
+        ],
+        "found": "Scores rose over time in both groups, with no difference between tribulus and placebo. Testosterone did not differ.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24630840/",
+            "label": "Santos et al., Actas Urol Esp, 2014",
+            "date": "published May 2014"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Bulgaria · 2017 · Randomized, double-blind trial",
+        "title": "Male sexual dysfunction, 180 men (Kamenov et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "prospective, randomized, double-blind, placebo-controlled trial (described as Phase IV)"
+          },
+          {
+            "k": "People",
+            "v": "180 men aged 18 to 65 with mild or moderate erectile dysfunction, with or without low sexual desire; 86 per group completed"
+          },
+          {
+            "k": "What was given",
+            "v": "a standardized Bulgarian tribulus extract tablet (250 mg) or placebo, 3 × 2 tablets a day"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in erectile function (IIEF) score; blood lipids; safety"
+          }
+        ],
+        "found": "IIEF scores improved more on tribulus than on placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28364864/",
+            "label": "Kamenov et al., Maturitas, 2017",
+            "date": "published May 2017"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Egypt · 2019 · Placebo-controlled trial",
+        "title": "Aging men with low testosterone, ED and urinary symptoms (GamalEl Din et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "70 aging men with partial androgen deficiency, erectile dysfunction and lower urinary tract symptoms"
+          },
+          {
+            "k": "Length",
+            "v": "3 months"
+          },
+          {
+            "k": "Measured",
+            "v": "total testosterone, erectile function (Arabic IIEF-5), prostate symptom score, PSA, liver enzymes"
+          }
+        ],
+        "found": "In the tribulus group, total testosterone and erectile function scores rose from baseline. Urinary symptoms did not worsen. PSA and the liver enzyme AST rose slightly.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30253697/",
+            "label": "GamalEl Din et al., Urologia, 2019",
+            "date": "published May 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "International · 2026 · Meta-analysis",
+        "title": "Tribulus for erectile dysfunction: 8 trials (Suharyani et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis of randomized trials"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function (IIEF-5, IIEF-15), total testosterone, adverse events"
+          }
+        ],
+        "found": "Erectile function scores were higher with tribulus than with placebo (IIEF-5 mean difference 3.23). Total testosterone did not differ. Adverse event rates did not differ.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40360723/",
+            "label": "Suharyani et al., Int J Impot Res, 2026 (meta-analysis)",
+            "date": "published Jan 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Tribulus terrestris is sold in the US as a dietary supplement. It is not an FDA-approved drug, and FDA does not review supplements for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Dietary supplement:",
+            "text": "Tribulus terrestris is a botanical. Under US law, a product meant to supplement the diet that contains an herb or other botanical can be sold as a dietary supplement.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No FDA review before sale:",
+            "text": "FDA does not have the authority to approve dietary supplements before they are marketed, and a firm generally does not have to give FDA its safety evidence. FDA does not approve supplements or their labelling.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not a drug:",
+            "text": "Tribulus terrestris is not an FDA-approved drug for any use, including low testosterone or erectile problems.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US tribulus can be sold as a botanical dietary supplement. Its status in other countries was not checked against regulator records.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement; not an approved drug.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "updated Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Tribulus terrestris is not named on the WADA 2026 Prohibited List or the 2027 list. In a 5-week trial in rugby players, it did not change the urinary T/E ratio used in doping tests.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/17530942/",
+              "label": "Rogerson et al., J Strength Cond Res, 2007",
+              "date": "published May 2007"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Trials report few side effects, and a meta-analysis found adverse event rates similar to placebo. Case reports describe serious kidney and liver injury and breast growth in men who used tribulus."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Trials:",
+            "text": "adverse events were similar to placebo across 8 trials. In one 3-month trial, the liver enzyme AST and PSA rose slightly.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40360723/",
+                "label": "Suharyani et al., Int J Impot Res, 2026 (meta-analysis)",
+                "date": "published Jan 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30253697/",
+                "label": "GamalEl Din et al., Urologia, 2019",
+                "date": "published May 2019"
+              }
+            ]
+          },
+          {
+            "lead": "Kidney and liver injury, case reports:",
+            "text": "a young man developed liver, kidney and nerve toxicity, with a seizure, after drinking tribulus water for 2 days. A 46-year-old man developed severe jaundice and kidney injury after 2 months of tribulus supplements and recovered after plasmapheresis.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20667992/",
+                "label": "Talasaz et al., Nephrol Dial Transplant, 2010",
+                "date": "published Nov 2010"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38328764/",
+                "label": "Mohy-Ud-Din and Jonassaint, ACG Case Rep J, 2024",
+                "date": "published Feb 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Breast growth, case report:",
+            "text": "a young weight-trainer developed gynecomastia after taking a tribulus herbal tablet as a steroid alternative.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15454201/",
+                "label": "Jameel et al., Breast, 2004",
+                "date": "published Oct 2004"
+              }
+            ]
+          },
+          {
+            "lead": "No pre-market review:",
+            "text": "FDA does not review dietary supplements for safety before they are sold, so product contents and strength are not checked by FDA.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Tribulus's status in Canada, the UK, the EU and Australia was not checked against regulator records.",
+    "The tribulus tablet used in the 2017 Bulgarian trial is described there as a medicine; its registration with Bulgaria's regulator was not checked.",
+    "The 2005, 2014 and 2019 trial abstracts do not give funding sources."
+  ],
+  "surprises": [
+    "Tribulus is sold as a 'testosterone booster', but most trials, and a 2026 meta-analysis, found no change in total testosterone."
+  ]
+}

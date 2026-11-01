@@ -1,0 +1,551 @@
+{
+  "slug": "gonadorelin",
+  "name": "Gonadorelin",
+  "row": "Gonadorelin",
+  "aka": [
+    "GnRH",
+    "LHRH",
+    "Factrel",
+    "Lutrepulse",
+    "Gonadorelin acetate",
+    "Gonadorelin hydrochloride"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Small studies; none on TRT",
+    "fda": "Approved; discontinued",
+    "sport": "Banned (S2)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Before 1982 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Before 1982 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Before 1982 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Pump studies in men with hypogonadism (China)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "With testosterone therapy: no studies found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Factrel 1982, Lutrepulse 1989; both discontinued",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Gonadorelin is a synthetic copy of gonadotropin-releasing hormone (GnRH, also called LHRH), a 10-amino-acid peptide made by the hypothalamus. It has the same amino acid sequence as the body’s own hormone.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1451663c-b85a-4b45-8b27-6d572d0032f9",
+            "label": "Factrel (gonadorelin) veterinary label, Zoetis, DailyMed",
+            "date": "published Sep 2026"
+          },
+          {
+            "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+            "label": "WADA 2026 Prohibited List",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "GnRH makes the pituitary release LH and FSH, the hormones that drive testosterone and sperm production in the testes.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1451663c-b85a-4b45-8b27-6d572d0032f9",
+                "label": "Factrel (gonadorelin) veterinary label, Zoetis, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ]
+          },
+          {
+            "text": "In the body GnRH is released in pulses. In men whose own GnRH is missing (congenital hypogonadotropic hypogonadism), studies gave gonadorelin in pulses from a small pump under the skin to restart this signal.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30569789/",
+                "label": "Zhang et al., Am J Mens Health",
+                "date": "published Jan 2019"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Gonadorelin was FDA approved (Factrel, Lutrepulse), but every human product is now discontinued. Its use alongside testosterone therapy has no published human studies."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The published studies in men test pulsatile gonadorelin pumps in congenital hypogonadotropic hypogonadism, mostly small and not randomized. No published human study of gonadorelin given alongside testosterone therapy (TRT) was found. Two 2026 reviews say evidence for peptides used to protect fertility on TRT is limited."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "China · 2019 · Non-randomized comparison",
+        "title": "Gonadorelin pump vs hCG/hMG in congenital hypogonadism (Zhang et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "non-randomized comparison (ChiCTR-OPC-16009168)"
+          },
+          {
+            "k": "People",
+            "v": "28 men with congenital hypogonadotropic hypogonadism and no sperm: 10 on a gonadorelin pump, 18 on hCG plus hMG injections"
+          },
+          {
+            "k": "Length",
+            "v": "24 months"
+          },
+          {
+            "k": "Measured",
+            "v": "time until sperm appeared; testis volume, penile length, hormones, side effects"
+          }
+        ],
+        "found": "Sperm appeared earlier with the pump (median 6 vs 14 months). Sperm appeared in 90% vs 83.3%, a difference that was not significant. Skin redness and hardening at the pump site was a common side effect.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30569789/",
+            "label": "Zhang et al., Am J Mens Health",
+            "date": "published Jan 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2015 · Uncontrolled treatment study",
+        "title": "Pulsatile gonadorelin and bone in young men with hypogonadism (Li et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "observational; patients compared with healthy controls at baseline, then measured again after treatment"
+          },
+          {
+            "k": "People",
+            "v": "22 young men with hypogonadotropic hypogonadism, 20 healthy controls"
+          },
+          {
+            "k": "Length",
+            "v": "6 months of pulsatile gonadorelin"
+          },
+          {
+            "k": "Measured",
+            "v": "bone density, metabolic markers, hormones"
+          }
+        ],
+        "found": "At baseline, osteoporosis was more common in the men with hypogonadism (45%) than in controls (10%). After 6 months, BMI and bone density measures rose, and total cholesterol, fasting insulin and SHBG fell. There was no untreated comparison group.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26417369/",
+            "label": "Li et al., Int J Endocrinol",
+            "date": "published Sep 2015"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Gonadorelin with testosterone therapy"
+      },
+      {
+        "t": "p",
+        "text": "No published human studies found as of November 1, 2026.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=gonadorelin%5Btiab%5D%20AND%20testosterone%5Btiab%5D%20AND%20%28replacement%5Btiab%5D%20OR%20therapy%5Btiab%5D%29",
+            "label": "PubMed search for 'gonadorelin[tiab] AND testosterone[tiab] AND (replacement[tiab] OR therapy[tiab])'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=gonadorelin%20testosterone%20replacement",
+            "label": "ClinicalTrials.gov search for 'gonadorelin testosterone replacement'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2026 narrative review of peptides used to counter TRT-related suppression of the testes said direct evidence that they restore sperm production or fertility after TRT remains limited. A 2026 review of peptides in sexual medicine noted that gonadorelin was FDA approved but is no longer manufactured.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42666625/",
+            "label": "Cretu et al., Front Reprod Health",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42862021/",
+            "label": "Vasylieva et al., Sex Med Rev",
+            "date": "published Sep 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Gonadorelin was FDA approved for people as Factrel (1982) and Lutrepulse (1989). FDA lists both as discontinued, and no human gonadorelin product is marketed. The Factrel now on DailyMed is a veterinary product for cattle. Compounded gonadorelin is not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "gonadorelin hydrochloride injection, NDA 018123, approved September 30, 1982 as a new molecular entity; now listed as discontinued (Hikma).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018123",
+                "label": "Drugs@FDA data (openFDA), Factrel (NDA 018123)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Factrel:"
+          },
+          {
+            "text": "gonadorelin acetate kit, NDA 019687 (Ferring), approved October 10, 1989; now listed as discontinued.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019687",
+                "label": "Drugs@FDA data (openFDA), Lutrepulse (NDA 019687)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Lutrepulse:"
+          },
+          {
+            "text": "the Factrel label on DailyMed (Zoetis, 2026) is for treating ovarian cysts and timing ovulation in cattle. It is not a human medicine.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1451663c-b85a-4b45-8b27-6d572d0032f9",
+                "label": "Factrel (gonadorelin) veterinary label, Zoetis, DailyMed",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Veterinary Factrel:"
+          },
+          {
+            "text": "gonadorelin does not appear in any of FDA’s 3 nomination categories for 503A bulk substances (May 14, 2026 update), and it is not on FDA’s Category 2 safety-risk page.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, 503A bulk drug substance categories (updated May 14, 2026)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "503A pharmacies:"
+          },
+          {
+            "text": "FDA lists gonadorelin acetate in 503B category 1 (under evaluation), marked as a component of FDA-approved drugs.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated March 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "503B outsourcing facilities:"
+          },
+          {
+            "text": "no FDA-approved product is labelled for use with testosterone therapy. Any such use is off-label.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018123",
+                "label": "Drugs@FDA data (openFDA), Factrel (NDA 018123)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019687",
+                "label": "Drugs@FDA data (openFDA), Lutrepulse (NDA 019687)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Use with TRT:"
+          },
+          {
+            "text": "gonadorelin is not on the DEA’s list of controlled substances.",
+            "src": [
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "No human gonadorelin product is marketed in the US or Canada; Canada lists Lutrepulse as dormant. EMA’s Article 57 data lists gonadorelin products in 5 EU member states and Northern Ireland, including a nasal product. Veterinary gonadorelin products are listed in both North American countries. It is banned in sport for men at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved in the past (Factrel 1982, Lutrepulse 1989); both human products discontinued. DailyMed lists only veterinary gonadorelin labels.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018123",
+              "label": "Drugs@FDA data (openFDA), Factrel (NDA 018123)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019687",
+              "label": "Drugs@FDA data (openFDA), Lutrepulse (NDA 019687)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1451663c-b85a-4b45-8b27-6d572d0032f9",
+              "label": "Factrel (gonadorelin) veterinary label, Zoetis, DailyMed",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Lutrepulse (human) is listed as dormant; other human products are cancelled. Several veterinary gonadorelin products are marketed.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=gonadorelin",
+              "label": "Health Canada Drug Product Database, ingredient search: gonadorelin",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=16273",
+              "label": "Health Canada Drug Product Database, Lutrepulse (DIN 02046202) status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised in Northern Ireland: EMA’s Article 57 data lists a gonadorelin injection (intravenous or under the skin) there. Great Britain was not checked separately.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in 5 member states (Austria, France, Germany, Italy, Netherlands): Kryptocur (nasal), Lutrelef, Lutrepulse and LHRH injections.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) lists gonadorelin in Schedule 4 (prescription only). The TGA’s register could not be reached.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Gonadotrophin-releasing hormone (GnRH, gonadorelin) and its agonist analogues are named under S2.2.1, testosterone-stimulating peptides in males, on the WADA 2026 Prohibited List. S2 is prohibited at all times (in and out of competition) and its substances are non-Specified. The 2027 list keeps this entry, in force January 1, 2027. WADA’s 2027 Monitoring Program adds GnRH analogues in females under 18.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Published safety data in men are thin. The human Factrel and Lutrepulse labels could not be opened, so their listed side effects are not reported here. In the pump studies, the most reported problem was skin reaction at the pump site."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "skin redness and hardening at the pump site was common with the gonadorelin pump.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30569789/",
+                "label": "Zhang et al., Am J Mens Health",
+                "date": "published Jan 2019"
+              }
+            ],
+            "lead": "Pump site:"
+          },
+          {
+            "text": "on hCG/hMG, the comparison group tended to have higher testosterone, with more facial acne and breast tenderness, than the pump group.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30569789/",
+                "label": "Zhang et al., Am J Mens Health",
+                "date": "published Jan 2019"
+              }
+            ],
+            "lead": "Compared with gonadotropins:"
+          },
+          {
+            "text": "a 2026 review found peptide safety data limited by short follow-up and small samples, with incomplete study of heart, metabolic and cancer outcomes.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42862021/",
+                "label": "Vasylieva et al., Sex Med Rev",
+                "date": "published Sep 2026"
+              }
+            ],
+            "lead": "Evidence gaps:"
+          },
+          {
+            "text": "FDA has not reviewed the safety of compounded gonadorelin.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Compounded products:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The human Factrel and Lutrepulse labels (and their approved indications) could not be opened; DailyMed holds only veterinary gonadorelin labels.",
+    "Whether gonadorelin has a USP monograph, which affects 503A compounding, was not confirmed.",
+    "The TGA’s register could not be reached.",
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s product register."
+  ],
+  "surprises": [
+    "The only Factrel label on DailyMed today is a veterinary product for cattle (Zoetis); both human gonadorelin products (Factrel and Lutrepulse) are listed by FDA as discontinued.",
+    "Gonadorelin is not in any of FDA’s 503A nomination categories, but gonadorelin acetate is in 503B category 1."
+  ]
+}

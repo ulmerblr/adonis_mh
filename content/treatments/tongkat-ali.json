@@ -1,0 +1,481 @@
+{
+  "slug": "tongkat-ali",
+  "name": "Tongkat ali (Eurycoma longifolia)",
+  "row": "Tongkat ali (Eurycoma longifolia)",
+  "aka": [
+    "Eurycoma longifolia",
+    "Longjack",
+    "Malaysian ginseng",
+    "Pasak bumi"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Small RCTs",
+    "fda": "Not a drug; supplement",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat studies of sperm, testosterone and bone",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Open-label study of 76 men (2012)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Small RCTs of 2 weeks to 6 months",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as a supplement; not reviewed by FDA",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not an approved drug",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Tongkat ali is the root of Eurycoma longifolia, a Southeast Asian plant also called Malaysian ginseng. It is used in traditional medicine and marketed for stress, strength and testosterone. In rats, compounds from the root have shown aphrodisiac and testosterone effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21671978/",
+            "label": "Tambi et al., Andrologia, 2012",
+            "date": "published May 2012"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In the US it is sold as a botanical dietary supplement. FDA does not review supplements before sale.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+            "label": "Questions and answers on dietary supplements, FDA",
+            "date": "updated Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Tongkat ali is not an approved drug. Human trials are small and short."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Human studies of tongkat ali are small, short, and mostly from Malaysia, using standardized water extracts. A 2022 meta-analysis of 5 randomized trials found higher total testosterone with tongkat ali; a 2024 systematic review rated it “possibly” useful for testosterone in some groups."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Malaysia · 2012 · Open-label, no control group",
+        "title": "Men with late-onset hypogonadism (Tambi et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label study with no placebo group"
+          },
+          {
+            "k": "People",
+            "v": "76 of 320 men with late-onset hypogonadism"
+          },
+          {
+            "k": "What was given",
+            "v": "200 mg of a standardized water extract a day"
+          },
+          {
+            "k": "Length",
+            "v": "1 month"
+          },
+          {
+            "k": "Measured",
+            "v": "Aging Males’ Symptoms score and serum testosterone"
+          }
+        ],
+        "found": "Symptom scores and testosterone improved. The share with normal testosterone went from 35.5% to 90.8%. With no placebo group, these changes cannot be separated from other causes.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21671978/",
+            "label": "Tambi et al., Andrologia, 2012",
+            "date": "published May 2012"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Placebo-controlled trial",
+        "title": "Stress hormones and mood (Talbott et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled trial"
+          },
+          {
+            "k": "People",
+            "v": "63 moderately stressed adults (32 men, 31 women)"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "salivary cortisol and testosterone; mood questionnaire"
+          }
+        ],
+        "found": "The tongkat ali group had lower tension, anger and confusion scores, 16% lower cortisol exposure and 37% higher salivary testosterone. The first author lists a supplement-information company as affiliation.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23705671/",
+            "label": "Talbott et al., J Int Soc Sports Nutr, 2013",
+            "date": "published May 2013"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Malaysia · 2021 · Randomized, double-blind trial",
+        "title": "Healthy young men, 2 weeks (Chan et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled, double-blind, matched-pair study"
+          },
+          {
+            "k": "People",
+            "v": "32 healthy men, average age 24"
+          },
+          {
+            "k": "What was given",
+            "v": "600 mg a day or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "2 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "testosterone, free testosterone, estradiol, LH, FSH, SHBG"
+          }
+        ],
+        "found": "Testosterone, free testosterone and estradiol rose more than with placebo. LH, FSH and SHBG did not change.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33559971/",
+            "label": "Chan et al., Andrologia, 2021",
+            "date": "published May 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Brazil · 2021 · Randomized, double-blind trial",
+        "title": "Exercise and tongkat ali in aging men, 6 months (Leitão et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled four-arm trial"
+          },
+          {
+            "k": "People",
+            "v": "45 men with androgen deficiency of aging, average age 47"
+          },
+          {
+            "k": "What was given",
+            "v": "200 mg tongkat ali or placebo, with or without exercise training three times a week"
+          },
+          {
+            "k": "Length",
+            "v": "6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function (IIEF-5), aging male symptoms, testosterone"
+          }
+        ],
+        "found": "Erectile function improved in both active arms, most with training plus tongkat ali. The trial had no tongkat-only-versus-training-only comparison, which the authors list as a limitation.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33541567/",
+            "label": "Leitão et al., Maturitas, 2021",
+            "date": "published Mar 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "International · 2022 · Meta-analysis",
+        "title": "Total testosterone in men (Leisegang et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review (9 studies) and meta-analysis (5 randomized trials)"
+          },
+          {
+            "k": "People",
+            "v": "healthy men and men with hypogonadism"
+          },
+          {
+            "k": "Measured",
+            "v": "total testosterone"
+          }
+        ],
+        "found": "Total testosterone was higher after tongkat ali (standardized mean difference 1.35). The authors said more research is needed before clinical use.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36013514/",
+            "label": "Leisegang et al., Medicina (Kaunas), 2022 (meta-analysis)",
+            "date": "published Aug 2022"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A 2024 systematic review of “testosterone booster” supplements found that most failed to raise total testosterone. It rated tongkat ali as “possibly effective” for men with late-onset hypogonadism and for healthy men, based on 3 studies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37697053/",
+            "label": "Morgado et al., Int J Impot Res, 2024 (systematic review)",
+            "date": "published Jun 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Tongkat ali is sold in the US as a dietary supplement. It is not an FDA-approved drug, and FDA does not review supplements for safety or effectiveness before sale. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Dietary supplement:",
+            "text": "Tongkat ali is a botanical. Under US law, a product meant to supplement the diet that contains an herb or other botanical can be sold as a dietary supplement.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "No FDA review before sale:",
+            "text": "FDA does not have the authority to approve dietary supplements before they are marketed, and a firm generally does not have to give FDA its safety evidence. FDA does not approve supplements or their labelling.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not a drug:",
+            "text": "Tongkat ali is not an FDA-approved drug for any use, including low testosterone or erectile problems.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US tongkat ali can be sold as a botanical dietary supplement. Its status in other countries was not checked against regulator records.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement; not an approved drug.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "updated Aug 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Tongkat ali (Eurycoma longifolia) is not named on the WADA 2026 Prohibited List or the 2027 list.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The small trials report few side effects, but they were short. One published case report describes acute liver injury after tongkat ali."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Liver injury, case report:",
+            "text": "a 47-year-old man developed jaundice and raised liver enzymes shortly after starting tongkat ali, and improved after stopping. The authors call it the first reported case.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38646387/",
+                "label": "Kaliounji et al., Cureus, 2024",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Hormones:",
+            "text": "in young men, estradiol rose along with testosterone over 2 weeks.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33559971/",
+                "label": "Chan et al., Andrologia, 2021",
+                "date": "published May 2021"
+              }
+            ]
+          },
+          {
+            "lead": "No pre-market review:",
+            "text": "FDA does not review dietary supplements for safety before they are sold, so product contents and strength are not checked by FDA.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "updated Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Tongkat ali's status in Canada, the UK, the EU and Australia was not checked against regulator records.",
+    "Several trials used proprietary extracts made by companies in Malaysia; who funded each trial was not checked for every study.",
+    "NIH's Office of Dietary Supplements pages could not be opened (blocked by a bot check)."
+  ],
+  "surprises": [
+    "A 2024 systematic review found most 'testosterone booster' supplements do not raise testosterone; tongkat ali was one of the few rated 'possibly' effective, on the basis of only 3 studies."
+  ]
+}

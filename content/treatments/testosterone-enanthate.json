@@ -1,0 +1,672 @@
+{
+  "slug": "testosterone-enanthate",
+  "name": "Testosterone enanthate",
+  "row": "Testosterone enanthate",
+  "aka": [
+    "Xyosted",
+    "Delatestryl",
+    "Testoviron"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "trt"
+  ],
+  "index": {
+    "evidence": "Approved; hormone trials",
+    "fda": "Approved (Xyosted)",
+    "sport": "Banned (S1)"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Before 1953 approval; not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Delatestryl injection, December 1953",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Testoviron and others in 10 EU states",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Autoinjector drug-level study, 39 men (2015)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Xyosted: 52 weeks, 150 men; 6 months, 133 men",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Xyosted autoinjector, September 2018",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Testosterone enanthate is an ester of testosterone, in oil. Attaching the ester makes it last longer in the body; it is broken down to free testosterone after injection. In the US it comes as an injection into the muscle (generic vials) and as Xyosted, a weekly autoinjector placed under the skin.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+            "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+            "date": "published May 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+            "label": "Xyosted (testosterone enanthate) label, DailyMed",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA labels:"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Testosterone drives the growth of the male sex organs and keeps up male traits such as beard and body hair, a deeper voice, and muscle and fat distribution.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          },
+          {
+            "text": "Testosterone from outside the body lowers the brain’s release of LH. At large doses it can also lower FSH and suppress sperm production.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Testosterone enanthate is approved for men with hypogonadism caused by a medical condition. Safety and efficacy in men whose testosterone is low only because of age have not been established."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Xyosted was approved on open-label trials that measured hormone levels in men with hypogonadism. The best-known older study of testosterone enanthate is a WHO trial that used weekly injections as a male contraceptive. It shows clearly what the drug does to sperm production."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2019 · Open-label, one arm, phase 3",
+        "title": "Xyosted 52-week study (Kaminetsky et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "open-label, single-arm, dose-blinded registration study (NCT02159469)"
+          },
+          {
+            "k": "People",
+            "v": "150 men with hypogonadism"
+          },
+          {
+            "k": "What was given",
+            "v": "Xyosted 75 mg under the skin once a week, adjusted to 50, 75 or 100 mg"
+          },
+          {
+            "k": "Length",
+            "v": "52 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "average testosterone over the weekly interval at week 12; peaks; side effects"
+          }
+        ],
+        "found": "The label reports 90% of men with an average testosterone in the normal range (300 to 1,100 ng/dL) at week 12; the journal paper reports 92.7%. No man had a peak above 1,500 ng/dL at week 12 on the label’s count. Raised hematocrit, high blood pressure and raised PSA were the most common side effects and led 30 men to stop. Antares Pharma, the maker, employed one author.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+            "label": "Xyosted (testosterone enanthate) label, DailyMed",
+            "date": "published Apr 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30296416/",
+            "label": "Kaminetsky et al., J Urol",
+            "date": "published Mar 2019"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Multinational · 1990 · Contraceptive efficacy study",
+        "title": "WHO male contraception study",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicentre study, 10 centres in 7 countries, no placebo"
+          },
+          {
+            "k": "People",
+            "v": "271 healthy fertile men"
+          },
+          {
+            "k": "What was given",
+            "v": "testosterone enanthate 200 mg by injection into the muscle every week"
+          },
+          {
+            "k": "Length",
+            "v": "up to 6 months to suppress sperm, then a 12-month efficacy phase"
+          },
+          {
+            "k": "Measured",
+            "v": "sperm counts, pregnancies in partners, recovery after stopping"
+          }
+        ],
+        "found": "157 men had no sperm in 3 samples in a row (65% at 6 months; mean time 120 days). In the efficacy phase there was 1 pregnancy in 1,486 months. After injections stopped, the median time to recover a sperm count of at least 20 million/mL was 3.7 months. This is an experimental use, not an approved one.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/",
+            "label": "WHO Task Force on methods for the regulation of male fertility, Lancet",
+            "date": "published Oct 1990"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Randomized, open-label, phase 2",
+        "title": "Autoinjector drug-level study (Kaminetsky et al.)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "dose-finding, open-label, parallel-group; men randomized to 2 doses"
+          },
+          {
+            "k": "People",
+            "v": "39 men with hypogonadism; a reference group stayed on 200 mg injections into the muscle"
+          },
+          {
+            "k": "What was given",
+            "v": "testosterone enanthate 50 mg or 100 mg under the skin once a week by autoinjector"
+          },
+          {
+            "k": "Length",
+            "v": "about 6 weeks to steady state"
+          },
+          {
+            "k": "Measured",
+            "v": "testosterone levels over the weekly interval; safety"
+          }
+        ],
+        "found": "Both doses kept average testosterone in the normal range over the week. Mean steady-state testosterone at week 6 was 422 ng/dL on 50 mg and 896 ng/dL on 100 mg. The authors reported no clinically significant side effects. One author worked for Antares Pharma, the maker.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26797061/",
+            "label": "Kaminetsky et al., Sex Med",
+            "date": "published Dec 2015"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Animal and lab studies"
+      },
+      {
+        "t": "p",
+        "text": "The generic label is an older-format label without new animal data. It states that testosterone from outside the body inhibits LH, and at large doses FSH, through feedback on the pituitary.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+            "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+            "date": "published May 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Testosterone enanthate is FDA approved. The first approval was Delatestryl, in December 1953; Xyosted, a weekly autoinjector, was approved in September 2018. It is a Schedule III controlled substance. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "NDA 209863 (Antares Pharma), approved September 28, 2018. Approved for testosterone replacement in adult men with primary or hypogonadotropic hypogonadism.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA209863",
+                "label": "Drugs@FDA data (openFDA), Xyosted (NDA 209863)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Xyosted (under the skin):"
+          },
+          {
+            "text": "Delatestryl, NDA 009165, approved December 24, 1953, is now listed as discontinued. Generic injections are approved, for example ANDA 091120 (Hikma, 2012).",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA009165",
+                "label": "Drugs@FDA data (openFDA), Delatestryl (NDA 009165)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA091120",
+                "label": "Drugs@FDA data (openFDA), testosterone enanthate (ANDA 091120, Hikma)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22TESTOSTERONE+ENANTHATE%22",
+                "label": "Drugs@FDA data (openFDA), all testosterone enanthate applications",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Injection into the muscle:"
+          },
+          {
+            "text": "the generic label also lists delayed puberty in carefully selected boys, and advanced breast cancer in some women, as approved uses.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "Other labeled uses:"
+          },
+          {
+            "text": "both labels say safety and efficacy have not been established in men with age-related hypogonadism. Use outside the labeled conditions is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "Not established:"
+          },
+          {
+            "text": "on February 28, 2025, FDA told makers of all testosterone products to add TRAVERSE results, remove boxed-warning language on heart outcomes, and add or update blood pressure warnings. The Xyosted label now includes TRAVERSE data. The Hikma generic label checked still says long-term heart safety trials have not been done, while also warning about blood pressure.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+                "label": "FDA class-wide labeling changes for testosterone",
+                "date": "published Feb 2025"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "2025 class labeling change:"
+          },
+          {
+            "text": "FDA lists testosterone enanthate in 503B category 1 (under evaluation), marked as a component of FDA-approved drugs.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories (updated March 21, 2025)",
+                "date": "published Mar 2025"
+              }
+            ],
+            "lead": "Outsourcing facilities (503B):"
+          },
+          {
+            "text": "yes. Both labels say the product contains testosterone, a Schedule III controlled substance.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+                "label": "DEA, Controlled Substances in alphabetical order",
+                "date": "published Oct 2026"
+              }
+            ],
+            "lead": "Controlled substance:"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Compounded drugs are not FDA approved. FDA does not verify their safety, effectiveness or quality before they are sold.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Testosterone enanthate is an approved prescription medicine in the US, Canada, Northern Ireland and 10 EU member states. Canada’s only marketed product is a generic injection; Delatestryl was cancelled there in December 2025. It is banned in sport at all times.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA / DEA",
+          "status": "Approved medicine (Delatestryl, 1953, discontinued; generic injections; Xyosted autoinjector, 2018) for male hypogonadism. Prescription-only; Schedule III.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA209863",
+              "label": "Drugs@FDA data (openFDA), Xyosted (NDA 209863)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA009165",
+              "label": "Drugs@FDA data (openFDA), Delatestryl (NDA 009165)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+              "label": "Xyosted (testosterone enanthate) label, DailyMed",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+              "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Authorised medicine: a generic testosterone enanthate injection (Hikma), marketed since January 2024, listed as a controlled drug (CDSA Schedule IV). Delatestryl was cancelled post-market in December 2025.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=testosterone%20enanthate",
+              "label": "Health Canada Drug Product Database, ingredient search: testosterone enanthate",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=102510",
+              "label": "Health Canada Drug Product Database, Testosterone Enanthate Injection USP, Hikma (DIN 02536315) status",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/schedule/?lang=en&type=json&id=102510",
+              "label": "Health Canada Drug Product Database, Hikma testosterone enanthate schedule",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=1275",
+              "label": "Health Canada Drug Product Database, Delatestryl (DIN 00029246) status",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Authorised in Northern Ireland: EMA’s Article 57 data lists a testosterone enantate injection there. Great Britain was not checked separately.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Authorised nationally in 10 member states (including Austria, France, Germany, Italy and Sweden), as injections into the muscle such as Testoviron Depot.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/other/article-57-product-data_en.xlsx",
+              "label": "EMA, Article 57 product data (all medicines authorised in the EU/EEA; data as of Oct 9, 2026)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "sources": [],
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "Australia’s Poisons Standard (October 2026) lists testosterone in Schedule 4 (prescription only) and in Appendix D, clause 5, for anabolic and androgenic steroids, which must not be possessed without authority under local law. The TGA’s register could not be reached to confirm which products are registered.",
+          "src": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Testosterone is named under class S1.1, anabolic androgenic steroids, on the WADA 2026 Prohibited List, when given from outside the body; the class covers its esters. S1 is prohibited at all times (in and out of competition) and its substances are non-Specified. Testosterone stays named in S1.1 on the 2027 list, in force January 1, 2027.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Testosterone enanthate has testosterone’s class risks: raised red cell counts, blood clots, higher blood pressure, prostate effects and suppressed sperm production. In the WHO study, weekly injections stopped sperm production in most healthy men; it came back after stopping."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Xyosted raised average systolic/diastolic blood pressure by 3.9/1.5 mm Hg after 12 weeks. High blood pressure was reported in 12.7% of men in the 1-year study. In TRAVERSE, a trial of testosterone gel, major heart events were 7% vs 7.3% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Blood pressure:"
+          },
+          {
+            "text": "raised hematocrit was the most common side effect of Xyosted in the 1-year study (14.0%). A rise in red cell mass may raise the risk of blood clots. Clots in the legs and lungs have been reported with testosterone enanthate.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "Blood and clots:"
+          },
+          {
+            "text": "reduced fertility is seen in some men on testosterone, and the Xyosted label says the effect may be irreversible. In the WHO study, 65% of healthy men had no sperm by 6 months; sperm counts recovered after a median of 3.7 months off injections.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/",
+                "label": "WHO Task Force on methods for the regulation of male fertility, Lancet",
+                "date": "published Oct 1990"
+              }
+            ],
+            "lead": "Fertility:"
+          },
+          {
+            "text": "raised PSA (12.0%) and prostatitis were reported with Xyosted. Older men may have a higher risk of an enlarged prostate and prostate cancer on androgens. Testosterone must not be used by men with breast cancer or known or suspected prostate cancer.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "Prostate:"
+          },
+          {
+            "text": "the Xyosted label warns that depression, suicidal thoughts and behaviour, including completed suicide, occurred in its trials.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Mood:"
+          },
+          {
+            "text": "injection site bruising and bleeding, headache and back pain were common with Xyosted. The generic label lists breast growth, acne, more frequent or prolonged erections, changes in libido, swelling, liver effects (including rare liver tumours and peliosis hepatis with long high-dose use) and, rarely, allergic reactions.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              }
+            ],
+            "lead": "Other side effects:"
+          },
+          {
+            "text": "in children it can close the growth plates early and reduce adult height. It must not be used in pregnancy, because it can masculinize a female fetus. Abuse at high doses has caused serious heart and mental health effects.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e89d6458-428c-4256-97a3-f1fa851293c1",
+                "label": "Testosterone enanthate injection label (Hikma), DailyMed",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8a3d204c-be26-49e0-8599-0ac12a272e81",
+                "label": "Xyosted (testosterone enanthate) label, DailyMed",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Also listed:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The TGA’s register could not be reached, so Australian product registrations were not confirmed.",
+    "Great Britain (outside Northern Ireland) was not checked on the MHRA’s own product register.",
+    "Drugs@FDA’s web pages redirected automated requests; approval dates come from FDA’s openFDA copy of Drugs@FDA."
+  ],
+  "surprises": [
+    "The Hikma generic testosterone enanthate label on DailyMed (May 2026) still says long-term heart safety trials have not been done, unlike the Xyosted label, which includes the TRAVERSE results FDA asked all makers to add in 2025.",
+    "Delatestryl, the first US testosterone enanthate brand (1953), is discontinued in the US and was cancelled in Canada in December 2025."
+  ]
+}
