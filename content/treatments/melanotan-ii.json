@@ -391,7 +391,7 @@
       }
     ],
     "world": {
-      "lead": "Melanotan II is not an approved medicine in the US, Canada, the EU or Australia, as far as the records we opened show. Health Canada names it in a 2026 warning about unauthorized peptides. Australia lists it as a prescription-only substance.",
+      "lead": "Melanotan II is not an approved medicine in the US, Canada, the EU or Australia, as far as the records we opened show. Health Canada names it in a 2026 warning about unauthorized peptides. Australia lists it as a prescription-only substance. It is not named on WADA’s list. WADA’s class for unapproved drugs (S0) may cover it, but WADA has not said so.",
       "countries": [
         {
           "country": "United States",
@@ -517,7 +517,7 @@
         {
           "t": "card",
           "title": "Sport",
-          "text": "Melanotan II is not named on the WADA 2026 Prohibited List. The list’s class S0 bans, at all times, any drug not covered by another class that has no current approval by any government health authority for human use. We found no such approval for Melanotan II, so S0’s wording would cover it, but WADA has not named it. The 2027 List, which takes effect January 1, 2027, adds “peptides” to S0’s examples.",
+          "text": "Melanotan II is not named on the WADA 2026 Prohibited List. The list’s class S0 bans, at all times, any drug not covered by another class that has no current approval by any government health authority for human use. We found no such approval for Melanotan II, so that class’s wording may cover it. WADA has not ruled on it. The 2027 List, which takes effect January 1, 2027, adds “peptides” to S0’s examples.",
           "src": [
             {
               "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",

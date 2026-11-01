@@ -1,9 +1,27 @@
-# Coverage list (EDU PROMPT 22)
+# Coverage list (EDU PROMPT 22, updated EDU PROMPT 23)
+
+## Standing rules (hold from now on)
+A. Medicine only. The site covers drugs, peptides, hormones and supplements: things a man takes. No devices, no
+   procedures, no stem cell or exosome products.
+B. Clinical lanes are fixed. The original 37 rows (the rows on the site before EDU PROMPT 15, taken from Adonis
+   Clinical's lanes) never leave their lane. They may get a second row in another lane, but they are never moved out of
+   their original one. Only treatments outside that original 37 may change lanes. The original 37, by lane:
+   - TRT: Testosterone; Enclomiphene; Anastrozole; Human chorionic gonadotropin (hCG)
+   - Weight: Semaglutide; Tirzepatide
+   - Recovery: BPC-157
+   - Vitality: Sildenafil; Tadalafil; Vardenafil; Oxytocin; Bremelanotide (PT-141)
+   - Energy: Vitamin B12; Vitamin B6 (pyridoxine); Methionine; Inositol; Choline; L-carnitine
+   - Sleep: Sermorelin; Glycine
+   - Hair loss: Finasteride; Minoxidil; Latanoprost; Ketoconazole; Tretinoin; Biotin
+   - Skin: Tretinoin; Azelaic acid; Niacinamide; Doxycycline; GHK-Cu (copper peptide)
+   - Longevity: NAD+; Nicotinamide riboside; Glutathione; Metformin; GHK-Cu (copper peptide); Sermorelin
+
+Lanes (EDU PROMPT 23): TRT, Weight, Recovery, Vitality, Energy, Brain, Sleep, Hair loss, Skin, Longevity.
 
 Every treatment a man is likely to run into for men's health in the nine lanes, whatever its status: FDA approved (for any
 use), compounded, approved only outside the US, in clinical trials, sold "for research use only", or sold as a dietary
 supplement. One row per active ingredient; brands go on the page. A treatment that fits two lanes gets one page and a row
-in each lane. Devices and procedures are left out. Everything already on the site is skipped (the 47 existing rows).
+in each lane. Devices and procedures are not covered (rule A). Everything already on the site is skipped (the 47 existing rows).
 
 How the list was built (checked Nov 1, 2026):
 - The seeds in EDU PROMPT 22.
@@ -80,18 +98,28 @@ plant extracts and supplements.
 - L-citrulline — peptide: no — dietary supplement marketed for erections.
 - Kisspeptin — second row (page under TRT).
 
-## Energy (including brain and focus)
+## Energy
+- Ashwagandha — peptide: no — dietary supplement marketed for stress, energy and testosterone.
+(Selank, Dihexa, Cerebrolysin, Pinealon, Noopept, Piracetam, Modafinil, Armodafinil, Alpha-GPC and Methylene blue, built
+under Energy in EDU PROMPT 22, moved to Brain in EDU PROMPT 23, with Semax.)
+
+## Brain (EDU PROMPT 23)
+- Semax — peptide: yes — moved from Energy; Russian-registered nasal peptide; HHS compounding discretion since Oct 2026.
 - Selank — peptide: yes — Russian-registered peptide sold for anxiety and focus; formerly FDA Category 2.
 - Dihexa — peptide: yes (peptide-derived) — sold for cognition; formerly FDA Category 2; no human data per FDA.
 - Cerebrolysin — peptide: yes (pig-brain peptide mixture) — approved in some countries outside the US; sold for focus.
 - Pinealon — peptide: yes — short peptide sold for brain health; Russian research.
 - Noopept — peptide: yes (dipeptide derivative) — sold for focus; registered in Russia.
+- Piracetam — peptide: no — approved in some countries outside the US; not approved in the US; sold for focus.
 - Modafinil — peptide: no — FDA-approved wakefulness drug (Provigil), widely used off-label for focus; Schedule IV.
 - Armodafinil — peptide: no — FDA-approved wakefulness drug (Nuvigil); Schedule IV.
-- Piracetam — peptide: no — approved in some countries outside the US; not approved in the US; sold for focus.
-- Methylene blue — peptide: no — FDA-approved (ProvayBlue) for methemoglobinemia; marketed to men for energy and focus.
 - Alpha-GPC — peptide: no — dietary supplement marketed for focus and strength.
-- Ashwagandha — peptide: no — dietary supplement marketed for stress, energy and testosterone.
+- Methylene blue — peptide: no — FDA-approved (ProvayBlue) for methemoglobinemia; marketed to men for energy and focus.
+- P21 (P021) — peptide: yes — compound built from part of ciliary neurotrophic factor (CNTF); mouse studies only; sold for cognition.
+- Ketamine — peptide: no — FDA-approved anesthetic; used off-label for depression; DEA Schedule III.
+- Esketamine (Spravato) — peptide: no — FDA-approved nasal spray for treatment-resistant depression, under a REMS.
+- Psilocybin — peptide: no — DEA Schedule I; in clinical trials for depression; state programs in Oregon and Colorado.
+- Kratom — peptide: no — not FDA approved; FDA warnings and import alerts; sold for mood, energy and pain.
 
 ## Sleep
 - Emideltide (DSIP) — peptide: yes — rejected by FDA's advisory committee in July 2026; sold for sleep.
@@ -139,11 +167,3 @@ plant extracts and supplements.
 
 ## Not built: no lane fits
 - Tranilast (FDA Category 2): an anti-allergy drug approved in Japan; not a men's-health treatment.
-- Ketamine and esketamine (Spravato), psilocybin: marketed to men for mood and depression; suggest a future "Mood" lane.
-- Kratom: sold for energy and pain, but marketed mainly as an opioid substitute; suggest a future "Mood" or "Pain" lane.
-
-## Left out: devices and procedures (for later)
-- PRP injections (hair, joints, "P-shot"); low-intensity shockwave therapy for ED; penile implants; vacuum erection devices;
-  hair transplant; low-level laser caps and red-light panels; microneedling; IV drip "therapy" as a method; hyperbaric
-  oxygen; testosterone pellet insertion as a procedure (the pellet drug, Testopel, belongs on the Testosterone page);
-  stem cell and exosome products (FDA-regulated biologics sold by clinics; a candidate for a later page).

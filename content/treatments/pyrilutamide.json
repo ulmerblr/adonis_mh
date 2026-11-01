@@ -295,7 +295,7 @@
       }
     ],
     "world": {
-      "lead": "Pyrilutamide is an investigational drug. No approval was found in the US, Canada or the EU. Its late-stage trials are in China.",
+      "lead": "Pyrilutamide is an investigational drug. No approval was found in the US, Canada or the EU. Its late-stage trials are in China. It is not named on WADA’s list. WADA’s class for unapproved drugs (S0) may cover it, but WADA has not said so.",
       "countries": [
         {
           "country": "United States",
@@ -414,7 +414,7 @@
         {
           "t": "card",
           "title": "Sport",
-          "text": "Pyrilutamide is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. The lists' class S0 bans, at all times, any pharmacological substance not covered by another class that has no current approval by any government health authority for human therapeutic use, including drugs in development or discontinued. No such approval was found for Pyrilutamide, but WADA has not published a ruling naming it.",
+          "text": "Pyrilutamide is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. The lists' class S0 bans, at all times, any pharmacological substance not covered by another class that has no current approval by any government health authority for human therapeutic use, including drugs in development or discontinued. No such approval was found for Pyrilutamide, so that class’s wording may cover it. WADA has not ruled on it.",
           "src": [
             {
               "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
