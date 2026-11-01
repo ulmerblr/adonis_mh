@@ -1,0 +1,451 @@
+{
+  "slug": "l-citrulline",
+  "name": "L-citrulline",
+  "row": "L-citrulline",
+  "aka": [
+    "Citrulline"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "2 small pilot studies",
+    "fda": "Not a drug for ED",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat erection studies, 2013 and 2014",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "24-man single-blind study, 2011",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "None found for ED",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found; one tadalafil comparison recruiting",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved for any use",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as an amino acid; FDA does not review first",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "L-citrulline is an amino acid. The body converts it into L-arginine, which is used to make nitric oxide, a messenger that relaxes blood vessels. Researchers study it because, taken by mouth, it raises arginine levels without being broken down as much in the gut and liver as arginine itself.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21195829/",
+            "label": "Cormio L, et al. Urology 2011",
+            "date": "published Jan 2011"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23844604/",
+            "label": "Shiota A, et al. J Sex Med 2013",
+            "date": "published Oct 2013"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Under US law, a product containing an amino acid and meant to supplement the diet can be sold as a dietary supplement.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "There is little research on L-citrulline for erectile dysfunction: one small study of citrulline alone and one of citrulline combined with resveratrol."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Two small human studies were found. One gave L-citrulline alone to 24 men with mild ED for one month, without a full placebo control group. The other gave it with resveratrol to 20 men already using PDE5 drugs. The rest of the evidence is in rats. A trial comparing L-citrulline with tadalafil began recruiting in Egypt in 2026."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2011 · Single-blind sequence",
+        "title": "Men with mild ED, 2011",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-blind: one month of placebo, then one month of L-citrulline (not randomized)"
+          },
+          {
+            "k": "People",
+            "v": "24 men with mild ED, mean age 56.5"
+          },
+          {
+            "k": "Length",
+            "v": "2 months; 1.5 g a day in the citrulline month"
+          },
+          {
+            "k": "Measured",
+            "v": "erection hardness score, number of times having sex, satisfaction, side effects"
+          }
+        ],
+        "found": "Erection hardness rose from mild ED to normal in 2 of 24 men on placebo and 12 of 24 on L-citrulline. Sex rose from about 1.4 to 2.3 times a month. No side effects were reported. The authors wrote that it was less effective than PDE5 drugs.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21195829/",
+            "label": "Cormio L, et al. Urology 2011",
+            "date": "published Jan 2011"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Japan · 2018 · Randomized crossover pilot",
+        "title": "With resveratrol in men already on PDE5 drugs, 2018",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled crossover pilot"
+          },
+          {
+            "k": "People",
+            "v": "20 men with ED despite PDE5 drugs; 13 completed"
+          },
+          {
+            "k": "Length",
+            "v": "one month each; L-citrulline 800 mg and resveratrol 300 mg a day, with their usual PDE5 drug"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function score (SHIM), erection hardness, ageing-male sexual score"
+          }
+        ],
+        "found": "The SHIM score was higher on the combination than on placebo. Erection hardness and the ageing-male score did not change significantly. Because citrulline was combined with resveratrol, the study cannot show the effect of citrulline alone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30150102/",
+            "label": "Shirai M, et al. Sex Med 2018",
+            "date": "published Dec 2018"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Egypt · 2026 · Randomized Phase 4",
+        "title": "L-citrulline vs tadalafil vs both (registered)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-dummy, three parallel groups"
+          },
+          {
+            "k": "People",
+            "v": "133 men with mild to moderate ED planned"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks; L-citrulline 1,500 mg a day, tadalafil 5 mg, or both"
+          },
+          {
+            "k": "Sponsor",
+            "v": "Beni-Suef University"
+          }
+        ],
+        "found": "Recruiting since June 2026. No results posted.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07642505",
+            "label": "NCT07642505, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "h3",
+        "text": "Animal studies"
+      },
+      {
+        "t": "p",
+        "text": "In rats with blocked pelvic arteries, L-citrulline in drinking water for 3 weeks improved erection pressure during nerve stimulation. These results have not been confirmed in people.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23844604/",
+            "label": "Shiota A, et al. J Sex Med 2013",
+            "date": "published Oct 2013"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search finds 12 papers with citrulline and erectile in the title, and ClinicalTrials.gov lists 2 studies for “citrulline erectile,” one withdrawn.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=citrulline%5Bti%5D+AND+erectile",
+            "label": "PubMed search for 'citrulline[ti] AND erectile'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=citrulline%20erectile",
+            "label": "ClinicalTrials.gov search for 'citrulline erectile'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "L-citrulline is not an FDA-approved drug for any use. It can be sold as a dietary supplement, which FDA does not approve or review for safety or effectiveness before sale. FDA is evaluating it as a substance for compounding. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. A search of Drugs@FDA data for citrulline finds no matches.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"CITRULLINE\"",
+                "label": "Drugs@FDA data (openFDA), search for citrulline (no matches)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "FDA approval:"
+          },
+          {
+            "text": "amino acids are dietary ingredients under the law that defines dietary supplements. FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Dietary supplement:"
+          },
+          {
+            "text": "L-citrulline is on FDA’s 503A and 503B lists of nominated substances under evaluation (Category 1). That is a review, not approval. Compounded drugs are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94155/download",
+                "label": "FDA, bulk drug substances nominated under section 503A (categories list)",
+                "date": "published May 2026"
+              },
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories list)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Compounding:"
+          },
+          {
+            "text": "FDA rules say an over-the-counter product labelled to improve sexual performance is a new drug that needs FDA approval.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-310.528",
+                "label": "21 CFR 310.528, OTC aphrodisiac drug products, eCFR",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Sexual-performance claims:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US L-citrulline can be sold as an amino acid dietary supplement; it is not an approved medicine. We did not confirm its status in other countries.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement. Not an approved drug. Under evaluation for compounding (Category 1).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.fda.gov/media/94155/download",
+              "label": "FDA, bulk drug substances nominated under section 503A (categories list)",
+              "date": "published May 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "L-citrulline is not named on the WADA 2026 Prohibited List or the 2027 List, and it does not fall in any listed class.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The two small human studies reported no side effects, but they were short and tiny. As a supplement, L-citrulline is not reviewed by FDA for safety before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "no adverse events were reported in the 24-man study or in the 13 men who completed the 2018 pilot.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/21195829/",
+                "label": "Cormio L, et al. Urology 2011",
+                "date": "published Jan 2011"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30150102/",
+                "label": "Shirai M, et al. Sex Med 2018",
+                "date": "published Dec 2018"
+              }
+            ],
+            "lead": "In studies:"
+          },
+          {
+            "text": "FDA does not approve dietary supplements before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Supplements:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The Office of Dietary Supplements site blocked automated requests, so ODS statements on L-citrulline are not cited.",
+    "Status in Canada, the UK, the EU and Australia was not confirmed."
+  ],
+  "surprises": []
+}

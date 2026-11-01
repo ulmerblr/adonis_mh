@@ -1,0 +1,526 @@
+{
+  "slug": "dapoxetine",
+  "name": "Dapoxetine",
+  "row": "Dapoxetine",
+  "aka": [
+    "Priligy",
+    "Dapoxetine hydrochloride"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "5 Phase III RCTs",
+    "fda": "Not approved in US",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat ejaculation-reflex studies (EU label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Healthy-volunteer studies (EU label)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "No Phase II report found in records read",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "Five placebo-controlled RCTs, 6,081 men",
+      "status": "done"
+    },
+    {
+      "title": "Approved outside the US",
+      "line": "Priligy: Spain 2009, Ireland 2012",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; no record in Drugs@FDA",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Dapoxetine is a short-acting SSRI (selective serotonin reuptake inhibitor), the same drug family as many antidepressants. It is a tablet, sold in Europe under the brand Priligy, and approved for use as needed before sex rather than every day.",
+        "src": [
+          {
+            "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+            "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+            "date": "revised Jun 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Ejaculation is controlled by a reflex centre in the spinal cord. The European label says dapoxetine is thought to act by blocking the reuptake of serotonin, a nerve messenger, which delays this reflex. In rats it slowed the ejaculation reflex.",
+        "src": [
+          {
+            "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+            "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+            "date": "revised Jun 2021"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "In Europe it is approved only for premature ejaculation (PE) in men aged 18 to 64 who meet strict criteria, including ejaculating within 2 minutes of penetration, with marked distress and poor control.",
+        "src": [
+          {
+            "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+            "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+            "date": "revised Jun 2021"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Dapoxetine is approved in Spain, Ireland and other countries, but it is not approved in the US."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Dapoxetine was tested in five randomized, double-blind, placebo-controlled Phase III trials with 6,081 men in more than 25 countries, lasting 9 to 24 weeks. The main measure was time from penetration to ejaculation, timed by stopwatch. The trials were run by the drug’s developers (ALZA, then Johnson & Johnson)."
+      },
+      {
+        "t": "h3",
+        "text": "Phase III trials"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2006 · Two RCTs, pooled",
+        "title": "Two US trials, 2,614 men, 12 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "two identical randomized, double-blind, placebo-controlled Phase III trials, analyzed together"
+          },
+          {
+            "k": "People",
+            "v": "men with moderate-to-severe PE in stable relationships: 870 placebo, 874 on 30 mg, 870 on 60 mg; 121 US sites"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks, taken 1 to 3 hours before sex"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation by stopwatch; side effects"
+          }
+        ],
+        "found": "Average time to ejaculation rose from about 0.9 minutes to 1.75 minutes on placebo, 2.78 minutes on 30 mg and 3.32 minutes on 60 mg. Nausea was the most common side effect (8.7% on 30 mg, 20.1% on 60 mg).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16962882/",
+            "label": "Pryor JL, et al. Lancet 2006",
+            "date": "published Sep 2006"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00211107",
+            "label": "NCT00211107, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00211094",
+            "label": "NCT00211094, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "22 countries · 2009 · RCT",
+        "title": "International trial, 1,162 men, 24 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase III trial"
+          },
+          {
+            "k": "People",
+            "v": "1,162 men with PE in long-term relationships; 618 completed"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation by stopwatch; control, distress and satisfaction scores; side effects"
+          }
+        ],
+        "found": "Average time rose from 0.9 minutes to 1.9 minutes on placebo, 3.2 minutes on 30 mg and 3.5 minutes on 60 mg. Side effects led 1.3%, 3.9% and 8.2% of men to stop. The European label reports that 28.4% (30 mg) and 35.5% (60 mg) rated their PE “better” or “much better” at 24 weeks, versus 14% on placebo.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19195772/",
+            "label": "Buvat J, et al. Eur Urol 2009",
+            "date": "published Apr 2009"
+          },
+          {
+            "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+            "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+            "date": "revised Jun 2021"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Asia-Pacific · 2010 · RCT",
+        "title": "Asia-Pacific trial, 1,067 men, 12 weeks",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled Phase III trial"
+          },
+          {
+            "k": "People",
+            "v": "1,067 men with PE in monogamous relationships; 858 completed"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation by stopwatch; PE scores; side effects"
+          }
+        ],
+        "found": "Average time rose from about 1.1 minutes to 2.4 minutes on placebo, 3.9 minutes on 30 mg and 4.2 minutes on 60 mg. Side effects led 0.3%, 1.7% and 5.1% to stop.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19878447/",
+            "label": "McMahon C, et al. J Sex Med 2010",
+            "date": "published Jan 2010"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "25+ countries · 2011 · Pooled analysis",
+        "title": "All five Phase III trials together, 6,081 men",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "pooled analysis of five randomized, placebo-controlled trials"
+          },
+          {
+            "k": "People",
+            "v": "6,081 men with PE"
+          },
+          {
+            "k": "Length",
+            "v": "9 to 24 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "time to ejaculation, PE scores, mood and withdrawal checks, side effects"
+          }
+        ],
+        "found": "At 12 weeks, average time was 1.9 minutes on placebo, 3.1 minutes on 30 mg and 3.6 minutes on 60 mg, from 0.9 minutes at the start. The most common side effects were nausea, dizziness and headache. The authors found no anxiety, suicidality or withdrawal syndrome on the scales they used.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21059176/",
+            "label": "McMahon CG, et al. J Sex Med 2011",
+            "date": "published Feb 2011"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Men with erectile dysfunction or other sexual problems, and men with heart disease, were left out of the Phase III trials.",
+        "src": [
+          {
+            "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+            "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+            "date": "revised Jun 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Dapoxetine is not FDA approved. Drugs@FDA has no record of any dapoxetine product. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. A search of Drugs@FDA data for dapoxetine finds no matches.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"DAPOXETINE\"",
+                "label": "Drugs@FDA data (openFDA), search for dapoxetine (no matches)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "FDA approval:"
+          },
+          {
+            "text": "the two 12-week Phase III trials in 2,614 men were run at 121 US sites and published in 2006. Their report noted that no drug was approved for premature ejaculation at the time.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16962882/",
+                "label": "Pryor JL, et al. Lancet 2006",
+                "date": "published Sep 2006"
+              }
+            ],
+            "lead": "US trials:"
+          },
+          {
+            "text": "compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Compounding:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Dapoxetine (Priligy) is an approved, prescription-only medicine in Spain (since 2009) and Ireland (since 2012), through national approvals rather than one EU-wide approval. It is prescription-only in Australia. It is not approved in the US, and Canada’s drug database lists no dapoxetine product.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. No dapoxetine product in Drugs@FDA.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"DAPOXETINE\"",
+              "label": "Drugs@FDA data (openFDA), search for dapoxetine (no matches)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized: Health Canada’s Drug Product Database lists no dapoxetine product.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=dapoxetine",
+              "label": "Health Canada Drug Product Database, active ingredient search for dapoxetine",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU (Spain, Ireland)",
+          "regulator": "AEMPS / HPRA / EMA",
+          "status": "Approved nationally as Priligy 30 mg and 60 mg tablets for premature ejaculation, prescription-only: Spain since April 2009, Ireland since March 2012. No EMA (EU-wide) authorisation. Other member states not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://cima.aemps.es/cima/rest/medicamentos?nombre=priligy",
+              "label": "AEMPS (Spain) CIMA medicines register, Priligy",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+              "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+              "date": "revised Jun 2021"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), authorised human medicines list",
+              "date": "published Nov 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only substance (Schedule 4) in the Poisons Standard. We could not open the TGA register to check for an approved product.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Dapoxetine is not named on the WADA 2026 Prohibited List or the 2027 List, which takes effect January 1, 2027. It does not fall in any listed class, and S0 covers only drugs with no approval anywhere, which does not apply to dapoxetine.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The European label lists fainting (syncope) and a drop in blood pressure on standing as the main warnings. Nausea, dizziness, headache and diarrhoea were the most common side effects in the Phase III trials, and all were more common at 60 mg than 30 mg."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "nausea 11.0% / 22.2%, dizziness 5.8% / 10.9%, headache 5.6% / 8.8%, diarrhoea 3.5% / 6.9%, insomnia 2.1% / 3.9%, tiredness 2.0% / 4.1%.",
+            "src": [
+              {
+                "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+                "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+                "date": "revised Jun 2021"
+              }
+            ],
+            "lead": "Most common (Phase III, 30 mg / 60 mg):"
+          },
+          {
+            "text": "loss of consciousness, sometimes with a slow heart or a pause in heartbeat, mostly within 3 hours of the first dose. It occurred in 0.06% (30 mg) to 0.23% (60 mg) of men in the Phase III trials and 0.64% of healthy volunteers in Phase I studies. Warning signs included nausea, dizziness, sweating and palpitations.",
+            "src": [
+              {
+                "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+                "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+                "date": "revised Jun 2021"
+              }
+            ],
+            "lead": "Fainting:"
+          },
+          {
+            "text": "reported in trials. The label says a lying-and-standing blood pressure and pulse test should be done before starting, and men with past reactions of this kind should not use it.",
+            "src": [
+              {
+                "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+                "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+                "date": "revised Jun 2021"
+              }
+            ],
+            "lead": "Low blood pressure on standing:"
+          },
+          {
+            "text": "alcohol can add to dizziness and fainting. Use with recreational drugs such as MDMA, ketamine or LSD can cause serious reactions, including serotonin syndrome.",
+            "src": [
+              {
+                "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+                "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+                "date": "revised Jun 2021"
+              }
+            ],
+            "lead": "Alcohol and drugs:"
+          },
+          {
+            "text": "lower libido, anorgasmia, anxiety and insomnia are listed. The label also lists depression and mood changes among less common effects.",
+            "src": [
+              {
+                "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+                "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+                "date": "revised Jun 2021"
+              }
+            ],
+            "lead": "Sexual and mood effects:"
+          },
+          {
+            "text": "men with significant heart disease, a history of fainting, mania or severe depression, and men taking MAO inhibitors, other SSRIs or certain other drugs.",
+            "src": [
+              {
+                "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html",
+                "label": "Priligy summary of product characteristics (Spanish), AEMPS CIMA",
+                "date": "revised Jun 2021"
+              }
+            ],
+            "lead": "Who should not use it (label):"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "MHRA’s product database could not be opened, so the UK status is not stated.",
+    "Australia’s TGA register (ARTG) did not load; only the Poisons Standard was checked.",
+    "We could not find an FDA record of any dapoxetine application or FDA decision on one.",
+    "We checked national approvals only in Spain and Ireland; other EU member states were not checked."
+  ],
+  "surprises": [
+    "Dapoxetine’s largest trials were run in the US, but it has never been approved there."
+  ]
+}

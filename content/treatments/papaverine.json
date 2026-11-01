@@ -1,0 +1,647 @@
+{
+  "slug": "papaverine",
+  "name": "Papaverine",
+  "row": "Papaverine",
+  "aka": [
+    "Papaverine hydrochloride",
+    "Bimix",
+    "Trimix"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Small, older ED studies",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Relaxes smooth muscle directly (label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "1982 Lancet letter on penile injection",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "No formal Phase I for ED found",
+      "status": "not"
+    },
+    {
+      "title": "Phase II",
+      "line": "Small comparison studies in the 1990s",
+      "status": "done",
+      "here": true
+    },
+    {
+      "title": "Phase III",
+      "line": "No Phase III ED trial found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Never approved; sold as an unapproved drug",
+      "status": "not"
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Papaverine is an alkaloid obtained from opium or made synthetically. The label says it lacks the chemical ring (phenanthrene group) found in morphine and codeine, and has minimal effects on the brain. In the US it is sold as a prescription injection for spasm of smooth muscle, but this injection has never been FDA approved.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+            "label": "Papaverine HCl injection label (American Regent), Description",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PAPAVERINE*&limit=100",
+            "label": "openFDA (Drugs@FDA data): search for papaverine products, no match",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Papaverine relaxes smooth muscle directly, especially in large arteries and when the muscle is in spasm. This includes blood vessels and the gut, bile and urinary tracts.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Clinical pharmacology",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "text": "It is broken down in the liver, and about 90% is bound to blood proteins.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Clinical pharmacology",
+                "date": "published Jul 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "For erectile dysfunction (ED), papaverine has been injected into the penis (intracavernosal injection), alone, mixed with phentolamine, or mixed with phentolamine and alprostadil (\"Trimix\"). These mixes are compounded and are not FDA approved. Two-drug mixes are called \"Bimix\" in some papers, but the name does not mean one recipe: one 2025 paper used it for papaverine with chlorpromazine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+            "label": "Seyam et al., Int J Impot Res, PubMed",
+            "date": "published Jul 2005"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38660738/",
+            "label": "Furtado et al., J Sex Med, PubMed",
+            "date": "published May 2024"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40745875/",
+            "label": "Abdullahi et al., Niger Postgrad Med J, PubMed",
+            "date": "published Jul 2025"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "A 1982 letter in The Lancet reported injecting papaverine into the penis for ED. The published human studies found are small comparisons from the 1990s and 2000s. No large placebo-controlled trial of papaverine for ED, alone or in a mix, was found."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "p",
+        "text": "That report was a one-page letter in The Lancet in 1982 by R. Virag on injecting papaverine into the penis for erectile failure. PubMed has no abstract, and the full letter was not read here.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6126784/",
+            "label": "Virag, Lancet, PubMed",
+            "date": "published Oct 1982"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "1997 · Randomized, with placebo",
+        "title": "Papaverine plus phentolamine vs alprostadil (J Urol 1997)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Bechara A, Casabé A, Chéliz G, et al. J Urol 1997;157(6):2132-4"
+          },
+          {
+            "k": "Design",
+            "v": "randomized into 6 groups, each tested with both solutions and placebo, 1 week apart"
+          },
+          {
+            "k": "People",
+            "v": "60 men (mean age 58) with ED for more than 6 months, during erection testing"
+          },
+          {
+            "k": "What was given",
+            "v": "1 mL of papaverine 30 mg/mL plus phentolamine 0.5 mg/mL, or 1 mL of alprostadil 30 micrograms/mL, injected into the penis"
+          },
+          {
+            "k": "Length",
+            "v": "single test injections"
+          },
+          {
+            "k": "Measured",
+            "v": "erection good enough for penetration; short-term side effects"
+          }
+        ],
+        "found": "54% responded to papaverine plus phentolamine and 50% to alprostadil (not significantly different). Prolonged erection occurred in 18% and 15%. Pain was reported by 15% with papaverine plus phentolamine and 35% with alprostadil (P < 0.05).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9146599/",
+            "label": "Bechara et al., J Urol, PubMed",
+            "date": "published Jun 1997"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Saudi Arabia · 2005 · Randomized comparison",
+        "title": "Trimix doses vs alprostadil alone (Int J Impot Res 2005)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Seyam R, Mohamed K, Akhras AA, Rashwan H. Int J Impot Res 2005;17(4):346-53"
+          },
+          {
+            "k": "Design",
+            "v": "prospective; 9 groups of Trimix doses; each man got alprostadil 20 micrograms and one Trimix dose, 1 week apart"
+          },
+          {
+            "k": "People",
+            "v": "180 men with ED; mean age 50.5"
+          },
+          {
+            "k": "What was given",
+            "v": "Trimix (phentolamine 1 mg, alprostadil 2.5 to 10 micrograms, papaverine 5 to 20 mg) vs alprostadil alone"
+          },
+          {
+            "k": "Length",
+            "v": "two clinic visits"
+          },
+          {
+            "k": "Measured",
+            "v": "penile artery flow on ultrasound, rigidity, satisfaction, side effects"
+          }
+        ],
+        "found": "Blood flow, rigidity, pain and satisfaction did not differ significantly. Trimix gave longer erections and more priapism than alprostadil alone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+            "label": "Seyam et al., Int J Impot Res, PubMed",
+            "date": "published Jul 2005"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1998 · Retrospective record review",
+        "title": "Liver tests during papaverine self-injection (Urology 1998)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Brown SL, Haas CA, Koehler M, et al. Urology 1998;52(5):844-7"
+          },
+          {
+            "k": "Design",
+            "v": "review of records, October 1994 to June 1996, with an age-matched comparison group"
+          },
+          {
+            "k": "People",
+            "v": "30 men injecting papaverine or papaverine/phentolamine; 20 men without ED"
+          },
+          {
+            "k": "Length",
+            "v": "mean follow-up 18 months"
+          },
+          {
+            "k": "Measured",
+            "v": "liver function tests"
+          }
+        ],
+        "found": "2 of 30 men (6.7%) had raised liver tests during treatment; both had a history of alcohol abuse and neither had symptoms. 1 of 20 men in the comparison group had a raised bilirubin.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9801111/",
+            "label": "Brown et al., Urology, PubMed",
+            "date": "published Nov 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2024 · Retrospective record review",
+        "title": "Errors in an injection program (J Sex Med 2024)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Furtado TP, Teloken PE, Ortega Y, et al. J Sex Med 2024;21(6):529-32"
+          },
+          {
+            "k": "Design",
+            "v": "review of records of men using injections for 6 months or more at one cancer center"
+          },
+          {
+            "k": "People",
+            "v": "1,368 men; agents used were Trimix (62%), Bimix (35%), papaverine alone (2%) and alprostadil alone (1%)"
+          },
+          {
+            "k": "Length",
+            "v": "mean follow-up 3.2 years"
+          },
+          {
+            "k": "Measured",
+            "v": "self-injection errors"
+          }
+        ],
+        "found": "42% of men made at least one error. Errors that can lead to priapism included changing their own dose (5%) and injecting twice (4%). Younger age, graduate education and under 12 months of use predicted major errors.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38660738/",
+            "label": "Furtado et al., J Sex Med, PubMed",
+            "date": "published May 2024"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "No papaverine product is FDA approved. Papaverine injection is sold by prescription as an unapproved drug, and its label says it is not for injection into the penis for impotence. Compounded Bimix and Trimix are not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "No FDA approval:",
+            "text": "FDA's Drugs@FDA data list no approved papaverine product. DailyMed lists papaverine injection labels with the marketing category \"unapproved drug other\".",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PAPAVERINE*&limit=100",
+                "label": "openFDA (Drugs@FDA data): search for papaverine products, no match",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), DailyMed",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e76839f-82eb-42a8-abc2-e7fbc533082d",
+                "label": "Papaverine HCl injection label (Nexus), DailyMed",
+                "date": "published Dec 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Label uses:",
+            "text": "the label lists spasm of smooth muscle, such as blood-vessel spasm with heart attack or angina, lung or limb artery blockage, peripheral vascular disease, some brain artery spasm, and colic of the ureter, bile duct or gut. These uses were not reviewed by FDA.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Indications and usage",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/enforcement-activities-fda/unapproved-drugs",
+                "label": "FDA, Unapproved Drugs",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Not for ED:",
+            "text": "the label states: \"Papaverine Hydrochloride is not indicated for the treatment of impotence by intracorporeal injection. The intracorporeal injection of papaverine hydrochloride has been reported to have resulted in persistent priapism requiring medical and surgical intervention.\" Injecting it into the penis is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Contraindications",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "What FDA says about unapproved drugs:",
+            "text": "FDA says unapproved prescription drugs have not been reviewed for safety, effectiveness or quality, and that it permits some to be marketed when health care professionals rely on them and no approved drug exists.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/enforcement-activities-fda/unapproved-drugs",
+                "label": "FDA, Unapproved Drugs",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA lists papaverine hydrochloride among bulk drug substances under evaluation (Category 1) for outsourcing-facility (503B) compounding, and does not mark it as a component of an FDA-approved drug.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded papaverine, Bimix and Trimix injections are not FDA approved."
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Papaverine injection is an authorised prescription medicine in Australia and Canada. In the US it is sold without FDA approval. No EU-wide authorisation exists. No regulator record found here lists ED as an approved use. It is not on WADA's Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not FDA approved. Papaverine injection is sold by prescription as an unapproved drug. Its label says it is not for injection into the penis.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:PAPAVERINE*&limit=100",
+              "label": "openFDA (Drugs@FDA data): search for papaverine products, no match",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+              "label": "Papaverine HCl injection label (American Regent), DailyMed",
+              "date": "published Jul 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: papaverine hydrochloride injection (Sandoz) is listed as marketed. Its approved uses were not read.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=papaverine",
+              "label": "Health Canada Drug Product Database, ingredient search 'papaverine'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=160",
+              "label": "Health Canada Drug Product Database, Papaverine HCl injection (Sandoz) status (drug code 160)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for DBL Papaverine Hydrochloride and Papaverine Phebra. Papaverine for injection is prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=papaverine",
+              "label": "TGA, PI/CMI search: papaverine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union: EMA's list of centrally authorised medicines has no papaverine product, and Ireland's HPRA list of authorised human medicines has none either. Authorisations in other member states were not checked.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (JSON report)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), list of authorised human medicines",
+              "date": "published Nov 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Papaverine is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no current government approval for human therapeutic use, and papaverine is approved for some use (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "Injected into the penis, papaverine can cause priapism, an erection that will not go down, which can need emergency treatment. The injection label also lists liver inflammation (hepatitis), heart rhythm problems and dependence."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Priapism:",
+            "text": "the label says injection into the penis has been reported to cause persistent priapism needing medical and surgical treatment. In the 1997 trial, 18% of men had a prolonged erection after papaverine plus phentolamine. In the 2005 trial, Trimix caused more priapism than alprostadil alone.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Contraindications",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9146599/",
+                "label": "Bechara et al., J Urol, PubMed",
+                "date": "published Jun 1997"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+                "label": "Seyam et al., Int J Impot Res, PubMed",
+                "date": "published Jul 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "injection into a vein must not be used with complete heart block; where conduction is slowed it may cause extra or fast beats from the ventricles.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Contraindications",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Liver:",
+            "text": "hepatitis, probably immune-related, has been reported infrequently and has rarely progressed to cirrhosis. The label says to stop if jaundice, eosinophilia or abnormal liver tests appear. One review of 30 men injecting papaverine found raised liver tests in 2.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Adverse reactions and Precautions",
+                "date": "published Jul 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9801111/",
+                "label": "Brown et al., Urology, PubMed",
+                "date": "published Nov 1998"
+              }
+            ]
+          },
+          {
+            "lead": "Other side effects in the label:",
+            "text": "nausea, stomach discomfort, loss of appetite, constipation or diarrhea, rash, malaise, vertigo, headache, intense facial flushing, sweating, faster heart rate, a slight rise in blood pressure and excessive sleepiness. Caution with glaucoma.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Adverse reactions",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Dependence:",
+            "text": "the label says drug dependence from abuse of papaverine has been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e",
+                "label": "Papaverine HCl injection label (American Regent), Drug abuse and dependence",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Self-injection errors:",
+            "text": "in one program of 1,368 men using injections (mostly Trimix or Bimix), 5% changed their own dose and 4% injected twice, both errors that can lead to priapism.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38660738/",
+                "label": "Furtado et al., J Sex Med, PubMed",
+                "date": "published May 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "No separate FDA statement on injecting papaverine into the penis was found beyond the contraindication in the injection labels.",
+    "The full 1982 Lancet letter by Virag was not read; only its PubMed record was.",
+    "MHRA's product database could not be read, so UK status is not stated.",
+    "Papaverine's status in EU member states other than Ireland was not checked.",
+    "The approved uses of papaverine in Canada and Australia were not read from their product information."
+  ],
+  "surprises": [
+    "In one large US injection program, 97% of men used compounded Trimix or Bimix, but the US papaverine injection label itself says it is not indicated for injection into the penis for impotence, and no papaverine product has FDA approval."
+  ]
+}

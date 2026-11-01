@@ -1,0 +1,695 @@
+{
+  "slug": "melanotan-ii",
+  "name": "Melanotan II",
+  "row": "Melanotan II",
+  "aka": [
+    "MT-II",
+    "MT2",
+    "Melanotan 2",
+    "Barbie drug"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": true,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Tiny trials; case reports",
+    "fda": "Not approved",
+    "sport": "Not named"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Made in Arizona as an alpha-MSH analog",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "3-man pilot (1996); two 10-man ED studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "One vitiligo trial registered, 2026 (China)",
+      "status": "started"
+    },
+    {
+      "title": "Phase III",
+      "line": "None registered",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not approved; no record in Drugs@FDA",
+      "status": "not"
+    },
+    {
+      "title": "Research use only",
+      "line": "Sold labelled not for human use; FDA: unapproved",
+      "status": "started",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Melanotan II (MT-II) is a lab-made peptide: a ring-shaped chain of seven amino acids, modelled on alpha-melanocyte-stimulating hormone (alpha-MSH), a natural hormone that darkens skin. It was made at the University of Arizona and tested there in people in the 1990s.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+            "label": "Dorr RT, et al. Life Sci 1996",
+            "date": "published 1996"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "It switches on melanocortin receptors. In its first study in people it darkened the skin and also caused spontaneous erections, which is why it was then studied for erectile dysfunction (ED).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+            "label": "Dorr RT, et al. Life Sci 1996",
+            "date": "published 1996"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9679884/",
+            "label": "Wessells H, et al. J Urol 1998",
+            "date": "published Aug 1998"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Two related peptides are approved medicines. Bremelanotide is FDA approved as Vyleesi, an injection for low sexual desire in premenopausal women. Afamelanotide is approved for a few medical uses. Neither is Melanotan II.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+            "label": "Vyleesi label, DailyMed",
+            "date": "published Nov 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28266027/",
+            "label": "Habbema L, et al. Int J Dermatol 2017 (review)",
+            "date": "published Oct 2017"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Melanotan II is not an approved medicine in any country we checked. It is sold online labelled “for research use only.”"
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The human evidence is three small studies from the University of Arizona, with 3 to 10 men each, run between 1996 and 2000. No larger trial has been published. One Phase II trial in vitiligo was registered in 2026 and has no results. Most other published reports on Melanotan II in people are case reports of harm."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1996 · Pilot Phase I",
+        "title": "First test in people, 1996",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "single-blind, placebo-controlled; Melanotan II or saline injections under the skin on alternating days"
+          },
+          {
+            "k": "People",
+            "v": "3 healthy men"
+          },
+          {
+            "k": "Length",
+            "v": "2 weeks, injections Monday to Friday, with rising doses"
+          },
+          {
+            "k": "Measured",
+            "v": "side effects, skin colour"
+          }
+        ],
+        "found": "Two of the three men had darker skin on the face, upper body and buttocks a week after the last dose. Spontaneous erections came 1 to 5 hours after dosing, with stretching and yawning. Mild nausea occurred at most doses, and one man had moderate sleepiness and fatigue at the highest dose.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+            "label": "Dorr RT, et al. Life Sci 1996",
+            "date": "published 1996"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1998 · Randomized crossover",
+        "title": "Men with psychogenic ED, 1998",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover; one injection of Melanotan II or placebo"
+          },
+          {
+            "k": "People",
+            "v": "10 men with ED of no known physical cause"
+          },
+          {
+            "k": "Length",
+            "v": "single doses; erections recorded for 6 hours"
+          },
+          {
+            "k": "Measured",
+            "v": "erections by a recording device (RigiScan)"
+          }
+        ],
+        "found": "Erections developed in 8 of the 10 men on Melanotan II. Time with strong tip rigidity averaged 38 minutes on Melanotan II and 3 minutes on placebo. Nausea, stretching and yawning, and less appetite were more common on Melanotan II.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9679884/",
+            "label": "Wessells H, et al. J Urol 1998",
+            "date": "published Aug 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2000 · Randomized crossover",
+        "title": "Men with ED and physical risk factors, 2000",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover; two injections of each"
+          },
+          {
+            "k": "People",
+            "v": "10 men with ED and physical risk factors"
+          },
+          {
+            "k": "Length",
+            "v": "single doses; erections recorded for 6 hours"
+          },
+          {
+            "k": "Measured",
+            "v": "erections by RigiScan, sexual desire, side effects"
+          }
+        ],
+        "found": "Men reported erections after 12 of 19 Melanotan II injections and after 1 of 21 placebo doses. Reported sexual desire was higher after Melanotan II. Nausea and stretching or yawning were more common, and 4 of 19 injections caused severe nausea.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11018622/",
+            "label": "Wessells H, et al. Urology 2000",
+            "date": "published Oct 2000"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "China · 2026 · Randomized Phase II",
+        "title": "Melanotan II with light therapy for vitiligo (registered)",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled; added to narrowband UV-B light therapy"
+          },
+          {
+            "k": "People",
+            "v": "60 adults with stable vitiligo planned (estimated)"
+          },
+          {
+            "k": "Length",
+            "v": "24 weeks"
+          },
+          {
+            "k": "Sponsor",
+            "v": "Hudson Biotech; site in Shenzhen, China"
+          }
+        ],
+        "found": "Recruiting since February 2026. No results posted. The registry summary describes itself as an “example” study record.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT07437560",
+            "label": "NCT07437560, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ],
+        "badge": "No results yet"
+      },
+      {
+        "t": "p",
+        "text": "A PubMed search for “melanotan” finds about 250 papers; besides the studies above, most are animal studies, lab chemistry, surveys of use, and case reports. A ClinicalTrials.gov search finds only the vitiligo trial.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/?term=melanotan",
+            "label": "PubMed search for 'melanotan'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/search?term=melanotan",
+            "label": "ClinicalTrials.gov search for 'melanotan'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Case reports"
+      },
+      {
+        "t": "p",
+        "text": "FDA says published case reports describe serious adverse events with Melanotan II, including melanoma, posterior reversible encephalopathy syndrome (a brain-swelling syndrome), sympathomimetic toxidrome (a racing, overstimulated state) and priapism.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+            "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+            "date": "published Apr 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "a 20-year-old woman who used Melanotan II injections with tanning beds for 3 to 4 weeks was found to have a melanoma three months later. Single case reports cannot show cause.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24355990/",
+                "label": "Hjuler KF, Lorentzen HF. Dermatology 2014",
+                "date": "published Dec 2013"
+              }
+            ],
+            "lead": "Melanoma:"
+          },
+          {
+            "text": "a 39-year-old man who injected 6 mg bought online had a fast heart rate, sweating, tremors and rhabdomyolysis, and spent 3 days in intensive care.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23121206/",
+                "label": "Nelson ME, et al. Clin Toxicol 2012",
+                "date": "published Dec 2012"
+              }
+            ],
+            "lead": "Overstimulation and muscle breakdown:"
+          },
+          {
+            "text": "a man had a painful erection that would not go down after injecting melanotan. It needed draining and medicine into the penis, and his erections had not recovered 4 weeks later.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30796078/",
+                "label": "Dreyer BA, et al. BMJ Case Rep 2019",
+                "date": "published Feb 2019"
+              }
+            ],
+            "lead": "Priapism:"
+          },
+          {
+            "text": "new and changing moles, a kidney infarction, and posterior reversible encephalopathy syndrome.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19575725/",
+                "label": "Cousen P, et al. Br J Dermatol 2009 (letter)",
+                "date": "published Sep 2009"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31953620/",
+                "label": "Peters B, et al. CEN Case Rep 2020",
+                "date": "published May 2020"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23648958/",
+                "label": "Kaski D, et al. Ann Intern Med 2013 (letter)",
+                "date": "published May 2013"
+              }
+            ],
+            "lead": "Other reports:"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Melanotan II is not FDA approved for any use. It is sold online labelled “for research use only” or “not for human consumption.” FDA does not allow such products to be sold for human use: it treats them as unapproved drugs. FDA lists Melanotan II among compounding nominations with significant safety risks that were later withdrawn. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none. Drugs@FDA has no record of a Melanotan II product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:\"MELANOTAN\"",
+                "label": "Drugs@FDA data (openFDA), search for melanotan (no matches)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "FDA approval:"
+          },
+          {
+            "text": "FDA says companies that sell unapproved drugs labelled “for research purposes” or “not for human consumption,” directly to consumers for human use, are selling them illegally. FDA says SARMs “sold for research use only” are still unapproved drugs.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+                "label": "FDA, concerns with unapproved GLP-1 drugs (section on products sold “for research purposes”)",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+                "label": "FDA Consumer Update on SARMs (“sold for research use only”)",
+                "date": "published Apr 2023"
+              }
+            ],
+            "lead": "“Research use only” labels:"
+          },
+          {
+            "text": "FDA’s page of bulk substances that may present significant safety risks lists Melanotan II among nominations that were withdrawn. FDA writes that compounded drugs containing it “may pose risk for immunogenicity” (an immune reaction) because of possible clumping or peptide impurities, and that “published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Category 2:"
+          },
+          {
+            "text": "compounded drugs are not FDA approved. FDA does not check their safety, effectiveness or quality before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Compounding:"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Melanotan II is not FDA approved, and a “research use only” label does not make it legal to sell for use in people."
+      }
+    ],
+    "world": {
+      "lead": "Melanotan II is not an approved medicine in the US, Canada, the EU or Australia, as far as the records we opened show. Health Canada names it in a 2026 warning about unauthorized peptides. Australia lists it as a prescription-only substance.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Not approved. Sold labelled “for research use only”; FDA treats such products as unapproved drugs. Listed on FDA’s Category 2 page (withdrawn nominations).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=openfda.generic_name:\"MELANOTAN\"",
+              "label": "Drugs@FDA data (openFDA), search for melanotan (no matches)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+              "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+              "date": "published Apr 2026"
+            },
+            {
+              "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+              "label": "FDA, concerns with unapproved GLP-1 drugs (section on products sold “for research purposes”)",
+              "date": "published Oct 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not authorized. Named (“Melanotan I and II”) in Health Canada’s April 2026 warning about unauthorized injectable peptides.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+              "label": "Health Canada public advisory on unauthorized injectable peptides",
+              "date": "published Apr 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "EU / Ireland",
+          "regulator": "EMA / HPRA",
+          "status": "Not authorised: no EMA (EU-wide) authorisation, and not on Ireland’s HPRA list. Other member states not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), authorised human medicines list",
+              "date": "published Nov 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only substance (Schedule 4) in the Poisons Standard. We could not open the TGA register to check for an approved product.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Melanotan II is not named on the WADA 2026 Prohibited List. The list’s class S0 bans, at all times, any drug not covered by another class that has no current approval by any government health authority for human use. We found no such approval for Melanotan II, so S0’s wording would cover it, but WADA has not named it. The 2027 List, which takes effect January 1, 2027, adds “peptides” to S0’s examples.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The early studies reported nausea, yawning and stretching, less appetite, sleepiness, spontaneous erections and darker skin. Case reports since describe serious harms, including melanoma, priapism, muscle breakdown and a brain-swelling syndrome. There has never been a large safety study."
+      },
+      {
+        "t": "h3",
+        "text": "In the early studies"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "nausea (severe after 4 of 19 injections in one study), stretching and yawning, less appetite.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9679884/",
+                "label": "Wessells H, et al. J Urol 1998",
+                "date": "published Aug 1998"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11018622/",
+                "label": "Wessells H, et al. Urology 2000",
+                "date": "published Oct 2000"
+              }
+            ],
+            "lead": "Common:"
+          },
+          {
+            "text": "spontaneous erections 1 to 5 hours after dosing in healthy men.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+                "label": "Dorr RT, et al. Life Sci 1996",
+                "date": "published 1996"
+              }
+            ],
+            "lead": "Erections:"
+          },
+          {
+            "text": "darker skin on the face, upper body and buttocks.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+                "label": "Dorr RT, et al. Life Sci 1996",
+                "date": "published 1996"
+              }
+            ],
+            "lead": "Skin:"
+          },
+          {
+            "text": "moderate sleepiness and fatigue in one man at the highest dose tested.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+                "label": "Dorr RT, et al. Life Sci 1996",
+                "date": "published 1996"
+              }
+            ],
+            "lead": "Tiredness:"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Serious harms in case reports"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "new or darker moles, and melanoma, reported in users. A 2017 review counted four case reports of melanoma arising from existing moles during or soon after use, and said proof of a link is lacking.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28266027/",
+                "label": "Habbema L, et al. Int J Dermatol 2017 (review)",
+                "date": "published Oct 2017"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24355990/",
+                "label": "Hjuler KF, Lorentzen HF. Dermatology 2014",
+                "date": "published Dec 2013"
+              }
+            ],
+            "lead": "Moles and melanoma:"
+          },
+          {
+            "text": "an erection lasting hours that needed emergency treatment.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30796078/",
+                "label": "Dreyer BA, et al. BMJ Case Rep 2019",
+                "date": "published Feb 2019"
+              }
+            ],
+            "lead": "Priapism:"
+          },
+          {
+            "text": "fast heart rate, sweating, tremor and muscle breakdown with kidney strain; a separate report of kidney infarction.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23121206/",
+                "label": "Nelson ME, et al. Clin Toxicol 2012",
+                "date": "published Dec 2012"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/31953620/",
+                "label": "Peters B, et al. CEN Case Rep 2020",
+                "date": "published May 2020"
+              }
+            ],
+            "lead": "Overstimulation and kidneys:"
+          },
+          {
+            "text": "posterior reversible encephalopathy syndrome.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23648958/",
+                "label": "Kaski D, et al. Ann Intern Med 2013 (letter)",
+                "date": "published May 2013"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Brain:"
+          },
+          {
+            "text": "FDA warns of a risk of immune reactions from clumping or impurities. Health Canada warns that unauthorized peptides may hold the wrong amount of drug or contaminants.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+                "label": "FDA, bulk drug substances that may present significant safety risks (Category 2 page)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+                "label": "Health Canada public advisory on unauthorized injectable peptides",
+                "date": "published Apr 2026"
+              }
+            ],
+            "lead": "Product quality:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "MHRA’s product database and any MHRA warning on Melanotan II could not be opened, so the UK status is not stated.",
+    "Australia’s TGA site (ARTG and safety alerts) did not load; only the Poisons Standard was checked.",
+    "The posterior reversible encephalopathy syndrome report (Kaski 2013) is a letter with no abstract; we did not read the full text.",
+    "We did not read the full texts of the 1998 and 2000 studies."
+  ],
+  "surprises": [
+    "The only registered Melanotan II trial (NCT07437560) describes itself in its own summary as an “example” study record.",
+    "FDA lists Melanotan II on its Category 2 page only as a withdrawn nomination, yet the entry still cites published case reports of melanoma, a brain-swelling syndrome and priapism."
+  ]
+}

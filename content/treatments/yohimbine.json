@@ -1,0 +1,619 @@
+{
+  "slug": "yohimbine",
+  "name": "Yohimbine",
+  "row": "Yohimbine",
+  "aka": [
+    "Yohimbe",
+    "Yohimbine hydrochloride",
+    "Yocon",
+    "Pausinystalia yohimbe"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Small RCTs, 1987 to 1998",
+    "fda": "Not approved",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Alpha-adrenoceptor blocker from yohimbe bark",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small placebo-controlled ED trials, 1987 to 1998",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "No modern Phase II found",
+      "status": "not"
+    },
+    {
+      "title": "Phase III",
+      "line": "No modern Phase III found",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "No approval in Drugs@FDA; OTC sex claims barred",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Yohimbe bark sold; FDA does not review first",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Yohimbine is a compound in the bark of yohimbe (Pausinystalia yohimbe), an evergreen tree from central and western Africa. The bark has long been used as an aphrodisiac.",
+        "src": [
+          {
+            "url": "https://www.nccih.nih.gov/health/yohimbe",
+            "label": "NCCIH (NIH), Yohimbe: usefulness and safety",
+            "date": "published May 2025"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Yohimbine blocks alpha-adrenergic receptors, part of the nervous system that controls blood vessels and arousal. That is the basis for its study in erectile dysfunction (ED).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3295302/",
+            "label": "Morales A, et al. J Urol 1987",
+            "date": "published Jun 1987"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Two kinds of product exist. Yohimbine hydrochloride tablets were once sold as a prescription drug, for example as Yocon. Yohimbe bark extracts are sold as dietary supplements. NIH says supplements may not act like the prescription drug, and the amount of yohimbine in them varies widely.",
+        "src": [
+          {
+            "url": "https://www.nccih.nih.gov/health/yohimbe",
+            "label": "NCCIH (NIH), Yohimbe: usefulness and safety",
+            "date": "published May 2025"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20442348/",
+            "label": "Kearney T, et al. Ann Pharmacother 2010",
+            "date": "published Jun 2010"
+          },
+          {
+            "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=9625",
+            "label": "Health Canada Drug Product Database, Yocon 5.4 mg status record",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26391406/",
+            "label": "Cohen PA, et al. Drug Test Anal 2016",
+            "date": "published Sep 2015"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "There is no FDA-approved yohimbine product in Drugs@FDA, and it is illegal in the US to sell an over-the-counter yohimbine product for ED without FDA approval."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "The ED trials of yohimbine are small and old: placebo-controlled studies of 22 to 100 men, mostly from 1987 to 1998, using yohimbine hydrochloride tablets. Results were mixed. Two meta-analyses (1998 and 2021) pooled them. No trial of yohimbe supplements for ED was found."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 1987 · Randomized, partial crossover",
+        "title": "Men with physically caused ED, 1987",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled, partial crossover"
+          },
+          {
+            "k": "People",
+            "v": "100 men with ED from a physical cause"
+          },
+          {
+            "k": "What was given",
+            "v": "yohimbine 18 mg a day or placebo"
+          },
+          {
+            "k": "Measured",
+            "v": "men’s reported response"
+          }
+        ],
+        "found": "42.6% responded on yohimbine and 27.6% on placebo; the difference was not statistically significant. The authors called the response “at best marginal.”",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3295302/",
+            "label": "Morales A, et al. J Urol 1987",
+            "date": "published Jun 1987"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 1987 · Randomized, partial crossover",
+        "title": "Men with psychogenic ED, 1987",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, partial crossover"
+          },
+          {
+            "k": "People",
+            "v": "48 men with ED of psychological cause"
+          },
+          {
+            "k": "Length",
+            "v": "10 weeks; yohimbine 18 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "reported improvement in sexual function"
+          }
+        ],
+        "found": "After the first phase, 62% on yohimbine and 16% on placebo reported some improvement.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2887726/",
+            "label": "Reid K, et al. Lancet 1987",
+            "date": "published Aug 1987"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 1997 · Randomized",
+        "title": "Men with ED of no clear cause, 1997",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "86 men with ED without a clear physical or psychological cause"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks; 30 mg a day"
+          },
+          {
+            "k": "Measured",
+            "v": "reported desire, satisfaction and erections; rigidity during sleep in a sleep lab"
+          }
+        ],
+        "found": "71% responded on yohimbine and 45% on placebo. Most side effects were mild, and there were no serious adverse events.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9315493/",
+            "label": "Vogt HJ, et al. Int J Impot Res 1997",
+            "date": "published Sep 1997"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Brazil · 1998 · Placebo-controlled",
+        "title": "High dose in physically caused ED, 1998",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "placebo-controlled; 30 days each of placebo and yohimbine"
+          },
+          {
+            "k": "People",
+            "v": "22 men with ED from a physical cause, mean age 58"
+          },
+          {
+            "k": "What was given",
+            "v": "100 mg yohimbine once a day"
+          },
+          {
+            "k": "Measured",
+            "v": "erection response by questionnaire"
+          }
+        ],
+        "found": "There was no significant difference from placebo. Anxiety, faster heart rate, more urination and headache were the most common side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9400452/",
+            "label": "Telöken C, et al. J Urol 1998",
+            "date": "published Jan 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "UK · 1998 · Meta-analysis",
+        "title": "Pooled analysis of 7 trials, 1998",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis of randomized, placebo-controlled trials of yohimbine alone"
+          },
+          {
+            "k": "People",
+            "v": "7 trials"
+          },
+          {
+            "k": "Measured",
+            "v": "response compared with placebo; side effects"
+          }
+        ],
+        "found": "Yohimbine was more likely than placebo to produce a response (odds ratio 3.85). Serious side effects were reported as infrequent and reversible. All of these trials came before PDE5 drugs such as Viagra were approved.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9649257/",
+            "label": "Ernst E, Pittler MH. J Urol 1998 (meta-analysis)",
+            "date": "published Feb 1998"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Indonesia · 2021 · Meta-analysis",
+        "title": "Pooled analysis of 8 trials, 2021",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis of randomized trials against placebo or no treatment"
+          },
+          {
+            "k": "People",
+            "v": "8 trials, some testing yohimbine combined with other supplements"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function; overall sexual function"
+          }
+        ],
+        "found": "Yohimbine alone improved erectile function more often than placebo (odds ratio 2.08) but did not significantly change overall sexual function.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35118966/",
+            "label": "Wibowo DNSA, et al. Turk J Urol 2021 (meta-analysis)",
+            "date": "published Nov 2021"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Yohimbine is not an FDA-approved drug: Drugs@FDA has no yohimbine product. Yohimbe bark is sold as a dietary supplement, which FDA does not approve or review for safety or effectiveness before sale. Since 1990, FDA rules say no over-the-counter ingredient, yohimbine named among them, may be sold as an aphrodisiac without an approved new drug application. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "none found. A search of Drugs@FDA data for yohimbine hydrochloride finds no matches. Prescription yohimbine products have been sold in the US (a California poison-centre review counted cases involving them), and Yocon tablets were listed in Canada. We found no FDA approval record for any of them.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"YOHIMBINE HYDROCHLORIDE\"",
+                "label": "Drugs@FDA data (openFDA), search for yohimbine hydrochloride (no matches)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20442348/",
+                "label": "Kearney T, et al. Ann Pharmacother 2010",
+                "date": "published Jun 2010"
+              },
+              {
+                "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=9625",
+                "label": "Health Canada Drug Product Database, Yocon 5.4 mg status record",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "FDA approval:"
+          },
+          {
+            "text": "21 CFR 310.528 names yohimbine, yohimbine hydrochloride and yohimbinum as ingredients once sold in OTC aphrodisiacs. FDA found no adequate data that any such ingredient is safe and effective for that use, and says claims that a product arouses desire or improves sexual performance are “false, misleading, or unsupported.” Such a product is a new drug that needs FDA approval.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-310.528",
+                "label": "21 CFR 310.528, OTC aphrodisiac drug products, eCFR",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Over-the-counter rule:"
+          },
+          {
+            "text": "herbs and botanicals are dietary ingredients under the law. FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Dietary supplement:"
+          },
+          {
+            "text": "there is not enough research to say whether yohimbe supplements help any condition, including ED. NIH also says it is illegal to market an OTC yohimbine product for ED without FDA approval.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/yohimbe",
+                "label": "NCCIH (NIH), Yohimbe: usefulness and safety",
+                "date": "published May 2025"
+              }
+            ],
+            "lead": "What NIH says:"
+          },
+          {
+            "text": "a 2015 analysis of 49 US supplement brands labelled as yohimbe or yohimbine found from none to 12.1 mg of yohimbine per serving. Only 11 listed an amount, and most of those were wrong.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26391406/",
+                "label": "Cohen PA, et al. Drug Test Anal 2016",
+                "date": "published Sep 2015"
+              }
+            ],
+            "lead": "Label accuracy:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Yohimbine is a prescription-only substance in Australia, and the UK’s MHRA says products containing it would normally be controlled as prescription-only medicines. Canada once listed prescription yohimbine tablets, including Yocon, but all have been cancelled. In the US, yohimbe bark is sold as a dietary supplement.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "No FDA-approved yohimbine product. Yohimbe bark sold as dietary supplements; OTC products sold as aphrodisiacs need FDA approval.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"YOHIMBINE HYDROCHLORIDE\"",
+              "label": "Drugs@FDA data (openFDA), search for yohimbine hydrochloride (no matches)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.ecfr.gov/current/title-21/section-310.528",
+              "label": "21 CFR 310.528, OTC aphrodisiac drug products, eCFR",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.nccih.nih.gov/health/yohimbe",
+              "label": "NCCIH (NIH), Yohimbe: usefulness and safety",
+              "date": "published May 2025"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not marketed: prescription yohimbine tablets, including Yocon 5.4 mg, were listed, but all human products are cancelled (the last in 2020).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=yohimbine",
+              "label": "Health Canada Drug Product Database, active ingredient search for yohimbine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=9625",
+              "label": "Health Canada Drug Product Database, Yocon 5.4 mg status record",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Products containing yohimbine “would normally be subject to controls as Prescription Only Medicines,” according to MHRA (2016).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/mhra-review-shows-sports-supplement-industry-improvement",
+              "label": "MHRA, review of sports supplements",
+              "date": "published Aug 2016"
+            }
+          ],
+          "iso": [
+            "826"
+          ],
+          "tone": "rx"
+        },
+        {
+          "country": "EU / Ireland",
+          "regulator": "EMA / HPRA",
+          "status": "No EMA (EU-wide) authorisation, and no yohimbine medicine on Ireland’s HPRA list. Food and supplement rules not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (data file)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), authorised human medicines list",
+              "date": "published Nov 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Prescription-only substance (Schedule 4) in the Poisons Standard. We could not open the TGA register.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard October 2026 (Australia)",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "rx"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Yohimbine is not named on the WADA 2026 Prohibited List, the 2027 List, or the 2027 Monitoring Program, and it is not in a listed class such as the S6 stimulants. Class S0 covers drugs with no current approval by any government health authority; we did not confirm whether any country approves yohimbine today. WADA has not published a ruling on it.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "NIH says yohimbine has been linked to irregular heartbeat, blood pressure problems, heart attacks and seizures. Poison-centre reports describe fast heart rate, stomach upset, anxiety and high blood pressure. Dietary supplements are not reviewed by FDA before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "irregular heartbeat, blood pressure problems, heart attacks and seizures have been associated with yohimbine.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/yohimbe",
+                "label": "NCCIH (NIH), Yohimbe: usefulness and safety",
+                "date": "published May 2025"
+              }
+            ],
+            "lead": "Serious:"
+          },
+          {
+            "text": "238 symptomatic adult cases reported to the California Poison Control System from 2000 to 2006; 98.7% involved supplements. Common problems were stomach upset (46%), fast heart rate (43%), anxiety or agitation (33%) and high blood pressure (25%). Outcomes were more often severe than for the average exposure.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/20442348/",
+                "label": "Kearney T, et al. Ann Pharmacother 2010",
+                "date": "published Jun 2010"
+              }
+            ],
+            "lead": "Poison-centre reports:"
+          },
+          {
+            "text": "anxiety, faster heart rate, more urination and headache at a high dose.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9400452/",
+                "label": "Telöken C, et al. J Urol 1998",
+                "date": "published Jan 1998"
+              }
+            ],
+            "lead": "In trials:"
+          },
+          {
+            "text": "NIH says not to combine yohimbe with MAO-inhibitor or tricyclic antidepressants.",
+            "src": [
+              {
+                "url": "https://www.nccih.nih.gov/health/yohimbe",
+                "label": "NCCIH (NIH), Yohimbe: usefulness and safety",
+                "date": "published May 2025"
+              }
+            ],
+            "lead": "Interactions:"
+          },
+          {
+            "text": "FDA does not approve supplements before they are sold, and yohimbine content in US supplements varies widely.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/26391406/",
+                "label": "Cohen PA, et al. Drug Test Anal 2016",
+                "date": "published Sep 2015"
+              }
+            ],
+            "lead": "Supplements:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "We found no FDA record (Drugs@FDA, DailyMed) of the prescription yohimbine tablet Yocon or of its US status; the only Yocon record found was in Health Canada’s database.",
+    "The Office of Dietary Supplements site blocked automated requests, so ODS statements on yohimbe are not cited.",
+    "EU food and supplement rules on yohimbe could not be checked (EUR-Lex did not load).",
+    "Australia’s TGA register (ARTG) did not load; only the Poisons Standard was checked."
+  ],
+  "surprises": [
+    "FDA’s 1989 rule names yohimbine by name as an aphrodisiac ingredient lacking evidence, yet yohimbe bark is still widely sold as a supplement."
+  ]
+}

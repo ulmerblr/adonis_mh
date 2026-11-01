@@ -1,0 +1,720 @@
+{
+  "slug": "phentolamine",
+  "name": "Phentolamine",
+  "row": "Phentolamine",
+  "aka": [
+    "Phentolamine mesylate",
+    "Regitine",
+    "Rogitine",
+    "OraVerse",
+    "Ryzumvi",
+    "Vasomax",
+    "Bimix",
+    "Trimix"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Small ED trials; oral RCTs",
+    "fda": "Approved, not for ED",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Blocks alpha receptors in erectile tissue",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Penile injection mixes studied in the 1990s",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Oral drug-level studies (Vasomax)",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Small oral and injection studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Oral Vasomax trials ZON300 and ZON301",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Regitine 1952; OraVerse 2008; never for ED",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Phentolamine is an alpha-adrenergic blocker: it blocks the receptors that adrenaline-like signals use to tighten blood vessels, so vessels widen. FDA-approved products are an injection used around surgery for pheochromocytoma (an adrenaline-making tumour), OraVerse (a dental injection that speeds the end of mouth numbness) and Ryzumvi eye drops.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6c506c-5535-4b7c-ae1a-d63f09d796c9",
+            "label": "Phentolamine mesylate for injection label (Hikma), Indications",
+            "date": "published Mar 2024"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4025cf98-ea87-4531-b0fc-6283c84f63f3",
+            "label": "OraVerse label, section 1",
+            "date": "published Dec 2018"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=96bb1e53-c2cc-4e60-a21a-db0269c371bf",
+            "label": "Ryzumvi label, section 1",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Why it was studied for erectile dysfunction"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Tightening of penile arteries and smooth muscle appears to be mainly under alpha-adrenergic control. Blocking alpha-1 and alpha-2 receptors helped erections in animal and human lab models, according to a review by the oral drug's investigators.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11289571/",
+                "label": "Goldstein et al., World J Urol, PubMed",
+                "date": "published Feb 2001"
+              }
+            ]
+          },
+          {
+            "text": "For erectile dysfunction (ED), phentolamine has been injected into the penis in compounded mixes with papaverine, or with papaverine and alprostadil (\"Trimix\"). Two-drug mixes are called \"Bimix\" in some papers. A tablet, Vasomax, was tested by mouth. None of these is FDA approved for ED.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+                "label": "Seyam et al., Int J Impot Res, PubMed",
+                "date": "published Jul 2005"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9146599/",
+                "label": "Bechara et al., J Urol, PubMed",
+                "date": "published Jun 1997"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11289571/",
+                "label": "Goldstein et al., World J Urol, PubMed",
+                "date": "published Feb 2001"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38660738/",
+                "label": "Furtado et al., J Sex Med, PubMed",
+                "date": "published May 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Phentolamine has been studied for ED in two ways: as a tablet (Vasomax) in placebo-controlled trials around 2000, and as part of injected mixes. The results below are from the published abstracts; the oral Phase 3 trials are known mainly through reviews by their investigators."
+      },
+      {
+        "t": "h3",
+        "text": "Oral phentolamine (Vasomax)"
+      },
+      {
+        "t": "p",
+        "text": "A 2001 review by investigators of the oral tablet describes two large placebo-controlled trials (ZON300 and ZON301) and two long-term open-label studies. It reports better IIEF erectile function scores and more successful penetration attempts than placebo, and side effects of stuffy nose (10%), headache (3%), dizziness (3%), fast heart rate (3%) and nausea (1%). Peak levels came 30 to 60 minutes after a dose; half-life was 5 to 7 hours. This is a review, not a trial report; the full trial papers were not read here.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11289571/",
+            "label": "Goldstein et al., World J Urol, PubMed",
+            "date": "published Feb 2001"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10845768/",
+            "label": "Goldstein, Int J Impot Res, PubMed",
+            "date": "published Mar 2000"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Mexico · 2002 · Open-label, multi-center comparison",
+        "title": "Oral phentolamine vs sildenafil (Int J Impot Res 2002)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Ugarte F, Hurtado-Coll A. Int J Impot Res 2002;14 Suppl 2:S48-53"
+          },
+          {
+            "k": "Design",
+            "v": "open-label, multi-center; no placebo group"
+          },
+          {
+            "k": "People",
+            "v": "242 men with ED (119 phentolamine, 123 sildenafil)"
+          },
+          {
+            "k": "What was given",
+            "v": "oral phentolamine 40 mg or sildenafil 25 to 100 mg"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "IIEF questionnaire and two global questions"
+          }
+        ],
+        "found": "Successful intercourse was reported by 42% of men on phentolamine and 88% on sildenafil. Side effects (stuffy nose, headache, fast heart rate, nausea) were more frequent on phentolamine (41% vs 33%), except headache.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12161768/",
+            "label": "Ugarte and Hurtado-Coll, Int J Impot Res, PubMed",
+            "date": "published Aug 2002"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Greece · 2001 · Double-blind, placebo-controlled crossover",
+        "title": "Oral phentolamine at bedtime and night-time erections (Int J Impot Res 2001)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Hatzichristou DG, Apostolidis A, Tzortzis V, et al. Int J Impot Res 2001;13(5):303-8"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "5 men with mild to moderate ED (mean age 34.8)"
+          },
+          {
+            "k": "What was given",
+            "v": "oral phentolamine 40 mg or placebo before sleep, three nights each"
+          },
+          {
+            "k": "Measured",
+            "v": "night-time erections on a RigiScan monitor"
+          }
+        ],
+        "found": "The number of rigid night-time erections lasting 10 minutes or more rose on phentolamine (P = 0.02). No side effects were recorded. Only 5 men took part.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11890519/",
+            "label": "Hatzichristou et al., Int J Impot Res, PubMed",
+            "date": "published Oct 2001"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Phentolamine in injected mixes"
+      },
+      {
+        "t": "study",
+        "meta": "1997 · Randomized, with placebo",
+        "title": "Papaverine plus phentolamine vs alprostadil (J Urol 1997)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Bechara A, Casabé A, Chéliz G, et al. J Urol 1997;157(6):2132-4"
+          },
+          {
+            "k": "Design",
+            "v": "randomized into 6 groups, each tested with both solutions and placebo, 1 week apart"
+          },
+          {
+            "k": "People",
+            "v": "60 men (mean age 58) with ED for more than 6 months, during erection testing"
+          },
+          {
+            "k": "What was given",
+            "v": "papaverine 30 mg plus phentolamine 0.5 mg, or alprostadil 30 micrograms, injected into the penis"
+          },
+          {
+            "k": "Length",
+            "v": "single test injections"
+          },
+          {
+            "k": "Measured",
+            "v": "erection good enough for penetration; short-term side effects"
+          }
+        ],
+        "found": "54% responded to papaverine plus phentolamine and 50% to alprostadil (not significantly different). Prolonged erection occurred in 18% and 15%. Pain was reported by 15% and 35% (P < 0.05).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9146599/",
+            "label": "Bechara et al., J Urol, PubMed",
+            "date": "published Jun 1997"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Saudi Arabia · 2005 · Randomized comparison",
+        "title": "Trimix doses vs alprostadil alone (Int J Impot Res 2005)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Seyam R, Mohamed K, Akhras AA, Rashwan H. Int J Impot Res 2005;17(4):346-53"
+          },
+          {
+            "k": "Design",
+            "v": "prospective; 9 groups of Trimix doses; each man got alprostadil 20 micrograms and one Trimix dose, 1 week apart"
+          },
+          {
+            "k": "People",
+            "v": "180 men with ED; mean age 50.5"
+          },
+          {
+            "k": "What was given",
+            "v": "Trimix (phentolamine 1 mg, alprostadil 2.5 to 10 micrograms, papaverine 5 to 20 mg) vs alprostadil alone"
+          },
+          {
+            "k": "Length",
+            "v": "two clinic visits"
+          },
+          {
+            "k": "Measured",
+            "v": "penile artery flow on ultrasound, rigidity, satisfaction, side effects"
+          }
+        ],
+        "found": "Blood flow, rigidity, pain and satisfaction did not differ significantly. Trimix gave longer erections and more priapism than alprostadil alone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+            "label": "Seyam et al., Int J Impot Res, PubMed",
+            "date": "published Jul 2005"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Approved use: dental numbness (OraVerse)"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2008 · Two randomized, double-blind Phase 3 trials",
+        "title": "Reversing lip and tongue numbness after dental work (JADA 2008)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Hersh EV, Moore PA, Papas AS, et al. J Am Dent Assoc 2008;139(8):1080-93"
+          },
+          {
+            "k": "Design",
+            "v": "two multicenter, randomized, double-blinded, controlled trials vs a sham injection"
+          },
+          {
+            "k": "People",
+            "v": "484 adolescents and adults having fillings or scaling with a local anaesthetic containing a vasoconstrictor"
+          },
+          {
+            "k": "What was given",
+            "v": "phentolamine mesylate or a sham injection at the same site after the procedure"
+          },
+          {
+            "k": "Length",
+            "v": "5 hours of follow-up"
+          },
+          {
+            "k": "Measured",
+            "v": "time to normal lip and tongue sensation, and function"
+          }
+        ],
+        "found": "Median recovery of the lower lip was 70 minutes with phentolamine vs 155 minutes with sham; tongue 60 vs 125 minutes; upper lip 50 vs 133 minutes (P < 0.0001).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18682623/",
+            "label": "Hersh et al., JADA, PubMed",
+            "date": "published Aug 2008"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Phentolamine is FDA approved, by prescription, for pheochromocytoma (Regitine, 1952, and generics), dental numbness reversal (OraVerse, 2008) and eye uses (Ryzumvi, 2023). It is not approved for ED, so use for ED is off-label. Compounded Bimix and Trimix are not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Injection (Regitine and generics):",
+            "text": "Regitine was approved January 30, 1952 (NDA 008278) and is now discontinued; generic injections remain. Approved uses: preventing or controlling high blood pressure episodes from pheochromocytoma around surgery, preventing or treating skin damage after norepinephrine leaks from a vein, and the phentolamine test for pheochromocytoma.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA008278",
+                "label": "openFDA (Drugs@FDA data), NDA 008278 (Regitine)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA040235",
+                "label": "openFDA (Drugs@FDA data), ANDA 040235 (generic injection)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6c506c-5535-4b7c-ae1a-d63f09d796c9",
+                "label": "Phentolamine mesylate for injection label (Hikma), Indications",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "OraVerse:",
+            "text": "approved May 9, 2008 (NDA 022159). Approved use: reversing soft-tissue numbness (lip and tongue) after a dental injection of local anaesthetic with a vasoconstrictor, in patients aged 3 and older.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022159",
+                "label": "openFDA (Drugs@FDA data), NDA 022159 (OraVerse)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4025cf98-ea87-4531-b0fc-6283c84f63f3",
+                "label": "OraVerse label, section 1",
+                "date": "published Dec 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Ryzumvi eye drops:",
+            "text": "approved September 25, 2023 (NDA 217064) to reverse drug-induced pupil dilation. FDA's data list an efficacy supplement approved October 16, 2026, and the October 2026 label adds treatment of presbyopia (age-related near-vision loss) in adults.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA217064",
+                "label": "openFDA (Drugs@FDA data), NDA 217064 (Ryzumvi)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=96bb1e53-c2cc-4e60-a21a-db0269c371bf",
+                "label": "Ryzumvi label, section 1",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not approved for ED:",
+            "text": "no FDA-approved phentolamine product lists ED as a use. Injecting phentolamine into the penis, alone or in a mix, or taking it by mouth for ED, is off-label.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6c506c-5535-4b7c-ae1a-d63f09d796c9",
+                "label": "Phentolamine mesylate for injection label (Hikma), Indications",
+                "date": "published Mar 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4025cf98-ea87-4531-b0fc-6283c84f63f3",
+                "label": "OraVerse label, section 1",
+                "date": "published Dec 2018"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=96bb1e53-c2cc-4e60-a21a-db0269c371bf",
+                "label": "Ryzumvi label, section 1",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Compounding:",
+            "text": "FDA lists phentolamine mesylate, marked as a component of FDA-approved drugs, among bulk drug substances under evaluation (Category 1) for outsourcing-facility (503B) compounding.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded Bimix and Trimix injections that contain phentolamine are not FDA approved."
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Phentolamine is an approved prescription medicine in the US and Canada, for uses other than ED. Its status in the UK, the EU and Australia was not confirmed. No regulator record found here lists ED as an approved use. It is not on WADA's Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (injection for pheochromocytoma, 1952; OraVerse 2008; Ryzumvi 2023). Not approved for ED. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA008278",
+              "label": "openFDA (Drugs@FDA data), NDA 008278 (Regitine)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022159",
+              "label": "openFDA (Drugs@FDA data), NDA 022159 (OraVerse)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA217064",
+              "label": "openFDA (Drugs@FDA data), NDA 217064 (Ryzumvi)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine: phentolamine mesylate injection (Sandoz) and OraVerse are listed as marketed, prescription. Rogitine listings were cancelled.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=phentolamine",
+              "label": "Health Canada Drug Product Database, ingredient search 'phentolamine'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=67670",
+              "label": "Health Canada Drug Product Database, Phentolamine injection (Sandoz) status (drug code 67670)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=90632",
+              "label": "Health Canada Drug Product Database, OraVerse status (drug code 90632)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union: EMA's list of centrally authorised medicines has no phentolamine product, and Ireland's HPRA list of authorised human medicines has none either. Other member states were not checked.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (JSON report)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), list of authorised human medicines",
+              "date": "published Nov 2026"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Australia: TGA's product information search returned no phentolamine documents. The Poisons Standard lists phentolamine as prescription-only (Schedule 4). Whether any product is registered was not confirmed.",
+          "src": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=phentolamine",
+              "label": "TGA, PI/CMI search: phentolamine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Phentolamine is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no current government approval for human therapeutic use, and phentolamine is approved for some use (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The injection label warns of heart attack and stroke-like events, usually with steep drops in blood pressure, and of fast heart rate and rhythm problems. Injected into the penis in mixes, it adds to the risk of prolonged erection and priapism."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Heart and brain (injection label):",
+            "text": "heart attack, spasm and blockage of brain arteries have been reported after phentolamine, usually with marked low blood pressure. It must not be used after a heart attack or with angina or other coronary artery disease.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6c506c-5535-4b7c-ae1a-d63f09d796c9",
+                "label": "Phentolamine mesylate for injection label (Hikma), Warnings and Contraindications",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Other side effects (injection label):",
+            "text": "sudden or prolonged low blood pressure, fast heart rate, rhythm problems, weakness, dizziness, flushing, low blood pressure on standing, stuffy nose, nausea, vomiting and diarrhea.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6c506c-5535-4b7c-ae1a-d63f09d796c9",
+                "label": "Phentolamine mesylate for injection label (Hikma), Adverse reactions",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "OraVerse trials:",
+            "text": "most side effects were mild and went away within 48 hours. Fast heart rate (5%), slow heart rate (2%), injection-site pain (5%) and headache (3%) were reported; rates were similar to the control group.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4025cf98-ea87-4531-b0fc-6283c84f63f3",
+                "label": "OraVerse label, section 6.1",
+                "date": "published Dec 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Prolonged erection and priapism (injected mixes):",
+            "text": "18% of men had a prolonged erection after a single test injection of papaverine plus phentolamine. Trimix caused more priapism than alprostadil alone in a randomized comparison.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/9146599/",
+                "label": "Bechara et al., J Urol, PubMed",
+                "date": "published Jun 1997"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+                "label": "Seyam et al., Int J Impot Res, PubMed",
+                "date": "published Jul 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Oral phentolamine (Vasomax trials):",
+            "text": "stuffy nose, headache, dizziness, fast heart rate and nausea were reported.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/11289571/",
+                "label": "Goldstein et al., World J Urol, PubMed",
+                "date": "published Feb 2001"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12161768/",
+                "label": "Ugarte and Hurtado-Coll, Int J Impot Res, PubMed",
+                "date": "published Aug 2002"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA's website (accessdata.fda.gov) blocked automated requests, so approval dates rest on openFDA's copy of Drugs@FDA data.",
+    "Why oral phentolamine (Vasomax) was never approved in the US, and whether any regulator approved it, was not confirmed from a regulator record.",
+    "The full reports of the ZON300 and ZON301 trials were not found or read; they are described here only through a review by their investigators.",
+    "MHRA's product database could not be read, so the UK status is not stated.",
+    "Phentolamine's status in EU member states other than Ireland, and whether any product is registered in Australia, were not confirmed."
+  ],
+  "surprises": [
+    "FDA's newest phentolamine approval is for the eyes: Ryzumvi drops gained a presbyopia indication on October 16, 2026."
+  ]
+}

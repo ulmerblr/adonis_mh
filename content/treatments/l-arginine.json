@@ -1,0 +1,507 @@
+{
+  "slug": "l-arginine",
+  "name": "L-arginine",
+  "row": "L-arginine",
+  "aka": [
+    "Arginine",
+    "L-arginine hydrochloride",
+    "R-Gene 10"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Small RCTs; mixed",
+    "fda": "Not a drug for ED",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Rat and rabbit erection studies, 1990s",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Small ED trials of 30 to 100 men, 1999 to 2022",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Registered Phase II, 140 men (NCT01105130)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "None found for ED",
+      "status": "not"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Not for ED; approved only as R-Gene 10 test",
+      "status": "not"
+    },
+    {
+      "title": "Dietary supplement",
+      "line": "Sold as an amino acid; FDA does not review first",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "L-arginine is an amino acid found in food. The body uses it to make nitric oxide, a messenger that relaxes blood vessels, including those in the penis. That is the reason it has been studied for erectile dysfunction (ED).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10233492/",
+            "label": "Chen J, et al. BJU Int 1999",
+            "date": "published Feb 1999"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10743698/",
+            "label": "Klotz T, et al. Urol Int 1999",
+            "date": "published 1999"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Under US law, a product containing an amino acid and meant to supplement the diet can be sold as a dietary supplement. Amino acids are also permitted as food additives for listed uses.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+            "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://www.ecfr.gov/current/title-21/section-172.320",
+            "label": "21 CFR 172.320, amino acids as food additives, eCFR",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "As a drug, FDA has approved arginine only as R-Gene 10, an injection into a vein used as a test of the pituitary gland’s growth hormone reserve.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6accf33f-9841-4327-8923-93c42020ef12",
+            "label": "R-Gene 10 (arginine hydrochloride injection) label, DailyMed",
+            "date": "published Apr 2024"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"ARGININE*\"",
+            "label": "Drugs@FDA data (openFDA), arginine products (R-Gene 10, NDA 016931)",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "L-arginine is not FDA approved for ED. As a supplement, it is not reviewed by FDA before sale."
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Trials of L-arginine for ED are small, mostly 30 to 100 men, lasting 17 days to 3 months, and results differ. A 2019 meta-analysis pooled 10 randomized trials with 540 men; several included arginine combined with other substances. Many newer trials test arginine added to PDE5 drugs such as tadalafil."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Israel · 1999 · Randomized",
+        "title": "High dose in physically caused ED, 1999",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, double-blind, placebo-controlled, after a 2-week placebo run-in"
+          },
+          {
+            "k": "People",
+            "v": "50 men with physically caused ED"
+          },
+          {
+            "k": "Length",
+            "v": "6 weeks; 5 g a day"
+          },
+          {
+            "k": "Measured",
+            "v": "questionnaires, sex diary, penile blood flow, nitric oxide breakdown products in blood and urine"
+          }
+        ],
+        "found": "9 of 29 men on L-arginine and 2 of 17 on placebo reported a clear improvement. All objective measures, including penile blood flow, were unchanged. The men who improved had low nitric oxide markers at the start.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10233492/",
+            "label": "Chen J, et al. BJU Int 1999",
+            "date": "published Feb 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Germany · 1999 · Randomized crossover",
+        "title": "Low dose in mixed-type ED, 1999",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "randomized, placebo-controlled crossover"
+          },
+          {
+            "k": "People",
+            "v": "32 men with ED of mixed causes; 30 completed"
+          },
+          {
+            "k": "Length",
+            "v": "two 17-day courses with a 7-day break; 500 mg three times a day"
+          },
+          {
+            "k": "Measured",
+            "v": "a validated ED questionnaire score"
+          }
+        ],
+        "found": "5 men improved clearly on L-arginine and 6 on placebo. There was no statistical difference. No side effects were linked to L-arginine.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10743698/",
+            "label": "Klotz T, et al. Urol Int 1999",
+            "date": "published 1999"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Italy · 2022 · Randomized",
+        "title": "High dose in vascular ED, 3 months",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "multicentre, randomized, double-blind, placebo-controlled"
+          },
+          {
+            "k": "People",
+            "v": "98 men with ED from poor blood flow (51 L-arginine, 47 placebo)"
+          },
+          {
+            "k": "Length",
+            "v": "3 months; 6 g a day"
+          },
+          {
+            "k": "Measured",
+            "v": "erectile function score (IIEF-6) and penile artery blood flow by ultrasound"
+          }
+        ],
+        "found": "The erectile function score and penile blood flow rose with L-arginine. 74% moved to a milder ED category, but only 24%, mostly men with mild ED at the start, reached scores in the normal range.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34973154/",
+            "label": "Menafra D, et al. J Endocrinol Invest 2022",
+            "date": "published Jan 2022"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Korea · 2019 · Meta-analysis",
+        "title": "Pooled analysis of 10 trials, 540 men",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "systematic review and meta-analysis of randomized trials against placebo or no treatment"
+          },
+          {
+            "k": "People",
+            "v": "540 men with mild to moderate ED"
+          },
+          {
+            "k": "What was given",
+            "v": "1,500 to 5,000 mg arginine alone or combined with other substances"
+          },
+          {
+            "k": "Measured",
+            "v": "improvement rate, erectile function scores, side effects"
+          }
+        ],
+        "found": "Arginine was linked to more improvement than placebo (odds ratio 3.37). Side effects were reported in 8.3% on arginine and 2.3% on placebo, none severe. Doses and lengths varied between trials.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30770070/",
+            "label": "Rhim HC, et al. J Sex Med 2019 (meta-analysis)",
+            "date": "published Feb 2019"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "ClinicalTrials.gov lists 7 studies for “arginine erectile,” including a completed Phase II dose-finding trial in 140 prostate cancer survivors and several trials of arginine with tadalafil.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=arginine%20erectile",
+            "label": "ClinicalTrials.gov search for 'arginine erectile'",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT01105130",
+            "label": "NCT01105130, ClinicalTrials.gov",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "L-arginine is not FDA approved for ED. It can be sold as a dietary supplement, which FDA does not approve or review for safety or effectiveness before sale. Its only FDA-approved drug use is R-Gene 10, a diagnostic injection. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "amino acids are dietary ingredients under the law that defines dietary supplements. FDA does not have the authority to approve dietary supplements before they are marketed.",
+            "src": [
+              {
+                "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+                "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Dietary supplement:"
+          },
+          {
+            "text": "R-Gene 10 (arginine hydrochloride injection, NDA 016931) is approved as an intravenous test of growth hormone release from the pituitary gland.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6accf33f-9841-4327-8923-93c42020ef12",
+                "label": "R-Gene 10 (arginine hydrochloride injection) label, DailyMed",
+                "date": "published Apr 2024"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"ARGININE*\"",
+                "label": "Drugs@FDA data (openFDA), arginine products (R-Gene 10, NDA 016931)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Approved drug:"
+          },
+          {
+            "text": "FDA rules say an over-the-counter product labelled to improve sexual performance is a new drug that needs FDA approval.",
+            "src": [
+              {
+                "url": "https://www.ecfr.gov/current/title-21/section-310.528",
+                "label": "21 CFR 310.528, OTC aphrodisiac drug products, eCFR",
+                "date": "accessed Nov 1, 2026"
+              }
+            ],
+            "lead": "Sexual-performance claims:"
+          },
+          {
+            "text": "on FDA’s 503B lists, arginine hydrochloride/L-arginine hydrochloride is under evaluation (Category 1), while a nomination for plain “arginine” is in Category 3 (nominated without adequate support). Compounded drugs are not FDA approved.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, bulk drug substances nominated under section 503B (categories list)",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+                "label": "FDA, Compounding and the FDA: Q&A",
+                "date": "published Sep 2025"
+              }
+            ],
+            "lead": "Compounding:"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "In the US L-arginine is sold as an amino acid dietary supplement; it is not an approved ED medicine anywhere we checked. We did not confirm its status in other countries.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Can be sold as a dietary supplement. Approved as a drug only as R-Gene 10, a diagnostic injection. Not approved for ED.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapII-sec321.htm",
+              "label": "21 U.S.C. 321(ff), definition of dietary supplement, govinfo",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+              "label": "Questions and answers on dietary supplements, FDA",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6accf33f-9841-4327-8923-93c42020ef12",
+              "label": "R-Gene 10 (arginine hydrochloride injection) label, DailyMed",
+              "date": "published Apr 2024"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "otc"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "124"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Status being confirmed with the regulator’s record.",
+          "checked": "—",
+          "iso": [
+            "036"
+          ],
+          "tone": "pending"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "L-arginine is not named on the WADA 2026 Prohibited List or the 2027 List, and it does not fall in any listed class.",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In the ED trials, side effects were usually mild and reported in a minority of men. In one heart-attack trial, more people on L-arginine died. As a supplement, it is not reviewed by FDA before sale."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "side effects in 8.3% on arginine versus 2.3% on placebo across 10 trials, none severe.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30770070/",
+                "label": "Rhim HC, et al. J Sex Med 2019 (meta-analysis)",
+                "date": "published Feb 2019"
+              }
+            ],
+            "lead": "In ED trials:"
+          },
+          {
+            "text": "in a 2006 randomized trial of 153 people after a first heart attack, 6 of those on L-arginine (8.6%) died within 6 months versus none on placebo. The safety committee stopped enrollment.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/16391217/",
+                "label": "Schulman SP, et al. JAMA 2006 (VINTAGE MI)",
+                "date": "published Jan 2006"
+              }
+            ],
+            "lead": "After a heart attack:"
+          },
+          {
+            "text": "overdose in children has caused death; allergic reactions, including anaphylaxis, have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6accf33f-9841-4327-8923-93c42020ef12",
+                "label": "R-Gene 10 (arginine hydrochloride injection) label, DailyMed",
+                "date": "published Apr 2024"
+              }
+            ],
+            "lead": "Injected arginine (R-Gene 10 label):"
+          },
+          {
+            "text": "FDA does not approve dietary supplements before they are sold.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+                "label": "Questions and answers on dietary supplements, FDA",
+                "date": "published Aug 2026"
+              }
+            ],
+            "lead": "Supplements:"
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "The Office of Dietary Supplements site blocked automated requests, so ODS statements on L-arginine are not cited.",
+    "EFSA’s 2011 opinion on L-arginine health claims, including “maintenance of normal erectile function,” could not be opened; its conclusion is not stated.",
+    "Status in Canada, the UK, the EU and Australia was not confirmed."
+  ],
+  "surprises": []
+}

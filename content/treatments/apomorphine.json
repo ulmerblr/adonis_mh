@@ -1,0 +1,737 @@
+{
+  "slug": "apomorphine",
+  "name": "Apomorphine",
+  "row": "Apomorphine",
+  "aka": [
+    "Apokyn",
+    "Kynmobi",
+    "Onapgo",
+    "Uprima",
+    "Ixense",
+    "Taluvian",
+    "Apomorphine SL",
+    "APO-go",
+    "Movapo"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "9 RCTs (sublingual, ED)",
+    "fda": "Approved, not for ED",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Erections in animals reported before 1995",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Four small sublingual studies (1995)",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Early drug-level studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Dose-finding sublingual trials, about 2000",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "EU approved for ED 2001 (Uprima); withdrawn",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Apokyn 2004, Parkinson's; never for ED",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Apomorphine is a dopamine agonist: it stimulates the brain's dopamine receptors. In the US it is approved for Parkinson's disease as injections (Apokyn, Onapgo). A film under the tongue, Kynmobi, was approved in 2020 and is now listed as discontinued. In the EU it was authorised for erectile dysfunction (ED) in 2001 as Uprima, Ixense and Taluvian; all three authorisations have since ended.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+            "label": "Apokyn label, section 12.1",
+            "date": "published Oct 2024"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA210875",
+            "label": "openFDA (Drugs@FDA data), NDA 210875 (Kynmobi)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a",
+            "label": "Onapgo label, section 1",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/uprima",
+            "label": "EMA, Uprima",
+            "date": "published May 2006"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ixense",
+            "label": "EMA, Ixense",
+            "date": "published Nov 2004"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/taluvian",
+            "label": "EMA, Taluvian",
+            "date": "published Nov 2004"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "The Apokyn label says it binds strongly to the dopamine D4 receptor and moderately to D2, D3 and D5 receptors and some adrenergic receptors. Its effect in Parkinson's is thought to come from D2-type receptors in the brain.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 12.1",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "text": "For ED, it was studied as a drug acting in the brain rather than in penile blood vessels. The EMA records say sexual stimulation was needed for Uprima to have an effect.",
+            "src": [
+              {
+                "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/uprima",
+                "label": "EMA, Uprima",
+                "date": "published May 2006"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/12667722/",
+                "label": "Montorsi et al., Eur Urol, PubMed",
+                "date": "published Apr 2003"
+              }
+            ]
+          },
+          {
+            "text": "Injected under the skin, apomorphine has a half-life of about 40 minutes.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 12.3",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Sublingual apomorphine (under the tongue) was tested for ED in randomized, placebo-controlled trials of 4 to 8 weeks around 2000. A 2020 systematic review included nine of them. In the one head-to-head trial with sildenafil reviewed here, sildenafil did better. ClinicalTrials.gov lists no registered study of apomorphine for ED."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "Canada · 1995 · Four small pilot studies",
+        "title": "First sublingual formulations (Urology 1995)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Heaton JP, Morales A, Adams MA, et al. Urology 1995;45(2):200-6"
+          },
+          {
+            "k": "Design",
+            "v": "four preliminary protocols, compared with placebo, with erections measured on a RigiScan"
+          },
+          {
+            "k": "People",
+            "v": "men with ED and no measurable physical cause (for example 10 evaluable men in one protocol, 12 in another)"
+          },
+          {
+            "k": "What was given",
+            "v": "sublingual liquid, a 5 mg tablet, a nasal spray, and new 3 and 4 mg controlled-absorption tablets"
+          },
+          {
+            "k": "Measured",
+            "v": "erection response during erotic or neutral video; home use"
+          }
+        ],
+        "found": "7 of 10 responded to the liquid, but most had significant nausea. With the 3 and 4 mg tablets, 8 of 12 men (67%) had erections and 7 of 11 kept using it at home. The authors note apomorphine had already been reported to cause erections in animals and men when injected.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7855966/",
+            "label": "Heaton et al., Urology, PubMed",
+            "date": "published Feb 1995"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2000 · Randomized, double-blind, placebo-controlled",
+        "title": "Fixed and adjusted doses (Urology 2000)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Dula E, Keating W, Siami PF, et al.; Apomorphine Study Group. Urology 2000;56(1):130-5"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, double-blind, four groups"
+          },
+          {
+            "k": "People",
+            "v": "569 men with ED"
+          },
+          {
+            "k": "What was given",
+            "v": "sublingual apomorphine starting at 2 mg and adjusted, fixed 5 mg, fixed 6 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "home questionnaires from men and partners, the IIEF and the Brief Sexual Function Inventory"
+          }
+        ],
+        "found": "48% to 53% of men on apomorphine had an erection firm enough for intercourse, vs 35% on placebo (P ≤ 0.001). 45% to 51% of attempts led to intercourse, vs 33%. Nausea was the most common side effect; it rose with dose and fell in the second 4 weeks.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10869641/",
+            "label": "Dula et al., Urology, PubMed",
+            "date": "published Jul 2000"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "2004 · Randomized crossover vs sildenafil",
+        "title": "Apomorphine 3 mg vs sildenafil 50 mg (J Urol 2004)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Pavone C, Curto F, Anello G, et al. J Urol 2004;172(6 Pt 1):2347-9"
+          },
+          {
+            "k": "Design",
+            "v": "prospective, randomized crossover with a 4-week washout; no placebo"
+          },
+          {
+            "k": "People",
+            "v": "77 men enrolled, 62 randomized, 34 evaluable"
+          },
+          {
+            "k": "What was given",
+            "v": "sublingual apomorphine 3 mg or oral sildenafil 50 mg"
+          },
+          {
+            "k": "Length",
+            "v": "4 weeks on each drug"
+          },
+          {
+            "k": "Measured",
+            "v": "share of attempts with an erection firm enough for intercourse; IIEF"
+          }
+        ],
+        "found": "Erections firm enough for intercourse followed 44% of attempts on apomorphine and 85% on sildenafil (P < 0.0001). Side-effect rates did not differ significantly. Fewer than half the men enrolled were evaluable.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15538264/",
+            "label": "Pavone et al., J Urol, PubMed",
+            "date": "published Dec 2004"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Spain · 2020 · Systematic review and meta-analysis",
+        "title": "Nine placebo-controlled trials (Arch Sex Behav 2020)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Guillén V, Rueda JR, Lopez-Argumedo M, et al. Arch Sex Behav 2020;49(8):2963-79"
+          },
+          {
+            "k": "Design",
+            "v": "systematic review of randomized controlled trials; search ended January 9, 2019"
+          },
+          {
+            "k": "People",
+            "v": "9 trials of men with ED"
+          },
+          {
+            "k": "What was given",
+            "v": "sublingual apomorphine 2 to 6 mg vs placebo"
+          },
+          {
+            "k": "Length",
+            "v": "trials lasted 4 to 8 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "share of successful intercourse attempts; erectile function scores; stopping for side effects"
+          }
+        ],
+        "found": "Trials found 6% to 27% more successful attempts than placebo; in one trial after prostate removal, the difference was not significant. In trials limited to men with diabetes or after prostate removal, score differences were not clinically relevant. More men stopped for side effects on apomorphine, especially at higher doses.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32964351/",
+            "label": "Guillén et al., Arch Sex Behav, PubMed",
+            "date": "published Nov 2020"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "A ClinicalTrials.gov search for apomorphine and erectile dysfunction returned no registered studies."
+      },
+      {
+        "t": "p",
+        "text": "The search was run through ClinicalTrials.gov's API for the terms 'apomorphine erectile'.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=apomorphine%20erectile",
+            "label": "ClinicalTrials.gov search for 'apomorphine erectile'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Apomorphine is FDA approved, by prescription, for Parkinson's disease as Apokyn injection (2004) and Onapgo infusion (2025). Kynmobi, a film under the tongue approved in 2020, is listed as discontinued. Apomorphine has never been approved for ED in the US, so use for ED is off-label. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Apokyn:",
+            "text": "approved April 20, 2004 (NDA 021264) as a new molecular entity, with priority review. Approved use: on-demand treatment of \"off\" episodes in advanced Parkinson's disease. Generic apomorphine injection was approved in 2022.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021264",
+                "label": "openFDA (Drugs@FDA data), NDA 021264 (Apokyn)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA212025",
+                "label": "openFDA (Drugs@FDA data), ANDA 212025 (generic injection)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 1",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Kynmobi:",
+            "text": "a film placed under the tongue, approved May 21, 2020 (NDA 210875). FDA's data list every Kynmobi strength as discontinued, and the search found no current Kynmobi label on DailyMed.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA210875",
+                "label": "openFDA (Drugs@FDA data), NDA 210875 (Kynmobi)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Onapgo:",
+            "text": "a continuous infusion under the skin, approved February 3, 2025 (NDA 214056) for motor fluctuations in adults with advanced Parkinson's disease.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA214056",
+                "label": "openFDA (Drugs@FDA data), NDA 214056 (Onapgo)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a",
+                "label": "Onapgo label, section 1",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Not approved for ED:",
+            "text": "no FDA-approved apomorphine product lists ED as a use. The sublingual tablets authorised in Europe for ED (Uprima, Ixense, Taluvian) have no US approval in FDA's data.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:APOMORPHINE*&limit=100",
+                "label": "openFDA (Drugs@FDA data): all apomorphine products",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Do not combine (contraindications):",
+            "text": "the Apokyn label says it must not be used with 5HT3-blocking anti-nausea drugs such as ondansetron, because of reports of profound low blood pressure and loss of consciousness.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 4",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Apomorphine is approved for Parkinson's disease in the US and Australia, and authorised nationally in EU countries such as Ireland. The EU's three ED authorisations (Uprima, Ixense, Taluvian, 2001) were withdrawn or expired by 2006. Canada lists no current human apomorphine product. It is not on WADA's Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine for Parkinson's disease (Apokyn 2004; Onapgo 2025). Kynmobi (2020) is listed as discontinued. Never approved for ED. Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021264",
+              "label": "openFDA (Drugs@FDA data), NDA 021264 (Apokyn)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA214056",
+              "label": "openFDA (Drugs@FDA data), NDA 214056 (Onapgo)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA210875",
+              "label": "openFDA (Drugs@FDA data), NDA 210875 (Kynmobi)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "No current human product: Movapo injection and Kynmobi film were both cancelled after marketing in 2023. The only other current listing is a veterinary product.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=apomorphine",
+              "label": "Health Canada Drug Product Database, ingredient search 'apomorphine'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=94632",
+              "label": "Health Canada Drug Product Database, Movapo status (drug code 94632)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=98995",
+              "label": "Health Canada Drug Product Database, Kynmobi status (drug code 98995)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "ED: Uprima, Ixense and Taluvian were authorised EU-wide on May 28, 2001. Taluvian and Ixense were withdrawn in 2004 and Uprima expired on May 28, 2006, all for commercial reasons. Apomorphine injections (APO-go, Dacepton) are authorised nationally in Ireland.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/uprima",
+              "label": "EMA, Uprima",
+              "date": "published May 2006"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ixense",
+              "label": "EMA, Ixense",
+              "date": "published Nov 2004"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/taluvian",
+              "label": "EMA, Taluvian",
+              "date": "published Nov 2004"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), list of authorised human medicines",
+              "date": "published Nov 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Apomine and Movapo apomorphine products. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=apomorphine",
+              "label": "TGA, PI/CMI search: apomorphine",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "p",
+          "text": "European Union, ED history: EMA says Uprima was marketed in Ireland, the UK, Spain, France, Sweden and Norway; Ixense in Austria, Germany, France and Italy; and Taluvian only in Spain. The holders withdrew Taluvian and Ixense in 2004, and did not renew Uprima, citing commercial reasons. EMA's current list of centrally authorised medicines shows all three as withdrawn.",
+          "src": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/uprima",
+              "label": "EMA, Uprima",
+              "date": "published May 2006"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ixense",
+              "label": "EMA, Ixense",
+              "date": "published Nov 2004"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/taluvian",
+              "label": "EMA, Taluvian",
+              "date": "published Nov 2004"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (JSON report)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ]
+        },
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Apomorphine is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no current government approval for human therapeutic use, and apomorphine is approved for some use (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "In the ED trials, nausea was the most common side effect and rose with dose. The Parkinson's labels list serious risks including fainting and low blood pressure, falling asleep suddenly, hallucinations, impulse-control problems, heart events and priapism."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Nausea (ED trials):",
+            "text": "nausea was the most common side effect of sublingual apomorphine and rose with dose. In the 2020 review, more men stopped for side effects on apomorphine than on placebo, especially at higher doses.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10869641/",
+                "label": "Dula et al., Urology, PubMed",
+                "date": "published Jul 2000"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32964351/",
+                "label": "Guillén et al., Arch Sex Behav, PubMed",
+                "date": "published Nov 2020"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/7855966/",
+                "label": "Heaton et al., Urology, PubMed",
+                "date": "published Feb 1995"
+              }
+            ]
+          },
+          {
+            "lead": "Priapism:",
+            "text": "in Parkinson's studies, painful erections were reported by 3 of 361 men on Apokyn, and one man stopped because of priapism. The label says severe priapism may need surgery.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 5.15",
+                "date": "published Oct 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a",
+                "label": "Onapgo label, section 5.15",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure and fainting:",
+            "text": "about 2% of Apokyn-treated patients fainted in clinical studies. Profound low blood pressure and loss of consciousness were reported with ondansetron, which is contraindicated.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, sections 4 and 5.4",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Sleepiness:",
+            "text": "patients on Apokyn have been reported to fall asleep suddenly, without warning, during daily activities. Sleepiness is common.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 5.3",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Mind and behaviour:",
+            "text": "hallucinations were reported by 14% of Apokyn-treated patients in studies. Intense urges to gamble, spend money or have sex have been reported.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, sections 5.6 and 5.9",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "4% of Apokyn-treated patients in studies had angina, heart attack, cardiac arrest or sudden death. Apomorphine prolongs the QTc interval in a dose-related way.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, sections 5.10 and 5.11",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Other label warnings:",
+            "text": "hemolytic anemia needing hospital care, fibrotic complications, a fever-and-confusion syndrome on stopping, allergic reactions (it contains a sulfite), and dyskinesias.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 5",
+                "date": "published Oct 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Common in Parkinson's trials:",
+            "text": "yawning, sleepiness, dyskinesias, dizziness or low blood pressure on standing, runny nose, nausea or vomiting, hallucination or confusion, and swelling of the limbs.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3235535d-9ef9-4657-8b2a-176a807d091c",
+                "label": "Apokyn label, section 6.1",
+                "date": "published Oct 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA's website (accessdata.fda.gov) blocked automated requests, so approval dates and Kynmobi's discontinued status rest on openFDA's copy of Drugs@FDA data.",
+    "Whether a US application for sublingual apomorphine for ED was ever filed or withdrawn was not confirmed from an FDA record.",
+    "The EU product information and assessment reports for Uprima, Ixense and Taluvian have been removed by EMA, so their trial data were not read.",
+    "MHRA's product database could not be read, so the current UK status is not stated.",
+    "The approved uses of the Irish and Australian apomorphine products were not read from their product information.",
+    "Early drug-level studies of sublingual apomorphine were not reviewed."
+  ],
+  "surprises": [
+    "Apomorphine was an authorised ED medicine across the EU from 2001, but all three EU authorisations ended by 2006 for commercial reasons, according to EMA.",
+    "Kynmobi, approved by FDA in 2020, is now listed as discontinued in FDA's data, and Health Canada cancelled its Kynmobi listings in 2023."
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "slug": "avanafil",
+  "name": "Avanafil",
+  "row": "Avanafil",
+  "aka": [
+    "Stendra",
+    "Spedra",
+    "TA-1790"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Approved; Phase 3 RCTs",
+    "fda": "Approved (Stendra)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Selective PDE5 block in lab assays; dog studies",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Early studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "VIVUS drug-level and interaction studies",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Phase II studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Four placebo-controlled trials in the FDA label",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Stendra, 2012, erectile dysfunction",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Avanafil is a small-molecule drug called a PDE5 inhibitor, the same drug class as sildenafil and tadalafil. It is the active ingredient in Stendra, a tablet approved in the US for erectile dysfunction (ED) in adult men. In the EU it is sold as Spedra.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+            "label": "Stendra label, DailyMed",
+            "date": "published Jul 2024"
+          },
+          {
+            "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spedra",
+            "label": "EMA, Spedra EPAR",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "During sexual stimulation, nitric oxide is released in the penis. It raises a messenger called cGMP, which relaxes smooth muscle and lets blood flow in.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 12.1",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "text": "The enzyme PDE5 breaks cGMP down. Avanafil blocks PDE5. The label says it has no direct relaxing effect on penile tissue by itself, and sexual stimulation is needed for it to have an effect.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 12.1",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "text": "The label gives a terminal half-life of about 5 hours. Strong CYP3A4 blockers such as ketoconazole and ritonavir raise avanafil levels many-fold.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, sections 7 and 12.3",
+                "date": "published Jul 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Avanafil was tested in four randomized, double-blind, placebo-controlled trials of 2 to 3 months, described in the FDA label. They covered men with ED in general, men with diabetes, men after prostate cancer surgery, and how soon the drug acted. The published reports are listed below as they were run."
+      },
+      {
+        "t": "p",
+        "text": "The label says avanafil was given to 2,215 men in clinical trials. In three of the trials, men were 23 to 88 years old (mean 56.4); 30.6% had diabetes. The main measures were the erectile function score of the International Index of Erectile Function (IIEF) questionnaire and two diary questions: could the man insert his penis (SEP2), and did the erection last for successful intercourse (SEP3).",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+            "label": "Stendra label, sections 6.1 and 14",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized, double-blind Phase 3 trial",
+        "title": "Men with ED in general (J Sex Med 2012)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Goldstein I, McCullough AR, Jones LA, et al. J Sex Med 2012;9(4):1122-33"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, double-blind, placebo-controlled, parallel groups (NCT00790751)"
+          },
+          {
+            "k": "People",
+            "v": "646 men with mild to severe ED"
+          },
+          {
+            "k": "What was given",
+            "v": "avanafil 50, 100 or 200 mg, or placebo, about 30 minutes before sexual activity, with no food or alcohol limits"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "SEP2, SEP3 and the IIEF erectile function score"
+          }
+        ],
+        "found": "All three doses scored better than placebo on all three measures (P ≤ 0.001). In the label's table, the share of attempts with successful intercourse was 41% to 57% on avanafil at the end vs 27% on placebo. Headache, flushing and stuffy nose were the most common side effects. No serious side effects were judged drug-related.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22248153/",
+            "label": "Goldstein et al., J Sex Med, PubMed",
+            "date": "published Apr 2012"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+            "label": "Stendra label, section 14, Table 7",
+            "date": "published Jul 2024"
+          },
+          {
+            "url": "https://clinicaltrials.gov/study/NCT00790751",
+            "label": "ClinicalTrials.gov, NCT00790751",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2012 · Randomized, double-blind Phase 3 trial",
+        "title": "Men with diabetes (Mayo Clin Proc 2012)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Goldstein I, Jones LA, Belkoff LH, et al. Mayo Clin Proc 2012;87(9):843-52"
+          },
+          {
+            "k": "Design",
+            "v": "multicenter, double-blind, placebo-controlled; run December 2008 to February 2010 (NCT00809471)"
+          },
+          {
+            "k": "People",
+            "v": "390 men with type 1 or type 2 diabetes and ED"
+          },
+          {
+            "k": "What was given",
+            "v": "avanafil 100 mg (129 men), avanafil 200 mg (131 men) or placebo (130 men), as needed"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "SEP2, SEP3 and the IIEF erectile function score"
+          }
+        ],
+        "found": "Both doses scored better than placebo on all three measures (P ≤ 0.002). In the label's table, successful intercourse rose to 34% to 40% of attempts vs 21% on placebo. Headache, nasopharyngitis, flushing and sinus congestion were the most common side effects.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22857780/",
+            "label": "Goldstein et al., Mayo Clin Proc, PubMed",
+            "date": "published Sep 2012"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+            "label": "Stendra label, section 14, Table 8",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2013 · Randomized, double-blind Phase 3 trial",
+        "title": "ED after nerve-sparing prostate surgery (J Urol 2013)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Mulhall JP, Burnett AL, Wang R, et al. J Urol 2013;189(6):2229-36"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, parallel groups (NCT00895011)"
+          },
+          {
+            "k": "People",
+            "v": "298 men aged 18 to 70 with ED for 6 months or more after bilateral nerve-sparing radical prostatectomy; 71.5% had severe ED"
+          },
+          {
+            "k": "What was given",
+            "v": "avanafil 100 or 200 mg, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "SEP2, SEP3 and the IIEF erectile function score"
+          }
+        ],
+        "found": "Both doses scored better than placebo on all three measures (P < 0.01). 84.6% finished the study. Scores stayed low overall: in the label's table, the mean IIEF erectile function score at the end was 12.6 to 14.7 on avanafil vs 9.3 on placebo, out of 30. No serious side effects were reported.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23219537/",
+            "label": "Mulhall et al., J Urol, PubMed",
+            "date": "published Jun 2013"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+            "label": "Stendra label, section 14, Table 9",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 2015 · Randomized, double-blind trial",
+        "title": "How soon it acts: attempts about 15 minutes after a dose (J Urol 2015)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Hellstrom WJ, Kaminetsky J, Belkoff LH, et al. J Urol 2015;194(2):485-92"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, placebo-controlled, 4-week run-in then 8 weeks of treatment"
+          },
+          {
+            "k": "People",
+            "v": "440 men with mild to severe ED (145 placebo, 147 on 100 mg, 148 on 200 mg)"
+          },
+          {
+            "k": "What was given",
+            "v": "avanafil 100 or 200 mg, or placebo, as needed"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks in all"
+          },
+          {
+            "k": "Measured",
+            "v": "share of attempts, timed with a stopwatch, with an erection good enough for penetration within about 15 minutes that led to successful intercourse"
+          }
+        ],
+        "found": "The mean share of such attempts was 25.9% (100 mg) and 29.1% (200 mg) vs 14.9% on placebo (P = 0.001 and P < 0.001). Headache, upper respiratory infection and stuffy nose were reported. Four of the authors worked for Auxilium Pharmaceuticals or VIVUS.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25591992/",
+            "label": "Hellstrom et al., J Urol, PubMed",
+            "date": "published Aug 2015"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+            "label": "Stendra label, section 14, Table 10",
+            "date": "published Jul 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "India · 2022 · Randomized, double-blind trial vs sildenafil",
+        "title": "Avanafil compared with sildenafil (Int J Urol 2022)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Kumar M, Pathade AD, Gupta SV, et al. Int J Urol 2022;29(4):351-9"
+          },
+          {
+            "k": "Design",
+            "v": "double-blind, active-controlled, parallel, multicenter non-inferiority trial; no placebo group. Two authors worked for Zydus Healthcare, which holds the copyright."
+          },
+          {
+            "k": "People",
+            "v": "220 men with ED for at least 3 months"
+          },
+          {
+            "k": "What was given",
+            "v": "avanafil 100 mg or sildenafil 50 mg, with a step up to 200 mg or 100 mg allowed after 4 weeks"
+          },
+          {
+            "k": "Length",
+            "v": "12 weeks"
+          },
+          {
+            "k": "Measured",
+            "v": "change in IIEF erectile function score; a modified Sexual Encounter Profile question on onset"
+          }
+        ],
+        "found": "Avanafil met the non-inferiority goal at week 4. The difference in IIEF score favoured avanafil by 2.1 points at week 12 (95% CI 0.8 to 3.5). Headache was the most common side effect in both groups.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35080051/",
+            "label": "Kumar et al., Int J Urol, PubMed",
+            "date": "published Apr 2022"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "ClinicalTrials.gov lists 27 studies that mention avanafil. Many are VIVUS-sponsored Phase 1 studies in healthy men: drug levels, food, liver and kidney impairment, alcohol, heart rhythm, and interactions with other drugs. They were not reviewed one by one here.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/search?term=avanafil",
+            "label": "ClinicalTrials.gov search for 'avanafil'",
+            "date": "accessed Nov 1, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Lab and animal studies"
+      },
+      {
+        "t": "p",
+        "text": "In lab enzyme tests by scientists at Mitsubishi Tanabe Pharma, avanafil blocked PDE5 and showed more selectivity against the related enzymes PDE6 and PDE1 than sildenafil and vardenafil. In anaesthetized dogs, it increased nerve-triggered penile swelling. These were lab and animal studies.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22704456/",
+            "label": "Kotera et al., J Urol, PubMed",
+            "date": "published Aug 2012"
+          }
+        ]
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Avanafil is FDA approved, by prescription, as Stendra (2012) for erectile dysfunction. A generic avanafil tablet was approved in 2024. Compounded versions are not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Stendra:",
+            "text": "approved April 27, 2012 (NDA 202276) as a new molecular entity. Approved use: treatment of erectile dysfunction in adult males. FDA's data list later efficacy supplements in 2014, 2018 and 2022.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA202276",
+                "label": "openFDA (Drugs@FDA data), NDA 202276",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, DailyMed",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Generic:",
+            "text": "avanafil tablets were approved June 14, 2024 (ANDA 209266). A generic label is on DailyMed.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA209266",
+                "label": "openFDA (Drugs@FDA data), ANDA 209266",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d04e17d-7399-430a-a8bb-fa1912b155e9",
+                "label": "Avanafil tablets (generic) label, DailyMed",
+                "date": "published Dec 2025"
+              }
+            ]
+          },
+          {
+            "lead": "Do not combine (contraindications):",
+            "text": "the label says avanafil must not be used with any form of organic nitrate, or with guanylate cyclase stimulators such as riociguat and vericiguat.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 4",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Combining with other ED drugs:",
+            "text": "the label says the safety of combining avanafil with other ED treatments has not been studied, and advises against such combinations.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 5.8",
+                "date": "published Jul 2024"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Avanafil is an approved prescription medicine in the US (Stendra), the EU (Spedra) and Australia. Health Canada's drug database lists no avanafil product. The UK status was not confirmed. It is not on WADA's Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Stendra 2012, ED; generic tablets 2024). Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA202276",
+              "label": "openFDA (Drugs@FDA data), NDA 202276",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:ANDA209266",
+              "label": "openFDA (Drugs@FDA data), ANDA 209266",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Not approved: a search of Health Canada's Drug Product Database for the ingredient avanafil returned no product.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=avanafil",
+              "label": "Health Canada Drug Product Database, ingredient search 'avanafil'",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "not"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA",
+          "status": "Approved medicine. Spedra authorised EU-wide on June 21, 2013, for ED in adult men.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spedra",
+              "label": "EMA, Spedra EPAR",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (JSON report)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Spedra (avanafil). PDE5 inhibitors are prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=avanafil",
+              "label": "TGA, PI/CMI search: avanafil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Avanafil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no current government approval for human therapeutic use, and avanafil is approved for some use (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists headache, flushing, stuffy nose, nasopharyngitis and back pain as the most common side effects. Serious risks include a dangerous drop in blood pressure with nitrates, erections lasting more than 4 hours, sudden vision loss and sudden hearing loss."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Common, in three 3-month placebo-controlled trials:",
+            "text": "headache (5.1% to 10.5% on avanafil vs 1.7% on placebo), flushing (3.2% to 4.3% vs 0%), stuffy nose (1.8% to 2.9% vs 1.1%), nasopharyngitis and back pain. Some rose with dose. 1.4% to 2.0% stopped for side effects, vs 1.7% on placebo.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 6.1, Table 1",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Nitrates and riociguat:",
+            "text": "contraindicated. The label says nitrates with avanafil could make blood pressure drop suddenly to an unsafe level, causing dizziness, fainting, or even heart attack or stroke.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, sections 4 and 17.1",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Heart:",
+            "text": "ED treatments should not be used in men for whom sexual activity is inadvisable because of their heart condition. In healthy volunteers, 200 mg lowered sitting blood pressure briefly by 8.0/3.3 mmHg.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 5.1",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Prolonged erection and priapism:",
+            "text": "erections over 4 hours and priapism (painful erections over 6 hours) have been reported with other PDE5 inhibitors. Untreated, they can damage penile tissue and cause permanent loss of potency.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, section 5.3",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Sudden vision or hearing loss:",
+            "text": "sudden loss of vision in one or both eyes can be a sign of NAION, a type of optic nerve damage. Sudden hearing loss, sometimes with ringing in the ears or dizziness, has been linked in time with PDE5 inhibitors. The label tells patients to stop and seek care.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, sections 5.4 and 5.5",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure with other drugs or alcohol:",
+            "text": "caution with alpha-blockers and blood-pressure medicines. The label warns that more than 3 units of alcohol with avanafil may lead to low blood pressure.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, sections 5.6 and 5.7",
+                "date": "published Jul 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Drug interactions:",
+            "text": "the label says not to use avanafil with strong CYP3A4 inhibitors such as ketoconazole or ritonavir, which raised avanafil exposure up to 13-fold.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fa7d93e3-b69b-4e02-8146-89760cd8e9d6",
+                "label": "Stendra label, sections 5.2 and 7",
+                "date": "published Jul 2024"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA's website (accessdata.fda.gov) blocked automated requests, so approval dates rest on openFDA's copy of Drugs@FDA data.",
+    "What each Stendra efficacy supplement (2014, 2018, 2022) changed was not confirmed from an FDA letter.",
+    "MHRA's product database could not be read, so UK authorisation of Spedra or generic avanafil is not confirmed here.",
+    "Early human studies and Phase 1 and Phase 2 trials were not reviewed one by one."
+  ],
+  "surprises": [
+    "Health Canada's Drug Product Database lists no avanafil product at all, although it is approved in the US, EU and Australia."
+  ]
+}

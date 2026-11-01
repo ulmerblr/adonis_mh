@@ -1,0 +1,721 @@
+{
+  "slug": "alprostadil",
+  "name": "Alprostadil",
+  "row": "Alprostadil",
+  "aka": [
+    "Caverject",
+    "Caverject Impulse",
+    "Edex",
+    "Muse",
+    "Vitaros",
+    "Prostin VR",
+    "Prostaglandin E1",
+    "PGE1"
+  ],
+  "checked": "November 1, 2026",
+  "peptide": false,
+  "lanes": [
+    "vitality"
+  ],
+  "index": {
+    "evidence": "Approved; RCTs",
+    "fda": "Approved (Caverject)",
+    "sport": "Not listed"
+  },
+  "track": [
+    {
+      "title": "Lab & animal",
+      "line": "Raises cAMP in penile smooth muscle (label)",
+      "status": "done"
+    },
+    {
+      "title": "Pilot in people",
+      "line": "Early studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase I",
+      "line": "Early drug-level studies not reviewed",
+      "status": "done"
+    },
+    {
+      "title": "Phase II",
+      "line": "Dose-response study, 296 men (NEJM 1996)",
+      "status": "done"
+    },
+    {
+      "title": "Phase III",
+      "line": "Self-injection, 683 men; Muse, 1,511 men",
+      "status": "done"
+    },
+    {
+      "title": "FDA approval",
+      "line": "Caverject 1995, Muse 1996, Edex 1997 (ED)",
+      "status": "done",
+      "here": true
+    }
+  ],
+  "sections": {
+    "what": [
+      {
+        "t": "p",
+        "text": "Alprostadil is the drug form of prostaglandin E1 (PGE1), a natural fatty-acid messenger. For erectile dysfunction (ED) it is injected into the side of the penis (intracavernosal injection), as Caverject and Edex, or was placed in the urethra as a small pellet, as Muse. A different alprostadil product, Prostin VR Pediatric, is an infusion for newborns with certain heart defects.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+            "label": "Caverject label, DailyMed",
+            "date": "published May 2024"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8b8ec8d-1318-43e4-a182-446e9f9579de",
+            "label": "Edex label, DailyMed",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020700",
+            "label": "openFDA (Drugs@FDA data), NDA 020700 (Muse)",
+            "date": "accessed Nov 1, 2026"
+          },
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3",
+            "label": "Prostin VR Pediatric label, DailyMed",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "How it acts, according to the FDA label"
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "text": "Alprostadil binds its receptors in the penis and raises a messenger called cAMP. This relaxes the spongy smooth muscle and widens the penile arteries.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 12.1",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "text": "The spaces in the penis fill with blood, which presses the small veins shut and traps the blood (the veno-occlusive mechanism).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 12.1",
+                "date": "published May 2024"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Alprostadil is also one of the three drugs in compounded \"Trimix\" injections, together with papaverine and phentolamine. Trimix is not an FDA-approved product (see US position).",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+            "label": "Seyam et al., Int J Impot Res, PubMed",
+            "date": "published Jul 2005"
+          }
+        ]
+      }
+    ],
+    "research": [
+      {
+        "t": "lead",
+        "text": "Injected and urethral alprostadil were tested in placebo-controlled trials in the 1990s. Two large published reports, the label's own trials and one study comparing it with a compounded three-drug mix are listed below as they were run."
+      },
+      {
+        "t": "h3",
+        "text": "Human studies"
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1996 · Three studies: placebo-controlled dose-response, then open-label self-injection",
+        "title": "Injected alprostadil (NEJM 1996)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Linet OI, Ogrinc FG; Alprostadil Study Group. N Engl J Med 1996;334(14):873-7"
+          },
+          {
+            "k": "Design",
+            "v": "three multi-center, prospective studies, including a placebo-controlled dose-response study and a 6-month self-injection study"
+          },
+          {
+            "k": "People",
+            "v": "296 men in the dose-response study; 683 men in the self-injection study. ED of vascular, nerve, psychological and mixed causes."
+          },
+          {
+            "k": "What was given",
+            "v": "injections of alprostadil into the penis, at a range of doses, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "up to 6 months"
+          },
+          {
+            "k": "Measured",
+            "v": "clinic and lab ratings of erection; whether sexual activity was possible and satisfactory, rated by men and partners"
+          }
+        ],
+        "found": "All doses did better than placebo, with a dose-response (P ≤ 0.001). In the 6-month study, men reported sexual activity was possible after 94% of injections. Penile pain occurred at some time in 50% of men, prolonged erection in 5%, priapism in 1%, penile scarring (fibrosis) in 2%, and bruising or blood collection in 8%.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8596569/",
+            "label": "Linet and Ogrinc, NEJM, PubMed",
+            "date": "published Apr 1996"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "USA · 1997 · Randomized, double-blind, placebo-controlled",
+        "title": "Urethral alprostadil, Muse (NEJM 1997)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Padma-Nathan H, Hellstrom WJ, Kaiser FE, et al.; MUSE Study Group. N Engl J Med 1997;336(1):1-7"
+          },
+          {
+            "k": "Design",
+            "v": "in-clinic dose testing, then men who responded were randomized to their dose or placebo at home"
+          },
+          {
+            "k": "People",
+            "v": "1,511 men aged 27 to 88 with long-standing ED from physical causes; 996 responded in the clinic and 961 reported home results"
+          },
+          {
+            "k": "What was given",
+            "v": "alprostadil 125 to 1,000 micrograms placed in the urethra, or placebo"
+          },
+          {
+            "k": "Length",
+            "v": "3 months at home"
+          },
+          {
+            "k": "Measured",
+            "v": "whether men had intercourse successfully at least once"
+          }
+        ],
+        "found": "64.9% of men on alprostadil (299 of 461) had intercourse at least once, vs 18.6% on placebo (93 of 500, P < 0.001). Mild penile pain followed 10.8% of doses. Low blood pressure occurred in the clinic in 3.3% of men. No priapism or penile fibrosis was seen.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8970933/",
+            "label": "Padma-Nathan et al., NEJM, PubMed",
+            "date": "published Jan 1997"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Label trials · Double-blind, placebo-controlled",
+        "title": "Caverject trials described in the FDA label",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "Study 1: 2.5-week randomized, double-blind crossover vs placebo, then dose finding and 4 weeks at home. Study 2: double-blind, parallel groups, single dose. Study 3: 6-month open-label."
+          },
+          {
+            "k": "People",
+            "v": "153 men aged 23 to 69 (Study 1); 296 men aged 21 to 74 (Study 2)"
+          },
+          {
+            "k": "What was given",
+            "v": "Caverject 2.5 to 20 micrograms or placebo, injected into the penis"
+          },
+          {
+            "k": "Measured",
+            "v": "full rigidity on exam, and a rigidity monitor (RigiScan)"
+          }
+        ],
+        "found": "No man responded to placebo. Response rose with dose. In Study 1, 76% responded by clinical exam and 51% by RigiScan; 73% of home injections in 102 men led to satisfactory intercourse.",
+        "src": [
+          {
+            "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+            "label": "Caverject label, section 14",
+            "date": "published May 2024"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "meta": "Saudi Arabia · 2005 · Randomized comparison",
+        "title": "Compounded Trimix vs alprostadil alone (Int J Impot Res 2005)",
+        "facts": [
+          {
+            "k": "Citation",
+            "v": "Seyam R, Mohamed K, Akhras AA, Rashwan H. Int J Impot Res 2005;17(4):346-53"
+          },
+          {
+            "k": "Design",
+            "v": "prospective; 9 groups of Trimix doses; each man got alprostadil 20 micrograms and one Trimix dose, 1 week apart"
+          },
+          {
+            "k": "People",
+            "v": "180 men with ED; mean age 50.5; 91% with a physical cause"
+          },
+          {
+            "k": "What was given",
+            "v": "Trimix (phentolamine 1 mg, alprostadil 2.5 to 10 micrograms, papaverine 5 to 20 mg) vs alprostadil alone"
+          },
+          {
+            "k": "Length",
+            "v": "two clinic visits"
+          },
+          {
+            "k": "Measured",
+            "v": "penile artery flow on ultrasound, rigidity, satisfaction, time to go down, side effects"
+          }
+        ],
+        "found": "Blood flow, rigidity, pain and satisfaction did not differ significantly. Trimix gave longer erections and more priapism than alprostadil alone.",
+        "src": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+            "label": "Seyam et al., Int J Impot Res, PubMed",
+            "date": "published Jul 2005"
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Trimix and Bimix are compounded mixtures, not FDA-approved products."
+      }
+    ],
+    "us": [
+      {
+        "t": "lead",
+        "text": "Alprostadil is FDA approved, by prescription, for erectile dysfunction as Caverject (1995), Edex (1997) and Caverject Impulse (2002), all injected into the penis. Muse (1996), the urethral form, is listed as discontinued. Compounded Trimix is not FDA approved. As of November 1, 2026."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Caverject:",
+            "text": "approved July 6, 1995 (NDA 020379), with priority review. Approved uses: treatment of ED, and as an add-on to other tests in diagnosing ED.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020379",
+                "label": "openFDA (Drugs@FDA data), NDA 020379 (Caverject)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 1",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Edex:",
+            "text": "approved June 12, 1997 (NDA 020649). Approved use: ED of nerve, blood-vessel, psychological or mixed cause.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020649",
+                "label": "openFDA (Drugs@FDA data), NDA 020649 (Edex)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8b8ec8d-1318-43e4-a182-446e9f9579de",
+                "label": "Edex label, Indications",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Caverject Impulse:",
+            "text": "a dual-chamber syringe form, approved June 11, 2002 (NDA 021212), for ED and as a diagnostic add-on.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021212",
+                "label": "openFDA (Drugs@FDA data), NDA 021212 (Caverject Impulse)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4dec1dbd-c63b-4a1b-81cb-c8d29696cc40",
+                "label": "Caverject Impulse label, DailyMed",
+                "date": "published Mar 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Muse:",
+            "text": "the urethral pellet, approved November 19, 1996 (NDA 020700). FDA's data now list every Muse strength as discontinued, and the search found no current Muse label on DailyMed.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020700",
+                "label": "openFDA (Drugs@FDA data), NDA 020700 (Muse)",
+                "date": "accessed Nov 1, 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Prostin VR Pediatric:",
+            "text": "approved October 16, 1981 (NDA 018484) to keep a newborn's ductus arteriosus open until heart surgery. It is not an ED product.",
+            "src": [
+              {
+                "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA018484",
+                "label": "openFDA (Drugs@FDA data), NDA 018484 (Prostin VR Pediatric)",
+                "date": "accessed Nov 1, 2026"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3",
+                "label": "Prostin VR Pediatric label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Combining with other injected drugs:",
+            "text": "the Caverject label says the safety and efficacy of combining it with other vasoactive drugs injected into the penis have not been established, and the risks of prolonged erection, priapism and low blood pressure may be higher. The Edex label advises against such combinations.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 5.6",
+                "date": "published May 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8b8ec8d-1318-43e4-a182-446e9f9579de",
+                "label": "Edex label, Precautions",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Trimix:",
+            "text": "a compounded injection of alprostadil, papaverine and phentolamine. No FDA-approved Trimix product exists, and papaverine itself has no FDA approval (see the papaverine page). FDA lists alprostadil and phentolamine mesylate as components of approved drugs, and papaverine hydrochloride as not, among bulk substances under evaluation for outsourcing-facility (503B) compounding.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/media/94164/download",
+                "label": "FDA, 503B bulk drug substance categories",
+                "date": "published Mar 2025"
+              },
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+                "label": "Seyam et al., Int J Impot Res, PubMed",
+                "date": "published Jul 2005"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "callout",
+        "text": "Compounded Trimix and Bimix injections are not FDA approved."
+      },
+      {
+        "t": "p",
+        "text": "FDA says compounded drugs are not FDA approved, which means FDA does not verify their safety, effectiveness or quality before they are marketed.",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+            "label": "FDA, Compounding and the FDA: Q&A",
+            "date": "published Sep 2025"
+          }
+        ]
+      }
+    ],
+    "world": {
+      "lead": "Alprostadil for ED is an approved prescription medicine in the US, Canada, Australia and EU countries such as Ireland. There is no EU-wide (EMA) authorisation; products are authorised country by country. The UK status was not confirmed. It is not on WADA's Prohibited List.",
+      "countries": [
+        {
+          "country": "United States",
+          "regulator": "FDA",
+          "status": "Approved medicine (Caverject 1995, Edex 1997, Caverject Impulse 2002, all ED; Muse 1996, now discontinued). Prescription-only.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020379",
+              "label": "openFDA (Drugs@FDA data), NDA 020379 (Caverject)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020649",
+              "label": "openFDA (Drugs@FDA data), NDA 020649 (Edex)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020700",
+              "label": "openFDA (Drugs@FDA data), NDA 020700 (Muse)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "840"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Canada",
+          "regulator": "Health Canada",
+          "status": "Approved medicine. Caverject (injection into the penis) and Prostin VR are listed as marketed, prescription. Vitaros cream is listed as approved (2015). Muse was cancelled after marketing in May 2026.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=alprostadil",
+              "label": "Health Canada Drug Product Database, ingredient search 'alprostadil'",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=20353",
+              "label": "Health Canada Drug Product Database, Caverject status (drug code 20353)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=84444",
+              "label": "Health Canada Drug Product Database, Vitaros status (drug code 84444)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=62021",
+              "label": "Health Canada Drug Product Database, Muse status (drug code 62021)",
+              "date": "accessed Nov 1, 2026"
+            }
+          ],
+          "iso": [
+            "124"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "United Kingdom",
+          "regulator": "MHRA",
+          "status": "Status being confirmed with the regulator's record.",
+          "checked": "—",
+          "iso": [
+            "826"
+          ],
+          "tone": "pending"
+        },
+        {
+          "country": "European Union",
+          "regulator": "EMA / national agencies",
+          "status": "No EU-wide (EMA) authorisation. Authorised nationally: Ireland's HPRA lists Caverject 10 and 20 microgram injections and Vitaros cream (2015). Other member states not checked.",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json",
+              "label": "EMA, list of centrally authorised medicines (JSON report)",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml",
+              "label": "HPRA (Ireland), list of authorised human medicines",
+              "date": "published Nov 2026"
+            }
+          ],
+          "iso": [
+            "040",
+            "056",
+            "100",
+            "191",
+            "196",
+            "203",
+            "208",
+            "233",
+            "246",
+            "250",
+            "276",
+            "300",
+            "348",
+            "372",
+            "380",
+            "428",
+            "440",
+            "442",
+            "470",
+            "528",
+            "616",
+            "620",
+            "642",
+            "703",
+            "705",
+            "724",
+            "752"
+          ],
+          "tone": "approved"
+        },
+        {
+          "country": "Australia",
+          "regulator": "TGA",
+          "status": "Approved medicine: TGA publishes product information for Caverject Impulse, Prostin VR and Neupedix. Prescription-only (Schedule 4).",
+          "checked": "Nov 1, 2026",
+          "sources": [
+            {
+              "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=alprostadil",
+              "label": "TGA, PI/CMI search: alprostadil",
+              "date": "accessed Nov 1, 2026"
+            },
+            {
+              "url": "https://www.legislation.gov.au/F2026L01327/asmade/2026-09-30/text/original/pdf",
+              "label": "Poisons Standard, October 2026",
+              "date": "published Sep 2026"
+            }
+          ],
+          "iso": [
+            "036"
+          ],
+          "tone": "approved"
+        }
+      ],
+      "after": [
+        {
+          "t": "card",
+          "title": "Sport",
+          "text": "Alprostadil is not named on the WADA 2026 Prohibited List or on the 2027 List, which takes effect January 1, 2027. It is not in the 2027 Monitoring Program either. Class S0 covers only substances with no current government approval for human therapeutic use, and alprostadil is approved for some use (see above).",
+          "src": [
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+              "label": "WADA 2026 Prohibited List",
+              "date": "published Sep 2025"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027list_en_final_tracked_changes_26_august_2026.pdf",
+              "label": "WADA 2027 Prohibited List (tracked changes)",
+              "date": "published Aug 2026"
+            },
+            {
+              "url": "https://www.wada-ama.org/sites/default/files/2026-09/2027_list_monitoring_program_en_final_clean_21_august_2026.pdf",
+              "label": "WADA 2027 Monitoring Program",
+              "date": "published Aug 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "side": [
+      {
+        "t": "lead",
+        "text": "The label lists penile pain as the most common side effect. Serious risks include prolonged erection and priapism, which can cause permanent damage if not treated, and scarring of the penis (penile fibrosis)."
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Prolonged erection and priapism:",
+            "text": "in Caverject studies of 1,861 men treated up to 18 months, erections of 4 to 6 hours occurred in 4% and priapism (over 6 hours) in 0.4%. The label says untreated priapism can cause penile tissue damage and permanent loss of potency, and that men with sickle cell disease or trait, multiple myeloma or leukemia must not use it.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, sections 4 and 5.1",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Penile fibrosis:",
+            "text": "scarring of the penis was reported in 3% of men overall in Caverject studies, and in 7.8% in one self-injection study of up to 18 months. The Edex label reports 7.8% over up to 24 months, including Peyronie's disease. Both labels say to examine the penis regularly and stop if angulation or fibrosis develops.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 5.2",
+                "date": "published May 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8b8ec8d-1318-43e4-a182-446e9f9579de",
+                "label": "Edex label, Precautions",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Local side effects:",
+            "text": "penile pain (37% of men on Caverject; 2% on placebo; 3% stopped for pain), bruising or blood collection at the site (2% to 3%), penile rash or swelling (1%).",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 6.1",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Low blood pressure:",
+            "text": "alprostadil can reach the bloodstream and lower blood pressure, especially in men with venous leak. Three men (0.2%) on Caverject stopped for symptomatic low blood pressure; dizziness occurred in 1%.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, sections 5.3 and 6.1",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Bleeding:",
+            "text": "men on blood thinners such as warfarin or heparin may bleed more at the injection site.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 5.4",
+                "date": "published May 2024"
+              }
+            ]
+          },
+          {
+            "lead": "Who should not use it:",
+            "text": "men with penile deformation, angulation, fibrosis or Peyronie's disease, and (Edex) men with penile implants.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98",
+                "label": "Caverject label, section 4",
+                "date": "published May 2024"
+              },
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e8b8ec8d-1318-43e4-a182-446e9f9579de",
+                "label": "Edex label, Contraindications",
+                "date": "published Jul 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Urethral form (Muse trial):",
+            "text": "mild penile pain after 10.8% of doses and low blood pressure in the clinic in 3.3% of men.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/8970933/",
+                "label": "Padma-Nathan et al., NEJM, PubMed",
+                "date": "published Jan 1997"
+              }
+            ]
+          },
+          {
+            "lead": "Trimix:",
+            "text": "in one randomized comparison, the compounded three-drug mix caused longer erections and more priapism than alprostadil alone.",
+            "src": [
+              {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15772683/",
+                "label": "Seyam et al., Int J Impot Res, PubMed",
+                "date": "published Jul 2005"
+              }
+            ]
+          },
+          {
+            "lead": "Newborns (Prostin VR Pediatric):",
+            "text": "the infant product's label opens with a warning: apnea (pauses in breathing) occurs in about 10% to 12% of treated newborns.",
+            "src": [
+              {
+                "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3",
+                "label": "Prostin VR Pediatric label, DailyMed",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "unconfirmed": [
+    "Drugs@FDA's website (accessdata.fda.gov) blocked automated requests, so approval dates and Muse's discontinued status rest on openFDA's copy of Drugs@FDA data.",
+    "Why Muse was discontinued in the US and cancelled in Canada was not confirmed from a regulator record.",
+    "FDA's status for alprostadil cream (Vitaros) was not confirmed; openFDA lists no approved alprostadil cream.",
+    "MHRA's product database could not be read, so UK authorisation of Caverject, Muse or Vitaros is not confirmed here.",
+    "The approved uses of Vitaros in Canada and Ireland, and of Neupedix in Australia, were not read from their product information."
+  ],
+  "surprises": [
+    "Muse, the urethral alprostadil pellet often listed as an ED option, is shown as discontinued in FDA's data, and Health Canada cancelled its Muse listings in May 2026."
+  ]
+}
