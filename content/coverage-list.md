@@ -25,6 +25,18 @@ C. Every compound Adonis Clinical carries sits in the same lane on both sites. T
    Check: node scripts/check-clinical-lanes.mjs (run it whenever a row is added or a lane changes; it must report
    0 mismatches).
 
+Article rule (EDU PROMPT 31). Each lane story is a news feature, not a category summary. It has one news peg: a specific,
+   recent development about one drug, company or regulator action (a trial result, an FDA action, an approval, a filing, a
+   warning, a funding round, a retraction). It tells that story: what happened; who is behind it; what the evidence shows,
+   reported as each study was run; why it matters to men; what is still unknown; what comes next and when. The lane's other
+   treatments appear only where they help the story; never a run-through of the whole lane. Format unchanged: 900 to 1,000
+   words, inline quotes with footnote numbers, a numbered Notes list, At a glance and pull quote only where they help, each
+   treatment named links once to its page. Content rules unchanged: published facts only, word-for-word quotes from sources
+   actually opened; never call an unapproved or compounded product FDA approved; no promises, no dosing, no prices, no
+   sellers, no Adonis/Beluga products. Company press releases and SEC filings may be cited for what a company says, plans or
+   reports, always attributed ("the company says"); a company's claims are never presented as independent fact. Before a
+   story is replaced, the old one is saved to content/archive/<lane>/ with the date.
+
 Lanes (EDU PROMPT 23): TRT, Weight, Recovery, Vitality, Energy, Brain, Sleep, Hair loss, Skin, Longevity.
 
 Every treatment a man is likely to run into for men's health in the nine lanes, whatever its status: FDA approved (for any
