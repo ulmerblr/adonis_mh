@@ -932,3 +932,9 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='longevity'] .spreadTitle { font-size: clamp(24px, 6.8cqw, 64px); }
   [data-lane='longevity'] .spreadPhoto { --fade-solid: 44%; --fade-end: 49%; }
 }
+
+/* EDU PROMPT 31: Energy (story unchanged) at 860-999px, where the taller In this issue box now makes the photo crop tighter. */
+@media (min-width: 860px) and (max-width: 999px) {
+  [data-lane='energy'] .spreadPhoto img { object-position: 64% 30% !important; }
+  [data-lane='energy'] .spreadPhoto { --fade-solid: 52%; --fade-end: 57%; }
+}
