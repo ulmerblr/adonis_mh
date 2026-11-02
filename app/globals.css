@@ -903,3 +903,9 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='brain'] .spreadDek { font-size: clamp(13px, 2.9cqw, 18px); }
   [data-lane='brain'] .spreadPhoto { --fade-solid: 33%; --fade-end: 37%; }
 }
+
+/* EDU PROMPT 31: Sleep at 860-999px, where the taller photo crops tighter. */
+@media (min-width: 860px) and (max-width: 999px) {
+  [data-lane='sleep'] .spreadPhoto img { object-position: 60% 30% !important; }
+  [data-lane='sleep'] .spreadPhoto { --fade-solid: 51%; --fade-end: 55%; }
+}

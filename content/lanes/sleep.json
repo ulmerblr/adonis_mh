@@ -1,145 +1,122 @@
 {
   "key": "sleep",
   "headline": [
-    "Sermorelin’s",
-    "missing approval."
+    "The melatonin",
+    "warning."
   ],
-  "dek": "It was FDA approved as Geref. Both approvals were withdrawn in 2009.",
+  "dek": "A large health-records study tied long-term melatonin use to heart failure. Here is what it can and cannot show.",
   "backdrop": "#152751",
   "headlineColor": "#F7F3EA",
   "photoAlt": "An older man in a cardigan holds a sleep study report.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
   "glance": [
     {
-      "icon": "calendar",
-      "label": "Approval withdrawn",
-      "line": "Geref (sermorelin) approved 1990 and 1997; withdrawn June 18, 2009."
-    },
-    {
       "icon": "people",
-      "label": "Sleep trials",
-      "line": "No sermorelin trial with sleep as its result. Magnesium: low-certainty evidence."
+      "label": "Who was studied",
+      "line": "130,828 adults with insomnia, in health records, followed for 5 years.",
+      "src": {
+        "href": "https://newsroom.heart.org/news/long-term-use-of-melatonin-supplements-to-support-sleep-may-have-negative-health-effects",
+        "label": "American Heart Association news release"
+      }
     },
     {
-      "icon": "banned",
-      "label": "Banned in sport",
-      "line": "Sermorelin, CJC-1295, ipamorelin and the GHRPs are banned at all times.",
-      "src": {
-        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-        "label": "WADA 2026 Prohibited List (S2.2.4)"
-      }
+      "icon": "mortar",
+      "label": "What kind of study",
+      "line": "Observational: an association, not proof of cause. A meeting abstract, not peer reviewed."
+    },
+    {
+      "icon": "calendar",
+      "label": "Status, Nov 2026",
+      "line": "No full paper found in PubMed. One regulator, in Saudi Arabia, has issued a safety signal."
     }
   ],
+  "pull": {
+    "quote": "challenge the perception of melatonin as a benign chronic therapy and underscore the need for randomized trials to clarify its cardiovascular safety profile.",
+    "note": "abstract"
+  },
   "body": [
-    "Men who sleep badly are offered a long list of fixes, and the most heavily marketed ones work through growth hormone. The idea is that the body releases much of its growth hormone during deep sleep, so a drug that raises it might deepen sleep too. The best known of these drugs, [[/sermorelin|sermorelin]], has an unusual history: it was once FDA approved, and it is not anymore.",
-    "Sermorelin is a short version of growth hormone-releasing hormone, the signal that tells the pituitary gland to release growth hormone. FDA approved it as Geref, first in 1990 as a test of whether the pituitary can release growth hormone, and in 1997 to treat children with growth hormone deficiency.[^geref1][^geref2] Then its maker stopped selling it. A 2009 Federal Register notice listed Geref among products whose holders “notified the agency in writing that the drug products were no longer marketed and requested that the approval of the applications be withdrawn.”[^fr2009] The withdrawal took effect on June 18, 2009.[^fr2009]",
-    "The reason was not safety. In 2013, FDA published its finding that Geref was “not withdrawn from sale for reasons of safety or effectiveness,”[^fr2013] a step that leaves room for generic versions. But no sermorelin product is FDA approved today. So when a product is described as FDA approved, it is pointing to an approval that ended in 2009. Compounded sermorelin is not FDA approved, and using it for sleep is off-label. In 2022, a compounding pharmacy recalled lots of several injectable products, including sermorelin, because “these compounded products were found to be out-of-specification.”[^olympia]",
-    "The sleep research behind sermorelin is indirect. We found no trial of sermorelin with sleep as its main result. In a 1999 German study, 12 young and 11 older healthy men were given growth hormone-releasing hormone or a placebo by nasal spray before bed.[^perras] The authors reported that the hormone “increased rapid-eye-movement (REM) sleep and slow wave sleep (SWS), with this influence concentrating on the second half of sleep time.”[^perras] The abstract does not say whether the hormone used was sermorelin.",
-    "A group of related peptides is sold for the same purpose, with less behind them. [[/cjc-1295|CJC-1295]] is a longer-acting relative of sermorelin, and [[/ipamorelin|ipamorelin]], [[/ghrp-2|GHRP-2]], [[/ghrp-6|GHRP-6]] and [[/hexarelin|hexarelin]] push the pituitary to release growth hormone by another route. FDA placed ipamorelin acetate in its category of compounding substances that may present significant safety risks in 2023, noting that “a study published in literature identified serious adverse events including death when ipamorelin was administered intravenously for improving gastric motility.”[^cat2] For GHRP-6, FDA writes that “the available data reveal safety concerns including potential effect on cortisol and increase in blood glucose due to decreases in insulin sensitivity.”[^cat2] For CJC-1295, it says it “has identified serious adverse events associated with CJC-1295 including increased heart rate and systemic vasodilatory reaction.”[^cat2] The pill [[/ibutamoren|ibutamoren]], sold as MK-677, is on the same list. FDA says it “poses significant safety risks due to the potential for congestive heart failure in certain patients,”[^cat2] and cites a hip-fracture trial that “was terminated early due to a potential safety signal of congestive heart failure.”[^cat2]",
-    "One peptide in this family is approved, but not for sleep. [[/tesamorelin|Tesamorelin]] is sold as Egrifta, and its label is narrow: it “is indicated for the reduction of excess abdominal fat in HIV-infected adult patients with lipodystrophy.”[^egrifta] Lipodystrophy is an abnormal shift in body fat. Any other use, including sleep, is off-label. The label also says that “Long-term cardiovascular safety of EGRIFTA WR has not been established.”[^egrifta]",
-    "Then there is [[/emideltide|emideltide]], sold online as DSIP, short for delta sleep-inducing peptide. Its name makes a promise its record does not keep. FDA’s compounding advisory committee considered it in July 2026, and according to Healio’s report, “the votes on emideltide failed with 6 ‘yes’ votes, 7 ‘no’ votes and 1 abstaining.”[^healio] FDA has not posted an official vote record. FDA had already noted that it “has not identified safety-related information regarding emideltide for the proposed route of administration.”[^cat2] It is not part of the October 2026 HHS peptide policy.",
-    "The supplements in this lane are simpler. [[/glycine|Glycine]] is an amino acid sold as a dietary supplement; its only FDA approval as a drug is as a surgical irrigation fluid, which “is indicated for use as irrigating fluid during transurethral prostatic resection and other transurethral surgical procedures.”[^glycine] A 2026 scoping review found that “all 3 glycine sleep trials reported benefits on at least 1 sleep-related outcome,”[^fan] and added that “larger mechanistic trials with standardized sleep outcomes are needed.”[^fan] [[/magnesium|Magnesium]] has more trials but no clearer answer. A 2026 systematic review of 12 randomized trials found that “current evidence does not support oral magnesium as a routine treatment for insomnia.”[^mag] The reviewers rated the certainty of the evidence as low to very low.[^mag] [[/melatonin|Melatonin]] is sold as a supplement in the US, while the European Union has authorised prescription melatonin medicines for sleep.[^circadin]",
-    "For athletes, the growth hormone route is closed. The World Anti-Doping Agency’s list bans growth hormone-releasing factors, naming “growth hormone-releasing hormone (GHRH) and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin),”[^wada] along with the growth hormone secretagogues, at all times.[^wada] Glycine, magnesium and melatonin are not listed.",
-    "What is not known is whether any of the growth hormone drugs improves sleep in healthy men. No trial has tested sermorelin for sleep, the related peptides have little or no human sleep data, and the supplements’ trials are small. The one approved drug in the group, tesamorelin, was approved for something else entirely."
+    "[[/melatonin|Melatonin]] has long had a gentle reputation: a copy of a hormone the body already makes, sold next to vitamins. In November 2025 that reputation took a hit. A team at SUNY Downstate in Brooklyn presented a study at the American Heart Association’s Scientific Sessions in New Orleans linking long-term melatonin use to heart failure.[^aha]",
+    "The lead author, Ekenedilichukwu Nnadi, a chief resident in internal medicine, said melatonin supplements may not be as harmless as commonly assumed, and that confirmed results could change how doctors counsel patients about sleep aids.[^aha] A year later, the study has not been confirmed.",
+    "It was not a trial; nobody was given melatonin or a dummy pill. The researchers searched electronic health records in TriNetX, a large international network of de-identified patient data, for adults with a diagnosis of insomnia.[^aha] To count as a melatonin user, a person needed at least one melatonin prescription and at least 365 days of exposure in the record; the comparison group had no melatonin recorded at all.[^abstract] Anyone already diagnosed with heart failure, or prescribed other sleeping pills such as benzodiazepines, was left out.[^aha] The team then matched 65,414 users with 65,414 non-users on age, sex, other illnesses, heart drugs, lab results, vital signs and how much health care they used, and followed the records for five years.[^abstract] The 130,828 people averaged 55.7 years old, and 61.4% were women.[^aha]",
+    "The main finding: over five years, heart failure was newly diagnosed in 3,021 melatonin users (4.6%) and 1,797 non-users (2.7%), a hazard ratio of 1.89, or about 89% higher.[^abstract] Hospital stays coded for heart failure were recorded for 19.0% of users and 6.6% of non-users, and 7.8% of users died from any cause compared with 4.3% of non-users.[^abstract] When the team narrowed the melatonin group to people with at least two prescriptions filled 90 days or more apart, the result for heart failure was similar.[^abstract] The authors concluded that their findings “challenge the perception of melatonin as a benign chronic therapy and underscore the need for randomized trials to clarify its cardiovascular safety profile.”[^abstract]",
+    "The AHA spelled out the limits itself. The study was an abstract, and the association noted that abstracts at its meetings “are not peer-reviewed, and the findings are considered preliminary until published as full manuscripts in a peer-reviewed scientific journal.”[^aha] It was observational, and the release said plainly that it “cannot prove a cause-and-effect relationship.”[^aha] People with worse insomnia, depression or anxiety may be more likely both to take melatonin and to develop heart trouble, and the researchers had no data on how severe anyone’s insomnia was or on other psychiatric conditions.[^aha]",
+    "How melatonin use was measured is a bigger problem. The database mixes countries where melatonin needs a prescription, such as the United Kingdom, with countries where it does not, such as the United States, and patients’ locations were not available to the researchers.[^aha] Because only melatonin entered in a medical record counted, anyone buying it over the counter in the US would have landed in the comparison group.[^aha] The non-user group almost certainly contained users. Marie-Pierre St-Onge, a Columbia University sleep researcher who was not involved, pointed to another oddity, noting that melatonin, “at least in the U.S., is not indicated for the treatment of insomnia.”[^aha]",
+    "That last point goes to how melatonin is sold in the US. It is a dietary supplement, not an approved drug, and FDA says that under the 1994 supplement law, “FDA does not have the authority to approve dietary supplements before they are marketed.”[^suppqa] The National Institutes of Health adds that “in several other countries, melatonin is available only with a prescription and is considered a drug.”[^nccih] In the European Union, for example, a slow-release melatonin tablet, Circadin, is authorised for short-term insomnia in people 55 and over, and “can only be obtained with a prescription.”[^circadin]",
+    "What happened in 2026 was mostly argument, not answers. In March, a letter in the Journal of Pineal Research by researchers in Pisa and Wisconsin critically re-examined the heart failure study and another paper questioning melatonin’s safety.[^pineal] In May, two Vanderbilt cardiologists published an analysis in Open Heart using the US national health survey known as NHANES, from 1999 to 2018. Melatonin users there differed sharply from non-users, especially in sleep problems and depression, and “recent melatonin use was not significantly associated with prevalent composite cardiovascular disease or heart failure.”[^openheart] They called it a counterpoint, not proof of safety.[^openheart] In June, Greek researchers proposed a possible mechanism involving the hormone prolactin, while stressing that the signal came from “a single, as-yet unpublished conference abstract that has not undergone peer review or independent validation.”[^wjem]",
+    "One regulator has acted. On April 19, 2026, the Saudi Food and Drug Authority published a safety signal asking health professionals to be aware of heart failure with melatonin.[^sfda] Its search of the World Health Organization’s global database found four case reports, which it said “lacked sufficient information for a proper assessment”;[^sfda] it cited the AHA abstract and concluded the evidence was “suggestive for causal association between Melatonin and Cardiac failure.”[^sfda] The agency describes a signal as uncertain and preliminary by nature.[^sfda] No US action on melatonin and the heart was found for this story.",
+    "Why it matters to men: the study’s average participant was in their mid-fifties, and in the US melatonin can be bought and taken nightly for years without a prescription. NIH says “information on the long-term safety of supplementing with melatonin is lacking.”[^nccih] Yet the evidence that it harms the heart is a single, unreviewed records study with a muddied comparison group.",
+    "The central question is still open: does melatonin itself affect the heart, or do long-term users simply differ from non-users? As of November 2, 2026, a PubMed search found no full paper from Nnadi’s team.[^pubmed] The study’s own authors say the answer needs randomized trials.[^abstract] Until a full manuscript appears, or a trial reports, the warning is a question, not a verdict."
   ],
   "notes": [
     {
-      "key": "geref1",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Geref Diagnostic, NDA 019863",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019863"
+      "key": "aha",
+      "source": "American Heart Association",
+      "title": "Long-term use of melatonin supplements to support sleep may have negative health effects (Scientific Sessions 2025, Abstract MP2306)",
+      "date": "Nov 3, 2025",
+      "url": "https://newsroom.heart.org/news/long-term-use-of-melatonin-supplements-to-support-sleep-may-have-negative-health-effects"
     },
     {
-      "key": "geref2",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Geref, NDA 020443",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020443"
+      "key": "abstract",
+      "source": "Nnadi et al., Circulation 152 (Suppl 3), record via Crossref",
+      "title": "Abstract 4371606: Effect of Long-term Melatonin Supplementation on Incidence of Heart Failure in Patients with Insomnia",
+      "date": "Nov 4, 2025",
+      "url": "https://api.crossref.org/v1/works/10.1161/circ.152.suppl_3.4371606"
     },
     {
-      "key": "fr2009",
-      "source": "FDA, Federal Register",
-      "title": "Withdrawal of approval of 92 new drug applications and 49 abbreviated new drug applications (74 FR 23407)",
-      "date": "May 19, 2009",
-      "url": "https://www.govinfo.gov/content/pkg/FR-2009-05-19/pdf/E9-11628.pdf"
-    },
-    {
-      "key": "fr2013",
-      "source": "FDA, Federal Register",
-      "title": "Determination that GEREF (sermorelin acetate) was not withdrawn from sale for reasons of safety or effectiveness (78 FR 14095)",
-      "date": "Mar 4, 2013",
-      "url": "https://www.govinfo.gov/content/pkg/FR-2013-03-04/pdf/2013-04827.pdf"
-    },
-    {
-      "key": "olympia",
-      "source": "FDA (company announcement)",
-      "title": "Olympia Pharmacy issues voluntary nationwide recall of compounded products due to being out of specification",
-      "date": "Mar 2022",
-      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/olympia-pharmacy-issues-voluntary-nationwide-recall-seven-compounded-products-due-being-out"
-    },
-    {
-      "key": "perras",
-      "source": "Perras et al., Psychoneuroendocrinology",
-      "title": "Sleep and endocrine changes after intranasal administration of growth hormone-releasing hormone in young and aged humans",
-      "date": "Oct 1999",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/10451909/"
-    },
-    {
-      "key": "cat2",
+      "key": "suppqa",
       "source": "FDA",
-      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
-      "date": "Apr 2026",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
-    },
-    {
-      "key": "egrifta",
-      "source": "DailyMed",
-      "title": "Egrifta WR (tesamorelin) prescribing information",
-      "date": "Mar 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75"
-    },
-    {
-      "key": "healio",
-      "source": "Healio",
-      "title": "FDA committee recommends looser restrictions for several peptides",
-      "date": "Jul 24, 2026",
-      "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides"
-    },
-    {
-      "key": "glycine",
-      "source": "DailyMed",
-      "title": "1.5% Glycine Irrigation, USP label (ICU Medical)",
-      "date": "Jun 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c10a4657-cf64-4a71-a247-363dd58993bc"
-    },
-    {
-      "key": "fan",
-      "source": "Fan et al., Journal of Dietary Supplements",
-      "title": "Glycine bioavailability and sleep-related outcomes following oral glycine and collagen supplementation: a scoping review",
-      "date": "Sep 2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687500/"
-    },
-    {
-      "key": "mag",
-      "source": "Lopresti et al., Journal of Dietary Supplements",
-      "title": "Magnesium supplementation for sleep in adults: a systematic review of randomized controlled trials",
+      "title": "Questions and answers on dietary supplements",
       "date": "Aug 2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661485/"
+      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
+    },
+    {
+      "key": "nccih",
+      "source": "NIH, National Center for Complementary and Integrative Health",
+      "title": "Melatonin: what you need to know",
+      "date": "May 2024",
+      "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know"
     },
     {
       "key": "circadin",
       "source": "European Medicines Agency",
-      "title": "Circadin (melatonin): EPAR",
-      "date": "accessed Nov 1, 2026",
+      "title": "Circadin (melatonin) EPAR, medicine overview",
+      "date": "accessed Nov 2, 2026",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/circadin"
     },
     {
-      "key": "wada",
-      "source": "World Anti-Doping Agency",
-      "title": "The 2026 Prohibited List",
-      "date": "Sep 2025",
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
+      "key": "pineal",
+      "source": "Colitta et al., Journal of Pineal Research",
+      "title": "Navigating Melatonin Safety: Fact, Fiction, and Confounders",
+      "date": "Mar 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41764369/"
+    },
+    {
+      "key": "openheart",
+      "source": "Khan and Lima, Open Heart",
+      "title": "Melatonin and cardiovascular risk: an NHANES reality check after recent heart failure concerns",
+      "date": "May 21, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42167796/"
+    },
+    {
+      "key": "wjem",
+      "source": "Savvidis et al., World Journal of Experimental Medicine",
+      "title": "Melatonin supplementation, hyperprolactinemia, and incident heart failure: a proposed prolactin-mediated pathway",
+      "date": "Jun 20, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42394777/"
+    },
+    {
+      "key": "sfda",
+      "source": "Saudi Food and Drug Authority",
+      "title": "Safety Signal of Melatonin and the Risk of Cardiac failure",
+      "date": "Apr 19, 2026",
+      "url": "https://www.sfda.gov.sa/sites/default/files/2026-04/Safety%20Signal%20of%20MELATONIN%20and%20the%20Risk%20of%20Cardiac%20failure.pdf"
+    },
+    {
+      "key": "pubmed",
+      "source": "PubMed (NCBI E-utilities)",
+      "title": "Search: Nnadi AND melatonin (0 results)",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=Nnadi+AND+melatonin&retmode=json"
     }
   ]
 }
