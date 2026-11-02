@@ -924,3 +924,11 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='skin'] .spreadPhoto img { object-position: 68% 30% !important; }
   [data-lane='skin'] .spreadPhoto { --fade-solid: 44%; --fade-end: 48%; }
 }
+
+/* EDU PROMPT 31: Longevity at 860-999px, where the taller photo crops tighter: face further right, headline narrower. */
+@media (min-width: 860px) and (max-width: 999px) {
+  [data-lane='longevity'] .spreadPhoto img { object-position: 58% 30% !important; }
+  [data-lane='longevity'] .spreadHead { max-width: 40%; }
+  [data-lane='longevity'] .spreadTitle { font-size: clamp(24px, 6.8cqw, 64px); }
+  [data-lane='longevity'] .spreadPhoto { --fade-solid: 44%; --fade-end: 49%; }
+}

@@ -1,247 +1,143 @@
 {
   "key": "longevity",
   "headline": [
-    "The NAD+",
-    "question."
+    "Rapamycin’s",
+    "reality check."
   ],
-  "dek": "NAD+ drips and injections are sold for aging. The largest trial of a related pill went the wrong way.",
+  "dek": "A review of the human trials finds no proof yet that rapamycin slows aging in healthy adults.",
   "backdrop": "#35373B",
   "headlineColor": "#F7F3EA",
   "photoAlt": "An older man holds a set of lab results.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
   "glance": [
     {
-      "icon": "people",
-      "label": "Largest trial",
-      "line": "NOPARK, 410 people with Parkinson’s: disease scores worsened more on oral NR than placebo."
-    },
-    {
       "icon": "shield",
-      "label": "Not approved",
-      "line": "NAD+, NR, glutathione, MOTS-c and Epitalon: none is FDA approved for any use."
+      "label": "FDA approved for",
+      "line": "Kidney transplant rejection and the lung disease LAM. Aging use is off-label.",
+      "src": {
+        "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+        "label": "Sirolimus label, DailyMed"
+      }
     },
     {
-      "icon": "banned",
-      "label": "Banned in sport",
-      "line": "MOTS-c is named under S4.4.1. NAD+, NR, metformin and Epitalon are not named.",
-      "src": {
-        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-        "label": "WADA 2026 Prohibited List (S4.4.1)"
-      }
+      "icon": "people",
+      "label": "Human trials",
+      "line": "Fewer than a dozen in healthy people, small and short, per the 2025 review."
+    },
+    {
+      "icon": "mortar",
+      "label": "Lifespan data",
+      "line": "From mice only. No human trial has measured lifespan."
     }
   ],
   "pull": {
-    "quote": "The glutathione was labeled as dietary supplement grade, which is not an appropriate ingredient to make injectable drugs.",
-    "note": "glu26"
+    "quote": "But when it comes to healthy human adults, the data is still very preliminary.",
+    "note": "gwu"
   },
   "body": [
-    "Many products are sold with the promise of slowing aging. None of the ones in this lane is FDA approved for that use. The best-known is [[/nad|NAD+]], a molecule every cell uses to turn food into energy. No NAD+ product appears in FDA’s drug approval records.[^nadfda] It sits on FDA’s list of substances nominated for compounding that are still under review, which is not an approval.[^cat503a]",
-    "The human evidence for infused NAD+ is small. A 2019 pilot study tracked NAD+ in blood and urine during a six-hour infusion, and its authors wrote that before it, “no data are currently available on the fate of directly infused NAD+ in a human cohort.”[^grant] FDA has also flagged a quality problem with intravenous NAD+. In 2024 it said it was “aware of compounders using food-grade nicotinamide adenine dinucleotide (NAD+) sold by repackagers to make intravenous products”[^nadsterile], and warned that such ingredients have a high risk of contamination with microbes and endotoxins.[^nadsterile]",
-    "NAD+ has a better-studied relative. [[/nicotinamide-riboside|Nicotinamide riboside]], or NR, is a form of vitamin B3 the body turns into NAD+, and it is sold as a dietary supplement. In 2016 FDA said it had no questions about one company’s conclusion that NR is safe as a food ingredient,[^gras] which is not the same as reviewing it as a drug. The largest trial so far, NOPARK in Norway, randomized 410 people with early Parkinson’s disease to NR, 500 mg twice a day, or a placebo for 52 weeks.[^nopark] At week 52, the total disease score had risen by 2.45 points on NR and fallen by 0.27 points on placebo.[^nopark] Its authors concluded that NR “did not improve clinical outcomes and was associated with worse clinical outcomes than placebo.”[^nopark] [[/nmn|NMN]], another NAD+ building block, does not appear in FDA’s drug approval records either.[^nmnfda]",
-    "Several drugs in this lane are approved, but for something else. [[/metformin|Metformin]] was approved as Glucophage for type 2 diabetes in March 1995.[^glucophage] Using it to slow aging is off-label, and its label has a boxed warning that “Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias.”[^metformin] [[/rapamycin|Rapamycin]], also called sirolimus, was approved as Rapamune in September 1999,[^rapamune] and its label describes its use “for prophylaxis of organ rejection in patients receiving renal transplants.”[^sirolimus] Taking it for aging is off-label too.",
-    "[[/somatropin|Somatropin]], or human growth hormone, is approved for growth hormone deficiency in children and adults and for some other conditions,[^genotropin] but not for aging. Federal law makes it a crime to distribute it “for any use in humans other than the treatment of a disease or other recognized medical condition”[^333e] that FDA has authorized, on a doctor’s order. [[/elamipretide|Elamipretide]] became an FDA-approved drug in September 2025, as Forzinity,[^forzinity] under accelerated approval for Barth syndrome,[^barth] which FDA describes as “a rare, serious and life-threatening disease of the mitochondria”.[^barth] Use for aging is off-label.",
-    "Then come the peptides, which have the least behind them. For [[/mots-c|MOTS-c]], when FDA reviewed it in 2026 for possible compounding, it said it “did not identify clinical studies evaluating these uses of MOTS-c”[^motsc], uses that included longevity. The World Anti-Doping Agency bans MOTS-c at all times, naming it among substances that act on the energy-sensing enzyme AMPK.[^wada] For [[/epitalon|Epitalon]], FDA wrote that “three studies were found in which epitalon was administered to humans.”[^epitalon] In two of them, it was given under the tongue to people who worked night shifts, and neither used a compounded form.[^epitalon]",
-    "Even so, both can now be compounded under certain conditions. On October 30, 2026, HHS published notice of an “Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances.”[^hhs] A law firm’s summary says it covers BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500 while FDA continues its rulemaking.[^baker] Enforcement discretion means the government has said it will not act against compounders who meet the conditions. It is not approval, and the products remain unapproved drugs.",
-    "[[/glutathione|Glutathione]] shows what can go wrong with injections. In August 2026, FDA said it “is aware of reports of at least 30 patients who experienced adverse events following the administration of intravenous (IV) glutathione alone or in combination with other ingredients.”[^glu26] The problem was the starting material: “The glutathione was labeled as dietary supplement grade, which is not an appropriate ingredient to make injectable drugs.”[^glu26] FDA had warned about the same risk in 2019, after “a report concerning seven patients who received an injectable drug compounded with L-glutathione and experienced adverse events due to potentially high levels of endotoxins”.[^glu19]",
-    "The rest of the lane is earlier still. Searches of FDA’s drug approval records found no product containing [[/foxo4-dri|FOXO4-DRI]], [[/klotho|klotho]], [[/humanin|humanin]] or [[/thymalin|thymalin]].[^foxo][^klotho][^humanin][^thymalin] [[/kp1|KP1]] is a peptide derived from klotho, and a search of ClinicalTrials.gov found no registered trial of it.[^kp1ctg] For supplements such as [[/fisetin|fisetin]], [[/resveratrol|resveratrol]] and [[/urolithin-a|urolithin A]], FDA reminds consumers that it “does not have the authority to approve dietary supplements before they are marketed.”[^dsq] [[/ghk-cu|GHK-Cu]] also appears in this lane, but no human study has measured its effect on lifespan.",
-    "What is not known is the central question: whether any of these treatments slows aging in people. None of the approvals described here is for aging, and none of the studies described here measured aging itself as its main outcome. The largest trial of an NAD+ precursor found worse results, not better, and the injected products have the thinnest evidence and the most quality warnings. Anyone weighing them is working from cell studies, animal studies and small, short human trials."
+    "Rapamycin has become one of the most talked-about longevity drugs, taken off-label by healthy people who hope it will slow aging. On August 7, 2025, the journal Aging published a review that set out to check what the human evidence actually shows.[^rev] Its authors, Jacob Hands, Michael Lustgarten, Leigh Frame and Bradley Rosen, from George Washington University, the USDA aging research center at Tufts and a Los Angeles practice, declared no conflicts of interest.[^rev] Their answer was blunt: despite strong animal data, “the data in humans have yet to establish that rapamycin, or its analogues, is a proven seno-therapeutic that can delay aging in healthy older adults.”[^rev]",
+    "In George Washington University’s announcement, Hands put it more plainly: “But when it comes to healthy human adults, the data is still very preliminary.”[^gwu] He added: “We simply don’t have enough evidence to recommend its use as a longevity therapy at this time.”[^gwu]",
+    "Start with what [[/rapamycin|rapamycin]] is. Its generic name is sirolimus, and FDA first approved it as Rapamune oral solution on September 15, 1999.[^nda] Its label says sirolimus is “indicated for the prophylaxis of organ rejection in patients aged 13 years or older receiving renal transplants,”[^label] and it is also approved for a rare lung disease called lymphangioleiomyomatosis.[^label] Aging is not an approved use. Taking it to live longer is off-label.",
+    "The label’s boxed warning explains why that matters. It says “Increased susceptibility to infection and the possible development of lymphoma and other malignancies may result from immunosuppression.”[^label] It warns that use is not recommended in liver or lung transplant patients.[^label] For men in particular, it adds: “Azoospermia or oligospermia may be observed,”[^label] meaning no sperm or low sperm counts. Those warnings were written for transplant patients, not for healthy people taking it to slow aging.",
+    "The case for rapamycin rests on mice. In a 2009 Nature study, genetically mixed mice fed rapamycin from 600 days of age lived longer at three separate test sites; based on age at 90% mortality, lifespan rose 14% in females and 9% in males.[^harrison] That is animal evidence. It has not been shown in people.",
+    "In humans, the review found that the clinical evidence in healthy people “is scant, with less than a dozen known trials exploring a variety of biomarkers, including immune function, protein synthesis, and hematologic parameters.”[^revft] The best known used rapamycin’s close relative everolimus. In a cohort of 218 healthy older adults, low-dose everolimus given before a flu shot raised the vaccine response by about 20%, the review reports, though mouth ulcers were more common on the drug.[^revft] Later trials of a related drug, RTB101, gave mixed results on respiratory infections; the review calls that evidence “compelling, but not convincing at present.”[^revft] A 2023 survey of 333 people already using rapamycin off-label reported fewer COVID infections and better well-being, but users knew what they were taking, so it shows an association, not cause.[^revft]",
+    "The review singles out a 2018 pilot from the University of Texas Health Science Center at San Antonio. It randomized 25 generally healthy adults aged 70 to 95 to 1 mg of rapamycin or placebo daily; 11 on the drug and 14 on placebo completed at least 8 weeks.[^kraig] It found no change in glucose handling or insulin sensitivity.[^kraig] They concluded that “short-term RAPA treatment can be used safely in older persons who are otherwise healthy; a trial with a larger sample size and longer treatment duration is warranted.”[^kraig] The review notes some unwelcome shifts in that group, including lower albumin and higher triglycerides and HbA1c.[^revft] Its own modelling of the same data with a biological-age calculator found a drop, but the authors warn: “These data are suggestive at best and are limited by lack of subject level observations.”[^revft]",
+    "A larger trial, PEARL, was published in Aging in April 2025. It enrolled 129 healthy adults aged 50 to 85 and gave placebo or 5 mg or 10 mg of compounded rapamycin once a week for 48 weeks, in a decentralized, double-blind design.[^pearl][^pearlct] Its main measure, belly fat on DXA scans, “did not change significantly.”[^pearl] Side effects were similar across groups. Women on 10 mg gained lean mass and reported less pain, and the 5 mg group reported better well-being, while “No other significant effects were observed.”[^pearl] The authors are employees and shareholders of the company that ran the trial, the paper says.[^pearl] FDA notes that “Compounded drugs are not FDA-approved.”[^compound]",
+    "Since the review, a trial from New Zealand has added a caution. RAPA-EX-01, published in April 2026, randomized 40 sedentary adults aged 65 to 85 to 6 mg of sirolimus or placebo once a week for 13 weeks, alongside a home exercise program.[^rapaex] Both groups improved. But the authors wrote that the drug “did not enhance, and in sensitivity analyses, it may have modestly attenuated short-term functional improvements from a home exercise programme in older adults.”[^rapaex] There were more adverse events on sirolimus, 99 against 63, including one serious pneumonia possibly linked to the drug.[^rapaex]",
+    "What is still unknown is the question that matters most: whether rapamycin helps healthy people live longer or stay healthier. No human trial has measured lifespan or aging-related disease. The trials so far are small and short, with different doses and measures. The review concluded that the picture “remains insufficient to affirm or negate the longevity and healthspan extending benefits attributed to rapamycin.”[^revft] It also says “there is still no established dose response curve for rapamycin with regard to health span extension.”[^revft]",
+    "What comes next is more trials, still small. ClinicalTrials.gov lists a 60-person Phase 1/2 study of mTOR inhibitors in older adults that is recruiting, with primary completion expected in September 2027,[^ct1] and a Phase 2 study of sirolimus to prevent functional decline in older adults, expected in November 2027.[^ct2] For men already using it, the review’s authors set a floor: “Off-label prescribing should include vigilant monitoring for adverse effects and open discussion of knowns and unknowns with patients.”[^revft]"
   ],
   "notes": [
     {
-      "key": "nadfda",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for products containing nicotinamide adenine dinucleotide (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20ADENINE%20DINUCLEOTIDE%22"
+      "key": "rev",
+      "source": "Hands et al., Aging (Albany NY)",
+      "title": "What is the clinical evidence to support off-label rapamycin therapy in healthy adults?",
+      "date": "Aug 7, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40778880/"
     },
     {
-      "key": "cat503a",
-      "source": "FDA",
-      "title": "Bulk drug substances nominated for use in compounding under section 503A (categories 1 to 3)",
-      "date": "May 2026",
-      "url": "https://www.fda.gov/media/94155/download"
+      "key": "gwu",
+      "source": "George Washington University Media Relations",
+      "title": "New Review Finds Anti-Aging Drug Popular but Unproven in Healthy Adults",
+      "date": "Aug 7, 2025",
+      "url": "https://mediarelations.gwu.edu/node/15666"
     },
     {
-      "key": "grant",
-      "source": "Grant et al., Frontiers in Aging Neuroscience",
-      "title": "A pilot study investigating changes in the human plasma and urine NAD+ metabolome during a 6 hour intravenous infusion of NAD",
-      "date": "Sep 2019",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/"
-    },
-    {
-      "key": "nadsterile",
-      "source": "FDA",
-      "title": "FDA reminds compounders to use ingredients suitable for sterile compounding",
-      "date": "Oct 2024",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding"
-    },
-    {
-      "key": "gras",
-      "source": "FDA",
-      "title": "Agency response letter, GRAS Notice No. GRN 000635",
-      "date": "Aug 2016",
-      "url": "https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635"
-    },
-    {
-      "key": "nopark",
-      "source": "Brakedal et al., JAMA",
-      "title": "Nicotinamide riboside for patients with early-stage Parkinson disease: the NOPARK randomized clinical trial",
-      "date": "Oct 2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/"
-    },
-    {
-      "key": "nmnfda",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for products containing nicotinamide mononucleotide (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20MONONUCLEOTIDE%22"
-    },
-    {
-      "key": "glucophage",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Glucophage, NDA 020357",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020357"
-    },
-    {
-      "key": "metformin",
-      "source": "DailyMed",
-      "title": "Metformin hydrochloride tablets prescribing information",
-      "date": "Oct 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0"
-    },
-    {
-      "key": "rapamune",
+      "key": "nda",
       "source": "FDA (openFDA, Drugs@FDA data)",
       "title": "Rapamune oral solution, NDA 021083",
-      "date": "accessed Nov 1, 2026",
+      "date": "accessed Nov 2, 2026",
       "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021083"
     },
     {
-      "key": "333e",
-      "source": "U.S. Code (govinfo)",
-      "title": "21 U.S.C. 333, penalties, including subsection (e) on human growth hormone",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapIII-sec333.htm"
-    },
-    {
-      "key": "forzinity",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Forzinity, NDA 215244",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215244"
-    },
-    {
-      "key": "barth",
-      "source": "FDA",
-      "title": "FDA grants accelerated approval to first treatment for Barth syndrome",
-      "date": "Sep 2025",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome"
-    },
-    {
-      "key": "motsc",
-      "source": "FDA, Pharmacy Compounding Advisory Committee",
-      "title": "Briefing document: MOTS-c",
-      "date": "Jul 2026",
-      "url": "https://www.fda.gov/media/193347/download"
-    },
-    {
-      "key": "wada",
-      "source": "World Anti-Doping Agency",
-      "title": "The 2026 Prohibited List",
-      "date": "Sep 2025",
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
-    },
-    {
-      "key": "epitalon",
-      "source": "FDA, Pharmacy Compounding Advisory Committee",
-      "title": "Briefing document: epitalon",
-      "date": "Jul 2026",
-      "url": "https://www.fda.gov/media/193345/download"
-    },
-    {
-      "key": "hhs",
-      "source": "HHS, Federal Register",
-      "title": "Enforcement discretion policy regarding 503A compounding using certain peptide bulk drug substances (Docket HHS-OASH-2026-0496)",
-      "date": "Oct 30, 2026",
-      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf"
-    },
-    {
-      "key": "baker",
-      "source": "BakerHostetler",
-      "title": "HHS issues enforcement discretion policy regarding 503A compounding using certain peptide bulk drug substances",
-      "date": "Oct 28, 2026",
-      "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/"
-    },
-    {
-      "key": "glu26",
-      "source": "FDA",
-      "title": "FDA reminds compounders not to use dietary supplement grade glutathione for injectables",
-      "date": "Aug 27, 2026",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables"
-    },
-    {
-      "key": "glu19",
-      "source": "FDA",
-      "title": "FDA highlights concerns with using dietary ingredient glutathione to compound sterile injectables",
-      "date": "Jun 2019",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables"
-    },
-    {
-      "key": "dsq",
-      "source": "FDA",
-      "title": "Questions and answers on dietary supplements",
-      "date": "Aug 2026",
-      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
-    },
-    {
-      "key": "sirolimus",
+      "key": "label",
       "source": "DailyMed",
       "title": "Sirolimus tablets prescribing information (NDA 021110)",
       "date": "Mar 2026",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9"
     },
     {
-      "key": "genotropin",
-      "source": "DailyMed",
-      "title": "Genotropin (somatropin) prescribing information",
-      "date": "Aug 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765"
+      "key": "harrison",
+      "source": "Harrison et al., Nature",
+      "title": "Rapamycin fed late in life extends lifespan in genetically heterogeneous mice",
+      "date": "Jul 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19587680/"
     },
     {
-      "key": "foxo",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for 'FOXO4' (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:FOXO4"
+      "key": "revft",
+      "source": "Hands et al., Aging (Albany NY), full text via Europe PMC",
+      "title": "What is the clinical evidence to support off-label rapamycin therapy in healthy adults?",
+      "date": "Aug 7, 2025",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12422820/fullTextXML"
     },
     {
-      "key": "klotho",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for 'klotho' (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:klotho"
+      "key": "kraig",
+      "source": "Kraig et al., Experimental Gerontology",
+      "title": "A randomized control trial to establish the feasibility and safety of rapamycin treatment in an older human cohort",
+      "date": "May 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29408453/"
     },
     {
-      "key": "humanin",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for 'humanin' (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:humanin"
+      "key": "pearl",
+      "source": "Moel et al., Aging (Albany NY)",
+      "title": "Influence of rapamycin on safety and healthspan metrics after one year: PEARL trial results",
+      "date": "Apr 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40188830/"
     },
     {
-      "key": "thymalin",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for 'thymalin' (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:thymalin"
-    },
-    {
-      "key": "kp1ctg",
+      "key": "pearlct",
       "source": "ClinicalTrials.gov",
-      "title": "Search for 'KP1 klotho' (no studies)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://clinicaltrials.gov/search?term=KP1+klotho"
+      "title": "NCT04488601 (PEARL)",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT04488601"
+    },
+    {
+      "key": "compound",
+      "source": "FDA",
+      "title": "Compounding and the FDA: Questions and Answers",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
+    },
+    {
+      "key": "rapaex",
+      "source": "Stanfield et al., Journal of Cachexia, Sarcopenia and Muscle",
+      "title": "Exercise and Weekly Sirolimus (Rapamycin) in Older Adults: RAPA-EX-01 Randomised, Double-Blind, Placebo-Controlled Trial",
+      "date": "Apr 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985884/"
+    },
+    {
+      "key": "ct1",
+      "source": "ClinicalTrials.gov",
+      "title": "NCT06727305, MTOR Inhibitors in Older Adults",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT06727305"
+    },
+    {
+      "key": "ct2",
+      "source": "ClinicalTrials.gov",
+      "title": "NCT05237687, The Role of Sirolimus in Preventing Functional Decline in Older Adults",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT05237687"
     }
   ]
 }

@@ -1,0 +1,250 @@
+{
+  "archived": "Nov 2, 2026",
+  "published": "Oct 31, 2026",
+  "note": "longevity lane story from Oct 31, 2026 until Nov 2, 2026, when the lane story was replaced by a news feature (EDU PROMPT 31). Kept for the lane archive; not shown on the site.",
+  "key": "longevity",
+  "headline": [
+    "The NAD+",
+    "question."
+  ],
+  "dek": "NAD+ drips and injections are sold for aging. The largest trial of a related pill went the wrong way.",
+  "backdrop": "#35373B",
+  "headlineColor": "#F7F3EA",
+  "photoAlt": "An older man holds a set of lab results.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "people",
+      "label": "Largest trial",
+      "line": "NOPARK, 410 people with Parkinson’s: disease scores worsened more on oral NR than placebo."
+    },
+    {
+      "icon": "shield",
+      "label": "Not approved",
+      "line": "NAD+, NR, glutathione, MOTS-c and Epitalon: none is FDA approved for any use."
+    },
+    {
+      "icon": "banned",
+      "label": "Banned in sport",
+      "line": "MOTS-c is named under S4.4.1. NAD+, NR, metformin and Epitalon are not named.",
+      "src": {
+        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
+        "label": "WADA 2026 Prohibited List (S4.4.1)"
+      }
+    }
+  ],
+  "pull": {
+    "quote": "The glutathione was labeled as dietary supplement grade, which is not an appropriate ingredient to make injectable drugs.",
+    "note": "glu26"
+  },
+  "body": [
+    "Many products are sold with the promise of slowing aging. None of the ones in this lane is FDA approved for that use. The best-known is [[/nad|NAD+]], a molecule every cell uses to turn food into energy. No NAD+ product appears in FDA’s drug approval records.[^nadfda] It sits on FDA’s list of substances nominated for compounding that are still under review, which is not an approval.[^cat503a]",
+    "The human evidence for infused NAD+ is small. A 2019 pilot study tracked NAD+ in blood and urine during a six-hour infusion, and its authors wrote that before it, “no data are currently available on the fate of directly infused NAD+ in a human cohort.”[^grant] FDA has also flagged a quality problem with intravenous NAD+. In 2024 it said it was “aware of compounders using food-grade nicotinamide adenine dinucleotide (NAD+) sold by repackagers to make intravenous products”[^nadsterile], and warned that such ingredients have a high risk of contamination with microbes and endotoxins.[^nadsterile]",
+    "NAD+ has a better-studied relative. [[/nicotinamide-riboside|Nicotinamide riboside]], or NR, is a form of vitamin B3 the body turns into NAD+, and it is sold as a dietary supplement. In 2016 FDA said it had no questions about one company’s conclusion that NR is safe as a food ingredient,[^gras] which is not the same as reviewing it as a drug. The largest trial so far, NOPARK in Norway, randomized 410 people with early Parkinson’s disease to NR, 500 mg twice a day, or a placebo for 52 weeks.[^nopark] At week 52, the total disease score had risen by 2.45 points on NR and fallen by 0.27 points on placebo.[^nopark] Its authors concluded that NR “did not improve clinical outcomes and was associated with worse clinical outcomes than placebo.”[^nopark] [[/nmn|NMN]], another NAD+ building block, does not appear in FDA’s drug approval records either.[^nmnfda]",
+    "Several drugs in this lane are approved, but for something else. [[/metformin|Metformin]] was approved as Glucophage for type 2 diabetes in March 1995.[^glucophage] Using it to slow aging is off-label, and its label has a boxed warning that “Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias.”[^metformin] [[/rapamycin|Rapamycin]], also called sirolimus, was approved as Rapamune in September 1999,[^rapamune] and its label describes its use “for prophylaxis of organ rejection in patients receiving renal transplants.”[^sirolimus] Taking it for aging is off-label too.",
+    "[[/somatropin|Somatropin]], or human growth hormone, is approved for growth hormone deficiency in children and adults and for some other conditions,[^genotropin] but not for aging. Federal law makes it a crime to distribute it “for any use in humans other than the treatment of a disease or other recognized medical condition”[^333e] that FDA has authorized, on a doctor’s order. [[/elamipretide|Elamipretide]] became an FDA-approved drug in September 2025, as Forzinity,[^forzinity] under accelerated approval for Barth syndrome,[^barth] which FDA describes as “a rare, serious and life-threatening disease of the mitochondria”.[^barth] Use for aging is off-label.",
+    "Then come the peptides, which have the least behind them. For [[/mots-c|MOTS-c]], when FDA reviewed it in 2026 for possible compounding, it said it “did not identify clinical studies evaluating these uses of MOTS-c”[^motsc], uses that included longevity. The World Anti-Doping Agency bans MOTS-c at all times, naming it among substances that act on the energy-sensing enzyme AMPK.[^wada] For [[/epitalon|Epitalon]], FDA wrote that “three studies were found in which epitalon was administered to humans.”[^epitalon] In two of them, it was given under the tongue to people who worked night shifts, and neither used a compounded form.[^epitalon]",
+    "Even so, both can now be compounded under certain conditions. On October 30, 2026, HHS published notice of an “Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances.”[^hhs] A law firm’s summary says it covers BPC-157, Epitalon, KPV, MOTS-c, Semax and TB-500 while FDA continues its rulemaking.[^baker] Enforcement discretion means the government has said it will not act against compounders who meet the conditions. It is not approval, and the products remain unapproved drugs.",
+    "[[/glutathione|Glutathione]] shows what can go wrong with injections. In August 2026, FDA said it “is aware of reports of at least 30 patients who experienced adverse events following the administration of intravenous (IV) glutathione alone or in combination with other ingredients.”[^glu26] The problem was the starting material: “The glutathione was labeled as dietary supplement grade, which is not an appropriate ingredient to make injectable drugs.”[^glu26] FDA had warned about the same risk in 2019, after “a report concerning seven patients who received an injectable drug compounded with L-glutathione and experienced adverse events due to potentially high levels of endotoxins”.[^glu19]",
+    "The rest of the lane is earlier still. Searches of FDA’s drug approval records found no product containing [[/foxo4-dri|FOXO4-DRI]], [[/klotho|klotho]], [[/humanin|humanin]] or [[/thymalin|thymalin]].[^foxo][^klotho][^humanin][^thymalin] [[/kp1|KP1]] is a peptide derived from klotho, and a search of ClinicalTrials.gov found no registered trial of it.[^kp1ctg] For supplements such as [[/fisetin|fisetin]], [[/resveratrol|resveratrol]] and [[/urolithin-a|urolithin A]], FDA reminds consumers that it “does not have the authority to approve dietary supplements before they are marketed.”[^dsq] [[/ghk-cu|GHK-Cu]] also appears in this lane, but no human study has measured its effect on lifespan.",
+    "What is not known is the central question: whether any of these treatments slows aging in people. None of the approvals described here is for aging, and none of the studies described here measured aging itself as its main outcome. The largest trial of an NAD+ precursor found worse results, not better, and the injected products have the thinnest evidence and the most quality warnings. Anyone weighing them is working from cell studies, animal studies and small, short human trials."
+  ],
+  "notes": [
+    {
+      "key": "nadfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for products containing nicotinamide adenine dinucleotide (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20ADENINE%20DINUCLEOTIDE%22"
+    },
+    {
+      "key": "cat503a",
+      "source": "FDA",
+      "title": "Bulk drug substances nominated for use in compounding under section 503A (categories 1 to 3)",
+      "date": "May 2026",
+      "url": "https://www.fda.gov/media/94155/download"
+    },
+    {
+      "key": "grant",
+      "source": "Grant et al., Frontiers in Aging Neuroscience",
+      "title": "A pilot study investigating changes in the human plasma and urine NAD+ metabolome during a 6 hour intravenous infusion of NAD",
+      "date": "Sep 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31572171/"
+    },
+    {
+      "key": "nadsterile",
+      "source": "FDA",
+      "title": "FDA reminds compounders to use ingredients suitable for sterile compounding",
+      "date": "Oct 2024",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-use-ingredients-suitable-sterile-compounding"
+    },
+    {
+      "key": "gras",
+      "source": "FDA",
+      "title": "Agency response letter, GRAS Notice No. GRN 000635",
+      "date": "Aug 2016",
+      "url": "https://www.fda.gov/food/gras-notice-inventory/agency-response-letter-gras-notice-no-grn-000635"
+    },
+    {
+      "key": "nopark",
+      "source": "Brakedal et al., JAMA",
+      "title": "Nicotinamide riboside for patients with early-stage Parkinson disease: the NOPARK randomized clinical trial",
+      "date": "Oct 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/"
+    },
+    {
+      "key": "nmnfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for products containing nicotinamide mononucleotide (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22NICOTINAMIDE%20MONONUCLEOTIDE%22"
+    },
+    {
+      "key": "glucophage",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Glucophage, NDA 020357",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020357"
+    },
+    {
+      "key": "metformin",
+      "source": "DailyMed",
+      "title": "Metformin hydrochloride tablets prescribing information",
+      "date": "Oct 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f86bda10-8b25-4125-8bb1-1b5917969ff0"
+    },
+    {
+      "key": "rapamune",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Rapamune oral solution, NDA 021083",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021083"
+    },
+    {
+      "key": "333e",
+      "source": "U.S. Code (govinfo)",
+      "title": "21 U.S.C. 333, penalties, including subsection (e) on human growth hormone",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chap9-subchapIII-sec333.htm"
+    },
+    {
+      "key": "forzinity",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Forzinity, NDA 215244",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA215244"
+    },
+    {
+      "key": "barth",
+      "source": "FDA",
+      "title": "FDA grants accelerated approval to first treatment for Barth syndrome",
+      "date": "Sep 2025",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-first-treatment-barth-syndrome"
+    },
+    {
+      "key": "motsc",
+      "source": "FDA, Pharmacy Compounding Advisory Committee",
+      "title": "Briefing document: MOTS-c",
+      "date": "Jul 2026",
+      "url": "https://www.fda.gov/media/193347/download"
+    },
+    {
+      "key": "wada",
+      "source": "World Anti-Doping Agency",
+      "title": "The 2026 Prohibited List",
+      "date": "Sep 2025",
+      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
+    },
+    {
+      "key": "epitalon",
+      "source": "FDA, Pharmacy Compounding Advisory Committee",
+      "title": "Briefing document: epitalon",
+      "date": "Jul 2026",
+      "url": "https://www.fda.gov/media/193345/download"
+    },
+    {
+      "key": "hhs",
+      "source": "HHS, Federal Register",
+      "title": "Enforcement discretion policy regarding 503A compounding using certain peptide bulk drug substances (Docket HHS-OASH-2026-0496)",
+      "date": "Oct 30, 2026",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-30/pdf/2026-22192.pdf"
+    },
+    {
+      "key": "baker",
+      "source": "BakerHostetler",
+      "title": "HHS issues enforcement discretion policy regarding 503A compounding using certain peptide bulk drug substances",
+      "date": "Oct 28, 2026",
+      "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/"
+    },
+    {
+      "key": "glu26",
+      "source": "FDA",
+      "title": "FDA reminds compounders not to use dietary supplement grade glutathione for injectables",
+      "date": "Aug 27, 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables"
+    },
+    {
+      "key": "glu19",
+      "source": "FDA",
+      "title": "FDA highlights concerns with using dietary ingredient glutathione to compound sterile injectables",
+      "date": "Jun 2019",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables"
+    },
+    {
+      "key": "dsq",
+      "source": "FDA",
+      "title": "Questions and answers on dietary supplements",
+      "date": "Aug 2026",
+      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
+    },
+    {
+      "key": "sirolimus",
+      "source": "DailyMed",
+      "title": "Sirolimus tablets prescribing information (NDA 021110)",
+      "date": "Mar 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5908cd1a-fc5a-462f-99ed-1d8983e253c9"
+    },
+    {
+      "key": "genotropin",
+      "source": "DailyMed",
+      "title": "Genotropin (somatropin) prescribing information",
+      "date": "Aug 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765"
+    },
+    {
+      "key": "foxo",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for 'FOXO4' (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:FOXO4"
+    },
+    {
+      "key": "klotho",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for 'klotho' (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:klotho"
+    },
+    {
+      "key": "humanin",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for 'humanin' (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:humanin"
+    },
+    {
+      "key": "thymalin",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for 'thymalin' (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:thymalin"
+    },
+    {
+      "key": "kp1ctg",
+      "source": "ClinicalTrials.gov",
+      "title": "Search for 'KP1 klotho' (no studies)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://clinicaltrials.gov/search?term=KP1+klotho"
+    }
+  ]
+}
