@@ -17,7 +17,7 @@ export function LaneSpread({ lane, laneMark = false }: { lane: LaneKey; laneMark
   return (
     <section className="section spreadSection" data-lane={lane}>
       <div className="wrap spread2">
-        <StoryPhoto photo={lanePhoto(lane, st.photoAlt, photo)} headline={st.headline} dek={st.dek} />
+        <StoryPhoto photo={lanePhoto(lane, st.photoAlt, photo)} headline={st.headline} dek={st.dek} colors={{ backdrop: st.backdrop, headline: st.headlineColor }} />
         <InThisIssue entries={issueEntries(lane)} laneMark={laneMark} />
         <StoryArticleNotes lane={lane} byline={st.byline} body={st.body} notes={st.notes} glance={st.glance} pull={st.pull} />
         <aside className="spreadSide">

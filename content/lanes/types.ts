@@ -14,6 +14,12 @@ export type LaneStory = {
   key: LaneKey;
   headline: [string, string];
   dek: string;
+  /**
+   * EDU PROMPT 28: the lane's colours for its story photo and placeholder. backdrop: the wall colour (the placeholder's
+   * fill and the soft fade behind the headline); headlineColor: the headline and dek inside the photo (cream or navy).
+   */
+  backdrop: string;
+  headlineColor: string;
   photoAlt: string;
   /** The story's photo in public/images/photos/, when it has its own; else lane-<key>.jpg, else the sand placeholder. */
   photo?: { file: string; alt: string; position: string };

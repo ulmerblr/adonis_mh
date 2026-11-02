@@ -27,10 +27,25 @@ export function lanePhoto(key: string, alt: string, own?: { file: string; alt: s
     : { kind: 'placeholder' };
 }
 
-export function StoryPhoto({ photo, headline, dek, as = 'h2' }: { photo: StoryPhotoData; headline: [string, string]; dek: string; as?: 'h1' | 'h2' }) {
+/** EDU PROMPT 28: a lane's photo colours. backdrop fills the placeholder and tints the fade behind the headline; a cream
+ *  headline colour turns the headline and dek cream (navy lanes keep the standard ink-and-navy headline). */
+export type LaneColors = { backdrop: string; headline: string };
+const rgbOf = (hex: string) => [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16)).join(', ');
+const SAND = '#EDE5D3';
+const NAVY = '#0F2C55';
+
+export function StoryPhoto({ photo, headline, dek, as = 'h2', colors }: { photo: StoryPhotoData; headline: [string, string]; dek: string; as?: 'h1' | 'h2'; colors?: LaneColors }) {
   const H = as;
+  const cream = !!colors && colors.headline.toUpperCase() !== NAVY;
+  // Sand lanes keep the fade tone matched to their sand photo wall; every other lane fades into its own backdrop.
+  const style = colors ? ({
+    '--lane-backdrop': colors.backdrop,
+    '--lane-headline': colors.headline,
+    ...(colors.backdrop.toUpperCase() !== SAND ? { '--lane-fade': rgbOf(colors.backdrop) } : {}),
+  } as React.CSSProperties) : undefined;
+  const cls = ['spreadPhoto', photo.kind === 'placeholder' ? 'spreadPhotoPlaceholder' : '', cream ? 'spreadCream' : ''].filter(Boolean).join(' ');
   return (
-    <div className={photo.kind === 'placeholder' ? 'spreadPhoto spreadPhotoPlaceholder' : 'spreadPhoto'}>
+    <div className={cls} style={style}>
       {photo.kind !== 'placeholder' ? (
         <Image src={photo.src} alt={photo.alt} fill priority sizes="(min-width: 1180px) 744px, (min-width: 860px) 64vw, 100vw"
           style={{ objectFit: 'cover', objectPosition: photo.position }} />
