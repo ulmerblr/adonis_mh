@@ -915,3 +915,12 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='hair-loss'] .spreadPhoto img { object-position: 66% 30% !important; }
   [data-lane='hair-loss'] .spreadPhoto { --fade-solid: 52%; --fade-end: 57%; }
 }
+
+/* EDU PROMPT 31: Skin's new headline: narrower on phones (left of the hand and insert); 860-999px crop. */
+@media (max-width: 859px) {
+  [data-lane='skin'] .spreadHead { max-width: 40%; }
+}
+@media (min-width: 860px) and (max-width: 999px) {
+  [data-lane='skin'] .spreadPhoto img { object-position: 68% 30% !important; }
+  [data-lane='skin'] .spreadPhoto { --fade-solid: 44%; --fade-end: 48%; }
+}
