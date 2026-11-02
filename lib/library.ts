@@ -126,7 +126,7 @@ export const TREATMENTS: Record<LaneKey, Treatment[]> = {
     { name: 'Ketamine', aka: ['Ketalar', 'Ketamine hydrochloride'], page: { href: '/ketamine', evidence: 'Approved; depression RCTs', fda: 'Approved (Ketalar)', sport: 'Not listed' } },
     { name: 'Kratom', aka: ['Mitragyna speciosa', 'Mitragynine', '7-OH', '7-hydroxymitragynine'], page: { href: '/kratom', evidence: 'Small human trials', fda: 'Not approved', sport: 'Not named' } },
     { name: 'P21 (P021)', peptide: true, aka: ['P021', 'P-21', 'Peptide 021'], page: { href: '/p21', evidence: 'Mouse and rat only', fda: 'Not approved', sport: 'Not named' } },
-    { name: 'Psilocybin', aka: ['Magic mushrooms', 'COMP360'], page: { href: '/psilocybin', evidence: 'Phase 2 RCTs; Phase 3 on', fda: 'Not approved; Sch. I', sport: 'Not named' } },
+    { name: 'Psilocybin', aka: ['Magic mushrooms', 'COMP360'], page: { href: '/psilocybin', evidence: '2 Phase 3s (company data)', fda: 'Not approved; Sch. I', sport: 'Not named' } },
   ],
   sleep: [
     { name: 'Sermorelin', peptide: true, page: { href: '/sermorelin', evidence: 'No sleep or aging RCTs', fda: 'Was approved (Geref)', sport: 'Banned' } },

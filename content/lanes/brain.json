@@ -1,59 +1,135 @@
 {
   "key": "brain",
   "headline": [
-    "Smart drugs,",
-    "thin proof."
+    "The first psychedelic",
+    "at FDA’s door."
   ],
-  "dek": "Brain covers 16 treatments, from FDA-approved Spravato to P21, which has never been tested in people.",
+  "dek": "Compass Pathways says its psilocybin drug passed two large trials and will finish its FDA filing this year.",
   "backdrop": "#1D6165",
   "headlineColor": "#F7F3EA",
   "photoAlt": "A man in glasses holds up a notebook of handwritten notes.",
-  "byline": "Adonis Men’s Health · Checked Nov 1, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
   "glance": [
     {
-      "icon": "shield",
-      "label": "Approved for the brain",
-      "line": "Spravato for depression, under a REMS; Provigil for wakefulness. Focus is not an approved use."
+      "icon": "people",
+      "label": "Two Phase 3 trials",
+      "line": "258 and about 580 adults with treatment-resistant depression, scored at week 6.",
+      "src": {
+        "href": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-Second-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-QAFFG.pdf",
+        "label": "Compass Pathways, Feb 17, 2026"
+      }
     },
     {
-      "icon": "people",
-      "label": "No human studies",
-      "line": "P21 and dihexa: no published study in people."
+      "icon": "calendar",
+      "label": "Filing",
+      "line": "Rolling application under way; Compass expects to finish it in Q4 2026."
     },
     {
       "icon": "banned",
-      "label": "Banned in sport",
-      "line": "Modafinil is named under S6.A and banned in competition.",
+      "label": "Still Schedule I",
+      "line": "Psilocybin is a Schedule I drug; any launch waits on DEA rescheduling.",
       "src": {
-        "href": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf",
-        "label": "WADA 2026 Prohibited List (S6.A)"
+        "href": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+        "label": "DEA controlled substances list"
       }
     }
   ],
-  "pull": {
-    "quote": "FDA lacks important information regarding any safety issues raised by dihexa acetate, including whether it would cause harm if administered to humans.",
-    "note": "cat2"
-  },
   "body": [
-    "The newest lane in this magazine covers the treatments men take for their minds: for focus, for memory, for mood. There are 16 of them, and the gap between what they are sold for and what they are approved for is wider here than almost anywhere else on the site. Only a handful are approved to treat anything in the brain, and none is approved to sharpen a healthy man’s focus.",
-    "Start with the one that is. FDA approved [[/esketamine|esketamine]] as Spravato, a nasal spray, in March 2019, for depression that has not responded to other treatment.[^spravapp] Its label opens with a boxed warning: “Risk for sedation, dissociation, and respiratory depression after administration. Monitor patients for at least two hours after administration.”[^spravato] It also says “SPRAVATO is only available through a restricted program called the SPRAVATO REMS,”[^spravato] which means it is given in a certified health care setting, not taken home. Its label now covers treatment-resistant depression in adults “as monotherapy or in conjunction with an oral antidepressant,”[^spravato] and depressive symptoms in adults with major depression who have acute suicidal thoughts or behavior, alongside an oral antidepressant.[^spravato] It is not approved for children.[^spravato]",
-    "Its older relative, [[/ketamine|ketamine]], is approved as an anesthetic, Ketalar, and has been since 1970.[^ketapp] Its use for depression, in clinics and in other forms, is off-label. The research on that use has grown. In a randomized trial that compared ketamine with electroconvulsive therapy for treatment-resistant depression, the authors concluded that “ketamine was noninferior to ECT as therapy for treatment-resistant major depression without psychosis.”[^elektd] The Ketalar label, meanwhile, now warns that “ketamine administration is associated with hepatobiliary dysfunction (most often a cholestatic pattern), with recurrent use (e.g., misuse/abuse or medically supervised unapproved indications).”[^ketalar] Hepatobiliary means the liver and bile ducts.",
-    "Then come the wakefulness drugs. [[/modafinil|Modafinil]] is approved as Provigil, and its label is specific: “PROVIGIL is indicated to improve wakefulness in adult patients with excessive sleepiness associated with narcolepsy, obstructive sleep apnea (OSA), or shift work disorder (SWD).”[^provigil] Studying, focus and general fatigue are not on that list, so using modafinil, or its close cousin [[/armodafinil|armodafinil]], for them is off-label. Athletes should know that modafinil is named on the World Anti-Doping Agency’s list of stimulants banned in competition.[^wada] [[/methylene-blue|Methylene blue]], promoted online for energy and memory, is approved only as an intravenous antidote for a blood disorder called methemoglobinemia.[^provayblue]",
-    "At the other end of the lane are compounds that have never been tested in people. [[/p21|P21]], also called P021, was built from part of a nerve-growth protein called ciliary neurotrophic factor. Its research is in mice and rats. A 2017 paper concluded that “P021 is a promising neurotrophic compound”[^p21] for preventing synaptic and cognitive decline, but that conclusion came from mice, and no study has given P21 to a person.",
-    "[[/dihexa|Dihexa]] has a similar gap and a troubled paper trail. On its page of substances that may present significant safety risks in compounding, FDA writes that it “has not identified any human exposure data on drug products containing dihexa acetate administered via any route of administration.”[^cat2] It adds: “FDA lacks important information regarding any safety issues raised by dihexa acetate, including whether it would cause harm if administered to humans.”[^cat2] In April 2025, the Journal of Pharmacology and Experimental Therapeutics published a retraction notice for the 2014 paper that described how dihexa acts in the brain.[^retraction]",
-    "Between those poles sit treatments with some human research, mostly from Russia or Europe. [[/semax|Semax]] and [[/selank|Selank]] are short peptides with small Russian studies; [[/noopept|Noopept]] is a prescription medicine in Russia; [[/pinealon|Pinealon]] has only a few small studies.[^deigin][^vanhee] [[/cerebrolysin|Cerebrolysin]], a peptide mixture made from pig brain, is approved in Austria.[^basg] A 2023 Cochrane review found that moderate-certainty evidence indicates that Cerebrolysin or similar peptide mixtures “probably have no beneficial effect on preventing all-cause death in acute ischaemic stroke.”[^cochrane] [[/piracetam|Piracetam]] is a licensed medicine in the UK for a movement disorder called cortical myoclonus.[^nootropil] None of these is approved in the US. [[/alpha-gpc|Alpha-GPC]] is sold in the US as a dietary supplement.",
-    "Two more are sold for mood under very different laws. [[/psilocybin|Psilocybin]] is a Schedule I controlled substance under federal law,[^sched1] yet Oregon licenses psilocybin services under state law, and Colorado passed its own natural medicine law in 2023.[^oha][^colorado] The trials are still mixed. In a 2021 trial against the antidepressant escitalopram, the authors wrote that the main measure “did not show a significant difference in antidepressant effects between psilocybin and escitalopram in a selected group of patients.”[^carhart] In a 2022 trial in treatment-resistant depression, a single 25 mg dose “reduced depression scores significantly more than a 1-mg dose over a period of 3 weeks but was associated with adverse effects.”[^goodwin]",
-    "[[/kratom|Kratom]], a plant sold for energy, mood and pain, is a different case. FDA’s position is blunt: “kratom is not lawfully marketed in the U.S. as a drug product, a dietary supplement, or a food additive in conventional food.”[^kratom] The agency has also moved against products made with a concentrated kratom compound called 7-OH, including a seizure of such products in December 2025.[^seizure]",
-    "Most of the unapproved items in this lane share one more feature: they are easy to buy online, often labelled as research chemicals or supplements, and none of that labelling makes them approved drugs. For the ones sold as supplements, FDA says it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa]",
-    "What is not known is the question most men are asking: whether any of these makes a healthy brain work better. None of the approved drugs was approved for that, and for P21 and dihexa nothing has been measured in people at all. For the rest, the evidence ranges from careful trials in serious illness to small studies that no regulator outside Russia has relied on."
+    "For decades, [[/psilocybin|psilocybin]], a compound found in so-called magic mushrooms, has been listed by the Drug Enforcement Administration as a Schedule I controlled substance.[^dea] That status may soon be tested. Compass Pathways, a biotechnology company based in London, is sending FDA a new drug application for COMP360, its own synthetic formulation of psilocybin, for treatment-resistant depression.[^aug] In its results release on August 5, 2026, Compass said “Rolling submission and initial review are underway, with some modules of the NDA submitted and on track to complete all modules in Q4”.[^aug] A rolling submission lets a company hand in parts of an application as they are ready.",
+    "The application rests on two Phase 3 trials. Both enrolled adults aged 18 or older with major depression whose current episode had not responded to two, three or four different medicines given at an adequate dose and for long enough, and who scored at least 20 on the Montgomery-Åsberg Depression Rating Scale (MADRS) at the start.[^ct5][^ct6] The MADRS is described in the trial records as “a 10-item clinician rated scale measuring depression severity”.[^ct5] Each dose was given with psychological support.[^ct5] Compass said participants in the two trials had been in their current episode for more than three years on average.[^aug]",
+    "The first trial, COMP005, was placebo-controlled and double-blind. Its registry record lists 258 people enrolled;[^ct5] Compass said 171 received a single 25 mg dose and 87 a placebo, at sites across the United States.[^feb] The main measure was the change in MADRS score at week 6.[^ct5] Compass first reported the result in June 2025: a mean difference between drug and placebo of -3.6 points on the MADRS (95% confidence interval -5.7 to -1.5), with p below 0.001.[^feb] The trial then continued blinded to week 26, with an open-label phase to week 52.[^jul]",
+    "The second trial, COMP006, had no placebo arm. Instead, people received two doses three weeks apart of 25 mg, 10 mg or 1 mg, the lowest dose standing in as a control. Compass said 581 people were dosed in North America and Europe (296, 142 and 143 per arm);[^feb] the registry record lists 572 enrolled.[^ct6] On the main measure, again the change in MADRS at week 6, Compass reported in February 2026 a mean difference of -3.8 points between the 25 mg and 1 mg groups (95% confidence interval -5.8 to -1.8), with p below 0.001.[^feb] That release gave no result for the 10 mg group.[^feb]",
+    "Then there are the two figures Compass puts first. In both trials, it reported the share of people on 25 mg whose MADRS score had fallen by at least a quarter at week 6. For COMP005 it said “25% of participants in the 25 mg arm achieved a clinically meaningful reduction in MADRS (≥ 25%) at Week 6”;[^feb] for COMP006 the figure was 39%.[^feb] Those numbers are worth reading carefully. They are not remission rates, and they count a smaller drop than a halving of the score. The releases do not give the matching share in the placebo or 1 mg groups. In July, Compass said the people who reached that mark in COMP006 kept the benefit, on average, through at least week 26, and argued that “This compares favorably to the 25% in COMP005 following a single dose”.[^jul] The trials were run differently, so that comparison is the company’s, not a head-to-head test.",
+    "On safety, Compass said most side effects came on dosing days, with headache, nausea, anxiety and visual hallucinations the most common.[^jul] It said serious adverse events over 26 weeks in COMP006 occurred in 5.7% of the 25 mg group and 6.3% of the 1 mg group.[^jul] It quoted the chair of the independent safety board as saying there was “no evidence of a clinically meaningful imbalance between treatment arms in suicidality in either study.”[^feb] None of these figures has been independently reviewed: neither registry record had posted results as of November 2, 2026.[^ct5res][^ct6res]",
+    "Washington has been moving in the same direction. FDA granted the program Breakthrough Therapy designation in October 2018.[^healio] On April 18, 2026, an executive order told the FDA Commissioner to give national priority vouchers to psychedelic drugs with that designation.[^eo] Six days later FDA announced vouchers for three programs, the first listed as “Psilocybin for treatment-resistant depression.”[^fda] Compass said the same day that it held that voucher, and that FDA had granted its request for a rolling review.[^apr] It said the voucher brings “enhanced communications and a shortened 1-2 month review time”[^apr] once the application is filed.",
+    "For men, the stakes are practical. Depression that does not lift after several medicines is hard to treat, and one approved option this lane already covers is [[/esketamine|esketamine]], sold as Spravato, a nasal spray approved for “Treatment-resistant depression (TRD) in adults as monotherapy or in conjunction with an oral antidepressant”.[^spravato] Its label says “SPRAVATO is only available through a restricted program called the SPRAVATO REMS”,[^spravato] and is given only in certified health care settings.[^spravato] Compass has said it expects COMP360 to fit into existing centers that already run multi-hour treatments.[^aug]",
+    "What is still unknown is the most important part. FDA has not ruled on the application, and the full trial data have not been published for outside scientists to check. Nobody yet knows how long benefits last past six months in most people, how the drug compares directly with esketamine, or what supervision FDA would demand.",
+    "There is also the law. Even with an approval, psilocybin stays in Schedule I until the Drug Enforcement Administration moves it.[^dea] The executive order tells the Attorney General to “initiate and complete review of any product containing a Schedule I substance that has successfully completed Phase 3 clinical trials for a serious mental health disorder”,[^eo] so rescheduling can follow an approval quickly. Compass says launch is expected in the first half of 2027, “subject to FDA approval and following Drug Enforcement Administration (DEA) rescheduling.”[^aug] Until then, COMP360 remains, in Compass’s own word, investigational.[^aug]"
   ],
   "notes": [
     {
-      "key": "spravapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Spravato, NDA 211243",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA211243"
+      "key": "dea",
+      "source": "DEA Diversion Control Division",
+      "title": "Controlled substances, alphabetical order",
+      "date": "published Oct 2026",
+      "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf"
+    },
+    {
+      "key": "aug",
+      "source": "Compass Pathways (news release, furnished with Form 8-K)",
+      "title": "Compass Pathways Announces Second Quarter and First Half 2026 Financial Results and Business Highlights",
+      "date": "Aug 5, 2026",
+      "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-Second-Quarter-and-First-Half-2026-Financial-Results-and-Business-Highlights-2026.pdf"
+    },
+    {
+      "key": "ct5",
+      "source": "ClinicalTrials.gov",
+      "title": "COMP005: Efficacy, Safety, and Tolerability of COMP360 in Participants With TRD (NCT05624268)",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT05624268"
+    },
+    {
+      "key": "ct6",
+      "source": "ClinicalTrials.gov",
+      "title": "COMP006: Two Administrations of COMP360 in Participants With Treatment-resistant Depression (NCT05711940)",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT05711940"
+    },
+    {
+      "key": "jul",
+      "source": "Compass Pathways (news release)",
+      "title": "Compass Pathways Announces Six-Month Data from Second Phase 3 Trial Confirming Rapid and Durable Profile",
+      "date": "Jul 7, 2026",
+      "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-Six-Month-Data-from-Second-Phase-3-Trial-Confirming-Rapid-and-Durable-Profile-2026.pdf"
+    },
+    {
+      "key": "feb",
+      "source": "Compass Pathways (news release)",
+      "title": "Compass Pathways Successfully Achieves Primary Endpoint in Second Phase 3 Trial Evaluating COMP360 Psilocybin for Treatment-Resistant Depression",
+      "date": "Feb 17, 2026",
+      "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-Second-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-QAFFG.pdf"
+    },
+    {
+      "key": "ct5res",
+      "source": "ClinicalTrials.gov (API)",
+      "title": "NCT05624268, results status",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05624268?fields=hasResults"
+    },
+    {
+      "key": "ct6res",
+      "source": "ClinicalTrials.gov (API)",
+      "title": "NCT05711940, results status",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://clinicaltrials.gov/api/v2/studies/NCT05711940?fields=hasResults"
+    },
+    {
+      "key": "healio",
+      "source": "Healio",
+      "title": "FDA grants breakthrough therapy designation to psilocybin therapy for treatment-resistant depression",
+      "date": "Oct 24, 2018",
+      "url": "https://www.healio.com/news/psychiatry/20181023/fda-grants-breakthrough-therapy-designation-to-psilocybin-therapy-for-treatmentresistant-depression"
+    },
+    {
+      "key": "eo",
+      "source": "Federal Register",
+      "title": "Executive Order 14401, Accelerating Medical Treatments for Serious Mental Illness",
+      "date": "Apr 22, 2026",
+      "url": "https://public-inspection.federalregister.gov/2026-07907.pdf"
+    },
+    {
+      "key": "fda",
+      "source": "FDA",
+      "title": "FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order",
+      "date": "Apr 24, 2026",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order"
+    },
+    {
+      "key": "apr",
+      "source": "Compass Pathways (news release)",
+      "title": "Compass Pathways Announces FDA Granted NDA Rolling Review Request and Awarded Commissioner’s National Priority Voucher",
+      "date": "Apr 24, 2026",
+      "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-FDA-Granted-NDA-Rolling-Review-Request-and-Awarded-Commissioners-National-Priority-Voucher-2026.pdf"
     },
     {
       "key": "spravato",
@@ -61,160 +137,6 @@
       "title": "Spravato (esketamine) nasal spray prescribing information",
       "date": "Sep 2026",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed"
-    },
-    {
-      "key": "ketapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Ketalar, NDA 016812",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA016812"
-    },
-    {
-      "key": "elektd",
-      "source": "Anand et al., New England Journal of Medicine",
-      "title": "Ketamine versus ECT for Nonpsychotic Treatment-Resistant Major Depression",
-      "date": "Jun 2023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37224232/"
-    },
-    {
-      "key": "ketalar",
-      "source": "DailyMed",
-      "title": "Ketalar (ketamine) prescribing information",
-      "date": "Mar 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063"
-    },
-    {
-      "key": "provigil",
-      "source": "DailyMed",
-      "title": "Provigil (modafinil) prescribing information",
-      "date": "Mar 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e16c26ad-7bc2-d155-3a5d-da83ad6492c8"
-    },
-    {
-      "key": "wada",
-      "source": "World Anti-Doping Agency",
-      "title": "The 2026 Prohibited List",
-      "date": "Sep 2025",
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
-    },
-    {
-      "key": "provayblue",
-      "source": "DailyMed",
-      "title": "ProvayBlue (methylene blue) injection prescribing information",
-      "date": "Jun 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232"
-    },
-    {
-      "key": "p21",
-      "source": "Baazaoui and Iqbal, Alzheimer’s Research & Therapy",
-      "title": "Prevention of dendritic and synaptic deficits and cognitive impairment with a neurotrophic compound",
-      "date": "Jun 2017",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28655344/"
-    },
-    {
-      "key": "cat2",
-      "source": "FDA",
-      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
-      "date": "Apr 2026",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
-    },
-    {
-      "key": "retraction",
-      "source": "Journal of Pharmacology and Experimental Therapeutics",
-      "title": "Retraction notice for Benoist et al., 2014",
-      "date": "Apr 2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/"
-    },
-    {
-      "key": "deigin",
-      "source": "Deigin et al., Pharmaceutics",
-      "title": "Review of Russian peptide drugs",
-      "date": "Mar 2022",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030433/"
-    },
-    {
-      "key": "vanhee",
-      "source": "Vanhee et al., Journal of Xenobiotics",
-      "title": "Study of nootropic products by official medicines control laboratories",
-      "date": "Jun 2025",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12193813/"
-    },
-    {
-      "key": "basg",
-      "source": "Austrian Federal Office for Safety in Health Care (BASG)",
-      "title": "Cerebrolysin patient leaflet",
-      "date": "Mar 2021",
-      "url": "https://medikamente.basg.gv.at/documents/1-21380__DOTC_GEBR_INFO.pdf"
-    },
-    {
-      "key": "cochrane",
-      "source": "Ziganshina et al., Cochrane Database of Systematic Reviews",
-      "title": "Cerebrolysin for acute ischaemic stroke",
-      "date": "Oct 2023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37818733/"
-    },
-    {
-      "key": "nootropil",
-      "source": "emc (UK)",
-      "title": "Nootropil 1200 mg film-coated tablets, summary of product characteristics",
-      "date": "Jul 2025",
-      "url": "https://www.medicines.org.uk/emc/product/101131/smpc"
-    },
-    {
-      "key": "sched1",
-      "source": "eCFR",
-      "title": "21 CFR 1308.11, Schedule I",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-21/title-21.xml?part=1308&section=1308.11"
-    },
-    {
-      "key": "oha",
-      "source": "Oregon Health Authority",
-      "title": "Oregon Psilocybin Services",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://www.oregon.gov/oha/ph/preventionwellness/pages/oregon-psilocybin-services.aspx"
-    },
-    {
-      "key": "colorado",
-      "source": "Colorado General Assembly",
-      "title": "Senate Bill 23-290 (Natural Medicine Regulation and Legalization), signed act",
-      "date": "2023",
-      "url": "https://leg.colorado.gov/sites/default/files/2023a_290_signed.pdf"
-    },
-    {
-      "key": "carhart",
-      "source": "Carhart-Harris et al., New England Journal of Medicine",
-      "title": "Trial of Psilocybin versus Escitalopram for Depression",
-      "date": "Apr 2021",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33852780/"
-    },
-    {
-      "key": "goodwin",
-      "source": "Goodwin et al., New England Journal of Medicine",
-      "title": "Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression",
-      "date": "Nov 2022",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/36322843/"
-    },
-    {
-      "key": "suppqa",
-      "source": "FDA",
-      "title": "Questions and answers on dietary supplements",
-      "date": "Aug 2026",
-      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
-    },
-    {
-      "key": "kratom",
-      "source": "FDA",
-      "title": "FDA and Kratom",
-      "date": "Dec 2025",
-      "url": "https://www.fda.gov/news-events/public-health-focus/fda-and-kratom"
-    },
-    {
-      "key": "seizure",
-      "source": "FDA",
-      "title": "FDA seizes 7-OH opioids to protect American consumers",
-      "date": "Dec 2025",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-seizes-7-oh-opioids-protect-american-consumers"
     }
   ]
 }

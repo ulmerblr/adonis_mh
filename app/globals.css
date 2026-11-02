@@ -894,3 +894,12 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='weight'] .spreadHead { top: 22px; transform: none; max-width: 50%; }
   [data-lane='weight'] .spreadTitle { font-size: clamp(24px, 8.6cqw, 64px); }
 }
+
+/* EDU PROMPT 31: Brain's longer headline at 860-999px, where the taller photo crops tighter: face further right, headline narrower. */
+@media (min-width: 860px) and (max-width: 999px) {
+  [data-lane='brain'] .spreadPhoto img { object-position: 71% 30% !important; }
+  [data-lane='brain'] .spreadHead { max-width: 30%; }
+  [data-lane='brain'] .spreadTitle { font-size: clamp(22px, 5.4cqw, 60px); }
+  [data-lane='brain'] .spreadDek { font-size: clamp(13px, 2.9cqw, 18px); }
+  [data-lane='brain'] .spreadPhoto { --fade-solid: 33%; --fade-end: 37%; }
+}

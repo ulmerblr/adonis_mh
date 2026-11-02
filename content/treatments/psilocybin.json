@@ -6,13 +6,13 @@
     "Magic mushrooms",
     "COMP360"
   ],
-  "checked": "November 1, 2026",
+  "checked": "November 2, 2026",
   "peptide": false,
   "lanes": [
     "brain"
   ],
   "index": {
-    "evidence": "Phase 2 RCTs; Phase 3 on",
+    "evidence": "2 Phase 3s (company data)",
     "fda": "Not approved; Sch. I",
     "sport": "Not named"
   },
@@ -39,7 +39,7 @@
     },
     {
       "title": "Phase III",
-      "line": "COMP 005, COMP 006, PSIL301 (depression)",
+      "line": "COMP360: 2 trials met goals (company data)",
       "status": "started",
       "here": true
     },
@@ -100,14 +100,39 @@
         ]
       },
       {
+        "t": "h3",
+        "text": "COMP360"
+      },
+      {
+        "t": "p",
+        "text": "COMP360 is Compass Pathways’ own synthetic psilocybin, which the company describes as “proprietary, investigational” and under evaluation for treatment-resistant depression and post-traumatic stress disorder. It is given with psychological support. Compass reports two Phase 3 trials in treatment-resistant depression that met their main goals, and says it is filing a new drug application with FDA in parts (a rolling submission), to be complete in the fourth quarter of 2026. Any launch would also need the DEA to move psilocybin out of Schedule I. These are company statements; FDA has not approved COMP360.",
+        "src": [
+          {
+            "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-Second-Quarter-and-First-Half-2026-Financial-Results-and-Business-Highlights-2026.pdf",
+            "label": "Compass Pathways, second-quarter 2026 results (news release furnished with Form 8-K; company statement)",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-Second-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-QAFFG.pdf",
+            "label": "Compass Pathways, COMP006 primary endpoint (news release; company statement)",
+            "date": "published Feb 2026"
+          },
+          {
+            "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf",
+            "label": "DEA, controlled substances list (alphabetical)",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
         "t": "callout",
-        "text": "Psilocybin is not FDA approved for any use. It is a Schedule I controlled substance under federal law. As of November 1, 2026."
+        "text": "Psilocybin is not FDA approved for any use, including COMP360. It is a Schedule I controlled substance under federal law. As of November 2, 2026."
       }
     ],
     "research": [
       {
         "t": "lead",
-        "text": "Three randomized Phase 2 trials of single or paired psilocybin doses with psychological support have been published in major journals. Three Phase 3 trials in depression are registered; none has posted or published results."
+        "text": "Three randomized Phase 2 trials of single or paired psilocybin doses with psychological support have been published in major journals. The developer of COMP360 reports that two Phase 3 trials in treatment-resistant depression met their main goals; neither has posted results or been published. A third Phase 3 trial, PSIL301, has not reported."
       },
       {
         "t": "h3",
@@ -217,33 +242,96 @@
       },
       {
         "t": "h3",
-        "text": "Phase 3 trials (registered; results not posted)"
+        "text": "Phase 3 trials of COMP360 (results reported by the company)"
+      },
+      {
+        "t": "study",
+        "badge": "Company-reported",
+        "meta": "USA · 2023-2025 · Randomized trial (Phase 3)",
+        "title": "COMP 005: one dose versus placebo",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind; a single 25 mg dose of COMP360 or placebo (2:1), with psychological support; blinded to week 26, then open-label to week 52"
+          },
+          {
+            "k": "People",
+            "v": "258 adults with treatment-resistant depression (an episode that had not responded to two to four adequate medicine trials) and a MADRS score of 20 or more; 171 got 25 mg and 87 placebo, at US sites"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS depression score at week 6"
+          }
+        ],
+        "found": "Compass reported a mean difference of -3.6 MADRS points between COMP360 and placebo at week 6 (95% CI -5.7 to -1.5; p<0.001). It said 25% of the 25 mg group had a drop in MADRS score of at least 25% at week 6; that share is not a remission rate, and no matching placebo figure was given. ClinicalTrials.gov shows no posted results, and no peer-reviewed report was found.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05624268",
+            "label": "ClinicalTrials.gov NCT05624268 (COMP 005)",
+            "date": "accessed Nov 2, 2026"
+          },
+          {
+            "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-Second-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-QAFFG.pdf",
+            "label": "Compass Pathways, COMP006 primary endpoint (news release; company statement)",
+            "date": "published Feb 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies/NCT05624268?fields=hasResults",
+            "label": "ClinicalTrials.gov API, NCT05624268 results status (none posted)",
+            "date": "accessed Nov 2, 2026"
+          }
+        ]
+      },
+      {
+        "t": "study",
+        "badge": "Company-reported",
+        "meta": "North America and Europe · 2023-2026 · Randomized trial (Phase 3)",
+        "title": "COMP 006: two doses, 25 mg versus 1 mg",
+        "facts": [
+          {
+            "k": "Design",
+            "v": "double-blind; two doses three weeks apart of 25 mg, 10 mg or 1 mg (2:1:1), the 1 mg dose as the control, with psychological support; blinded to week 26, then open-label to week 52"
+          },
+          {
+            "k": "People",
+            "v": "adults with treatment-resistant depression; the registry lists 572 enrolled, and Compass says 581 were dosed (296, 142 and 143 per group)"
+          },
+          {
+            "k": "Measured",
+            "v": "change in MADRS score, 25 mg versus 1 mg, at week 6"
+          }
+        ],
+        "found": "Compass reported a mean difference of -3.8 MADRS points between 25 mg and 1 mg at week 6 (95% CI -5.8 to -1.8; p<0.001), and said 39% of the 25 mg group had a MADRS drop of at least 25% at week 6. It gave no 10 mg result. At 26 weeks it reported serious adverse events in 5.7% (25 mg) and 6.3% (1 mg), with headache, nausea, anxiety and visual hallucinations the most common side effects, mostly on dosing days. No results are posted on ClinicalTrials.gov.",
+        "src": [
+          {
+            "url": "https://clinicaltrials.gov/study/NCT05711940",
+            "label": "ClinicalTrials.gov NCT05711940 (COMP 006)",
+            "date": "accessed Nov 2, 2026"
+          },
+          {
+            "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-Second-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-QAFFG.pdf",
+            "label": "Compass Pathways, COMP006 primary endpoint (news release; company statement)",
+            "date": "published Feb 2026"
+          },
+          {
+            "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-Six-Month-Data-from-Second-Phase-3-Trial-Confirming-Rapid-and-Durable-Profile-2026.pdf",
+            "label": "Compass Pathways, COMP006 six-month data (news release; company statement)",
+            "date": "published Jul 2026"
+          },
+          {
+            "url": "https://clinicaltrials.gov/api/v2/studies/NCT05711940?fields=hasResults",
+            "label": "ClinicalTrials.gov API, NCT05711940 results status (none posted)",
+            "date": "accessed Nov 2, 2026"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "Other Phase 3 trials (registered; results not posted)"
       },
       {
         "t": "list",
         "items": [
-          {
-            "lead": "COMP 005 (NCT05624268):",
-            "text": "COMP360 25 mg versus placebo in treatment-resistant depression; 258 people in the US; main measure MADRS change. Status: completed (primary completion May 2025). ClinicalTrials.gov shows no posted results, and no peer-reviewed report was found.",
-            "src": [
-              {
-                "url": "https://clinicaltrials.gov/study/NCT05624268",
-                "label": "ClinicalTrials.gov NCT05624268 (COMP 005)",
-                "date": "updated Aug 2026"
-              }
-            ]
-          },
-          {
-            "lead": "COMP 006 (NCT05711940):",
-            "text": "two doses of COMP360 (25 mg versus 1 mg; a 10 mg arm also) in treatment-resistant depression; 572 people in the US, Canada and Europe. Status: active, not recruiting.",
-            "src": [
-              {
-                "url": "https://clinicaltrials.gov/study/NCT05711940",
-                "label": "ClinicalTrials.gov NCT05711940 (COMP 006)",
-                "date": "updated Aug 2026"
-              }
-            ]
-          },
           {
             "lead": "PSIL301 (NCT06308653):",
             "text": "psilocybin 25 mg, 5 mg or inactive placebo with psychological support in major depressive disorder; 238 people in the US; sponsor Usona Institute. Status: active, not recruiting.",
@@ -272,7 +360,7 @@
     "us": [
       {
         "t": "lead",
-        "text": "Not FDA approved for any use. Psilocybin is a Schedule I controlled substance under federal law. Oregon and Colorado license psilocybin services under state law. As of November 1, 2026."
+        "text": "Not FDA approved for any use. Psilocybin is a Schedule I controlled substance under federal law. Compass Pathways says it is filing a new drug application for COMP360, its psilocybin, in treatment-resistant depression; any launch would also need DEA rescheduling. Oregon and Colorado license psilocybin services under state law. As of November 2, 2026."
       },
       {
         "t": "list",
@@ -306,12 +394,60 @@
           },
           {
             "lead": "Breakthrough therapy:",
-            "text": "the developer of COMP360 states that FDA gave it Breakthrough Therapy Designation for treatment-resistant depression, and that the UK's MHRA gave it an ILAP designation. No FDA record of the designation was found. The developer also states that COMP360 has not been approved by FDA.",
+            "text": "FDA granted Compass Pathways Breakthrough Therapy designation for its psilocybin therapy in treatment-resistant depression, Healio reported in October 2018, citing the company’s press release.",
             "src": [
               {
-                "url": "https://compasspathways.com/faq",
-                "label": "Compass Pathways, FAQ (company statement)",
-                "date": "accessed Nov 1, 2026"
+                "url": "https://www.healio.com/news/psychiatry/20181023/fda-grants-breakthrough-therapy-designation-to-psilocybin-therapy-for-treatmentresistant-depression",
+                "label": "Healio, “FDA grants breakthrough therapy designation to psilocybin therapy for treatment-resistant depression”",
+                "date": "published Oct 2018"
+              }
+            ]
+          },
+          {
+            "lead": "Rolling application (COMP360):",
+            "text": "Compass says FDA granted its request for a rolling review in April 2026, and that “Rolling submission and initial review are underway, with some modules of the NDA submitted and on track to complete all modules in Q4” (August 2026). FDA has not approved COMP360.",
+            "src": [
+              {
+                "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-FDA-Granted-NDA-Rolling-Review-Request-and-Awarded-Commissioners-National-Priority-Voucher-2026.pdf",
+                "label": "Compass Pathways, rolling review and priority voucher (news release; company statement)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-Second-Quarter-and-First-Half-2026-Financial-Results-and-Business-Highlights-2026.pdf",
+                "label": "Compass Pathways, second-quarter 2026 results (news release furnished with Form 8-K; company statement)",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "National priority voucher:",
+            "text": "on April 24, 2026, FDA announced national priority vouchers for three programs, the first listed as “Psilocybin for treatment-resistant depression.” FDA did not name the company; Compass says the voucher is for COMP360 and brings “enhanced communications and a shortened 1-2 month review time” once the application is filed.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
+                "label": "FDA, “FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order”",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-FDA-Granted-NDA-Rolling-Review-Request-and-Awarded-Commissioners-National-Priority-Voucher-2026.pdf",
+                "label": "Compass Pathways, rolling review and priority voucher (news release; company statement)",
+                "date": "published Apr 2026"
+              }
+            ]
+          },
+          {
+            "lead": "DEA rescheduling:",
+            "text": "an approval alone would not end Schedule I status. Executive Order 14401 (April 2026) directs the Attorney General to “initiate and complete review of any product containing a Schedule I substance that has successfully completed Phase 3 clinical trials for a serious mental health disorder”. Compass says launch is expected in the first half of 2027, “subject to FDA approval and following Drug Enforcement Administration (DEA) rescheduling.”",
+            "src": [
+              {
+                "url": "https://public-inspection.federalregister.gov/2026-07907.pdf",
+                "label": "Executive Order 14401, “Accelerating Medical Treatments for Serious Mental Illness” (Federal Register)",
+                "date": "published Apr 2026"
+              },
+              {
+                "url": "https://s204.q4cdn.com/927483861/files/doc_news/Compass-Pathways-Announces-Second-Quarter-and-First-Half-2026-Financial-Results-and-Business-Highlights-2026.pdf",
+                "label": "Compass Pathways, second-quarter 2026 results (news release furnished with Form 8-K; company statement)",
+                "date": "published Aug 2026"
               }
             ]
           },
@@ -366,7 +502,7 @@
       },
       {
         "t": "callout",
-        "text": "Under federal law, psilocybin remains in Schedule I and is not FDA approved, including in Oregon and Colorado."
+        "text": "Under federal law, psilocybin remains in Schedule I and is not FDA approved, including COMP360 and including in Oregon and Colorado. As of November 2, 2026."
       }
     ],
     "world": {
@@ -612,8 +748,7 @@
     ]
   },
   "unconfirmed": [
-    "FDA's Breakthrough Therapy Designation for COMP360 is confirmed only by the developer's own statement; no FDA record was found. A designation for Usona's psilocybin could not be confirmed because Usona's site could not be reached.",
-    "COMP 005 topline results could not be confirmed: the developer's investor site blocked requests, ClinicalTrials.gov shows no posted results, and no peer-reviewed report was found.",
+    "The Breakthrough Therapy designation for COMP360 is reported by Healio (2018) from the developer’s press release; no FDA record of it was found. COMP360 Phase 3 results come only from the developer’s news releases: no results are posted on ClinicalTrials.gov and no peer-reviewed report was found. SEC EDGAR blocked plain requests, so the Form 8-K itself was not opened; the same August 5, 2026 release was read on the developer’s investor site. A designation for Usona’s psilocybin could not be confirmed because Usona’s site could not be reached.",
     "Colorado regulator pages (DORA, CDPHE and Department of Revenue) blocked requests, so the number of licensed healing centers and facilitators was not checked.",
     "Health Canada access routes (Special Access Program, section 56 exemptions) were not checked against Health Canada’s own pages.",
     "National rules in EU member states were not checked."
