@@ -762,3 +762,89 @@ span.tone-none { background: #d9d0bd; }
    The photo's caption chip keeps its paper backing; the placeholder's caption takes the headline colour. */
 .spreadCream .spreadTitle, .spreadCream .spreadNavy, .spreadCream .spreadDek { color: var(--lane-headline); }
 .spreadCream.spreadPhotoPlaceholder .spreadCaption { color: var(--lane-headline); opacity: 0.9; }
+
+/* EDU PROMPT 29: the Brain, Skin, Hair loss, Sleep and Longevity photos. These men stand nearer the middle and their
+   papers reach up into the frame, so each lane sets its crop (face to the right, still whole), puts the headline at the
+   top at a size that ends above the paper and before the face, and runs its own fade (in the lane colour) behind it.
+   Phone, 860px+ (tall, narrow photo) and 1000px+ each have their own values. */
+[data-lane='brain'] .spreadPhoto img { object-position: 0% 30% !important; }
+[data-lane='brain'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 44%; }
+[data-lane='brain'] .spreadTitle { font-size: clamp(22px, 7cqw, 60px); }
+[data-lane='brain'] .spreadPhoto { --fade-solid: 46%; --fade-end: 57%; }
+@media (min-width: 860px) {
+  [data-lane='brain'] .spreadPhoto img { object-position: 68% 30% !important; }
+  [data-lane='brain'] .spreadHead { top: 22px; transform: none; max-width: 34%; }
+  [data-lane='brain'] .spreadTitle { font-size: clamp(24px, 6.4cqw, 60px); }
+  [data-lane='brain'] .spreadPhoto { --fade-solid: 36%; --fade-end: 42%; }
+}
+@media (min-width: 1000px) {
+  [data-lane='brain'] .spreadPhoto img { object-position: 52% 30% !important; }
+  [data-lane='brain'] .spreadHead { max-width: 46%; }
+  [data-lane='brain'] .spreadTitle { font-size: clamp(24px, 7.2cqw, 60px); }
+  [data-lane='brain'] .spreadPhoto { --fade-solid: 47%; --fade-end: 53%; }
+}
+[data-lane='skin'] .spreadPhoto img { object-position: 0% 30% !important; }
+[data-lane='skin'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 46%; }
+[data-lane='skin'] .spreadTitle { font-size: clamp(22px, 7cqw, 60px); }
+[data-lane='skin'] .spreadPhoto { --fade-solid: 50%; --fade-end: 60%; }
+@media (min-width: 860px) {
+  [data-lane='skin'] .spreadPhoto img { object-position: 62% 30% !important; }
+  [data-lane='skin'] .spreadHead { top: 22px; transform: none; max-width: 42%; }
+  [data-lane='skin'] .spreadTitle { font-size: clamp(24px, 6.4cqw, 60px); }
+  [data-lane='skin'] .spreadPhoto { --fade-solid: 46%; --fade-end: 53%; }
+}
+@media (min-width: 1000px) {
+  [data-lane='skin'] .spreadPhoto img { object-position: 42% 30% !important; }
+  [data-lane='skin'] .spreadHead { max-width: 50%; }
+  [data-lane='skin'] .spreadTitle { font-size: clamp(24px, 6.6cqw, 56px); }
+  [data-lane='skin'] .spreadDek { font-size: clamp(14px, 2.6cqw, 18px); }
+  [data-lane='skin'] .spreadPhoto { --fade-solid: 50%; --fade-end: 57%; }
+}
+[data-lane='hair-loss'] .spreadPhoto img { object-position: 0% 30% !important; }
+[data-lane='hair-loss'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 52%; }
+[data-lane='hair-loss'] .spreadTitle { font-size: clamp(22px, 7.6cqw, 60px); }
+[data-lane='hair-loss'] .spreadPhoto { --fade-solid: 56%; --fade-end: 66%; }
+@media (min-width: 860px) {
+  [data-lane='hair-loss'] .spreadPhoto img { object-position: 60% 30% !important; }
+  [data-lane='hair-loss'] .spreadHead { top: 22px; transform: none; max-width: 50%; }
+  [data-lane='hair-loss'] .spreadTitle { font-size: clamp(24px, 7cqw, 60px); }
+  [data-lane='hair-loss'] .spreadPhoto { --fade-solid: 54%; --fade-end: 62%; }
+}
+@media (min-width: 1000px) {
+  [data-lane='hair-loss'] .spreadPhoto img { object-position: 40% 30% !important; }
+  [data-lane='hair-loss'] .spreadHead { max-width: 54%; }
+  [data-lane='hair-loss'] .spreadTitle { font-size: clamp(24px, 8cqw, 64px); }
+  [data-lane='hair-loss'] .spreadPhoto { --fade-solid: 57%; --fade-end: 62%; }
+}
+[data-lane='sleep'] .spreadPhoto img { object-position: 0% 30% !important; }
+[data-lane='sleep'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 50%; }
+[data-lane='sleep'] .spreadTitle { font-size: clamp(22px, 7cqw, 60px); }
+[data-lane='sleep'] .spreadPhoto { --fade-solid: 54%; --fade-end: 63%; }
+@media (min-width: 860px) {
+  [data-lane='sleep'] .spreadPhoto img { object-position: 52% 30% !important; }
+  [data-lane='sleep'] .spreadHead { top: 22px; transform: none; max-width: 50%; }
+  [data-lane='sleep'] .spreadTitle { font-size: clamp(24px, 6.6cqw, 60px); }
+  [data-lane='sleep'] .spreadPhoto { --fade-solid: 54%; --fade-end: 59%; }
+}
+@media (min-width: 1000px) {
+  [data-lane='sleep'] .spreadPhoto img { object-position: 28% 30% !important; }
+  [data-lane='sleep'] .spreadHead { max-width: 52%; }
+  [data-lane='sleep'] .spreadTitle { font-size: clamp(24px, 7.4cqw, 60px); }
+  [data-lane='sleep'] .spreadPhoto { --fade-solid: 52%; --fade-end: 58%; }
+}
+[data-lane='longevity'] .spreadPhoto img { object-position: 0% 30% !important; }
+[data-lane='longevity'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 50%; }
+[data-lane='longevity'] .spreadTitle { font-size: clamp(22px, 8cqw, 60px); }
+[data-lane='longevity'] .spreadPhoto { --fade-solid: 52%; --fade-end: 60%; }
+@media (min-width: 860px) {
+  [data-lane='longevity'] .spreadPhoto img { object-position: 50% 30% !important; }
+  [data-lane='longevity'] .spreadHead { top: 22px; transform: none; max-width: 48%; }
+  [data-lane='longevity'] .spreadTitle { font-size: clamp(24px, 7.6cqw, 64px); }
+  [data-lane='longevity'] .spreadPhoto { --fade-solid: 52%; --fade-end: 56%; }
+}
+@media (min-width: 1000px) {
+  [data-lane='longevity'] .spreadPhoto img { object-position: 26% 30% !important; }
+  [data-lane='longevity'] .spreadHead { max-width: 50%; }
+  [data-lane='longevity'] .spreadTitle { font-size: clamp(24px, 8.4cqw, 64px); }
+  [data-lane='longevity'] .spreadPhoto { --fade-solid: 51%; --fade-end: 56%; }
+}
