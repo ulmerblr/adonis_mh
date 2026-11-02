@@ -1,222 +1,121 @@
 {
   "key": "hair-loss",
   "headline": [
-    "The spray FDA",
-    "warned about."
+    "A new kind of",
+    "baldness drug."
   ],
-  "dek": "No topical finasteride is FDA approved. In 2025 FDA warned about the compounded ones.",
+  "dek": "A drugmaker says its scalp solution kept men growing hair for a year, and plans to seek FDA approval.",
   "backdrop": "#949F79",
   "headlineColor": "#0F2C55",
   "photoAlt": "A man with a thinning crown holds a stapled report.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
   "glance": [
     {
       "icon": "shield",
-      "label": "Approved",
-      "line": "Finasteride tablets (Propecia, 1997) and topical minoxidil (Rogaine, 1988)."
-    },
-    {
-      "icon": "mortar",
-      "label": "Compounded sprays",
-      "line": "Finasteride and minoxidil mixed with other drugs: not FDA approved.",
+      "label": "Approved only for acne",
+      "line": "Clascoterone is FDA approved as Winlevi 1% cream for acne. The 5% hair solution is not approved.",
       "src": {
-        "href": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded",
-        "label": "FDA alert on compounded topical finasteride, Apr 2025"
+        "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+        "label": "Winlevi label, DailyMed"
       }
     },
     {
       "icon": "people",
-      "label": "Side effects",
-      "line": "Lower libido and erection problems on the label; suicidal thoughts added in the EU in 2025."
+      "label": "1,465 men, two trials",
+      "line": "SCALP1 and SCALP2: six months against an inactive solution, then six more for responders."
+    },
+    {
+      "icon": "calendar",
+      "label": "Filing planned",
+      "line": "Cosmo says a US filing is planned for early 2027. No results are published yet.",
+      "src": {
+        "href": "https://www.cosmohealthconfidence.com/news/98958067-clascoterone-12-month-safety-results-ende",
+        "label": "Cosmo, Apr 15, 2026"
+      }
     }
   ],
-  "pull": {
-    "quote": "There are no FDA-approved topical products with finasteride alone or in combination with other ingredients.",
-    "note": "fdaalert"
-  },
   "body": [
-    "In April 2025, FDA sent a warning to health care providers, compounders and consumers about a hair-loss product that had become easy to order online: [[/finasteride|finasteride]] made up by a pharmacy to go on the scalp. The agency said it was aware of “some compounders and telemedicine platforms that market topical formulations of finasteride”[^fdaalert], alone or mixed with [[/minoxidil|minoxidil]]. Its conclusion was blunt: “There are no FDA-approved topical products with finasteride alone or in combination with other ingredients.”[^fdaalert]",
-    "The warning grew out of reports from patients. FDA said “There were 32 cases reported to the FDA Adverse Event Reporting System between 2019 and 2024.”[^fdaalert] The problems described matched those known from finasteride tablets, among them erectile dysfunction, anxiety, suicidal thoughts, brain fog, depression and lower sex drive. FDA added that “Most of the reports FDA has received state the adverse events continued to persist after product discontinuation.”[^fdaalert]",
-    "There was a second worry. Finasteride can cause abnormalities in a male fetus, so the approved tablets are coated, and women are told not to handle crushed or broken ones. FDA noted that “compounded topical finasteride products do not have a coating,”[^fdaalert] and it pointed to a greater risk of exposing others, especially women, through transfer of the applied product.[^fdaalert]",
-    "What FDA has approved is narrower. Finasteride tablets were approved as Proscar, for an enlarged prostate, on June 19, 1992, and as Propecia, for hair loss, on December 19, 1997.[^fdaalert] The Propecia label limits it to male pattern hair loss “in MEN ONLY”[^propecia] and says it “is not indicated for use in women.”[^propecia] The approval rested on three studies in 1,879 men with mild to moderate hair loss.[^propecia] Minoxidil solution for the scalp was approved as Rogaine in August 1988.[^rogaine]",
-    "Finasteride’s side effects are printed on its label. In the trials, 36 of 945 men on Propecia, or 3.8%, reported one or more sexual side effects, such as lower libido or erection problems, against 20 of 934 men, or 2.1%, on placebo.[^propecia] Since approval, the label adds, there have been reports of “sexual dysfunction that continued after discontinuation of treatment”[^propecia], along with depression and suicidal thoughts and behavior.[^propecia]",
-    "Regulators in Europe went further. In 2025, after an EU-wide review, EMA’s drug-safety committee confirmed suicidal thoughts as a side effect of finasteride 1 mg and 5 mg tablets, and said “The frequency of the side effect is unknown”.[^ema] Most cases were reported in men taking the 1 mg tablets for hair loss.[^ema] In May 2026 the UK’s MHRA advised that “patients prescribed finasteride 1 mg should stop taking the medicine if they develop suicidal thoughts or depression and contact their healthcare professional as soon as possible”.[^mhra]",
-    "Many men now take minoxidil as a pill, which is off-label. Minoxidil tablets are approved for severe high blood pressure, and their label warns that the drug “can cause pericardial effusion, occasionally progressing to tamponade,”[^minoxtab] a build-up of fluid around the heart. It also says that “Use of minoxidil tablets, in any formulation, to promote hair growth is not an approved indication.”[^minoxtab] One randomized trial in Brazil enrolled 90 men and compared 5 mg a day by mouth with a 5% solution on the scalp twice a day for 24 weeks.[^penha] The authors wrote that the pill “did not demonstrate superiority over topical minoxidil”.[^penha]",
-    "[[/dutasteride|Dutasteride]], a close relative of finasteride, is approved in the US as Avodart only for an enlarged prostate.[^avodart] Japan approved it as Zagallo for male pattern hair loss on September 28, 2015.[^pmda] In a 24-week trial of 917 men aged 20 to 50, men on dutasteride 0.5 mg had higher hair counts than men on finasteride 1 mg or placebo.[^harcha] In the US, taking it for hair loss is off-label.",
-    "Newer drugs aim to block male hormones only in the scalp. [[/clascoterone|Clascoterone]] is FDA approved as Winlevi, a cream “indicated for the topical treatment of acne vulgaris in patients 12 years of age and older.”[^winlevi] It is not approved for hair loss. A solution of it was tested for male pattern hair loss in two six-month Phase 3 trials, SCALP1 with 703 people and SCALP2 with 762.[^scalp1][^scalp2] [[/pyrilutamide|Pyrilutamide]], also called KX-826 has been in a Phase 3 trial of 740 men in China.[^kx826]",
-    "[[/ru58841|RU58841]] is older and much less studied. Researchers at Roussel Uclaf in France described it in 1994 as a candidate for acne, hair loss and excess hair growth.[^ru1994] The search found no published trial of it in people with hair loss as of November 1, 2026.[^rupubmed][^ructg] The only human study, published in 2026, applied a hair product containing it once to the scalp of six healthy men to see how the body breaks it down.[^okutan]",
-    "A different condition has seen the most new approvals. Alopecia areata is an immune disease in which hair falls out in patches. FDA has approved three JAK inhibitor pills for severe alopecia areata: [[/baricitinib|baricitinib]] (Olumiant), [[/ritlecitinib|ritlecitinib]] (Litfulo) and [[/deuruxolitinib|deuruxolitinib]] (Leqselvi).[^olumiant][^litfulo][^leqselvi] Their labels open with a boxed warning about “SERIOUS INFECTIONS, MORTALITY, MALIGNANCY, MAJOR ADVERSE CARDIOVASCULAR EVENTS (MACE), and THROMBOSIS”.[^litfulo]",
-    "Supplements are the least tested of all. FDA says that “FDA does not have the authority to approve dietary supplements before they are marketed.”[^dsq] For [[/saw-palmetto|saw palmetto]], NIH’s complementary health center says a few small studies have tested it for male pattern hair loss and that “The evidence is too limited to allow conclusions to be reached.”[^nccih] For [[/pumpkin-seed-oil|pumpkin seed oil]], one randomized trial gave 76 men 400 mg a day or a placebo for 24 weeks and reported more hair in the oil group.[^cho]",
-    "What is still not known is how often finasteride’s lasting side effects happen, since the reports are voluntary and EMA says the frequency cannot be estimated.[^ema] Nor is it known how compounded scalp mixtures behave. As FDA put it, “Compounded drugs are not FDA-approved, which means FDA has not evaluated their safety, effectiveness or quality prior to marketing.”[^fdaalert]"
+    "On April 15, 2026, Cosmo Pharmaceuticals, a company based in Dublin, Ireland, announced a year of results for an experimental scalp solution for male pattern hair loss.[^cosmo12] The drug is clascoterone 5% solution. Cosmo said men who kept using it kept gaining hair through month 12, and that it plans to file for FDA approval: “A U.S. FDA filing is currently planned for early 2027.”[^cosmo12] It would be a different kind of hair-loss medicine. Cosmo says the solution “is designed to locally inhibit androgen receptor signalling in the scalp,”[^cosmo12] blocking the hormone signal at the follicle rather than lowering a hormone in the body.",
+    "The molecule itself is not new. FDA approved [[/clascoterone|clascoterone]] on August 26, 2020, as Winlevi, a 1% cream.[^winapp] Its label reads: “WINLEVI (clascoterone) cream is an androgen receptor inhibitor indicated for the topical treatment of acne vulgaris in patients 12 years of age and older.”[^winlevi] Even for acne, the label says “the mechanism of action of WINLEVI cream for the topical treatment of acne vulgaris is unknown.”[^winlevi] Hair loss is not an approved use. The 5% solution is still investigational, and putting the acne cream on the scalp would be off-label.",
+    "Cosmo says the hair product uses “the same active ingredient used in Winlevi”[^cosmo12] at a higher strength. The two hair-loss trials are registered on ClinicalTrials.gov with Cassiopea SpA as the sponsor.[^scalp1][^scalp2] They are called SCALP1 and SCALP2, and were built identically.",
+    "Each enrolled men aged 18 and older with mild to moderate hair loss at the temples and the crown, rated III vertex to V on the Norwood-Hamilton scale.[^scalp1] Men applied 1.5 ml of the solution, or an identical inactive solution called a vehicle, to the balding areas twice a day.[^scalp1] Part 1 was six months, randomized and double-blind. In Part 2, men who had responded in Part 1 were randomized again, to the drug or the vehicle, for six more months in a single-blind design.[^scalp1] The main measures, at month 6, were the change in the count of non-vellus (thicker, visible) hairs in a target area of the scalp, and each man’s own rating of his hair coverage.[^scalp1] SCALP1 enrolled 703 men and finished in January 2026; SCALP2 enrolled 762 and finished in July 2025.[^scalp1][^scalp2] Cosmo says the program ran at 51 centers in the United States and Europe.[^cosmo12]",
+    "Cosmo released the six-month results in early December 2025.[^gendec] As GEN reported them, the two trials together showed a 252% relative improvement in target-area hair count with clascoterone over vehicle; SCALP2 showed 539%, and SCALP1 showed 168%.[^gendec] These are relative figures; the reports this story could open give no underlying hair counts. Side effects that began during treatment were reported in 5.1% of men on clascoterone and 6.1% on vehicle, according to Cosmo’s figures as reported by GEN.[^gendec] On the gap between the two trials, Diana Harbort, president of Cosmo’s dermatology division, told GEN: “It’s not uncommon for a Phase III program with two identical studies to have a bit of variability in results, but these both were statistically significant.”[^gendec]",
+    "The April results come from Part 2. Cosmo said men who stayed on clascoterone for 12 months had a “statistically significant 2.39x improvement in Target Area Hair Count (TAHC)”[^cosmo12] compared with men who had six months of the drug and were then switched to vehicle. It said the men who switched “experienced a measurable and meaningful decline in hair count.”[^cosmo12] Men on the drug for the full year also reported 24.5% higher treatment satisfaction than the vehicle groups, Cosmo said.[^cosmo12] On safety, the company said that across 12 months the drug had a profile “comparable to vehicle, with no significant systemic hormonal side effects observed.”[^cosmo12] Cosmo’s chief executive, Giovanni Di Napoli, told GEN that the six- and 12-month figures were not directly comparable, because they compare different groups of men.[^genapr]",
+    "Why it matters to men: compare what is already approved. [[/finasteride|Finasteride]], approved as Propecia in December 1997,[^propapp] is a pill: “PROPECIA is a 5α-reductase inhibitor indicated for the treatment of male pattern hair loss (androgenetic alopecia) in MEN ONLY.”[^propecia] It blocks the body’s conversion of testosterone to a stronger hormone, DHT,[^propecia] and its label lists the most common side effects as “decreased libido, erectile dysfunction and ejaculation disorder.”[^propecia] [[/minoxidil|Minoxidil]] 5% is sold over the counter, and its label states its use plainly: to “regrow hair on the top of the scalp.”[^rogaine] Clascoterone would sit beside them as a third route: a liquid on the scalp aimed at the hormone receptor itself. Cosmo calls it potentially “the first novel mechanism of action introduced for male AGA in more than 30 years.”[^cosmo12]",
+    "Much is still unknown. No results are posted on ClinicalTrials.gov for either trial, and no peer-reviewed paper has appeared; Cosmo says it plans to submit the full dataset to a medical journal.[^scalp1][^scalp2][^cosmo12] Until then, outside experts cannot check the hair counts, how many men responded in Part 1, or why one trial’s result was more than three times the other’s. The 12-month comparison includes only men who had already responded, so it says nothing about the men who did not.[^cosmo12] Neither trial tested clascoterone against finasteride or minoxidil.[^scalp1][^scalp2]",
+    "Safety also needs a fuller record. The Winlevi cream label warns that clascoterone can suppress the body’s adrenal hormone system, known as the HPA axis, and that “elevated potassium levels were observed in some subjects during the clinical trials.”[^winlevi] Those findings come from a 1% cream; the hair product is five times stronger and is meant for long-term use on the scalp. Cosmo says it found no significant hormonal side effects over a year,[^cosmo12] but those safety data have not been published.",
+    "What comes next is the filing. Cosmo says it is preparing a New Drug Application for FDA and a marketing application in Europe, with the US filing planned for early 2027.[^cosmo12] FDA would then review the full data. Until the agency acts, no clascoterone product is approved for hair loss, and the only approved clascoterone medicine remains an acne cream.[^winlevi]"
   ],
   "notes": [
     {
-      "key": "fdaalert",
-      "source": "FDA",
-      "title": "FDA alerts health care providers, compounders and consumers of potential risks associated with compounded topical finasteride products",
-      "date": "Apr 2025",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-alerts-health-care-providers-compounders-and-consumers-potential-risks-associated-compounded"
+      "key": "cosmo12",
+      "source": "Cosmo Pharmaceuticals (ad hoc announcement)",
+      "title": "Phase III 12-Month Data for Clascoterone 5% Topical Solution Confirm Positive Safety for Chronic Use and Continued Hair Growth, both of which Are Statistically Significant",
+      "date": "Apr 15, 2026",
+      "url": "https://www.cosmohealthconfidence.com/news/98958067-clascoterone-12-month-safety-results-ende"
     },
     {
-      "key": "propecia",
-      "source": "DailyMed",
-      "title": "Propecia (finasteride) prescribing information",
-      "date": "Oct 2024",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36"
-    },
-    {
-      "key": "rogaine",
+      "key": "winapp",
       "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Rogaine, NDA 019501",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA019501"
-    },
-    {
-      "key": "ema",
-      "source": "European Medicines Agency",
-      "title": "Finasteride- and dutasteride-containing medicinal products: referral",
-      "date": "Jun 2025",
-      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/finasteride-dutasteride-containing-medicinal-products"
-    },
-    {
-      "key": "mhra",
-      "source": "MHRA, Drug Safety Update",
-      "title": "Finasteride and dutasteride: updated safety warnings for psychiatric side effects and sexual dysfunction",
-      "date": "May 2026",
-      "url": "https://www.gov.uk/drug-safety-update/finasteride-and-dutasteride-updated-safety-warnings-for-psychiatric-side-effects-and-sexual-dysfunction"
-    },
-    {
-      "key": "minoxtab",
-      "source": "DailyMed",
-      "title": "Minoxidil tablets prescribing information",
-      "date": "Aug 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789"
-    },
-    {
-      "key": "penha",
-      "source": "Penha et al., JAMA Dermatology",
-      "title": "Oral minoxidil vs topical minoxidil for male androgenetic alopecia: a randomized clinical trial",
-      "date": "Jun 2024",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38598226/"
-    },
-    {
-      "key": "avodart",
-      "source": "DailyMed",
-      "title": "Avodart (dutasteride) prescribing information",
-      "date": "Mar 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=960797b3-09b1-4d6a-8ece-8b5d918e93e4"
-    },
-    {
-      "key": "pmda",
-      "source": "PMDA (Japan)",
-      "title": "List of approved products, April 2004 to February 2026",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://www.pmda.go.jp/files/000281190.pdf"
-    },
-    {
-      "key": "harcha",
-      "source": "Gubelin Harcha et al., Journal of the American Academy of Dermatology",
-      "title": "A randomized, active- and placebo-controlled study of the efficacy and safety of different doses of dutasteride versus placebo and finasteride in the treatment of male subjects with androgenetic alopecia",
-      "date": "Mar 2014",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/24411083/"
+      "title": "Winlevi, NDA 213433",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA213433"
     },
     {
       "key": "winlevi",
       "source": "DailyMed",
-      "title": "Winlevi (clascoterone) cream prescribing information",
+      "title": "Winlevi (clascoterone) cream 1% prescribing information",
       "date": "Jan 2025",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1673a84b-7f5c-47ab-a99c-1e3db21a6a09"
     },
     {
       "key": "scalp1",
       "source": "ClinicalTrials.gov",
-      "title": "A study to evaluate the efficacy and safety of clascoterone solution in treatment of male pattern hair loss (NCT05910450)",
-      "date": "accessed Nov 1, 2026",
+      "title": "A Study to Evaluate the Efficacy and Safety of Clascoterone Solution in Treatment of Male Pattern Hair Loss (SCALP1), NCT05910450",
+      "date": "accessed Nov 2, 2026",
       "url": "https://clinicaltrials.gov/study/NCT05910450"
     },
     {
       "key": "scalp2",
       "source": "ClinicalTrials.gov",
-      "title": "A study to evaluate the efficacy and safety of clascoterone solution in treatment of male pattern hair loss, SCALP2 (NCT05914805)",
-      "date": "accessed Nov 1, 2026",
+      "title": "A Study to Evaluate the Efficacy and Safety of Clascoterone Solution in Treatment of Male Pattern Hair Loss (SCALP2), NCT05914805",
+      "date": "accessed Nov 2, 2026",
       "url": "https://clinicaltrials.gov/study/NCT05914805"
     },
     {
-      "key": "kx826",
-      "source": "ClinicalTrials.gov",
-      "title": "Phase III study of KX-826 with adult male patients with AGA (NCT06126965)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://clinicaltrials.gov/study/NCT06126965"
+      "key": "gendec",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "title": "StockWatch: Cosmo Surges 40% on Baldness Candidate’s Phase III Data",
+      "date": "Dec 7, 2025",
+      "url": "https://www.genengnews.com/topics/translational-medicine/stockwatch-cosmo-surges-40-on-baldness-candidates-phase-iii-data/"
     },
     {
-      "key": "ru1994",
-      "source": "Battmann et al., Journal of Steroid Biochemistry and Molecular Biology",
-      "title": "RU 58841, a new specific topical antiandrogen: a candidate of choice for the treatment of acne, androgenetic alopecia and hirsutism",
-      "date": "Jan 1994",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/8136306/"
+      "key": "genapr",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "title": "Cosmo Pharma Eyes 2027 NDA for Baldness Candidate After Positive Phase III 12-Month Data",
+      "date": "Apr 21, 2026",
+      "url": "https://www.genengnews.com/topics/translational-medicine/cosmo-pharma-eyes-2027-nda-for-baldness-candidate-after-positive-phase-iii-12-month-data/"
     },
     {
-      "key": "rupubmed",
-      "source": "PubMed",
-      "title": "Search for 'RU58841'",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=RU58841"
+      "key": "propapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Propecia, NDA 020788",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020788"
     },
     {
-      "key": "ructg",
-      "source": "ClinicalTrials.gov",
-      "title": "Search for 'RU58841'",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://clinicaltrials.gov/search?term=RU58841"
-    },
-    {
-      "key": "okutan",
-      "source": "Okutan et al., Biomedical Chromatography",
-      "title": "Investigation into the metabolism and elimination behavior of RU 58841, and its influence on the steroid profile in humans",
-      "date": "Oct 2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42615108/"
-    },
-    {
-      "key": "olumiant",
+      "key": "propecia",
       "source": "DailyMed",
-      "title": "Olumiant (baricitinib) prescribing information",
-      "date": "Oct 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf"
+      "title": "Propecia (finasteride) tablets prescribing information",
+      "date": "Oct 2024",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f904709-65aa-44ce-b144-b4c8a0416e36"
     },
     {
-      "key": "litfulo",
+      "key": "rogaine",
       "source": "DailyMed",
-      "title": "Litfulo (ritlecitinib) prescribing information",
-      "date": "Jun 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b2f9446-fb23-4741-b73a-5a2f993733c3"
-    },
-    {
-      "key": "leqselvi",
-      "source": "DailyMed",
-      "title": "Leqselvi (deuruxolitinib) prescribing information",
-      "date": "Sep 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a603f231-d09e-4bad-ad5e-b55f865da095"
-    },
-    {
-      "key": "dsq",
-      "source": "FDA",
-      "title": "Questions and answers on dietary supplements",
-      "date": "Aug 2026",
-      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
-    },
-    {
-      "key": "nccih",
-      "source": "NCCIH (NIH)",
-      "title": "Saw palmetto: usefulness and safety",
-      "date": "Apr 2025",
-      "url": "https://www.nccih.nih.gov/health/saw-palmetto"
-    },
-    {
-      "key": "cho",
-      "source": "Cho et al., Evidence-Based Complementary and Alternative Medicine",
-      "title": "Effect of pumpkin seed oil on hair growth in men with androgenetic alopecia: a randomized, double-blind, placebo-controlled trial",
-      "date": "Apr 2014",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/24864154/"
+      "title": "Men’s Rogaine Extra Strength (minoxidil 5%) Drug Facts label",
+      "date": "Sep 2024",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccaecec5-5348-4b24-9190-5464c50f6d80"
     }
   ]
 }
