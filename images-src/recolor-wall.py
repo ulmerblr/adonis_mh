@@ -1,9 +1,10 @@
 # EDU PROMPT 28: recolour only the sand wall of a lane photo, keeping its light and shadow (his shadow stays, recoloured).
-# Sources: images-src/lane-<lane>-sand-original.webp (the sand originals). Masks: images-src/masks/, made with rembg
+# Sources: images-src/lane-<lane>-sand-original.webp (TRT, Weight) or lane-<lane>-original.webp (other lanes). Masks: images-src/masks/, made with rembg
 # (isnet-general-use for the man and every object, birefnet-portrait for his outline). Output: images-src/<lane>-recolor.png,
 # then saved as public/images/photos/lane-<lane>.jpg (JPEG quality 80, 1536x1024, no metadata).
 # Usage (needs numpy, opencv-python-headless, pillow): python3 images-src/recolor-wall.py <lane> <hex> <band px>
 #   trt: python3 images-src/recolor-wall.py trt '#5D6F82' 2      weight: python3 images-src/recolor-wall.py weight '#5B5E3A' 5
+#   energy (wall lightened slightly for contrast): python3 images-src/recolor-wall.py energy '#CD8527' 5
 import sys, numpy as np, cv2
 from PIL import Image
 import os
@@ -12,6 +13,7 @@ D = os.path.join(HERE, 'masks') + '/'
 OUT = HERE + '/'
 SRC = {'trt': os.path.join(HERE, 'lane-trt-sand-original.webp'), 'weight': os.path.join(HERE, 'lane-weight-sand-original.webp')}
 lane, hexc = sys.argv[1], sys.argv[2]
+if lane not in SRC: SRC[lane] = os.path.join(HERE, f'lane-{lane}-original.webp')   # EDU PROMPT 30: other lanes
 BAND = int(sys.argv[3]) if len(sys.argv) > 3 else 5
 img = np.asarray(Image.open(SRC[lane]).convert('RGB')).astype(np.float32) / 255
 H, W, _ = img.shape
