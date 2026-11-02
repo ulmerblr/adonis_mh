@@ -1,185 +1,133 @@
 {
   "key": "trt",
   "headline": [
-    "Testosterone’s label",
-    "just changed."
+    "Loosening",
+    "testosterone’s label."
   ],
-  "dek": "FDA dropped the heart-risk boxed warning in 2025 and added a blood pressure warning.",
+  "dek": "In six months, US health officials moved to widen who testosterone is for and to soften its warnings.",
   "backdrop": "#5D6F82",
   "headlineColor": "#F7F3EA",
   "photoAlt": "A night-shift plant operator in a reflective work shirt sits at a table with his hard hat and paperwork.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "people",
+      "label": "Dec 10, 2025",
+      "line": "An FDA expert panel, not a formal advisory committee, backs a wider use.",
+      "src": {
+        "href": "https://www.fda.gov/patients/fda-expert-panels/fda-expert-panel-testosterone-replacement-therapy-men-12102025",
+        "label": "FDA expert panel page"
+      }
+    },
+    {
+      "icon": "calendar",
+      "label": "Apr 20, 2026",
+      "line": "FDA invites makers to seek a low-libido indication.",
+      "src": {
+        "href": "https://public-inspection.federalregister.gov/2026-07615.pdf",
+        "label": "Federal Register notice"
+      }
+    },
+    {
+      "icon": "shield",
+      "label": "Jun 18, 2026",
+      "line": "HHS asks for three label changes. Labels have to be revised first."
+    }
+  ],
   "pull": {
-    "quote": "is approved solely for use in men who lack or have low testosterone levels in conjunction with an associated medical condition.",
-    "note": "fda25"
+    "quote": "Approval of any new indication will be based on rigorous scientific evidence and comprehensive risk-benefit analysis, consistent with applicable law.",
+    "note": "frapr"
   },
   "body": [
-    "On February 28, 2025, FDA told the makers of every [[/testosterone|testosterone]] product in the United States to rewrite their labels.[^fda25] The agency had finished reviewing a large heart-safety trial called TRAVERSE, along with blood pressure studies it had required years earlier. It asked companies to add the trial’s results to every label and to begin “removing language from the Boxed Warning related to an increased risk of adverse cardiovascular outcomes for all testosterone products.”[^fda25] In the same notice, FDA required new or updated blood pressure warnings, because the completed studies “confirmed an increase in blood pressure with use of all testosterone products, class-wide.”[^fda25]",
-    "The label change did not turn testosterone into a general wellness drug. FDA’s notice says testosterone “is approved solely for use in men who lack or have low testosterone levels in conjunction with an associated medical condition.”[^fda25] The approved forms now include gels, a skin patch, a system that sticks to the gum, injections and capsules taken by mouth.[^fda25] Testosterone undecanoate, one of those forms, was approved as the Aveed injection in 2014 and as the Jatenzo capsule in 2019.[^aveed][^jatenzo]",
-    "TRAVERSE was the evidence behind the change. It enrolled 5,246 men aged 45 to 80 who had heart disease or a high risk of it, symptoms of low testosterone and two low blood tests, and gave them a daily testosterone gel or a placebo gel.[^traverse] Heart attack, stroke or death from heart causes occurred in 7.0% of the men on testosterone and 7.3% on placebo.[^traverse] The authors concluded that testosterone “was noninferior to placebo with respect to the incidence of major adverse cardiac events.”[^traverse] Noninferior means it was not worse by a set margin; the trial was built to test heart safety, not whether testosterone helps symptoms.",
-    "Other problems did show up. The AndroGel 1.62% label now reports that in TRAVERSE, atrial fibrillation occurred in 3.5% of men on testosterone and 2.4% on placebo, and acute kidney injury in 2.3% and 1.5%.[^androgel] A separate analysis of 5,204 of the same men looked at broken bones. Fractures occurred in 3.50% of the testosterone group and 2.46% of the placebo group, and the researchers wrote that testosterone “did not result in a lower incidence of clinical fracture than placebo.”[^fracture]",
-    "Some parts of the label did not change at all. FDA kept its “Limitation of Use”[^fda25] language on aging. The AndroGel label says that safety and efficacy in men whose testosterone is low only because of age “have not been established,”[^androgel] so that use is off-label. Testosterone remains a Schedule III controlled substance under federal law.[^dea] Compounded creams and sprays are not FDA approved; FDA does not review compounded drugs for safety, effectiveness or quality before they are sold.[^compq]",
-    "Fertility is where many men first run into trouble. The label warns that with large doses, “spermatogenesis may be suppressed through feedback inhibition of pituitary FSH,”[^androgel] which can lower sperm count. The clearest measure of that effect comes from a 1990 World Health Organization study that tested weekly testosterone injections as a male contraceptive. Of 271 healthy, fertile men in ten centres across seven countries, 157 stopped producing sperm in three semen samples in a row.[^who]",
-    "That is why three other drugs come up so often around testosterone. The first, [[/enclomiphene|enclomiphene]], is not approved by any regulator we checked. The European Medicines Agency refused it in 2018. Its committee noted that the studies “did not look at whether EnCyzix would improve symptoms such as bone strength, weight gain, impotence and libido.”[^emaqa] The agency’s assessment counted four blood-clot events in men taking it, one of them a fatal ischaemic stroke.[^emaar] In June 2022, FDA’s compounding advisory committee voted 8 to 4 against putting enclomiphene on the list of substances pharmacies may compound from.[^pcac22] It remains in FDA’s category of nominated substances still under evaluation.[^cat1]",
-    "The second, [[/anastrozole|anastrozole]], lowers estrogen. Its label is narrow: “ARIMIDEX is indicated for adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer.”[^arimidex] Every approved use is in women, so use in men is off-label. In a one-year randomized trial in older men with low or borderline testosterone, spine bone density fell on anastrozole compared with placebo.[^burnett]",
-    "The third is [[/hcg|hCG]], a hormone that acts much like the pituitary signal to the testes. Its label lists undescended testes in boys, some cases of low testosterone from a pituitary problem, and ovulation in women.[^novarel] Taking it alongside testosterone is off-label, and the studies of that use are small: a three-week trial in healthy men that measured testosterone inside the testis,[^coviello] and a review of the records of 26 men.[^hsieh] Since March 23, 2020, hCG has been regulated as a biologic, and FDA says such products “are not eligible for the exemptions for compounded drugs under sections 503A and 503B of the FD&C Act.”[^notice]",
-    "Two more groups of products sit near this lane. [[/clomiphene|Clomiphene]], the older fertility drug that contains enclomiphene, is indicated “for the treatment of ovulatory dysfunction in women desiring pregnancy,”[^clomid] and its use in men is off-label. Then there are the SARMs, such as [[/enobosarm|enobosarm]], [[/rad-140|RAD-140]] and [[/lgd-4033|LGD-4033]], which are often sold online. FDA says SARMs “are considered unapproved drugs,”[^sarms] and that they “cannot be legally marketed in the U.S. as a dietary supplement or drug at this time.”[^sarms]",
-    "Much is still unknown. TRAVERSE did not test whether testosterone improves energy, mood or sex drive, and no large trial has tested hCG given with testosterone. The enclomiphene trials measured hormones and sperm, not symptoms. For athletes the answer is simpler: testosterone is on the World Anti-Doping Agency’s list, banned at all times.[^wada]"
+    "For a decade, the label on every approved testosterone product in the US has carried one sentence that shaped how doctors use it: safety and efficacy in men with “age-related hypogonadism”[^depo] have not been established. Over the past year, federal health officials have moved, step by step, to take that sentence out, to narrow the drug’s prostate warnings, and to open the door to a broader approved use. None of it is final yet. Together, it is a real shift in how Washington treats [[/testosterone|testosterone]].",
+    "It began with a panel. On December 10, 2025, FDA convened an expert panel on testosterone replacement therapy for men and opened a public docket for comments.[^panel] It was not a formal FDA advisory committee. Its members were mostly urologists, alongside federal officials, among them the deputy director of FDA’s drug center and the HHS assistant secretary for health.[^panel] According to Healio, the panel expressed interest in expanding the indication, dropping some contraindications and ending testosterone’s status as a Schedule III controlled substance.[^hjan] Its co-moderator, Baylor urologist Mohit Khera, told the hearing: “There is no scientific basis for excluding age-related hypogonadism from treatment eligibility.”[^hjan]",
+    "The current label is narrow. Approved products are for men whose low testosterone has a known cause in the testes or the pituitary and hypothalamus: primary hypogonadism or hypogonadotropic hypogonadism.[^frapr] Panel members said about 90 percent of men with low levels have no such defined cause.[^hjan] Treating them is off-label: the Depo-Testosterone label revised in August 2026 still includes the age-related limitation.[^depo]",
+    "The first concrete step came on April 20, 2026. In a Federal Register notice, FDA said its “preliminary review of the literature suggests that TRT may be safe and effective in treating low libido in men with decreased libido associated with idiopathic hypogonadism”,[^frapr] meaning low testosterone with no known cause. It asked makers of approved products to contact the agency by April 30 about filing a supplemental application, and added: “Approval of any new indication will be based on rigorous scientific evidence and comprehensive risk-benefit analysis, consistent with applicable law.”[^frapr]",
+    "Then, on June 18, HHS announced three requested changes to the labels.[^hjul] The first would remove the age-related hypogonadism limitation, which FDA added in 2015; HHS said newer evidence, including the TRAVERSE trial, means it “is no longer warranted.”[^hjul] The second would narrow the prostate cancer contraindication, which now covers known or suspected cancer, to men with metastatic disease, while asking prescribers to assess prostate cancer risk before treatment and to monitor during it.[^hjul] The third would drop a warning that testosterone may worsen symptoms of an enlarged prostate, or benign prostatic hyperplasia, and instead advise monitoring men with severe symptoms.[^hjul] Michael Davis, acting director of FDA’s drug center, said: “FDA’s responsibility is to ensure prescribing information reflects the best available scientific evidence.”[^hjul]",
+    "The evidence behind all of this rests heavily on one trial. TRAVERSE, published in 2023, randomly assigned 5,246 men aged 45 to 80, who had symptoms of hypogonadism, two fasting testosterone levels below 300 ng/dL, and heart disease or a high risk of it, to a daily 1.62% testosterone gel or a placebo gel.[^traverse] Men were treated for an average of 21.7 months and followed for 33.[^traverse] The main outcome, a combination of cardiovascular death, heart attack or stroke, occurred in 7.0 percent of the testosterone group and 7.3 percent of the placebo group, which met the trial’s test for noninferiority.[^traverse] Rates of atrial fibrillation, acute kidney injury and pulmonary embolism were higher with testosterone.[^traverse] The trial was funded by AbbVie, a testosterone maker, and others.[^traverse] In February 2025, FDA removed the heart-risk language from the boxed warning, while keeping the age-related limitation and adding blood pressure warnings, after required monitoring studies found testosterone raised blood pressure across the class.[^fda2025]",
+    "The libido case draws on two trials FDA listed in its notice.[^frapr] A substudy of TRAVERSE enrolled 1,161 men with low libido; over two years, testosterone gel improved sexual activity, sexual desire and hypogonadal symptoms compared with placebo, but not erectile function.[^pencina] The earlier Testosterone Trials gave 790 men aged 65 or older, with levels below 275 ng/dL, testosterone or placebo gel for one year. Sexual function improved moderately; vitality and walking distance did not, and the authors wrote that the trials had too few men to draw conclusions about risks.[^snyder]",
+    "Not everyone is convinced. In comments to FDA in February 2026, the consumer group Public Citizen said several panelists had ties to testosterone makers and that “the expert panel appeared to be looking only at data that supported the safety of testosterone replacement therapy.”[^citizen] Sandeep Dhindsa, an endocrinologist at Saint Louis University, told Healio that low testosterone is often a marker of poor health rather than its cause, so “one should not assume that testosterone therapy would improve the underlying medical condition.”[^hjan] On the prostate, HHS itself said that “important uncertainties remain because prostate cancer can take years to develop and existing studies may not have followed patients long enough to detect long-term effects.”[^hjul]",
+    "If the changes go through, treating low testosterone that comes with age would no longer be outside the label, and men with a history of non-metastatic prostate cancer or an enlarged prostate would no longer be ruled out by the label’s wording. The blood pressure warning stays, and TRAVERSE studied men at high heart risk, for under two years of treatment on average.[^traverse]",
+    "FDA’s interest in testosterone has also reached women. On September 17, 2026, the agency held a public workshop on testosterone use in menopausal women, set up “to help inform future research and potential drug development of testosterone products for menopausal women.”[^frws] FDA notes there are no approved indications for testosterone in menopausal women, though off-label use has grown.[^frws]",
+    "What comes next for men sits with the companies. The changes HHS announced are requests: makers have to submit revised labeling, and FDA has to approve it, before any label changes.[^hjul] Whether any maker files for the low-libido indication is a separate question."
   ],
   "notes": [
     {
-      "key": "fda25",
+      "key": "panel",
+      "source": "FDA",
+      "title": "FDA Expert Panel on Testosterone Replacement Therapy for Men, December 10, 2025",
+      "date": "Dec 2025",
+      "url": "https://www.fda.gov/patients/fda-expert-panels/fda-expert-panel-testosterone-replacement-therapy-men-12102025"
+    },
+    {
+      "key": "hjan",
+      "source": "Healio",
+      "title": "FDA panel supports loosening restrictions on testosterone",
+      "date": "Jan 20, 2026",
+      "url": "https://www.healio.com/news/endocrinology/20260120/fda-panel-supports-expanding-population-indicated-for-testosterone-therapy"
+    },
+    {
+      "key": "frapr",
+      "source": "FDA (Federal Register)",
+      "title": "Potential New Indication for Testosterone Replacement Therapy (FR Doc. 2026-07615)",
+      "date": "Apr 20, 2026",
+      "url": "https://public-inspection.federalregister.gov/2026-07615.pdf"
+    },
+    {
+      "key": "depo",
+      "source": "DailyMed",
+      "title": "Depo-Testosterone (testosterone cypionate) injection prescribing information",
+      "date": "Aug 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39"
+    },
+    {
+      "key": "hjul",
+      "source": "Healio",
+      "title": "HHS proposes changes to loosen warnings on testosterone therapy",
+      "date": "Jul 9, 2026",
+      "url": "https://www.healio.com/news/endocrinology/20260709/hhs-proposes-changes-to-loosen-warnings-on-testosterone-therapy"
+    },
+    {
+      "key": "traverse",
+      "source": "Lincoff et al., New England Journal of Medicine",
+      "title": "Cardiovascular Safety of Testosterone-Replacement Therapy (TRAVERSE)",
+      "date": "Jul 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/"
+    },
+    {
+      "key": "fda2025",
       "source": "FDA",
       "title": "FDA issues class-wide labeling changes for testosterone products",
       "date": "Feb 28, 2025",
       "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products"
     },
     {
-      "key": "aveed",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Aveed, NDA 022219",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022219"
-    },
-    {
-      "key": "jatenzo",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Jatenzo, NDA 206089",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA206089"
-    },
-    {
-      "key": "traverse",
-      "source": "Lincoff et al., New England Journal of Medicine",
-      "title": "Cardiovascular Safety of Testosterone-Replacement Therapy",
-      "date": "Jul 2023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/"
-    },
-    {
-      "key": "androgel",
-      "source": "DailyMed",
-      "title": "AndroGel 1.62% (testosterone gel) prescribing information",
-      "date": "Nov 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f4e8d29b-8707-4d47-e053-2a95a90aecee"
-    },
-    {
-      "key": "fracture",
-      "source": "Snyder et al., New England Journal of Medicine",
-      "title": "Testosterone Treatment and Fractures in Men with Hypogonadism",
+      "key": "pencina",
+      "source": "Pencina et al., Journal of Clinical Endocrinology & Metabolism",
+      "title": "Effect of Testosterone Replacement Therapy on Sexual Function and Hypogonadal Symptoms in Men with Hypogonadism",
       "date": "Jan 2024",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38231621/"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37589949/"
     },
     {
-      "key": "dea",
-      "source": "DEA",
-      "title": "Controlled substances, alphabetical order",
-      "date": "Oct 2026",
-      "url": "https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf"
+      "key": "snyder",
+      "source": "Snyder et al., New England Journal of Medicine",
+      "title": "Effects of Testosterone Treatment in Older Men",
+      "date": "Feb 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26886521/"
     },
     {
-      "key": "compq",
-      "source": "FDA",
-      "title": "Compounding and the FDA: Questions and Answers",
-      "date": "Sep 2025",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
+      "key": "citizen",
+      "source": "Public Citizen",
+      "title": "Comments to the FDA on the Expert Panel on Testosterone Replacement Therapy for Men",
+      "date": "Feb 9, 2026",
+      "url": "https://www.citizen.org/?p=119201"
     },
     {
-      "key": "who",
-      "source": "World Health Organization Task Force, The Lancet",
-      "title": "Contraceptive efficacy of testosterone-induced azoospermia in normal men",
-      "date": "Oct 1990",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/1977002/"
-    },
-    {
-      "key": "emaqa",
-      "source": "European Medicines Agency",
-      "title": "Questions and answers on the refusal of the marketing authorisation for EnCyzix (enclomifene)",
-      "date": "Jan 2018",
-      "url": "https://www.ema.europa.eu/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-encyzix-enclomifene_en.pdf"
-    },
-    {
-      "key": "emaar",
-      "source": "European Medicines Agency",
-      "title": "EnCyzix: refusal assessment report (EMA/88321/2018)",
-      "date": "Apr 2018",
-      "url": "https://www.ema.europa.eu/en/documents/assessment-report/encyzix-epar-public-assessment-report_en.pdf"
-    },
-    {
-      "key": "pcac22",
-      "source": "FDA",
-      "title": "Pharmacy Compounding Advisory Committee meeting minutes, June 8, 2022",
-      "date": "Aug 2022",
-      "url": "https://www.fda.gov/media/161293/download"
-    },
-    {
-      "key": "cat1",
-      "source": "FDA",
-      "title": "Bulk drug substances nominated for use in compounding under section 503A (categories)",
-      "date": "May 2026",
-      "url": "https://www.fda.gov/media/94155/download"
-    },
-    {
-      "key": "arimidex",
-      "source": "DailyMed",
-      "title": "Arimidex (anastrozole) prescribing information",
-      "date": "Mar 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de"
-    },
-    {
-      "key": "burnett",
-      "source": "Burnett-Bowie et al., Journal of Clinical Endocrinology & Metabolism",
-      "title": "Effects of aromatase inhibition on bone mineral density and bone turnover in older men with low testosterone levels",
-      "date": "Dec 2009",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/19820017/"
-    },
-    {
-      "key": "novarel",
-      "source": "DailyMed",
-      "title": "Novarel (chorionic gonadotropin) prescribing information",
-      "date": "Sep 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8"
-    },
-    {
-      "key": "coviello",
-      "source": "Coviello et al., Journal of Clinical Endocrinology & Metabolism",
-      "title": "Low-dose human chorionic gonadotropin maintains intratesticular testosterone in normal men with testosterone-induced gonadotropin suppression",
-      "date": "May 2005",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/15713727/"
-    },
-    {
-      "key": "hsieh",
-      "source": "Hsieh et al., Journal of Urology",
-      "title": "Concomitant intramuscular human chorionic gonadotropin preserves spermatogenesis in men undergoing testosterone replacement therapy",
-      "date": "Feb 2013",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/23260550/"
-    },
-    {
-      "key": "notice",
-      "source": "FDA",
-      "title": "Notice to compounders: changes that affect compounding on March 23, 2020",
-      "date": "Mar 2020",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020"
-    },
-    {
-      "key": "clomid",
-      "source": "DailyMed",
-      "title": "Clomid (clomiphene citrate) prescribing information",
-      "date": "Feb 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ca373c1-4dba-4126-8616-5c533d606fe5"
-    },
-    {
-      "key": "sarms",
-      "source": "FDA",
-      "title": "FDA warns of use of selective androgen receptor modulators (SARMs) among teens, young adults",
-      "date": "Apr 2023",
-      "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults"
-    },
-    {
-      "key": "wada",
-      "source": "World Anti-Doping Agency",
-      "title": "The 2026 Prohibited List",
-      "date": "Sep 2025",
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
+      "key": "frws",
+      "source": "FDA (Federal Register)",
+      "title": "Testosterone Use in Menopausal Women; Public Workshop; Request for Comments (FR Doc. 2026-16829)",
+      "date": "Aug 18, 2026",
+      "url": "https://public-inspection.federalregister.gov/2026-16829.pdf"
     }
   ]
 }
