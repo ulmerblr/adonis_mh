@@ -1,205 +1,122 @@
 {
   "key": "vitality",
   "headline": [
-    "The pill and",
-    "the troche."
+    "Cialis behind",
+    "the counter?"
   ],
-  "dek": "Three ED drugs are FDA approved as tablets. Troches, gummies and combinations are not.",
+  "dek": "Opella has finished a US trial of nonprescription Cialis. Poland and the UK already allow it.",
   "backdrop": "#5F1317",
   "headlineColor": "#F7F3EA",
   "photoAlt": "A barber in a black smock holds a folded leaflet.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
   "glance": [
     {
-      "icon": "shield",
-      "label": "Approved for ED",
-      "line": "Sildenafil, tadalafil, vardenafil and avanafil tablets; alprostadil injections."
+      "icon": "calendar",
+      "label": "The US trial",
+      "line": "Started Jan 2025, completed Apr 2026, 2,212 enrolled. No results posted yet.",
+      "src": {
+        "href": "https://clinicaltrials.gov/study/NCT06805513",
+        "label": "ClinicalTrials.gov NCT06805513"
+      }
     },
     {
-      "icon": "mortar",
-      "label": "Compounded",
-      "line": "Troches, gums, gummies, strips, combinations and Trimix: not FDA approved."
+      "icon": "shield",
+      "label": "US status today",
+      "line": "Cialis is prescription-only. FDA has approved no nonprescription drug with an ACNU."
     },
     {
       "icon": "people",
-      "label": "Not studied",
-      "line": "No published human study of ED drugs as troches or gummies, or combined with oxytocin."
+      "label": "Abroad",
+      "line": "Poland switched a 10 mg tadalafil in 2022; the UK made Cialis Together a pharmacy medicine in 2023."
     }
   ],
+  "pull": {
+    "quote": "Right now, there are no FDA-approved nonprescription drugs with an ACNU.",
+    "note": "acnu"
+  },
   "body": [
-    "Erectile dysfunction has more approved treatments than almost any other problem men bring to a doctor, and more unapproved ones sold around them. The approved ones started with a single pill. FDA approved [[/sildenafil|sildenafil]] as Viagra in March 1998, and its label states simply: “VIAGRA is indicated for the treatment of erectile dysfunction.”[^viagra][^viagraapp] [[/tadalafil|Tadalafil]] followed as Cialis in November 2003, and [[/vardenafil|vardenafil]] as Levitra in August 2003.[^cialisapp][^levitraapp] A fourth drug of the same type, [[/avanafil|avanafil]], was approved as Stendra in April 2012.[^stendraapp]",
-    "All four block the same enzyme, PDE5, and all four were approved on randomized trials of tablets taken by mouth. The Viagra label describes 21 randomized, placebo-controlled trials, and the Cialis label says tadalafil “was administered to over 9000 men during clinical trials worldwide.”[^cialis][^viagra] Generic tablets of sildenafil, tadalafil and vardenafil are approved too. The Levitra brand itself is now listed as discontinued.[^levitraapp]",
-    "For men whose problem does not respond to pills, there is an older approved route. [[/alprostadil|Alprostadil]] was approved as Caverject, an injection into the penis, in July 1995.[^caverjectapp] A second injection, Edex, followed in June 1997, and a pellet placed in the urethra, Muse, was approved in November 1996 and is now listed as discontinued.[^edexapp][^museapp] Injections come with their own risks. The Caverject label tells doctors to advise patients “to seek immediate medical assistance for an erection that persists longer than 4 hours,”[^caverject] and it warns that “penile fibrosis has occurred in patients receiving CAVERJECT.”[^caverject] Fibrosis is scarring inside the penis.",
-    "Around those approved products sits a much larger market of compounded ones. Sildenafil and tadalafil are made by compounding pharmacies as troches that dissolve in the mouth, gums, gummies and oral strips, and in combinations with each other or with other drugs. None of these is FDA approved, and FDA says it does not review compounded drugs for safety, effectiveness or quality before they are sold.[^compq] A PubMed search found no published human study of sildenafil or tadalafil given as a gum, gummy or troche, or combined with oxytocin.",
-    "The Viagra label speaks to one of the most common combinations directly. It says the safety and efficacy of combining Viagra with other PDE5 inhibitors or other ED treatments “have not been studied. Such combinations may further lower blood pressure. Therefore, the use of such combinations is not recommended.”[^viagra] The label also lists who must never take it, starting with patients “using nitric oxide donors, such as organic nitrates or organic nitrites in any form.”[^viagra]",
-    "Injectable mixes have their own history. Trimix and Bimix are compounded injections that combine alprostadil with [[/papaverine|papaverine]] and [[/phentolamine|phentolamine]], and no Trimix product is FDA approved. Papaverine is not an FDA-approved drug at all; it is sold under the marketing category of an unapproved drug, and its own label says it “is not indicated for the treatment of impotence by intracorporeal injection.”[^papaverine] The same label warns that such injections have been reported to cause “persistent priapism requiring medical and surgical intervention.”[^papaverine]",
-    "Two hormones are often added to compounded ED products. [[/oxytocin|Oxytocin]] is approved only as an injection, Pitocin, and its label limits it to labor and delivery: “Pitocin is indicated for the initiation or improvement of uterine contractions, where this is desirable and considered suitable for reasons of fetal or maternal concern, in order to achieve vaginal delivery.”[^pitocin] [[/bremelanotide|Bremelanotide]], often called PT-141, is approved only as Vyleesi, and its label says “VYLEESI is not indicated for the treatment of HSDD in postmenopausal women or in men.”[^vyleesi] Using either in men is off-label.",
-    "The tanning peptide [[/melanotan-ii|melanotan II]] is also sold for libido. It is not approved anywhere, and FDA lists it among compounding nominations that were withdrawn after it was placed in its significant-safety-risk category. FDA writes that “published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.”[^cat2]",
-    "Premature ejaculation has no FDA-approved treatment. [[/dapoxetine|Dapoxetine]], sold as Priligy, is approved by national regulators in Spain and Ireland, but FDA’s drug records contain no dapoxetine product at all.[^aemps][^hpra][^dapoxfda] In the US, the antidepressant [[/sertraline|sertraline]] is used instead, off-label. Its label lists six psychiatric conditions, from major depressive disorder to premenstrual dysphoric disorder, and premature ejaculation is not among them.[^zoloft] A 2019 pooled analysis of 14 small trials found that “sertraline can prolong IELT of PE patients, improve sexual satisfaction rates of patients and spouses, but increase risk of gastrointestinal upset.”[^yi] IELT is the time to ejaculation. The Zoloft label has a boxed warning that antidepressants “increased the risk of suicidal thoughts and behavior in pediatric and young adult patients in short-term studies.”[^zoloft]",
-    "Supplements sold for erections sit outside FDA review altogether. Under federal law, FDA says, it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa] [[/yohimbine|Yohimbine]], from the bark of an African tree, has no FDA-approved product in the agency’s drug records.[^yohfda] [[/l-arginine|L-arginine]] and [[/l-citrulline|L-citrulline]] are amino acids sold as supplements; L-arginine’s only FDA-approved drug use is R-Gene 10, an injection used as a diagnostic test.[^rgene] The ED trials of these supplements are small, and their results are mixed.",
-    "What is not known is how the troche, gummy and strip forms behave in the body, whether the combinations are safe, and whether oxytocin or PT-141 does anything for men at all. The human research on oxytocin and male sexual function is a few small studies, mostly a single dose. The approved tablets, by contrast, have decades of trials and labels that say exactly who should not take them."
+    "In the United States, [[/tadalafil|tadalafil]], sold as Cialis, is still a prescription drug.[^label] The company that holds its consumer rights wants to change that, and this year it finished the main study behind that plan. That study was stuck for more than two years before it began.",
+    "The company is Opella, Sanofi’s consumer health business. Sanofi has been working on an over-the-counter version since it licensed those rights from Eli Lilly, which developed Cialis, in 2014, for Europe, the US, Canada and Australia.[^pharmaphorum] In October 2024, Sanofi and the investment firm CD&R announced a plan to transfer a 50% controlling stake in Opella to CD&R, with Sanofi remaining a significant shareholder.[^lift]",
+    "The key evidence for such a switch is an actual use trial, which tests whether ordinary people can judge for themselves whether a drug suits them and then take it correctly. In May 2022, Sanofi said FDA had told it that its planned trial had been “placed on clinical hold due to matters surrounding the protocol design.”[^hold] It added: “Sanofi’s AUT has not yet recruited any patients.”[^hold] Sanofi did not say publicly what those matters were, and this story has found no FDA document that does.",
+    "The hold lasted until January 21, 2025, when Opella announced that FDA “has lifted a clinical hold on its planned actual use trial (AUT) to support the switch of Cialis (tadalafil) from a prescription to an over-the-counter medicine.”[^lift] Opella described the purpose of such a trial as to “confirm that consumers can self-diagnose and treat themselves appropriately without the help of a healthcare provider.”[^lift] Its chief science officer, Josephine Fubara, called the trial “pivotal in ensuring the safety and proper self-selection of Cialis for over-the-counter use.”[^lift]",
+    "The trial’s public record shows how it was run. It is listed as a phase 3, open-label, single-group study sponsored by Sanofi, with no placebo and no comparison group.[^ctg] It was run remotely, by video, through a research firm in Salt Lake City, and was open only to people living in the US, excluding residents of Massachusetts.[^ctg] People aged 16 or older could join the enrolment stage.[^ctg] Only men aged 18 or older who reached a purchase code and bought the product moved on to use it.[^ctg] The product was tadalafil 5 mg tablets, one a day, paired with that mandatory digital health survey, and the record says the trial looked at how people used it “using the labeling and the mandatory health survey assessment (HSA) for duration of 4-months.”[^ctg] It planned to screen about 2,250 people, of whom about 1,000 were expected to reach the use phase.[^ctg]",
+    "Two main questions were set in advance. The first was how often men kept to the recommended time between doses over 120 days, from an electronic diary.[^ctg] The second was whether people whom a medical assessment found should not use the drug were also told not to use it by the health survey.[^ctg] Other measures included whether men taking nitrate medicines were screened out, whether men sought care for a heart attack, priapism, an allergic reaction or sudden loss of vision or hearing within 72 hours of a dose, and how often men took more than two tablets at once.[^ctg] The Cialis label says: “Administration of CIALIS to patients who are using any form of organic nitrate, either regularly and/or intermittently, is contraindicated.”[^label] It also warns of sudden vision and hearing loss and of erections that last too long.[^label]",
+    "The trial started on January 30, 2025, and finished on April 2, 2026, with 2,212 people enrolled; the record was last updated in July 2026.[^ctg] It shows no posted results.[^ctg] Neither Sanofi nor Opella has published findings, so it is not yet known how many men chose correctly, how many who should not have taken the drug were screened out, or whether any serious events occurred.",
+    "The survey is what makes this case new. In December 2024, FDA issued a final rule for a nonprescription drug with an additional condition for nonprescription use, or ACNU, which took effect on May 27, 2025.[^acnu] Under it, a company may propose such a condition when the label “cannot, by itself, provide all the information consumers need to appropriately select or use the drug on their own in the nonprescription setting.”[^acnu] FDA also says: “Right now, there are no FDA-approved nonprescription drugs with an ACNU.”[^acnu] The trade publication HBW Insight reported in January 2025 that the Cialis trial could signal the first proposal FDA would consider under that rule.[^hbwus] Opella has not said publicly which route it will take.",
+    "Europe moved first. In early 2022, the trade publication HBW Insight reported that “Poland becomes the first country in the world to allow erectile dysfunction treatment tadalafil to be bought without a prescription”[^hbwpl] after a switch application from the Polish drugmaker Adamed Pharma. Poland’s medicines register lists that product, Tadalafil MaxOn, as 10 mg film-coated tablets held by Adamed.[^rpl] In March 2023, the UK regulator, the MHRA, made a 10 mg tablet called Cialis Together a pharmacy medicine for men over 18 with erectile dysfunction, sold after a talk with a pharmacist.[^mhra] The MHRA said: “Cialis Together will not be sold to those with severe cardiovascular disorders; at high cardiovascular risk; severe kidney or severe liver failure; or taking certain interacting medicines.”[^mhra] The UK had already reclassified Viagra Connect, a 50 mg [[/sildenafil|sildenafil]] tablet, as a pharmacy medicine in 2018.[^mhra]",
+    "In the UK, a pharmacist decides at the counter.[^mhra] In the US trial, the gatekeeper was a label and a mandatory online survey,[^ctg] which puts heavy weight on its screening questions.",
+    "What happens next depends on data no one outside the company has seen. Opella would need to file an application and FDA would need to approve it; no public timeline exists for either step. Until then, tadalafil in the US remains a prescription medicine, with the same warnings on its label.[^label]"
   ],
   "notes": [
     {
-      "key": "viagraapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Viagra, NDA 020895",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020895"
-    },
-    {
-      "key": "viagra",
+      "key": "label",
       "source": "DailyMed",
-      "title": "Viagra (sildenafil) prescribing information",
-      "date": "Feb 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e"
-    },
-    {
-      "key": "cialisapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Cialis, NDA 021368",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021368"
-    },
-    {
-      "key": "levitraapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Levitra, NDA 021400",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021400"
-    },
-    {
-      "key": "stendraapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Stendra, NDA 202276",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA202276"
-    },
-    {
-      "key": "cialis",
-      "source": "DailyMed",
-      "title": "Cialis (tadalafil) prescribing information",
+      "title": "Cialis (tadalafil) tablets prescribing information",
       "date": "Jun 2026",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895"
     },
     {
-      "key": "caverjectapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Caverject, NDA 020379",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020379"
+      "key": "pharmaphorum",
+      "source": "pharmaphorum",
+      "title": "Could OTC Cialis for erectile dysfunction reach the US?",
+      "date": "Jan 2025",
+      "url": "https://pharmaphorum.com/news/could-otc-cialis-erectile-dysfunction-reach-us"
     },
     {
-      "key": "edexapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Edex, NDA 020649",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020649"
+      "key": "lift",
+      "source": "Sanofi (press release)",
+      "title": "Opella reaches study milestone for Cialis",
+      "date": "Jan 21, 2025",
+      "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2025/2025-01-21-06-00-00-3012315-en.pdf"
     },
     {
-      "key": "museapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Muse, NDA 020700",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020700"
+      "key": "hold",
+      "source": "Sanofi (press release)",
+      "title": "Update on Cialis Rx-to-OTC Switch Actual Use Trial",
+      "date": "May 30, 2022",
+      "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2022/2022-05-30-05-30-00-2452303-en.pdf"
     },
     {
-      "key": "caverject",
-      "source": "DailyMed",
-      "title": "Caverject (alprostadil) prescribing information",
-      "date": "May 2024",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98"
+      "key": "ctg",
+      "source": "ClinicalTrials.gov",
+      "title": "Actual Use Trial to Switch Tadalafil 5 mg Tablets From Prescription to Over-the-Counter (NCT06805513)",
+      "date": "updated Jul 13, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT06805513"
     },
     {
-      "key": "compq",
+      "key": "acnu",
       "source": "FDA",
-      "title": "Compounding and the FDA: Questions and Answers",
-      "date": "Sep 2025",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
-    },
-    {
-      "key": "papaverine",
-      "source": "DailyMed",
-      "title": "Papaverine hydrochloride injection label (American Regent)",
-      "date": "Jul 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e"
-    },
-    {
-      "key": "pitocin",
-      "source": "DailyMed",
-      "title": "Pitocin (oxytocin) prescribing information",
-      "date": "May 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad"
-    },
-    {
-      "key": "vyleesi",
-      "source": "DailyMed",
-      "title": "Vyleesi (bremelanotide) prescribing information",
-      "date": "Nov 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf"
-    },
-    {
-      "key": "cat2",
-      "source": "FDA",
-      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
-      "date": "Apr 2026",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
-    },
-    {
-      "key": "aemps",
-      "source": "AEMPS (Spain)",
-      "title": "Priligy, summary of product characteristics",
-      "date": "Jun 2021",
-      "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html"
-    },
-    {
-      "key": "hpra",
-      "source": "HPRA (Ireland)",
-      "title": "Authorised human medicines list",
-      "date": "Nov 2026",
-      "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml"
-    },
-    {
-      "key": "dapoxfda",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for dapoxetine (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"DAPOXETINE\""
-    },
-    {
-      "key": "suppqa",
-      "source": "FDA",
-      "title": "Questions and answers on dietary supplements",
+      "title": "Nonprescription Drug Product with an Additional Condition for Nonprescription Use (ACNU)",
       "date": "Aug 2026",
-      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
+      "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use"
     },
     {
-      "key": "yohfda",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for yohimbine hydrochloride (no matches)",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"YOHIMBINE HYDROCHLORIDE\""
+      "key": "hbwus",
+      "source": "HBW Insight (Citeline)",
+      "title": "First Green Light In US For ED Drug OTC Switch Actual Use Trial Goes To Opella For Cialis",
+      "date": "Jan 23, 2025",
+      "url": "https://insights.citeline.com/hbw-insight/health/rx-to-otc-switch/first-green-light-in-us-for-ed-drug-otc-switch-actual-use-trial-goes-to-opella-for-cialis-EDTOH7A3CRAO3JXH4EAIDKCEHM/"
     },
     {
-      "key": "rgene",
-      "source": "DailyMed",
-      "title": "R-Gene 10 (arginine hydrochloride injection) prescribing information",
-      "date": "Apr 2024",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6accf33f-9841-4327-8923-93c42020ef12"
+      "key": "hbwpl",
+      "source": "HBW Insight (Citeline)",
+      "title": "Poland’s Adamed Secures Tadalafil Rx-To-OTC Switch In World First",
+      "date": "Mar 7, 2022",
+      "url": "https://insights.citeline.com/RS152274/Polands-Adamed-Secures-Tadalafil-Rx-To-OTC-Switch-In-World-First"
     },
     {
-      "key": "zoloft",
-      "source": "DailyMed",
-      "title": "Zoloft (sertraline) prescribing information",
-      "date": "Jul 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      "key": "rpl",
+      "source": "Poland, Register of Medicinal Products (URPL data)",
+      "title": "Tadalafil MaxOn 10 mg, register entry",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?size=50&name=Tadalafil%20MaxOn"
     },
     {
-      "key": "yi",
-      "source": "Yi et al., Medicine (Baltimore)",
-      "title": "Efficacy and safety of sertraline for the treatment of premature ejaculation: systematic review and meta-analysis",
-      "date": "Jun 2019",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/31169738/"
+      "key": "mhra",
+      "source": "MHRA",
+      "title": "MHRA reclassifies Cialis Together tablets to a Pharmacy medicine",
+      "date": "Mar 14, 2023",
+      "url": "https://www.gov.uk/government/news/mhra-reclassifies-cialis-together-tablets-to-a-pharmacy-medicine"
     }
   ]
 }

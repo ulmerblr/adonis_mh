@@ -1,0 +1,208 @@
+{
+  "archived": "Nov 2, 2026",
+  "published": "Oct 31, 2026",
+  "note": "vitality lane story from Oct 31, 2026 until Nov 2, 2026, when the lane story was replaced by a news feature (EDU PROMPT 31). Kept for the lane archive; not shown on the site.",
+  "key": "vitality",
+  "headline": [
+    "The pill and",
+    "the troche."
+  ],
+  "dek": "Three ED drugs are FDA approved as tablets. Troches, gummies and combinations are not.",
+  "backdrop": "#5F1317",
+  "headlineColor": "#F7F3EA",
+  "photoAlt": "A barber in a black smock holds a folded leaflet.",
+  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "shield",
+      "label": "Approved for ED",
+      "line": "Sildenafil, tadalafil, vardenafil and avanafil tablets; alprostadil injections."
+    },
+    {
+      "icon": "mortar",
+      "label": "Compounded",
+      "line": "Troches, gums, gummies, strips, combinations and Trimix: not FDA approved."
+    },
+    {
+      "icon": "people",
+      "label": "Not studied",
+      "line": "No published human study of ED drugs as troches or gummies, or combined with oxytocin."
+    }
+  ],
+  "body": [
+    "Erectile dysfunction has more approved treatments than almost any other problem men bring to a doctor, and more unapproved ones sold around them. The approved ones started with a single pill. FDA approved [[/sildenafil|sildenafil]] as Viagra in March 1998, and its label states simply: “VIAGRA is indicated for the treatment of erectile dysfunction.”[^viagra][^viagraapp] [[/tadalafil|Tadalafil]] followed as Cialis in November 2003, and [[/vardenafil|vardenafil]] as Levitra in August 2003.[^cialisapp][^levitraapp] A fourth drug of the same type, [[/avanafil|avanafil]], was approved as Stendra in April 2012.[^stendraapp]",
+    "All four block the same enzyme, PDE5, and all four were approved on randomized trials of tablets taken by mouth. The Viagra label describes 21 randomized, placebo-controlled trials, and the Cialis label says tadalafil “was administered to over 9000 men during clinical trials worldwide.”[^cialis][^viagra] Generic tablets of sildenafil, tadalafil and vardenafil are approved too. The Levitra brand itself is now listed as discontinued.[^levitraapp]",
+    "For men whose problem does not respond to pills, there is an older approved route. [[/alprostadil|Alprostadil]] was approved as Caverject, an injection into the penis, in July 1995.[^caverjectapp] A second injection, Edex, followed in June 1997, and a pellet placed in the urethra, Muse, was approved in November 1996 and is now listed as discontinued.[^edexapp][^museapp] Injections come with their own risks. The Caverject label tells doctors to advise patients “to seek immediate medical assistance for an erection that persists longer than 4 hours,”[^caverject] and it warns that “penile fibrosis has occurred in patients receiving CAVERJECT.”[^caverject] Fibrosis is scarring inside the penis.",
+    "Around those approved products sits a much larger market of compounded ones. Sildenafil and tadalafil are made by compounding pharmacies as troches that dissolve in the mouth, gums, gummies and oral strips, and in combinations with each other or with other drugs. None of these is FDA approved, and FDA says it does not review compounded drugs for safety, effectiveness or quality before they are sold.[^compq] A PubMed search found no published human study of sildenafil or tadalafil given as a gum, gummy or troche, or combined with oxytocin.",
+    "The Viagra label speaks to one of the most common combinations directly. It says the safety and efficacy of combining Viagra with other PDE5 inhibitors or other ED treatments “have not been studied. Such combinations may further lower blood pressure. Therefore, the use of such combinations is not recommended.”[^viagra] The label also lists who must never take it, starting with patients “using nitric oxide donors, such as organic nitrates or organic nitrites in any form.”[^viagra]",
+    "Injectable mixes have their own history. Trimix and Bimix are compounded injections that combine alprostadil with [[/papaverine|papaverine]] and [[/phentolamine|phentolamine]], and no Trimix product is FDA approved. Papaverine is not an FDA-approved drug at all; it is sold under the marketing category of an unapproved drug, and its own label says it “is not indicated for the treatment of impotence by intracorporeal injection.”[^papaverine] The same label warns that such injections have been reported to cause “persistent priapism requiring medical and surgical intervention.”[^papaverine]",
+    "Two hormones are often added to compounded ED products. [[/oxytocin|Oxytocin]] is approved only as an injection, Pitocin, and its label limits it to labor and delivery: “Pitocin is indicated for the initiation or improvement of uterine contractions, where this is desirable and considered suitable for reasons of fetal or maternal concern, in order to achieve vaginal delivery.”[^pitocin] [[/bremelanotide|Bremelanotide]], often called PT-141, is approved only as Vyleesi, and its label says “VYLEESI is not indicated for the treatment of HSDD in postmenopausal women or in men.”[^vyleesi] Using either in men is off-label.",
+    "The tanning peptide [[/melanotan-ii|melanotan II]] is also sold for libido. It is not approved anywhere, and FDA lists it among compounding nominations that were withdrawn after it was placed in its significant-safety-risk category. FDA writes that “published case reports discuss serious adverse events including melanoma, posterior reversible encephalopathy syndrome, sympathomimetic toxidrome and priapism.”[^cat2]",
+    "Premature ejaculation has no FDA-approved treatment. [[/dapoxetine|Dapoxetine]], sold as Priligy, is approved by national regulators in Spain and Ireland, but FDA’s drug records contain no dapoxetine product at all.[^aemps][^hpra][^dapoxfda] In the US, the antidepressant [[/sertraline|sertraline]] is used instead, off-label. Its label lists six psychiatric conditions, from major depressive disorder to premenstrual dysphoric disorder, and premature ejaculation is not among them.[^zoloft] A 2019 pooled analysis of 14 small trials found that “sertraline can prolong IELT of PE patients, improve sexual satisfaction rates of patients and spouses, but increase risk of gastrointestinal upset.”[^yi] IELT is the time to ejaculation. The Zoloft label has a boxed warning that antidepressants “increased the risk of suicidal thoughts and behavior in pediatric and young adult patients in short-term studies.”[^zoloft]",
+    "Supplements sold for erections sit outside FDA review altogether. Under federal law, FDA says, it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa] [[/yohimbine|Yohimbine]], from the bark of an African tree, has no FDA-approved product in the agency’s drug records.[^yohfda] [[/l-arginine|L-arginine]] and [[/l-citrulline|L-citrulline]] are amino acids sold as supplements; L-arginine’s only FDA-approved drug use is R-Gene 10, an injection used as a diagnostic test.[^rgene] The ED trials of these supplements are small, and their results are mixed.",
+    "What is not known is how the troche, gummy and strip forms behave in the body, whether the combinations are safe, and whether oxytocin or PT-141 does anything for men at all. The human research on oxytocin and male sexual function is a few small studies, mostly a single dose. The approved tablets, by contrast, have decades of trials and labels that say exactly who should not take them."
+  ],
+  "notes": [
+    {
+      "key": "viagraapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Viagra, NDA 020895",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020895"
+    },
+    {
+      "key": "viagra",
+      "source": "DailyMed",
+      "title": "Viagra (sildenafil) prescribing information",
+      "date": "Feb 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e"
+    },
+    {
+      "key": "cialisapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Cialis, NDA 021368",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021368"
+    },
+    {
+      "key": "levitraapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Levitra, NDA 021400",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA021400"
+    },
+    {
+      "key": "stendraapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Stendra, NDA 202276",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA202276"
+    },
+    {
+      "key": "cialis",
+      "source": "DailyMed",
+      "title": "Cialis (tadalafil) prescribing information",
+      "date": "Jun 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895"
+    },
+    {
+      "key": "caverjectapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Caverject, NDA 020379",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020379"
+    },
+    {
+      "key": "edexapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Edex, NDA 020649",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020649"
+    },
+    {
+      "key": "museapp",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Muse, NDA 020700",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA020700"
+    },
+    {
+      "key": "caverject",
+      "source": "DailyMed",
+      "title": "Caverject (alprostadil) prescribing information",
+      "date": "May 2024",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98"
+    },
+    {
+      "key": "compq",
+      "source": "FDA",
+      "title": "Compounding and the FDA: Questions and Answers",
+      "date": "Sep 2025",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
+    },
+    {
+      "key": "papaverine",
+      "source": "DailyMed",
+      "title": "Papaverine hydrochloride injection label (American Regent)",
+      "date": "Jul 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e"
+    },
+    {
+      "key": "pitocin",
+      "source": "DailyMed",
+      "title": "Pitocin (oxytocin) prescribing information",
+      "date": "May 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad"
+    },
+    {
+      "key": "vyleesi",
+      "source": "DailyMed",
+      "title": "Vyleesi (bremelanotide) prescribing information",
+      "date": "Nov 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf"
+    },
+    {
+      "key": "cat2",
+      "source": "FDA",
+      "title": "Certain bulk drug substances for use in compounding that may present significant safety risks",
+      "date": "Apr 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
+    },
+    {
+      "key": "aemps",
+      "source": "AEMPS (Spain)",
+      "title": "Priligy, summary of product characteristics",
+      "date": "Jun 2021",
+      "url": "https://cima.aemps.es/cima/dochtml/ft/70874/FT_70874.html"
+    },
+    {
+      "key": "hpra",
+      "source": "HPRA (Ireland)",
+      "title": "Authorised human medicines list",
+      "date": "Nov 2026",
+      "url": "https://assets.hpra.ie/products/xml/latestHumanlist.xml"
+    },
+    {
+      "key": "dapoxfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for dapoxetine (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"DAPOXETINE\""
+    },
+    {
+      "key": "suppqa",
+      "source": "FDA",
+      "title": "Questions and answers on dietary supplements",
+      "date": "Aug 2026",
+      "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
+    },
+    {
+      "key": "yohfda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Search for yohimbine hydrochloride (no matches)",
+      "date": "accessed Nov 1, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:\"YOHIMBINE HYDROCHLORIDE\""
+    },
+    {
+      "key": "rgene",
+      "source": "DailyMed",
+      "title": "R-Gene 10 (arginine hydrochloride injection) prescribing information",
+      "date": "Apr 2024",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6accf33f-9841-4327-8923-93c42020ef12"
+    },
+    {
+      "key": "zoloft",
+      "source": "DailyMed",
+      "title": "Zoloft (sertraline) prescribing information",
+      "date": "Jul 2025",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7"
+    },
+    {
+      "key": "yi",
+      "source": "Yi et al., Medicine (Baltimore)",
+      "title": "Efficacy and safety of sertraline for the treatment of premature ejaculation: systematic review and meta-analysis",
+      "date": "Jun 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31169738/"
+    }
+  ]
+}
