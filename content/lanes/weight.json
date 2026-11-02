@@ -1,164 +1,147 @@
 {
   "key": "weight",
   "headline": [
-    "After the",
-    "shortage."
+    "A new GLP-1 pill",
+    "arrives."
   ],
-  "dek": "The GLP-1 shortages are over. FDA says what pharmacies may still compound.",
+  "dek": "FDA has approved orforglipron, a daily tablet that is not a peptide. Here is what the trials showed.",
   "backdrop": "#5B5E3A",
   "headlineColor": "#F7F3EA",
   "photoAlt": "A line cook in a black work shirt holds a folded notice.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "shield",
+      "label": "FDA approved",
+      "line": "Foundayo tablets, April 1, 2026, for weight management in adults only.",
+      "src": {
+        "href": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA220934",
+        "label": "Drugs@FDA, NDA 220934"
+      }
+    },
+    {
+      "icon": "people",
+      "label": "The trials",
+      "line": "Two 72-week placebo trials: 3,127 adults without diabetes, 1,613 with it."
+    },
+    {
+      "icon": "banned",
+      "label": "Compounded copies",
+      "line": "Compounded GLP-1 drugs are not FDA approved.",
+      "src": {
+        "href": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers",
+        "label": "FDA, Compounding Q&A"
+      }
+    }
+  ],
   "pull": {
-    "quote": "Compounded drugs are not FDA-approved. This means the agency does not review their safety, effectiveness or quality before they are marketed.",
-    "note": "pr"
+    "quote": "Compounded drugs are not FDA-approved. This means that FDA does not verify the safety, effectiveness or quality of compounded drugs before they are marketed.",
+    "note": "cqa"
   },
   "body": [
-    "For more than two years, the most famous weight drugs in the country were in short supply, and pharmacies were allowed to fill the gap with their own versions. That window has closed. FDA said the shortage of [[/tirzepatide|tirzepatide]] injection was resolved on December 19, 2024, and the shortage of [[/semaglutide|semaglutide]] injection on February 21, 2025.[^apr] The grace periods for compounders ran out in the spring of 2025, and on April 1, 2026, FDA said neither drug is on its shortage list.[^apr]",
-    "What pharmacies may do now is narrower. They can still compound for an individual patient, but they may not regularly make drugs that are essentially copies of a product on the market. FDA’s April 2026 statement gave a worked example: a compounded injection that combines semaglutide with vitamin B12 can count as a copy when both amounts are within 10% of the strengths of available products, unless a prescriber documents a significant difference for that patient.[^apr] FDA added a limit on how hard it will push: it said it “does not intend to take action against a compounder for compounding a drug product that is essentially a copy of a commercially available drug product regularly or in inordinate amounts if the compounder fills four or fewer prescriptions of that compounded drug product during a calendar month.”[^apr] It gave no tirzepatide example.",
-    "Compounded versions are not FDA approved, whatever is added to them. In a March 2026 news release announcing 30 warning letters to telehealth companies, FDA put it plainly: “Compounded drugs are not FDA-approved. This means the agency does not review their safety, effectiveness or quality before they are marketed.”[^pr] The letters, it said, mostly concerned “claims implying sameness with FDA-approved products.”[^pr] None of the large trials behind the brands tested semaglutide or tirzepatide mixed with vitamin B12 or glycine.",
-    "The approved brands are a different thing. Semaglutide is sold as Ozempic and Rybelsus for type 2 diabetes and as Wegovy for weight and heart risk.[^ozempic][^wegovy] Tirzepatide is sold as Mounjaro for type 2 diabetes and as Zepbound for weight and obstructive sleep apnea.[^mounjaro][^zepbound] Using one of the diabetes brands for weight loss is off-label. In April 2026 a third option arrived: FDA approved [[/orforglipron|orforglipron]], a pill, as Foundayo for weight management in adults.[^foundayo]",
-    "An older drug in the same family is in a different position. [[/liraglutide|Liraglutide]] is approved as Victoza for type 2 diabetes and as Saxenda for weight management.[^victoza][^saxenda] Yet FDA’s shortage records still list liraglutide injection as in shortage, a listing that began in July 2023, and they show Saxenda as due to be discontinued.[^short] That keeps the question of compounded copies open for this one drug in a way it no longer is for semaglutide and tirzepatide.",
-    "The trials behind the brands were large, and they were paid for by the companies that make the drugs. In STEP 1, adults with obesity or overweight took weekly semaglutide or a placebo for 68 weeks; “the mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo.”[^step1] In SURMOUNT-1, adults without diabetes took one of three weekly doses of tirzepatide or a placebo for 72 weeks, and average weight fell by 15.0% to 20.9% on the drug and 3.1% on placebo.[^surmount]",
-    "These drugs come with FDA’s strongest warning. The Wegovy label opens with a boxed warning that “in rodents, semaglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures,”[^wegovy] and that it is unknown whether the drug causes them in people. People with a personal or family history of medullary thyroid cancer, or with MEN 2 syndrome, must not use it.[^wegovy] The tirzepatide labels have the same kind of warning, and the Foundayo label does too.[^zepbound][^foundayo] The labels also list pancreatitis, gallbladder disease, kidney injury from dehydration, and severe stomach and bowel effects.[^wegovy]",
-    "FDA keeps count of problems with the compounded versions. It said that as of May 31, 2026, it had received 990 reports of adverse events tied to compounded semaglutide and more than 730 tied to compounded tirzepatide.[^con] It cautioned that “it is not always possible to determine if the adverse event directly resulted from use of the drug or if other factors may have contributed to these adverse events.”[^con] It has also received reports, some requiring hospital care, that may be related to dosing errors with compounded semaglutide, from patients measuring the wrong dose and, in some cases, health care professionals miscalculating it.[^con]",
-    "The next wave of weight drugs is already being sold before it is approved. [[/retatrutide|Retatrutide]] is in Phase 3 trials, and [[/cagrilintide|cagrilintide]] is being tested with semaglutide. FDA says retatrutide and cagrilintide “cannot be used in compounding under federal law.”[^con] It also says it has warned companies that illegally sold unapproved drugs containing semaglutide, tirzepatide, retatrutide, [[/survodutide|survodutide]] or [[/mazdutide|mazdutide]] “that are falsely labeled”[^con] as for research purposes or not for human consumption. FDA says these products were sold directly to consumers with dosing instructions, and urges people not to buy them.[^con]",
-    "Older drugs have not gone away. [[/phentermine|Phentermine]], an appetite suppressant, is approved for short-term use and is a Schedule IV controlled substance.[^lomaira] FDA approved it with [[/topiramate|topiramate]] as Qsymia, for long-term weight management, in 2012.[^qsymiaapp][^qsymia] [[/naltrexone|Naltrexone]] and [[/bupropion|bupropion]] are approved together as Contrave,[^contrave] and [[/orlistat|orlistat]] is sold by prescription as Xenical and over the counter as Alli.[^xenical][^alli]",
-    "What is still unknown is how compounded copies compare with the brands they imitate, since no trial has tested them, and how often their adverse events happen, since most pharmacies do not have to report them. For now, the approved brands have the trials, the boxed warnings and FDA’s review. The copies have none of those."
+    "On April 1, 2026, FDA approved [[/orforglipron|orforglipron]], made by Eli Lilly and sold as Foundayo, a once-daily tablet for weight management.[^nda][^fdapr] Agency records class it as a new molecular entity, a drug never approved before in any form.[^nda] It is also unusual inside its class. Most GLP-1 drugs are peptides, small proteins, usually given as weekly injections. Orforglipron is not. The researchers behind its main trial described it as “a small-molecule, nonpeptide oral glucagon-like peptide-1 (GLP-1) receptor agonist”.[^attain1]",
+    "It is not the first GLP-1 tablet for weight. FDA approved a tablet form of Novo Nordisk’s Wegovy, which contains [[/semaglutide|semaglutide]], on December 22, 2025.[^wegtab] What sets the new drug apart, in FDA’s words, is that it is “a GLP-1 receptor partial agonist pill which does not need to be taken on an empty stomach,”[^fdapr] according to Tracy Beth Høeg, the acting head of the agency’s drug center. The label says to take it once a day “with or without food.”[^label]",
+    "The speed of the decision was its own story. Foundayo was the first new molecular entity approved under the Commissioner’s National Priority Voucher pilot, launched in 2025.[^fdapr] FDA says it acted 50 days after filing, well ahead of a standard review deadline of January 20, 2027. “It is also the fastest approval of an NME since 2002.”[^fdapr] Lilly, for its part, said the drug would be available as early as April 6, according to Healio’s report of the company’s announcement.[^healio]",
+    "The approval rests on two randomized, double-blind, placebo-controlled trials, both paid for by Lilly and both lasting 72 weeks.[^fdapr][^label] The first, ATTAIN-1, enrolled 3,127 adults with obesity, or with overweight and at least one weight-related condition such as high blood pressure or sleep apnea; people with type 2 diabetes were excluded.[^label] Their average age was 45, and 64% were women, so men were a minority.[^label] All got diet and exercise advice plus one of three daily doses or placebo. The trial used an earlier capsule form; the label translates those doses into the tablets now sold.[^label] The main measure was the percent change in body weight. Average weight fell by 7.5%, 8.4% and 11.2% on the three doses, against 2.1% on placebo.[^attain1] On the highest dose, 54.6% lost at least a tenth of their body weight, compared with 12.9% on placebo.[^attain1]",
+    "The second trial, ATTAIN-2, enrolled 1,613 adults with type 2 diabetes and a body mass index of 27 or more; their average age was 57, and 47% were women.[^label] After 72 weeks, weight fell by 5.1%, 7.0% and 9.6% on the three doses, against 2.5% on placebo.[^label] Even so, type 2 diabetes is not on the US label: Foundayo is approved for weight only, and using it to treat diabetes alone would be off-label.[^label]",
+    "The side effects are mostly digestive. In the pooled weight trials, stomach and bowel problems hit 60% to 69% of people on Foundayo, depending on dose, against 37% on placebo.[^label] Nausea, vomiting and diarrhea were most frequent while the dose was being raised, then eased.[^label] Across both trials, 8% on the drug stopped for side effects, against 3% on placebo.[^label] The label also warns of pancreatitis, kidney injury from dehydration, low blood sugar, gallbladder disease and food entering the lungs under anesthesia.[^label] It says plainly: “Concomitant use with another GLP-1 receptor agonist is not recommended.”[^label]",
+    "Like other GLP-1 drugs, Foundayo has a boxed warning, FDA’s strongest kind, about thyroid C-cell tumors. Its case is odd. Other GLP-1 drugs caused these tumors in rodents, but the label says that “Orforglipron is not pharmacologically active in rats or mice and did not produce tumors in rodents”.[^label] That does not settle the question: the label still says “the human relevance of GLP-1 receptor-dependent thyroid C-cell tumors observed in rodents has not been determined”.[^label] Men with a personal or family history of medullary thyroid cancer must not take it.[^label]",
+    "How does it compare with the injections? No trial on the label pits it against weekly [[/tirzepatide|tirzepatide]] or injected semaglutide for weight, so separate trials cannot be compared as a contest. The closest head-to-head test was in diabetes. ACHIEVE-3, an open-label Lilly trial in 1,698 adults with type 2 diabetes on metformin, compared orforglipron with oral semaglutide for 52 weeks. Long-term blood sugar fell more on orforglipron, but the authors reported that “the incidence of gastrointestinal events, discontinuations due to adverse events, and mean increase in pulse rate were higher with orforglipron than oral semaglutide.”[^achieve3]",
+    "Then there are the compounded versions of semaglutide and tirzepatide that spread during the shortages. FDA is direct: “Compounded drugs are not FDA-approved. This means that FDA does not verify the safety, effectiveness or quality of compounded drugs before they are marketed.”[^cqa] On the day Foundayo was approved, the agency also reminded compounders that “Tirzepatide and semaglutide do not currently appear on the 503B bulks list or on FDA’s drug shortage list.”[^clarify] It warns that unapproved versions “do not undergo FDA’s review for safety, effectiveness and quality before they are marketed.”[^concerns]",
+    "Much is still unknown. The weight trials ran 72 weeks; nobody yet knows how the drug performs over many years, or what happens to weight after stopping. The one heart-safety trial so far, ACHIEVE-4, was in 2,749 adults with type 2 diabetes at high heart risk, 62.5% of them men. Over a median of two years, heart attack, stroke, heart-related death or hospital stay for unstable angina occurred in 4.2% on orforglipron and 5.0% on insulin glargine, meeting its goal of showing the drug was no worse.[^achieve4] It was a safety test against insulin, not proof that the pill protects the heart, and it did not include people without diabetes.",
+    "Next steps are mostly abroad. The UK authorised Foundayo on August 10, 2026, for both weight management and type 2 diabetes.[^mhra] In Europe, the EMA’s medicines committee adopted a positive opinion on October 15, 2026; a final decision by the European Commission is still to come.[^ema] In the US, the label covers weight alone.[^label]"
   ],
   "notes": [
     {
-      "key": "apr",
+      "key": "nda",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Foundayo, NDA 220934",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA220934"
+    },
+    {
+      "key": "fdapr",
       "source": "FDA",
-      "title": "FDA clarifies policies for compounders as national GLP-1 supply begins to stabilize",
-      "date": "Apr 2026",
-      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
+      "title": "FDA Approves First New Molecular Entity Under National Priority Voucher Program",
+      "date": "Apr 1, 2026",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program"
     },
     {
-      "key": "pr",
-      "source": "FDA",
-      "title": "FDA warns 30 telehealth companies against illegal marketing of compounded GLP-1s",
-      "date": "Mar 3, 2026",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s"
+      "key": "attain1",
+      "source": "Wharton et al., New England Journal of Medicine",
+      "title": "Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist for Obesity Treatment (ATTAIN-1)",
+      "date": "Nov 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40960239/"
     },
     {
-      "key": "ozempic",
+      "key": "wegtab",
+      "source": "FDA (openFDA, Drugs@FDA data)",
+      "title": "Wegovy tablets, NDA 218316",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA218316"
+    },
+    {
+      "key": "label",
       "source": "DailyMed",
-      "title": "Ozempic (semaglutide) injection prescribing information",
-      "date": "Jun 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79"
-    },
-    {
-      "key": "wegovy",
-      "source": "DailyMed",
-      "title": "Wegovy (semaglutide) injection and tablets prescribing information",
-      "date": "Jun 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b"
-    },
-    {
-      "key": "mounjaro",
-      "source": "DailyMed",
-      "title": "Mounjaro (tirzepatide) prescribing information",
-      "date": "Sep 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0"
-    },
-    {
-      "key": "zepbound",
-      "source": "DailyMed",
-      "title": "Zepbound (tirzepatide) prescribing information",
-      "date": "Sep 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b"
-    },
-    {
-      "key": "foundayo",
-      "source": "DailyMed",
-      "title": "Foundayo (orforglipron) prescribing information",
+      "title": "Foundayo (orforglipron) tablets prescribing information",
       "date": "Jul 2026",
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62"
     },
     {
-      "key": "step1",
-      "source": "Wilding et al., New England Journal of Medicine",
-      "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)",
-      "date": "Mar 2021",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/"
+      "key": "healio",
+      "source": "Healio",
+      "title": "FDA approves orforglipron, an oral GLP-1, for adults with obesity",
+      "date": "Apr 1, 2026",
+      "url": "https://www.healio.com/news/endocrinology/20260401/fda-approves-orforglipron-an-oral-glp1-for-adults-with-obesity"
     },
     {
-      "key": "surmount",
-      "source": "Jastreboff et al., New England Journal of Medicine",
-      "title": "Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)",
-      "date": "Jul 2022",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/"
+      "key": "achieve3",
+      "source": "The Lancet",
+      "title": "ACHIEVE-3: orforglipron versus oral semaglutide in type 2 diabetes",
+      "date": "Mar 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41765029/"
     },
     {
-      "key": "victoza",
-      "source": "DailyMed",
-      "title": "Victoza (liraglutide) prescribing information",
-      "date": "Oct 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4"
+      "key": "cqa",
+      "source": "FDA",
+      "title": "Compounding and the FDA: Questions and Answers",
+      "date": "Sep 2025",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
     },
     {
-      "key": "saxenda",
-      "source": "DailyMed",
-      "title": "Saxenda (liraglutide) prescribing information",
-      "date": "Feb 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143"
+      "key": "clarify",
+      "source": "FDA",
+      "title": "FDA clarifies policies for compounders as national GLP-1 supply begins to stabilize",
+      "date": "Apr 1, 2026",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize"
     },
     {
-      "key": "short",
-      "source": "FDA (openFDA, drug shortage data)",
-      "title": "Drug shortage records for liraglutide injection",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/shortages.json?search=generic_name:liraglutide&limit=20"
-    },
-    {
-      "key": "con",
+      "key": "concerns",
       "source": "FDA",
       "title": "FDA’s concerns with unapproved GLP-1 drugs used for weight loss",
       "date": "Oct 2026",
       "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
     },
     {
-      "key": "lomaira",
-      "source": "DailyMed",
-      "title": "Lomaira (phentermine) prescribing information",
-      "date": "Dec 2023",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cde9fb09-e5af-434d-8874-e4f9f974d893"
+      "key": "achieve4",
+      "source": "The Lancet",
+      "title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4)",
+      "date": "Oct 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815506/"
     },
     {
-      "key": "qsymiaapp",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Qsymia, NDA 022580",
-      "date": "accessed Nov 1, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=application_number:NDA022580"
+      "key": "mhra",
+      "source": "MHRA (UK)",
+      "title": "UK first in Europe to authorise orforglipron for weight management and type 2 diabetes",
+      "date": "Aug 10, 2026",
+      "url": "https://www.gov.uk/government/news/uk-first-in-europe-to-authorise-orforglipron-for-weight-management-and-type-2-diabetes"
     },
     {
-      "key": "qsymia",
-      "source": "DailyMed",
-      "title": "Qsymia (phentermine and topiramate extended-release) prescribing information",
-      "date": "Apr 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40dd5602-53da-45ac-bb4b-15789aba40f9"
-    },
-    {
-      "key": "contrave",
-      "source": "DailyMed",
-      "title": "Contrave (naltrexone and bupropion) prescribing information",
-      "date": "Nov 2025",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=485ff360-32c8-11df-928b-0002a5d5c51b"
-    },
-    {
-      "key": "xenical",
-      "source": "DailyMed",
-      "title": "Xenical (orlistat) prescribing information",
-      "date": "Jan 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e"
-    },
-    {
-      "key": "alli",
-      "source": "DailyMed",
-      "title": "Alli (orlistat) Drug Facts",
-      "date": "Mar 2026",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2d3bd73-f3af-4ea5-a57c-66b0004cfe4f"
+      "key": "ema",
+      "source": "European Medicines Agency",
+      "title": "Foundayo: summary of opinion",
+      "date": "Oct 2026",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo"
     }
   ]
 }
