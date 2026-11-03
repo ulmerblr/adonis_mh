@@ -946,3 +946,31 @@ span.tone-none { background: #d9d0bd; }
 .listenEmbed { display: block; width: 100%; height: 152px; border: 0; border-radius: 12px; background: var(--sand); }
 .listenLink { align-self: flex-start; min-height: 44px; }
 .listenSmall { margin: 0; font-size: 12px; line-height: 1.4; color: var(--soft); }
+
+/* EDU PROMPT 34: the finder's lane tabs never scroll sideways. A grid of equal tabs: 4 a row on phones (3 rows),
+   6 a row from 640px (2 rows), all 11 in one row from 1024px. The count sits on a smaller second line. */
+.finderTabs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; overflow: visible; scrollbar-width: none; }
+.finderTabs::-webkit-scrollbar { display: none; }
+.finderTabs [role='tab'] { min-width: 0; min-height: 60px; padding: 8px 8px 9px; gap: 3px; border: 0; box-shadow: inset -1px -1px 0 var(--rule); background: transparent; }
+.finderTabs [role='tab']:hover { background: var(--sand); }
+.finderTabs [role='tab'][aria-selected='true'] { background: var(--punch); }
+@media (min-width: 1024px) { .finderTabs [role='tab'] { box-shadow: inset -1px 0 0 var(--rule); } .finderTabs [role='tab']:last-child { box-shadow: none; } }
+.finderTabs .ftName { font-size: 17px; letter-spacing: 0.2px; }
+.finderTabs .ftCount { font-size: 11.5px; font-weight: 700; line-height: 1.2; white-space: normal; }
+@media (min-width: 640px) { .finderTabs { grid-template-columns: repeat(6, minmax(0, 1fr)); } .finderTabs .ftName { font-size: 19px; } }
+@media (min-width: 1024px) { .finderTabs { grid-template-columns: repeat(11, minmax(0, 1fr)); } .finderTabs [role='tab'] { padding: 8px 7px 9px; } .finderTabs .ftName { font-size: 16px; } }
+@media (min-width: 1240px) { .finderTabs .ftName { font-size: 19px; } .finderTabs .ftCount { font-size: 12px; } }
+
+/* EDU PROMPT 34: below 720px the treatment table stacks each row as a card (no sideways scrolling); the column names
+   ride along as small labels. */
+@media (max-width: 719px) {
+  .tableBox { overflow-x: visible; }
+  .index { min-width: 0; }
+  .index thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .index tbody tr:not(.laneRow) { display: grid; grid-template-columns: 1fr 1fr; column-gap: 12px; padding: 10px 14px 12px; border-top: 1px solid var(--rule); }
+  .index tbody tr:not(.laneRow) > * { display: block; height: auto; padding: 4px 0; border-top: 0; }
+  .index tbody tr:not(.laneRow) > .txName { grid-column: 1 / -1; padding: 0; }
+  .index tbody tr:not(.laneRow) > td::before { content: attr(data-label); display: block; font-size: 10.5px; font-weight: 800; letter-spacing: 1.6px; text-transform: uppercase; color: var(--soft); margin-bottom: 2px; }
+  .index tbody tr:not(.laneRow) > td .pill { white-space: normal; }
+  .index .laneRow, .index .laneRow th { display: block; }
+}

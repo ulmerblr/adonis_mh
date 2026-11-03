@@ -99,11 +99,11 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
                         {t.page ? <Link href={t.page.href}>{t.name}</Link> : t.name}
                         {t.peptide ? <Label className="labelTag">Peptide</Label> : null}
                       </th>
-                      <td>{t.laneName}</td>
+                      <td data-label="Lane">{t.laneName}</td>
                       {t.page ? (
-                        <><td>{t.page.evidence}</td><td><Pill kind={/^approved/i.test(t.page.fda) ? 'ok' : 'rust'}>{t.page.fda}</Pill></td><td><Pill kind={/^not listed/i.test(t.page.sport) ? 'sand' : 'ink'}>{t.page.sport}</Pill></td></>
+                        <><td data-label="Human evidence">{t.page.evidence}</td><td data-label="FDA"><Pill kind={/^approved/i.test(t.page.fda) ? 'ok' : 'rust'}>{t.page.fda}</Pill></td><td data-label="Sport (WADA)"><Pill kind={/^not listed/i.test(t.page.sport) ? 'sand' : 'ink'}>{t.page.sport}</Pill></td></>
                       ) : (
-                        <><td><Pill kind="sand">Page coming</Pill></td><td><Pill kind="sand">Page coming</Pill></td><td><Pill kind="sand">Page coming</Pill></td></>
+                        <><td data-label="Human evidence"><Pill kind="sand">Page coming</Pill></td><td data-label="FDA"><Pill kind="sand">Page coming</Pill></td><td data-label="Sport (WADA)"><Pill kind="sand">Page coming</Pill></td></>
                       )}
                     </tr>
                   ))}
