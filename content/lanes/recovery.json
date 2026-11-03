@@ -1,10 +1,10 @@
 {
   "key": "recovery",
   "headline": [
-    "BPC-157:",
-    "what we know."
+    "BPC-157 comes in",
+    "from the gray market."
   ],
-  "dek": "Years of rat studies, five small human studies, and none of the routes men actually use.",
+  "dek": "Men have used it for years, bought as ‘research use only.’ Now HHS lets pharmacies make it under ten conditions. Here’s what that changes, and what the research shows.",
   "backdrop": "#EDE5D3",
   "headlineColor": "#0F2C55",
   "photo": {
@@ -16,9 +16,18 @@
   "byline": "Adonis Men’s Health · Checked Nov 3, 2026 · Clinical review pending",
   "glance": [
     {
+      "icon": "mortar",
+      "label": "New since Oct 30",
+      "line": "HHS will not act against licensed pharmacies compounding BPC-157 under ten conditions.",
+      "src": {
+        "href": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/",
+        "label": "BakerHostetler summary of the HHS policy"
+      }
+    },
+    {
       "icon": "people",
       "label": "Human studies",
-      "line": "Five small studies, per FDA; none used oral, under-the-skin, nasal or skin routes.",
+      "line": "Five small studies, per FDA; none used the oral, under-the-skin, nasal or skin routes.",
       "src": {
         "href": "https://www.fda.gov/media/193343/download",
         "label": "FDA briefing on BPC-157, 2026"
@@ -26,13 +35,8 @@
     },
     {
       "icon": "calendar",
-      "label": "Trial under way",
-      "line": "A Phase 2 hamstring trial, about 120 people planned, has no results yet."
-    },
-    {
-      "icon": "shield",
-      "label": "Not FDA-approved",
-      "line": "No approved BPC-157 product exists in any country, FDA says."
+      "label": "Pending",
+      "line": "FDA rulemaking on the 503A bulks list; a Phase 2 hamstring trial with no results yet."
     }
   ],
   "pull": {
@@ -40,17 +44,18 @@
     "note": "bpc"
   },
   "body": [
-    "[[/bpc-157|BPC-157]] is a short synthetic peptide, a chain of 15 amino acids copied from part of a protein found in human gastric juice. Researchers at the University of Zagreb in Croatia first made it in the early 1990s.[^bpc] Most of that research is in rats. In its 2026 review, FDA summed up the animal work this way: “in rats, BPC-157-related substances could prevent colonic fistulas, hepatic lesions, and GI lesions induced by different challenges.”[^bpc]",
-    "A 2025 systematic review of BPC-157 in sports medicine found 544 articles published from 1993 to 2024 and kept 36: 35 animal or lab studies and one study in people.[^vasireddi] It reported that “in preclinical models, BPC-157 improved functional, structural, and biomechanical outcomes in muscle, tendon, ligament, and bony injuries.”[^vasireddi] It added: “No clinical safety data were found.”[^vasireddi] FDA urged caution in reading the animal results, noting that “the molecular targets for BPC-157 have not been identified and its mechanisms of action remain poorly understood.”[^bpc] None of it has been confirmed in people.",
-    "The human record is short. FDA’s search of the medical literature “yielded five clinical studies that utilized BPC-157.”[^bpc] By FDA’s count, they gave it to 24 healthy people by enema, about 26 people with ulcerative colitis by enema, 17 people with knee pain by injection into the joint, 12 people with interstitial cystitis by injection into the bladder, and 2 healthy people by IV drip.[^bpc]",
-    "The two oldest, from Croatia, survive only as meeting abstracts. In the first, 32 healthy volunteers were randomized and 24 got BPC-157 by enema at rising doses for eight days; the most common side effects reported were headache and flatulence.[^bpc] The second was a randomized, double-blind trial in 53 people with mild to moderate ulcerative colitis, who took an 80 mg BPC-157 enema or a placebo enema daily for two weeks; 46 finished. The difference between groups in a disease score was not statistically clear.[^bpc] FDA concluded that “there is a lack of evidence to support the effectiveness of BPC-157 (free base) and BPC-157 acetate as a treatment for UC.”[^bpc]",
-    "The three newer studies, at private Florida clinics, share a lead author and had no control group. In a 2021 chart review, 16 of 17 knee-pain patients were reached by phone six months to a year after one or two injections; 11 of the 12 who got BPC-157 alone reported significant improvement, as did 3 of 4 who also got thymosin beta-4.[^knee] The authors noted that “no specific tools were used to measure their improvement in function, quality of life, stiffness or activities of daily living.”[^knee] In a 2024 pilot, 12 women with interstitial cystitis got a single 10 mg injection into the bladder wall, and 10 reported complete resolution of symptoms.[^bladder] A 2025 pilot gave 10 mg and then 20 mg by IV to two adults and found no change in blood markers of the heart, liver, kidneys, thyroid or blood sugar.[^iv]",
-    "FDA summed up the safety data: “No serious adverse events appear to have been reported with these studies. However, these studies were of short duration, had small sample sizes, evaluated doses that were likely exploratory in nature, and the authors provided limited information on safety data.”[^bpc]",
-    "FDA notes that it is “marketed as an oral capsule, oral spray, nasal spray, and injectable product.”[^bpc] Yet FDA wrote: “We found no studies that administered BPC-157 to humans via the proposed oral, SC, nasal, or transdermal ROA.”[^bpc] SC means under the skin; ROA means route. FDA added that “there is no information to assess the pharmacokinetics of BPC-157 in humans”.[^bpc] Much else is unknown: no long-term human safety data, no established dose-response even in animals, and no cancer studies.[^bpc] FDA also flagged product quality, saying it could not rule out immune reactions from peptide impurities and clumping.[^bpc]",
-    "A larger trial is now registered. NCT07437547, sponsored by Hudson Biotech, is a randomized, double-blind, placebo-controlled Phase 2 study testing whether the peptide “can speed structural healing and functional recovery after an acute grade II hamstring muscle strain.”[^nct437] About 120 people are to get daily injections under the skin or placebo for 14 days, plus rehabilitation. It is recruiting, with no results posted.[^nct437] The registry holds one oddity: the same sponsor’s only TB-500 entry, NCT07487363, opens with the line “This fictional study is an example of a ClinicalTrials.gov-style record.”[^nct487]",
-    "Its companion peptides have even less human data. For [[/tb-500|TB-500]], FDA said it “did not identify data, such as clinical studies, on the use of TB-500 in humans.”[^tb500] It said the same of [[/kpv|KPV]].[^kpv] For [[/mots-c|MOTS-c]], FDA “did not identify clinical studies evaluating these uses of MOTS-c,”[^motsc] which include longevity. For [[/epitalon|Epitalon]], FDA found that “three studies were found in which epitalon was administered to humans.”[^epitalon] [[/semax|Semax]] is the exception: FDA notes that “Semax is a registered drug in Russia and is available as 0.1% and 1% nasal drops.”[^semax]",
-    "A Department of Health and Human Services notice published October 30, 2026 says HHS “does not intend to take enforcement action against a State-licensed pharmacy, Federal facility, or licensed physician compounding a drug product using a peptide bulk drug substance found in Appendix A.”[^fr] According to a summary by the law firm BakerHostetler, that list covers BPC-157, TB-500, KPV, MOTS-c, Epitalon and Semax, with BPC-157 allowed under the skin, into muscle, by mouth or on the skin.[^baker] The notice reminds readers that “compounded drugs are not FDA-approved, which means FDA does not review their safety, effectiveness, or quality before they are marketed.”[^fr]",
-    "That policy followed a split in July. FDA’s reviewers had concluded that “a balancing of the criteria weighs against BPC-157 (free base) and BPC-157 acetate being placed on that list.”[^bpc] Its advisory committee disagreed: Healio reported that “the committee voted 8-6-1 twice to place BPC-157 free base and acetate forms on the list.”[^healio] FDA has not posted an official vote record. In sport, BPC-157 is named on the World Anti-Doping Agency’s 2026 list of substances banned at all times.[^wada]"
+    "[[/bpc-157|BPC-157]] is a synthetic peptide, a chain of 15 amino acids copied from part of a protein found in human gastric juice.[^bpc] Men use it for injuries and recovery. A 2025 systematic review noted that, despite lacking FDA approval, “it is increasingly used by clinicians and athletes.”[^vasireddi] FDA’s review found it offered online “for research purposes only and not for human or veterinary use.”[^bpc]",
+    "How many men use it is not known; neither FDA’s review nor the HHS notice gives a count. FDA cited other signs: Google searches for BPC-157 at an all-time high in June 2024, more than 50 million views of tagged videos on YouTube and TikTok, and more than 100,000 members of peptide-related Reddit communities.[^bpc]",
+    "On October 30, 2026, a Department of Health and Human Services notice in the Federal Register said HHS “does not intend to take enforcement action against a State-licensed pharmacy, Federal facility, or licensed physician compounding a drug product using a peptide bulk drug substance found in Appendix A.”[^fr] BPC-157 is one of six peptides on that list, according to the law firm BakerHostetler, allowed under the skin, into muscle, by mouth or on the skin.[^baker] HHS gave its reasons: “based on the Pharmacy Compounding Advisory Committee meetings and data regarding utilization of peptides, HHS believes that there is significant interest in the use of these peptides in compounding given the lack of availability of approved products.”[^fr] It said it was acting “to expand and improve patient access.”[^fr]",
+    "BakerHostetler lists ten conditions. A licensed pharmacist or physician compounds the drug to the policy’s standards. The peptide matches the policy’s identity and route rules. It comes from an FDA-registered establishment with a valid certificate of analysis. Its manufacturer follows current good manufacturing practice. Each drug is made for a patient-specific prescription and holds a single listed active ingredient. Serious adverse events and quality problems are reported to FDA’s MedWatch program and state authorities. The label reads “This is a compounded drug product. Not for resale.”[^baker] Oral forms need records showing adequate absorption. Any device packaged with it is an FDA-cleared syringe. All other legal requirements, including sanitary conditions, apply. The policy does not cover products sold as research chemicals.[^baker]",
+    "For a man who uses BPC-157, the change is in the supply chain: a prescription in his name, a registered and tested source, a compounded-drug label, and a compounder required to report serious side effects.[^baker] Some of that goes beyond usual federal rules. FDA told its advisory committee in July that 503A compounders “are not required to report adverse events associated with compounded drug products to the FDA.”[^lash] The notice adds that “compounded drugs are not FDA-approved, which means FDA does not review their safety, effectiveness, or quality before they are marketed.”[^fr]",
+    "A product labelled for research has none of those conditions attached. In a statement on unapproved weight-loss drugs, FDA said products falsely labelled for research “have been sold directly to consumers for human use with dosing instructions”[^glp1] and are “of unknown quality.”[^glp1] On BPC-157 itself, FDA’s compounding safety page says “the agency lacks sufficient information to know whether the drug would cause harm when administered to humans.”[^fdarisk] One of three reports in FDA’s drug adverse-event database through December 2025 involved a research-labelled injection that also held [[/tb-500|TB-500]]; the woman’s skin and gums darkened, again on reuse. FDA judged the product a likely cause but could not separate the two peptides.[^bpc]",
+    "The research begins in animals. FDA summarized that “in rats, BPC-157-related substances could prevent colonic fistulas, hepatic lesions, and GI lesions induced by different challenges.”[^bpc] The 2025 review kept 36 studies, 35 of them animal or lab work, and reported that “in preclinical models, BPC-157 improved functional, structural, and biomechanical outcomes in muscle, tendon, ligament, and bony injuries.”[^vasireddi] FDA added that “its mechanisms of action remain poorly understood.”[^bpc]",
+    "In people, FDA’s search “yielded five clinical studies that utilized BPC-157.”[^bpc] Two Croatian studies survive as meeting abstracts: 24 healthy volunteers took rising enema doses for eight days, and a double-blind trial in 53 people with ulcerative colitis found no statistically clear difference from placebo in a disease score after two weeks.[^bpc] Three uncontrolled Florida studies followed. In a 2021 chart review, 11 of 12 knee-pain patients given BPC-157 injections reported significant improvement months later, though “no specific tools were used to measure their improvement.”[^knee] In a 2024 pilot, 10 of 12 women with interstitial cystitis reported complete symptom resolution after one bladder-wall injection.[^bladder] A 2025 pilot gave two adults IV doses and found no change in heart, liver, kidney, thyroid or blood-sugar markers.[^iv]",
+    "FDA noted that “no serious adverse events appear to have been reported with these studies,”[^bpc] and that they were short and small. Research has not yet reached the routes men use: “We found no studies that administered BPC-157 to humans via the proposed oral, SC, nasal, or transdermal ROA.”[^bpc] SC means under the skin; ROA means route.",
+    "FDA’s reviewers concluded that “a balancing of the criteria weighs against BPC-157 (free base) and BPC-157 acetate being placed on that list.”[^bpc] Healio reported that in July “the committee voted 8-6-1 twice to place BPC-157 free base and acetate forms on the list.”[^healio] FDA has not posted an official vote record. HHS says FDA’s rulemakings “may propose adding some or all of these peptides to the 503A bulks list based on the available evidence.”[^fr] It may revisit the interim policy if a safety signal arises.[^fr]",
+    "One trial is registered: NCT07437547, a Hudson Biotech Phase 2 study of whether the peptide “can speed structural healing and functional recovery after an acute grade II hamstring muscle strain.”[^nct437] About 120 people are planned; no results are posted.[^nct437] The same sponsor’s TB-500 entry, NCT07487363, opens: “This fictional study is an example of a ClinicalTrials.gov-style record.”[^nct487]",
+    "What is known: rat studies, five small human studies, and a new pharmacy route with ten conditions. What is not known: how many men use BPC-157, what it does in people by the routes they use, and what FDA will decide."
   ],
   "notes": [
     {
@@ -66,6 +71,41 @@
       "title": "Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review",
       "date": "Jul 2025",
       "url": "https://pubmed.ncbi.nlm.nih.gov/40756949/"
+    },
+    {
+      "key": "fr",
+      "source": "HHS, Federal Register",
+      "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances (2026-22192)",
+      "date": "Oct 30, 2026",
+      "url": "https://public-inspection.federalregister.gov/2026-22192.pdf"
+    },
+    {
+      "key": "baker",
+      "source": "BakerHostetler (law firm)",
+      "title": "HHS issues enforcement discretion policy regarding 503A compounding using certain peptide bulk drug substances",
+      "date": "Oct 28, 2026",
+      "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/"
+    },
+    {
+      "key": "lash",
+      "source": "FDA",
+      "title": "FDA Introductory Remarks, Pharmacy Compounding Advisory Committee Meeting (Matthew Lash)",
+      "date": "Jul 23, 2026",
+      "url": "https://www.fda.gov/media/193773/download"
+    },
+    {
+      "key": "glp1",
+      "source": "FDA",
+      "title": "FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+      "date": "accessed Nov 3, 2026",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss"
+    },
+    {
+      "key": "fdarisk",
+      "source": "FDA",
+      "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+      "date": "content current as of Apr 22, 2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks"
     },
     {
       "key": "knee",
@@ -89,6 +129,13 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40131143/"
     },
     {
+      "key": "healio",
+      "source": "Healio",
+      "title": "FDA committee recommends looser restrictions for several peptides",
+      "date": "Jul 24, 2026",
+      "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides"
+    },
+    {
       "key": "nct437",
       "source": "ClinicalTrials.gov",
       "title": "NCT07437547: BPC 157 for Acute Hamstring Muscle Strain Repair (sponsor Hudson Biotech)",
@@ -101,69 +148,6 @@
       "title": "NCT07487363 (TB-500, sponsor Hudson Biotech)",
       "date": "first posted Mar 23, 2026",
       "url": "https://clinicaltrials.gov/study/NCT07487363"
-    },
-    {
-      "key": "tb500",
-      "source": "FDA",
-      "title": "Briefing document on TB-500, Pharmacy Compounding Advisory Committee",
-      "date": "May 2026",
-      "url": "https://www.fda.gov/media/193349/download"
-    },
-    {
-      "key": "kpv",
-      "source": "FDA",
-      "title": "Briefing document on KPV, Pharmacy Compounding Advisory Committee",
-      "date": "May 2026",
-      "url": "https://www.fda.gov/media/193346/download"
-    },
-    {
-      "key": "motsc",
-      "source": "FDA",
-      "title": "Briefing document on MOTS-c, Pharmacy Compounding Advisory Committee",
-      "date": "Jul 2026",
-      "url": "https://www.fda.gov/media/193347/download"
-    },
-    {
-      "key": "epitalon",
-      "source": "FDA",
-      "title": "Briefing document on epitalon, Pharmacy Compounding Advisory Committee",
-      "date": "Jul 2026",
-      "url": "https://www.fda.gov/media/193345/download"
-    },
-    {
-      "key": "semax",
-      "source": "FDA",
-      "title": "Briefing document on Semax, Pharmacy Compounding Advisory Committee",
-      "date": "Jul 2026",
-      "url": "https://www.fda.gov/media/193348/download"
-    },
-    {
-      "key": "fr",
-      "source": "HHS, Federal Register",
-      "title": "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances (2026-22192)",
-      "date": "Oct 30, 2026",
-      "url": "https://public-inspection.federalregister.gov/2026-22192.pdf"
-    },
-    {
-      "key": "baker",
-      "source": "BakerHostetler (law firm)",
-      "title": "HHS issues enforcement discretion policy regarding 503A compounding using certain peptide bulk drug substances",
-      "date": "Oct 28, 2026",
-      "url": "https://www.bakerlaw.com/insights/hhs-issues-enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances/"
-    },
-    {
-      "key": "healio",
-      "source": "Healio",
-      "title": "FDA committee recommends looser restrictions for several peptides",
-      "date": "Jul 24, 2026",
-      "url": "https://www.healio.com/news/primary-care/20260724/fda-committee-recommends-looser-restrictions-for-several-peptides"
-    },
-    {
-      "key": "wada",
-      "source": "World Anti-Doping Agency",
-      "title": "The 2026 Prohibited List",
-      "date": "Sep 2025",
-      "url": "https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf"
     }
   ]
 }

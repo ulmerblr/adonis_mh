@@ -924,18 +924,22 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='skin'] .spreadPhoto img { object-position: 68% 30% !important; }
   [data-lane='skin'] .spreadPhoto { --fade-solid: 44%; --fade-end: 48%; }
 }
-/* Recovery (home-cover-record.jpg): tuned EDU PROMPT 35 for the headline “BPC-157: what we know.” */
+/* Recovery (home-cover-record.jpg): re-tuned EDU PROMPT 36 for the headline “BPC-157 comes in from the gray market.” and its longer dek */
 [data-lane='recovery'] .spreadPhoto img { object-position: 100% 30% !important; }
-[data-lane='recovery'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 44%; }
-[data-lane='recovery'] .spreadTitle { font-size: clamp(22px, 7.4cqw, 60px); }
+[data-lane='recovery'] .spreadHead { top: calc(6px + 2.6cqw); transform: none; max-width: 52%; }
+[data-lane='recovery'] .spreadTitle { font-size: clamp(18px, 6.2cqw, 60px); }
+[data-lane='recovery'] .spreadDek { font-size: clamp(11px, 3.5cqw, 20px); line-height: 1.2; }
 @media (min-width: 860px) and (max-width: 999px) {
   [data-lane='recovery'] .spreadPhoto img { object-position: 74% 30% !important; }
-  [data-lane='recovery'] .spreadHead { top: 22px; transform: none; max-width: 42%; }
-  [data-lane='recovery'] .spreadTitle { font-size: clamp(24px, 7cqw, 60px); }
+  [data-lane='recovery'] .spreadHead { top: 22px; transform: none; max-width: 48%; }
+  [data-lane='recovery'] .spreadTitle { font-size: clamp(24px, 6.6cqw, 60px); }
+  [data-lane='recovery'] .spreadDek { font-size: clamp(13px, 2.9cqw, 18px); }
 }
 @media (min-width: 1000px) {
   [data-lane='recovery'] .spreadPhoto img { object-position: 78% 30% !important; }
-  [data-lane='recovery'] .spreadHead { max-width: 48%; }
+  [data-lane='recovery'] .spreadHead { max-width: 54%; }
+  [data-lane='recovery'] .spreadTitle { font-size: clamp(24px, 6.4cqw, 52px); }
+  [data-lane='recovery'] .spreadDek { font-size: clamp(13px, 2.5cqw, 18px); }
 }
 
 /* EDU PROMPT 31: Longevity at 860-999px, where the taller photo crops tighter: face further right, headline narrower. */
