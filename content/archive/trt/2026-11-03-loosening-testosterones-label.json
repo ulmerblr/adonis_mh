@@ -1,0 +1,136 @@
+{
+  "archived": "Nov 3, 2026",
+  "published": "Nov 2, 2026",
+  "note": "trt lane story from Nov 2, 2026 until Nov 3, 2026, when the lane story was replaced under the new Article rule (EDU PROMPT 35). Kept for the lane archive; not shown on the site.",
+  "key": "trt",
+  "headline": [
+    "Loosening",
+    "testosterone’s label."
+  ],
+  "dek": "In six months, US health officials moved to widen who testosterone is for and to soften its warnings.",
+  "backdrop": "#5D6F82",
+  "headlineColor": "#F7F3EA",
+  "photoAlt": "A night-shift plant operator in a reflective work shirt sits at a table with his hard hat and paperwork.",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "people",
+      "label": "Dec 10, 2025",
+      "line": "An FDA expert panel, not a formal advisory committee, backs a wider use.",
+      "src": {
+        "href": "https://www.fda.gov/patients/fda-expert-panels/fda-expert-panel-testosterone-replacement-therapy-men-12102025",
+        "label": "FDA expert panel page"
+      }
+    },
+    {
+      "icon": "calendar",
+      "label": "Apr 20, 2026",
+      "line": "FDA invites makers to seek a low-libido indication.",
+      "src": {
+        "href": "https://public-inspection.federalregister.gov/2026-07615.pdf",
+        "label": "Federal Register notice"
+      }
+    },
+    {
+      "icon": "shield",
+      "label": "Jun 18, 2026",
+      "line": "HHS asks for three label changes. Labels have to be revised first."
+    }
+  ],
+  "pull": {
+    "quote": "Approval of any new indication will be based on rigorous scientific evidence and comprehensive risk-benefit analysis, consistent with applicable law.",
+    "note": "frapr"
+  },
+  "body": [
+    "For a decade, the label on every approved testosterone product in the US has carried one sentence that shaped how doctors use it: safety and efficacy in men with “age-related hypogonadism”[^depo] have not been established. Over the past year, federal health officials have moved, step by step, to take that sentence out, to narrow the drug’s prostate warnings, and to open the door to a broader approved use. None of it is final yet. Together, it is a real shift in how Washington treats [[/testosterone|testosterone]].",
+    "It began with a panel. On December 10, 2025, FDA convened an expert panel on testosterone replacement therapy for men and opened a public docket for comments.[^panel] It was not a formal FDA advisory committee. Its members were mostly urologists, alongside federal officials, among them the deputy director of FDA’s drug center and the HHS assistant secretary for health.[^panel] According to Healio, the panel expressed interest in expanding the indication, dropping some contraindications and ending testosterone’s status as a Schedule III controlled substance.[^hjan] Its co-moderator, Baylor urologist Mohit Khera, told the hearing: “There is no scientific basis for excluding age-related hypogonadism from treatment eligibility.”[^hjan]",
+    "The current label is narrow. Approved products are for men whose low testosterone has a known cause in the testes or the pituitary and hypothalamus: primary hypogonadism or hypogonadotropic hypogonadism.[^frapr] Panel members said about 90 percent of men with low levels have no such defined cause.[^hjan] Treating them is off-label: the Depo-Testosterone label revised in August 2026 still includes the age-related limitation.[^depo]",
+    "The first concrete step came on April 20, 2026. In a Federal Register notice, FDA said its “preliminary review of the literature suggests that TRT may be safe and effective in treating low libido in men with decreased libido associated with idiopathic hypogonadism”,[^frapr] meaning low testosterone with no known cause. It asked makers of approved products to contact the agency by April 30 about filing a supplemental application, and added: “Approval of any new indication will be based on rigorous scientific evidence and comprehensive risk-benefit analysis, consistent with applicable law.”[^frapr]",
+    "Then, on June 18, HHS announced three requested changes to the labels.[^hjul] The first would remove the age-related hypogonadism limitation, which FDA added in 2015; HHS said newer evidence, including the TRAVERSE trial, means it “is no longer warranted.”[^hjul] The second would narrow the prostate cancer contraindication, which now covers known or suspected cancer, to men with metastatic disease, while asking prescribers to assess prostate cancer risk before treatment and to monitor during it.[^hjul] The third would drop a warning that testosterone may worsen symptoms of an enlarged prostate, or benign prostatic hyperplasia, and instead advise monitoring men with severe symptoms.[^hjul] Michael Davis, acting director of FDA’s drug center, said: “FDA’s responsibility is to ensure prescribing information reflects the best available scientific evidence.”[^hjul]",
+    "The evidence behind all of this rests heavily on one trial. TRAVERSE, published in 2023, randomly assigned 5,246 men aged 45 to 80, who had symptoms of hypogonadism, two fasting testosterone levels below 300 ng/dL, and heart disease or a high risk of it, to a daily 1.62% testosterone gel or a placebo gel.[^traverse] Men were treated for an average of 21.7 months and followed for 33.[^traverse] The main outcome, a combination of cardiovascular death, heart attack or stroke, occurred in 7.0 percent of the testosterone group and 7.3 percent of the placebo group, which met the trial’s test for noninferiority.[^traverse] Rates of atrial fibrillation, acute kidney injury and pulmonary embolism were higher with testosterone.[^traverse] The trial was funded by AbbVie, a testosterone maker, and others.[^traverse] In February 2025, FDA removed the heart-risk language from the boxed warning, while keeping the age-related limitation and adding blood pressure warnings, after required monitoring studies found testosterone raised blood pressure across the class.[^fda2025]",
+    "The libido case draws on two trials FDA listed in its notice.[^frapr] A substudy of TRAVERSE enrolled 1,161 men with low libido; over two years, testosterone gel improved sexual activity, sexual desire and hypogonadal symptoms compared with placebo, but not erectile function.[^pencina] The earlier Testosterone Trials gave 790 men aged 65 or older, with levels below 275 ng/dL, testosterone or placebo gel for one year. Sexual function improved moderately; vitality and walking distance did not, and the authors wrote that the trials had too few men to draw conclusions about risks.[^snyder]",
+    "Not everyone is convinced. In comments to FDA in February 2026, the consumer group Public Citizen said several panelists had ties to testosterone makers and that “the expert panel appeared to be looking only at data that supported the safety of testosterone replacement therapy.”[^citizen] Sandeep Dhindsa, an endocrinologist at Saint Louis University, told Healio that low testosterone is often a marker of poor health rather than its cause, so “one should not assume that testosterone therapy would improve the underlying medical condition.”[^hjan] On the prostate, HHS itself said that “important uncertainties remain because prostate cancer can take years to develop and existing studies may not have followed patients long enough to detect long-term effects.”[^hjul]",
+    "If the changes go through, treating low testosterone that comes with age would no longer be outside the label, and men with a history of non-metastatic prostate cancer or an enlarged prostate would no longer be ruled out by the label’s wording. The blood pressure warning stays, and TRAVERSE studied men at high heart risk, for under two years of treatment on average.[^traverse]",
+    "FDA’s interest in testosterone has also reached women. On September 17, 2026, the agency held a public workshop on testosterone use in menopausal women, set up “to help inform future research and potential drug development of testosterone products for menopausal women.”[^frws] FDA notes there are no approved indications for testosterone in menopausal women, though off-label use has grown.[^frws]",
+    "What comes next for men sits with the companies. The changes HHS announced are requests: makers have to submit revised labeling, and FDA has to approve it, before any label changes.[^hjul] Whether any maker files for the low-libido indication is a separate question."
+  ],
+  "notes": [
+    {
+      "key": "panel",
+      "source": "FDA",
+      "title": "FDA Expert Panel on Testosterone Replacement Therapy for Men, December 10, 2025",
+      "date": "Dec 2025",
+      "url": "https://www.fda.gov/patients/fda-expert-panels/fda-expert-panel-testosterone-replacement-therapy-men-12102025"
+    },
+    {
+      "key": "hjan",
+      "source": "Healio",
+      "title": "FDA panel supports loosening restrictions on testosterone",
+      "date": "Jan 20, 2026",
+      "url": "https://www.healio.com/news/endocrinology/20260120/fda-panel-supports-expanding-population-indicated-for-testosterone-therapy"
+    },
+    {
+      "key": "frapr",
+      "source": "FDA (Federal Register)",
+      "title": "Potential New Indication for Testosterone Replacement Therapy (FR Doc. 2026-07615)",
+      "date": "Apr 20, 2026",
+      "url": "https://public-inspection.federalregister.gov/2026-07615.pdf"
+    },
+    {
+      "key": "depo",
+      "source": "DailyMed",
+      "title": "Depo-Testosterone (testosterone cypionate) injection prescribing information",
+      "date": "Aug 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cfbb53d4-b868-4a28-8436-f9112eb01c39"
+    },
+    {
+      "key": "hjul",
+      "source": "Healio",
+      "title": "HHS proposes changes to loosen warnings on testosterone therapy",
+      "date": "Jul 9, 2026",
+      "url": "https://www.healio.com/news/endocrinology/20260709/hhs-proposes-changes-to-loosen-warnings-on-testosterone-therapy"
+    },
+    {
+      "key": "traverse",
+      "source": "Lincoff et al., New England Journal of Medicine",
+      "title": "Cardiovascular Safety of Testosterone-Replacement Therapy (TRAVERSE)",
+      "date": "Jul 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/"
+    },
+    {
+      "key": "fda2025",
+      "source": "FDA",
+      "title": "FDA issues class-wide labeling changes for testosterone products",
+      "date": "Feb 28, 2025",
+      "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products"
+    },
+    {
+      "key": "pencina",
+      "source": "Pencina et al., Journal of Clinical Endocrinology & Metabolism",
+      "title": "Effect of Testosterone Replacement Therapy on Sexual Function and Hypogonadal Symptoms in Men with Hypogonadism",
+      "date": "Jan 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37589949/"
+    },
+    {
+      "key": "snyder",
+      "source": "Snyder et al., New England Journal of Medicine",
+      "title": "Effects of Testosterone Treatment in Older Men",
+      "date": "Feb 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26886521/"
+    },
+    {
+      "key": "citizen",
+      "source": "Public Citizen",
+      "title": "Comments to the FDA on the Expert Panel on Testosterone Replacement Therapy for Men",
+      "date": "Feb 9, 2026",
+      "url": "https://www.citizen.org/?p=119201"
+    },
+    {
+      "key": "frws",
+      "source": "FDA (Federal Register)",
+      "title": "Testosterone Use in Menopausal Women; Public Workshop; Request for Comments (FR Doc. 2026-16829)",
+      "date": "Aug 18, 2026",
+      "url": "https://public-inspection.federalregister.gov/2026-16829.pdf"
+    }
+  ]
+}
