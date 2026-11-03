@@ -6,7 +6,7 @@ export const WADA_2027 = 'https://www.wada-ama.org/en/news/wada-publishes-2027-p
 export const AJMC = 'https://www.ajmc.com/view/hhs-draft-policy-eases-enforcement-on-6-compounded-peptides';
 
 const LOG = [
-  { date: 'Oct 30, 2026', short: 'HHS peptide policy published', title: 'HHS peptide compounding policy published', text: 'Six peptides, ten conditions. Not FDA approval.', href: FED_REG },
+  { date: 'Oct 30, 2026', short: 'HHS peptide policy published', title: 'HHS peptide compounding policy published', text: 'BPC-157 and five other peptides, ten conditions. Not FDA approval.', href: FED_REG },
   { date: 'Sep 21, 2026', short: 'WADA 2027 list out', title: 'WADA publishes its 2027 Prohibited List', text: 'BPC-157 still banned at all times, class S0.', href: WADA_2027 },
   { date: 'Jul 23, 2026', short: 'FDA advisers vote 8–6 (reported by Healio)', title: 'FDA advisers vote 8 to 6 on BPC-157', text: 'Recommended for the compounding list over FDA staff’s objection. Vote as reported by Healio from the July 23–24, 2026 meeting. FDA has not posted the official vote record.', href: AJMC },
 ];
