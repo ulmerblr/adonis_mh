@@ -1,4 +1,5 @@
 import { A, CLINIC, Src } from '@/components/ext';
+import { LawsThatApply } from '@/components/legal/legal';
 import { Fact, type TreatmentData } from '@/components/treatment/template';
 import { WorldMap, type MapRegion } from '@/components/treatment/world-map';
 import { TRACKS } from '@/lib/tracks';
@@ -219,6 +220,7 @@ export const bpc157: TreatmentData = {
           <li><strong>Military:</strong> listed as prohibited for service members by the Department of Defense’s Operation Supplement Safety. <Src href={U.opss} /></li>
         </ul>
         <p className="callout">Compounded drugs are not FDA-approved. FDA does not review their safety, effectiveness or quality before they are sold.</p>
+        <LawsThatApply slug="bpc-157" />
         </>
       ),
     },

@@ -974,3 +974,14 @@ span.tone-none { background: #d9d0bd; }
   .index tbody tr:not(.laneRow) > td .pill { white-space: normal; }
   .index .laneRow, .index .laneRow th { display: block; }
 }
+
+/* EDU PROMPT 34: Legal highlight card (Home) and the /legal page. */
+.legalSummary { margin: 0; font-size: 15px; line-height: 1.45; }
+.legalStanding { margin: 10px 0 0; font-size: 14px; font-weight: 700; color: var(--soft); max-width: 72ch; }
+.legalWrap .notesList, .legalLaws { max-width: 900px; }
+.legalHeadline { font-family: var(--slab); font-weight: 700; font-size: clamp(24px, 5vw, 32px); line-height: 1.15; margin: 0 0 12px; }
+.legalBody p { max-width: 72ch; }
+.legalLaws { display: grid; gap: 14px; }
+.legalLaw { scroll-margin-top: 72px; }
+.legalLaw p { margin: 6px 0 10px; }
+.lawsApply { margin: 18px 0 0; padding: 12px 14px; background: var(--sand); border-radius: 4px; font-size: 16px; }

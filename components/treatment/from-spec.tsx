@@ -2,6 +2,7 @@ import { A, CLINIC } from '@/components/ext';
 import { Fact, type TreatmentData } from '@/components/treatment/template';
 import { WorldMap, type MapRegion, type Tone } from '@/components/treatment/world-map';
 import { LANES, type LaneKey } from '@/lib/library';
+import { LawsThatApply } from '@/components/legal/legal';
 import type { Step } from '@/lib/tracks';
 
 /** A treatment page's data as plain JSON (content/treatments/<slug>.json; the format is in content/treatments/SPEC.md). */
@@ -104,7 +105,7 @@ export function fromSpec(spec: Spec): TreatmentData {
     sections: [
       { title: 'What it is', body: blocks(s.what) },
       { title: 'Research', body: blocks(s.research) },
-      { title: 'US position', body: blocks(s.us) },
+      { title: 'US position', body: <>{blocks(s.us)}<LawsThatApply slug={spec.slug} /></> },
       { title: 'Around the world', body: world(s.world) },
       { title: 'Documented side effects', body: blocks(s.side) },
       {
