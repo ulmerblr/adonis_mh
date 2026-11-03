@@ -938,3 +938,11 @@ span.tone-none { background: #d9d0bd; }
   [data-lane='energy'] .spreadPhoto img { object-position: 64% 30% !important; }
   [data-lane='energy'] .spreadPhoto { --fade-solid: 52%; --fade-end: 57%; }
 }
+
+/* EDU PROMPT 32: "Worth a listen" (Home only), the same card as Updates and How we report. */
+.listenTitle { font-size: 19px; }
+.listenMeta { margin: 0; font-size: 14px; font-weight: 700; color: var(--soft); }
+.listenNote { margin: 0; font-size: 15px; line-height: 1.45; }
+.listenEmbed { display: block; width: 100%; height: 152px; border: 0; border-radius: 12px; background: var(--sand); }
+.listenLink { align-self: flex-start; min-height: 44px; }
+.listenSmall { margin: 0; font-size: 12px; line-height: 1.4; color: var(--soft); }

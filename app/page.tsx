@@ -1,5 +1,6 @@
 import { TreatmentFinder } from '@/components/finder';
 import { LaneSpread } from '@/components/magazine/lane-story';
+import { ListenCard } from '@/components/magazine/listen';
 import { MagazineSection } from '@/components/magazine/magazine-section';
 import { coverLane } from '@/content/cover';
 
@@ -11,7 +12,7 @@ export default function Home() {
     <>
       {/* The Magazine Section: everything between the header and the treatments section. */}
       <MagazineSection>
-        <LaneSpread lane={coverLane} />
+        <LaneSpread lane={coverLane} sideExtra={<ListenCard />} />
       </MagazineSection>
 
       {/* The treatments section */}
