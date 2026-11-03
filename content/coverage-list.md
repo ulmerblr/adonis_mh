@@ -25,7 +25,11 @@ C. Every compound Adonis Clinical carries sits in the same lane on both sites. T
    Check: node scripts/check-clinical-lanes.mjs (run it whenever a row is added or a lane changes; it must report
    0 mismatches).
 
-Article rule (EDU PROMPT 34; replaces the EDU PROMPT 31 rule). Each story leads with a treatment and the research behind
+Article rule (EDU PROMPT 34, with the EDU PROMPT 36 addition first; replaces the EDU PROMPT 31 rule). We don't shed
+   positive light and we don't shed negative light. We just shed light. Headlines and deks state what's new, not a
+   verdict. No positive or negative framing anywhere in a story: report what is known, what isn't, and what's changing,
+   and let the reader decide his own risk.
+   Each story leads with a treatment and the research behind
    it: what's being studied, what the trials showed, and what's still unknown. Regulators and the law appear as context,
    not as the point of view. No exposés of businesses. The site's purpose is to show men the alternative treatments and the
    research behind them, so the reader can decide his own risk tolerance.
