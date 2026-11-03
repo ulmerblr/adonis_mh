@@ -1,141 +1,151 @@
 {
   "key": "energy",
   "headline": [
-    "What’s in",
-    "the shot."
+    "Ashwagandha",
+    "for lifters."
   ],
-  "dek": "B12, lipo and MIC injections are sold for energy. The trials are few, or none.",
+  "dek": "A new trial, a cautious meta-analysis and a men-only study: what the research on ashwagandha and strength shows.",
   "backdrop": "#CD8527",
   "headlineColor": "#0F2C55",
   "photoAlt": "A coach with a whistle holds a clipboard.",
-  "byline": "Adonis Men’s Health · Checked Oct 31, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 3, 2026 · Clinical review pending",
   "glance": [
     {
       "icon": "people",
-      "label": "B12 for energy",
-      "line": "Two small placebo-controlled trials. Neither found a difference from placebo."
+      "label": "Latest trial",
+      "line": "83 adults, 90 days, 300 mg a day or placebo; funded by the extract’s maker.",
+      "src": {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/42780946/",
+        "label": "Frontiers in Nutrition, Sep 2026"
+      }
     },
     {
       "icon": "mortar",
-      "label": "MIC blends",
-      "line": "Compounded, not FDA approved. No published human study of injected M, I or C for energy."
+      "label": "Pooled evidence",
+      "line": "Strength gains rated low certainty across three pooled trials (161 people).",
+      "src": {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/42738987/",
+        "label": "Nutrients, Aug 2026"
+      }
     },
     {
-      "icon": "calendar",
-      "label": "Ashwagandha",
-      "line": "A US supplement; illegal to sell as a food in Denmark."
+      "icon": "shield",
+      "label": "US status",
+      "line": "Sold as a dietary supplement; FDA does not approve supplements before sale.",
+      "src": {
+        "href": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+        "label": "FDA Q&A on dietary supplements"
+      }
     }
   ],
+  "pull": {
+    "quote": "Current evidence does not establish that adjunctive ashwagandha meaningfully enhances resistance-training adaptations",
+    "note": "meta"
+  },
   "body": [
-    "The energy shot is one of the most familiar offers in men’s health: a quick injection, usually built around [[/vitamin-b12|vitamin B12]], promised to lift a tired week. Often it is sold as an MIC or lipotropic blend, named for the [[/methionine|methionine]], [[/inositol|inositol]] and [[/choline|choline]] it contains, sometimes with [[/vitamin-b6|vitamin B6]] or [[/l-carnitine|L-carnitine]] added. These blends are made by compounding pharmacies, and compounded drugs are not FDA approved; FDA does not review them for safety, effectiveness or quality before they are sold.[^compq]",
-    "B12 itself has a narrow approved job. The label for cyanocobalamin injection says it “is indicated for vitamin B 12 deficiencies due to malabsorption,”[^b12] and goes on to list the conditions that cause poor absorption, starting with pernicious anemia.[^b12] Feeling tired is not on that list. Injecting B12 for energy in someone whose B12 levels are normal is off-label.",
-    "The research on B12 shots for energy in people who are not deficient is thin, and what exists does not favor the shot. In a randomized, double-blind crossover trial, 20 professional singers with mild voice symptoms such as fatigue received one B12 injection and one salt-water injection, weeks apart.[^singers] The authors found “no meaningful difference compared with placebo.”[^singers] An older trial gave 15 people with chronic fatigue syndrome injections of liver extract, folic acid and B12, or a placebo, in a crossover design.[^kaslow] “Although patients responded to placebo and LEFAC by several criteria of functional status, no significant difference was apparent between response to placebo and that to LEFAC,”[^kaslow] the authors wrote, adding: “The placebo response appeared to be strong.”[^kaslow] LEFAC was the name of the active injection. Both trials were small, and neither tested the multi-ingredient blends that men are usually offered today, so even this modest evidence speaks only to B12 on its own.",
-    "For the other ingredients the record is thinner still. We found no published human study of injected methionine, inositol or choline, alone or in a blend, for energy or fat loss. FDA’s drug records list no approved methionine product and no approved inositol product.[^methfda][^inosfda] Vitamin B6 and L-carnitine are approved drugs, but for other purposes. The pyridoxine injection label says the injected route “is indicated when oral administration is not feasible as in anorexia, nausea and vomiting, and preoperative and postoperative conditions,”[^b6] in people with B6 deficiency. The Carnitor label approves levocarnitine for carnitine deficiency, not for energy.[^carnitor] Most studies of L-carnitine and weight used supplements taken by mouth.",
-    "Then there is the question of how the shots are made. FDA’s recall records list many compounded lipotropic, Lipo-B and MIC injections recalled by the pharmacies that made them. A 2016 recall of a lipotropic injection containing L-carnitine and methylcobalamin, a form of B12, gave the reason as “Lack of Assurance of Sterility.”[^recalls] That phrase appears again and again in the records for these products.[^recalls] Sterility matters more for an injection than for a pill, because the product goes directly into the body.",
-    "None of this means B12 is useless. People who are truly deficient need it, and the injection is the approved treatment when the gut cannot absorb it.[^b12] The point is narrower: the shot sold as a general pick-me-up has very little evidence behind it, and the blends sold alongside it have almost none. Even the approved injection is not risk-free. Its label warns that “anaphylactic shock and death have been reported after parenteral vitamin B 12 administration,”[^b12] and recommends a small test dose under the skin first.[^b12] Parenteral means given by injection rather than by mouth.",
-    "The other popular energy product in this lane is not a shot at all. [[/ashwagandha|Ashwagandha]], the root of Withania somnifera, is sold in the US as a dietary supplement, and FDA says it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa] The agency adds that, generally, “a firm does not have to provide FDA with the evidence it relies on to substantiate safety before or after it markets its products.”[^suppqa] Ashwagandha is marketed for stress, energy and testosterone. Its trials are small and short. In one randomized, double-blind crossover trial in 57 overweight men aged 40 to 70 with mild fatigue, an extract raised testosterone 14.7% more than placebo over eight weeks, “although no significant between-group differences were found in cortisol, estradiol, fatigue, vigor, or sexual well-being.”[^lopresti]",
-    "Ashwagandha also has a safety record that its marketing rarely mentions. A case series from Iceland and the US Drug-Induced Liver Injury Network described five people with liver injury after taking it.[^bjornsson] The authors concluded that “these cases illustrate the hepatotoxic potential of ashwagandha,”[^bjornsson] and that the injury was “typically cholestatic or mixed with severe jaundice and pruritus, but self-limited with liver tests normalizing in 1-5 months.”[^bjornsson] Hepatotoxic means harmful to the liver.",
-    "One country has gone further. Denmark’s food agency says ashwagandha may not be sold as a food there, including in supplements and drinks, citing a 2020 risk assessment by the Danish technical university’s food institute.[^dk][^dtu] That assessment looked at animal studies that showed effects on sex hormones and reproduction in male rats, and on the thyroid.[^dtu] In the US, it remains on store shelves as a supplement.",
-    "What is still unknown is simple to state. No good trial has shown that B12 shots raise energy in people with normal B12, no human study has tested what the MIC blends do, and the long-term safety of ashwagandha in men has not been studied in large trials. For athletes, none of these is named on the World Anti-Doping Agency’s list, but large intravenous infusions are banned as a method.[^wada]"
+    "[[/ashwagandha|Ashwagandha]] is a shrub, Withania somnifera, in the nightshade family, and its root has long been used in India’s Ayurvedic medicine.[^dtu][^dk] Three pieces of research from the past few months show what has actually been measured in people who lift: a new randomized trial, a meta-analysis of the trials that paired the root with resistance training, and a men-only trial that has just begun to be listed.",
+    "The trial, published on September 9, 2026, in Frontiers in Nutrition, was randomized, double-blind and placebo-controlled. Of 84 people enrolled, 83 finished: 41 on the extract and 42 on placebo. They were aged 25 to 50 and took either a 300 mg capsule of a sustained-release ashwagandha root extract or a placebo capsule once a day for 90 days.[^trial] The group included both men and non-pregnant women, all with a body mass index between 25.0 and 29.9, who were recreationally active and in the first month of strength training.[^trialft] Everyone followed the same exercise plan, five training days a week alternating resistance and aerobic sessions.[^trialft]",
+    "The researchers measured the one-repetition maximum on the bench press, maximal oxygen uptake (VO2max), testosterone, two muscle-damage markers and quality of life.[^trial] Both groups improved; the extract group improved more. By day 91, its bench-press maximum had risen by 15.31 kg against 7.33 kg on placebo, and VO2max by 30.56 against 18.14 mL/kg/min, both with p below 0.001; the gap was already present at day 30.[^trial] The authors described the extra VO2max gain as a “very large effect”[^trialft] and concluded that three months of the extract improved strength, endurance and overall well-being in recreationally active adults.[^trial]",
+    "Testosterone is where the headline figures need care. Among the men taking the extract, mean total testosterone rose from 315.63 to 437.07 ng/dL, an increase of 121.43 ng/dL, and that rise within the group was statistically significant (p = 0.024). Among the men on placebo it rose from 332.00 to 400.43 ng/dL, which was not significant on its own.[^trialft] But when the two groups were compared directly, the paper reports that “between group differences were not statistically significant for both total and free testosterone concentrations”.[^trialft] Put plainly: testosterone rose within the treated group, but it did not rise more than on placebo.",
+    "On safety, 16 people reported mild, short-lived side effects: six on the extract (three with gastritis, three with muscle pain) and ten on placebo. All resolved, and the investigators judged them unlikely to be caused by the study product.[^trialft] The authors named their own limits as a narrow body-weight range, “relatively modest sample size and single-center study design.”[^trialft] The funding is stated in the paper: the work was funded by Nutriventia Private Limited, which also made the capsules, and three authors are its employees; the funder took part in the study design, the writing and the decision to publish.[^trialft]",
+    "The meta-analysis, published on August 27, 2026, in Nutrients by researchers at Dongshin University in South Korea, looked only at randomized trials that combined a standardized extract with structured resistance training in healthy adults. It found four; three, with 161 people, could be pooled. Ashwagandha was associated with larger gains than placebo in bench-press and lower-body maximums, but when a stricter statistical method was applied both strength results lost significance, and each leaned on one influential trial. The authors rated the certainty of both strength findings as low.[^meta] Their conclusion: “Current evidence does not establish that adjunctive ashwagandha meaningfully enhances resistance-training adaptations”.[^meta] They called for “Adequately powered, independently funded RCTs using direct measures of hypertrophy”.[^meta] The review had no outside funding.[^meta]",
+    "Wider reviews point the same way. A June 2026 meta-analysis of 13 trials with 599 participants found the most consistent evidence for aerobic endurance, while strength effects were “positive but uncertain”.[^li] A February 2026 review of 23 hormone trials, with 1,706 participants, reported that ashwagandha raised testosterone in men by a mean of 57.43 ng/dL compared with placebo.[^fornalik]",
+    "The newest study answers part of that call. A trial run by the Gdansk University of Physical Education and Sport in Poland, first posted on ClinicalTrials.gov on September 3, 2026, plans to enroll 40 healthy, non-smoking men aged 25 to 40 who already train with weights. They are to take 400 mg a day of a standardized root extract (5% withanolides) or a starch placebo for 12 weeks, while lifting three times a week. Its main measures are bench-press strength, cortisol and BDNF, a protein linked to brain function; testosterone is measured as well. It is recruiting, with main results expected in 2027.[^ctg]",
+    "What is still unknown is long-term safety and whether the gains last. The largest safety trial so far gave 600 mg a day or placebo to 1,002 adults with stress and anxiety for eight weeks, and found no serious adverse events and no significant liver-test changes compared with placebo.[^safety] Case reports describe something rarer. In five patients from Iceland and the US, jaundice began two to 12 weeks after starting ashwagandha supplements; liver tests returned to normal within one to five months in four, and one was lost to follow-up.[^bjornsson] In an Indian series of eight people who took single-ingredient products, three with existing chronic liver disease developed liver failure and died.[^philips]",
+    "Regulators differ. In the US, ashwagandha is sold as a dietary supplement, and FDA says it “does not have the authority to approve dietary supplements before they are marketed.”[^suppqa] Denmark’s food agency says products containing it are illegal to sell there, citing a risk assessment that found harmful effects on sex hormones and reproduction.[^dk] In the UK, the Committee on Toxicity discussed a third draft statement on ashwagandha in September 2026.[^cot] It is not on the World Anti-Doping Agency’s prohibited list.[^wada]",
+    "The published record so far is a handful of small, short trials, the newest funded by the extract’s maker, showing larger strength and fitness gains than placebo, pooled evidence rated low certainty, a [[/testosterone|testosterone]] rise that did not separate from placebo in the newest trial, and an independent men-only trial still under way."
   ],
   "notes": [
     {
-      "key": "compq",
-      "source": "FDA",
-      "title": "Compounding and the FDA: Questions and Answers",
-      "date": "Sep 2025",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-and-fda-questions-and-answers"
+      "key": "dtu",
+      "source": "DTU National Food Institute (for the Danish Veterinary and Food Administration)",
+      "title": "Risk assessment of Withania somnifera root",
+      "date": "May 2020",
+      "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf"
     },
     {
-      "key": "b12",
-      "source": "DailyMed",
-      "title": "Cyanocobalamin Injection, USP prescribing information (American Regent)",
-      "date": "Oct 2023",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2fb653d6-e2b2-4969-831b-c0dc37b9c0cc"
+      "key": "trial",
+      "source": "Thanawala et al., Frontiers in Nutrition (PubMed)",
+      "title": "Efficacy and safety of a sustained release ashwagandha root extract capsules on muscle strength and cardiorespiratory endurance in recreationally active individuals: a randomized, double-blind, placebo-controlled trial",
+      "date": "Sep 9, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42780946/"
     },
     {
-      "key": "singers",
-      "source": "Shoffel-Havakuk et al., JAMA Otolaryngology–Head & Neck Surgery",
-      "title": "Effect of Vitamin B12 Injection on the Vocal Performance of Professional Singers",
-      "date": "Jan 2021",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/33180098/"
+      "key": "trialft",
+      "source": "Thanawala et al., Frontiers in Nutrition (full text, Europe PMC)",
+      "title": "Sustained release ashwagandha root extract, muscle strength and cardiorespiratory endurance: randomized trial, full text",
+      "date": "Sep 9, 2026",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13597949/fullTextXML"
     },
     {
-      "key": "kaslow",
-      "source": "Kaslow et al., Archives of Internal Medicine",
-      "title": "Liver extract-folic acid-cyanocobalamin vs placebo for chronic fatigue syndrome",
-      "date": "Nov 1989",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/2684076/"
+      "key": "meta",
+      "source": "Lee and Heo, Nutrients (PubMed)",
+      "title": "Adjunctive Ashwagandha (Withania somnifera) Supplementation and Resistance-Training Adaptations in Healthy Adults: A Systematic Review and Random-Effects Meta-Analysis",
+      "date": "Aug 27, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42738987/"
     },
     {
-      "key": "methfda",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for methionine products",
-      "date": "accessed Oct 31, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:methionine&limit=50"
+      "key": "li",
+      "source": "Li et al., Nutrients (PubMed)",
+      "title": "Effects of Withania somnifera (Ashwagandha) Supplementation on Exercise Performance: A Systematic Review and Three-Level Meta-Analysis",
+      "date": "Jun 12, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42356302/"
     },
     {
-      "key": "inosfda",
-      "source": "FDA (openFDA, Drugs@FDA data)",
-      "title": "Search for inositol products",
-      "date": "accessed Oct 31, 2026",
-      "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:inositol&limit=50"
+      "key": "fornalik",
+      "source": "Fornalik et al., Planta Medica (PubMed)",
+      "title": "Hormonal Modulation with Withania somnifera: Systematic Review and Meta-Analysis of Randomized-controlled Trials",
+      "date": "Feb 25, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740946/"
     },
     {
-      "key": "b6",
-      "source": "DailyMed",
-      "title": "Pyridoxine Hydrochloride Injection, USP prescribing information (Fresenius Kabi)",
-      "date": "Oct 2024",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a56d11c0-b033-4201-85ff-fc710506481a"
+      "key": "ctg",
+      "source": "ClinicalTrials.gov",
+      "title": "NCT07803068: The Impact of 12-week Ashwagandha Supplementation Induced by Resistance Training on Strength ... in Physically Active Male Adults",
+      "date": "Sep 3, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT07803068"
     },
     {
-      "key": "carnitor",
-      "source": "DailyMed",
-      "title": "Carnitor (levocarnitine) injection prescribing information",
-      "date": "Nov 2023",
-      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cf801cc4-775e-433d-9d32-e5d9a98981d3"
+      "key": "safety",
+      "source": "Pakhale et al., Phytotherapy Research (PubMed)",
+      "title": "Safety of 8-Week Administration With Ashwagandha (Withania somnifera) Root Extract in Adults With Stress and Anxiety",
+      "date": "Apr 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41943502/"
     },
     {
-      "key": "recalls",
-      "source": "FDA (openFDA, drug recall enforcement reports)",
-      "title": "Recalls of lipotropic and methionine products",
-      "date": "accessed Oct 31, 2026",
-      "url": "https://api.fda.gov/drug/enforcement.json?search=product_description:(lipotropic+OR+%22lipo-b%22+OR+methionine)&limit=30"
+      "key": "bjornsson",
+      "source": "Björnsson et al., Liver International (PubMed)",
+      "title": "Ashwagandha-induced liver injury: A case series from Iceland and the US Drug-Induced Liver Injury Network",
+      "date": "Apr 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/"
+    },
+    {
+      "key": "philips",
+      "source": "Philips et al., Hepatology Communications (PubMed)",
+      "title": "Ashwagandha-induced liver injury: A case series from India and literature review",
+      "date": "Sep 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37756041/"
     },
     {
       "key": "suppqa",
       "source": "FDA",
       "title": "Questions and answers on dietary supplements",
-      "date": "Aug 2026",
+      "date": "accessed Nov 3, 2026",
       "url": "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements"
-    },
-    {
-      "key": "lopresti",
-      "source": "Lopresti et al., American Journal of Men’s Health",
-      "title": "A randomized, double-blind, placebo-controlled, crossover study examining the hormonal and vitality effects of ashwagandha (Withania somnifera) in aging, overweight males",
-      "date": "Mar 2019",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/30854916/"
-    },
-    {
-      "key": "bjornsson",
-      "source": "Björnsson et al., Liver International",
-      "title": "Ashwagandha-induced liver injury: a case series from Iceland and the US Drug-Induced Liver Injury Network",
-      "date": "Apr 2020",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/31991029/"
     },
     {
       "key": "dk",
       "source": "Danish Veterinary and Food Administration",
-      "title": "Ashwagandha i kosttilskud og drikkevarer (ashwagandha in supplements and drinks)",
-      "date": "accessed Nov 1, 2026",
+      "title": "Ashwagandha i kosttilskud og drikkevarer (Ashwagandha in supplements and drinks)",
+      "date": "accessed Nov 3, 2026",
       "url": "https://www.foedevarestyrelsen.dk/kost-og-foedevarer/alt-om-mad/kemi-i-maden/mad-med-uoensket-kemi/ashwagandha"
     },
     {
-      "key": "dtu",
-      "source": "DTU National Food Institute (for the Danish food agency)",
-      "title": "Risikovurdering af roden fra Withania somnifera (risk assessment of Withania somnifera root)",
-      "date": "May 2020",
-      "url": "https://www.foedevarestyrelsen.dk/Media/639171962718095885/Withania%20somnifera%20risikovurdering%2015%20maj%202020-a.pdf"
+      "key": "cot",
+      "source": "UK Committee on Toxicity",
+      "title": "8th September 2026 Committee on Toxicity Meeting",
+      "date": "Sep 2026",
+      "url": "https://www.gov.uk/government/publications/8th-september-2026-committee-on-toxicity-meeting"
     },
     {
       "key": "wada",
