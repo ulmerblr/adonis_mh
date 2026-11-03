@@ -4,9 +4,9 @@ import { useEffect, useRef, useState } from 'react';
 import { LISTEN } from '@/content/listen';
 
 /**
- * Home only: "Worth a listen", the monthly editor's pick (content/listen.ts), in the Magazine Section's right column under
- * How we report. A compact, lazy-loaded Spotify embed; if the embed does not load (blocked or failed), a plain
- * "Listen on Spotify" link takes its place.
+ * Home only: "Worth a listen", the monthly editor's pick (content/listen.ts), the first card in the Magazine Section's
+ * right column, above Updates and How we report. A compact, lazy-loaded Spotify embed; if the embed does not load (blocked
+ * or failed), a plain "Listen on Spotify" link takes its place.
  */
 export function ListenCard() {
   const p = LISTEN;

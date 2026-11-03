@@ -11,7 +11,7 @@ import type { LaneKey } from '@/lib/library';
  * A lane's story in the Magazine Section spread, as Home and the lane pages show it: the photo (or sand placeholder)
  * beside In this issue, then the article beside the Updates and How we report cards. Home passes its cover lane.
  */
-export function LaneSpread({ lane, laneMark = false, sideExtra }: { lane: LaneKey; laneMark?: boolean; sideExtra?: React.ReactNode }) {
+export function LaneSpread({ lane, laneMark = false, sideTop }: { lane: LaneKey; laneMark?: boolean; sideTop?: React.ReactNode }) {
   const st = STORIES[lane];
   const photo = st.photo ? { ...st.photo, file: `/images/photos/${st.photo.file}` } : undefined;
   return (
@@ -21,9 +21,9 @@ export function LaneSpread({ lane, laneMark = false, sideExtra }: { lane: LaneKe
         <InThisIssue entries={issueEntries(lane)} laneMark={laneMark} />
         <StoryArticleNotes lane={lane} byline={st.byline} body={st.body} notes={st.notes} glance={st.glance} pull={st.pull} />
         <aside className="spreadSide">
+          {sideTop}
           <UpdatesCard />
           <StandardsCard />
-          {sideExtra}
         </aside>
       </div>
     </section>

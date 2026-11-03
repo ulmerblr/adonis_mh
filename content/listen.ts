@@ -1,5 +1,5 @@
 /**
- * EDU PROMPT 32: "Worth a listen", the monthly editor's pick (Home, Magazine Section right column, under How we report).
+ * EDU PROMPT 32: "Worth a listen", the monthly editor's pick (Home, Magazine Section right column, the first card: above Updates and How we report).
  * To change the pick: run `node scripts/archive-listen.mjs` (saves the current pick to content/archive/listen/ with its
  * dates), then edit the fields below. Title, show and release date come from Spotify's oEmbed endpoint and episode page.
  */

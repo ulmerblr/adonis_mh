@@ -12,7 +12,7 @@ export default function Home() {
     <>
       {/* The Magazine Section: everything between the header and the treatments section. */}
       <MagazineSection>
-        <LaneSpread lane={coverLane} sideExtra={<ListenCard />} />
+        <LaneSpread lane={coverLane} sideTop={<ListenCard />} />
       </MagazineSection>
 
       {/* The treatments section */}
