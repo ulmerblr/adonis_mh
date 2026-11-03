@@ -1,0 +1,111 @@
+{
+  "archived": "Nov 3, 2026",
+  "published": "Nov 2, 2026",
+  "note": "skin lane story from Nov 2, 2026 until Nov 3, 2026, when the lane story was replaced under the new Article rule (EDU PROMPT 35). Kept for the lane archive; not shown on the site.",
+  "key": "skin",
+  "headline": [
+    "Acne pill red tape",
+    "loosens."
+  ],
+  "dek": "FDA eased the iPLEDGE rules for isotretinoin in February; the warnings men care about did not change.",
+  "backdrop": "#AF5533",
+  "headlineColor": "#F7F3EA",
+  "photoAlt": "A man holds a folded drug label insert.",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "Approved Feb 9, 2026",
+      "line": "Start moved from Aug 8 to Nov 15, 2026.",
+      "src": {
+        "href": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ipledge-risk-evaluation-and-mitigation-strategy-rems",
+        "label": "FDA, iPLEDGE REMS page"
+      }
+    },
+    {
+      "icon": "people",
+      "label": "For men",
+      "line": "No monthly counseling records; no 30-day pickup window."
+    },
+    {
+      "icon": "shield",
+      "label": "Unchanged",
+      "line": "Label warnings on depression, suicide and sexual side effects."
+    }
+  ],
+  "pull": {
+    "quote": "it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.",
+    "note": "label"
+  },
+  "body": [
+    "On February 9, 2026, FDA approved changes to iPLEDGE, the restricted program that every American patient must go through to get [[/isotretinoin|isotretinoin]], a prescription acne pill. The agency said the changes were meant “to minimize burden on patients, prescribers, and pharmacies while maintaining the safe use of isotretinoin.”[^ipledge] They were to take effect 180 days later, on August 8. They did not. FDA moved the start to November 15, 2026, “to allow additional time to test iPLEDGE REMS system updates”[^ipledge] and to avoid gaps in patients’ treatment.[^ipledge]",
+    "The program exists because of birth defects. Isotretinoin is approved for patients 12 and older who are not pregnant and have severe nodular acne that other treatments, including antibiotics, have not cleared.[^qa] Because of the risk of severe birth defects, it has been sold only through iPLEDGE since 2005, which became a formal Risk Evaluation and Mitigation Strategy (REMS) in 2010.[^qa] Since December 2021, patients have been placed in one of two groups: those who can get pregnant and those who cannot.[^ipledge] Men are in the second group. Under the current label they must still enroll and comply, “including to not share isotretinoin and not donate blood.”[^label]",
+    "For that second group, the February changes are mostly paperwork. FDA wrote: “Patients who cannot get pregnant must be counseled at enrollment. Prescribers should reinforce counseling throughout the course of treatment; however, monthly documentation of counseling in the REMS for patients who cannot get pregnant is no longer required.”[^ipledge] At the pharmacy, “There is no longer a 30-day prescription window for patients who cannot get pregnant.”[^ipledge] If such a patient does not pick up a prescription, the pharmacy must reverse the authorization in the system and return the drug to stock.[^ipledge]",
+    "The bigger changes are for patients who can get pregnant. If the prescriber permits, they may take pregnancy tests outside a medical setting, such as at home, during and after treatment; the tests before treatment must still be done in a medical setting.[^ipledge] Prescribers who allow home tests must set up processes to limit misread or falsified results.[^ipledge] A patient who misses the 7-day pickup window can repeat the test straight away instead of waiting, the end of what FDA called the “19-day lockout”.[^ipledge]",
+    "In November 2023, FDA told the makers of isotretinoin to modify iPLEDGE, after advice from two FDA advisory committees that met in March 2023, and public feedback.[^qa] It concluded that the changes would reduce burden “while continuing to ensure the benefits outweigh the risk of embryo-fetal toxicity (life-threatening severe birth defects).”[^ipledge] Since October 2023 it has used enforcement discretion, not objecting when prescribers rely on home pregnancy tests, and will do so until the new rules start.[^ipledge]",
+    "Dermatologists welcomed the change. Susan C. Taylor, president of the American Academy of Dermatology, told Healio: “These changes will reduce substantial administrative burdens for both prescribers and patients while maintaining patient safety.”[^healio] Healio noted a 2020 JAMA Dermatology paper that tied the program to a 30% drop in isotretinoin prescriptions, in both patient groups.[^healio] The dermatologist John Barbieri added: “Given past issues with the iPLEDGE platform, it will be important that the FDA and the Isotretinoin Products Manufacturers Group work closely with patient, dermatology and pharmacy stakeholders to ensure that these reforms are implemented smoothly.”[^healio]",
+    "For men, the warnings matter more than the paperwork, and none of them changed; the goal of iPLEDGE is to prevent birth defects.[^qa] The label for Absorica, one brand, says the drug “may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors”.[^label] Prescribers must ask about psychiatric history first and check for symptoms at each visit.[^label] Among patients who reported depression, the label notes, “some reported that the depression subsided with discontinuation of treatment and recurred with reinstitution of treatment.”[^label]",
+    "Whether the drug causes those problems is still argued. A Swedish study linked 5,756 people aged 15 to 49 prescribed isotretinoin for severe acne in the 1980s to hospital and death records up to 2001; 128 were admitted for attempted suicide.[^sundstrom] Attempts ran above the expected rate during and up to six months after treatment, but the study was observational, and the authors wrote: “However, the risk of attempted suicide was already rising before treatment, so an additional risk due to the isotretinoin treatment cannot be established.”[^sundstrom]",
+    "Sexual side effects sit in the same uncertain place. The label lists “sexual dysfunction that may continue after discontinuation of treatment (including erectile dysfunction, decreased libido, decreased vaginal lubrication, and vaginal dryness)”[^label] among reactions from trials or reports after approval, adding that “it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.”[^label] In a study of 50 men aged 17 to 32, it reports no significant effects on sperm count or motility.[^label] In 2017 the UK regulator, the MHRA, reported an EU review that added erectile dysfunction and lower libido to product information, writing that “One possible mechanism for this effect may be through a reduction in plasma testosterone levels.”[^mhra2017] The UK had then received 49 reports of erectile or ejaculation problems since 1985, among roughly 30,000 patients treated a year.[^mhra2017]",
+    "Britain went further than the US. In 2023 an expert group of the Commission on Human Medicines concluded that “it was not possible to say that isotretinoin definitely caused many of the short-term or long-term psychiatric and sexual side effects”,[^mhra2023] but asked for regular monitoring and more research.[^mhra2023] UK prescribers must ask about sexual function before treatment and monitor it at each follow-up visit; on January 22, 2026 the UK dropped its rule that under-18s need two prescribers to agree.[^mhra2026]",
+    "What is still unknown is how often lasting sexual or mental health effects happen and whether the drug causes them. No study described here settles it. What comes next is a date: on November 15, 2026 the new iPLEDGE rules are due to go live, and FDA tells patients and prescribers to check the iPLEDGE REMS website or contact center for the details.[^ipledge]"
+  ],
+  "notes": [
+    {
+      "key": "ipledge",
+      "source": "FDA",
+      "title": "iPLEDGE Risk Evaluation and Mitigation Strategy (REMS)",
+      "date": "Jun 16, 2026",
+      "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/ipledge-risk-evaluation-and-mitigation-strategy-rems"
+    },
+    {
+      "key": "qa",
+      "source": "FDA",
+      "title": "Questions and Answers on the iPLEDGE REMS",
+      "date": "Jun 16, 2026",
+      "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/questions-and-answers-ipledge-rems"
+    },
+    {
+      "key": "label",
+      "source": "DailyMed",
+      "title": "Absorica / Absorica LD (isotretinoin) prescribing information",
+      "date": "Aug 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ef0cff8-19c1-4441-b780-fca6c7ee1615"
+    },
+    {
+      "key": "healio",
+      "source": "Healio",
+      "title": "FDA approves changes to iPLEDGE pregnancy test requirements for isotretinoin",
+      "date": "Feb 11, 2026",
+      "url": "https://www.healio.com/news/dermatology/20260211/fda-approves-changes-to-ipledge-pregnancy-test-requirements-for-isotretinoin"
+    },
+    {
+      "key": "sundstrom",
+      "source": "Sundström et al., BMJ",
+      "title": "Association of suicide attempts with acne and treatment with isotretinoin: retrospective Swedish cohort study",
+      "date": "Nov 2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21071484/"
+    },
+    {
+      "key": "mhra2017",
+      "source": "MHRA",
+      "title": "Isotretinoin (Roaccutane): rare reports of erectile dysfunction and decreased libido",
+      "date": "Oct 26, 2017",
+      "url": "https://www.gov.uk/drug-safety-update/isotretinoin-roaccutane-rare-reports-of-erectile-dysfunction-and-decreased-libido"
+    },
+    {
+      "key": "mhra2023",
+      "source": "MHRA",
+      "title": "Outcome of the expert review of the safety of isotretinoin",
+      "date": "Apr 2023",
+      "url": "https://www.gov.uk/government/news/outcome-of-the-expert-review-of-the-safety-of-isotretinoin"
+    },
+    {
+      "key": "mhra2026",
+      "source": "MHRA",
+      "title": "Isotretinoin: changes to prescribing guidance and additional risk minimisation measures",
+      "date": "Jan 22, 2026",
+      "url": "https://www.gov.uk/drug-safety-update/isotretinoin-changes-to-prescribing-guidance-and-additional-risk-minimisation-measures"
+    }
+  ]
+}
