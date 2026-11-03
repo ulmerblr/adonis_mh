@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useId, useLayoutEffect, useRef, useState } from 'react';
 import { LANES, countWords, type LaneKey } from '@/lib/library';
-import { ROWS, matches, norm, type Row } from '@/lib/finder-rows';
+import { ROWS, matches, norm, ranked, type Row } from '@/lib/finder-rows';
 import { Label, Pill } from './ext';
 
 /**
@@ -23,7 +23,8 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
   const q = norm(text);
   const inTab = (r: Row) => tab === 'all' || r.lane === tab;
   const pass = (r: Row) => matches(r, q) && (!peptidesOnly || !!r.peptide);
-  const shown = ROWS.filter((r) => inTab(r) && pass(r));
+  // Best match first (exact names and aliases, then prefixes, then forgiving matches); with no search, the site's order.
+  const shown = ranked(ROWS.filter((r) => inTab(r) && (!peptidesOnly || !!r.peptide)), q);
   const countFor = (k: LaneKey | 'all') => ROWS.filter((r) => (k === 'all' || r.lane === k) && pass(r)).length;
 
   // Hold the page still across a tab switch (a shorter list must not pull the page up).
@@ -49,6 +50,8 @@ export function TreatmentFinder({ lane, hideTabs = false }: { lane?: LaneKey; hi
 
   const groups = tab === 'all' && !hideTabs
     ? LANES.map((l) => ({ lane: l, rows: shown.filter((r) => r.lane === l.key) })).filter((g) => g.rows.length)
+        // While searching, the lane holding the best match comes first.
+        .sort((a, b) => shown.indexOf(a.rows[0]) - shown.indexOf(b.rows[0]))
     : [{ lane: null, rows: shown }];
   const panelId = `${id}-results`;
 

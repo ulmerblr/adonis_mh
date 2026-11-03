@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { LANES, countWords, type LaneKey } from '@/lib/library';
-import { ROWS, matches, norm, type Row } from '@/lib/finder-rows';
+import { ROWS, norm, ranked, type Row } from '@/lib/finder-rows';
 import { Label, Pill } from '../ext';
 import { LIST_KEY } from './back-link';
 
@@ -61,7 +61,7 @@ export function AppList() {
   };
 
   const q = norm(text);
-  const shown = items(lane).filter((r) => matches(r, q) && (!peptidesOnly || !!r.peptide));
+  const shown = ranked(items(lane).filter((r) => !peptidesOnly || !!r.peptide), q);
   const chipList: { key: LaneKey | 'all'; name: string }[] = [{ key: 'all', name: 'All' }, ...LANES.map((l) => ({ key: l.key, name: l.name }))];
 
   return (
