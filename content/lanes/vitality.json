@@ -1,51 +1,56 @@
 {
   "key": "vitality",
   "headline": [
-    "Cialis behind",
-    "the counter?"
+    "Tadalafil,",
+    "every day."
   ],
-  "dek": "Opella has finished a US trial of nonprescription Cialis. Poland and the UK already allow it.",
+  "dek": "The research behind daily 5 mg tadalafil, and the finished US trial testing it without a prescription.",
   "backdrop": "#5F1317",
   "headlineColor": "#F7F3EA",
   "photoAlt": "A barber in a black smock holds a folded leaflet.",
-  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
+  "byline": "Adonis Men’s Health · Checked Nov 3, 2026 · Clinical review pending",
   "glance": [
     {
+      "icon": "shield",
+      "label": "Approved uses",
+      "line": "Daily tadalafil is approved in the US for ED, for BPH symptoms, and for both.",
+      "src": {
+        "href": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895",
+        "label": "Cialis label (DailyMed)"
+      }
+    },
+    {
+      "icon": "people",
+      "label": "The evidence",
+      "line": "Placebo-controlled trials of 12 to 26 weeks; longer data are open-label."
+    },
+    {
       "icon": "calendar",
-      "label": "The US trial",
-      "line": "Started Jan 2025, completed Apr 2026, 2,212 enrolled. No results posted yet.",
+      "label": "The US switch trial",
+      "line": "2,212 enrolled, completed Apr 2026. No results posted yet.",
       "src": {
         "href": "https://clinicaltrials.gov/study/NCT06805513",
         "label": "ClinicalTrials.gov NCT06805513"
       }
-    },
-    {
-      "icon": "shield",
-      "label": "US status today",
-      "line": "Cialis is prescription-only. FDA has approved no nonprescription drug with an ACNU."
-    },
-    {
-      "icon": "people",
-      "label": "Abroad",
-      "line": "Poland switched a 10 mg tadalafil in 2022; the UK made Cialis Together a pharmacy medicine in 2023."
     }
   ],
   "pull": {
-    "quote": "Right now, there are no FDA-approved nonprescription drugs with an ACNU.",
-    "note": "acnu"
+    "quote": "the incremental benefit of CIALIS beyond 26 weeks is unknown.",
+    "note": "label"
   },
   "body": [
-    "In the United States, [[/tadalafil|tadalafil]], sold as Cialis, is still a prescription drug.[^label] The company that holds its consumer rights wants to change that, and this year it finished the main study behind that plan. That study was stuck for more than two years before it began.",
-    "The company is Opella, Sanofi’s consumer health business. Sanofi has been working on an over-the-counter version since it licensed those rights from Eli Lilly, which developed Cialis, in 2014, for Europe, the US, Canada and Australia.[^pharmaphorum] In October 2024, Sanofi and the investment firm CD&R announced a plan to transfer a 50% controlling stake in Opella to CD&R, with Sanofi remaining a significant shareholder.[^lift]",
-    "The key evidence for such a switch is an actual use trial, which tests whether ordinary people can judge for themselves whether a drug suits them and then take it correctly. In May 2022, Sanofi said FDA had told it that its planned trial had been “placed on clinical hold due to matters surrounding the protocol design.”[^hold] It added: “Sanofi’s AUT has not yet recruited any patients.”[^hold] Sanofi did not say publicly what those matters were, and this story has found no FDA document that does.",
-    "The hold lasted until January 21, 2025, when Opella announced that FDA “has lifted a clinical hold on its planned actual use trial (AUT) to support the switch of Cialis (tadalafil) from a prescription to an over-the-counter medicine.”[^lift] Opella described the purpose of such a trial as to “confirm that consumers can self-diagnose and treat themselves appropriately without the help of a healthcare provider.”[^lift] Its chief science officer, Josephine Fubara, called the trial “pivotal in ensuring the safety and proper self-selection of Cialis for over-the-counter use.”[^lift]",
-    "The trial’s public record shows how it was run. It is listed as a phase 3, open-label, single-group study sponsored by Sanofi, with no placebo and no comparison group.[^ctg] It was run remotely, by video, through a research firm in Salt Lake City, and was open only to people living in the US, excluding residents of Massachusetts.[^ctg] People aged 16 or older could join the enrolment stage.[^ctg] Only men aged 18 or older who reached a purchase code and bought the product moved on to use it.[^ctg] The product was tadalafil 5 mg tablets, one a day, paired with that mandatory digital health survey, and the record says the trial looked at how people used it “using the labeling and the mandatory health survey assessment (HSA) for duration of 4-months.”[^ctg] It planned to screen about 2,250 people, of whom about 1,000 were expected to reach the use phase.[^ctg]",
-    "Two main questions were set in advance. The first was how often men kept to the recommended time between doses over 120 days, from an electronic diary.[^ctg] The second was whether people whom a medical assessment found should not use the drug were also told not to use it by the health survey.[^ctg] Other measures included whether men taking nitrate medicines were screened out, whether men sought care for a heart attack, priapism, an allergic reaction or sudden loss of vision or hearing within 72 hours of a dose, and how often men took more than two tablets at once.[^ctg] The Cialis label says: “Administration of CIALIS to patients who are using any form of organic nitrate, either regularly and/or intermittently, is contraindicated.”[^label] It also warns of sudden vision and hearing loss and of erections that last too long.[^label]",
-    "The trial started on January 30, 2025, and finished on April 2, 2026, with 2,212 people enrolled; the record was last updated in July 2026.[^ctg] It shows no posted results.[^ctg] Neither Sanofi nor Opella has published findings, so it is not yet known how many men chose correctly, how many who should not have taken the drug were screened out, or whether any serious events occurred.",
-    "The survey is what makes this case new. In December 2024, FDA issued a final rule for a nonprescription drug with an additional condition for nonprescription use, or ACNU, which took effect on May 27, 2025.[^acnu] Under it, a company may propose such a condition when the label “cannot, by itself, provide all the information consumers need to appropriately select or use the drug on their own in the nonprescription setting.”[^acnu] FDA also says: “Right now, there are no FDA-approved nonprescription drugs with an ACNU.”[^acnu] The trade publication HBW Insight reported in January 2025 that the Cialis trial could signal the first proposal FDA would consider under that rule.[^hbwus] Opella has not said publicly which route it will take.",
-    "Europe moved first. In early 2022, the trade publication HBW Insight reported that “Poland becomes the first country in the world to allow erectile dysfunction treatment tadalafil to be bought without a prescription”[^hbwpl] after a switch application from the Polish drugmaker Adamed Pharma. Poland’s medicines register lists that product, Tadalafil MaxOn, as 10 mg film-coated tablets held by Adamed.[^rpl] In March 2023, the UK regulator, the MHRA, made a 10 mg tablet called Cialis Together a pharmacy medicine for men over 18 with erectile dysfunction, sold after a talk with a pharmacist.[^mhra] The MHRA said: “Cialis Together will not be sold to those with severe cardiovascular disorders; at high cardiovascular risk; severe kidney or severe liver failure; or taking certain interacting medicines.”[^mhra] The UK had already reclassified Viagra Connect, a 50 mg [[/sildenafil|sildenafil]] tablet, as a pharmacy medicine in 2018.[^mhra]",
-    "In the UK, a pharmacist decides at the counter.[^mhra] In the US trial, the gatekeeper was a label and a mandatory online survey,[^ctg] which puts heavy weight on its screening questions.",
-    "What happens next depends on data no one outside the company has seen. Opella would need to file an application and FDA would need to approve it; no public timeline exists for either step. Until then, tadalafil in the US remains a prescription medicine, with the same warnings on its label.[^label]"
+    "Most men who know [[/tadalafil|tadalafil]], sold as Cialis, know it as a pill taken before sex. Its US label describes a second way to use it: a low dose once a day, “taken at approximately the same time every day, without regard to timing of sexual activity.”[^label] The label lists daily use for erectile dysfunction and for the urinary symptoms of an enlarged prostate, called benign prostatic hyperplasia or BPH, or for both conditions together.[^label] That daily 5 mg tablet is also what a US trial has just tested for use without a prescription.[^ctg]",
+    "The label gives tadalafil a mean half-life of 17.5 hours in healthy men,[^label] and says a single as-needed dose improved erectile function compared with placebo for up to 36 hours.[^label] With daily dosing, one trial team wrote, dosing and sex no longer need to be timed together.[^porst08]",
+    "For erectile dysfunction, the label reports two placebo-controlled trials of daily dosing in general groups of men and one in men with diabetes, 853 men in all.[^label] The 24-week US trial enrolled 287 men. On a 30-point erectile function score, 5 mg raised the score by 7.0 points, 2.5 mg by 6.1 and placebo by 1.2; the share of attempts ending in successful intercourse rose 35 percentage points on 5 mg against 10 on placebo.[^label] In a 12-week trial outside the US, 268 men were assigned to placebo, 5 mg or 10 mg; at the end, 51.5% of men on 5 mg reported scores in the no-ED range, against 8.3% on placebo, and nine men (3.4%) stopped because of side effects.[^porst06]",
+    "Longer data are thinner and uncontrolled. In open-label extensions, 234 men took 5 mg daily for one year and 238 for two; 58.4% finished the two-year study, and the authors reported no serious adverse events related to the drug.[^porst08] With no placebo group, they cannot separate drug effect from other causes.",
+    "Is daily better than as-needed? A 2013 open-label trial randomized 770 men new to these drugs to tadalafil 5 mg daily, tadalafil 10 mg as needed, or [[/sildenafil|sildenafil]] 50 mg as needed, for 8 weeks, followed by 16 weeks in which men could switch.[^buvat] It measured how long men stayed on their first treatment. An estimated 52.2% stopped daily tadalafil, 42.0% stopped as-needed tadalafil and 66.7% stopped sildenafil, while gains in erectile function did not differ between groups.[^buvat] Several of the authors listed affiliations with Lilly Deutschland,[^hatzi] part of the company that developed Cialis.[^pharmaphorum]",
+    "For BPH, two 12-week trials used the International Prostate Symptom Score.[^label] The first randomized 1,058 men to placebo or one of four daily doses; the second, 325 men to 5 mg or placebo.[^label] On 5 mg, scores fell 4.8 and 5.6 points, against 2.2 and 3.6 on placebo, while peak urine flow was not significantly different from placebo.[^label] The first trial’s authors concluded that “Of the doses studied 5 mg tadalafil appeared to provide a positive risk-benefit profile.”[^roehrborn] A 26-week trial of 696 men starting finasteride found the extra benefit of tadalafil shrank from 1.7 points at week 4 to 1.0 at week 26, and the label states that “the incremental benefit of CIALIS beyond 26 weeks is unknown.”[^label]",
+    "A third trial took 606 men who had both conditions.[^egerdie] After 12 weeks, 5 mg cut the symptom score by 6.1 points against 3.8 on placebo, and raised the erectile function score by 6.5 points against 1.9; 2.5 mg did not significantly improve urinary symptoms.[^label]",
+    "In the 12-week daily ED trials, headache was reported by 6% on 5 mg and 5% on placebo, and indigestion by 5% and 2%; in the BPH trials, headache by 4.1% and 2.3%.[^label] The label is firm on nitrates: “Administration of CIALIS to patients who are using any form of organic nitrate, either regularly and/or intermittently, is contraindicated.”[^label] It also rules out riociguat, a lung blood-pressure drug.[^label] It warns that “Priapism, if not treated promptly, can result in irreversible damage to the erectile tissue.”[^label] It reports rare sudden vision loss and sudden hearing loss with this drug class, citing observational studies of a roughly doubled risk of one eye condition that, it says, do not establish cause.[^label]",
+    "The new US trial asks whether men can decide for themselves that the drug suits them. Opella, Sanofi’s consumer health business, said such trials aim to “confirm that consumers can self-diagnose and treat themselves appropriately without the help of a healthcare provider.”[^lift] The study is phase 3, open-label and single-group, run remotely with US residents.[^ctg] Men 18 or older who completed a mandatory digital health survey with a purchase code, and bought the product, moved on to a 120-day use phase of 5 mg daily.[^ctg] Its main measures were whether men kept to the dosing interval, by electronic diary, and whether the survey turned away people a medical assessment said should not use the drug; others tracked whether nitrate users were screened out and whether men sought care for priapism or sudden vision or hearing loss.[^ctg]",
+    "It began on January 30, 2025, after FDA lifted a hold placed in 2022,[^lift][^hold] and finished on April 2, 2026, with 2,212 people enrolled.[^ctg] No results have been posted.[^ctg]",
+    "As context, an FDA rule effective May 2025 lets a nonprescription drug come with an extra condition such as an online survey, and FDA says: “Right now, there are no FDA-approved nonprescription drugs with an ACNU.”[^acnu] Poland allowed a 10 mg tadalafil without prescription in 2022,[^hbwpl] and in March 2023 the UK made a 10 mg Cialis tablet a pharmacy medicine sold after a talk with a pharmacist.[^mhra]",
+    "What remains unknown is mostly about time and self-judgment: the controlled trials ran 12 to 26 weeks, the longer data have no comparison group, and the actual-use results are not public."
   ],
   "notes": [
     {
@@ -56,11 +61,60 @@
       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895"
     },
     {
+      "key": "ctg",
+      "source": "ClinicalTrials.gov",
+      "title": "Actual Use Trial to Switch Tadalafil 5 mg Tablets From Prescription to Over-the-Counter (NCT06805513)",
+      "date": "updated Jul 13, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT06805513"
+    },
+    {
+      "key": "porst06",
+      "source": "Porst et al., European Urology",
+      "title": "Evaluation of the efficacy and safety of once-a-day dosing of tadalafil 5mg and 10mg in the treatment of erectile dysfunction",
+      "date": "Aug 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16766116/"
+    },
+    {
+      "key": "porst08",
+      "source": "Porst et al., Journal of Sexual Medicine",
+      "title": "Long-term safety and efficacy of tadalafil 5 mg dosed once daily in men with erectile dysfunction",
+      "date": "Sep 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18557812/"
+    },
+    {
+      "key": "buvat",
+      "source": "Buvat et al., Journal of Sexual Medicine",
+      "title": "Adherence to initial PDE-5 inhibitor treatment: randomized open-label study comparing tadalafil once a day, tadalafil on demand, and sildenafil on demand",
+      "date": "Jun 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23551622/"
+    },
+    {
+      "key": "hatzi",
+      "source": "Hatzimouratidis et al., International Journal of Impotence Research",
+      "title": "Psychosocial outcomes after initial treatment of erectile dysfunction with tadalafil once daily, tadalafil on demand or sildenafil citrate on demand",
+      "date": "Nov 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24784894/"
+    },
+    {
       "key": "pharmaphorum",
       "source": "pharmaphorum",
       "title": "Could OTC Cialis for erectile dysfunction reach the US?",
       "date": "Jan 2025",
       "url": "https://pharmaphorum.com/news/could-otc-cialis-erectile-dysfunction-reach-us"
+    },
+    {
+      "key": "roehrborn",
+      "source": "Roehrborn et al., Journal of Urology",
+      "title": "Tadalafil administered once daily for lower urinary tract symptoms secondary to benign prostatic hyperplasia: a dose finding study",
+      "date": "Oct 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18722631/"
+    },
+    {
+      "key": "egerdie",
+      "source": "Egerdie et al., Journal of Sexual Medicine",
+      "title": "Tadalafil 2.5 or 5 mg administered once daily for 12 weeks in men with both erectile dysfunction and signs and symptoms of benign prostatic hyperplasia",
+      "date": "Jan 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21981682/"
     },
     {
       "key": "lift",
@@ -77,13 +131,6 @@
       "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2022/2022-05-30-05-30-00-2452303-en.pdf"
     },
     {
-      "key": "ctg",
-      "source": "ClinicalTrials.gov",
-      "title": "Actual Use Trial to Switch Tadalafil 5 mg Tablets From Prescription to Over-the-Counter (NCT06805513)",
-      "date": "updated Jul 13, 2026",
-      "url": "https://clinicaltrials.gov/study/NCT06805513"
-    },
-    {
       "key": "acnu",
       "source": "FDA",
       "title": "Nonprescription Drug Product with an Additional Condition for Nonprescription Use (ACNU)",
@@ -91,25 +138,11 @@
       "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use"
     },
     {
-      "key": "hbwus",
-      "source": "HBW Insight (Citeline)",
-      "title": "First Green Light In US For ED Drug OTC Switch Actual Use Trial Goes To Opella For Cialis",
-      "date": "Jan 23, 2025",
-      "url": "https://insights.citeline.com/hbw-insight/health/rx-to-otc-switch/first-green-light-in-us-for-ed-drug-otc-switch-actual-use-trial-goes-to-opella-for-cialis-EDTOH7A3CRAO3JXH4EAIDKCEHM/"
-    },
-    {
       "key": "hbwpl",
       "source": "HBW Insight (Citeline)",
       "title": "Poland’s Adamed Secures Tadalafil Rx-To-OTC Switch In World First",
       "date": "Mar 7, 2022",
       "url": "https://insights.citeline.com/RS152274/Polands-Adamed-Secures-Tadalafil-Rx-To-OTC-Switch-In-World-First"
-    },
-    {
-      "key": "rpl",
-      "source": "Poland, Register of Medicinal Products (URPL data)",
-      "title": "Tadalafil MaxOn 10 mg, register entry",
-      "date": "accessed Nov 2, 2026",
-      "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?size=50&name=Tadalafil%20MaxOn"
     },
     {
       "key": "mhra",

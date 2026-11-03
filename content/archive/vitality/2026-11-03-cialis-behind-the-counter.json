@@ -1,0 +1,125 @@
+{
+  "archived": "Nov 3, 2026",
+  "published": "Nov 2, 2026",
+  "note": "vitality lane story from Nov 2, 2026 until Nov 3, 2026, when the lane story was replaced under the new Article rule (EDU PROMPT 35). Kept for the lane archive; not shown on the site.",
+  "key": "vitality",
+  "headline": [
+    "Cialis behind",
+    "the counter?"
+  ],
+  "dek": "Opella has finished a US trial of nonprescription Cialis. Poland and the UK already allow it.",
+  "backdrop": "#5F1317",
+  "headlineColor": "#F7F3EA",
+  "photoAlt": "A barber in a black smock holds a folded leaflet.",
+  "byline": "Adonis Men’s Health · Checked Nov 2, 2026 · Clinical review pending",
+  "glance": [
+    {
+      "icon": "calendar",
+      "label": "The US trial",
+      "line": "Started Jan 2025, completed Apr 2026, 2,212 enrolled. No results posted yet.",
+      "src": {
+        "href": "https://clinicaltrials.gov/study/NCT06805513",
+        "label": "ClinicalTrials.gov NCT06805513"
+      }
+    },
+    {
+      "icon": "shield",
+      "label": "US status today",
+      "line": "Cialis is prescription-only. FDA has approved no nonprescription drug with an ACNU."
+    },
+    {
+      "icon": "people",
+      "label": "Abroad",
+      "line": "Poland switched a 10 mg tadalafil in 2022; the UK made Cialis Together a pharmacy medicine in 2023."
+    }
+  ],
+  "pull": {
+    "quote": "Right now, there are no FDA-approved nonprescription drugs with an ACNU.",
+    "note": "acnu"
+  },
+  "body": [
+    "In the United States, [[/tadalafil|tadalafil]], sold as Cialis, is still a prescription drug.[^label] The company that holds its consumer rights wants to change that, and this year it finished the main study behind that plan. That study was stuck for more than two years before it began.",
+    "The company is Opella, Sanofi’s consumer health business. Sanofi has been working on an over-the-counter version since it licensed those rights from Eli Lilly, which developed Cialis, in 2014, for Europe, the US, Canada and Australia.[^pharmaphorum] In October 2024, Sanofi and the investment firm CD&R announced a plan to transfer a 50% controlling stake in Opella to CD&R, with Sanofi remaining a significant shareholder.[^lift]",
+    "The key evidence for such a switch is an actual use trial, which tests whether ordinary people can judge for themselves whether a drug suits them and then take it correctly. In May 2022, Sanofi said FDA had told it that its planned trial had been “placed on clinical hold due to matters surrounding the protocol design.”[^hold] It added: “Sanofi’s AUT has not yet recruited any patients.”[^hold] Sanofi did not say publicly what those matters were, and this story has found no FDA document that does.",
+    "The hold lasted until January 21, 2025, when Opella announced that FDA “has lifted a clinical hold on its planned actual use trial (AUT) to support the switch of Cialis (tadalafil) from a prescription to an over-the-counter medicine.”[^lift] Opella described the purpose of such a trial as to “confirm that consumers can self-diagnose and treat themselves appropriately without the help of a healthcare provider.”[^lift] Its chief science officer, Josephine Fubara, called the trial “pivotal in ensuring the safety and proper self-selection of Cialis for over-the-counter use.”[^lift]",
+    "The trial’s public record shows how it was run. It is listed as a phase 3, open-label, single-group study sponsored by Sanofi, with no placebo and no comparison group.[^ctg] It was run remotely, by video, through a research firm in Salt Lake City, and was open only to people living in the US, excluding residents of Massachusetts.[^ctg] People aged 16 or older could join the enrolment stage.[^ctg] Only men aged 18 or older who reached a purchase code and bought the product moved on to use it.[^ctg] The product was tadalafil 5 mg tablets, one a day, paired with that mandatory digital health survey, and the record says the trial looked at how people used it “using the labeling and the mandatory health survey assessment (HSA) for duration of 4-months.”[^ctg] It planned to screen about 2,250 people, of whom about 1,000 were expected to reach the use phase.[^ctg]",
+    "Two main questions were set in advance. The first was how often men kept to the recommended time between doses over 120 days, from an electronic diary.[^ctg] The second was whether people whom a medical assessment found should not use the drug were also told not to use it by the health survey.[^ctg] Other measures included whether men taking nitrate medicines were screened out, whether men sought care for a heart attack, priapism, an allergic reaction or sudden loss of vision or hearing within 72 hours of a dose, and how often men took more than two tablets at once.[^ctg] The Cialis label says: “Administration of CIALIS to patients who are using any form of organic nitrate, either regularly and/or intermittently, is contraindicated.”[^label] It also warns of sudden vision and hearing loss and of erections that last too long.[^label]",
+    "The trial started on January 30, 2025, and finished on April 2, 2026, with 2,212 people enrolled; the record was last updated in July 2026.[^ctg] It shows no posted results.[^ctg] Neither Sanofi nor Opella has published findings, so it is not yet known how many men chose correctly, how many who should not have taken the drug were screened out, or whether any serious events occurred.",
+    "The survey is what makes this case new. In December 2024, FDA issued a final rule for a nonprescription drug with an additional condition for nonprescription use, or ACNU, which took effect on May 27, 2025.[^acnu] Under it, a company may propose such a condition when the label “cannot, by itself, provide all the information consumers need to appropriately select or use the drug on their own in the nonprescription setting.”[^acnu] FDA also says: “Right now, there are no FDA-approved nonprescription drugs with an ACNU.”[^acnu] The trade publication HBW Insight reported in January 2025 that the Cialis trial could signal the first proposal FDA would consider under that rule.[^hbwus] Opella has not said publicly which route it will take.",
+    "Europe moved first. In early 2022, the trade publication HBW Insight reported that “Poland becomes the first country in the world to allow erectile dysfunction treatment tadalafil to be bought without a prescription”[^hbwpl] after a switch application from the Polish drugmaker Adamed Pharma. Poland’s medicines register lists that product, Tadalafil MaxOn, as 10 mg film-coated tablets held by Adamed.[^rpl] In March 2023, the UK regulator, the MHRA, made a 10 mg tablet called Cialis Together a pharmacy medicine for men over 18 with erectile dysfunction, sold after a talk with a pharmacist.[^mhra] The MHRA said: “Cialis Together will not be sold to those with severe cardiovascular disorders; at high cardiovascular risk; severe kidney or severe liver failure; or taking certain interacting medicines.”[^mhra] The UK had already reclassified Viagra Connect, a 50 mg [[/sildenafil|sildenafil]] tablet, as a pharmacy medicine in 2018.[^mhra]",
+    "In the UK, a pharmacist decides at the counter.[^mhra] In the US trial, the gatekeeper was a label and a mandatory online survey,[^ctg] which puts heavy weight on its screening questions.",
+    "What happens next depends on data no one outside the company has seen. Opella would need to file an application and FDA would need to approve it; no public timeline exists for either step. Until then, tadalafil in the US remains a prescription medicine, with the same warnings on its label.[^label]"
+  ],
+  "notes": [
+    {
+      "key": "label",
+      "source": "DailyMed",
+      "title": "Cialis (tadalafil) tablets prescribing information",
+      "date": "Jun 2026",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895"
+    },
+    {
+      "key": "pharmaphorum",
+      "source": "pharmaphorum",
+      "title": "Could OTC Cialis for erectile dysfunction reach the US?",
+      "date": "Jan 2025",
+      "url": "https://pharmaphorum.com/news/could-otc-cialis-erectile-dysfunction-reach-us"
+    },
+    {
+      "key": "lift",
+      "source": "Sanofi (press release)",
+      "title": "Opella reaches study milestone for Cialis",
+      "date": "Jan 21, 2025",
+      "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2025/2025-01-21-06-00-00-3012315-en.pdf"
+    },
+    {
+      "key": "hold",
+      "source": "Sanofi (press release)",
+      "title": "Update on Cialis Rx-to-OTC Switch Actual Use Trial",
+      "date": "May 30, 2022",
+      "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2022/2022-05-30-05-30-00-2452303-en.pdf"
+    },
+    {
+      "key": "ctg",
+      "source": "ClinicalTrials.gov",
+      "title": "Actual Use Trial to Switch Tadalafil 5 mg Tablets From Prescription to Over-the-Counter (NCT06805513)",
+      "date": "updated Jul 13, 2026",
+      "url": "https://clinicaltrials.gov/study/NCT06805513"
+    },
+    {
+      "key": "acnu",
+      "source": "FDA",
+      "title": "Nonprescription Drug Product with an Additional Condition for Nonprescription Use (ACNU)",
+      "date": "Aug 2026",
+      "url": "https://www.fda.gov/drugs/over-counter-otc-nonprescription-drugs/nonprescription-drug-product-additional-condition-nonprescription-use"
+    },
+    {
+      "key": "hbwus",
+      "source": "HBW Insight (Citeline)",
+      "title": "First Green Light In US For ED Drug OTC Switch Actual Use Trial Goes To Opella For Cialis",
+      "date": "Jan 23, 2025",
+      "url": "https://insights.citeline.com/hbw-insight/health/rx-to-otc-switch/first-green-light-in-us-for-ed-drug-otc-switch-actual-use-trial-goes-to-opella-for-cialis-EDTOH7A3CRAO3JXH4EAIDKCEHM/"
+    },
+    {
+      "key": "hbwpl",
+      "source": "HBW Insight (Citeline)",
+      "title": "Poland’s Adamed Secures Tadalafil Rx-To-OTC Switch In World First",
+      "date": "Mar 7, 2022",
+      "url": "https://insights.citeline.com/RS152274/Polands-Adamed-Secures-Tadalafil-Rx-To-OTC-Switch-In-World-First"
+    },
+    {
+      "key": "rpl",
+      "source": "Poland, Register of Medicinal Products (URPL data)",
+      "title": "Tadalafil MaxOn 10 mg, register entry",
+      "date": "accessed Nov 2, 2026",
+      "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?size=50&name=Tadalafil%20MaxOn"
+    },
+    {
+      "key": "mhra",
+      "source": "MHRA",
+      "title": "MHRA reclassifies Cialis Together tablets to a Pharmacy medicine",
+      "date": "Mar 14, 2023",
+      "url": "https://www.gov.uk/government/news/mhra-reclassifies-cialis-together-tablets-to-a-pharmacy-medicine"
+    }
+  ]
+}
