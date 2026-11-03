@@ -9,7 +9,7 @@
     "GLP-3",
     "triple G"
   ],
-  "checked": "November 1, 2026",
+  "checked": "November 3, 2026",
   "peptide": true,
   "lanes": [
     "weight"
@@ -317,7 +317,7 @@
     "us": [
       {
         "t": "lead",
-        "text": "Retatrutide is not FDA approved for any use. FDA says it cannot be used in compounding, and that products sold \"for research purposes\" are being sold illegally. As of November 1, 2026."
+        "text": "Retatrutide is not FDA approved for any use. FDA says it cannot be used in compounding, and that products sold \"for research purposes\" are being sold illegally. Lilly has sued sellers of products said to contain it. As of November 3, 2026."
       },
       {
         "t": "p",
@@ -389,6 +389,271 @@
             ]
           }
         ]
+      },
+      {
+        "t": "h3",
+        "text": "Lawsuits over retatrutide"
+      },
+      {
+        "t": "p",
+        "text": "On August 12, 2026, Eli Lilly and Company, which is developing retatrutide, filed six lawsuits in federal courts against sellers of products said to contain it. In the complaints it filed, Lilly alleges that the “research use only” label is a pretext and that the products are illegal drugs sold for human use. Each of those complaints pleads state unfair-competition and consumer-protection claims; a law firm reports that Lilly asks for permanent injunctions, disgorgement of profits and attorney’s fees, and that only the Aesthetic Envy case adds a federal false-advertising claim. These are Lilly’s allegations; no court has ruled on them. Statuses are as of November 3, 2026, from the court records that could be opened.",
+        "src": [
+          {
+            "url": "https://www.mlex.com/healthcare-authority/other/articles/2512795/lilly-claims-6-vendors-illegally-sold-obesity-drug-candidate",
+            "label": "Law360 Healthcare Authority (MLex), “Lilly Claims 6 Vendors Illegally Sold Obesity Drug Candidate”",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/",
+            "label": "BioPharma Dive, “Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide”",
+            "date": "published Aug 2026"
+          },
+          {
+            "url": "https://www.frierlevitt.com/articles/lilly-retatrutide-lawsuits-ruo-peptide-sellers/",
+            "label": "Frier Levitt (law firm), “Lilly’s Retatrutide Lawsuits: A New Enforcement Playbook”",
+            "date": "published Aug 2026"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "Eli Lilly and Company v. Lone Star Peptide Co. LLC (S.D. Tex., No. 4:26-cv-06562, filed Aug 12, 2026):",
+            "text": "Lilly alleges the defendant presents itself as an online seller of research-use-only products, and that “In reality, it is selling illegal drugs to consumers and profiting from it.” Status: dismissed with prejudice. Lilly filed a notice of voluntary dismissal on October 16, 2026, and the court ordered on November 2, 2026 that “this case is dismissed with prejudice.” The filings state no settlement terms.",
+            "src": [
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103003/gov.uscourts.txsd.2103003.1.0.pdf",
+                "label": "Complaint, Lilly v. Lone Star Peptide Co. (S.D. Tex.)",
+                "date": "dated Aug 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103003/gov.uscourts.txsd.2103003.10.0.pdf",
+                "label": "Notice of voluntary dismissal with prejudice",
+                "date": "dated Oct 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103003/gov.uscourts.txsd.2103003.11.0.pdf",
+                "label": "Order of dismissal on notice",
+                "date": "dated Nov 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eli Lilly and Company v. Texas Peptides Inc. (W.D. Tex., No. 5:26-cv-05146, filed Aug 12, 2026):",
+            "text": "Lilly makes the same core allegation, that the defendant sells illegal drugs under a “research use only” label. Status: Lilly voluntarily dismissed the case with prejudice on October 15, 2026, before the defendant answered. The notice states no settlement terms. A news report that Lilly settled this case could not be confirmed from a source that could be opened.",
+            "src": [
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172926917/gov.uscourts.txwd.1172926917.1.0.pdf",
+                "label": "Complaint, Lilly v. Texas Peptides Inc. (W.D. Tex.)",
+                "date": "dated Aug 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172926917/gov.uscourts.txwd.1172926917.11.0.pdf",
+                "label": "Notice of voluntary dismissal with prejudice",
+                "date": "dated Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eli Lilly and Company v. Aesthetic Envy Cosmetic Centers LLC d/b/a Aesthetic Envy (E.D. Cal., No. 2:26-cv-02764, filed Aug 12, 2026):",
+            "text": "a law firm reports this was the only August case with a federal false-advertising claim, over advertising of “Triple G” therapies; the complaint itself could not be opened. Status: Lilly voluntarily dismissed the case with prejudice on September 11, 2026. The notice states no settlement terms.",
+            "src": [
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.caed.497764/gov.uscourts.caed.497764.6.0.pdf",
+                "label": "Notice of voluntary dismissal with prejudice, Lilly v. Aesthetic Envy (E.D. Cal.)",
+                "date": "dated Sep 2026"
+              },
+              {
+                "url": "https://www.frierlevitt.com/articles/lilly-retatrutide-lawsuits-ruo-peptide-sellers/",
+                "label": "Frier Levitt (law firm), “Lilly’s Retatrutide Lawsuits: A New Enforcement Playbook”",
+                "date": "published Aug 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eli Lilly and Company v. Astra LLC d/b/a Astra Peptides (W.D. Tex., No. 5:26-cv-05147, filed Aug 12, 2026):",
+            "text": "Lilly alleges the defendant sells illegal drugs under a “research use only” label. An amended complaint filed August 31, 2026 added a second defendant trading under the same name whose legal identity Lilly says is unknown. Status: pending; the latest public filing found is a court advisory of October 1, 2026.",
+            "src": [
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172926918/gov.uscourts.txwd.1172926918.6.0.pdf",
+                "label": "First amended complaint, Lilly v. Astra LLC (W.D. Tex.)",
+                "date": "dated Aug 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172926918/gov.uscourts.txwd.1172926918.9.0.pdf",
+                "label": "Court advisory concerning discovery",
+                "date": "published Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eli Lilly and Company v. Striker Pharmacy, LLC (S.D. Tex., No. 4:26-cv-06563, filed Aug 12, 2026):",
+            "text": "Lilly alleges the defendant, a compounding pharmacy in Katy, Texas, “compounds weight-management products it claims contain retatrutide” and sells them to medical practices and directly to consumers. Status: pending. A joint plan filed October 5, 2026 says “The parties are currently in settlement discussions.” The court set a schedule with docket call on November 1, 2027. On October 30, 2026 the defendant moved to dismiss, arguing among other things that Lilly lacks standing; no ruling was found.",
+            "src": [
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103004/gov.uscourts.txsd.2103004.1.0.pdf",
+                "label": "Complaint, Lilly v. Striker Pharmacy (S.D. Tex.)",
+                "date": "dated Aug 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103004/gov.uscourts.txsd.2103004.27.0.pdf",
+                "label": "Revised joint discovery/case management plan",
+                "date": "dated Oct 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103004/gov.uscourts.txsd.2103004.28.0.pdf",
+                "label": "Scheduling order",
+                "date": "published Oct 2026"
+              },
+              {
+                "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2103004/gov.uscourts.txsd.2103004.31.0.pdf",
+                "label": "Defendant’s motion to dismiss",
+                "date": "dated Oct 2026"
+              }
+            ]
+          },
+          {
+            "lead": "Eli Lilly and Company v. Legendary Peptides, LLC (E.D. Tex., No. 1:26-cv-00347, filed Aug 12, 2026):",
+            "text": "listed among the August cases in a legal news case summary. The complaint and docket could not be opened, so its claims and current status are not described here.",
+            "src": [
+              {
+                "url": "https://www.mlex.com/healthcare-authority/other/articles/2512795/lilly-claims-6-vendors-illegally-sold-obesity-drug-candidate",
+                "label": "Law360 Healthcare Authority (MLex), “Lilly Claims 6 Vendors Illegally Sold Obesity Drug Candidate”",
+                "date": "published Aug 2026"
+              },
+              {
+                "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/",
+                "label": "BioPharma Dive, “Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide”",
+                "date": "published Aug 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "On October 8, 2026, Lilly filed further suits, reported by legal news services; the complaints could not be opened, so they are not described beyond the reports. One report says Lilly “has sued an Arizona weight loss clinic and three online sellers, alleging they are illegally selling products containing the pharmaceutical giant’s investigational molecule.” The cases listed are Eli Lilly & Co v. American Peptides L L C (W.D. La., No. 5:26-cv-04146), Eli Lilly and Company v. Cenexa Labs LLC (S.D. Tex., No. 4:26-cv-08806), Eli Lilly and Company v. Brown (N.D. Tex., No. 3:26-cv-03514), and Eli Lilly and Company v. MedShape Weight Loss Clinic LLC (D. Ariz., No. 2:26-cv-07361). Bloomberg Law also names Medrein Health & Aesthetics as a target; its court and case number could not be confirmed. Statuses not confirmed.",
+        "src": [
+          {
+            "url": "https://www.mlex.com/healthcare-authority/policy-compliance/articles/2536018/eli-lilly-lobs-4-suits-alleging-illegal-weight-loss-drug-sales",
+            "label": "Law360 Healthcare Authority (MLex), “Eli Lilly Lobs 4 Suits Alleging Illegal Weight Loss Drug Sales”",
+            "date": "published Oct 2026"
+          },
+          {
+            "url": "https://news.bloomberglaw.com/health-law-and-business/eli-lilly-sues-more-vendors-selling-illicit-weight-loss-drugs",
+            "label": "Bloomberg Law, “Eli Lilly Sues More Vendors Selling ‘Illicit’ Weight Loss Drugs”",
+            "date": "published Oct 2026"
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "A separate case concerns how FDA classifies retatrutide. In Eli Lilly and Company v. Kennedy (S.D. Ind., No. 1:24-cv-01503), Lilly challenged FDA’s refusal to treat retatrutide as a biological product. On September 30, 2025 the court upheld FDA’s finding that retatrutide is not a “protein,” but set aside its finding that retatrutide is not “analogous” to one, ruling that FDA “must revisit its determination” on that point. A reported appeal could not be confirmed from a court record.",
+        "src": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/USCOURTS-insd-1_24-cv-01503/pdf/USCOURTS-insd-1_24-cv-01503-0.pdf",
+            "label": "Order on cross-motions for summary judgment, Lilly v. Kennedy (S.D. Ind.), GovInfo",
+            "date": "dated Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "h3",
+        "text": "FDA warning letters naming retatrutide"
+      },
+      {
+        "t": "p",
+        "text": "FDA says it has warned companies that illegally sold unapproved drugs containing retatrutide and other GLP-1 drugs, falsely labeled for research or not for human consumption. The letters below were opened on fda.gov. In each, FDA treats the retatrutide products as unapproved new drugs; the September 2025 letters add that retatrutide cannot be used in compounding because it “is not the subject of an applicable USP or NF monograph, is not a component of an FDA-approved human drug, and does not appear on the 503A bulks list.”",
+        "src": [
+          {
+            "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+            "label": "FDA, “FDA’s concerns with unapproved GLP-1 drugs used for weight loss”",
+            "date": "updated Oct 2026"
+          },
+          {
+            "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glp-1-solution-715883-09092025",
+            "label": "FDA warning letter, GLP-1 Solution",
+            "date": "published Sep 2025"
+          }
+        ]
+      },
+      {
+        "t": "list",
+        "items": [
+          {
+            "lead": "December 10, 2024:",
+            "text": "Xcel Research LLC; Swisschems; Prime Vitality, Inc. dba Prime Peptides; Summit Research Peptides. Despite labels calling the products research chemicals, FDA told Swisschems that “evidence obtained from your website establishes that your products are intended to be drugs for human use.”",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/xcel-research-llc-694608-12102024",
+                "label": "FDA warning letter, Xcel Research LLC",
+                "date": "published Dec 2024"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/swisschems-695663-12102024",
+                "label": "FDA warning letter, Swisschems",
+                "date": "published Dec 2024"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/prime-vitality-inc-dba-prime-peptides-695156-12102024",
+                "label": "FDA warning letter, Prime Vitality, Inc. dba Prime Peptides",
+                "date": "published Dec 2024"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/summit-research-peptides-695607-12102024",
+                "label": "FDA warning letter, Summit Research Peptides",
+                "date": "published Dec 2024"
+              }
+            ]
+          },
+          {
+            "lead": "September 9, 2025:",
+            "text": "GLP-1 Solution; GenLabMeds; Amazing Meds; EA WORKS Limited Liability Company dba Trust Labs; ASN-LABS, all over retatrutide sold as compounded products. FDA wrote that the “retatrutide drug products are unapproved new drugs and misbranded drugs”.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glp-1-solution-715883-09092025",
+                "label": "FDA warning letter, GLP-1 Solution",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/genlabmeds-09092025",
+                "label": "FDA warning letter, GenLabMeds",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazing-meds-715506-09092025",
+                "label": "FDA warning letter, Amazing Meds",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/ea-works-limited-liability-company-dba-trust-labs-715798-09092025",
+                "label": "FDA warning letter, EA WORKS LLC dba Trust Labs",
+                "date": "published Sep 2025"
+              },
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/asn-labs-09092025",
+                "label": "FDA warning letter, ASN-LABS",
+                "date": "published Sep 2025"
+              }
+            ]
+          },
+          {
+            "lead": "March 31, 2026:",
+            "text": "Gram Peptides. FDA wrote: “Based on our review, these products are unapproved new drugs under section 505(a)”.",
+            "src": [
+              {
+                "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/gram-peptides-721806-03312026",
+                "label": "FDA warning letter, Gram Peptides",
+                "date": "published Mar 2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "p",
+        "text": "Not confirmed: reports of other 2026 warning letters naming retatrutide, and press reports that Lilly settled some of the August cases, could not be checked against a source that could be opened. Lilly’s own August 12, 2026 announcement could not be opened either."
       },
       {
         "t": "callout",
