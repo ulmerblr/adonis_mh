@@ -22,7 +22,7 @@
     {
       "icon": "people",
       "label": "Human trials",
-      "line": "Fewer than a dozen in healthy people, small and short, per the 2025 review."
+      "line": "Fewer than a dozen known trials in healthy people, per the 2025 review."
     },
     {
       "icon": "mortar",
@@ -31,7 +31,7 @@
     }
   ],
   "pull": {
-    "quote": "No human trial has measured lifespan or aging-related disease.",
+    "quote": "What emerges is a complex picture that remains insufficient to affirm or negate the longevity and healthspan extending benefits attributed to rapamycin.",
     "note": "revft"
   },
   "body": [
@@ -44,7 +44,7 @@
     "The review singles out a 2018 pilot from the University of Texas Health Science Center at San Antonio. It randomized 25 generally healthy adults aged 70 to 95 to 1 mg of rapamycin or placebo daily; 11 on the drug and 14 on placebo completed at least 8 weeks.[^kraig] It found no change in glucose handling or insulin sensitivity.[^kraig] They concluded that “short-term RAPA treatment can be used safely in older persons who are otherwise healthy; a trial with a larger sample size and longer treatment duration is warranted.”[^kraig] The review notes some unwelcome shifts in that group, including lower albumin and higher triglycerides and HbA1c.[^revft] Its own modelling of the same data with a biological-age calculator found a drop, but the authors warn: “These data are suggestive at best and are limited by lack of subject level observations.”[^revft]",
     "A larger trial, PEARL, was published in Aging in April 2025. It enrolled 129 healthy adults aged 50 to 85 and gave placebo or 5 mg or 10 mg of compounded rapamycin once a week for 48 weeks, in a decentralized, double-blind design.[^pearl][^pearlct] Its main measure, belly fat on DXA scans, “did not change significantly.”[^pearl] Side effects were similar across groups. Women on 10 mg gained lean mass and reported less pain, and the 5 mg group reported better well-being, while “No other significant effects were observed.”[^pearl] The authors are employees and shareholders of the company that ran the trial, the paper says.[^pearl] FDA notes that “Compounded drugs are not FDA-approved.”[^compound]",
     "Since the review, a trial from New Zealand reported results. RAPA-EX-01, published in April 2026, randomized 40 sedentary adults aged 65 to 85 to 6 mg of sirolimus or placebo once a week for 13 weeks, alongside a home exercise program.[^rapaex] Both groups improved. But the authors wrote that the drug “did not enhance, and in sensitivity analyses, it may have modestly attenuated short-term functional improvements from a home exercise programme in older adults.”[^rapaex] There were more adverse events on sirolimus, 99 against 63, including one serious pneumonia possibly linked to the drug.[^rapaex]",
-    "What is still unknown is whether rapamycin helps healthy people live longer or stay healthier. No human trial has measured lifespan or aging-related disease. The trials so far are small and short, with different doses and measures. The review concluded that the picture “remains insufficient to affirm or negate the longevity and healthspan extending benefits attributed to rapamycin.”[^revft] It also says “there is still no established dose response curve for rapamycin with regard to health span extension.”[^revft]",
+    "What is still unknown is whether rapamycin helps healthy people live longer or stay healthier. No human trial has measured lifespan or aging-related disease. The trials so far are small and short, with different doses and measures. The review concluded: “What emerges is a complex picture that remains insufficient to affirm or negate the longevity and healthspan extending benefits attributed to rapamycin.”[^revft] It also says “there is still no established dose response curve for rapamycin with regard to health span extension.”[^revft]",
     "What comes next is more trials, still small. ClinicalTrials.gov lists a 60-person Phase 1/2 study of mTOR inhibitors in older adults that is recruiting, with primary completion expected in September 2027,[^ct1] and a Phase 2 study of sirolimus to prevent functional decline in older adults, expected in November 2027.[^ct2] For men already using it, the review’s authors wrote: “Off-label prescribing should include vigilant monitoring for adverse effects and open discussion of knowns and unknowns with patients.”[^revft]"
   ],
   "notes": [
