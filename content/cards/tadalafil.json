@@ -6,7 +6,7 @@
   "description": "Small-molecule PDE5 inhibitor taken by mouth; active ingredient in Cialis and Adcirca",
   "status": {
     "class": "PDE5 inhibitor",
-    "studiedFor": "ED, enlarged prostate, lung hypertension",
+    "studiedFor": "ED, enlarged prostate, PAH (lungs)",
     "humanEvidence": "Large trials; FDA approved",
     "usStatus": "FDA approved (Cialis, Adcirca)"
   },

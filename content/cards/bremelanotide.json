@@ -16,7 +16,7 @@
       { "label": "Erections", "detail": "Small studies; 342-man trial", "evidence": "Human", "tile": "erection" },
       { "label": "With sildenafil", "detail": "19 men, single doses", "evidence": "Human", "tile": "erection" }
     ],
-    "note": { "lead": "One trial in men was flagged.", "text": "The 2008 trial of 342 men from Iran carries an expression of concern. Studies in men used a nasal spray or injection." }
+    "note": { "lead": "One trial in men was flagged.", "text": "The 2008 trial of 342 men from Iran has an expression of concern. Studies in men used a nasal spray or injection." }
   },
   "mechanism": {
     "steps": [

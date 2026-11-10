@@ -6,7 +6,7 @@
   "description": "Small-molecule PDE5 inhibitor taken by mouth; active ingredient in Viagra and Revatio",
   "status": {
     "class": "PDE5 inhibitor",
-    "studiedFor": "Erectile dysfunction, lung hypertension",
+    "studiedFor": "Erectile dysfunction, PAH (lungs)",
     "humanEvidence": "Large trials; FDA approved",
     "usStatus": "FDA approved (Viagra, Revatio)"
   },

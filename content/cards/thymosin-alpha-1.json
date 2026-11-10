@@ -13,7 +13,7 @@
   "studiedFor": {
     "items": [
       { "label": "Sepsis", "detail": "Largest trial: no death effect", "evidence": "Human", "tile": "infection" },
-      { "label": "Hepatitis B", "detail": "US Phase 3: benefit not confirmed", "evidence": "Human", "tile": "liver" },
+      { "label": "Hepatitis B", "detail": "US Phase 3: no confirmed benefit", "evidence": "Human", "tile": "liver" },
       { "label": "Flu vaccine add-on", "detail": "Approved use in Italy", "evidence": "Human", "tile": "immune" },
       { "label": "COVID-19 on dialysis", "detail": "Phase 2, open-label", "evidence": "Human", "tile": "infection" }
     ],
