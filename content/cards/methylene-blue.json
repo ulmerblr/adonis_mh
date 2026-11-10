@@ -1,0 +1,65 @@
+{
+  "slug": "methylene-blue",
+  "lane": "brain",
+  "number": "05",
+  "name": "Methylene blue",
+  "description": "Blue thiazine dye; given into a vein as a drug (ProvayBlue) for acquired methemoglobinemia",
+  "status": {
+    "class": "Small molecule (thiazine dye)",
+    "studiedFor": "Methemoglobinemia; memory, mood",
+    "humanEvidence": "FDA approved; small brain studies",
+    "usStatus": "FDA approved (ProvayBlue) · brain use off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Methemoglobinemia", "detail": "IV; approval data in 31 adults", "evidence": "Human", "tile": "blood" },
+      { "label": "Memory and attention", "detail": "Single dose, 26 healthy adults", "evidence": "Human", "tile": "memory" },
+      { "label": "Bipolar symptoms", "detail": "37 people, 6 months", "evidence": "Human", "tile": "mood" },
+      { "label": "Mitochondria", "detail": "Cell and animal models", "evidence": "Animal", "tile": "mitochondria" }
+    ],
+    "note": { "lead": "No energy trials found.", "text": "No published trial of methylene blue for energy or fatigue. A related compound, LMTM, showed no benefit in a Phase 3 Alzheimer's trial." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Methylene blue", "icon": "molecule" },
+      { "label": "Leucomethylene", "icon": "flask" },
+      { "label": "Methemoglobin", "icon": "drop" },
+      { "label": "Hemoglobin", "icon": "drop" }
+    ],
+    "bullets": [
+      "**Label:** converted to leucomethylene blue, which turns methemoglobin back to hemoglobin",
+      "**Label:** appears to be a potent reversible MAO inhibitor",
+      "**Lab and animal:** reroutes electrons in mitochondria; protects brain cells in models",
+      "**For energy in people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["FDA approved IV drug (2016) for methemoglobinemia", "Small brain studies: 26 and 37 people", "No trial for energy or fatigue"]
+  },
+  "notEstablished": [
+    { "text": "Energy effect in people", "icon": "question" },
+    { "text": "Oral use for thinking or mood", "icon": "question" },
+    { "text": "Repeat-dose brain effects", "icon": "brain" }
+  ],
+  "practical": {
+    "halfLife": "About 24 hours (label)",
+    "routes": "Into a vein (label); by mouth in brain studies",
+    "pharmacokinetics": "Mainly UGT conjugation; CYP1A2, 2C19, 2D6 in vitro; liver",
+    "soldAs": "Prescription IV solution (ProvayBlue, generics)",
+    "monitored": "Methemoglobin; serotonin syndrome signs; hemolysis",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (ProvayBlue, 2016), IV only" },
+    { "agency": "FDA", "text": "Boxed warning: serotonin syndrome" },
+    { "agency": "EMA", "text": "Authorised: methaemoglobinaemia; colonoscopy dye" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "FDA (DailyMed), ProvayBlue prescribing information, Jun 2025",
+    "Radiology, single-dose methylene blue and brain MRI, Nov 2016",
+    "Lancet, LMTM Phase 3 trial in Alzheimer's disease, Dec 2016"
+  ],
+  "checked": "Nov 2026"
+}

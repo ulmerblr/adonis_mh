@@ -1,0 +1,62 @@
+{
+  "slug": "tretinoin",
+  "lane": "hair-loss",
+  "number": "05",
+  "name": "Tretinoin",
+  "description": "All-trans retinoic acid, a form of vitamin A acid, used on the skin",
+  "status": {
+    "class": "Retinoid (vitamin A acid)",
+    "studiedFor": "Acne, fine wrinkles, hair loss",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Retin-A, Renova)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Acne", "detail": "Approved use (Retin-A)", "evidence": "Human", "tile": "acne" },
+      { "label": "Fine facial wrinkles", "detail": "Approved use (Renova)", "evidence": "Human", "tile": "sun-skin" },
+      { "label": "Hair loss", "detail": "Off-label; 2 small studies", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Hair loss is off-label.", "text": "A 2007 trial in 31 men found no significant difference between minoxidil alone and minoxidil plus tretinoin." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Tretinoin", "icon": "molecule" },
+      { "label": "Follicle cells", "icon": "cell" },
+      { "label": "Faster turnover", "icon": "trend" },
+      { "label": "Comedones cleared", "icon": "skin" }
+    ],
+    "bullets": [
+      "**Exact mode of action** is unknown, per the label",
+      "**Follicle-lining cells** stick together less and turn over faster",
+      "This pushes out **blackheads and whiteheads** (comedones)",
+      "**Raised minoxidil absorption** through the skin nearly threefold in 19 men"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for acne since 1971", "5 controlled wrinkle trials, 24 weeks", "Hair: 1 small study, 1 trial of 31 men"]
+  },
+  "notEstablished": [
+    { "text": "Daily use beyond 52 weeks", "icon": "calendar" },
+    { "text": "Long-term use for hair loss", "icon": "hair" }
+  ],
+  "practical": {
+    "halfLife": "Not established (not on the label)",
+    "routes": "On the skin (cream, gel)",
+    "pharmacokinetics": "Under 2% absorbed through skin in 7 men (0.05% cream)",
+    "soldAs": "Prescription cream and gel (Retin-A, Renova, generics)",
+    "monitored": "Skin irritation, sun sensitivity",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for acne and fine wrinkles; not hair loss" },
+    { "agency": "FDA", "text": "Compounded hair sprays are not FDA approved" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Retin-A prescribing information (DailyMed), May 2024",
+    "FDA, Renova prescribing information (DailyMed), Feb 2026",
+    "Shin et al., Am J Clin Dermatol, minoxidil vs minoxidil plus tretinoin, 2007"
+  ],
+  "checked": "Nov 2026"
+}

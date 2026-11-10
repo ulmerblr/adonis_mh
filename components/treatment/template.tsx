@@ -3,6 +3,7 @@ import { A, CLINIC, Label } from '@/components/ext';
 import { Track } from '@/components/track';
 import { LANES, type LaneKey } from '@/lib/library';
 import type { Step } from '@/lib/tracks';
+import { CardBlock } from '@/components/card/treatment-card';
 import { TreatmentTabs, type TabDef } from './tabs';
 
 /** The six section tabs, in the template's order: their labels and their address hashes. */
@@ -90,6 +91,8 @@ export function TreatmentPage({ data }: { data: TreatmentData }) {
   const lane = LANES.find((l) => l.key === data.lane)!;
   return (
     <>
+      {/* EDU PROMPT 39: the treatment card and its download buttons, above the write-up. */}
+      <CardBlock slug={data.slug} />
       <section className="govTitle">
         <div className="wrap">
           <h1 className="govH1">{data.name}</h1>

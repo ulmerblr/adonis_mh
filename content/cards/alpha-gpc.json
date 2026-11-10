@@ -1,0 +1,65 @@
+{
+  "slug": "alpha-gpc",
+  "lane": "brain",
+  "number": "01",
+  "name": "Alpha-GPC",
+  "description": "Choline-containing compound (choline alfoscerate), described in research as a precursor of acetylcholine",
+  "status": {
+    "class": "Dietary supplement (choline compound)",
+    "studiedFor": "Dementia, memory, focus, strength",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Dietary supplement · not an approved drug"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Alzheimer's disease", "detail": "261 people, 180 days", "evidence": "Human", "tile": "brain" },
+      { "label": "Mild memory problems", "detail": "100 people, 12 weeks", "evidence": "Human", "tile": "memory" },
+      { "label": "Thinking tests", "detail": "Single dose, 20 trained men", "evidence": "Human", "tile": "memory" },
+      { "label": "Muscle force", "detail": "13 young men, 6 days", "evidence": "Human", "tile": "muscle" }
+    ],
+    "note": { "lead": "Stroke association.", "text": "A Korean health-records study of 12 million adults linked alpha-GPC use to more strokes. It shows an association, not cause." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Alpha-GPC", "icon": "molecule" },
+      { "label": "Choline source", "icon": "flask" },
+      { "label": "Acetylcholine", "icon": "nerve" },
+      { "label": "Memory, thinking", "icon": "brain" }
+    ],
+    "bullets": [
+      "Described in research as a **precursor of acetylcholine**, a nerve messenger",
+      "Lab and animal work was **not reviewed** on the page",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Placebo trials in dementia: 261 and 100 people", "Small, short studies in healthy young men", "Stroke link in a records study (not a trial)"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Cause of the stroke link", "icon": "question" },
+    { "text": "Effects in healthy men", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (capsules) in trials",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement (US); authorised medicine in Italy",
+    "monitored": "ADAS-Cog and dementia scales; side effects, lab tests",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "No approved drug; sold as dietary supplement" },
+    { "agency": "AIFA", "text": "Italy: authorised (Gliatilin, Delecit)" },
+    { "agency": "EMA", "text": "No centrally authorised medicine" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Clin Ther, choline alfoscerate in Alzheimer's disease, Jan 2003",
+    "BMC Geriatr, alpha-GPC in mild cognitive impairment, Sep 2024",
+    "JAMA Netw Open, alpha-GPC use and stroke risk, Nov 2021"
+  ],
+  "checked": "Nov 2026"
+}

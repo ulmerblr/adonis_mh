@@ -1,0 +1,123 @@
+{
+  "slug": "cjc-1295",
+  "lane": "sleep",
+  "number": "03",
+  "name": "CJC-1295",
+  "description": "Lab-made GHRH analogue (29 amino acids) with an added group that binds blood albumin",
+  "status": {
+    "class": "Peptide (GHRH analogue)",
+    "studiedFor": "Growth hormone, IGF-1",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "GH and IGF-1",
+        "detail": "Healthy adults, 2006",
+        "evidence": "Human + animal",
+        "tile": "growth-hormone"
+      },
+      {
+        "label": "HIV belly fat",
+        "detail": "Phase II terminated, no results",
+        "evidence": "Human",
+        "tile": "body-fat"
+      },
+      {
+        "label": "Growth",
+        "detail": "Mice bred without GHRH",
+        "evidence": "Animal",
+        "tile": "growth-hormone"
+      }
+    ],
+    "note": {
+      "lead": "No sleep studies found.",
+      "text": "Human studies measured growth hormone and IGF-1. Sleep was not measured."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "CJC-1295",
+        "icon": "molecule"
+      },
+      {
+        "label": "Binds albumin",
+        "icon": "drop"
+      },
+      {
+        "label": "Pituitary gland",
+        "icon": "brain"
+      },
+      {
+        "label": "GH, then IGF-1",
+        "icon": "hormone"
+      }
+    ],
+    "bullets": [
+      "**Albumin binding** makes it last much longer than natural GHRH",
+      "**Acts on the pituitary,** like GHRH, to release growth hormone",
+      "**In healthy adults,** one injection raised GH for 6 days or more",
+      "**Effects on sleep** are not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": [
+      "Two small dose trials in healthy adults",
+      "Phase II trial terminated, no results posted",
+      "No study of sleep"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Effects on sleep",
+      "icon": "moon"
+    },
+    {
+      "text": "Effects on fertility",
+      "icon": "sperm"
+    },
+    {
+      "text": "Content of products sold",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "5.8 to 8.1 days (healthy adults)",
+    "routes": "Injection under the skin (trials)",
+    "pharmacokinetics": "Binds albumin; IGF-1 above baseline up to 28 days with repeat doses",
+    "soldAs": "Not approved; not on FDA compounding bulks lists",
+    "monitored": "Growth hormone, IGF-1, drug levels, safety (trials)",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Not approved"
+    },
+    {
+      "agency": "FDA",
+      "text": "Was Category 2 (safety risks); nominations withdrawn"
+    },
+    {
+      "agency": "HHS",
+      "text": "Not in the Oct 2026 peptide policy"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited (S2.2.4)"
+    }
+  ],
+  "references": [
+    "J Clin Endocrinol Metab, Teichman et al., CJC-1295 in healthy adults, Mar 2006",
+    "FDA, bulk drug substances that may present significant safety risks (Category 2), Apr 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "glycine",
+  "lane": "sleep",
+  "number": "02",
+  "name": "Glycine",
+  "description": "The simplest amino acid (aminoacetic acid)",
+  "status": {
+    "class": "Amino acid",
+    "studiedFor": "Sleep, next-day fatigue",
+    "humanEvidence": "Very small human studies",
+    "usStatus": "Dietary supplement · not a sleep drug"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Next-day fatigue",
+        "detail": "7 men, after short sleep",
+        "evidence": "Human",
+        "tile": "fatigue"
+      },
+      {
+        "label": "Sleep",
+        "detail": "3 small trials; rat studies",
+        "evidence": "Human + animal",
+        "tile": "sleep"
+      }
+    ],
+    "note": {
+      "lead": "Sleep research is small.",
+      "text": "A 2026 review found 3 glycine sleep trials and called for larger trials with standard sleep measures."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Glycine",
+        "icon": "molecule"
+      },
+      {
+        "label": "NMDA receptors",
+        "icon": "receptor"
+      },
+      {
+        "label": "Body clock (SCN)",
+        "icon": "clockface"
+      },
+      {
+        "label": "Non-REM sleep",
+        "icon": "moon"
+      }
+    ],
+    "bullets": [
+      "**In rats,** glycine by mouth increased non-REM sleep and lowered body temperature",
+      "**Traced to NMDA receptors** in the brain's body-clock center, in rats",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": [
+      "3 small sleep trials (2026 scoping review)",
+      "Crossover study: 7 men analyzed",
+      "Sleep itself not recorded in that study"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Side-effect profile",
+      "icon": "list"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Effect on recorded sleep",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth, before bed (studies)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Dietary supplement",
+    "monitored": "Sleepiness, fatigue, vigilance tests",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Not approved for sleep; sold as a supplement"
+    },
+    {
+      "agency": "FDA",
+      "text": "Approved only as a surgical irrigant"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not on the 2026 list"
+    }
+  ],
+  "references": [
+    "Front Neurol, Bannai et al., glycine after sleep restriction, Apr 2012",
+    "Neuropsychopharmacology, Kawai et al., glycine and sleep in rats, May 2015",
+    "J Diet Suppl, Fan et al., scoping review of supplements and sleep, Sep 2026"
+  ],
+  "checked": "Nov 2026"
+}

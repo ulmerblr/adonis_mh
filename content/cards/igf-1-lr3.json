@@ -1,0 +1,62 @@
+{
+  "slug": "igf-1-lr3",
+  "lane": "recovery",
+  "number": "07",
+  "name": "IGF-1 LR3",
+  "description": "Man-made analogue of insulin-like growth factor 1 with an added chain and one amino acid changed",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Growth in animals",
+    "humanEvidence": "Lab or animal only",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body growth", "detail": "Weight gain in rats", "evidence": "Animal", "tile": "growth-hormone" },
+      { "label": "Fetal growth", "detail": "Growth-restricted sheep", "evidence": "Animal", "tile": "muscle" }
+    ],
+    "note": { "lead": "Not the same as Increlex.", "text": "Mecasermin (Increlex), the approved IGF-1 drug, has the body’s natural sequence. IGF-1 LR3 has no published human study." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "IGF-1 LR3", "icon": "molecule" },
+      { "label": "Weak protein bind", "icon": "block" },
+      { "label": "IGF-1 signaling", "icon": "receptor" },
+      { "label": "Growth (animals)", "icon": "trend" }
+    ],
+    "bullets": [
+      "**Binds about 1,000 times less** to the IGF binding proteins in blood",
+      "**In rats,** cleared faster than IGF-1 yet about six times more potent for growth",
+      "Used mainly in **cell culture and animal research**",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["No published human studies", "Rat, pig, sheep and cell studies", "No registered clinical trials"]
+  },
+  "notEstablished": [
+    { "text": "Any human safety data", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Dose in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Not established in people",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "“Research use only” (not for human use)",
+    "monitored": "Not established in people",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; Increlex is a different drug" },
+    { "agency": "WADA", "text": "Prohibited (S2.3, IGF-1 analogues)" }
+  ],
+  "references": [
+    "Growth Regul, Long R3 IGF-I potency and clearance in rats, Mar 1993",
+    "Front Endocrinol, review of growth-hormone-related peptides, Jun 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

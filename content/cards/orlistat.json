@@ -1,0 +1,61 @@
+{
+  "slug": "orlistat",
+  "lane": "weight",
+  "number": "11",
+  "name": "Orlistat",
+  "description": "Gut lipase inhibitor that blocks the digestion of dietary fat; acts in the stomach and small intestine",
+  "status": {
+    "class": "Lipase inhibitor",
+    "studiedFor": "Weight, diabetes prevention",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Xenical; Alli OTC)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "Trials up to 4 years", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Diabetes prevention", "detail": "XENDOS, 3,305 adults", "evidence": "Human", "tile": "blood-sugar" }
+    ],
+    "note": { "lead": "Two strengths, two channels.", "text": "Xenical 120 mg is prescription-only; Alli 60 mg is sold over the counter to overweight adults." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Orlistat", "icon": "pill" },
+      { "label": "Gut lipases off", "icon": "enzyme" },
+      { "label": "Fat not absorbed", "icon": "gut" },
+      { "label": "Fewer calories", "icon": "fork" }
+    ],
+    "bullets": [
+      "**Binds and switches off** lipases in the stomach and small intestine (label)",
+      "**Undigested fat** is not absorbed and passes out in the stool",
+      "**Fewer calories** are taken in as a result",
+      "**Acts in the gut;** systemic exposure is minimal"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["2-year European trial: 743 adults", "XENDOS: 3,305 adults, 4 years", "Many people did not finish the trials"]
+  },
+  "notEstablished": [
+    { "text": "PK in kidney or liver disease", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "1 to 2 hours for absorbed orlistat (limited data, label)",
+    "routes": "By mouth (capsules), with fat-containing meals",
+    "pharmacokinetics": "Minimal absorption; about 97% of a dose leaves in feces",
+    "soldAs": "Prescription capsules (Xenical); over the counter (Alli)",
+    "monitored": "Weight; HIV viral load if on HIV drugs (label)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Xenical 1999 (Rx), Alli 2007 (OTC)" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "EMA", "text": "Authorised: Xenical 1998, Alli 2007" },
+    { "agency": "WADA", "text": "Not prohibited" }
+  ],
+  "references": [
+    "FDA, Xenical prescribing information, Jan 2026",
+    "Torgerson et al., XENDOS, Diabetes Care, Jan 2004",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

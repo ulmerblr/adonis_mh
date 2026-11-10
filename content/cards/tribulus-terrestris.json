@@ -1,0 +1,63 @@
+{
+  "slug": "tribulus-terrestris",
+  "lane": "trt",
+  "number": "19",
+  "name": "Tribulus terrestris",
+  "description": "Puncture vine, a plant used in herbal medicine; contains steroidal saponins, mainly protodioscin",
+  "status": {
+    "class": "Plant extract",
+    "studiedFor": "Erections, testosterone, strength",
+    "humanEvidence": "Controlled human trials; mixed results",
+    "usStatus": "Dietary supplement · not an approved drug"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erectile function", "detail": "Meta-analysis of 8 trials", "evidence": "Human", "tile": "erection" },
+      { "label": "Testosterone", "detail": "No change in most trials", "evidence": "Human + animal", "tile": "hormones" },
+      { "label": "Strength, lean mass", "detail": "No difference vs placebo", "evidence": "Human", "tile": "muscle" },
+      { "label": "Urinary symptoms", "detail": "Aging men, 3 months", "evidence": "Human", "tile": "prostate" }
+    ],
+    "note": { "lead": "Case reports of organ injury.", "text": "Case reports describe kidney and liver injury and breast growth in men who used tribulus." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Plant extract", "icon": "molecule" },
+      { "label": "Saponins", "icon": "flask" },
+      { "label": "Protodioscin", "icon": "hormone" },
+      { "label": "Sexual function", "icon": "male" }
+    ],
+    "bullets": [
+      "Effects are attributed to **steroidal saponins**, mainly protodioscin",
+      "**In trials,** testosterone, androstenedione and LH mostly did not change",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Randomized trials of 21 to 180 men", "4 to 12 weeks each", "Meta-analysis: no change in total testosterone"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Drug interactions", "icon": "interact" },
+    { "text": "Mechanism in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (extract tablets) in trials",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement; not FDA reviewed before sale",
+    "monitored": "Erectile function scores, testosterone, PSA, liver enzymes",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "No approved drug; sold as dietary supplement" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Int J Impot Res, tribulus for erectile dysfunction meta-analysis, Jan 2026",
+    "Maturitas, tribulus in male sexual dysfunction, May 2017",
+    "J Strength Cond Res, tribulus in elite rugby league players, May 2007"
+  ],
+  "checked": "Nov 2026"
+}

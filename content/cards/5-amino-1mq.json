@@ -1,0 +1,65 @@
+{
+  "slug": "5-amino-1mq",
+  "lane": "weight",
+  "number": "03",
+  "name": "5-amino-1MQ",
+  "description": "Small molecule (5-amino-1-methylquinolinium) that blocks the enzyme NNMT; not a peptide",
+  "status": {
+    "class": "Small molecule",
+    "studiedFor": "Body fat, aging muscle",
+    "humanEvidence": "Lab or animal only",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body fat", "detail": "Obese mice", "evidence": "Animal", "tile": "body-fat" },
+      { "label": "Blood sugar", "detail": "Glucose handling, mice", "evidence": "Animal", "tile": "blood-sugar" },
+      { "label": "Fatty liver", "detail": "Obese mice", "evidence": "Animal", "tile": "liver" },
+      { "label": "Muscle", "detail": "Old mice", "evidence": "Animal", "tile": "muscle" }
+    ],
+    "note": { "lead": "No human studies found.", "text": "Every study found was in mice, rats or cells, and most came from the group that developed it." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "5-amino-1MQ", "icon": "molecule" },
+      { "label": "NNMT blocked", "icon": "enzyme" },
+      { "label": "NAD+ and SAM up", "icon": "trend" },
+      { "label": "Less fat build-up", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Blocks NNMT,** an enzyme that methylates nicotinamide (vitamin B3), in lab tests",
+      "**In fat cells,** lowered 1-MNA, raised NAD+ and SAM, cut fat build-up (lab)",
+      "**In mice,** reached fat, muscle and liver after injection under the skin",
+      "**In people,** none of these effects has been measured"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["Mouse, rat and cell studies only", "No published human studies found", "No trial on ClinicalTrials.gov"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Drug interactions", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "None studied in people",
+    "pharmacokinetics": "No human data; about 38% of a mouth dose absorbed in rats",
+    "soldAs": "Labelled “research use only”",
+    "monitored": "Mouse studies: weight, fat, blood sugar, liver",
+    "sport": "Not named on the 2026 list; S0 status unconfirmed"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "FDA", "text": "Not on 503A or 503B nomination lists" },
+    { "agency": "WADA", "text": "Not named; class S0 may apply" }
+  ],
+  "references": [
+    "Neelakantan et al., NNMT inhibitors in obese mice, Biochem Pharmacol, Jan 2018",
+    "Babula et al., 5-amino-1MQ in obese mice, Diabetes Obes Metab, Nov 2024",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

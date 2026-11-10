@@ -1,0 +1,66 @@
+{
+  "slug": "resveratrol",
+  "lane": "longevity",
+  "number": "16",
+  "name": "Resveratrol",
+  "description": "Plant compound (3,5,4'-trihydroxystilbene) found in grapes, red wine, some berries and roots",
+  "status": {
+    "class": "Plant compound (dietary supplement)",
+    "studiedFor": "Metabolism, Alzheimer's, aging",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Dietary supplement · not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Insulin, metabolism", "detail": "Small trials disagree", "evidence": "Human", "tile": "blood-sugar" },
+      { "label": "Alzheimer's disease", "detail": "Phase 2, 119 people, 52 weeks", "evidence": "Human", "tile": "brain" },
+      { "label": "Survival", "detail": "Diet levels not linked (cohort)", "evidence": "Human", "tile": "aging" },
+      { "label": "Lifespan", "detail": "Mice on high-calorie diet only", "evidence": "Animal", "tile": "aging" }
+    ],
+    "note": { "lead": "Results disagree.", "text": "One 30-day study in 11 obese men found calorie-restriction-like changes; larger, longer trials in women and obese men found none." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Resveratrol", "icon": "molecule" },
+      { "label": "SIRT1 and AMPK", "icon": "enzyme" },
+      { "label": "Fasting pathways", "icon": "fork" },
+      { "label": "Metabolism", "icon": "bolt" }
+    ],
+    "bullets": [
+      "**Proposed to act on sirtuins (SIRT1) and AMPK,** linked to calorie restriction",
+      "**Extended lifespan** in yeast, worms and flies; in mice only on a high-calorie diet",
+      "**A 2012 trial in women** found no change in SIRT1 or AMPK in muscle or fat",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Many small randomized trials; results mixed", "Phase 2 Alzheimer's trial, 119 people", "Some animal heart papers retracted"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effect on aging in people", "icon": "question" },
+    { "text": "Meaning of brain volume loss", "icon": "brain" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth",
+    "pharmacokinetics": "Reached the brain in an Alzheimer's trial; limited human data",
+    "soldAs": "Dietary supplement; 503A Category 1 for compounding",
+    "monitored": "Insulin sensitivity, blood fats, brain MRI, amyloid",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved as a drug" },
+    { "agency": "FDA", "text": "503A Category 1 (under evaluation)" },
+    { "agency": "FDA", "text": "GRAS notice GRN 224 stopped at notifier's request" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Neurology, randomized trial of resveratrol in Alzheimer's disease, Oct 2015",
+    "Cell Metab, resveratrol in non-obese women with normal glucose, Nov 2012",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

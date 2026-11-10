@@ -1,0 +1,62 @@
+{
+  "slug": "vitamin-b12",
+  "lane": "energy",
+  "number": "01",
+  "name": "Vitamin B12",
+  "description": "Cobalt-containing vitamin (cobalamin); cyanocobalamin is the most widely used form",
+  "status": {
+    "class": "Vitamin",
+    "studiedFor": "B12 deficiency; energy",
+    "humanEvidence": "FDA approved; 2 small trials for energy",
+    "usStatus": "FDA approved (deficiency) · energy off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "B12 deficiency", "detail": "Pernicious anemia, malabsorption", "evidence": "Human", "tile": "blood" },
+      { "label": "Chronic fatigue", "detail": "15 patients, 1989", "evidence": "Human", "tile": "fatigue" },
+      { "label": "Vocal fatigue", "detail": "20 singers, 2021", "evidence": "Human", "tile": "fatigue" }
+    ],
+    "note": { "lead": "Energy data are limited.", "text": "Two small placebo-controlled trials of B12 injections found no difference from placebo. No trial for weight loss was found." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Vitamin B12", "icon": "molecule" },
+      { "label": "Carrier proteins", "icon": "route" },
+      { "label": "Cells and liver", "icon": "liver" },
+      { "label": "Blood & myelin", "icon": "drop" }
+    ],
+    "bullets": [
+      "**Label:** essential to growth, cell reproduction, blood formation and myelin synthesis",
+      "**Moved** to tissues by transcobalamin I and II; stored mainly in the liver",
+      "**Hydroxocobalamin** works equally well, the label says"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["FDA approved injection for B12 deficiency", "2 small placebo trials for energy or fatigue", "No trial of B12 injections for weight loss"]
+  },
+  "notEstablished": [
+    { "text": "Energy effect without deficiency", "icon": "question" },
+    { "text": "Weight-loss effect", "icon": "question" },
+    { "text": "Compounded blends (not approved)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established (not stated on the label)",
+    "routes": "Injection into muscle or under the skin (label)",
+    "pharmacokinetics": "Peak within 1 hour (muscle); stored in liver; excreted in urine",
+    "soldAs": "Prescription injection (generic cyanocobalamin)",
+    "monitored": "Potassium, hematocrit, reticulocytes, B12, folate, iron",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved injection for B12 deficiency" },
+    { "agency": "FDA", "text": "Compounded methylcobalamin, MIC blends: not approved" },
+    { "agency": "WADA", "text": "Not listed; IV over 100 mL per 12 h banned (M2.2)" }
+  ],
+  "references": [
+    "FDA (DailyMed), Cyanocobalamin Injection USP label, Oct 2023",
+    "JAMA Otolaryngol Head Neck Surg, B12 injection vs placebo in singers, Jan 2021",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

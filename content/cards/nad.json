@@ -1,0 +1,65 @@
+{
+  "slug": "nad",
+  "lane": "longevity",
+  "number": "01",
+  "name": "NAD+",
+  "description": "Coenzyme found in every living cell (nicotinamide adenine dinucleotide), made by the body from vitamin B3",
+  "status": {
+    "class": "Coenzyme",
+    "studiedFor": "Heart pumping, NAD+ blood levels",
+    "humanEvidence": "Controlled trials (heart disease, China)",
+    "usStatus": "Not FDA approved · 503A Category 1"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Heart pumping", "detail": "Heart failure, heart attack", "evidence": "Human", "tile": "heart" },
+      { "label": "NAD+ levels", "detail": "IV pilot in 11 healthy men", "evidence": "Human", "tile": "blood" },
+      { "label": "Energy metabolism", "detail": "Cell and animal studies", "evidence": "Animal", "tile": "mitochondria" },
+      { "label": "Sense of smell", "detail": "Nasal NAD+ in mice", "evidence": "Animal", "tile": "nerves" }
+    ],
+    "note": { "lead": "Not tested against aging in people.", "text": "No study has shown that injected or nasal NAD+ slows aging in people. The two controlled trials were in heart disease." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "NAD+", "icon": "molecule" },
+      { "label": "Coenzyme", "icon": "enzyme" },
+      { "label": "Energy metabolism", "icon": "bolt" },
+      { "label": "Cell function", "icon": "cell" }
+    ],
+    "bullets": [
+      "**Coenzyme** that enzymes use to move electrons in energy metabolism",
+      "**Used up** as a raw material by other enzymes",
+      "Most NAD+ biology comes from **cell and animal** research",
+      "**In people,** effects of injected or nasal NAD+ are not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["2 randomized trials in China, heart disease, not aging", "IV pilot in 11 men; chart review of 14", "No human study of nasal NAD+"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effect on aging in people", "icon": "question" },
+    { "text": "Nasal use in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "IV infusion; no human study of nasal spray",
+    "pharmacokinetics": "IV: cleared from blood quickly for the first 2 hours (pilot)",
+    "soldAs": "Compounded (Rx), 503A Category 1",
+    "monitored": "NAD+ in blood and urine, liver tests, heart pumping (LVEF)",
+    "sport": "Not on the 2026 list; IV over 100 mL per 12 h prohibited (M2.2)"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; 503A Category 1 (under evaluation)" },
+    { "agency": "FDA", "text": "Food-grade NAD+ not for sterile IV use (Oct 2024)" },
+    { "agency": "WADA", "text": "Not listed; IV limit applies (M2.2)" }
+  ],
+  "references": [
+    "Front Aging Neurosci, IV NAD+ infusion pilot in healthy men, Sep 2019",
+    "FDA, 503A bulk drug substance categories, May 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "setmelanotide",
+  "lane": "weight",
+  "number": "14",
+  "name": "Setmelanotide",
+  "description": "Injected peptide that switches on the melanocortin 4 (MC4) receptor, a brain hunger-control receptor",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Rare genetic and brain-injury obesity",
+    "humanEvidence": "Small trials; FDA approved",
+    "usStatus": "FDA approved (Imcivree), rare obesity only"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Gene-based obesity", "detail": "POMC, PCSK1, LEPR deficiency", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Bardet-Biedl syndrome", "detail": "38 people, Phase 3", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Hypothalamic obesity", "detail": "TRANSCEND, 52 weeks", "evidence": "Human", "tile": "brain" },
+      { "label": "Hunger", "detail": "Hunger scores in trials", "evidence": "Human", "tile": "appetite" }
+    ],
+    "note": { "lead": "Not for common obesity.", "text": "The label says it is not approved for common (polygenic) obesity and would not be expected to help there." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Setmelanotide", "icon": "molecule" },
+      { "label": "MC4 receptor", "icon": "receptor" },
+      { "label": "Hunger, fullness", "icon": "brain" },
+      { "label": "Lower food intake", "icon": "fork" }
+    ],
+    "bullets": [
+      "**MC4 receptor agonist,** with 20-fold less activity at MC3 and MC1 (label)",
+      "**MC4 receptors** in the brain help regulate hunger, fullness and energy use",
+      "**Based on nonclinical evidence,** may restore MC4 pathway activity",
+      "**Weak MC1 action** in skin pigment cells darkens the skin in many people"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Small trials: conditions are rare", "POMC/LEPR: 10 and 11 people, open-label", "TRANSCEND: 120 people, placebo-controlled"]
+  },
+  "notEstablished": [
+    { "text": "Effect in Alström syndrome", "icon": "question" },
+    { "text": "PK over 65 or in liver disease", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 11 hours (Imcivree label)",
+    "routes": "Injection under the skin, once daily",
+    "pharmacokinetics": "Peak about 8 hours; broken down into small peptides",
+    "soldAs": "Prescription injection (Imcivree)",
+    "monitored": "Skin and moles, mood; adrenal and sodium issues in HO",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Imcivree, 2020; later uses added" },
+    { "agency": "EMA", "text": "Authorised orphan medicine (Imcivree, 2021)" },
+    { "agency": "WADA", "text": "Not prohibited" }
+  ],
+  "references": [
+    "FDA, Imcivree prescribing information, Apr 2026",
+    "Clément et al., POMC and LEPR Phase 3 trials, Lancet Diabetes Endocrinol, Dec 2020",
+    "Miller et al., TRANSCEND, N Engl J Med, Jul 2026"
+  ],
+  "checked": "Nov 2026"
+}

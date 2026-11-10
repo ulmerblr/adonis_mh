@@ -1,0 +1,63 @@
+{
+  "slug": "glutathione",
+  "lane": "longevity",
+  "number": "03",
+  "name": "Glutathione",
+  "description": "Tripeptide (three amino acids) made by the body; acts as an antioxidant in cells",
+  "status": {
+    "class": "Tripeptide",
+    "studiedFor": "Parkinson's, heart attack, skin color",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved · 503A Category 1"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Parkinson's disease", "detail": "IV and nasal; no gain vs placebo", "evidence": "Human", "tile": "brain" },
+      { "label": "Heart attack", "detail": "Oxidative stress markers, 50", "evidence": "Human", "tile": "heart" },
+      { "label": "Skin lightening", "detail": "One small placebo study", "evidence": "Human", "tile": "skin" },
+      { "label": "Oxidative stress", "detail": "Antioxidant biology", "evidence": "Animal", "tile": "aging" }
+    ],
+    "note": { "lead": "Not tested for aging in people.", "text": "No study has tested injected or nasal glutathione for aging or longevity in people." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Glutathione", "icon": "molecule" },
+      { "label": "Antioxidant", "icon": "shield" },
+      { "label": "Oxidative stress", "icon": "flame" },
+      { "label": "Cell protection", "icon": "cell" }
+    ],
+    "bullets": [
+      "**Antioxidant** made by the body that helps protect cells from oxidative stress",
+      "Its antioxidant role is established in **cell and animal** biology",
+      "**In people,** effects of injected or nasal glutathione on aging are not studied"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small randomized trials, 21 to 50 people", "Nasal Phase IIb: not better than placebo", "None measured aging"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effect on aging in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "IV infusion; nasal spray",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Compounded (Rx), 503A Category 1",
+    "monitored": "Disease scores, adverse events, blood chemistry",
+    "sport": "Not on the 2026 list; IV over 100 mL per 12 h prohibited (M2.2)"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; 503A Category 1 (under evaluation)" },
+    { "agency": "FDA", "text": "Supplement-grade glutathione not for IV (Aug 2026)" },
+    { "agency": "WADA", "text": "Not listed; IV limit applies (M2.2)" }
+  ],
+  "references": [
+    "J Parkinsons Dis, nasal glutathione Phase IIb trial in Parkinson's, 2017",
+    "FDA, reminder not to use supplement-grade glutathione for injectables, Aug 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "psilocybin",
+  "lane": "brain",
+  "number": "16",
+  "name": "Psilocybin",
+  "description": "Compound found in some mushrooms; trials use purified, lab-made psilocybin",
+  "status": {
+    "class": "Psychedelic (mushroom compound)",
+    "studiedFor": "Treatment-resistant depression",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved · Schedule I"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Resistant depression",
+        "detail": "COMP360, Phase 2 and Phase 3",
+        "evidence": "Human",
+        "tile": "mood"
+      },
+      {
+        "label": "Major depression",
+        "detail": "One dose vs niacin; vs SSRI",
+        "evidence": "Human",
+        "tile": "mood"
+      }
+    ],
+    "note": {
+      "lead": "Phase 3 results are company data.",
+      "text": "The developer reports two Phase 3 trials met their main goals; neither has posted results or been published."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Psilocybin",
+        "icon": "molecule"
+      },
+      {
+        "label": "Psilocin",
+        "icon": "flask"
+      },
+      {
+        "label": "5-HT2A receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Psychedelic effect",
+        "icon": "brain"
+      }
+    ],
+    "bullets": [
+      "**Psilocin,** the active metabolite, is believed to act on serotonin 2A receptors",
+      "**In 8 volunteers,** oral psilocybin occupied up to 72% of brain 5-HT2A receptors",
+      "**Effect intensity** tracked receptor occupancy and blood psilocin levels",
+      "**How it may affect depression** is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": [
+      "3 randomized Phase 2 trials (NEJM, JAMA)",
+      "2 Phase 3 trials: company-reported only",
+      "Given once or twice, with psychological support"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Effect beyond 12 weeks",
+      "icon": "calendar"
+    },
+    {
+      "text": "Risk in psychosis or mania",
+      "icon": "question"
+    },
+    {
+      "text": "Peer-reviewed Phase 3 data",
+      "icon": "list"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "By mouth, once or twice, with psychological support (trials)",
+    "pharmacokinetics": "Converted to psilocin, its active metabolite",
+    "soldAs": "Not available as a medicine; state-licensed services (OR, CO)",
+    "monitored": "Depression scores (MADRS), suicidal thoughts, side effects",
+    "sport": "Not named on the 2026 list; S0 status not stated"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Not approved; COMP360 NDA in progress (company)"
+    },
+    {
+      "agency": "FDA",
+      "text": "Priority voucher, treatment-resistant depression"
+    },
+    {
+      "agency": "DEA",
+      "text": "Schedule I controlled substance"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not named on the 2026 list"
+    }
+  ],
+  "references": [
+    "N Engl J Med, Goodwin et al., single-dose psilocybin for resistant depression, Nov 2022",
+    "JAMA, Raison et al., single-dose psilocybin for major depression, Sep 2023",
+    "Neuropsychopharmacology, Madsen et al., psilocybin and 5-HT2A occupancy, Jun 2019"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "esketamine",
+  "lane": "brain",
+  "number": "12",
+  "name": "Esketamine (Spravato)",
+  "description": "S form of ketamine, an NMDA receptor blocker, given as a nasal spray (Spravato)",
+  "status": {
+    "class": "NMDA receptor antagonist",
+    "studiedFor": "Treatment-resistant depression",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Spravato) · Schedule III · REMS"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Resistant depression", "detail": "With an oral antidepressant", "evidence": "Human", "tile": "mood" },
+      { "label": "Relapse prevention", "detail": "SUSTAIN-1, 297 randomized", "evidence": "Human", "tile": "mood" },
+      { "label": "Depression, alone", "detail": "378 adults, 4 weeks", "evidence": "Human", "tile": "mood" },
+      { "label": "Suicidal thoughts", "detail": "Depression score at 24 hours", "evidence": "Human", "tile": "mood" },
+      { "label": "vs quetiapine", "detail": "ESCAPE-TRD, 676 adults", "evidence": "Human", "tile": "mood" }
+    ],
+    "note": { "lead": "Mixed Phase 3 results.", "text": "Some maker-run trials met their main goal and some did not. The label says it has not been shown to prevent suicide." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Esketamine", "icon": "molecule" },
+      { "label": "NMDA receptor", "icon": "receptor" },
+      { "label": "Glutamate signals", "icon": "nerve" },
+      { "label": "Depression", "icon": "mood" }
+    ],
+    "bullets": [
+      "**Label:** blocks the NMDA receptor, a receptor for glutamate",
+      "**Label:** how it eases depression is unknown",
+      "Used in a **certified health care setting**, with at least 2 hours of monitoring"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Phase 3 trials: TRANSFORM, SUSTAIN, ASPIRE", "FDA approved 2019; added uses 2020, 2025", "Two TRANSFORM trials missed their main goal"]
+  },
+  "notEstablished": [
+    { "text": "Suicide prevention (label)", "icon": "question" },
+    { "text": "Use in children (not approved)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Terminal half-life 7 to 12 hours (label)",
+    "routes": "Nasal spray, in a certified health care setting (label)",
+    "pharmacokinetics": "Peak 20 to 40 min; CYP2B6 and CYP3A4; about 48% bioavailable",
+    "soldAs": "Prescription nasal spray (Spravato) via REMS; Schedule III",
+    "monitored": "Sedation, dissociation, breathing, blood pressure for 2 h+",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (Spravato, 2019); boxed warning; REMS" },
+    { "agency": "DEA", "text": "Schedule III (ketamine isomers)" },
+    { "agency": "EMA", "text": "Authorised 2019, with an SSRI or SNRI" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "FDA (DailyMed), Spravato prescribing information, Sep 2026",
+    "JAMA Psychiatry, SUSTAIN-1 relapse prevention trial, Sep 2019",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

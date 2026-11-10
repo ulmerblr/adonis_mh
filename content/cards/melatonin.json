@@ -1,0 +1,65 @@
+{
+  "slug": "melatonin",
+  "lane": "hair-loss",
+  "number": "08",
+  "name": "Melatonin",
+  "description": "Hormone the body makes mainly at night; most products are synthetic",
+  "status": {
+    "class": "Hormone",
+    "studiedFor": "Sleep, hair loss",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Dietary supplement · not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Falling asleep", "detail": "Meta-analyses of placebo RCTs", "evidence": "Human", "tile": "sleep" },
+      { "label": "Insomnia, 55 and over", "detail": "EU approved (Circadin)", "evidence": "Human", "tile": "sleep" },
+      { "label": "Jet lag", "detail": "Reviews, 2010 and 2014", "evidence": "Human", "tile": "sleep" },
+      { "label": "Female pattern loss", "detail": "Scalp; pilot RCT, 40 women", "evidence": "Human + animal", "tile": "scalp" }
+    ],
+    "note": { "lead": "Scalp use is off-label.", "text": "The only randomized hair trial was a 40-woman pilot; the other scalp studies had no placebo group." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Melatonin", "icon": "hormone" },
+      { "label": "Night signal", "icon": "moon" },
+      { "label": "Body clock", "icon": "clockface" },
+      { "label": "Sleep-wake cycle", "icon": "clock" }
+    ],
+    "bullets": [
+      "**Made by the body** mainly at night; helps run the sleep-wake cycle",
+      "**Hair follicle effects** reported in animal and cell studies",
+      "**Scalp use** raised blood melatonin, but below the normal night peak",
+      "**For hair loss in people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Sleep: meta-analyses of 19 and 22 trials", "Small effects on time to fall asleep", "Hair: one pilot RCT in 40 women"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Hair effect in men", "icon": "male" },
+    { "text": "Hair effect in larger trials", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "3.5 to 4 hours (Circadin, EU label)",
+    "routes": "By mouth (sleep); on the scalp (hair studies)",
+    "pharmacokinetics": "Liver metabolism, mainly CYP1A (Circadin, EU label)",
+    "soldAs": "Dietary supplement (US); prescription in the EU and UK",
+    "monitored": "Time to fall asleep, sleep quality; growing-hair share",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; sold as a dietary supplement" },
+    { "agency": "EMA", "text": "Circadin (2007), Slenyto (2018): Rx for sleep" },
+    { "agency": "MHRA", "text": "Prescription-only medicine" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "NIH NCCIH, Melatonin: what you need to know, May 2024",
+    "EMA, Circadin product information (EPAR)",
+    "Fischer et al., Br J Dermatol, melatonin scalp solution in women, Feb 2004"
+  ],
+  "checked": "Nov 2026"
+}

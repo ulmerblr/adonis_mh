@@ -1,0 +1,129 @@
+/* Treatment card (EDU PROMPT 39), copied from the approved mockup (card-art/mockup/bpc157-card.html, v6). The mockup's
+   viewport breakpoints (780px, 440px) are container queries here, so the card lays out by its own width: the same card
+   works in a treatment page, in the app view's phone column, and in the 900px render that scripts/render-cards.mjs saves. */
+.outer {
+  --ground: #E9E4D8; --sheet: #FFFFFF; --ink: #16202E; --soft: #5D6878; --faint: #8C96A4; --hair: #DCE2EA;
+  --cnavy: #0F2C55; --blue: #2A5C9A; --sky: #EEF3F9; --sky2: #F6F8FB; --teal: #1F7A72; --tealbg: #E8F3F1; --onhead: #FFFFFF;
+  --f: var(--font-sans), "Source Sans 3", "Segoe UI", system-ui, Arial, sans-serif;
+  container-type: inline-size;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: var(--f);
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--ink);
+}
+.card { background: var(--sheet); border-radius: 14px; overflow: hidden; box-shadow: 0 1px 2px rgba(15,44,85,.08), 0 12px 32px rgba(15,44,85,.10); }
+.outer :global(svg.ci) { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+
+/* header */
+.head { position: relative; background-color: #0F2C55; background-position: right 42%; background-size: 68% auto; background-repeat: no-repeat; color: var(--onhead); padding: 22px 22px 60px; min-height: 250px; display: flex; gap: 16px; align-items: flex-start; overflow: hidden; }
+.art { position: absolute; inset: 0; background: linear-gradient(90deg, #0F2C55 0%, #0F2C55 28%, rgba(15,44,85,.6) 36%, transparent 50%), linear-gradient(0deg, rgba(15,44,85,.7), transparent 35%); }
+.badge, .title { position: relative; z-index: 1; }
+.badge { background: var(--teal); border-radius: 10px; padding: 8px 12px; text-align: center; min-width: 64px; }
+.badge small { display: block; font: 700 9px/1 var(--f); letter-spacing: .16em; opacity: .9; text-transform: uppercase; }
+.badge b { display: block; font: 800 22px/1.05 var(--f); margin-top: 3px; }
+.title { max-width: 300px; }
+.title h1 { margin: 0; font: 900 clamp(30px, 5.6cqw, 44px)/1 var(--f); letter-spacing: -.01em; color: var(--onhead); }
+.title p { margin: 8px 0 0; font: 500 14.5px/1.35 var(--f); opacity: .92; }
+
+/* status strip, overlapping the header */
+.status { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; padding: 0 22px; margin-top: -44px; position: relative; }
+.st { background: var(--sheet); border: 1px solid var(--hair); border-radius: 10px; padding: 9px 11px; display: flex; gap: 9px; align-items: flex-start; box-shadow: 0 2px 8px rgba(15,44,85,.08); min-width: 0; }
+.st :global(svg.ci) { color: var(--blue); margin-top: 2px; width: 18px; height: 18px; }
+.k { display: block; font: 700 9.5px/1.1 var(--f); letter-spacing: .14em; text-transform: uppercase; color: var(--faint); }
+.st b { display: block; font: 700 13px/1.25 var(--f); }
+
+/* grid */
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px 22px; padding: 18px 22px 6px; }
+.col { display: grid; gap: 18px; align-content: start; min-width: 0; }
+.h2 { margin: 0 0 9px; font: 700 11px/1 var(--f); letter-spacing: .2em; text-transform: uppercase; color: var(--ink); display: flex; gap: 7px; align-items: center; }
+.h2 :global(svg.ci) { color: var(--blue); width: 14px; height: 14px; }
+
+.pics { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 8px; }
+.pic { position: relative; height: 150px; border-radius: 10px; overflow: hidden; background: #0F2C55 center/cover no-repeat; color: #fff; display: flex; align-items: flex-end; }
+.pic::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, rgba(15,44,85,.92) 0%, rgba(15,44,85,.2) 55%, transparent); }
+.pic div { position: relative; z-index: 1; padding: 10px 11px; }
+.pic b { display: block; font: 800 15px/1.1 var(--f); }
+.pic small { font: 700 9.5px/1 var(--f); letter-spacing: .12em; text-transform: uppercase; opacity: .9; }
+.apps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+.app { border: 1px solid var(--hair); border-radius: 8px; padding: 9px 4px 8px; text-align: center; display: grid; gap: 4px; justify-items: center; align-content: start; background: var(--sky2); }
+.app :global(svg.ci) { width: 20px; height: 20px; color: var(--blue); }
+.app b { font: 700 11.5px/1.15 var(--f); }
+.app small { font: 600 9.5px/1.1 var(--f); letter-spacing: .06em; text-transform: uppercase; color: var(--faint); }
+.app.h small { color: var(--teal); }
+.note { margin-top: 8px; border: 1px solid var(--hair); border-left: 3px solid var(--blue); border-radius: 6px; padding: 8px 10px; font-size: 12.5px; color: var(--soft); background: var(--sky2); }
+.note b { color: var(--ink); }
+
+.flow { border: 1px solid var(--hair); border-radius: 10px; padding: 12px; background: var(--sky2); }
+.steps { display: flex; align-items: center; gap: 4px; margin-bottom: 10px; }
+.sp { flex: 1; border: 1px solid var(--hair); background: var(--sheet); border-radius: 8px; padding: 7px 4px; text-align: center; display: grid; gap: 3px; justify-items: center; min-width: 0; align-self: stretch; align-content: start; }
+.sp :global(svg.ci) { width: 18px; height: 18px; color: var(--blue); }
+.sp b { font: 700 10.5px/1.15 var(--f); }
+.arr { color: var(--teal); font-size: 12px; }
+.dots { margin: 0; padding-left: 16px; display: grid; gap: 3px; font-size: 12.5px; color: var(--soft); }
+.dots b { color: var(--ink); }
+
+.evs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.pan { border: 1px solid var(--hair); border-radius: 10px; overflow: hidden; background: var(--sheet); min-width: 0; }
+.pan header { font: 700 10.5px/1 var(--f); letter-spacing: .16em; text-transform: uppercase; color: #fff; padding: 7px 10px; display: flex; gap: 6px; align-items: center; }
+.pan header :global(svg.ci) { width: 13px; height: 13px; }
+.ev header { background: var(--blue); }
+.un header { background: #5D6878; }
+.in { padding: 10px; }
+.level { background: var(--sky); border-radius: 6px; text-align: center; padding: 8px 6px; margin-bottom: 8px; }
+.level b { display: block; font: 800 15px/1.1 var(--f); letter-spacing: .04em; }
+.level small { font: 600 10px/1 var(--f); letter-spacing: .1em; text-transform: uppercase; color: var(--soft); }
+.ladder { display: flex; gap: 3px; margin-bottom: 8px; }
+.ladder i { flex: 1; height: 5px; border-radius: 2px; background: var(--hair); }
+.ladder i.on { background: var(--blue); }
+.pan ul { margin: 0; padding-left: 15px; display: grid; gap: 3px; font-size: 12px; color: var(--soft); }
+.pan ul.unk { list-style: none; padding: 0; }
+.unk li { display: flex; gap: 7px; align-items: flex-start; }
+.unk :global(svg.ci) { width: 14px; height: 14px; color: var(--soft); margin-top: 1px; }
+
+.qp { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.q { border: 1px solid var(--hair); border-radius: 8px; padding: 9px 10px; display: flex; gap: 9px; align-items: flex-start; min-width: 0; }
+.q :global(svg.ci) { width: 18px; height: 18px; color: var(--blue); margin-top: 1px; }
+.q b { display: block; font: 600 12.5px/1.25 var(--f); }
+
+.reg { display: flex; flex-wrap: wrap; gap: 8px; padding: 14px 22px 4px; align-items: center; }
+.reg .k { margin-right: 4px; }
+.rg { display: inline-flex; align-items: stretch; border: 1px solid var(--hair); border-radius: 6px; overflow: hidden; font: 700 11.5px/1 var(--f); }
+.rg span { padding: 6px 8px; background: var(--cnavy); color: #fff; letter-spacing: .06em; }
+.rg em { font-style: normal; padding: 6px 9px; background: var(--sky2); }
+.refs { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: end; padding: 10px 22px 16px; border-top: 1px solid var(--hair); margin-top: 12px; font-size: 11px; color: var(--faint); }
+.refs ol { margin: 4px 0 0; padding-left: 16px; display: grid; gap: 1px; }
+.disc { max-width: 230px; display: flex; gap: 6px; align-items: flex-start; }
+.site { display: none; margin-top: 4px; font-weight: 700; color: var(--soft); letter-spacing: .02em; }
+:global(.cardExport) .site { display: block; }
+
+/* the two download buttons under the card */
+.dl { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; max-width: 900px; margin: 14px auto 0; font-family: var(--f); }
+.btn { font: 700 14px/1 var(--f); background: #0F2C55; color: #fff; border: 0; border-radius: 8px; padding: 12px 16px; cursor: pointer; display: inline-flex; gap: 8px; align-items: center; text-decoration: none; }
+.btn:hover { color: #fff; text-decoration: none; opacity: .92; }
+.btn.alt { background: #FFFFFF; color: #16202E; border: 1px solid #DCE2EA; }
+.btn.alt:hover { color: #16202E; }
+.btn:focus-visible { outline: 3px solid #1F7A72; outline-offset: 2px; }
+.btn :global(svg.ci) { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+
+@container (max-width: 780px) {
+  .grid { grid-template-columns: 1fr; }
+  .status { grid-template-columns: 1fr 1fr; }
+  .head { min-height: 240px; background-size: cover; background-position: 68% center; }
+  .title { max-width: none; }
+  .art { background: linear-gradient(90deg, rgba(15,44,85,.9), rgba(15,44,85,.35) 70%), linear-gradient(0deg, rgba(15,44,85,.7), transparent 35%); }
+  .head, .status, .grid, .reg, .refs { padding-left: 14px; padding-right: 14px; }
+}
+@container (max-width: 440px) {
+  .evs, .qp { grid-template-columns: 1fr; }
+  .refs { grid-template-columns: 1fr; }
+  .steps { flex-wrap: wrap; }
+  .arr { display: none; }
+  .sp { flex: 1 1 45%; }
+}
+
+/* The mockup file has no doctype, so browsers draw it in quirks mode, where a line holding only small text is not
+   stretched to the paragraph's line height. These line heights reproduce that tighter spacing in standards mode. */
+.pic div, .level, .app, .sp, .badge { line-height: 1.1; }
+.q > span, .st > span { line-height: 1.25; }

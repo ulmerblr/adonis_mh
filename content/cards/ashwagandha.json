@@ -1,0 +1,66 @@
+{
+  "slug": "ashwagandha",
+  "lane": "energy",
+  "number": "07",
+  "name": "Ashwagandha",
+  "description": "Root of Withania somnifera, a nightshade-family shrub; contains steroid-like withanolides and alkaloids",
+  "status": {
+    "class": "Plant extract",
+    "studiedFor": "Stress, cortisol, male hormones",
+    "humanEvidence": "Controlled human trials (small, 8-week)",
+    "usStatus": "Dietary supplement · not an approved drug"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Stress", "detail": "Stress and anxiety scores", "evidence": "Human", "tile": "mood" },
+      { "label": "Cortisol", "detail": "Serum and morning levels", "evidence": "Human", "tile": "hormones" },
+      { "label": "Testosterone, DHEA-S", "detail": "Men aged 40 to 70", "evidence": "Human + animal", "tile": "testes" },
+      { "label": "Fatigue and vigor", "detail": "No difference vs placebo", "evidence": "Human", "tile": "fatigue" },
+      { "label": "Thyroid", "detail": "Rats; a few human reports", "evidence": "Human + animal", "tile": "thyroid" }
+    ],
+    "note": { "lead": "Liver injury case series.", "text": "Reports from Iceland, the US and India describe jaundice 2 to 12 weeks after use; 3 people with prior liver disease died." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Root extract", "icon": "molecule" },
+      { "label": "Withanolides", "icon": "flask" },
+      { "label": "Hormone signals", "icon": "hormone" },
+      { "label": "Stress, hormones", "icon": "mood" }
+    ],
+    "bullets": [
+      "Root contains steroid-like **withanolides** and **alkaloids**",
+      "**In rats,** effects on sex hormones, reproduction, thyroid and immune system (DTU)",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["3 placebo-controlled trials, 57 to 64 adults", "8 weeks to 60 days each", "Liver injury described in case series"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "A risk-free intake (DTU)", "icon": "question" },
+    { "text": "Thyroid effects in people", "icon": "hormone" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (root extract capsules) in trials",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement; not FDA reviewed before sale",
+    "monitored": "Stress scores, cortisol, DHEA-S, testosterone",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "No approved drug; sold as dietary supplement" },
+    { "agency": "DVFA", "text": "Denmark: illegal to sell as a food" },
+    { "agency": "FSA", "text": "UK review ongoing; no final advice yet" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "DTU National Food Institute, risk assessment of Withania somnifera root, May 2020",
+    "Am J Mens Health, ashwagandha in aging, overweight men, Mar 2019",
+    "Hepatol Commun, ashwagandha liver injury case series, Oct 2023"
+  ],
+  "checked": "Nov 2026"
+}

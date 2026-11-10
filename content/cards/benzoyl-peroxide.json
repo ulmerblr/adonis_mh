@@ -1,0 +1,62 @@
+{
+  "slug": "benzoyl-peroxide",
+  "lane": "skin",
+  "number": "11",
+  "name": "Benzoyl peroxide",
+  "description": "Oxidizing agent applied to the skin; converted to benzoic acid in the skin",
+  "status": {
+    "class": "Topical drug (oxidizing agent)",
+    "studiedFor": "Acne, rosacea",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "OTC monograph · Rx products FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Acne", "detail": "Cochrane: 120 trials", "evidence": "Human", "tile": "acne" },
+      { "label": "Rosacea", "detail": "Epsolay 5% cream, 2 trials", "evidence": "Human", "tile": "skin" }
+    ],
+    "note": { "lead": "Most trials were short.", "text": "Most acne trials ran up to 12 weeks, and many had a high or unclear risk of bias (Cochrane, 2020)." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Benzoyl peroxide", "icon": "molecule" },
+      { "label": "Oxidizing agent", "icon": "flask" },
+      { "label": "Kills bacteria", "icon": "cell" },
+      { "label": "Loosens skin layer", "icon": "skin" }
+    ],
+    "bullets": [
+      "**Oxidizing agent** with bactericidal and keratolytic effects (label)",
+      "**In the skin** it is converted to benzoic acid, which leaves the body in urine",
+      "**In rosacea,** the precise mechanism of action is unknown (label)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Cochrane 2020: 120 trials, most up to 12 weeks", "Epsolay: 2 randomized trials, 733 adults", "OTC acne monograph at 2.5% to 10%"]
+  },
+  "notEstablished": [
+    { "text": "Amount absorbed into the body", "icon": "question" },
+    { "text": "Meaning of animal tumor findings", "icon": "question" },
+    { "text": "Effects on fertility", "icon": "sperm" }
+  ],
+  "practical": {
+    "halfLife": "Not established (body exposure not assessed)",
+    "routes": "On the skin (creams, gels, washes)",
+    "pharmacokinetics": "Converted to benzoic acid in skin; eliminated in urine",
+    "soldAs": "OTC 2.5% to 10%; Rx creams and combination gels",
+    "monitored": "Skin irritation, allergic reactions",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "OTC acne monograph, 2.5% to 10% (21 CFR 333)" },
+    { "agency": "FDA", "text": "Rx Epsolay (2022) and combinations approved" },
+    { "agency": "FDA", "text": "Benzene found in 6 of 95 products tested (2025)" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "FDA, Epsolay (benzoyl peroxide) cream 5% label, Aug 2025",
+    "Cochrane Database Syst Rev, topical benzoyl peroxide for acne, Mar 2020",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "vitamin-b6",
+  "lane": "energy",
+  "number": "02",
+  "name": "Vitamin B6 (pyridoxine)",
+  "description": "Water-soluble vitamin; pyridoxine is its plant form, turned into pyridoxal phosphate in the body",
+  "status": {
+    "class": "Vitamin",
+    "studiedFor": "Pyridoxine deficiency",
+    "humanEvidence": "FDA approved; no trials for energy",
+    "usStatus": "FDA approved (deficiency) · energy off-label"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "B6 deficiency",
+        "detail": "Diet, isoniazid, inborn errors",
+        "evidence": "Human",
+        "tile": "nerves"
+      }
+    ],
+    "note": {
+      "lead": "No energy studies.",
+      "text": "No published human study of injected B6, alone or in lipotropic blends, for energy or fat loss was found."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Pyridoxine",
+        "icon": "molecule"
+      },
+      {
+        "label": "PLP (active form)",
+        "icon": "enzyme"
+      },
+      {
+        "label": "Enzyme helper",
+        "icon": "flask"
+      },
+      {
+        "label": "Nutrient breakdown",
+        "icon": "fork"
+      }
+    ],
+    "bullets": [
+      "**Label:** turned into pyridoxal phosphate, which helps enzymes break down nutrients",
+      "Works in **protein, carbohydrate and fat** metabolism",
+      "**For energy or fat loss,** a mechanism in people is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "FDA approved injection for B6 deficiency (1972)",
+      "No human study of B6 injections for energy",
+      "No study of B6 in lipotropic blends"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Energy effect of injections",
+      "icon": "question"
+    },
+    {
+      "text": "Fat-loss effect",
+      "icon": "question"
+    },
+    {
+      "text": "Compounded blends (not approved)",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "15 to 20 days (label)",
+    "routes": "Injection into muscle or vein (label)",
+    "pharmacokinetics": "Broken down to 4-pyridoxic acid in liver; excreted in urine",
+    "soldAs": "Prescription injection (generic pyridoxine HCl)",
+    "monitored": "Label lists paresthesia, sleepiness, low folic acid",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved injection for pyridoxine deficiency"
+    },
+    {
+      "agency": "FDA",
+      "text": "Compounded lipotropic blends: not approved"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not listed; IV over 100 mL per 12 h banned (M2.2)"
+    }
+  ],
+  "references": [
+    "FDA (DailyMed), Pyridoxine Hydrochloride Injection USP label, Oct 2024",
+    "FDA, Drugs@FDA data for pyridoxine (openFDA), Oct 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

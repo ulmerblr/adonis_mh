@@ -1,0 +1,64 @@
+{
+  "slug": "cagrilintide",
+  "lane": "weight",
+  "number": "06",
+  "name": "Cagrilintide",
+  "description": "Experimental long-acting version of amylin, a pancreas hormone; tested alone and with semaglutide",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Weight, type 2 diabetes",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "With semaglutide", "detail": "CagriSema, 68 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Body weight, alone", "detail": "Phase 2, 26 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Blood sugar", "detail": "CagriSema, type 2 diabetes", "evidence": "Human", "tile": "blood-sugar" }
+    ],
+    "note": { "lead": "Most trials test CagriSema.", "text": "CagriSema pairs cagrilintide with semaglutide 2.4 mg. A Phase 3 trial of cagrilintide alone (RENEW 1) is still running." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Cagrilintide", "icon": "molecule" },
+      { "label": "Acts like amylin", "icon": "hormone" },
+      { "label": "Fullness", "icon": "fork" },
+      { "label": "Body weight", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Long-acting version** of amylin, a hormone the pancreas releases",
+      "**Amylin** makes people feel full",
+      "**Given once a week** under the skin in trials",
+      "**No FDA label,** so there is no approved mechanism statement"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Phase 2 alone: 706 adults, 26 weeks", "CagriSema Phase 3: REDEFINE 1 (3,417) and 2 (1,206)", "Phase 3 of cagrilintide alone still running"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Heart outcomes (trial running)", "icon": "heart" },
+    { "text": "Phase 3 results alone", "icon": "question" },
+    { "text": "Half-life in people", "icon": "clock" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection under the skin, once weekly (trials)",
+    "pharmacokinetics": "Exposure rose in proportion to dose (Phase 1)",
+    "soldAs": "Not approved; FDA says it cannot be compounded",
+    "monitored": "Body weight, HbA1c, stomach and bowel effects",
+    "sport": "Not named on the 2026 list; S0 status unconfirmed"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; cannot be used in compounding" },
+    { "agency": "EMA", "text": "Not authorised" },
+    { "agency": "WADA", "text": "Not named; class S0 may apply" }
+  ],
+  "references": [
+    "Lau et al., cagrilintide Phase 2, Lancet, Dec 2021",
+    "Garvey et al., REDEFINE 1, N Engl J Med, Aug 2025",
+    "FDA, Concerns with unapproved GLP-1 drugs used for weight loss, Oct 2026"
+  ],
+  "checked": "Nov 2026"
+}

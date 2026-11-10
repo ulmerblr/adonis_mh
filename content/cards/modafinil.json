@@ -1,0 +1,64 @@
+{
+  "slug": "modafinil",
+  "lane": "brain",
+  "number": "06",
+  "name": "Modafinil",
+  "description": "Wakefulness-promoting drug taken by mouth; a 50:50 mix of R and S mirror-image forms",
+  "status": {
+    "class": "Wakefulness-promoting agent",
+    "studiedFor": "Sleepiness: narcolepsy, OSA, shift work",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Provigil) · Schedule IV"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Narcolepsy", "detail": "2 trials, 558 people, 9 weeks", "evidence": "Human", "tile": "sleep" },
+      { "label": "Sleep apnea sleepiness", "detail": "With CPAP; 327 and 157 people", "evidence": "Human", "tile": "sleep" },
+      { "label": "Shift work disorder", "detail": "209 people, 12 weeks", "evidence": "Human", "tile": "sleep" },
+      { "label": "Focus, healthy adults", "detail": "Off-label; mixed results", "evidence": "Human", "tile": "memory" },
+      { "label": "Fatigue (MS, cancer)", "detail": "Off-label; mixed results", "evidence": "Human", "tile": "fatigue" }
+    ]
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Modafinil", "icon": "pill" },
+      { "label": "Dopamine carrier", "icon": "receptor" },
+      { "label": "More dopamine", "icon": "nerve" },
+      { "label": "Wakefulness", "icon": "sun" }
+    ],
+    "bullets": [
+      "**Label:** how it promotes wakefulness is unknown",
+      "**In lab studies,** binds the dopamine reuptake site; raises dopamine outside cells",
+      "Effects resemble **stimulants** such as amphetamine, but the profile is not identical",
+      "The **R form** is sold on its own as armodafinil (Nuvigil)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Placebo trials in narcolepsy, OSA, shift work", "FDA approved 1998 (Provigil)", "EU and UK: narcolepsy only since 2010"]
+  },
+  "notEstablished": [
+    { "text": "Use in children (not approved)", "icon": "question" },
+    { "text": "Pregnancy (birth defect signal)", "icon": "alert" }
+  ],
+  "practical": {
+    "halfLife": "About 15 hours after repeated doses (label)",
+    "routes": "Oral tablets (label)",
+    "pharmacokinetics": "Peak in 2 to 4 hours; steady state in 2 to 4 days",
+    "soldAs": "Prescription tablets (Provigil); Schedule IV",
+    "monitored": "Rash; psychiatric symptoms; blood pressure, heart",
+    "sport": "Prohibited in competition, class S6"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (Provigil, 1998)" },
+    { "agency": "DEA", "text": "Schedule IV controlled substance" },
+    { "agency": "EMA", "text": "Restricted to narcolepsy (2010 review)" },
+    { "agency": "WADA", "text": "Prohibited in competition (S6.A)" }
+  ],
+  "references": [
+    "FDA (DailyMed), Provigil prescribing information, Mar 2025",
+    "EMA, modafinil referral (Article 31), Nov 2010",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

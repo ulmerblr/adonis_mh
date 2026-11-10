@@ -1,0 +1,60 @@
+/**
+ * Treatment-card tiles (EDU PROMPT 39): one key per body area a card's "Studied for" item can point to.
+ *
+ * `image` is a photo tile in public/images/cards/tiles/, or null when none has been made yet; a card shows up to two
+ * photo tiles and draws every other item as an icon tile (`icon`, a key in components/card/icons.tsx).
+ * content/card-art-needed.md lists the keys cards use that still have no image (scripts/card-art-needed.mjs).
+ */
+export type CardTile = { label: string; image: string | null; icon: string };
+
+export const CARD_TILES: Record<string, CardTile> = {
+  'gut-lining': { label: 'Gut lining', image: '/images/cards/tiles/tile-gut-lining.jpg', icon: 'gut' },
+  tendon: { label: 'Tendon and ligament', image: '/images/cards/tiles/tile-tendon.jpg', icon: 'fiber' },
+  knee: { label: 'Knee and joints', image: null, icon: 'knee' },
+  bone: { label: 'Bone', image: null, icon: 'bone' },
+  muscle: { label: 'Muscle', image: null, icon: 'muscle' },
+  wound: { label: 'Wounds', image: null, icon: 'bandage' },
+  skin: { label: 'Skin', image: null, icon: 'skin' },
+  acne: { label: 'Acne', image: null, icon: 'skin' },
+  scalp: { label: 'Scalp and hair', image: null, icon: 'hair' },
+  brain: { label: 'Brain', image: null, icon: 'brain' },
+  mood: { label: 'Mood', image: null, icon: 'mood' },
+  memory: { label: 'Memory and focus', image: null, icon: 'brain' },
+  nerves: { label: 'Nerves', image: null, icon: 'nerve' },
+  pain: { label: 'Pain', image: null, icon: 'pulse' },
+  sleep: { label: 'Sleep', image: null, icon: 'moon' },
+  heart: { label: 'Heart', image: null, icon: 'heart' },
+  'blood-vessels': { label: 'Blood vessels', image: null, icon: 'vessel' },
+  'blood-pressure': { label: 'Blood pressure', image: null, icon: 'gauge' },
+  blood: { label: 'Blood', image: null, icon: 'drop' },
+  liver: { label: 'Liver', image: null, icon: 'liver' },
+  kidney: { label: 'Kidney', image: null, icon: 'kidney' },
+  bladder: { label: 'Bladder', image: null, icon: 'bladder' },
+  prostate: { label: 'Prostate', image: null, icon: 'male' },
+  erection: { label: 'Erections', image: null, icon: 'male' },
+  libido: { label: 'Sex drive', image: null, icon: 'spark' },
+  ejaculation: { label: 'Ejaculation', image: null, icon: 'male' },
+  testes: { label: 'Testes and hormones', image: null, icon: 'male' },
+  fertility: { label: 'Sperm and fertility', image: null, icon: 'sperm' },
+  hormones: { label: 'Hormones', image: null, icon: 'hormone' },
+  thyroid: { label: 'Thyroid', image: null, icon: 'hormone' },
+  'growth-hormone': { label: 'Growth hormone', image: null, icon: 'hormone' },
+  'body-fat': { label: 'Body fat', image: null, icon: 'fat' },
+  appetite: { label: 'Appetite', image: null, icon: 'fork' },
+  'blood-sugar': { label: 'Blood sugar', image: null, icon: 'drop' },
+  cholesterol: { label: 'Cholesterol', image: null, icon: 'drop' },
+  pancreas: { label: 'Pancreas', image: null, icon: 'gut' },
+  gut: { label: 'Stomach and gut', image: null, icon: 'gut' },
+  lungs: { label: 'Lungs', image: null, icon: 'lungs' },
+  immune: { label: 'Immune system', image: null, icon: 'shield' },
+  inflammation: { label: 'Inflammation', image: null, icon: 'flame' },
+  infection: { label: 'Infection', image: null, icon: 'cell' },
+  eye: { label: 'Eyes', image: null, icon: 'eye' },
+  mitochondria: { label: 'Mitochondria and energy', image: null, icon: 'bolt' },
+  exercise: { label: 'Exercise performance', image: null, icon: 'muscle' },
+  fatigue: { label: 'Fatigue and energy', image: null, icon: 'bolt' },
+  aging: { label: 'Aging cells', image: null, icon: 'cell' },
+  cancer: { label: 'Cancer', image: null, icon: 'cell' },
+  addiction: { label: 'Alcohol and drug use', image: null, icon: 'pill' },
+  'sun-skin': { label: 'Sun-exposed skin', image: null, icon: 'sun' },
+};

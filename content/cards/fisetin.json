@@ -1,0 +1,64 @@
+{
+  "slug": "fisetin",
+  "lane": "longevity",
+  "number": "09",
+  "name": "Fisetin",
+  "description": "Flavonoid, a plant pigment found in some fruits and vegetables",
+  "status": {
+    "class": "Flavonoid (dietary supplement)",
+    "studiedFor": "Senescent cells, frailty, bone",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Dietary supplement · not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "60 obese men, 12 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Bone turnover", "detail": "Older women, results posted", "evidence": "Human", "tile": "bone" },
+      { "label": "COVID-19", "detail": "Pilots; one stopped early", "evidence": "Human", "tile": "infection" },
+      { "label": "Frailty", "detail": "Mayo trials, no results yet", "evidence": "Human", "tile": "muscle" },
+      { "label": "Senescent cells", "detail": "Mouse lifespan, lab cells", "evidence": "Animal", "tile": "aging" }
+    ],
+    "note": { "lead": "Most results are unpublished.", "text": "Several completed trials posted results on ClinicalTrials.gov without a journal paper. The Mayo frailty trials have posted no results." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Fisetin", "icon": "molecule" },
+      { "label": "Senescent cells", "icon": "cell" },
+      { "label": "Cells cleared", "icon": "target" },
+      { "label": "Tissue aging", "icon": "clockface" }
+    ],
+    "bullets": [
+      "**Senolytic** in a lab screen: killed senescent (old, damaged) cells",
+      "**Lowered senescence markers** and extended lifespan in mice",
+      "**In people,** removal of senescent cells is not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small pilots, mostly Mayo Clinic", "One published randomized trial, 60 men", "Lifespan data are from mice"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effect on aging in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (capsules)",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "Dietary supplement",
+    "monitored": "Walk distance, bone and inflammation markers",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved as a drug" },
+    { "agency": "FDA", "text": "Supplements not reviewed before sale" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "EBioMedicine, fisetin is a senotherapeutic that extends health and lifespan, Oct 2018",
+    "ClinicalTrials.gov, NCT04313634, senolytics and bone (Mayo Clinic)",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "semaglutide",
+  "lane": "weight",
+  "number": "01",
+  "name": "Semaglutide",
+  "description": "Man-made version of GLP-1, a gut hormone, with 94% of its sequence shared with human GLP-1",
+  "status": {
+    "class": "Peptide (GLP-1 receptor agonist)",
+    "studiedFor": "Weight, diabetes, heart risk",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Wegovy, Ozempic, Rybelsus)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Body weight",
+        "detail": "STEP 1: 1,961 adults",
+        "evidence": "Human",
+        "tile": "body-fat"
+      },
+      {
+        "label": "Blood sugar",
+        "detail": "Type 2 diabetes",
+        "evidence": "Human",
+        "tile": "blood-sugar"
+      },
+      {
+        "label": "Heart events",
+        "detail": "SELECT: 17,604 adults",
+        "evidence": "Human",
+        "tile": "heart"
+      },
+      {
+        "label": "Liver (MASH)",
+        "detail": "Accelerated approval",
+        "evidence": "Human + animal",
+        "tile": "liver"
+      },
+      {
+        "label": "Thyroid C-cell tumors",
+        "detail": "Mice and rats",
+        "evidence": "Animal",
+        "tile": "cancer"
+      }
+    ],
+    "note": {
+      "lead": "Compounded versions are not approved.",
+      "text": "FDA says the semaglutide shortage ended in Feb 2025. Ozempic and Rybelsus are approved for diabetes; weight use of them is off-label."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Semaglutide",
+        "icon": "molecule"
+      },
+      {
+        "label": "GLP-1 receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Appetite areas",
+        "icon": "brain"
+      },
+      {
+        "label": "Food intake",
+        "icon": "fork"
+      }
+    ],
+    "bullets": [
+      "**Label:** binds and activates the GLP-1 receptor, the target of native GLP-1",
+      "**GLP-1** regulates appetite; its receptor is in brain appetite areas",
+      "**In animals,** it reached and activated neurons that regulate food intake",
+      "**Heart-risk mechanism** in adults has not been established (label)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "STEP 1: weight -14.9% vs -2.4% at 68 weeks",
+      "SELECT: heart events 6.5% vs 8.0%",
+      "Trials funded by the maker, Novo Nordisk"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Thyroid tumor risk in people",
+      "icon": "question"
+    },
+    {
+      "text": "Effects with B12 or glycine",
+      "icon": "interact"
+    }
+  ],
+  "practical": {
+    "halfLife": "About 1 week (label)",
+    "routes": "Injection under the skin; tablets by mouth",
+    "pharmacokinetics": "Injection: peak 1 to 3 days; tablets: peak 1 hour (label)",
+    "soldAs": "Prescription (Wegovy, Ozempic, Rybelsus); compounded not approved",
+    "monitored": "Heart rate, kidney function, blood sugar in diabetes",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved; boxed warning, thyroid C-cell tumors"
+    },
+    {
+      "agency": "FDA",
+      "text": "Compounded versions not approved"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not prohibited"
+    }
+  ],
+  "references": [
+    "FDA, Wegovy prescribing information, Jun 2026",
+    "N Engl J Med, STEP 1 (Wilding et al.), Mar 2021",
+    "FDA, Ozempic prescribing information, Jun 2026"
+  ],
+  "checked": "Nov 2026"
+}

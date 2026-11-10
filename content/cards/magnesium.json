@@ -1,0 +1,64 @@
+{
+  "slug": "magnesium",
+  "lane": "sleep",
+  "number": "10",
+  "name": "Magnesium",
+  "description": "Dietary mineral, taken as salts such as bisglycinate or L-threonate; sulfate form is an injectable drug",
+  "status": {
+    "class": "Mineral",
+    "studiedFor": "Sleep, insomnia",
+    "humanEvidence": "Small RCTs; low certainty",
+    "usStatus": "Dietary supplement · not a sleep drug"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Insomnia", "detail": "Older adults; 3 small RCTs", "evidence": "Human", "tile": "sleep" },
+      { "label": "Poor sleep", "detail": "Bisglycinate, L-threonate RCTs", "evidence": "Human", "tile": "sleep" },
+      { "label": "Magnesium deficiency", "detail": "Approved use (injection)", "evidence": "Human", "tile": "blood" }
+    ],
+    "note": { "lead": "Sleep evidence is low certainty.", "text": "A 2026 review of 12 trials found inconsistent results and said the evidence does not support routine use for insomnia." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Magnesium", "icon": "molecule" },
+      { "label": "NMDA receptors", "icon": "receptor" },
+      { "label": "GABA signaling", "icon": "brain" },
+      { "label": "Sleep", "icon": "moon" }
+    ],
+    "bullets": [
+      "**Blocks NMDA receptors,** the reasoning given in trial papers",
+      "**Supports GABA signaling,** a brain system involved in sleep",
+      "These are proposed reasons for study, **not trial results**",
+      "**In people,** the sleep mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Injection FDA approved, for other uses", "Sleep RCTs of 46 to 155 people, weeks long", "Reviews: low to very low certainty"]
+  },
+  "notEstablished": [
+    { "text": "Long-term use for sleep", "icon": "calendar" },
+    { "text": "Best salt for sleep", "icon": "question" },
+    { "text": "Dose for sleep in people", "icon": "question" },
+    { "text": "Side-effect rates in sleep use", "icon": "list" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (sleep trials); injection for approved uses",
+    "pharmacokinetics": "Excreted by the kidneys (injection label)",
+    "soldAs": "Dietary supplement; Rx injection (other uses)",
+    "monitored": "Insomnia scores, sleep logs, ring-based sleep scores",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved for sleep; sold as a supplement" },
+    { "agency": "FDA", "text": "Sulfate injection approved for other uses" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Lopresti et al., J Diet Suppl, magnesium for sleep (systematic review), Aug 2026",
+    "Mah and Pitre, BMC Complement Med Ther, magnesium for insomnia (meta-analysis), Apr 2021",
+    "FDA, Magnesium Sulfate Injection label (DailyMed), Feb 2026"
+  ],
+  "checked": "Nov 2026"
+}

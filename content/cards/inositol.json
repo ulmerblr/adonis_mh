@@ -1,0 +1,99 @@
+{
+  "slug": "inositol",
+  "lane": "energy",
+  "number": "04",
+  "name": "Inositol",
+  "description": "Small cell-signalling molecule, sometimes called a pseudovitamin; the “I” in MIC injection blends",
+  "status": {
+    "class": "Small molecule (pseudovitamin)",
+    "studiedFor": "No studies found for energy or fat loss",
+    "humanEvidence": "No human studies found for this use",
+    "usStatus": "Not FDA approved · compounding under review"
+  },
+  "studiedFor": {
+    "items": [],
+    "note": {
+      "lead": "No published studies.",
+      "text": "No published human study of injected inositol, alone or in MIC blends, for energy or fat loss was found."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Inositol",
+        "icon": "molecule"
+      },
+      {
+        "label": "Cell signalling",
+        "icon": "cell"
+      },
+      {
+        "label": "MIC blends",
+        "icon": "drop"
+      },
+      {
+        "label": "Effect unknown",
+        "icon": "question"
+      }
+    ],
+    "bullets": [
+      "Used by the body in **cell signalling**; no recognized deficiency disease",
+      "The **“I” in MIC** (methionine, inositol, choline) injections",
+      "**In people,** a mechanism for energy or fat loss is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": [
+      "No human study of inositol injections found",
+      "No study of MIC blends for energy or fat loss",
+      "Lab and animal work not reviewed for this use"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Any effect of injections",
+      "icon": "question"
+    },
+    {
+      "text": "Side-effect profile",
+      "icon": "list"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Dose in people",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Not established (no injection studies)",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Compounded (Rx) MIC and lipotropic blends; not FDA approved",
+    "monitored": "Not established (no trials)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "No approved product; 503B nomination under review"
+    },
+    {
+      "agency": "FDA",
+      "text": "MIC injections recalled over sterility (lots)"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not listed; IV over 100 mL per 12 h banned (M2.2)"
+    }
+  ],
+  "references": [
+    "FDA, Bulk drug substances nominated under section 503B (categories), Mar 2025",
+    "FDA, drug recall enforcement reports, lipotropic and MIC products (openFDA), Oct 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

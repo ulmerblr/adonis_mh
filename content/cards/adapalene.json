@@ -1,0 +1,60 @@
+{
+  "slug": "adapalene",
+  "lane": "skin",
+  "number": "09",
+  "name": "Adapalene",
+  "description": "Retinoid (vitamin A-like drug) put on the skin that binds retinoic acid receptors in the cell nucleus",
+  "status": {
+    "class": "Topical retinoid",
+    "studiedFor": "Acne",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved; 0.1% gel over the counter"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Acne", "detail": "Mild to moderate; age 12+", "evidence": "Human", "tile": "acne" },
+      { "label": "Moderate-severe acne", "detail": "With benzoyl peroxide", "evidence": "Human", "tile": "skin" }
+    ]
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Adapalene", "icon": "molecule" },
+      { "label": "Retinoic acid rec.", "icon": "receptor" },
+      { "label": "Skin cell turnover", "icon": "cell" },
+      { "label": "Acne lesions", "icon": "skin" }
+    ],
+    "bullets": [
+      "**Binds retinoic acid nuclear receptors,** not the cytosolic receptor protein",
+      "**Modulates** cell differentiation, keratinization and inflammation",
+      "**Meaning for acne** of these findings is unknown, per the label"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Differin approved 1996; OTC since 2016", "0.3%/0.1% gel trial, 653 people, 12 weeks", "Clear or almost clear: 21% / 16% vs 9%"]
+  },
+  "notEstablished": [
+    { "text": "Use in pregnancy", "icon": "question" },
+    { "text": "Circulating metabolites", "icon": "molecule" }
+  ],
+  "practical": {
+    "halfLife": "Mean 17.2 hours (range 7 to 51) after skin use",
+    "routes": "On the skin (gel, cream, solution)",
+    "pharmacokinetics": "Low blood levels; mostly gone by 72 hours; biliary excretion",
+    "soldAs": "OTC 0.1% gel (Differin); prescription 0.3% gel, cream, combinations",
+    "monitored": "Skin irritation, sun sensitivity",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved 1996; 0.1% gel switched to OTC (2016)" },
+    { "agency": "FDA", "text": "Differin Epiduo OTC approved (May 2026)" },
+    { "agency": "EMA", "text": "Authorised nationally in all 27 EU countries" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Differin gel 0.3% prescribing information (DailyMed), Dec 2023",
+    "FDA, Prescription to Nonprescription Switch List, Jun 2026",
+    "Cunliffe et al., Br J Dermatol, adapalene vs tretinoin pooled analysis, Oct 1998"
+  ],
+  "checked": "Nov 2026"
+}

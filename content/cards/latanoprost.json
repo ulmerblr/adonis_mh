@@ -1,0 +1,63 @@
+{
+  "slug": "latanoprost",
+  "lane": "hair-loss",
+  "number": "03",
+  "name": "Latanoprost",
+  "description": "Prostaglandin F2α analogue eye drop, tried on the scalp for hair loss",
+  "status": {
+    "class": "Prostaglandin analogue",
+    "studiedFor": "Eye pressure, hair loss",
+    "humanEvidence": "FDA approved (eyes); hair: two small pilots",
+    "usStatus": "FDA approved (Xalatan); hair off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Eye pressure", "detail": "Approved use (glaucoma)", "evidence": "Human", "tile": "eye" },
+      { "label": "Male pattern loss", "detail": "Pilot, 16 men", "evidence": "Human", "tile": "scalp" },
+      { "label": "Female pattern loss", "detail": "Pilot, 29 women (acid form)", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Hair use is off-label.", "text": "A Phase III trial of a combination solution is recruiting, with no results posted. No compounded spray has been tested." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Latanoprost", "icon": "molecule" },
+      { "label": "Active acid", "icon": "enzyme" },
+      { "label": "Fluid outflow", "icon": "drop" },
+      { "label": "Lower eye pressure", "icon": "eye" }
+    ],
+    "bullets": [
+      "**Prodrug:** corneal esterases turn it into the active acid, per the label",
+      "**Lowers eye pressure** mainly by raising uveoscleral outflow",
+      "**Lash changes** (longer, thicker, more lashes) are a labeled effect",
+      "**On the scalp,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Eye drop approved in 1996 (Xalatan)", "Hair: two small pilots, 16 men and 29 women", "Phase III combination trial recruiting"]
+  },
+  "notEstablished": [
+    { "text": "Hair effect in larger trials", "icon": "question" },
+    { "text": "Long-term scalp safety", "icon": "calendar" },
+    { "text": "Scalp dose in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "17 minutes (active acid, in plasma)",
+    "routes": "Eye drops; on the scalp in small trials (off-label)",
+    "pharmacokinetics": "Ester prodrug hydrolyzed in the cornea; liver β-oxidation",
+    "soldAs": "Rx eye drops (Xalatan); compounded scalp sprays",
+    "monitored": "Hair counts and density (pilots); eye pigment (label)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for eye pressure (1996); not hair loss" },
+    { "agency": "EMA", "text": "Authorised nationally for eye pressure" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Xalatan prescribing information (DailyMed), May 2023",
+    "Blume-Peytavi et al., J Am Acad Dermatol, latanoprost on the scalp, May 2012",
+    "Rakowska et al., Pharmacol Rep, latanoprost acid in women, Aug 2026"
+  ],
+  "checked": "Nov 2026"
+}

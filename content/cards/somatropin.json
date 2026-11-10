@@ -1,0 +1,64 @@
+{
+  "slug": "somatropin",
+  "lane": "longevity",
+  "number": "17",
+  "name": "Somatropin (growth hormone)",
+  "description": "Recombinant human growth hormone, a 191-amino-acid protein given by injection under the skin",
+  "status": {
+    "class": "Hormone",
+    "studiedFor": "GH deficiency, body composition",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Genotropin) · not for aging"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "GH deficiency", "detail": "Children and adults (approved)", "evidence": "Human", "tile": "growth-hormone" },
+      { "label": "Child growth disorders", "detail": "Turner, Prader-Willi, SGA", "evidence": "Human", "tile": "bone" },
+      { "label": "HIV wasting", "detail": "Serostim (approved)", "evidence": "Human", "tile": "muscle" },
+      { "label": "Lean mass and fat", "detail": "Older adults; strength unclear", "evidence": "Human", "tile": "body-fat" }
+    ],
+    "note": { "lead": "Aging is not an approved use.", "text": "US federal law makes it a crime to distribute human growth hormone for any use FDA has not authorized, including anti-aging." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Somatropin", "icon": "hormone" },
+      { "label": "IGF-I levels", "icon": "trend" },
+      { "label": "Growth plates", "icon": "bone" },
+      { "label": "Lean mass, growth", "icon": "muscle" }
+    ],
+    "bullets": [
+      "**Equivalent to pituitary growth hormone** in lab and clinical tests (label)",
+      "**Stimulates linear growth** in children; normalizes IGF-I in GH deficiency (label)",
+      "**In adults with GH deficiency,** less fat mass and more lean mass (label)",
+      "**In aging,** a benefit is not established; strength did not clearly rise"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for growth disorders since the 1980s", "Older adults: 18 small RCTs reviewed (2007)", "No trial showed slower aging"]
+  },
+  "notEstablished": [
+    { "text": "Effect on aging in people", "icon": "question" },
+    { "text": "Strength gain in older adults", "icon": "muscle" },
+    { "text": "Fertility in people (no data)", "icon": "sperm" }
+  ],
+  "practical": {
+    "halfLife": "3.0 hours under the skin (GHD adults); 0.4 hours IV",
+    "routes": "Injection under the skin",
+    "pharmacokinetics": "Protein breakdown in liver and kidneys (label)",
+    "soldAs": "Prescription injection (Genotropin and other brands)",
+    "monitored": "IGF-I levels, blood sugar, thyroid, cortisol, tumors",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for growth disorders, GHD, HIV wasting" },
+    { "agency": "FDA", "text": "Distributing for unapproved uses is a crime" },
+    { "agency": "WADA", "text": "Prohibited at all times (S2.2.3)" }
+  ],
+  "references": [
+    "FDA, Genotropin prescribing information, Aug 2026",
+    "Ann Intern Med, growth hormone in healthy elderly: systematic review, Jan 2007",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

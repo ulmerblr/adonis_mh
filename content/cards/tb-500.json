@@ -1,0 +1,64 @@
+{
+  "slug": "tb-500",
+  "lane": "recovery",
+  "number": "02",
+  "name": "TB-500",
+  "description": "Synthetic 7-amino-acid peptide (Ac-LKKTETQ), copied from part of the protein thymosin beta-4",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Tendon repair, wound healing",
+    "humanEvidence": "Case reports only",
+    "usStatus": "Not FDA approved · compounding allowed"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Nerve injury", "detail": "3 dental cases, mixed drugs", "evidence": "Human", "tile": "nerves" },
+      { "label": "Tendon & ligament", "detail": "Rat Achilles repair", "evidence": "Animal", "tile": "tendon" },
+      { "label": "Wound healing", "detail": "Related fragment, aged mice", "evidence": "Animal", "tile": "wound" }
+    ],
+    "note": { "lead": "Not the same as thymosin beta-4.", "text": "TB-500 copies 7 of the protein's 43 amino acids. FDA notes that human trials of the full protein do not apply to TB-500." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "TB-500", "icon": "molecule" },
+      { "label": "Actin binding", "icon": "cell" },
+      { "label": "Cell movement", "icon": "arrow" },
+      { "label": "Tissue repair", "icon": "fiber" }
+    ],
+    "bullets": [
+      "**Contains the actin-binding part** of thymosin beta-4; same binding proposed",
+      "**FDA:** not known whether actin binding explains any reported effect",
+      "**In horses,** broken into fragments; gone from blood after 6 to 10 hours",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": ["Mostly animal and cell data", "1 case report: 3 people, mixed with other drugs", "No clinical trial results"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Animal toxicity studies", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Only gum injections, in one 3-person mixed case report",
+    "pharmacokinetics": "No human data; horses: cleared from blood in 6 to 10 hours",
+    "soldAs": "Compounded (Rx) or “research use only”",
+    "monitored": "Numb area, sensory recovery (case report)",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "HHS", "text": "Compounding allowed, 10 conditions (Oct 2026)" },
+    { "agency": "WADA", "text": "Prohibited (S2)" }
+  ],
+  "references": [
+    "FDA, Pharmacy Compounding Advisory Committee briefing on TB-500, July 2026",
+    "HHS, Federal Register notice 2026-22192, Oct 30, 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

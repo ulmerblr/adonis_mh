@@ -1,0 +1,114 @@
+{
+  "slug": "nandrolone",
+  "lane": "trt",
+  "number": "13",
+  "name": "Nandrolone",
+  "description": "Synthetic anabolic steroid related to testosterone; the decanoate ester is an oily injection into muscle",
+  "status": {
+    "class": "Anabolic steroid",
+    "studiedFor": "Kidney anemia, muscle loss",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not marketed in the US (approval withdrawn)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Kidney anemia",
+        "detail": "Former labeled use",
+        "evidence": "Human",
+        "tile": "blood"
+      },
+      {
+        "label": "Muscle on dialysis",
+        "detail": "Lean mass, 2 small RCTs",
+        "evidence": "Human",
+        "tile": "muscle"
+      },
+      {
+        "label": "HIV weight loss",
+        "detail": "Lean mass, 12 weeks",
+        "evidence": "Human",
+        "tile": "muscle"
+      }
+    ],
+    "note": {
+      "lead": "No US product is marketed.",
+      "text": "Deca-Durabolin was approved in 1962; FDA withdrew the application in Dec 2024 at the maker’s request."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Nandrolone",
+        "icon": "molecule"
+      },
+      {
+        "label": "Androgen receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Red cells, protein",
+        "icon": "drop"
+      },
+      {
+        "label": "Lean mass",
+        "icon": "muscle"
+      }
+    ],
+    "bullets": [
+      "**Label:** anabolic and androgenic effects have never been fully separated",
+      "**Label:** suppresses pituitary signals to the testes; may act on the testis",
+      "**Approved use:** raised hemoglobin and red cell mass in kidney failure"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": [
+      "Approved 1962, before modern trial rules",
+      "Small RCTs: dialysis (29, 79 people), HIV",
+      "Trials ran 12 weeks to 6 months"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term outcomes in RCTs",
+      "icon": "calendar"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Survival effects on dialysis",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established (not on the label)",
+    "routes": "Injection into muscle",
+    "pharmacokinetics": "Not established (label gives no data)",
+    "soldAs": "Not available in the US; Schedule III",
+    "monitored": "Hemoglobin, hematocrit, lipids, liver tests (label)",
+    "sport": "Prohibited, class S1"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approval withdrawn Dec 2024; all discontinued"
+    },
+    {
+      "agency": "DEA",
+      "text": "Schedule III anabolic steroid"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S1)"
+    }
+  ],
+  "references": [
+    "FDA, nandrolone decanoate injection label (Watson), Feb 2007",
+    "Federal Register, 89 FR 91410, withdrawal of 26 drug applications, Nov 2024",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

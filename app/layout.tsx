@@ -5,7 +5,7 @@ import './globals.css';
 
 const zilla = Zilla_Slab({ subsets: ['latin'], weight: ['500', '700'], style: ['normal', 'italic'], variable: '--font-zilla', display: 'swap' });
 const anton = Anton({ subsets: ['latin'], weight: '400', variable: '--font-anton', display: 'swap' });
-const sans = Source_Sans_3({ subsets: ['latin'], weight: ['400', '600', '700', '800'], variable: '--font-sans', display: 'swap' });
+const sans = Source_Sans_3({ subsets: ['latin'], weight: ['400', '500', '600', '700', '800', '900'], variable: '--font-sans', display: 'swap' });
 
 export const metadata = {
   title: { default: 'AdonisMensHealth.com', template: '%s | AdonisMensHealth.com' },

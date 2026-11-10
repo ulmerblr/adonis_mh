@@ -1,0 +1,110 @@
+{
+  "slug": "testosterone-enanthate",
+  "lane": "trt",
+  "number": "16",
+  "name": "Testosterone enanthate",
+  "description": "Testosterone ester in oil, broken down to free testosterone after injection into muscle or under the skin",
+  "status": {
+    "class": "Hormone (steroid ester)",
+    "studiedFor": "Low testosterone, contraception",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Xyosted, generics)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Low testosterone",
+        "detail": "Hypogonadism (labeled use)",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Sperm suppression",
+        "detail": "WHO male contraception study",
+        "evidence": "Human",
+        "tile": "fertility"
+      },
+      {
+        "label": "Blood pressure",
+        "detail": "Xyosted label measures",
+        "evidence": "Human",
+        "tile": "blood-pressure"
+      }
+    ],
+    "note": {
+      "lead": "Approval trials were open-label.",
+      "text": "Xyosted trials measured hormone levels in men with hypogonadism; they were not built to test symptoms."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Enanthate ester",
+        "icon": "molecule"
+      },
+      {
+        "label": "Free testosterone",
+        "icon": "hormone"
+      },
+      {
+        "label": "Androgen receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Male traits",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Label:** testosterone drives male sex organ growth and keeps up male traits",
+      "**Ester:** broken down to free testosterone after injection",
+      "**Feedback:** lowers LH; at large doses FSH and sperm production"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "FDA approved 1953 (Delatestryl); Xyosted 2018",
+      "Xyosted: 150 men, 52 weeks, open-label",
+      "WHO study: 271 men, weekly injections"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Use for age-related low T",
+      "icon": "question"
+    },
+    {
+      "text": "Half-life of the ester",
+      "icon": "clock"
+    }
+  ],
+  "practical": {
+    "halfLife": "Testosterone: 10 to 100 minutes (label); ester figure not given",
+    "routes": "Injection into muscle; weekly autoinjector under the skin",
+    "pharmacokinetics": "Xyosted: median peak about 11.9 hours after weekly dose",
+    "soldAs": "Prescription (Schedule III)",
+    "monitored": "Hematocrit about every 3 months, blood pressure (Xyosted label)",
+    "sport": "Prohibited, class S1"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved for hypogonadism (Xyosted, generics)"
+    },
+    {
+      "agency": "DEA",
+      "text": "Schedule III anabolic steroid"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S1)"
+    }
+  ],
+  "references": [
+    "FDA, Xyosted prescribing information, Apr 2026",
+    "FDA, testosterone enanthate injection label (Hikma), May 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

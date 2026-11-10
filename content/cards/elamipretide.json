@@ -1,0 +1,64 @@
+{
+  "slug": "elamipretide",
+  "lane": "longevity",
+  "number": "08",
+  "name": "Elamipretide (SS-31)",
+  "description": "Synthetic 4-amino-acid peptide that binds cardiolipin in mitochondria; injected under the skin",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Barth syndrome, muscle, eye disease",
+    "humanEvidence": "Controlled trials; FDA approved",
+    "usStatus": "FDA approved (Forzinity) · accelerated"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Barth syndrome", "detail": "Knee strength (approved)", "evidence": "Human", "tile": "muscle" },
+      { "label": "Mitochondrial myopathy", "detail": "Phase 3: main goals missed", "evidence": "Human", "tile": "mitochondria" },
+      { "label": "Dry macular disease", "detail": "Phase 2: main goals missed", "evidence": "Human", "tile": "eye" },
+      { "label": "Heart attack", "detail": "Phase 2a, 300 adults", "evidence": "Human", "tile": "heart" },
+      { "label": "Muscle energy, aging", "detail": "One infusion, 39 older adults", "evidence": "Human", "tile": "aging" }
+    ],
+    "note": { "lead": "Approved for Barth syndrome only.", "text": "Use for aging is off-label. No trial has tested elamipretide for longevity; a small pilot in adults 65 to 80 is recruiting." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Elamipretide", "icon": "molecule" },
+      { "label": "Binds cardiolipin", "icon": "receptor" },
+      { "label": "Inner membrane", "icon": "cell" },
+      { "label": "Mitochondria", "icon": "bolt" }
+    ],
+    "bullets": [
+      "**Mitochondrial cardiolipin binder** that settles in the inner membrane (label)",
+      "**Improves mitochondrial** shape and function, per the label",
+      "**In aging,** an effect in people is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approval rests on a 12-person trial and extension", "Larger trials mostly missed main goals", "Confirmatory Barth trial running"]
+  },
+  "notEstablished": [
+    { "text": "Effect on aging in people", "icon": "question" },
+    { "text": "Half-life (not on the label)", "icon": "clock" },
+    { "text": "Cancer risk (not studied)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established (not given on the label)",
+    "routes": "Under the skin (label); IV in some trials",
+    "pharmacokinetics": "Peak in 0.5 to 1 hour; broken down to inactive peptides; urine",
+    "soldAs": "Prescription injection (Forzinity)",
+    "monitored": "Allergic reactions, injection sites, eosinophil counts",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Accelerated approval, Sep 2025, Barth syndrome" },
+    { "agency": "FDA", "text": "Confirmatory trial required" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "FDA, Forzinity (elamipretide) prescribing information, Dec 2025",
+    "FDA, accelerated approval of first treatment for Barth syndrome, Sep 2025",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "tongkat-ali",
+  "lane": "trt",
+  "number": "18",
+  "name": "Tongkat ali (Eurycoma longifolia)",
+  "description": "Root of Eurycoma longifolia, a Southeast Asian plant also called Malaysian ginseng",
+  "status": {
+    "class": "Plant extract",
+    "studiedFor": "Testosterone, stress, erections",
+    "humanEvidence": "Controlled human trials (small, short)",
+    "usStatus": "Dietary supplement · not an approved drug"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Testosterone", "detail": "Meta-analysis of 5 RCTs", "evidence": "Human + animal", "tile": "hormones" },
+      { "label": "Stress and mood", "detail": "Cortisol, mood scores, 4 weeks", "evidence": "Human", "tile": "mood" },
+      { "label": "Erectile function", "detail": "Aging men, with exercise", "evidence": "Human", "tile": "erection" },
+      { "label": "Sperm", "evidence": "Animal", "tile": "fertility" },
+      { "label": "Bone", "evidence": "Animal", "tile": "bone" }
+    ],
+    "note": { "lead": "Trials are small and short.", "text": "Most used standardized water extracts in Malaysia. One case report describes liver injury after use." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Root extract", "icon": "molecule" },
+      { "label": "Root compounds", "icon": "flask" },
+      { "label": "Sex hormones", "icon": "hormone" },
+      { "label": "Testosterone", "icon": "male" }
+    ],
+    "bullets": [
+      "**In rats,** root compounds showed aphrodisiac and testosterone effects",
+      "**In young men,** testosterone and estradiol rose; LH, FSH, SHBG did not change",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Placebo-controlled trials, 32 to 63 people", "2 weeks to 6 months each", "1 case report of liver injury"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Drug interactions", "icon": "interact" },
+    { "text": "Contents of products sold", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (standardized water extract) in trials",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement; not FDA reviewed before sale",
+    "monitored": "Testosterone, cortisol, symptom and erectile function scores",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "No approved drug; sold as dietary supplement" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Medicina (Kaunas), Eurycoma longifolia and testosterone meta-analysis, Aug 2022",
+    "Andrologia, tongkat ali in healthy young men, May 2021",
+    "Cureus, tongkat ali liver injury case report, Mar 2024"
+  ],
+  "checked": "Nov 2026"
+}

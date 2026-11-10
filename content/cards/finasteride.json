@@ -1,0 +1,64 @@
+{
+  "slug": "finasteride",
+  "lane": "hair-loss",
+  "number": "01",
+  "name": "Finasteride",
+  "description": "Synthetic 4-azasteroid that blocks type II 5α-reductase, taken by mouth",
+  "status": {
+    "class": "5α-reductase inhibitor",
+    "studiedFor": "Hair loss, enlarged prostate",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Propecia, Proscar)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Male pattern loss", "detail": "Approved use (Propecia)", "evidence": "Human", "tile": "scalp" },
+      { "label": "Enlarged prostate", "detail": "Approved use (Proscar)", "evidence": "Human", "tile": "prostate" },
+      { "label": "Topical spray", "detail": "One Phase III; not US approved", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Not indicated for women.", "text": "A 12-month trial in 137 postmenopausal women showed no improvement over placebo. No topical form is FDA approved." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Finasteride", "icon": "pill" },
+      { "label": "5α-reductase II", "icon": "enzyme" },
+      { "label": "Less DHT", "icon": "hormone" },
+      { "label": "Scalp, prostate", "icon": "hair" }
+    ],
+    "bullets": [
+      "**Competitive inhibitor** of type II 5α-reductase, per the label",
+      "**About 100-fold selective** for type II over type I, in lab binding studies",
+      "**Blood DHT** fell about 65% within 24 hours of a 1 mg tablet",
+      "**Testosterone** rose about 15%, staying in the normal range"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for hair loss in 1997", "Three 12-month trials, 1,879 men", "Blinded extensions up to 5 years"]
+  },
+  "notEstablished": [
+    { "text": "Rate of lasting sexual effects", "icon": "question" },
+    { "text": "Role of each DHT drop", "icon": "question" },
+    { "text": "Compounded topical safety", "icon": "list" }
+  ],
+  "practical": {
+    "halfLife": "About 5 to 6 hours (men 18 to 60); 8 hours over 70",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Peak in 1 to 2 hours; liver metabolism (CYP3A4)",
+    "soldAs": "Prescription tablets (Propecia, Proscar)",
+    "monitored": "PSA (lowered), sexual effects, mood",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (1992, 1997); no topical form approved" },
+    { "agency": "EMA", "text": "2025 review added suicidal ideation (tablets)" },
+    { "agency": "MHRA", "text": "Patient card on psychiatric, sexual effects" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Propecia prescribing information (DailyMed), Oct 2024",
+    "Kaufman et al., J Am Acad Dermatol, finasteride in male pattern hair loss, Oct 1998",
+    "EMA, finasteride and dutasteride referral, 2025"
+  ],
+  "checked": "Nov 2026"
+}

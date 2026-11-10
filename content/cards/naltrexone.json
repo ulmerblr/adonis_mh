@@ -1,0 +1,62 @@
+{
+  "slug": "naltrexone",
+  "lane": "weight",
+  "number": "09",
+  "name": "Naltrexone",
+  "description": "Opioid antagonist that blocks the brain's opioid receptors; for weight, approved only with bupropion",
+  "status": {
+    "class": "Opioid antagonist",
+    "studiedFor": "Alcohol, opioid use, weight",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Revia, Vivitrol); weight: Contrave"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Alcohol dependence", "detail": "Tablets, monthly injection", "evidence": "Human", "tile": "addiction" },
+      { "label": "Opioid dependence", "detail": "After detox", "evidence": "Human", "tile": "addiction" },
+      { "label": "Body weight", "detail": "With bupropion (Contrave)", "evidence": "Human", "tile": "body-fat" }
+    ],
+    "note": { "lead": "Weight use alone is off-label.", "text": "For weight, FDA approved naltrexone only combined with bupropion, as Contrave (2014)." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Naltrexone", "icon": "pill" },
+      { "label": "Opioid receptors", "icon": "receptor" },
+      { "label": "Opioids blocked", "icon": "block" },
+      { "label": "Craving, appetite", "icon": "brain" }
+    ],
+    "bullets": [
+      "**Blocks opioid receptors,** so opioids taken while on it have little effect",
+      "**With bupropion,** lab and animal data point to the hypothalamus and reward system",
+      "**In lab studies,** the pair raised firing of appetite-regulating POMC cells",
+      "**Contrave label:** the exact effects behind weight loss are not fully understood"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Contrave: 4 COR trials, 4,536 adults, 56 weeks", "Dose-finding trial vs naltrexone alone: 419 adults", "Approved for addiction since 1984"]
+  },
+  "notEstablished": [
+    { "text": "Contrave effect on heart disease", "icon": "heart" }
+  ],
+  "practical": {
+    "halfLife": "About 4 hours; 6-β-naltrexol 13 hours (tablet label)",
+    "routes": "By mouth (tablets); monthly injection (Vivitrol)",
+    "pharmacokinetics": "Peak within 1 hour; main metabolite 6-β-naltrexol; kidney excretion",
+    "soldAs": "Prescription tablets, injection (Vivitrol); Contrave",
+    "monitored": "Liver injury signs; mood and suicidal thoughts (Contrave)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Revia 1984, Vivitrol 2006, Contrave 2014" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "EMA", "text": "Mysimba: heart safety past 12 months uncertain" },
+    { "agency": "WADA", "text": "Not prohibited" }
+  ],
+  "references": [
+    "FDA, Naltrexone hydrochloride tablets prescribing information, Sep 2026",
+    "FDA, Contrave prescribing information, Nov 2025",
+    "Nissen et al., LIGHT trial, JAMA, Mar 2016"
+  ],
+  "checked": "Nov 2026"
+}

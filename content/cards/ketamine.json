@@ -1,0 +1,113 @@
+{
+  "slug": "ketamine",
+  "lane": "brain",
+  "number": "13",
+  "name": "Ketamine",
+  "description": "General anesthetic given by injection; a 50:50 mix of two mirror-image forms of the molecule",
+  "status": {
+    "class": "Anesthetic (NMDA receptor blocker)",
+    "studiedFor": "Anesthesia, depression",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Ketalar) · depression off-label"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Anesthesia",
+        "detail": "Approved use (Ketalar)",
+        "evidence": "Human",
+        "tile": "pain"
+      },
+      {
+        "label": "Depression",
+        "detail": "Off-label; treatment-resistant",
+        "evidence": "Human",
+        "tile": "mood"
+      }
+    ],
+    "note": {
+      "lead": "Depression use is off-label.",
+      "text": "The only ketamine-type drug FDA approved for depression is esketamine nasal spray (Spravato), under a REMS."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Ketamine",
+        "icon": "molecule"
+      },
+      {
+        "label": "NMDA receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Glutamate blocked",
+        "icon": "block"
+      },
+      {
+        "label": "Dissociation",
+        "icon": "brain"
+      }
+    ],
+    "bullets": [
+      "**Blocks the NMDA receptor,** a receptor for glutamate (label)",
+      "**Norketamine,** the main breakdown product, acts there more weakly",
+      "**Dissociative state:** pain relief, with throat reflexes and muscle tone kept",
+      "**Raises** blood pressure, heart rate and cardiac output (label)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "FDA approved for anesthesia since 1970",
+      "Depression: ketamine vs ECT trial, 403 people",
+      "First depression trial: 7 people, 2000"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "FDA approval for depression",
+      "icon": "question"
+    },
+    {
+      "text": "Long-term use for depression",
+      "icon": "calendar"
+    },
+    {
+      "text": "Compounded product quality",
+      "icon": "list"
+    }
+  ],
+  "practical": {
+    "halfLife": "10 to 15 minutes (first phase, after injection into a vein)",
+    "routes": "Injection into a vein or a muscle (label)",
+    "pharmacokinetics": "Liver metabolism (CYP2B6, CYP3A4); active metabolite norketamine",
+    "soldAs": "Prescription injection (Ketalar, generics); Schedule III",
+    "monitored": "Liver tests with repeated doses (label)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved, anesthesia (Ketalar, 1970)"
+    },
+    {
+      "agency": "FDA",
+      "text": "Depression use is off-label"
+    },
+    {
+      "agency": "DEA",
+      "text": "Schedule III controlled substance"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not named on the 2026 list"
+    }
+  ],
+  "references": [
+    "FDA, Ketalar prescribing information (DailyMed), Mar 2026",
+    "N Engl J Med, Ketamine vs ECT for nonpsychotic treatment-resistant depression, Jun 2023",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

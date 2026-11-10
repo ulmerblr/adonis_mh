@@ -1,0 +1,64 @@
+{
+  "slug": "aod-9604",
+  "lane": "weight",
+  "number": "04",
+  "name": "AOD-9604",
+  "description": "16-amino-acid peptide from the tail of human growth hormone (177–191), plus one tyrosine",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Body fat, weight",
+    "humanEvidence": "Controlled trials; weight data unpublished",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body fat", "detail": "Human weight data unpublished", "evidence": "Human + animal", "tile": "body-fat" },
+      { "label": "Knee cartilage", "detail": "Rabbit arthritis", "evidence": "Animal", "tile": "knee" }
+    ],
+    "note": { "lead": "Weight results were not published.", "text": "Six developer-funded trials in 893 people; the one paper on them reports safety only." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "AOD-9604", "icon": "molecule" },
+      { "label": "No GH receptor", "icon": "block" },
+      { "label": "Fat breakdown up", "icon": "trend" },
+      { "label": "Less fat gain", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Did not bind** the growth hormone receptor or make cells multiply (lab)",
+      "**Fat breakdown** rose and weight gain fell in obese mice and rats",
+      "**No rise in blood sugar** in animals, unlike whole growth hormone",
+      "**In people,** no mechanism has been shown to cause weight loss"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["6 placebo-controlled trials, 893 people", "The published paper reports safety only", "No Phase 3 trial found"]
+  },
+  "notEstablished": [
+    { "text": "Weight effect in people", "icon": "question" },
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Under-skin use in people", "icon": "route" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By vein or by mouth in trials",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "No approved form; compounding nomination withdrawn",
+    "monitored": "IGF-1, glucose tolerance, antibodies, ECG",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "FDA", "text": "Compounding nomination withdrawn; safety concerns" },
+    { "agency": "HHS", "text": "Not in the Oct 2026 peptide policy" },
+    { "agency": "WADA", "text": "Prohibited (S2)" }
+  ],
+  "references": [
+    "Stier, Vos and Kenley, AOD-9604 human trials, J Endocrinol Metab, Apr 2013",
+    "FDA, Bulk drug substances that may present significant safety risks, Apr 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

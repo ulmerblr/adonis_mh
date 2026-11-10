@@ -1,0 +1,124 @@
+{
+  "slug": "dhea",
+  "lane": "trt",
+  "number": "06",
+  "name": "DHEA (prasterone)",
+  "description": "Steroid hormone made mainly by the adrenal glands, which the body turns into androgens and estrogens",
+  "status": {
+    "class": "Hormone (steroid)",
+    "studiedFor": "Aging, body composition",
+    "humanEvidence": "Large trials; FDA approved (women)",
+    "usStatus": "FDA approved for women only (Intrarosa)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Body composition",
+        "detail": "Small fat drop, meta-analysis",
+        "evidence": "Human",
+        "tile": "body-fat"
+      },
+      {
+        "label": "Sexual function",
+        "detail": "No change in trials",
+        "evidence": "Human",
+        "tile": "libido"
+      },
+      {
+        "label": "Bone",
+        "detail": "Hip density rose, 1 trial",
+        "evidence": "Human",
+        "tile": "bone"
+      },
+      {
+        "label": "Vaginal atrophy",
+        "detail": "Women (Intrarosa)",
+        "evidence": "Human",
+        "tile": "hormones"
+      }
+    ],
+    "note": {
+      "lead": "Supplement and drug differ.",
+      "text": "The approved product is a vaginal insert for women. Oral DHEA is sold as a dietary supplement, which FDA does not review before sale."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "DHEA",
+        "icon": "hormone"
+      },
+      {
+        "label": "Conversion",
+        "icon": "enzyme"
+      },
+      {
+        "label": "Androgens",
+        "icon": "male"
+      },
+      {
+        "label": "Estrogens",
+        "icon": "hormone"
+      }
+    ],
+    "bullets": [
+      "**Label:** an inactive steroid converted into active androgens and/or estrogens",
+      "**In 14 older men,** oral DHEA raised estradiol and estrone, not testosterone",
+      "**In men,** the mechanism of any effect is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "Meta-analysis: 25 RCTs, 1,353 older men",
+      "2-year RCT: no change in strength or body comp",
+      "Intrarosa approved 2016 (women)"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety in men",
+      "icon": "calendar"
+    },
+    {
+      "text": "Half-life in men",
+      "icon": "clock"
+    },
+    {
+      "text": "Effects on fertility",
+      "icon": "sperm"
+    },
+    {
+      "text": "Supplement contents",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established in men",
+    "routes": "By mouth (trials in men); vaginal insert (Intrarosa)",
+    "pharmacokinetics": "Converted to androgens and estrogens (label)",
+    "soldAs": "Dietary supplement; Rx vaginal insert for women",
+    "monitored": "PSA, lipids, liver tests (trials in men)",
+    "sport": "Prohibited, class S1"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved only as Intrarosa (women)"
+    },
+    {
+      "agency": "FDA",
+      "text": "Sold as a supplement; not reviewed before sale"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S1.1)"
+    }
+  ],
+  "references": [
+    "FDA, Intrarosa prescribing information, Aug 2026",
+    "J Clin Endocrinol Metab, DHEA in elderly men meta-analysis, Sep 2013",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "tesofensine",
+  "lane": "weight",
+  "number": "16",
+  "name": "Tesofensine",
+  "description": "Small molecule taken by mouth that blocks reuptake of noradrenaline, dopamine and serotonin",
+  "status": {
+    "class": "Small molecule",
+    "studiedFor": "Weight, hypothalamic obesity",
+    "humanEvidence": "Controlled human trials (Phase 2)",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "Phase 2, 203 adults, 24 weeks", "evidence": "Human + animal", "tile": "body-fat" },
+      { "label": "Hypothalamic obesity", "detail": "With metoprolol (Tesomet)", "evidence": "Human", "tile": "brain" },
+      { "label": "Appetite", "detail": "Food intake in obese rats", "evidence": "Animal", "tile": "appetite" }
+    ],
+    "note": { "lead": "No Phase 3 trial published.", "text": "In 2013 The Lancet published an expression of concern about the 2008 Phase 2 trial paper." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Tesofensine", "icon": "pill" },
+      { "label": "Reuptake block", "icon": "block" },
+      { "label": "NE, dopamine, 5-HT", "icon": "brain" },
+      { "label": "Food intake", "icon": "fork" }
+    ],
+    "bullets": [
+      "**Triple reuptake inhibitor:** noradrenaline, dopamine and serotonin",
+      "**First tested** for Parkinson's and Alzheimer's; weight loss led to obesity trials",
+      "**In obese rats,** lowered food intake and changed dopamine in reward areas",
+      "**In people,** the mechanism of weight loss is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Phase 2: 203 adults, 24 weeks (Denmark)", "Tesomet trial: 21 adults, 24 weeks", "No published Phase 3 trial"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Drug interactions", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth, daily (trials)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Not approved in the US",
+    "monitored": "Weight, heart rate, blood pressure",
+    "sport": "Prohibited in competition, class S6"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "EMA", "text": "Not authorised" },
+    { "agency": "WADA", "text": "Prohibited in competition (S6.B)" }
+  ],
+  "references": [
+    "Astrup et al., tesofensine Phase 2, Lancet, Nov 2008",
+    "Huynh et al., Tesomet in hypothalamic obesity, Eur J Endocrinol, May 2022",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

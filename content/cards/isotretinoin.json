@@ -1,0 +1,62 @@
+{
+  "slug": "isotretinoin",
+  "lane": "skin",
+  "number": "12",
+  "name": "Isotretinoin",
+  "description": "Retinoid (related to vitamin A) taken by mouth as capsules",
+  "status": {
+    "class": "Retinoid",
+    "studiedFor": "Severe nodular acne",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Absorica, generics) · iPLEDGE"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Severe nodular acne", "detail": "925-person trial (Absorica)", "evidence": "Human", "tile": "acne" },
+      { "label": "Sperm", "detail": "No changes in 2 label studies", "evidence": "Human + animal", "tile": "fertility" }
+    ],
+    "note": { "lead": "Sold only through iPLEDGE.", "text": "All US isotretinoin goes through a restricted program (REMS) because it can cause severe birth defects." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Isotretinoin", "icon": "pill" },
+      { "label": "Oil glands", "icon": "skin" },
+      { "label": "Less sebum", "icon": "drop" },
+      { "label": "Fewer nodules", "icon": "skin" }
+    ],
+    "bullets": [
+      "**Retinoid** that inhibits sebaceous gland function and keratinization (label)",
+      "**Less oil (sebum)** goes along with improvement; the drop is temporary (label)",
+      "**The exact mechanism** in nodular acne is unknown (label)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Absorica: 925-person randomized trial, 20 weeks", "No placebo group in that trial", "Approved since 1982 (Accutane)"]
+  },
+  "notEstablished": [
+    { "text": "Cause of reported sexual effects", "icon": "male" },
+    { "text": "Cause of reported mood effects", "icon": "mood" },
+    { "text": "Cause of hearing loss", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "18 hours (Absorica); 4-oxo metabolite 38 hours",
+    "routes": "By mouth (capsules)",
+    "pharmacokinetics": "Peak 2.9 h fasting, 6.4 h fed; CYP2C8, 2C9, 3A4, 2B6 (in vitro)",
+    "soldAs": "Prescription capsules (Absorica, generics) via iPLEDGE",
+    "monitored": "Pregnancy tests, fasting lipids, liver tests, mood, vision",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved 1982; boxed warning on birth defects" },
+    { "agency": "FDA", "text": "iPLEDGE REMS; 2026 changes due Nov 15, 2026" },
+    { "agency": "MHRA", "text": "Checks of mood and sexual function at each visit" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "FDA, Absorica / Absorica LD prescribing information, Aug 2026",
+    "FDA, iPLEDGE REMS, Jun 2026",
+    "MHRA, Isotretinoin: changes to prescribing guidance, Jan 2026"
+  ],
+  "checked": "Nov 2026"
+}

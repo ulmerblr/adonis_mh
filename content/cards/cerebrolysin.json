@@ -1,0 +1,65 @@
+{
+  "slug": "cerebrolysin",
+  "lane": "brain",
+  "number": "03",
+  "name": "Cerebrolysin",
+  "description": "Mixture of small peptides and amino acids taken from pig brain protein; not a single molecule",
+  "status": {
+    "class": "Peptide mixture",
+    "studiedFor": "Stroke, dementia, brain injury",
+    "humanEvidence": "Controlled human trials; mixed reviews",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Acute stroke", "detail": "CASTA, 1,070 patients", "evidence": "Human + animal", "tile": "brain" },
+      { "label": "Recovery after stroke", "detail": "CARS, arm function, 208", "evidence": "Human", "tile": "nerves" },
+      { "label": "Vascular dementia", "detail": "6 trials, 597 people", "evidence": "Human", "tile": "memory" },
+      { "label": "Brain injury", "detail": "Approved use in Austria", "evidence": "Human", "tile": "brain" }
+    ],
+    "note": { "lead": "Cochrane reviews (2019, 2023).", "text": "Stroke: probably little or no difference in death; more non-fatal serious events. Dementia: very low-quality evidence." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Cerebrolysin", "icon": "molecule" },
+      { "label": "Brain peptides", "icon": "brain" },
+      { "label": "Nerve protection", "icon": "shield" },
+      { "label": "Stroke recovery", "icon": "nerve" }
+    ],
+    "bullets": [
+      "Some of its proteins **occur naturally** in the human brain",
+      "**Nerve-protecting and nerve-growth** effects in preclinical (animal) stroke models",
+      "**In people,** how it might act is not settled"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Many randomized trials, mostly stroke and dementia", "CASTA (1,070): no difference on main outcome", "Several trials funded by the maker"]
+  },
+  "notEstablished": [
+    { "text": "Mechanism in people", "icon": "question" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Death or dependence at follow-up", "icon": "question" },
+    { "text": "Quality of life (not reported)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection into muscle or vein, or IV infusion (Austrian leaflet)",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Not approved in the US; approved medicine in Austria",
+    "monitored": "Stroke and dementia scales; serious adverse events",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; not on compounding lists" },
+    { "agency": "BASG", "text": "Austria: approved (dementia, stroke, brain injury)" },
+    { "agency": "EMA", "text": "Not centrally authorised" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Cochrane, Cerebrolysin for acute ischaemic stroke, Oct 2023",
+    "Stroke, CASTA trial of Cerebrolysin in acute stroke, Mar 2012",
+    "BASG (Austria), Cerebrolysin patient leaflet, Mar 2021"
+  ],
+  "checked": "Nov 2026"
+}

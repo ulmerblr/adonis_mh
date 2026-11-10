@@ -1,0 +1,66 @@
+{
+  "slug": "retatrutide",
+  "lane": "weight",
+  "number": "13",
+  "name": "Retatrutide",
+  "description": "Experimental injected peptide (LY3437943) that acts on three hormone receptors: GIP, GLP-1 and glucagon",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Weight, diabetes, knee, sleep apnea",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "TRIUMPH-1, 80 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Blood sugar", "detail": "Type 2 diabetes", "evidence": "Human", "tile": "blood-sugar" },
+      { "label": "Knee pain", "detail": "Knee osteoarthritis substudy", "evidence": "Human", "tile": "knee" },
+      { "label": "Sleep apnea", "detail": "Obstructive, substudy", "evidence": "Human", "tile": "lungs" }
+    ],
+    "note": { "lead": "Phase 3 trials, no approval yet.", "text": "A heart and kidney outcomes trial of about 10,000 people is due to finish in 2029." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Retatrutide", "icon": "molecule" },
+      { "label": "Three receptors", "icon": "receptor" },
+      { "label": "Hormone signals", "icon": "hormone" },
+      { "label": "Body weight", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Acts on three hormone receptors** at once: GIP, GLP-1 and glucagon",
+      "**Given once a week** under the skin in trials",
+      "**No FDA label,** so there is no approved mechanism statement",
+      "**Heart rate** rose with dose in Phase 2, peaked at 24 weeks, then fell"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Phase 2: 338 adults with obesity, 48 weeks", "TRIUMPH-1: 2,339 adults, 80 weeks", "TRIUMPH-2: 1,152 adults with type 2 diabetes"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Thyroid C-cell tumor risk", "icon": "question" },
+    { "text": "Heart and kidney outcomes", "icon": "heart" },
+    { "text": "Half-life in people", "icon": "clock" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection under the skin, once weekly (trials)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Not approved; FDA says it cannot be compounded",
+    "monitored": "Weight, HbA1c, heart rate, knee pain, sleep apnea index",
+    "sport": "Not named on the 2026 list; S0 status unconfirmed"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; cannot be used in compounding" },
+    { "agency": "FDA", "text": "Warning letters to “research use” sellers" },
+    { "agency": "MHRA", "text": "Not authorised; MHRA says sales are illegal" },
+    { "agency": "WADA", "text": "Not named; class S0 may apply" }
+  ],
+  "references": [
+    "Jastreboff et al., TRIUMPH-1, N Engl J Med, Sep 2026",
+    "Jastreboff et al., retatrutide Phase 2 in obesity, N Engl J Med, Aug 2023",
+    "FDA, Concerns with unapproved GLP-1 drugs used for weight loss, Oct 2026"
+  ],
+  "checked": "Nov 2026"
+}

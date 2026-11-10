@@ -1,0 +1,63 @@
+{
+  "slug": "saw-palmetto",
+  "lane": "hair-loss",
+  "number": "17",
+  "name": "Saw palmetto",
+  "description": "Extract of the fruit (berries) of the Serenoa repens palm",
+  "status": {
+    "class": "Plant extract",
+    "studiedFor": "Enlarged prostate, hair loss",
+    "humanEvidence": "Controlled trials (prostate); small (hair)",
+    "usStatus": "Dietary supplement"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Enlarged prostate", "detail": "2 large trials: same as placebo", "evidence": "Human", "tile": "prostate" },
+      { "label": "Pattern hair loss", "detail": "Small, often mixed products", "evidence": "Human + animal", "tile": "scalp" }
+    ],
+    "note": { "lead": "NIH: too limited to conclude.", "text": "NCCIH says small studies of saw palmetto for male pattern hair loss are too limited to allow conclusions." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Saw palmetto", "icon": "drop" },
+      { "label": "Male hormones", "icon": "hormone" },
+      { "label": "Less action", "icon": "block" },
+      { "label": "Prostate, hair", "icon": "male" }
+    ],
+    "bullets": [
+      "**Lab studies** suggest less action of male hormones such as testosterone",
+      "**May reduce inflammation,** in lab studies; how it acts is not fully known",
+      "**In DHT-treated mice,** an extract raised hair density and thickness",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Prostate: STEP (225 men), CAMUS (369 men)", "Hair: 5 RCTs, 2 cohort studies (2020 review)", "Open study: 38% vs 68% on finasteride"]
+  },
+  "notEstablished": [
+    { "text": "Effect on hair loss", "icon": "hair" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Mechanism in people", "icon": "question" },
+    { "text": "Drug interactions", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (capsules); on the scalp in small studies",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement",
+    "monitored": "Urinary symptom score, PSA, hair counts",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not an approved drug; dietary supplement" },
+    { "agency": "EMA", "text": "Herbal monograph: prostate symptoms, not hair" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Barry et al., JAMA, CAMUS trial, Sep 2011",
+    "Evron et al., Skin Appendage Disord, saw palmetto for hair (review), Nov 2020",
+    "NCCIH (NIH), Saw palmetto: usefulness and safety, Apr 2025"
+  ],
+  "checked": "Nov 2026"
+}

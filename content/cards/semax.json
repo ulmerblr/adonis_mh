@@ -1,0 +1,66 @@
+{
+  "slug": "semax",
+  "lane": "brain",
+  "number": "11",
+  "name": "Semax",
+  "description": "Synthetic 7-amino-acid peptide (Met-Glu-His-Phe-Pro-Gly-Pro), an analog of the ACTH 4-10 fragment",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Stroke recovery, migraine",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved · compounding allowed (nasal)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Stroke recovery", "detail": "Russian studies, 30 and 110", "evidence": "Human + animal", "tile": "brain" },
+      { "label": "Migraine, nerve pain", "detail": "37 adults, single dose", "evidence": "Human", "tile": "pain" },
+      { "label": "Brain networks", "detail": "fMRI, 24 healthy adults", "evidence": "Human", "tile": "brain" },
+      { "label": "Nerve growth factors", "detail": "BDNF and NGF in rats", "evidence": "Animal", "tile": "nerves" },
+      { "label": "Blood clotting", "detail": "Less clotting in rats", "evidence": "Animal", "tile": "blood" }
+    ],
+    "note": { "lead": "Human data are limited.", "text": "All human studies used nasal drops, mostly in Russia. FDA found no study of Semax given by injection." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Semax", "icon": "molecule" },
+      { "label": "BDNF and NGF", "icon": "nerve" },
+      { "label": "Nerve protection", "icon": "shield" },
+      { "label": "Stroke recovery", "icon": "brain" }
+    ],
+    "bullets": [
+      "**ACTH 4-10 analog** without ACTH's hormone effects",
+      "**In rats,** raised BDNF and NGF in the brain; smaller stroke damage",
+      "**In mice,** boosted amphetamine-triggered dopamine release",
+      "**FDA:** mechanisms poorly understood; not confirmed in people"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small, mostly uncontrolled Russian studies", "Nasal drops only; no injection studies", "No registered trial"]
+  },
+  "notEstablished": [
+    { "text": "Pharmacokinetics in people", "icon": "clock" },
+    { "text": "Safety of injection", "icon": "list" },
+    { "text": "Abuse potential", "icon": "question" },
+    { "text": "Bleeding risk with other drugs", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Nasal drops in all human studies",
+    "pharmacokinetics": "Not established (no human data)",
+    "soldAs": "Compounded (Rx, nasal) or “research use only”",
+    "monitored": "Stroke rating scales, BDNF, pain scores",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "HHS", "text": "Compounding allowed, nasal free base (Oct 2026)" },
+    { "agency": "WADA", "text": "Not named; S0 status not stated" }
+  ],
+  "references": [
+    "FDA, Pharmacy Compounding Advisory Committee briefing on Semax, Jul 2026",
+    "HHS, Federal Register notice 2026-22192, Oct 30, 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

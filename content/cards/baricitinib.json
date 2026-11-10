@@ -1,0 +1,62 @@
+{
+  "slug": "baricitinib",
+  "lane": "hair-loss",
+  "number": "09",
+  "name": "Baricitinib",
+  "description": "Janus kinase (JAK1 and JAK2) inhibitor taken by mouth, a small-molecule immune drug",
+  "status": {
+    "class": "JAK inhibitor",
+    "studiedFor": "Alopecia areata, arthritis",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Olumiant)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Alopecia areata", "detail": "Severe; adults and age 12+", "evidence": "Human", "tile": "scalp" },
+      { "label": "Rheumatoid arthritis", "detail": "First approved use, 2018", "evidence": "Human", "tile": "knee" },
+      { "label": "COVID-19", "detail": "Adults in hospital", "evidence": "Human", "tile": "lungs" }
+    ],
+    "note": { "lead": "Not for pattern hair loss.", "text": "Alopecia areata is an autoimmune disease. Baricitinib is not approved for male pattern hair loss." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Baricitinib", "icon": "pill" },
+      { "label": "JAK1 and JAK2", "icon": "enzyme" },
+      { "label": "STAT signaling", "icon": "block" },
+      { "label": "Immune attack", "icon": "shield" }
+    ],
+    "bullets": [
+      "**JAK enzymes** pass on signals from cytokine and growth-factor receptors",
+      "**Blocks JAKs,** preventing activation of STATs, which modulate gene expression",
+      "**Cytokines** blocked are thought to drive the immune attack on hair follicles"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["2 Phase 3 trials, 1,200 adults", "1 trial of 257 people aged 12+", "SALT 20 or less at week 36: 35.9–38.8% (4 mg)"]
+  },
+  "notEstablished": [
+    { "text": "Use in pattern hair loss", "icon": "hair" },
+    { "text": "Use under age 12", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 12 to 16 hours",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Peak in about 1 hour; mostly kidney clearance; CYP3A4 minor",
+    "soldAs": "Prescription tablets (Olumiant)",
+    "monitored": "Lymphocytes, neutrophils, hemoglobin, liver enzymes, lipids",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: severe alopecia areata, age 12+ (2026)" },
+    { "agency": "FDA", "text": "Boxed warning: infections, cancer, heart, clots" },
+    { "agency": "EMA", "text": "Authorised; includes severe alopecia areata" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Olumiant prescribing information (DailyMed), Oct 2026",
+    "King et al., N Engl J Med, BRAVE-AA1 and BRAVE-AA2, May 2022",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

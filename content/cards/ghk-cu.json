@@ -1,0 +1,65 @@
+{
+  "slug": "ghk-cu",
+  "lane": "skin",
+  "number": "05",
+  "name": "GHK-Cu (copper peptide)",
+  "description": "Three-amino-acid peptide (glycine, histidine, lysine) bound to a copper ion",
+  "status": {
+    "class": "Peptide (copper complex)",
+    "studiedFor": "Wound healing, skin repair",
+    "humanEvidence": "Very small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Wound healing", "detail": "Rats, rabbits; Phase 2 underway", "evidence": "Animal", "tile": "wound" },
+      { "label": "Skin after laser", "detail": "1 study, 13 people", "evidence": "Human", "tile": "skin" },
+      { "label": "Wrinkles", "detail": "1 case, 5-ingredient mix", "evidence": "Human", "tile": "sun-skin" }
+    ],
+    "note": { "lead": "Human data are thin.", "text": "In the 13-person laser study, objective redness, wrinkle and skin scores did not differ between groups." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "GHK-Cu", "icon": "molecule" },
+      { "label": "Skin fibroblasts", "icon": "cell" },
+      { "label": "Growth factors", "icon": "trend" },
+      { "label": "Wound repair", "icon": "bandage" }
+    ],
+    "bullets": [
+      "**In lab-grown skin cells,** faster growth and more bFGF and VEGF",
+      "**In rat wounds,** lower TNF-alpha, MMP-2 and MMP-9",
+      "**In rabbits,** smaller unhealed wound areas than no treatment",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": ["Mostly cell and animal data", "1 small randomized study, 13 people", "1 case report; Phase 2 wound trial recruiting"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Effect of 1% compounded cream", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "On the skin, in small studies",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Skin care products; compounded (Rx) creams",
+    "monitored": "Skin redness, wrinkles, wound closure",
+    "sport": "Not named on the 2026 list; class S0 wording may cover it"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved for any use" },
+    { "agency": "FDA", "text": "Injected forms: Category 2 (possible safety risk)" },
+    { "agency": "FDA", "text": "Non-injected: Category 1, under evaluation" },
+    { "agency": "WADA", "text": "Not named; S0 may apply" }
+  ],
+  "references": [
+    "Miller et al., Arch Facial Plast Surg, GHK-Cu after CO2 laser resurfacing, Jul 2006",
+    "FDA, bulk drug substances nominated under section 503A (categories 1 to 3), May 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

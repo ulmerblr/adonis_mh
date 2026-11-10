@@ -1,0 +1,63 @@
+{
+  "slug": "mazdutide",
+  "lane": "weight",
+  "number": "08",
+  "name": "Mazdutide",
+  "description": "Injected peptide that acts on two hormone receptors, GLP-1 and glucagon; approved in China",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Weight, type 2 diabetes",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "GLORY-1 and 2, China", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Body weight, US", "detail": "Phase 2, 179 adults", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Blood sugar", "detail": "Approved for diabetes in China", "evidence": "Human", "tile": "blood-sugar" }
+    ],
+    "note": { "lead": "Approved in China, not the US.", "text": "A drug review reports approval in China (Xinermei) in 2025. No US Phase 3 weight trial was found." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Mazdutide", "icon": "molecule" },
+      { "label": "GLP-1 receptor", "icon": "receptor" },
+      { "label": "Glucagon receptor", "icon": "receptor" },
+      { "label": "Body weight", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Acts on** two hormone receptors: GLP-1 and glucagon",
+      "**Given once a week** under the skin in trials",
+      "**First made by Eli Lilly** (LY3305677); developed in China as IBI362",
+      "**No FDA label,** so there is no approved mechanism statement"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["GLORY-1: 610 Chinese adults, 48 weeks", "GLORY-2: 461 Chinese adults, 60 weeks", "US Phase 2: 179 adults, 48 weeks"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Results in a US Phase 3", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection under the skin, once weekly (trials)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Not approved in the US; FDA warned “research use” sellers",
+    "monitored": "Body weight, stomach and bowel effects",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; warned sellers of “research” mazdutide" },
+    { "agency": "NMPA", "text": "Approved in China (Xinermei), 2025" },
+    { "agency": "WADA", "text": "Not named" }
+  ],
+  "references": [
+    "Ji et al., GLORY-1, N Engl J Med, Jun 2025",
+    "Shirley, Mazdutide: First Approval, Drugs, Dec 2025",
+    "FDA, Concerns with unapproved GLP-1 drugs used for weight loss, Oct 2026"
+  ],
+  "checked": "Nov 2026"
+}

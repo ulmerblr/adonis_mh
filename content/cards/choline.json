@@ -1,0 +1,99 @@
+{
+  "slug": "choline",
+  "lane": "energy",
+  "number": "05",
+  "name": "Choline",
+  "description": "Nutrient used to make cell membranes and acetylcholine; the “C” in MIC blends, as choline chloride",
+  "status": {
+    "class": "Nutrient",
+    "studiedFor": "No studies found for energy or fat loss",
+    "humanEvidence": "No human studies found for this use",
+    "usStatus": "Not FDA approved for energy or weight loss"
+  },
+  "studiedFor": {
+    "items": [],
+    "note": {
+      "lead": "No published studies.",
+      "text": "No published human study of injected choline, alone or in MIC blends, for energy or fat loss was found."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Choline",
+        "icon": "molecule"
+      },
+      {
+        "label": "Membranes, ACh",
+        "icon": "cell"
+      },
+      {
+        "label": "MIC blends",
+        "icon": "drop"
+      },
+      {
+        "label": "Effect unknown",
+        "icon": "question"
+      }
+    ],
+    "bullets": [
+      "Used to make **cell membranes** and the nerve messenger **acetylcholine**",
+      "The **“C” in MIC** (methionine, inositol, choline) injections",
+      "**In people,** a mechanism for energy or fat loss is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": [
+      "No human study of choline injections found",
+      "No study of MIC blends for energy or fat loss",
+      "Lab and animal work not reviewed for this use"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Any effect of injections",
+      "icon": "question"
+    },
+    {
+      "text": "Side-effect profile",
+      "icon": "list"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Dose in people",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Not established (no injection studies)",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Compounded (Rx) MIC and lipotropic blends; not FDA approved",
+    "monitored": "Not established (no trials)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Only approved form: Choline C 11, a PET scan agent"
+    },
+    {
+      "agency": "FDA",
+      "text": "Choline chloride: 503A and 503B review (Category 1)"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not listed; IV over 100 mL per 12 h banned (M2.2)"
+    }
+  ],
+  "references": [
+    "FDA (DailyMed), Choline C 11 Injection label, Dec 2025",
+    "FDA, Bulk drug substances nominated under section 503A (categories), May 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

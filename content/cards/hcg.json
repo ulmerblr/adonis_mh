@@ -1,0 +1,120 @@
+{
+  "slug": "hcg",
+  "lane": "trt",
+  "number": "04",
+  "name": "Human chorionic gonadotropin (hCG)",
+  "description": "Placental glycoprotein hormone with alpha and beta subunits, purified from the urine of pregnant women",
+  "status": {
+    "class": "Hormone (glycoprotein)",
+    "studiedFor": "Testes, hypogonadism",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Novarel, Pregnyl)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Hypogonadism",
+        "detail": "Pituitary cause (labeled use)",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Undescended testis",
+        "detail": "Boys (labeled use)",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Testis T on TRT",
+        "detail": "29 men, 3 weeks",
+        "evidence": "Human",
+        "tile": "fertility"
+      },
+      {
+        "label": "Weight loss",
+        "detail": "Not shown (label)",
+        "evidence": "Human",
+        "tile": "body-fat"
+      }
+    ],
+    "note": {
+      "lead": "Use with testosterone is off-label.",
+      "text": "Studies of hCG alongside TRT are small: a 3-week trial in 29 men and a chart review of 26 men."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "hCG",
+        "icon": "hormone"
+      },
+      {
+        "label": "LH receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Leydig cells",
+        "icon": "male"
+      },
+      {
+        "label": "Testosterone",
+        "icon": "spark"
+      }
+    ],
+    "bullets": [
+      "**Label:** action is almost the same as pituitary LH, with slight FSH activity",
+      "**Label:** stimulates Leydig cells of the testis to make androgens",
+      "**Label:** no known effect on fat, appetite or hunger"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "Novarel approved 1974, Pregnyl 1976",
+      "With TRT: 29-man RCT, 26-man chart review",
+      "No large trials with TRT found"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term use with TRT",
+      "icon": "calendar"
+    },
+    {
+      "text": "Fertility outcomes on TRT",
+      "icon": "sperm"
+    },
+    {
+      "text": "Half-life in men",
+      "icon": "clock"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "Injection into muscle (label)",
+    "pharmacokinetics": "Not established (labels give no data)",
+    "soldAs": "Prescription biologic (Novarel, Pregnyl)",
+    "monitored": "Testosterone inside the testis, semen (studies)",
+    "sport": "Prohibited in males, class S2"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved; regulated as a biologic since 2020"
+    },
+    {
+      "agency": "FDA",
+      "text": "Not eligible for 503A/503B compounding"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited in males at all times (S2)"
+    }
+  ],
+  "references": [
+    "FDA, Pregnyl prescribing information, Dec 2025",
+    "FDA, Notice to compounders on biologics, Mar 2020",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "liraglutide",
+  "lane": "weight",
+  "number": "07",
+  "name": "Liraglutide",
+  "description": "Synthetic version of the gut hormone GLP-1 (97% the same sequence), with a fatty acid attached",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Weight, diabetes, heart risk",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Saxenda, Victoza)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "SCALE, 56 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Blood sugar", "detail": "Type 2 diabetes", "evidence": "Human", "tile": "blood-sugar" },
+      { "label": "Heart outcomes", "detail": "LEADER, type 2 diabetes", "evidence": "Human", "tile": "heart" }
+    ],
+    "note": { "lead": "Victoza for weight is off-label.", "text": "Victoza is approved for type 2 diabetes; Saxenda for weight. FDA records say Saxenda is to be discontinued in Jan 2027." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Liraglutide", "icon": "molecule" },
+      { "label": "GLP-1 receptor", "icon": "receptor" },
+      { "label": "Appetite areas", "icon": "brain" },
+      { "label": "Fewer calories", "icon": "fork" }
+    ],
+    "bullets": [
+      "**Binds and activates** the GLP-1 receptor, like the body's own GLP-1 (label)",
+      "**Resists breakdown** by the enzymes DPP-4 and NEP",
+      "**Lowers weight** by lowering calorie intake, not by raising 24-hour energy use",
+      "**Brain appetite areas** reached by the drug in animal studies"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["SCALE: 3,731 adults, 56 weeks", "LEADER: 9,340 adults, median 3.8 years", "Generics approved since Dec 2024"]
+  },
+  "notEstablished": [
+    { "text": "Weight benefit below 3 mg a day", "icon": "question" },
+    { "text": "Thyroid C-cell tumors in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "13 hours (Saxenda label)",
+    "routes": "Injection under the skin, once daily",
+    "pharmacokinetics": "Peak at 11 hours; resists DPP-4 and NEP breakdown",
+    "soldAs": "Prescription injection (Saxenda, Victoza, generics)",
+    "monitored": "Weight, HbA1c; heart rate and kidney function per label",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Victoza 2010, Saxenda 2014, generics" },
+    { "agency": "FDA", "text": "On shortage list; compounded not FDA approved" },
+    { "agency": "EMA", "text": "Authorised (Victoza 2009, Saxenda 2015)" },
+    { "agency": "WADA", "text": "Not prohibited" }
+  ],
+  "references": [
+    "FDA, Saxenda prescribing information, Feb 2026",
+    "Pi-Sunyer et al., SCALE Obesity and Prediabetes, N Engl J Med, Jul 2015",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

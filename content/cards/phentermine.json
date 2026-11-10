@@ -1,0 +1,63 @@
+{
+  "slug": "phentermine",
+  "lane": "weight",
+  "number": "12",
+  "name": "Phentermine",
+  "description": "Stimulant related to amphetamine (a sympathomimetic amine anorectic); alone or with topiramate",
+  "status": {
+    "class": "Stimulant (sympathomimetic amine)",
+    "studiedFor": "Short-term weight loss",
+    "humanEvidence": "Controlled human trials; FDA approved",
+    "usStatus": "FDA approved · Schedule IV"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight, alone", "detail": "Trials of a few weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "With topiramate", "detail": "Qsymia, 1-year trials", "evidence": "Human", "tile": "body-fat" }
+    ],
+    "note": { "lead": "Alone, approved for a few weeks.", "text": "The label limits phentermine alone to short-term use. Longer use alone is off-label; Qsymia (with topiramate) is approved long-term." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Phentermine", "icon": "pill" },
+      { "label": "Amphetamine-like", "icon": "bolt" },
+      { "label": "CNS stimulation", "icon": "brain" },
+      { "label": "Weight loss", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Acts like amphetamine** on the central nervous system (label)",
+      "**Not established** that its main action in obesity is appetite suppression",
+      "**Typical class effects:** brain stimulation and higher blood pressure",
+      "**Tolerance** seen with every drug of this class where it was looked for"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Label trials alone lasted only a few weeks", "Korean RCT alone: 74 adults, 12 weeks", "Qsymia: 1-year trials, 3,700+ adults"]
+  },
+  "notEstablished": [
+    { "text": "Combining with other diet drugs", "icon": "interact" },
+    { "text": "Fertility effects", "icon": "question" },
+    { "text": "Qsymia effect on heart disease", "icon": "heart" }
+  ],
+  "practical": {
+    "halfLife": "About 20 hours (Qsymia label)",
+    "routes": "By mouth (tablets, capsules)",
+    "pharmacokinetics": "Peak about 6 hours (Qsymia); CYP3A4, 70–80% unchanged in urine",
+    "soldAs": "Prescription (Adipex-P, Lomaira, generics; Qsymia)",
+    "monitored": "Blood pressure, heart rate in trials; kidney function if older",
+    "sport": "Prohibited in competition, class S6"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: short-term alone; Qsymia 2012 long-term" },
+    { "agency": "DEA", "text": "Schedule IV controlled substance" },
+    { "agency": "EMA", "text": "Refused Qsiva (with topiramate), 2013" },
+    { "agency": "WADA", "text": "Prohibited in competition (S6.A)" }
+  ],
+  "references": [
+    "FDA, Lomaira (phentermine) prescribing information, Dec 2023",
+    "FDA, Qsymia prescribing information, Apr 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

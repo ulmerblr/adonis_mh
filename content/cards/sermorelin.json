@@ -1,0 +1,125 @@
+{
+  "slug": "sermorelin",
+  "lane": "sleep",
+  "number": "01",
+  "name": "Sermorelin",
+  "description": "Synthetic 29-amino-acid version of human growth hormone-releasing hormone (GHRH)",
+  "status": {
+    "class": "Peptide (GHRH analogue)",
+    "studiedFor": "Growth hormone release",
+    "humanEvidence": "FDA approved 1990–2009 (Geref)",
+    "usStatus": "Not FDA approved now (Geref withdrawn 2009)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Pituitary GH test",
+        "detail": "Approved 1990 (Geref)",
+        "evidence": "Human",
+        "tile": "growth-hormone"
+      },
+      {
+        "label": "Child GH deficiency",
+        "detail": "Approved 1997 (Geref)",
+        "evidence": "Human",
+        "tile": "growth-hormone"
+      },
+      {
+        "label": "GH in older adults",
+        "detail": "10 to 19 people, 1990s",
+        "evidence": "Human",
+        "tile": "aging"
+      },
+      {
+        "label": "Sleep",
+        "detail": "Natural GHRH; form not named",
+        "evidence": "Human",
+        "tile": "sleep"
+      }
+    ],
+    "note": {
+      "lead": "Sleep and aging use is off-label.",
+      "text": "No sermorelin trial has measured sleep or lifespan as its result, and no human study of mouth, troche or strip forms was found."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Sermorelin",
+        "icon": "molecule"
+      },
+      {
+        "label": "Pituitary gland",
+        "icon": "brain"
+      },
+      {
+        "label": "Growth hormone",
+        "icon": "hormone"
+      },
+      {
+        "label": "IGF-1",
+        "icon": "trend"
+      }
+    ],
+    "bullets": [
+      "**Shortest synthetic peptide** with the full activity of GHRH",
+      "**Acts on the pituitary** to release growth hormone (1999 review)",
+      "**In older men,** GH and IGF-1 rose at the higher of two doses (1992)",
+      "**Effects on sleep** in people are not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "FDA approved 1990 and 1997; withdrawn 2009",
+      "Not withdrawn for safety (FDA, 2013)",
+      "No sleep or longevity trial"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Effects on sleep",
+      "icon": "moon"
+    },
+    {
+      "text": "Mouth, troche or strip forms",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "Injection under the skin (studies); Geref was an injection",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Compounded (Rx); no FDA-approved product today",
+    "monitored": "GH, IGF-1, glucose, blood pressure (small studies)",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Geref approvals withdrawn 2009, not for safety"
+    },
+    {
+      "agency": "FDA",
+      "text": "503B bulk list, Category 1 (under evaluation)"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited (S2.2.4)"
+    }
+  ],
+  "references": [
+    "FDA, Federal Register 78 FR 14095, Geref not withdrawn for safety, Mar 2013",
+    "J Clin Endocrinol Metab, Corpas et al., GHRH-(1-29) in older men, Aug 1992",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

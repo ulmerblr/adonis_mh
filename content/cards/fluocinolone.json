@@ -1,0 +1,61 @@
+{
+  "slug": "fluocinolone",
+  "lane": "hair-loss",
+  "number": "07",
+  "name": "Fluocinolone",
+  "description": "Fluocinolone acetonide, a corticosteroid (anti-inflammatory steroid) used on the skin and scalp",
+  "status": {
+    "class": "Topical corticosteroid",
+    "studiedFor": "Inflamed skin, scalp psoriasis",
+    "humanEvidence": "FDA approved; no hair-loss studies",
+    "usStatus": "FDA approved (Synalar, Derma-Smoothe/FS)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Scalp psoriasis", "detail": "Approved use (scalp oil)", "evidence": "Human", "tile": "scalp" },
+      { "label": "Inflamed skin", "detail": "Itching, inflammation", "evidence": "Human", "tile": "inflammation" }
+    ],
+    "note": { "lead": "Hair loss is off-label.", "text": "A PubMed search found no published study of fluocinolone for pattern hair loss." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Fluocinolone", "icon": "molecule" },
+      { "label": "Steroid receptor", "icon": "receptor" },
+      { "label": "Immune signals", "icon": "shield" },
+      { "label": "Less inflammation", "icon": "flame" }
+    ],
+    "bullets": [
+      "**Corticosteroids** act on cell signaling, immune function and inflammation",
+      "**Precise mechanism** in scalp psoriasis is unknown, per the label",
+      "**Absorbed steroid** can suppress the body's stress-hormone (HPA) axis",
+      "**For hair loss,** no mechanism has been studied"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Synalar approved in 1963", "Scalp oil: 60% vs 21% cleared or excellent at 21 days", "No published pattern hair-loss study"]
+  },
+  "notEstablished": [
+    { "text": "Any use for pattern hair loss", "icon": "hair" },
+    { "text": "Long-term scalp use", "icon": "calendar" }
+  ],
+  "practical": {
+    "halfLife": "Not established (not on the label)",
+    "routes": "On the skin and scalp (ointment, solution, oil)",
+    "pharmacokinetics": "Absorbed through skin; liver metabolism, kidney excretion",
+    "soldAs": "Prescription topical products (Synalar, Derma-Smoothe/FS, generics)",
+    "monitored": "HPA axis suppression, eyes (glaucoma, cataract), skin",
+    "sport": "Skin use not prohibited; class S9 bans some routes in competition"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for skin, scalp conditions; not hair loss" },
+    { "agency": "FDA", "text": "Compounded hair sprays are not FDA approved" },
+    { "agency": "WADA", "text": "S9: injected, oral, rectal use banned in competition" }
+  ],
+  "references": [
+    "FDA, Derma-Smoothe/FS Scalp Oil prescribing information (DailyMed), May 2025",
+    "FDA, Fluocinolone acetonide topical solution label (DailyMed), Feb 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

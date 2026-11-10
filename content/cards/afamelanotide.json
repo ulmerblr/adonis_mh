@@ -1,0 +1,64 @@
+{
+  "slug": "afamelanotide",
+  "lane": "skin",
+  "number": "10",
+  "name": "Afamelanotide",
+  "description": "Synthetic 13-amino-acid peptide built like alpha-MSH, the body's own skin-pigment signal",
+  "status": {
+    "class": "Peptide (melanocortin agonist)",
+    "studiedFor": "Light-induced pain (EPP), vitiligo",
+    "humanEvidence": "Controlled trials; FDA approved",
+    "usStatus": "FDA approved (Scenesse implant)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "EPP light pain", "detail": "Approved use, adults", "evidence": "Human", "tile": "sun-skin" },
+      { "label": "Vitiligo", "detail": "Off-label; Phase 3 ongoing", "evidence": "Human", "tile": "skin" }
+    ],
+    "note": { "lead": "Melanotan is a different product.", "text": "Scenesse is the only afamelanotide product found with FDA approval. Melanotan peptides sold for tanning are not FDA approved." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Afamelanotide", "icon": "molecule" },
+      { "label": "MC1 receptor", "icon": "receptor" },
+      { "label": "More eumelanin", "icon": "trend" },
+      { "label": "Less light in skin", "icon": "sun" }
+    ],
+    "bullets": [
+      "**Binds mainly the MC1 receptor,** per the label",
+      "**Raises eumelanin,** the brown-black pigment, without sun or UV light",
+      "**In EPP,** more pigment cuts light reaching protoporphyrin IX (EMA)",
+      "**Darkens** skin, moles and freckles"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["2 Phase 3 EPP trials, 167 people", "US trial: 64.1 vs 40.5 pain-free sun hours", "EMA: added time in sunlight was small"]
+  },
+  "notEstablished": [
+    { "text": "Cancer studies (not done)", "icon": "cell" },
+    { "text": "Full metabolic profile", "icon": "question" },
+    { "text": "Drug interactions", "icon": "interact" },
+    { "text": "PK in liver or kidney disease", "icon": "liver" }
+  ],
+  "practical": {
+    "halfLife": "About 15 hours (implant)",
+    "routes": "Implant under the skin above the hip bone",
+    "pharmacokinetics": "Median peak at 36 hours; may undergo hydrolysis",
+    "soldAs": "Prescription implant (Scenesse), placed by a professional",
+    "monitored": "Full body skin exam twice a year",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for EPP in adults (2019)" },
+    { "agency": "FDA", "text": "Melanotan peptides: no FDA approval" },
+    { "agency": "EMA", "text": "Authorised for EPP (2014), exceptional circumstances" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Scenesse prescribing information (DailyMed), May 2026",
+    "Langendonk et al., N Engl J Med, afamelanotide in EPP, Jul 2015",
+    "EMA, Scenesse EPAR, accessed Nov 2026"
+  ],
+  "checked": "Nov 2026"
+}

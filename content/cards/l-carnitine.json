@@ -1,0 +1,63 @@
+{
+  "slug": "l-carnitine",
+  "lane": "energy",
+  "number": "06",
+  "name": "L-carnitine",
+  "description": "Natural substance (levocarnitine) that moves long-chain fatty acids into mitochondria",
+  "status": {
+    "class": "Nutrient (amino acid derivative)",
+    "studiedFor": "Carnitine deficiency, weight, fatigue",
+    "humanEvidence": "FDA approved; few energy trials",
+    "usStatus": "FDA approved (Carnitor) · energy off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Carnitine deficiency", "detail": "Inborn errors, dialysis", "evidence": "Human", "tile": "mitochondria" },
+      { "label": "Body weight", "detail": "37 oral-supplement trials", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Fatigue on dialysis", "detail": "IV, 24 weeks", "evidence": "Human", "tile": "fatigue" },
+      { "label": "Weight during a fast", "detail": "IV pilot, 30 people, 7 days", "evidence": "Human", "tile": "body-fat" }
+    ],
+    "note": { "lead": "Mostly oral supplement data.", "text": "Injection studies found were small or in dialysis patients, not healthy people seeking energy or fat loss." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "L-carnitine", "icon": "molecule" },
+      { "label": "Fatty acids", "icon": "fat" },
+      { "label": "Mitochondria", "icon": "bolt" },
+      { "label": "Energy use", "icon": "spark" }
+    ],
+    "bullets": [
+      "**Label:** moves long-chain fatty acids into mitochondria, where they are burned",
+      "**Required** in mammalian energy metabolism, the Carnitor label says",
+      "**In dialysis,** effects on symptoms and outcomes “have not been determined” (label)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["FDA approved (Carnitor) for carnitine deficiency", "Oral meta-analysis: 37 trials, 2,292 people", "No study of compounded carnitine blends"]
+  },
+  "notEstablished": [
+    { "text": "Injections for energy or fat", "icon": "question" },
+    { "text": "Effects in healthy men", "icon": "question" },
+    { "text": "Compounded blends (not approved)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Terminal half-life 17.4 hours (IV, label)",
+    "routes": "By mouth (tablets, solution); IV injection (label)",
+    "pharmacokinetics": "Oral bioavailability about 15%; about 76% of IV dose in urine in 24 h",
+    "soldAs": "Prescription (Carnitor, generics); compounded blends not approved",
+    "monitored": "Plasma carnitine, blood chemistries, vital signs; INR on warfarin",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (Carnitor) for carnitine deficiency" },
+    { "agency": "FDA", "text": "Compounded carnitine blends: not approved" },
+    { "agency": "WADA", "text": "Not listed; IV over 100 mL per 12 h banned (M2.2)" }
+  ],
+  "references": [
+    "FDA (DailyMed), Carnitor (levocarnitine) Injection label, Nov 2023",
+    "Clin Nutr ESPEN, L-carnitine and body weight meta-analysis, Jun 2020",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

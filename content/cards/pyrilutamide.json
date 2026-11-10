@@ -1,0 +1,63 @@
+{
+  "slug": "pyrilutamide",
+  "lane": "hair-loss",
+  "number": "14",
+  "name": "Pyrilutamide (KX-826)",
+  "description": "Investigational androgen receptor blocker, put on the scalp as a solution (tincture)",
+  "status": {
+    "class": "Topical androgen receptor blocker",
+    "studiedFor": "Male and female pattern hair loss",
+    "humanEvidence": "Trials run; no results published",
+    "usStatus": "Not FDA approved (investigational)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Male pattern loss", "detail": "Phase 2 and 3 trials, China, US", "evidence": "Human", "tile": "scalp" },
+      { "label": "Female pattern loss", "detail": "Phase 2 trial, 160 women", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "No results are public.", "text": "Seven KX-826 trials are registered. None has posted results, and no journal paper reporting their results was found." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Pyrilutamide", "icon": "molecule" },
+      { "label": "Androgen receptor", "icon": "receptor" },
+      { "label": "Blocks androgens", "icon": "block" },
+      { "label": "Scalp follicles", "icon": "hair" }
+    ],
+    "bullets": [
+      "**Androgen receptor blocker** applied to the scalp",
+      "**Aims** to block the receptor without lowering hormones in the body (2026 review)",
+      "**Used as a comparator** in mouse studies of newer receptor blockers",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["7 registered trials, 2 Phase 1 to Phase 3", "No posted or published results", "Phase 3 in 740 men: status unknown"]
+  },
+  "notEstablished": [
+    { "text": "Effect on hair loss", "icon": "hair" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Hormone and sexual effects", "icon": "hormone" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "On the scalp (solution), in trials",
+    "pharmacokinetics": "Measured in Phase 1 trials; no results posted",
+    "soldAs": "Investigational; not available as an approved drug in the US",
+    "monitored": "Target-area hair count, skin irritation, ECG, drug levels",
+    "sport": "Not named on the 2026 list; class S0 wording may cover it"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; no product in FDA's database" },
+    { "agency": "EMA", "text": "Not approved EU-wide" },
+    { "agency": "WADA", "text": "Not named; S0 may apply (no ruling)" }
+  ],
+  "references": [
+    "ClinicalTrials.gov, KX-826 Phase 3 in Chinese men (NCT06126965), accessed Nov 2026",
+    "Burshtein et al., Front Pharmacol (review), Mar 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

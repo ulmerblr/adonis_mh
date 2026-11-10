@@ -1,0 +1,63 @@
+{
+  "slug": "tirzepatide",
+  "lane": "weight",
+  "number": "02",
+  "name": "Tirzepatide",
+  "description": "Synthetic peptide that switches on two gut-hormone receptors, GIP and GLP-1; binds albumin to last longer",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Weight, diabetes, sleep apnea",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Zepbound, Mounjaro)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "SURMOUNT-1, 72 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Blood sugar", "detail": "Type 2 diabetes", "evidence": "Human", "tile": "blood-sugar" },
+      { "label": "Sleep apnea", "detail": "Obstructive, with obesity", "evidence": "Human", "tile": "lungs" },
+      { "label": "Heart outcomes", "detail": "vs dulaglutide, diabetes", "evidence": "Human", "tile": "heart" }
+    ],
+    "note": { "lead": "Mounjaro for weight is off-label.", "text": "In the US, Mounjaro is approved for type 2 diabetes and heart risk; Zepbound for weight and sleep apnea." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Tirzepatide", "icon": "molecule" },
+      { "label": "GIP/GLP-1 receptor", "icon": "receptor" },
+      { "label": "Appetite areas", "icon": "brain" },
+      { "label": "Lower food intake", "icon": "fork" }
+    ],
+    "bullets": [
+      "**Binds and activates** both the GIP and GLP-1 receptors (label)",
+      "**GLP-1** is a regulator of appetite and calorie intake",
+      "**GIP** may add to food-intake control, per nonclinical studies",
+      "**Brain appetite areas** reached and activated in animal studies"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Phase 3 trials: SURPASS, SURMOUNT, SURMOUNT-OSA", "SURMOUNT-1: 2,539 adults, 72 weeks", "Heart trial vs dulaglutide: 13,299 adults"]
+  },
+  "notEstablished": [
+    { "text": "Thyroid C-cell tumors in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 5 to 6 days (Zepbound label)",
+    "routes": "Injection under the skin, once weekly",
+    "pharmacokinetics": "Peak in about 24 hours (8 to 72); broken down by protein cleavage",
+    "soldAs": "Prescription injection (Zepbound, Mounjaro)",
+    "monitored": "Weight, HbA1c, sleep apnea index; kidney function per label",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Mounjaro 2022, Zepbound 2023" },
+    { "agency": "FDA", "text": "Compounded versions not FDA approved" },
+    { "agency": "EMA", "text": "Authorised (Mounjaro, 2022)" },
+    { "agency": "WADA", "text": "Not prohibited; 2027 Monitoring Program" }
+  ],
+  "references": [
+    "FDA, Zepbound prescribing information, Sep 2026",
+    "Jastreboff et al., SURMOUNT-1, N Engl J Med, Jul 2022",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

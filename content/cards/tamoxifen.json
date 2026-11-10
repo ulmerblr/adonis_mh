@@ -1,0 +1,117 @@
+{
+  "slug": "tamoxifen",
+  "lane": "trt",
+  "number": "15",
+  "name": "Tamoxifen",
+  "description": "Non-steroidal anti-estrogen taken by mouth; competes with estrogen for receptors in tissues such as breast",
+  "status": {
+    "class": "Small molecule (SERM)",
+    "studiedFor": "Breast cancer, breast growth",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (generics, Soltamox)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Breast cancer",
+        "detail": "Women and men (metastatic)",
+        "evidence": "Human",
+        "tile": "cancer"
+      },
+      {
+        "label": "Breast growth",
+        "detail": "On bicalutamide, off-label",
+        "evidence": "Human",
+        "tile": "hormones"
+      },
+      {
+        "label": "Sperm counts",
+        "detail": "With testosterone undecanoate",
+        "evidence": "Human",
+        "tile": "fertility"
+      },
+      {
+        "label": "Hormones in men",
+        "detail": "LH, FSH, T (label)",
+        "evidence": "Human",
+        "tile": "testes"
+      }
+    ],
+    "note": {
+      "lead": "Men: one approved use.",
+      "text": "Metastatic breast cancer in men is approved. Use for breast growth, testosterone or fertility is off-label."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Tamoxifen",
+        "icon": "molecule"
+      },
+      {
+        "label": "Estrogen receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Blocks estrogen",
+        "icon": "block"
+      },
+      {
+        "label": "LH, FSH, T rise",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Label:** competes with estradiol for the estrogen receptor",
+      "**Label:** has some estrogen-like effects, which may explain uterine effects",
+      "**Label:** in men with low sperm counts, raised LH, FSH, testosterone, estrogen",
+      "**Tumor shrinkage** described in rats (animal data)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "Approved 1977 on large trials in women",
+      "Men with breast cancer: 66 of 132 responded",
+      "RCTs in men: 151 and 282 on bicalutamide"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term use in healthy men",
+      "icon": "calendar"
+    },
+    {
+      "text": "Dose for off-label uses",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "About 5 to 7 days (label)",
+    "routes": "By mouth (tablets, oral solution)",
+    "pharmacokinetics": "Peak about 5 hours; extensively metabolized (label)",
+    "soldAs": "Prescription tablets (generics), Soltamox solution",
+    "monitored": "Blood counts, liver tests (label)",
+    "sport": "Prohibited, class S4"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved 1977; boxed warning for some women"
+    },
+    {
+      "agency": "FDA",
+      "text": "Off-label: breast growth, testosterone"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S4.2)"
+    }
+  ],
+  "references": [
+    "FDA, tamoxifen citrate tablets label (Mylan), Aug 2026",
+    "Eur Urol, tamoxifen dose-response on bicalutamide (Fradet et al.), Jul 2007",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

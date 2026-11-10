@@ -1,0 +1,66 @@
+{
+  "slug": "selank",
+  "lane": "brain",
+  "number": "10",
+  "name": "Selank",
+  "description": "Synthetic 7-amino-acid peptide: tuftsin (Thr-Lys-Pro-Arg) with Pro-Gly-Pro added to slow breakdown",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Anxiety",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Anxiety", "detail": "Vs benzodiazepines, 60 to 70", "evidence": "Human", "tile": "mood" },
+      { "label": "Brain connections", "detail": "fMRI, 52 healthy people", "evidence": "Human", "tile": "brain" },
+      { "label": "Immune signals", "detail": "Blood cytokines", "evidence": "Human", "tile": "immune" },
+      { "label": "GABA signalling", "detail": "Rat brain", "evidence": "Animal", "tile": "nerves" }
+    ],
+    "note": { "lead": "Human data are limited.", "text": "A handful of small Russian studies, published in Russian, mostly without placebo. No trial is registered on ClinicalTrials.gov." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Selank", "icon": "molecule" },
+      { "label": "GABA receptors", "icon": "receptor" },
+      { "label": "Calming signals", "icon": "nerve" },
+      { "label": "Anxiety", "icon": "mood" }
+    ],
+    "bullets": [
+      "**In rat brain membranes,** changed GABA binding, likened to benzodiazepines",
+      "**In rats,** nasal doses changed GABA-linked gene activity in hours",
+      "**In lab tests,** slowed enzymes that break down enkephalins",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small Russian anxiety studies, 2008 to 2015", "Compared with benzodiazepines; no placebo", "No registered trial"]
+  },
+  "notEstablished": [
+    { "text": "Safety data in people (FDA)", "icon": "list" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Abuse potential", "icon": "question" },
+    { "text": "Long-term safety", "icon": "calendar" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Not established in people (nasal in rats)",
+    "pharmacokinetics": "Not established",
+    "soldAs": "No approved product; not on FDA compounding lists",
+    "monitored": "Anxiety scales (Hamilton, Zung), side-effect scale",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; was Category 2 (nominations withdrawn)" },
+    { "agency": "HHS", "text": "Not in the Oct 2026 peptide policy" },
+    { "agency": "EMA", "text": "Not authorised" },
+    { "agency": "WADA", "text": "Not named; S0 status not stated" }
+  ],
+  "references": [
+    "FDA, bulk drug substances that may present significant safety risks (Category 2), Apr 2026",
+    "Front Pharmacol, Selank and GABA-linked genes in rats, Feb 2016",
+    "J Clin Pharmacol, review of phenibut and Selank, Aug 2021"
+  ],
+  "checked": "Nov 2026"
+}

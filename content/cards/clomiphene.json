@@ -1,0 +1,121 @@
+{
+  "slug": "clomiphene",
+  "lane": "trt",
+  "number": "05",
+  "name": "Clomiphene",
+  "description": "Non-steroidal drug acting on estrogen receptors; a mix of 2 isomers, zuclomiphene and enclomiphene",
+  "status": {
+    "class": "Small molecule (SERM)",
+    "studiedFor": "Ovulation; low T in men",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Clomid) · men off-label"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Ovulation in women",
+        "detail": "Approved use",
+        "evidence": "Human",
+        "tile": "hormones"
+      },
+      {
+        "label": "Testosterone in men",
+        "detail": "Small RCTs, off-label",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Male infertility",
+        "detail": "WHO trial, 190 couples",
+        "evidence": "Human",
+        "tile": "fertility"
+      },
+      {
+        "label": "Sexual function",
+        "detail": "Little or no change",
+        "evidence": "Human",
+        "tile": "libido"
+      }
+    ],
+    "note": {
+      "lead": "Use in men is off-label.",
+      "text": "The label says there are no adequate, well-controlled studies showing that clomiphene treats male infertility."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Clomiphene",
+        "icon": "molecule"
+      },
+      {
+        "label": "Estrogen receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "More LH and FSH",
+        "icon": "hormone"
+      },
+      {
+        "label": "Testosterone",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Label:** competes with estrogen at receptors in hypothalamus, pituitary, organs",
+      "**Label:** first effect is a rise in pituitary release of LH and FSH",
+      "**In men,** higher LH and FSH drive testosterone; the label does not describe this",
+      "**Label:** no apparent progestogen, androgen or anti-androgen effects"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "Label trials: 7,578 women",
+      "Men: small RCTs raise LH, FSH, testosterone",
+      "WHO trial: no effect on male infertility"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term use in men",
+      "icon": "calendar"
+    },
+    {
+      "text": "Dose for men",
+      "icon": "question"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Absorbed by mouth; excreted mainly in feces (label)",
+    "soldAs": "Prescription tablets (Clomid, generics); men off-label",
+    "monitored": "Eye exam if visual symptoms (label); hormones in male trials",
+    "sport": "Prohibited, class S4"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved 1967 for ovulation in women"
+    },
+    {
+      "agency": "FDA",
+      "text": "Use in men is off-label"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S4.2)"
+    }
+  ],
+  "references": [
+    "FDA, Clomid prescribing information, Feb 2025",
+    "Int J Androl, WHO trial of clomiphene in male infertility, Aug 1992",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

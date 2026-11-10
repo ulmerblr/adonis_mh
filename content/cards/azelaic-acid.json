@@ -1,0 +1,63 @@
+{
+  "slug": "azelaic-acid",
+  "lane": "skin",
+  "number": "02",
+  "name": "Azelaic acid",
+  "description": "Naturally occurring saturated dicarboxylic acid, found in whole grains and made in small amounts by the body",
+  "status": {
+    "class": "Dicarboxylic acid (topical)",
+    "studiedFor": "Acne, rosacea",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Azelex, Finacea)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Rosacea", "detail": "Inflamed bumps; 2 trials, 664", "evidence": "Human", "tile": "skin" },
+      { "label": "Acne", "detail": "Inflammatory; 20% cream", "evidence": "Human", "tile": "acne" }
+    ],
+    "note": { "lead": "Combinations are untested.", "text": "No published trial of a cream combining azelaic acid and niacinamide turned up in a PubMed search (Oct 2026)." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Azelaic acid", "icon": "molecule" },
+      { "label": "Skin bacteria", "icon": "cell" },
+      { "label": "Thinner outer skin", "icon": "skin" },
+      { "label": "Fewer comedones", "icon": "target" }
+    ],
+    "bullets": [
+      "**Exact mechanism** is not known, per the Azelex label",
+      "**In lab tests,** active against two skin bacteria; clinical meaning unknown",
+      "**Skin biopsies** showed a thinner outer layer and less filaggrin",
+      "**In rosacea,** the way it works is unknown, per the Finacea label"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Azelex approved 1995; Finacea gel 2002", "2 rosacea RCTs, 664 people, 12 weeks", "Bumps fell 50.0–57.9% vs 38.2–39.9% (vehicle)"]
+  },
+  "notEstablished": [
+    { "text": "Use in dark skin", "icon": "skin" },
+    { "text": "Use in pregnancy", "icon": "question" },
+    { "text": "Effect on redness alone", "icon": "flame" }
+  ],
+  "practical": {
+    "halfLife": "About 12 hours after skin use; 45 minutes by mouth",
+    "routes": "On the skin (cream, gel, foam)",
+    "pharmacokinetics": "About 4% absorbed; mainly excreted unchanged in urine",
+    "soldAs": "Prescription cream, gel and foam (Azelex, Finacea, generics)",
+    "monitored": "Skin reactions; skin lightening in dark skin",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: acne (1995), rosacea (2002, 2015)" },
+    { "agency": "FDA", "text": "Compounded combinations are not FDA approved" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Azelex prescribing information (DailyMed), Mar 2024",
+    "FDA, Finacea gel 15% prescribing information (DailyMed), Apr 2011",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "tesamorelin",
+  "lane": "sleep",
+  "number": "12",
+  "name": "Tesamorelin",
+  "description": "Synthetic 44-amino-acid GHRH analogue with a hexenoyl group attached, given by injection",
+  "status": {
+    "class": "Peptide (GHRH analogue)",
+    "studiedFor": "HIV belly fat, liver fat, memory",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Egrifta); sleep off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "HIV belly fat", "detail": "Approved use (lipodystrophy)", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Liver fat", "detail": "RCT, 61 adults with HIV", "evidence": "Human", "tile": "liver" },
+      { "label": "Memory and thinking", "detail": "RCT, 152 older adults", "evidence": "Human", "tile": "memory" },
+      { "label": "Sleep", "detail": "One 22-person pilot", "evidence": "Human", "tile": "sleep" }
+    ],
+    "note": { "lead": "Sleep use is off-label.", "text": "A 22-person pilot found no significant change in sleep. Two planned sleep trials were withdrawn before enrolling anyone." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Tesamorelin", "icon": "molecule" },
+      { "label": "GRF receptor", "icon": "receptor" },
+      { "label": "Growth hormone", "icon": "hormone" },
+      { "label": "IGF-1, belly fat", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Binds GRF receptors** with potency like natural GRF, in vitro (label)",
+      "**Pituitary releases** the body's own growth hormone, per the label",
+      "**IGF-1 rose** by about 107 ng/mL in the approval trials",
+      "**For sleep,** no effect or mechanism is established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved in 2010 for HIV belly fat (Egrifta)", "Two 52-week RCTs, 816 people", "Sleep: one 22-person pilot, no change"]
+  },
+  "notEstablished": [
+    { "text": "Long-term heart safety", "icon": "heart" },
+    { "text": "Long-term high IGF-1 effects", "icon": "calendar" },
+    { "text": "Effect on sleep", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "11 minutes (single dose under the skin, label)",
+    "routes": "Under the skin (injection)",
+    "pharmacokinetics": "Peak in about 0.15 hours; bioavailability under 4%",
+    "soldAs": "Prescription vials (Egrifta SV, Egrifta WR)",
+    "monitored": "IGF-1, blood glucose, eye checks (label)",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (Egrifta, 2010) for HIV belly fat only" },
+    { "agency": "EMA", "text": "Application withdrawn, 2012" },
+    { "agency": "WADA", "text": "Prohibited (S2.2.4)" }
+  ],
+  "references": [
+    "FDA, Egrifta WR prescribing information (DailyMed), Mar 2025",
+    "Stewart et al., eNeurologicalSci, low-dose tesamorelin pilot, Sep 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

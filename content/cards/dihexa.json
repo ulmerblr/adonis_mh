@@ -1,0 +1,65 @@
+{
+  "slug": "dihexa",
+  "lane": "brain",
+  "number": "04",
+  "name": "Dihexa",
+  "description": "Small modified peptide made from angiotensin IV (N-hexanoic-Tyr-Ile-(6) aminohexanoic amide)",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Memory in dementia models",
+    "humanEvidence": "Lab or animal only",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Memory", "detail": "Rats with induced deficits", "evidence": "Animal", "tile": "memory" },
+      { "label": "Alzheimer's model", "detail": "APP/PS1 mice", "evidence": "Animal", "tile": "brain" },
+      { "label": "Inner-ear hair cells", "detail": "Zebrafish, antibiotic damage", "evidence": "Animal", "tile": "nerves" },
+      { "label": "Sciatic nerve repair", "detail": "Rats, with stem cells", "evidence": "Animal", "tile": "nerves" }
+    ],
+    "note": { "lead": "No human study published.", "text": "FDA has not identified any human exposure data. The main paper on how it acts was retracted in 2025." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Dihexa", "icon": "molecule" },
+      { "label": "HGF binding", "icon": "receptor" },
+      { "label": "c-Met signals", "icon": "nerve" },
+      { "label": "New synapses", "icon": "brain" }
+    ],
+    "bullets": [
+      "**Reported** to bind HGF and raise c-Met signalling (lab work, paper retracted 2025)",
+      "**New nerve-cell connections** seen in the developers' lab tests",
+      "**2013 founding paper** has a journal notice of concern (2021)",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["Rat, mouse, zebrafish and cell studies only", "No human study or registered trial", "Key mechanism paper retracted in 2025"]
+  },
+  "notEstablished": [
+    { "text": "Any human exposure data", "icon": "question" },
+    { "text": "Safety in people", "icon": "list" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Dose in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "None studied in people (by mouth in rats)",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "No approved product; not on FDA compounding lists",
+    "monitored": "Not established (no human trials)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; was Category 2 (nominations withdrawn)" },
+    { "agency": "HHS", "text": "Not in the Oct 2026 peptide policy" },
+    { "agency": "WADA", "text": "Not named; S0 status not stated" }
+  ],
+  "references": [
+    "FDA, bulk drug substances that may present significant safety risks (Category 2), Apr 2026",
+    "J Pharmacol Exp Ther, first description of dihexa (McCoy et al.), Jan 2013",
+    "J Pharmacol Exp Ther, retraction notice for Benoist et al. 2014, Apr 2025"
+  ],
+  "checked": "Nov 2026"
+}

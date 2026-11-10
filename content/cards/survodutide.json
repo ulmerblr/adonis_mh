@@ -1,0 +1,63 @@
+{
+  "slug": "survodutide",
+  "lane": "weight",
+  "number": "15",
+  "name": "Survodutide",
+  "description": "Experimental injected peptide (BI 456906) that acts on two hormone receptors: glucagon and GLP-1",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Weight, liver disease (MASH)",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Body weight", "detail": "SYNCHRONIZE-1, 76 weeks", "evidence": "Human", "tile": "body-fat" },
+      { "label": "Weight with diabetes", "detail": "SYNCHRONIZE-2, 752 adults", "evidence": "Human", "tile": "blood-sugar" },
+      { "label": "Fatty liver (MASH)", "detail": "Phase 2, liver biopsies", "evidence": "Human", "tile": "liver" }
+    ],
+    "note": { "lead": "Heart trial results not yet published.", "text": "A heart-safety trial of about 5,500 people reached primary completion in June 2026; Phase 3 MASH trials are recruiting." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Survodutide", "icon": "molecule" },
+      { "label": "Glucagon receptor", "icon": "receptor" },
+      { "label": "GLP-1 receptor", "icon": "receptor" },
+      { "label": "Weight, liver fat", "icon": "fat" }
+    ],
+    "bullets": [
+      "**Acts on two hormone receptors:** glucagon and GLP-1",
+      "**Given once a week** under the skin in trials",
+      "**Brain appetite areas** studied in mice and lab work",
+      "**No FDA label,** so there is no approved mechanism statement"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Phase 2 obesity: 387 adults, 46 weeks", "SYNCHRONIZE-1: 725 adults, 76 weeks", "Phase 2 MASH: 293 adults, liver biopsies"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Heart outcomes (unpublished)", "icon": "heart" },
+    { "text": "Half-life in people", "icon": "clock" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection under the skin, once weekly (trials)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Not approved; FDA warned “research use” sellers",
+    "monitored": "Weight, HbA1c, liver biopsy, stomach and bowel effects",
+    "sport": "Not named on the 2026 list; S0 status unconfirmed"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; warned “research use” sellers" },
+    { "agency": "EMA", "text": "Not authorised" },
+    { "agency": "WADA", "text": "Not named; class S0 may apply" }
+  ],
+  "references": [
+    "le Roux et al., SYNCHRONIZE-1, N Engl J Med, Aug 2026",
+    "Sanyal et al., survodutide Phase 2 in MASH, N Engl J Med, Jul 2024",
+    "FDA, Concerns with unapproved GLP-1 drugs used for weight loss, Oct 2026"
+  ],
+  "checked": "Nov 2026"
+}

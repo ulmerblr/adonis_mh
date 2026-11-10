@@ -1,0 +1,66 @@
+{
+  "slug": "mots-c",
+  "lane": "longevity",
+  "number": "06",
+  "name": "MOTS-c",
+  "description": "16-amino-acid peptide coded in mitochondrial DNA; products are made synthetically",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Insulin resistance, obesity, aging",
+    "humanEvidence": "Lab or animal only",
+    "usStatus": "Not FDA approved · compounding allowed"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Insulin resistance", "detail": "Diet- and age-related, mice", "evidence": "Animal", "tile": "blood-sugar" },
+      { "label": "Body fat", "detail": "High-fat diet, mice", "evidence": "Animal", "tile": "body-fat" },
+      { "label": "Exercise capacity", "detail": "Treadmill, mice", "evidence": "Animal", "tile": "exercise" },
+      { "label": "Bone", "detail": "Rat cells, mouse skulls", "evidence": "Animal", "tile": "bone" },
+      { "label": "Artery calcification", "detail": "Rats", "evidence": "Animal", "tile": "blood-vessels" }
+    ],
+    "note": { "lead": "No human studies.", "text": "FDA found no published study giving MOTS-c to people. One Phase 2a trial in prediabetes is registered, with no results yet." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "MOTS-c", "icon": "molecule" },
+      { "label": "Folate cycle", "icon": "enzyme" },
+      { "label": "AMPK switched on", "icon": "bolt" },
+      { "label": "Muscle metabolism", "icon": "muscle" }
+    ],
+    "bullets": [
+      "**Slowed the folate cycle** and purine production, in cells",
+      "**Switched on AMPK,** an energy-sensing enzyme; muscle the main target (lab)",
+      "**Broken down quickly** in human blood in a test tube",
+      "**Its molecular target** is unknown (FDA)"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["Mouse, rat and cell studies since 2015", "No published human study, any route", "No animal toxicity studies found"]
+  },
+  "notEstablished": [
+    { "text": "Safety in people", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Dose in people", "icon": "question" },
+    { "text": "Immune reactions to injections", "icon": "shield" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "None studied in people",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "Compounded (Rx) or “research use only”",
+    "monitored": "Not established (no human studies)",
+    "sport": "Prohibited, class S4"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "HHS", "text": "Compounding allowed, acetate, SC or IM (Oct 2026)" },
+    { "agency": "WADA", "text": "Prohibited at all times (S4.4.1)" }
+  ],
+  "references": [
+    "FDA, Pharmacy Compounding Advisory Committee briefing on MOTS-c, July 2026",
+    "HHS, Federal Register notice 2026-22192, Oct 30, 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

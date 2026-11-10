@@ -1,0 +1,65 @@
+{
+  "slug": "noopept",
+  "lane": "brain",
+  "number": "07",
+  "name": "Noopept",
+  "description": "Ethyl ester of N-phenylacetyl-L-prolylglycine (omberacetam), a small dipeptide-like molecule from Russia",
+  "status": {
+    "class": "Dipeptide-like small molecule",
+    "studiedFor": "Mild thinking problems after brain injury",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Memory after stroke", "detail": "60 patients, open study", "evidence": "Human", "tile": "memory" },
+      { "label": "Brain-wave changes", "detail": "EEG after brain injury", "evidence": "Human", "tile": "brain" },
+      { "label": "Memory in rodents", "detail": "Scopolamine model, mice", "evidence": "Animal", "tile": "memory" },
+      { "label": "Nerve growth factors", "detail": "NGF and BDNF genes, rats", "evidence": "Animal", "tile": "nerves" }
+    ],
+    "note": { "lead": "Human data are limited.", "text": "A few small Russian studies, mostly in Russian. No trial is registered on ClinicalTrials.gov." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Noopept", "icon": "molecule" },
+      { "label": "NGF and BDNF genes", "icon": "cell" },
+      { "label": "Hippocampus", "icon": "brain" },
+      { "label": "Memory", "icon": "brain" }
+    ],
+    "bullets": [
+      "**In rats,** raised activity of the NGF and BDNF genes in the hippocampus",
+      "**In mice,** prevented the memory deficit caused by scopolamine",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small Russian studies, 2008 to 2011", "Open study of 60 stroke patients", "No registered trial"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Effects in healthy men", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth in Russian studies",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Not FDA approved; FDA cited supplements containing it (2019)",
+    "monitored": "MMSE, word-association tests, EEG",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; cited in 2019 warning letters" },
+    { "agency": "TGA", "text": "Prescription-only (Schedule 4); not authorised" },
+    { "agency": "EMA", "text": "Not authorised" },
+    { "agency": "WADA", "text": "Not named; S0 status not stated" }
+  ],
+  "references": [
+    "FDA, health fraud page on Alzheimer's disease products, Nov 2026",
+    "Neurol Clin Pract, omberacetam and analogs in supplements, Jun 2021",
+    "J Xenobiot, medicines control laboratories on noopept, Jun 2025"
+  ],
+  "checked": "Nov 2026"
+}

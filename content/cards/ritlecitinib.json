@@ -1,0 +1,61 @@
+{
+  "slug": "ritlecitinib",
+  "lane": "hair-loss",
+  "number": "15",
+  "name": "Ritlecitinib",
+  "description": "Kinase inhibitor taken by mouth that irreversibly blocks JAK3 and TEC-family kinases",
+  "status": {
+    "class": "JAK3/TEC kinase inhibitor",
+    "studiedFor": "Severe alopecia areata",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Litfulo)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Alopecia areata", "detail": "Severe; age 12 and older", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Not for pattern hair loss.", "text": "Alopecia areata is an autoimmune disease. Litfulo is not a treatment for male pattern hair loss." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Ritlecitinib", "icon": "pill" },
+      { "label": "JAK3 and TEC", "icon": "enzyme" },
+      { "label": "Immune signaling", "icon": "block" },
+      { "label": "Immune attack", "icon": "shield" }
+    ],
+    "bullets": [
+      "**Irreversibly blocks** the ATP binding site of JAK3 and TEC-family kinases",
+      "**In cells,** it blocks cytokine-induced STAT activation via JAK3",
+      "**Relevance** of each enzyme to the effect is not known, per the label",
+      "**In dogs,** high doses caused reversible hearing changes"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Phase 2b/3 trial, 718 people aged 12+", "SALT 20 or less at week 24: 23% (50 mg) vs 2%", "Phase 2a trial, 142 adults"]
+  },
+  "notEstablished": [
+    { "text": "Use in pattern hair loss", "icon": "hair" },
+    { "text": "Cause of dog hearing changes", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "1.3 to 2.3 hours",
+    "routes": "By mouth (capsules)",
+    "pharmacokinetics": "Peak within 1 hour; many pathways (GST, CYP enzymes)",
+    "soldAs": "Prescription capsules (Litfulo)",
+    "monitored": "Lymphocytes and platelets before starting; infections",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: severe alopecia areata, age 12+ (2023)" },
+    { "agency": "FDA", "text": "Boxed warning: infections, cancer, heart, clots" },
+    { "agency": "EMA", "text": "Authorised Sep 2023, age 12+" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Litfulo prescribing information (DailyMed), Jun 2026",
+    "King et al., Lancet, ALLEGRO-2b/3, May 2023",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

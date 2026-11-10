@@ -1002,3 +1002,8 @@ span.tone-none { background: #d9d0bd; }
 .legalLaw { scroll-margin-top: 72px; }
 .legalLaw p { margin: 6px 0 10px; }
 .lawsApply { margin: 18px 0 0; padding: 12px 14px; background: var(--sand); border-radius: 4px; font-size: 16px; }
+
+/* EDU PROMPT 39: the treatment card block at the top of each treatment page (components/card/treatment-card.tsx). */
+.treatmentCard { padding: 28px 0 8px; background: #E9E4D8; }
+.appDetail .treatmentCard { padding: 12px 0 4px; }
+.appDetail .treatmentCard .wrap { padding: 0 10px; }

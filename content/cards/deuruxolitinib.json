@@ -1,0 +1,61 @@
+{
+  "slug": "deuruxolitinib",
+  "lane": "hair-loss",
+  "number": "11",
+  "name": "Deuruxolitinib",
+  "description": "Janus kinase (JAK) inhibitor taken by mouth, a small molecule developed as CTP-543",
+  "status": {
+    "class": "JAK inhibitor",
+    "studiedFor": "Severe alopecia areata",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Leqselvi)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Alopecia areata", "detail": "Severe; adults 18 to 65", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Not for pattern hair loss.", "text": "Alopecia areata is an autoimmune disease. Leqselvi is not approved for male pattern hair loss or for people under 18." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Deuruxolitinib", "icon": "pill" },
+      { "label": "JAK1, JAK2, TYK2", "icon": "enzyme" },
+      { "label": "STAT signaling", "icon": "block" },
+      { "label": "Immune attack", "icon": "shield" }
+    ],
+    "bullets": [
+      "**JAKs** pass on signals from cytokines and growth factors for immune function",
+      "**In lab tests,** it blocked JAK1, JAK2 and TYK2 more strongly than JAK3",
+      "**How this relates** to its effect on hair is not known, per the label"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["2 Phase 3 trials, 1,209 adults, 24 weeks", "SALT 20 or less: 29.6–33.0% (8 mg) vs 0.8%", "Duration of response not assessed"]
+  },
+  "notEstablished": [
+    { "text": "Use in pattern hair loss", "icon": "hair" },
+    { "text": "Use under age 18", "icon": "question" },
+    { "text": "How long response lasts", "icon": "calendar" }
+  ],
+  "practical": {
+    "halfLife": "About 4 hours",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Peak within 1.5 hours; liver metabolism (CYP2C9, CYP3A4)",
+    "soldAs": "Prescription tablets (Leqselvi)",
+    "monitored": "CYP2C9 genotype before use; blood counts, blood fats",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: severe alopecia areata, adults (2024)" },
+    { "agency": "FDA", "text": "Boxed warning: infections, cancer, heart, clots" },
+    { "agency": "MHRA", "text": "Approved, severe alopecia areata (2026)" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Leqselvi prescribing information (DailyMed), Sep 2026",
+    "King et al., J Am Acad Dermatol, THRIVE-AA1, Nov 2024",
+    "Tsianakas et al., J Am Acad Dermatol, THRIVE-AA2, Apr 2026"
+  ],
+  "checked": "Nov 2026"
+}

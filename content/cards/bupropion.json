@@ -1,0 +1,62 @@
+{
+  "slug": "bupropion",
+  "lane": "weight",
+  "number": "05",
+  "name": "Bupropion",
+  "description": "Antidepressant of the aminoketone class; for weight, approved only combined with naltrexone",
+  "status": {
+    "class": "Antidepressant (aminoketone)",
+    "studiedFor": "Depression, smoking, weight",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Wellbutrin); weight: Contrave"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Depression", "detail": "Incl. seasonal (Wellbutrin XL)", "evidence": "Human", "tile": "mood" },
+      { "label": "Quitting smoking", "detail": "Zyban", "evidence": "Human", "tile": "addiction" },
+      { "label": "Body weight", "detail": "Alone, and with naltrexone", "evidence": "Human", "tile": "body-fat" }
+    ],
+    "note": { "lead": "Weight use alone is off-label.", "text": "For weight, FDA approved bupropion only combined with naltrexone, as Contrave (2014)." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Bupropion", "icon": "pill" },
+      { "label": "Reuptake block", "icon": "block" },
+      { "label": "NE and dopamine", "icon": "brain" },
+      { "label": "Mood, appetite", "icon": "mood" }
+    ],
+    "bullets": [
+      "**Label:** mechanism unknown; presumed noradrenergic and/or dopaminergic",
+      "**Relatively weak** blocker of noradrenaline and dopamine reuptake",
+      "**Does not** block serotonin reuptake or inhibit monoamine oxidase",
+      "**With naltrexone,** lab and animal data point to appetite and reward areas"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Alone for weight: RCTs of 327 and 384 adults", "Contrave: 4 COR trials, 4,536 adults, 56 weeks", "Approved for depression since 1985"]
+  },
+  "notEstablished": [
+    { "text": "Contrave heart safety, long term", "icon": "heart" }
+  ],
+  "practical": {
+    "halfLife": "About 21 hours (Wellbutrin XL label)",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Peak about 5 hours (XL); liver metabolism, mainly CYP2B6",
+    "soldAs": "Prescription tablets (Wellbutrin SR/XL; Contrave)",
+    "monitored": "Mood and suicidal thoughts, blood pressure",
+    "sport": "Not prohibited; 2026 Monitoring Program"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: depression, smoking; weight via Contrave" },
+    { "agency": "FDA", "text": "Boxed warning: suicidal thoughts" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "WADA", "text": "Monitored, not prohibited" }
+  ],
+  "references": [
+    "FDA, Wellbutrin XL prescribing information, Feb 2026",
+    "FDA, Contrave prescribing information, Nov 2025",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

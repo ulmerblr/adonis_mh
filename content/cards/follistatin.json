@@ -1,0 +1,63 @@
+{
+  "slug": "follistatin",
+  "lane": "recovery",
+  "number": "06",
+  "name": "Follistatin",
+  "description": "Protein the body makes that binds myostatin and activin; tested in people only as gene therapy",
+  "status": {
+    "class": "Protein",
+    "studiedFor": "Muscle disease, walking distance",
+    "humanEvidence": "Very small gene therapy trials",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Muscle disease", "detail": "Becker dystrophy, myositis", "evidence": "Human + animal", "tile": "muscle" },
+      { "label": "Muscle size", "detail": "Gene delivery in monkeys", "evidence": "Animal", "tile": "exercise" },
+      { "label": "FSH levels", "detail": "Activin–inhibin system", "evidence": "Human + animal", "tile": "hormones" }
+    ],
+    "note": { "lead": "Given only as gene therapy.", "text": "Published trials treated 12 people with muscle disease, without placebo groups. The protein itself has no published trial." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Follistatin", "icon": "molecule" },
+      { "label": "Binds myostatin", "icon": "target" },
+      { "label": "Less growth limit", "icon": "block" },
+      { "label": "Muscle growth", "icon": "muscle" }
+    ],
+    "bullets": [
+      "**Binds and blocks** myostatin, a signal that limits muscle growth, and activin",
+      "**Can lower FSH** through the pituitary’s activin–inhibin system",
+      "**Gene delivery** (AAV or plasmid) makes the body produce the protein",
+      "**Muscle gains** shown in monkeys; in people, data are from 12 patients"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": ["2 open-label trials, 12 patients", "No placebo-controlled trials", "Newer plasmid and AAV trials unpublished"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Effects on sperm or fertility", "icon": "sperm" },
+    { "text": "Injected protein in people", "icon": "question" },
+    { "text": "Effects in healthy men", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Gene therapy injected into muscle (AAV or plasmid)",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "Promoted online in compounded combo products (FDA)",
+    "monitored": "6-minute walk distance, muscle biopsies",
+    "sport": "Prohibited, class S4"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved, as a protein or gene therapy" },
+    { "agency": "WADA", "text": "Prohibited (S4.3; gene therapy also M3)" }
+  ],
+  "references": [
+    "Mol Ther, AAV1 follistatin gene therapy in Becker muscular dystrophy, Jan 2015",
+    "FDA, briefing document on KPV, PCAC meeting, May 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

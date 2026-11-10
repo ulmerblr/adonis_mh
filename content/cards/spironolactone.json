@@ -1,0 +1,64 @@
+{
+  "slug": "spironolactone",
+  "lane": "skin",
+  "number": "06",
+  "name": "Spironolactone",
+  "description": "Aldosterone antagonist taken by mouth, a diuretic that also binds the androgen receptor",
+  "status": {
+    "class": "Aldosterone antagonist (diuretic)",
+    "studiedFor": "Heart failure, blood pressure, acne",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Aldactone); acne off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Heart failure", "detail": "Approved use", "evidence": "Human", "tile": "heart" },
+      { "label": "Blood pressure", "detail": "Approved add-on use", "evidence": "Human", "tile": "blood-pressure" },
+      { "label": "Edema", "detail": "Cirrhosis, nephrotic syndrome", "evidence": "Human", "tile": "kidney" },
+      { "label": "Acne", "detail": "Off-label; trials in women only", "evidence": "Human", "tile": "acne" }
+    ],
+    "note": { "lead": "Acne trials enrolled women only.", "text": "SAFA (410 women) and FASCE (133 women) tested acne. Neither tells us how it works or how it is tolerated in men." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Spironolactone", "icon": "pill" },
+      { "label": "Aldosterone block", "icon": "receptor" },
+      { "label": "Salt, water out", "icon": "kidney" },
+      { "label": "Androgen receptor", "icon": "hormone" }
+    ],
+    "bullets": [
+      "**Blocks aldosterone** at the kidney tubule, per the label",
+      "**More sodium and water** are excreted while potassium is retained",
+      "**Binds the androgen receptor;** the label describes anti-androgenic effects",
+      "**In acne,** trial authors say it targets oil-gland androgen receptors"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Aldactone approved 1960", "Acne: SAFA, 410 women, 24 weeks", "Acne success 19% vs 6% (placebo) at week 12"]
+  },
+  "notEstablished": [
+    { "text": "Acne use in men", "icon": "male" },
+    { "text": "Acne mechanism in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "1.4 hours; active metabolites 13.8 to 16.5 hours",
+    "routes": "By mouth (tablets, oral liquid)",
+    "pharmacokinetics": "Peak in 2.6 hours (canrenone 4.3); extensive metabolism",
+    "soldAs": "Prescription tablets (Aldactone, generics)",
+    "monitored": "Potassium within 1 week, then regularly; kidney function",
+    "sport": "Prohibited at all times, class S5"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (1960): heart, blood pressure, edema" },
+    { "agency": "FDA", "text": "Acne is off-label" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "WADA", "text": "Prohibited at all times (S5)" }
+  ],
+  "references": [
+    "FDA, Aldactone prescribing information (DailyMed), Nov 2025",
+    "Santer et al., BMJ, SAFA trial of spironolactone for acne in women, May 2023",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

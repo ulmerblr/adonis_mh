@@ -1,0 +1,64 @@
+{
+  "slug": "minoxidil",
+  "lane": "hair-loss",
+  "number": "02",
+  "name": "Minoxidil",
+  "description": "Pyrimidine-derived vasodilator: scalp solution or foam, and tablets for high blood pressure",
+  "status": {
+    "class": "Vasodilator",
+    "studiedFor": "Hair loss, high blood pressure",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Rogaine OTC); oral hair off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Male pattern loss", "detail": "Topical; approved, OTC", "evidence": "Human", "tile": "scalp" },
+      { "label": "High blood pressure", "detail": "Tablets; severe cases", "evidence": "Human", "tile": "blood-pressure" },
+      { "label": "Oral for hair loss", "detail": "Off-label; one RCT, 90 men", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Oral use for hair is off-label.", "text": "In a 24-week trial of 90 men, oral minoxidil was not superior to topical on hair density." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Minoxidil", "icon": "molecule" },
+      { "label": "Small arteries", "icon": "vessel" },
+      { "label": "Vasodilation", "icon": "gauge" },
+      { "label": "BP, hair growth", "icon": "hair" }
+    ],
+    "bullets": [
+      "**Direct-acting peripheral vasodilator,** per the tablet label",
+      "**Lowers blood pressure** by reducing peripheral vascular resistance",
+      "**Extra body hair** seen in about 80% of people on the tablets",
+      "**For hair growth,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Topical approved in 1988 (Rogaine)", "48-week RCT: 5% vs 2% vs placebo, 393 men", "Oral for hair: one RCT, small open studies"]
+  },
+  "notEstablished": [
+    { "text": "Long-term oral use for hair", "icon": "calendar" },
+    { "text": "Compounded combination sprays", "icon": "question" },
+    { "text": "Animal heart findings in people", "icon": "heart" }
+  ],
+  "practical": {
+    "halfLife": "4.2 hours on average (tablets)",
+    "routes": "On the scalp (solution, foam); by mouth (tablets)",
+    "pharmacokinetics": "Tablets: peak within 1 hour; about 90% metabolized (glucuronidation)",
+    "soldAs": "OTC scalp solution or foam (Rogaine); Rx tablets",
+    "monitored": "Hair counts, scalp irritation, heart symptoms, swelling",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Topical OTC (1988, 1997); tablets for high BP" },
+    { "agency": "FDA", "text": "Oral use for hair loss is off-label" },
+    { "agency": "EMA", "text": "Topical authorised nationally in EU states" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, minoxidil tablets label (DailyMed), Aug 2026",
+    "Olsen et al., J Am Acad Dermatol, 5% vs 2% topical minoxidil, Sep 2002",
+    "Penha et al., JAMA Dermatology, oral vs topical minoxidil, Jun 2024"
+  ],
+  "checked": "Nov 2026"
+}

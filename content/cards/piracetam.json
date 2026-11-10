@@ -1,0 +1,66 @@
+{
+  "slug": "piracetam",
+  "lane": "brain",
+  "number": "09",
+  "name": "Piracetam",
+  "description": "Small synthetic molecule (2-oxo-1-pyrrolidine acetamide), the first of the “racetams”; not a peptide",
+  "status": {
+    "class": "Small molecule (racetam)",
+    "studiedFor": "Dementia, memory, stroke, myoclonus",
+    "humanEvidence": "Controlled human trials; reviews disagree",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Dementia", "detail": "Cochrane: cognition inconclusive", "evidence": "Human", "tile": "brain" },
+      { "label": "Memory problems", "detail": "18 studies, 886 patients", "evidence": "Human", "tile": "memory" },
+      { "label": "Acute stroke", "detail": "3 trials, 1,002 patients", "evidence": "Human", "tile": "brain" },
+      { "label": "Cortical myoclonus", "detail": "UK licensed use", "evidence": "Human", "tile": "nerves" },
+      { "label": "Blood flow factors", "detail": "Platelets, red cells", "evidence": "Human + animal", "tile": "blood" }
+    ],
+    "note": { "lead": "Reviews disagree.", "text": "A maker-funded analysis found a global benefit; Cochrane (2001) and a 2024 review found no clear effect on memory or thinking." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Piracetam", "icon": "molecule" },
+      { "label": "Platelets", "icon": "drop" },
+      { "label": "Blood flow", "icon": "vessel" },
+      { "label": "Brain function", "icon": "brain" }
+    ],
+    "bullets": [
+      "**UK label:** its action in cortical myoclonus is unknown",
+      "**Label:** makes red cells more flexible and reduces platelet clumping",
+      "**In healthy volunteers,** high doses lowered fibrinogen and von Willebrand factor",
+      "**For memory in people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Many placebo-controlled trials in dementia, stroke", "676-person MCI trial: no results posted", "Approved in UK, Belgium, Luxembourg; not US"]
+  },
+  "notEstablished": [
+    { "text": "Effect on memory (2024 review)", "icon": "question" },
+    { "text": "Effect in dementia", "icon": "question" },
+    { "text": "Effects in healthy men", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "5.0 hours in young adult men (UK label)",
+    "routes": "By mouth (tablets) on the UK label",
+    "pharmacokinetics": "Almost fully absorbed; no metabolite found; excreted in urine",
+    "soldAs": "Not FDA approved; FDA cited supplements containing it (2019)",
+    "monitored": "Kidney function; bleeding risk (UK label)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; 503A/503B Category 3" },
+    { "agency": "MHRA", "text": "Licensed (Nootropil) for cortical myoclonus" },
+    { "agency": "TGA", "text": "Prescription-only (Schedule 4); not authorised" },
+    { "agency": "WADA", "text": "Not named; relative fonturacetam is S6.A" }
+  ],
+  "references": [
+    "MHRA (emc), Nootropil 1200 mg UK SmPC, Jul 2025",
+    "FDA, bulk drug substances nominated under section 503B (categories), Mar 2025",
+    "Clin Neurol Neurosurg, piracetam and memory meta-analysis, Aug 2024"
+  ],
+  "checked": "Nov 2026"
+}

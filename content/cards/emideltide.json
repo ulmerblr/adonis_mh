@@ -1,0 +1,123 @@
+{
+  "slug": "emideltide",
+  "lane": "sleep",
+  "number": "04",
+  "name": "Emideltide (DSIP)",
+  "description": "Nine-amino-acid peptide (delta sleep-inducing peptide), first found in rabbit blood in 1963",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Insomnia, withdrawal",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Chronic insomnia",
+        "detail": "Small IV studies, 1981–1992",
+        "evidence": "Human + animal",
+        "tile": "sleep"
+      },
+      {
+        "label": "Drug withdrawal",
+        "detail": "Opioid, alcohol; open studies",
+        "evidence": "Human",
+        "tile": "addiction"
+      },
+      {
+        "label": "Narcolepsy",
+        "detail": "One case report, 1984",
+        "evidence": "Human",
+        "tile": "sleep"
+      }
+    ],
+    "note": {
+      "lead": "Findings differ by research group.",
+      "text": "Early studies by one group reported better sleep. Double-blind studies by other groups (1987, 1992) found little or no benefit."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Emideltide",
+        "icon": "molecule"
+      },
+      {
+        "label": "Opioid system",
+        "icon": "brain"
+      },
+      {
+        "label": "Endorphin release",
+        "icon": "receptor"
+      },
+      {
+        "label": "Delta brain waves",
+        "icon": "moon"
+      }
+    ],
+    "bullets": [
+      "**Increased deep-sleep (delta) brain waves** in rabbits, rats and cats",
+      "**Acts through the opioid system** in animals, without binding opioid receptors (FDA)",
+      "**Can trigger endorphin release,** per FDA's review of animal data",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": [
+      "Small studies, 1981–1998, all by vein",
+      "209 people in published studies (FDA count)",
+      "No registered trial"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Under-skin injection data",
+      "icon": "question"
+    },
+    {
+      "text": "Addiction risk",
+      "icon": "question"
+    },
+    {
+      "text": "Standard toxicity studies",
+      "icon": "list"
+    }
+  ],
+  "practical": {
+    "halfLife": "About 8 minutes in the blood (people)",
+    "routes": "Injection into a vein (studies)",
+    "pharmacokinetics": "Cleared from the blood very fast; no data for under-skin use",
+    "soldAs": "Not approved; FDA panel voted against compounding use",
+    "monitored": "Sleep recordings, withdrawal signs (studies)",
+    "sport": "Not named on the 2026 list; S0 status not stated"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Not approved; FDA advised against 503A listing"
+    },
+    {
+      "agency": "FDA",
+      "text": "Advisory panel vote failed 6–7, July 2026"
+    },
+    {
+      "agency": "HHS",
+      "text": "Not in the Oct 2026 peptide policy"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not named on the 2026 list"
+    }
+  ],
+  "references": [
+    "FDA, Pharmacy Compounding Advisory Committee briefing on emideltide, Jul 2026",
+    "Neuropsychobiology, Bes et al., DSIP in chronic insomnia, 1992",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

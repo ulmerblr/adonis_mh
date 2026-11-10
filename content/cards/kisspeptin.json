@@ -1,0 +1,67 @@
+{
+  "slug": "kisspeptin",
+  "lane": "trt",
+  "number": "10",
+  "name": "Kisspeptin",
+  "description": "Family of natural peptide hormones; kisspeptin-54 and the 10-amino-acid kisspeptin-10 are most studied",
+  "status": {
+    "class": "Peptide hormone",
+    "studiedFor": "LH, FSH, testosterone, desire",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "LH and FSH release", "detail": "Healthy men, vein and skin", "evidence": "Human", "tile": "hormones" },
+      { "label": "Testosterone", "detail": "Healthy men, up to 12 days", "evidence": "Human", "tile": "testes" },
+      { "label": "Sexual desire", "detail": "Brain scans, single infusion", "evidence": "Human", "tile": "libido" },
+      { "label": "Erection", "detail": "Penile tumescence, 1 trial", "evidence": "Human", "tile": "erection" },
+      { "label": "Hypogonadism", "detail": "Phase 1 and 2 trials (US)", "evidence": "Human", "tile": "fertility" }
+    ],
+    "note": { "lead": "Studies are small and short.", "text": "Physiology studies ran from minutes to 12 days. None is a large treatment trial." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Kisspeptin", "icon": "molecule" },
+      { "label": "GnRH release", "icon": "brain" },
+      { "label": "LH and FSH", "icon": "hormone" },
+      { "label": "Testosterone", "icon": "male" }
+    ],
+    "bullets": [
+      "**Acts on the hypothalamus** to release GnRH, per human studies",
+      "**GnRH** makes the pituitary release LH and FSH",
+      "**Constant infusion** for 5 days: LH and FSH fell back to placebo levels",
+      "**Brain scans** showed changes in areas that process sexual cues"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small physiology studies, 5 to 40 people", "Single doses up to 12 days", "Phase 1 and 2 trials under way in the US"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effects of months of use", "icon": "hormone" },
+    { "text": "Effects on fertility", "icon": "sperm" }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "Into a vein (infusion) or under the skin, in studies",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Research trials; kisspeptin-10 in FDA Category 2",
+    "monitored": "LH, FSH, testosterone; brain activity (fMRI)",
+    "sport": "Prohibited, class S2 (males)"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "FDA", "text": "Kisspeptin-10 in 503A Category 2 (Sep 2023)" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "WADA", "text": "Prohibited at all times in males (S2)" }
+  ],
+  "references": [
+    "Eur J Endocrinol, 12 days of kisspeptin-10 in healthy men, Aug 2026",
+    "FDA, bulk drug substances that may present significant safety risks, Apr 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "urolithin-a",
+  "lane": "longevity",
+  "number": "19",
+  "name": "Urolithin A",
+  "description": "Compound made by gut bacteria from ellagitannins in pomegranates, nuts and berries",
+  "status": {
+    "class": "Gut-bacteria metabolite (dietary supplement)",
+    "studiedFor": "Muscle endurance, mitochondria",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Dietary supplement · not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Muscle endurance", "detail": "Main outcomes not met", "evidence": "Human + animal", "tile": "muscle" },
+      { "label": "Mitochondria", "detail": "Muscle gene activity", "evidence": "Human + animal", "tile": "mitochondria" },
+      { "label": "Running performance", "detail": "Trained men; no change", "evidence": "Human", "tile": "exercise" },
+      { "label": "Immune cells", "detail": "Lab markers, 50 adults", "evidence": "Human", "tile": "immune" },
+      { "label": "Blood vessels", "detail": "No change in obesity trial", "evidence": "Human", "tile": "blood-vessels" }
+    ],
+    "note": { "lead": "Mostly company-funded.", "text": "Most human trials of urolithin A taken directly were sponsored or funded by its maker. No trial has measured aging or lifespan." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Urolithin A", "icon": "molecule" },
+      { "label": "Mitophagy", "icon": "cell" },
+      { "label": "Worn mitochondria", "icon": "bolt" },
+      { "label": "Muscle function", "icon": "muscle" }
+    ],
+    "bullets": [
+      "**Mitophagy inducer:** helps cells clear out worn mitochondria",
+      "**Extended worm lifespan;** improved exercise capacity in mice and rats",
+      "**Changed mitochondrial gene activity** in human muscle (4 weeks)",
+      "**In people,** effects on aging are not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Small randomized trials, 42 to 90 people", "4 weeks to 4 months long", "Muscle main outcomes mostly not met"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effect on aging in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth",
+    "pharmacokinetics": "Blood levels measured in a Phase 1 trial; limited human data",
+    "soldAs": "Dietary supplement",
+    "monitored": "Walk distance, muscle endurance, CRP, adverse events",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved as a drug" },
+    { "agency": "FDA", "text": "No questions on GRAS notice 791 for food use (2018)" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "JAMA Netw Open, urolithin A and muscle endurance in older adults, Jan 2022",
+    "Nat Med, urolithin A induces mitophagy and extends lifespan in worms, Aug 2016",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

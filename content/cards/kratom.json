@@ -1,0 +1,129 @@
+{
+  "slug": "kratom",
+  "lane": "brain",
+  "number": "14",
+  "name": "Kratom",
+  "description": "Leaf of a Southeast Asian tree (Mitragyna speciosa) with over 50 alkaloids, mainly mitragynine",
+  "status": {
+    "class": "Plant extract",
+    "studiedFor": "Pain tolerance, abuse potential",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Abuse potential",
+        "detail": "Drug liking, withdrawal",
+        "evidence": "Human",
+        "tile": "addiction"
+      },
+      {
+        "label": "Pain tolerance",
+        "detail": "Cold-water test, 26 users",
+        "evidence": "Human",
+        "tile": "pain"
+      },
+      {
+        "label": "Attention",
+        "detail": "Pure mitragynine, 15 people",
+        "evidence": "Human",
+        "tile": "memory"
+      },
+      {
+        "label": "Anxiety and sadness",
+        "detail": "Observational, kratom users",
+        "evidence": "Human",
+        "tile": "mood"
+      }
+    ],
+    "note": {
+      "lead": "Few well-designed human studies.",
+      "text": "FDA says so. Controlled studies mostly tested safety, blood levels and abuse potential, not mood or anxiety treatment."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Mitragynine, 7-OH",
+        "icon": "molecule"
+      },
+      {
+        "label": "Mu-opioid receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Serotonin, others",
+        "icon": "brain"
+      },
+      {
+        "label": "Opioid-like effect",
+        "icon": "pulse"
+      }
+    ],
+    "bullets": [
+      "**Mitragynine and 7-OH** bind mu-opioid receptors, as opioid drugs do (FDA)",
+      "**7-OH** is more potent at that receptor than mitragynine and morphine",
+      "**Mitragynine** also acts on serotonin, dopamine and kappa-opioid systems",
+      "**In people,** doses of 3 g or more narrowed the pupils, an opioid-like effect"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": [
+      "Small controlled safety and abuse studies",
+      "Largest: 116 healthy adults, 15 daily doses",
+      "No trials as a treatment for mood or anxiety"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Effects on mood or anxiety",
+      "icon": "question"
+    },
+    {
+      "text": "Product content",
+      "icon": "list"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (leaf powder, drinks, pure mitragynine)",
+    "pharmacokinetics": "Limited human data; 7-OH is also formed from mitragynine in the body",
+    "soldAs": "Unapproved products; FDA says not lawful as supplement or food",
+    "monitored": "Side effects, abuse-related effects, withdrawal, liver enzyme",
+    "sport": "Not named on the 2026 list; S0 status not stated"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Not approved; not lawful as supplement or food"
+    },
+    {
+      "agency": "DEA",
+      "text": "Kratom not scheduled; 7-OH scheduling proposed"
+    },
+    {
+      "agency": "DEA",
+      "text": "3 related compounds Schedule I since Aug 2026"
+    },
+    {
+      "agency": "WADA",
+      "text": "Not named on the 2026 list"
+    }
+  ],
+  "references": [
+    "FDA, FDA and Kratom, Dec 2025",
+    "DEA, Federal Register 2026-20943, 7-OH above a threshold, Oct 14, 2026",
+    "Ther Drug Monit, Huestis et al., kratom leaf in healthy adults, Oct 2026"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "humanin",
+  "lane": "longevity",
+  "number": "11",
+  "name": "Humanin",
+  "description": "Small peptide made by the body, coded in mitochondrial DNA; HNG is a lab-made, more potent variant",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Nerve cells, insulin, aging",
+    "humanEvidence": "Lab or animal only; levels measured in people",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Nerve cell survival", "detail": "Alzheimer's models, lab", "evidence": "Animal", "tile": "brain" },
+      { "label": "Insulin sensitivity", "detail": "Rodents", "evidence": "Animal", "tile": "blood-sugar" },
+      { "label": "Memory", "detail": "Old mice", "evidence": "Animal", "tile": "memory" },
+      { "label": "Body fat", "detail": "Middle-aged mice (HNG)", "evidence": "Animal", "tile": "body-fat" },
+      { "label": "Lifespan", "detail": "Worms; not mice at dose tested", "evidence": "Animal", "tile": "aging" }
+    ],
+    "note": { "lead": "Never given to people.", "text": "Human studies only measure humanin in blood or muscle and compare groups, such as children of centenarians." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Humanin", "icon": "molecule" },
+      { "label": "Nerve cells", "icon": "nerve" },
+      { "label": "Blocks cell death", "icon": "shield" },
+      { "label": "Insulin response", "icon": "drop" }
+    ],
+    "bullets": [
+      "**Blocked nerve cell death** from Alzheimer's genes and beta-amyloid (lab)",
+      "**Improved insulin sensitivity** when infused into rodent brains",
+      "**Lengthened worm life** slightly, depending on the daf-16/FOXO gene",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["Worm, mouse, rat and cell studies since 2001", "Human studies measure levels only", "No trial giving humanin registered"]
+  },
+  "notEstablished": [
+    { "text": "Safety in people", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Dose in people", "icon": "question" },
+    { "text": "Meaning of lab clumping", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "None studied in people",
+    "pharmacokinetics": "Not established in people",
+    "soldAs": "“Research use only” (not for human use)",
+    "monitored": "Not established (never given to people)",
+    "sport": "Not named on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; not on compounding lists" },
+    { "agency": "WADA", "text": "Not named; S0 bans unapproved substances" }
+  ],
+  "references": [
+    "PNAS, humanin protects nerve cells from Alzheimer's-linked damage, May 2001",
+    "Aging (Albany NY), humanin in centenarians' children, worms and mice, Jun 2020",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

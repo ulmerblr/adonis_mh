@@ -1,0 +1,115 @@
+{
+  "slug": "testosterone-undecanoate",
+  "lane": "trt",
+  "number": "17",
+  "name": "Testosterone undecanoate",
+  "description": "Testosterone ester with a long fatty-acid chain; given as oral capsules or as an injection into muscle",
+  "status": {
+    "class": "Hormone (steroid ester)",
+    "studiedFor": "Low testosterone",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Aveed, Jatenzo, Tlando, Kyzatrex)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Low testosterone",
+        "detail": "Hypogonadism (labeled use)",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Blood pressure",
+        "detail": "24-hour monitoring, oral",
+        "evidence": "Human",
+        "tile": "blood-pressure"
+      },
+      {
+        "label": "Sperm production",
+        "detail": "Rats, dogs and monkeys",
+        "evidence": "Animal",
+        "tile": "fertility"
+      }
+    ],
+    "note": {
+      "lead": "Approval trials were open-label.",
+      "text": "Each brand was approved on hormone levels; trials were not built to test symptoms, heart outcomes or fertility."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Undecanoate ester",
+        "icon": "molecule"
+      },
+      {
+        "label": "Free testosterone",
+        "icon": "hormone"
+      },
+      {
+        "label": "Androgen receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Male traits",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Ester:** the fatty-acid chain is cut off, releasing testosterone",
+      "**Label:** testosterone drives male sex organ growth and keeps up male traits",
+      "**Feedback:** lowers LH and FSH; large doses can suppress sperm",
+      "**Sperm suppression** reversed in rats, dogs and monkeys (animal data)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "4 FDA-approved brands (2014 to 2022)",
+      "Open-label trials, 95 to 166 men each",
+      "Aveed: 130 men followed 84 weeks"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Use for age-related low T",
+      "icon": "question"
+    },
+    {
+      "text": "Use in males under 18",
+      "icon": "question"
+    },
+    {
+      "text": "Half-life of the ester",
+      "icon": "clock"
+    }
+  ],
+  "practical": {
+    "halfLife": "Testosterone: 10 to 100 minutes (label); ester figure not given",
+    "routes": "Oral capsules; injection into the buttock muscle (Aveed)",
+    "pharmacokinetics": "Aveed: peak after a median of 7 days (range 4 to 42)",
+    "soldAs": "Prescription (Schedule III); Aveed only via a REMS program",
+    "monitored": "PSA, hemoglobin, hematocrit, lipids (Aveed label); blood pressure",
+    "sport": "Prohibited, class S1"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved; Aveed boxed warning (POME, anaphylaxis)"
+    },
+    {
+      "agency": "DEA",
+      "text": "Schedule III anabolic steroid"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S1)"
+    }
+  ],
+  "references": [
+    "FDA, Aveed prescribing information, Mar 2026",
+    "FDA, Jatenzo prescribing information, Oct 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

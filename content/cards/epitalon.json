@@ -1,0 +1,65 @@
+{
+  "slug": "epitalon",
+  "lane": "longevity",
+  "number": "07",
+  "name": "Epitalon",
+  "description": "Synthetic 4-amino-acid peptide (Ala-Glu-Asp-Gly), based on a cattle pineal gland extract",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Melatonin, telomeres, lifespan",
+    "humanEvidence": "Very small human studies",
+    "usStatus": "Not FDA approved · compounding allowed"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Melatonin", "detail": "Night-shift workers, monkeys", "evidence": "Human + animal", "tile": "sleep" },
+      { "label": "Retinal degeneration", "detail": "Russian study, no count given", "evidence": "Human + animal", "tile": "eye" },
+      { "label": "Telomeres", "detail": "Human cells in the lab", "evidence": "Animal", "tile": "aging" },
+      { "label": "Lifespan and tumors", "detail": "Female mice", "evidence": "Animal", "tile": "cancer" }
+    ],
+    "note": { "lead": "Mostly one research group.", "text": "Most studies come from one group in St. Petersburg, Russia. FDA found three studies in people and none that assessed safety." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Epitalon", "icon": "molecule" },
+      { "label": "Telomerase", "icon": "enzyme" },
+      { "label": "Telomere length", "icon": "cell" },
+      { "label": "Melatonin rhythm", "icon": "moon" }
+    ],
+    "bullets": [
+      "**Switched on telomerase** and lengthened telomeres in human fetal lung cells (lab)",
+      "**Raised evening melatonin** in old monkeys; not in young ones",
+      "**How it changes melatonin** is unknown",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": ["3 small human studies, mostly from Russia", "No human safety data", "Mouse, rat, monkey and cell studies"]
+  },
+  "notEstablished": [
+    { "text": "Safety in people", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Cancer risk (2-year studies)", "icon": "question" },
+    { "text": "Effects of the injected route", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Under-the-tongue spray; injection beside the eye",
+    "pharmacokinetics": "No human data (FDA)",
+    "soldAs": "Compounded (Rx) or “research use only”",
+    "monitored": "Melatonin breakdown product in urine, clock genes",
+    "sport": "Not named on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "HHS", "text": "Compounding allowed, acetate, SC or IM (Oct 2026)" },
+    { "agency": "WADA", "text": "Not named; S0 bans unapproved substances" }
+  ],
+  "references": [
+    "FDA, Pharmacy Compounding Advisory Committee briefing on epitalon, July 2026",
+    "HHS, Federal Register notice 2026-22192, Oct 30, 2026",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

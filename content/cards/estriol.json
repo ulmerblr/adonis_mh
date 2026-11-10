@@ -1,0 +1,64 @@
+{
+  "slug": "estriol",
+  "lane": "skin",
+  "number": "07",
+  "name": "Estriol",
+  "description": "A natural estrogen (female sex hormone), weaker at the estrogen receptor than estradiol",
+  "status": {
+    "class": "Hormone (estrogen)",
+    "studiedFor": "Skin aging in women",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved; compounded only"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Facial skin aging", "detail": "2 studies, women, 1994 and 1996", "evidence": "Human + animal", "tile": "skin" },
+      { "label": "Vaginal atrophy", "detail": "Licensed in Ireland (cream)", "evidence": "Human", "tile": "hormones" }
+    ],
+    "note": { "lead": "No studies in men.", "text": "Both skin studies were in women around menopause and compared estriol with estradiol cream. No placebo-controlled trial was found." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Estriol", "icon": "molecule" },
+      { "label": "Estrogen receptor", "icon": "receptor" },
+      { "label": "Skin collagen", "icon": "fiber" },
+      { "label": "Skin aging signs", "icon": "skin" }
+    ],
+    "bullets": [
+      "**Estrogen receptor:** estriol is substantially less potent than estradiol",
+      "**In women,** biopsies showed more type III collagen after 6 months",
+      "**In rats,** skin effects differed between males and females",
+      "**In men,** the effect on skin is not established"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["2 small studies, 18 and 59 women", "Compared with estradiol cream; no placebo", "No study on men's skin"]
+  },
+  "notEstablished": [
+    { "text": "Effects in men", "icon": "male" },
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Effect vs placebo", "icon": "question" },
+    { "text": "Thyroid effects", "icon": "hormone" }
+  ],
+  "practical": {
+    "halfLife": "Not established for skin use",
+    "routes": "On the skin (0.3% cream) in studies; vaginal cream in EU",
+    "pharmacokinetics": "Not established for skin use",
+    "soldAs": "Compounded (Rx); not FDA approved",
+    "monitored": "Blood hormone levels, prolactin, breast checks",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "No FDA-approved estriol drug; compounded only" },
+    { "agency": "FDA", "text": "503B Category 1 (under evaluation)" },
+    { "agency": "HPRA", "text": "Vaginal cream licensed (Ireland)" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Schmidt et al., Int J Dermatol, estradiol vs estriol creams for skin aging, Sep 1996",
+    "FDA, Menopause (women's health topics), Dec 2023",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

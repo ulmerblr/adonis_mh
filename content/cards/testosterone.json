@@ -1,0 +1,127 @@
+{
+  "slug": "testosterone",
+  "lane": "trt",
+  "number": "01",
+  "name": "Testosterone",
+  "description": "Main male sex hormone, a steroid made in the testes; cypionate is a longer-acting ester given into muscle",
+  "status": {
+    "class": "Hormone (steroid)",
+    "studiedFor": "Low testosterone, heart safety",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Depo-Testosterone, AndroGel)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Low testosterone",
+        "detail": "Hypogonadism (labeled use)",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Sexual function",
+        "detail": "T Trials, men 65 and older",
+        "evidence": "Human",
+        "tile": "libido"
+      },
+      {
+        "label": "Heart safety",
+        "detail": "TRAVERSE, 5,246 men",
+        "evidence": "Human",
+        "tile": "heart"
+      },
+      {
+        "label": "Fractures",
+        "detail": "TRAVERSE sub-study",
+        "evidence": "Human",
+        "tile": "bone"
+      },
+      {
+        "label": "Sperm production",
+        "detail": "Suppressed in WHO study",
+        "evidence": "Human",
+        "tile": "fertility"
+      }
+    ],
+    "note": {
+      "lead": "Approved for a medical cause only.",
+      "text": "Labels say use for low testosterone due to age alone is not established. TRAVERSE tested heart safety, not symptom relief."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Testosterone",
+        "icon": "hormone"
+      },
+      {
+        "label": "DHT in tissues",
+        "icon": "enzyme"
+      },
+      {
+        "label": "Androgen receptor",
+        "icon": "receptor"
+      },
+      {
+        "label": "Male traits",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Label:** drives growth of the male sex organs and keeps up male traits",
+      "**In many tissues** it acts after conversion to DHT, which binds receptors in cells",
+      "**Feedback:** lowers LH; at large doses also FSH, which can suppress sperm",
+      "**Androgens** have been reported to raise red blood cell production"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "FDA approved since 1953 (first US approval)",
+      "TRAVERSE: 5,246 men, heart events 7.0% vs 7.3%",
+      "T Trials: 790 men aged 65 or older, 1 year"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Use for age-related low T",
+      "icon": "question"
+    },
+    {
+      "text": "Use in males under 18",
+      "icon": "question"
+    },
+    {
+      "text": "Use for athletic performance",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "About 8 days (cypionate injection into muscle, label)",
+    "routes": "Injection, gel, nasal gel, buccal, patch, oral (labels)",
+    "pharmacokinetics": "Inactivated mainly in the liver; about 90% excreted in urine",
+    "soldAs": "Prescription (Schedule III); compounded creams not approved",
+    "monitored": "Hemoglobin and hematocrit, blood pressure",
+    "sport": "Prohibited, class S1"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved for hypogonadism; 2025 label update"
+    },
+    {
+      "agency": "DEA",
+      "text": "Schedule III anabolic steroid"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S1)"
+    }
+  ],
+  "references": [
+    "FDA, Depo-Testosterone prescribing information, Aug 2026",
+    "FDA, class-wide labeling changes for testosterone products, Feb 2025",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "topiramate",
+  "lane": "weight",
+  "number": "17",
+  "name": "Topiramate",
+  "description": "Anti-seizure drug (a sulfamate-substituted sugar); for weight, approved only combined with phentermine",
+  "status": {
+    "class": "Anti-seizure drug",
+    "studiedFor": "Epilepsy, migraine, weight",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Topamax); weight: Qsymia"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Seizures", "detail": "Epilepsy, from age 2", "evidence": "Human", "tile": "brain" },
+      { "label": "Migraine prevention", "detail": "From age 12", "evidence": "Human", "tile": "pain" },
+      { "label": "Body weight", "detail": "Alone, and with phentermine", "evidence": "Human", "tile": "body-fat" }
+    ],
+    "note": { "lead": "Weight use alone is off-label.", "text": "For weight, FDA approved topiramate only combined with phentermine, as Qsymia (2012)." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Topiramate", "icon": "pill" },
+      { "label": "Sodium channels", "icon": "nerve" },
+      { "label": "GABA up, glutamate", "icon": "brain" },
+      { "label": "Seizure control", "icon": "bolt" }
+    ],
+    "bullets": [
+      "**Label:** the exact action in epilepsy and migraine is unknown",
+      "**Lab studies:** blocks some sodium channels and a type of glutamate receptor",
+      "**Lab studies:** raises GABA activity; inhibits carbonic anhydrase",
+      "**Weight loss** is a common side effect; the label does not explain how"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Alone for weight: RCTs of 385 and 1,289 adults", "Qsymia: two 1-year trials, 3,754 adults", "Approved for epilepsy since 1996"]
+  },
+  "notEstablished": [
+    { "text": "Fertility effects in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 21 hours (Topamax label)",
+    "routes": "By mouth (tablets, sprinkle capsules)",
+    "pharmacokinetics": "Peak about 2 hours; mostly unchanged in urine (about 70%)",
+    "soldAs": "Prescription (Topamax tablets, sprinkle capsules); Qsymia",
+    "monitored": "Serum bicarbonate; monthly pregnancy tests (Qsymia)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Topamax 1996; weight only via Qsymia" },
+    { "agency": "FDA", "text": "Qsymia REMS for birth-defect risk" },
+    { "agency": "EMA", "text": "Pregnancy prevention programme since 2023" },
+    { "agency": "WADA", "text": "Not prohibited" }
+  ],
+  "references": [
+    "FDA, Topamax prescribing information, Oct 2026",
+    "FDA, Qsymia prescribing information, Apr 2026",
+    "Wilding et al., topiramate for weight, Int J Obes, Nov 2004"
+  ],
+  "checked": "Nov 2026"
+}

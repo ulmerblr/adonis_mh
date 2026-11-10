@@ -1,0 +1,59 @@
+{
+  "slug": "biotin",
+  "lane": "hair-loss",
+  "number": "06",
+  "name": "Biotin",
+  "description": "A B vitamin, sold in dietary supplements including hair, skin and nail products",
+  "status": {
+    "class": "Vitamin (dietary supplement)",
+    "studiedFor": "Hair growth, hair quality",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Dietary supplement"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Hair growth", "detail": "3 studies in a 2024 review", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Research is thin.", "text": "In the best study, double-blind and placebo-controlled, hair growth did not differ between biotin and placebo." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Biotin", "icon": "pill" },
+      { "label": "B vitamin", "icon": "molecule" },
+      { "label": "Hair follicle", "icon": "question" },
+      { "label": "Hair growth", "icon": "hair" }
+    ],
+    "bullets": [
+      "Biotin is a **B vitamin** taken by mouth in supplements",
+      "**In people,** a mechanism for hair loss is not established",
+      "**Lab tests:** biotin can interfere with some blood tests, including troponin"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["A 2024 review found 3 studies", "Best study: no difference vs placebo", "10-man crossover study in men without hair loss"]
+  },
+  "notEstablished": [
+    { "text": "Effect on hair loss", "icon": "hair" },
+    { "text": "Mechanism for hair", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "By mouth",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement",
+    "monitored": "Hair growth speed, hair quality",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Dietary supplement; not approved for hair loss" },
+    { "agency": "FDA", "text": "Warns biotin can cause wrong lab test results" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Yelich et al., J Clin Aesthet Dermatol, oral biotin for hair (review), Aug 2024",
+    "FDA, Biotin interference with troponin lab tests, Jun 2022",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

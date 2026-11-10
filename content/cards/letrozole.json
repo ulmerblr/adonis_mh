@@ -1,0 +1,120 @@
+{
+  "slug": "letrozole",
+  "lane": "trt",
+  "number": "11",
+  "name": "Letrozole",
+  "description": "Non-steroidal aromatase inhibitor taken by mouth; blocks the enzyme that turns androgens into estrogens",
+  "status": {
+    "class": "Small molecule (aromatase inhibitor)",
+    "studiedFor": "Breast cancer; low T in men",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Femara) · men off-label"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Breast cancer",
+        "detail": "Postmenopausal women",
+        "evidence": "Human",
+        "tile": "cancer"
+      },
+      {
+        "label": "Testosterone in men",
+        "detail": "Obese men, small trials",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Sperm production",
+        "detail": "296-man RCT, 2026",
+        "evidence": "Human",
+        "tile": "fertility"
+      },
+      {
+        "label": "Testes (young rats)",
+        "detail": "Damage, lower fertility",
+        "evidence": "Animal",
+        "tile": "testes"
+      }
+    ],
+    "note": {
+      "lead": "Use in men is off-label.",
+      "text": "In a 42-man placebo-controlled trial, hormones changed but none of the planned clinical endpoints did."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Letrozole",
+        "icon": "molecule"
+      },
+      {
+        "label": "Aromatase",
+        "icon": "enzyme"
+      },
+      {
+        "label": "Less estradiol",
+        "icon": "hormone"
+      },
+      {
+        "label": "More LH, T",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Label:** binds and blocks aromatase, lowering estrogen in all tissues",
+      "**Label:** no significant effect on cortisol-type, aldosterone or thyroid hormones",
+      "**In men,** less estradiol weakens its brake on the pituitary; LH and T rise"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": [
+      "Approved on large trials in women (BIG 1-98)",
+      "Men: 12-man pilot, 42-man RCT, 296-man RCT",
+      "Sperm category rose: 14.3% vs 5.4%"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term use in men",
+      "icon": "calendar"
+    },
+    {
+      "text": "Male fertility effects",
+      "icon": "sperm"
+    },
+    {
+      "text": "Dose for men",
+      "icon": "question"
+    }
+  ],
+  "practical": {
+    "halfLife": "About 2 days (label)",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Fully absorbed; about 90% recovered in urine (label)",
+    "soldAs": "Prescription tablets (Femara, generics); men off-label",
+    "monitored": "Bone density, cholesterol (label)",
+    "sport": "Prohibited, class S4"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Approved 1997 for breast cancer (women)"
+    },
+    {
+      "agency": "FDA",
+      "text": "Use in men is off-label"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S4.1)"
+    }
+  ],
+  "references": [
+    "FDA, Femara prescribing information, Jun 2026",
+    "Eur J Endocrinol, letrozole vs placebo in obese men (Loves et al.), Nov 2013",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

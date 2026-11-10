@@ -1,0 +1,62 @@
+{
+  "slug": "yohimbine",
+  "lane": "vitality",
+  "number": "17",
+  "name": "Yohimbine",
+  "description": "Alkaloid from the bark of the African yohimbe tree; an alpha-adrenergic receptor blocker",
+  "status": {
+    "class": "Plant alkaloid",
+    "studiedFor": "Erectile dysfunction",
+    "humanEvidence": "Controlled human trials (small, 1987–1998)",
+    "usStatus": "Not FDA approved · bark sold as supplement"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "ED trials, 22 to 100 men", "evidence": "Human", "tile": "erection" },
+      { "label": "Sexual function", "detail": "Pooled trials, 2021", "evidence": "Human", "tile": "libido" }
+    ],
+    "note": { "lead": "Trials are small and old.", "text": "All were yohimbine hydrochloride tablets, before PDE5 drugs were approved. No trial of yohimbe supplements for ED was found." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Yohimbine", "icon": "molecule" },
+      { "label": "Alpha receptors", "icon": "receptor" },
+      { "label": "Vessels & arousal", "icon": "vessel" },
+      { "label": "Erections", "icon": "male" }
+    ],
+    "bullets": [
+      "**Blocks alpha-adrenergic receptors**, part of the nervous system that controls vessels",
+      "That action is the **basis for its study** in erectile dysfunction",
+      "**Bark supplements** may not act like the drug; their yohimbine content varies widely"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Placebo-controlled trials of 22 to 100 men", "Mixed results; meta-analyses in 1998 and 2021", "No trial of yohimbe supplements for ED"]
+  },
+  "notEstablished": [
+    { "text": "Effect of bark supplements", "icon": "question" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Results next to PDE5 drugs", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "Oral tablets (yohimbine hydrochloride) in trials",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement (yohimbe bark); no FDA-approved product",
+    "monitored": "Reported erection response, side effects",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; OTC aphrodisiac claims barred" },
+    { "agency": "MHRA", "text": "Normally prescription-only (2016)" },
+    { "agency": "TGA", "text": "Prescription-only (Schedule 4)" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "NCCIH (NIH), Yohimbe: usefulness and safety, May 2025",
+    "eCFR, 21 CFR 310.528, OTC aphrodisiac drug products, Nov 2026",
+    "J Urol, Ernst & Pittler, yohimbine meta-analysis, Feb 1998"
+  ],
+  "checked": "Nov 2026"
+}

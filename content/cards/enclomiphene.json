@@ -1,0 +1,128 @@
+{
+  "slug": "enclomiphene",
+  "lane": "trt",
+  "number": "02",
+  "name": "Enclomiphene",
+  "description": "One of the two isomers in clomiphene citrate; a selective estrogen receptor modulator (SERM) taken by mouth",
+  "status": {
+    "class": "Small molecule (SERM)",
+    "studiedFor": "Low testosterone, sperm",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved · compounded (503A Category 1)"
+  },
+  "studiedFor": {
+    "items": [
+      {
+        "label": "Testosterone levels",
+        "detail": "Phase 3 trials, overweight men",
+        "evidence": "Human",
+        "tile": "testes"
+      },
+      {
+        "label": "Sperm counts",
+        "detail": "vs testosterone gel",
+        "evidence": "Human",
+        "tile": "fertility"
+      },
+      {
+        "label": "Body composition",
+        "detail": "No change vs placebo",
+        "evidence": "Human",
+        "tile": "muscle"
+      },
+      {
+        "label": "Eye findings",
+        "detail": "9-month dog study",
+        "evidence": "Animal",
+        "tile": "eye"
+      }
+    ],
+    "note": {
+      "lead": "Trials measured hormones, not symptoms.",
+      "text": "EMA found no evidence of benefit on symptoms of hypogonadism. FDA said raising testosterone alone has not been shown to give clinical benefit."
+    }
+  },
+  "mechanism": {
+    "steps": [
+      {
+        "label": "Enclomiphene",
+        "icon": "molecule"
+      },
+      {
+        "label": "Blocks estrogen",
+        "icon": "receptor"
+      },
+      {
+        "label": "More LH and FSH",
+        "icon": "hormone"
+      },
+      {
+        "label": "Own testosterone",
+        "icon": "male"
+      }
+    ],
+    "bullets": [
+      "**Blocks estrogen’s signal** at the brain, so the pituitary releases more LH and FSH",
+      "**LH and FSH** tell the testes to make their own testosterone and sperm",
+      "**Unlike testosterone therapy,** which lowers LH and FSH"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": [
+      "Developer-run Phase 2 and 3 trials, 2008 to 2017",
+      "EMA: 1,403 men given at least one dose",
+      "No validated symptom measures in EMA dossier"
+    ]
+  },
+  "notEstablished": [
+    {
+      "text": "Long-term safety",
+      "icon": "calendar"
+    },
+    {
+      "text": "Half-life in people",
+      "icon": "clock"
+    },
+    {
+      "text": "Benefit on symptoms",
+      "icon": "question"
+    },
+    {
+      "text": "Clot risk",
+      "icon": "alert"
+    }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (capsules, in trials)",
+    "pharmacokinetics": "Limited human data (no FDA label)",
+    "soldAs": "Compounded (Rx) under FDA’s interim 503A policy",
+    "monitored": "Testosterone, LH, FSH, estradiol, sperm counts (trials)",
+    "sport": "Not named; covered by class S4.2 (SERMs), prohibited"
+  },
+  "regulatory": [
+    {
+      "agency": "FDA",
+      "text": "Not approved; complete response letter, 2015"
+    },
+    {
+      "agency": "FDA",
+      "text": "503A Category 1: compounding under evaluation"
+    },
+    {
+      "agency": "EMA",
+      "text": "Refused, 2018 (EnCyzix)"
+    },
+    {
+      "agency": "WADA",
+      "text": "Prohibited at all times (S4.2 class)"
+    }
+  ],
+  "references": [
+    "FDA, Pharmacy Compounding Advisory Committee briefing on enclomiphene, Jun 2022",
+    "EMA, EnCyzix refusal assessment report, Apr 2018",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

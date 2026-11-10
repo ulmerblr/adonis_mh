@@ -1,0 +1,63 @@
+{
+  "slug": "fadogia-agrestis",
+  "lane": "trt",
+  "number": "08",
+  "name": "Fadogia agrestis",
+  "description": "Stem of a West African shrub (also classified as Vangueria agrestis) used in traditional medicine",
+  "status": {
+    "class": "Plant extract",
+    "studiedFor": "Testosterone, sexual behavior",
+    "humanEvidence": "Lab or animal only",
+    "usStatus": "Dietary supplement · not an approved drug"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Testosterone", "detail": "Male rats, 5 days", "evidence": "Animal", "tile": "hormones" },
+      { "label": "Sexual behavior", "detail": "Mating measures in rats", "evidence": "Animal", "tile": "libido" },
+      { "label": "Testes", "detail": "Rats, 28 days", "evidence": "Animal", "tile": "testes" },
+      { "label": "Erectile markers", "detail": "Rats given paroxetine", "evidence": "Animal", "tile": "erection" }
+    ],
+    "note": { "lead": "No published human studies found.", "text": "Research is in rats, mostly from one group in Nigeria. 5 of 17 supplements tested had none of the plant’s marker compounds." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Stem extract", "icon": "molecule" },
+      { "label": "Testes", "icon": "male" },
+      { "label": "Testosterone", "icon": "hormone" },
+      { "label": "Sexual behavior", "icon": "spark" }
+    ],
+    "bullets": [
+      "**In rats,** blood testosterone and mating measures rose over 5 days",
+      "**In rats,** 28 days changed testicular, liver and kidney measures",
+      "**In people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 1,
+    "bullets": ["Rat studies only, 2005 to 2023", "No human studies or registered trials found", "Rat toxicity signs in testes, liver, kidney"]
+  },
+  "notEstablished": [
+    { "text": "Any effect in people", "icon": "question" },
+    { "text": "Safety in people", "icon": "list" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Drug interactions", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Not studied in people (by mouth in rats)",
+    "pharmacokinetics": "Not established",
+    "soldAs": "Dietary supplement; not FDA reviewed before sale",
+    "monitored": "No human trials; rat studies measured testosterone, organs",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "No approved drug; sold as dietary supplement" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Asian J Androl, Fadogia agrestis and sexual behavior in male rats, Dec 2005",
+    "J Ethnopharmacol, Fadogia agrestis and testicular function in rats, Jan 2008",
+    "Planta Med, analysis of Fadogia agrestis supplements, Jan 2019"
+  ],
+  "checked": "Nov 2026"
+}

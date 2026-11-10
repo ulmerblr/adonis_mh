@@ -1,0 +1,63 @@
+{
+  "slug": "dutasteride",
+  "lane": "hair-loss",
+  "number": "12",
+  "name": "Dutasteride",
+  "description": "Synthetic 4-azasteroid that blocks type 1 and type 2 5α-reductase, taken by mouth",
+  "status": {
+    "class": "5α-reductase inhibitor",
+    "studiedFor": "Enlarged prostate, hair loss",
+    "humanEvidence": "Large trials; FDA approved (BPH)",
+    "usStatus": "FDA approved (Avodart); hair off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Enlarged prostate", "detail": "Approved use (BPH)", "evidence": "Human", "tile": "prostate" },
+      { "label": "Male pattern loss", "detail": "Off-label in US; Japan approved", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Hair loss is off-label in the US.", "text": "Japan approved it for male pattern hair loss in 2015. US hair-loss use is off-label." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Dutasteride", "icon": "pill" },
+      { "label": "5α-reductase 1+2", "icon": "enzyme" },
+      { "label": "Less DHT", "icon": "hormone" },
+      { "label": "Prostate, scalp", "icon": "male" }
+    ],
+    "bullets": [
+      "**Inhibits conversion** of testosterone to DHT, per the label",
+      "**Blocks both isoforms;** type 1 is also active in skin and liver",
+      "**Blood DHT** fell by a median 90% after 2 weeks at 0.5 mg a day",
+      "**Testosterone** rose by about 19%, staying in the normal range"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for BPH in 2001", "Hair: 3 Phase 3 trials, 24 weeks to 6 months", "Largest hair trial: 917 men vs finasteride"]
+  },
+  "notEstablished": [
+    { "text": "Long-term use for hair loss", "icon": "calendar" },
+    { "text": "Persistent sexual effects' cause", "icon": "question" },
+    { "text": "Sperm effects on fertility", "icon": "sperm" }
+  ],
+  "practical": {
+    "halfLife": "About 5 weeks; detectable 4 to 6 months after stopping",
+    "routes": "By mouth (capsules)",
+    "pharmacokinetics": "Peak in 2 to 3 hours; liver metabolism (CYP3A4, CYP3A5)",
+    "soldAs": "Prescription capsules (Avodart, Jalyn, generics)",
+    "monitored": "PSA (lowered about 50%), sexual effects, mood",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for BPH (2001); hair loss is off-label" },
+    { "agency": "PMDA", "text": "Approved for male pattern hair loss (2015)" },
+    { "agency": "EMA", "text": "2025 review added mood information" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Avodart prescribing information (DailyMed), Mar 2025",
+    "Gubelin Harcha et al., J Am Acad Dermatol, dutasteride vs finasteride, Mar 2014",
+    "EMA, finasteride and dutasteride referral, accessed Nov 2026"
+  ],
+  "checked": "Nov 2026"
+}

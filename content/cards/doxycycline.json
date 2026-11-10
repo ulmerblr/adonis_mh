@@ -1,0 +1,62 @@
+{
+  "slug": "doxycycline",
+  "lane": "skin",
+  "number": "04",
+  "name": "Doxycycline",
+  "description": "Tetracycline-class antibiotic taken by mouth; a low-strength 40 mg form is used for rosacea",
+  "status": {
+    "class": "Tetracycline antibiotic",
+    "studiedFor": "Infections, rosacea, acne",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Vibramycin, Oracea)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Bacterial infections", "detail": "Approved antibiotic use", "evidence": "Human", "tile": "infection" },
+      { "label": "Rosacea", "detail": "Inflamed bumps (Oracea 40 mg)", "evidence": "Human", "tile": "skin" },
+      { "label": "Acne", "detail": "Add-on therapy in severe acne", "evidence": "Human", "tile": "acne" }
+    ],
+    "note": { "lead": "Acne wording is add-on use.", "text": "The standard label says doxycycline may be useful adjunctive therapy in severe acne, not a stand-alone acne approval." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Doxycycline", "icon": "pill" },
+      { "label": "30S ribosome", "icon": "target" },
+      { "label": "Protein synthesis", "icon": "block" },
+      { "label": "Bacteria stopped", "icon": "cell" }
+    ],
+    "bullets": [
+      "**Inhibits bacterial protein synthesis** by binding the 30S ribosomal subunit",
+      "**Bacteriostatic** against a broad range of bacteria, per the label",
+      "**In rosacea,** Oracea's mechanism is unknown, per its label"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Vibramycin approved 1967; Oracea 2006", "Oracea: 2 rosacea RCTs, 537 people, 16 weeks", "Acne: placebo RCT in 51 adults (2003)"]
+  },
+  "notEstablished": [
+    { "text": "Mechanism in rosacea", "icon": "question" },
+    { "text": "Oracea for infections", "icon": "cell" }
+  ],
+  "practical": {
+    "halfLife": "18 to 22 hours (standard); 21.2 hours (Oracea, single dose)",
+    "routes": "By mouth (capsules, tablets); also IV",
+    "pharmacokinetics": "Peak at 2 hours (200 mg); excreted unchanged in urine, feces",
+    "soldAs": "Prescription capsules and tablets (Vibramycin, Oracea, generics)",
+    "monitored": "Sun sensitivity, headache or vision (intracranial pressure)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved antibiotic (1967); Oracea, rosacea (2006)" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "EMA", "text": "Authorised nationally in all 27 EU countries" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Doxycycline hyclate capsules prescribing information (DailyMed), Oct 2025",
+    "FDA, Oracea prescribing information (DailyMed), Apr 2025",
+    "Skidmore et al., Arch Dermatol, low-dose doxycycline in acne, Apr 2003"
+  ],
+  "checked": "Nov 2026"
+}

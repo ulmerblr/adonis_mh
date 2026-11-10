@@ -1,0 +1,62 @@
+{
+  "slug": "niacinamide",
+  "lane": "skin",
+  "number": "03",
+  "name": "Niacinamide",
+  "description": "A vitamin (also called nicotinamide), a form of vitamin B3, applied to the skin as a gel or cream",
+  "status": {
+    "class": "Vitamin (topical)",
+    "studiedFor": "Acne, oily skin",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved for skin use"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Acne", "detail": "2 small trials vs clindamycin", "evidence": "Human", "tile": "acne" },
+      { "label": "Oily, blemish-prone", "detail": "1 moisturizer study, 132 women", "evidence": "Human", "tile": "skin" }
+    ],
+    "note": { "lead": "No placebo groups.", "text": "Both acne trials compared niacinamide gel with an antibiotic gel; none tested it combined with azelaic acid." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Niacinamide", "icon": "molecule" },
+      { "label": "Skin", "icon": "skin" },
+      { "label": "Not established", "icon": "question" },
+      { "label": "Acne lesions", "icon": "target" }
+    ],
+    "bullets": [
+      "Niacinamide is a **vitamin**, listed in FDA-approved multivitamin injections",
+      "**In people,** how it acts on the skin is not established",
+      "**Cosmetic or drug:** FDA classes a skin product by its intended use and claims"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["2 acne trials, 76 and 60 people, 8 weeks", "No difference vs clindamycin gel", "No placebo-controlled acne trial"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety on skin", "icon": "calendar" },
+    { "text": "Effect vs placebo", "icon": "question" },
+    { "text": "Use with azelaic acid", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established for skin use",
+    "routes": "On the skin (gel, moisturizer)",
+    "pharmacokinetics": "Not established for skin use",
+    "soldAs": "Cosmetics; compounded (Rx) creams",
+    "monitored": "Acne lesion counts and severity, skin moisture",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved for skin; only in multivitamins" },
+    { "agency": "FDA", "text": "Compounded creams are not FDA approved" },
+    { "agency": "DEA", "text": "Not a controlled substance" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Shalita et al., Int J Dermatol, nicotinamide gel vs clindamycin gel, Jun 1995",
+    "Shahmoradi et al., J Res Med Sci, nicotinamide gel vs clindamycin gel, Feb 2013",
+    "FDA, Is it a cosmetic, a drug, or both?, Sep 2024"
+  ],
+  "checked": "Nov 2026"
+}

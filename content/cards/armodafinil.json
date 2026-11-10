@@ -1,0 +1,63 @@
+{
+  "slug": "armodafinil",
+  "lane": "brain",
+  "number": "02",
+  "name": "Armodafinil",
+  "description": "Wakefulness-promoting drug taken by mouth; the R form (one mirror-image form) of modafinil",
+  "status": {
+    "class": "Wakefulness-promoting agent",
+    "studiedFor": "Sleepiness: OSA, narcolepsy, shift work",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Nuvigil) · Schedule IV"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Sleep apnea sleepiness", "detail": "With CPAP; 2 trials, 12 weeks", "evidence": "Human", "tile": "sleep" },
+      { "label": "Narcolepsy", "detail": "196 people, 12 weeks", "evidence": "Human", "tile": "sleep" },
+      { "label": "Shift work disorder", "detail": "254 people, 12 weeks", "evidence": "Human", "tile": "sleep" },
+      { "label": "Jet lag", "detail": "Off-label; 427 adults", "evidence": "Human", "tile": "fatigue" },
+      { "label": "Brain-tumor fatigue", "detail": "Off-label; no difference", "evidence": "Human", "tile": "fatigue" }
+    ]
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Armodafinil", "icon": "pill" },
+      { "label": "Dopamine carrier", "icon": "receptor" },
+      { "label": "Less reuptake", "icon": "block" },
+      { "label": "Wakefulness", "icon": "sun" }
+    ],
+    "bullets": [
+      "**Label:** how it promotes wakefulness is unknown",
+      "**In lab studies,** binds the dopamine transporter and blocks dopamine reuptake",
+      "**In mice** lacking that transporter, modafinil did not promote wakefulness",
+      "Actions in **animal and lab studies** are similar to modafinil's"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["12-week placebo trials in OSA, narcolepsy, shift work", "FDA approved 2007 (Nuvigil)", "Jet lag and glioma fatigue trials: off-label"]
+  },
+  "notEstablished": [
+    { "text": "Use in children (not studied)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 15 hours (label)",
+    "routes": "Oral tablets (label)",
+    "pharmacokinetics": "Peak in about 2 hours fasted; partly cleared by CYP3A4/5",
+    "soldAs": "Prescription tablets (Nuvigil); Schedule IV",
+    "monitored": "Heart rate, blood pressure; rash; psychiatric symptoms",
+    "sport": "Prohibited in competition, class S6 (as modafinil isomer)"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved (Nuvigil, 2007)" },
+    { "agency": "DEA", "text": "Schedule IV controlled substance" },
+    { "agency": "TGA", "text": "Approved; prescription-only (Schedule 4)" },
+    { "agency": "WADA", "text": "Prohibited in competition (S6.A, modafinil)" }
+  ],
+  "references": [
+    "FDA (DailyMed), Nuvigil prescribing information, May 2025",
+    "Mayo Clin Proc, armodafinil for jet lag, Phase 3, Jul 2010",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "nmn",
+  "lane": "longevity",
+  "number": "14",
+  "name": "NMN (nicotinamide mononucleotide)",
+  "description": "Molecule the body uses to make the coenzyme NAD+; treated by EFSA as a source of niacin (vitamin B3)",
+  "status": {
+    "class": "NAD+ precursor (dietary supplement)",
+    "studiedFor": "NAD+ levels, insulin, walking",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved · sold as a supplement"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "NAD+ levels", "detail": "Rose in nearly all trials", "evidence": "Human", "tile": "blood" },
+      { "label": "Blood sugar", "detail": "No clear effect pooled", "evidence": "Human + animal", "tile": "blood-sugar" },
+      { "label": "Walking, strength", "detail": "Small or mixed changes", "evidence": "Human", "tile": "exercise" },
+      { "label": "Body weight", "detail": "No clear effect pooled", "evidence": "Human + animal", "tile": "body-fat" },
+      { "label": "Age-related decline", "detail": "12-month mouse study", "evidence": "Animal", "tile": "aging" }
+    ],
+    "note": { "lead": "No aging outcome tested.", "text": "No trial has measured aging or lifespan in people. A 2026 meta-analysis of 15 small trials found no clear effect on weight, sugar or cholesterol." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "NMN", "icon": "pill" },
+      { "label": "Converted to NAD+", "icon": "molecule" },
+      { "label": "Energy metabolism", "icon": "bolt" },
+      { "label": "Cell function", "icon": "cell" }
+    ],
+    "bullets": [
+      "**Used by the body to make NAD+,** a coenzyme cells need for energy",
+      "**NAD+ availability falls with age** in mice",
+      "**Raised blood NAD+** in human trials",
+      "**In people,** effects on aging are not established"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["15 randomized trials pooled (2026)", "Trials ran 14 days to 24 weeks", "Drug form MIB-626 in Phase 2 trials"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effect on aging in people", "icon": "question" },
+    { "text": "FDA supplement position", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth",
+    "pharmacokinetics": "Blood NAD+ rose with dose (MIB-626, 14 days)",
+    "soldAs": "Dietary supplement (FDA position unconfirmed)",
+    "monitored": "Blood NAD+, adverse events, liver enzymes",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved as a drug" },
+    { "agency": "FDA", "text": "12 NDI notifications, 2020 to 2026; replies unknown" },
+    { "agency": "EFSA", "text": "Panel opinion on β-NMN as a novel food (May 2026)" },
+    { "agency": "WADA", "text": "Not listed" }
+  ],
+  "references": [
+    "Nutrients, meta-analysis of 15 randomized NMN trials, Jul 2026",
+    "Science, NMN and muscle insulin sensitivity in prediabetic women, Jun 2021",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

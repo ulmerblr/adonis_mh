@@ -1,0 +1,63 @@
+{
+  "slug": "clascoterone",
+  "lane": "hair-loss",
+  "number": "10",
+  "name": "Clascoterone",
+  "description": "Cortexolone 17α-propionate, a steroid that blocks the androgen receptor in skin where it is applied",
+  "status": {
+    "class": "Topical androgen receptor inhibitor",
+    "studiedFor": "Acne, male pattern hair loss",
+    "humanEvidence": "Large trials; FDA approved (acne)",
+    "usStatus": "FDA approved (Winlevi), acne only"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Acne", "detail": "Approved use, age 12+", "evidence": "Human", "tile": "acne" },
+      { "label": "Male pattern loss", "detail": "5% solution; results unposted", "evidence": "Human", "tile": "scalp" }
+    ],
+    "note": { "lead": "Hair results not published.", "text": "Two Phase 3 hair-loss trials in about 1,465 men are completed; no results are posted or published." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Clascoterone", "icon": "molecule" },
+      { "label": "Androgen receptor", "icon": "receptor" },
+      { "label": "Blocks DHT action", "icon": "block" },
+      { "label": "Skin and follicle", "icon": "skin" }
+    ],
+    "bullets": [
+      "**Androgen receptor inhibitor,** per the label; acne mechanism unknown",
+      "**Does not lower** testosterone or DHT; blocks their action where applied",
+      "**In lab-grown scalp cells,** it blocked androgen-driven gene activity",
+      "**In people,** the effect on hair is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["2 Phase 3 acne trials, 1,440 people", "Acne success 18.4–20.3% vs 6.5–9.0% (vehicle)", "Hair: 2 Phase 3 trials, results not posted"]
+  },
+  "notEstablished": [
+    { "text": "Effect on hair loss", "icon": "hair" },
+    { "text": "Safety of the 5% solution", "icon": "list" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Excretion in people", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established (not on the label)",
+    "routes": "On the skin (1% cream); 5% scalp solution in trials",
+    "pharmacokinetics": "Steady state by day 5; possible metabolite cortexolone",
+    "soldAs": "Prescription cream (Winlevi)",
+    "monitored": "HPA axis suppression, potassium, skin reactions",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for acne, age 12+ (2020); not hair loss" },
+    { "agency": "EMA", "text": "Authorised for acne (Oct 2025)" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Winlevi prescribing information (DailyMed), Jan 2025",
+    "Hebert et al., JAMA Dermatol, two Phase 3 acne trials, Jun 2020",
+    "ClinicalTrials.gov, SCALP1 (NCT05910450) and SCALP2 (NCT05914805), accessed Nov 2026"
+  ],
+  "checked": "Nov 2026"
+}

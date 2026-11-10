@@ -1,0 +1,65 @@
+{
+  "slug": "nicotinamide-riboside",
+  "lane": "longevity",
+  "number": "02",
+  "name": "Nicotinamide riboside",
+  "description": "Form of vitamin B3 the body can turn into NAD+; made by chemical synthesis as a chloride salt",
+  "status": {
+    "class": "Vitamin B3 form (dietary supplement)",
+    "studiedFor": "NAD+ levels, Parkinson's, muscle",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Dietary supplement · not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "NAD+ levels", "detail": "Rose in oral trials", "evidence": "Human", "tile": "blood" },
+      { "label": "Parkinson's disease", "detail": "Phase 3: worse than placebo", "evidence": "Human", "tile": "brain" },
+      { "label": "Blood sugar", "detail": "No change in obese men", "evidence": "Human", "tile": "blood-sugar" },
+      { "label": "Leg artery disease", "detail": "Walk distance, 90 people", "evidence": "Human", "tile": "blood-vessels" },
+      { "label": "Muscle", "detail": "12 older men, 21 days", "evidence": "Human", "tile": "muscle" }
+    ],
+    "note": { "lead": "Almost all trials used capsules.", "text": "Injected NR has been described in people in one chart review of 8 people. Mouse results have not been reproduced in most human trials." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "NR", "icon": "pill" },
+      { "label": "Converted to NAD+", "icon": "molecule" },
+      { "label": "NAD+ metabolism", "icon": "enzyme" },
+      { "label": "Cell function", "icon": "cell" }
+    ],
+    "bullets": [
+      "**Form of vitamin B3** that the body can turn into the coenzyme NAD+",
+      "**Raised NAD+** in blood and muscle in human trials",
+      "**Metabolism and aging** effects come mainly from mouse studies",
+      "**In people,** effects on health outcomes have been small, mixed or absent"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Many randomized oral trials", "Phase 3 in Parkinson's (410): worse than placebo", "IV NR: one chart review of 8 people"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Safety of injected NR", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth (capsules); IV in one chart review",
+    "pharmacokinetics": "Blood NAD+ rose with each dose tested (8-week trial)",
+    "soldAs": "Dietary supplement",
+    "monitored": "Blood NAD+, safety blood tests, homocysteine",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved as a drug" },
+    { "agency": "FDA", "text": "No questions on GRAS notice for food use (2016)" },
+    { "agency": "WADA", "text": "Not listed; IV limit applies (M2.2)" }
+  ],
+  "references": [
+    "JAMA, NOPARK trial of NR in early Parkinson's disease, Oct 2026",
+    "FDA, response letter to GRAS Notice GRN 000635, Aug 2016",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

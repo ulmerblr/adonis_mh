@@ -1,0 +1,64 @@
+{
+  "slug": "ketoconazole",
+  "lane": "hair-loss",
+  "number": "04",
+  "name": "Ketoconazole",
+  "description": "Azole antifungal used on the skin and scalp as a shampoo or cream",
+  "status": {
+    "class": "Antifungal",
+    "studiedFor": "Dandruff, fungal skin, hair loss",
+    "humanEvidence": "FDA approved (fungal); hair: small studies",
+    "usStatus": "FDA approved (Nizoral); hair off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Dandruff, seb. derm.", "detail": "Approved uses (shampoo, cream)", "evidence": "Human", "tile": "scalp" },
+      { "label": "Fungal skin infection", "detail": "Approved uses", "evidence": "Human", "tile": "infection" },
+      { "label": "Male pattern loss", "detail": "5 small studies, 318 people", "evidence": "Human + animal", "tile": "scalp" }
+    ],
+    "note": { "lead": "Hair use is off-label.", "text": "A 2020 review found five small human studies and two mouse studies, and called for randomized controlled trials." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Ketoconazole", "icon": "molecule" },
+      { "label": "Ergosterol", "icon": "block" },
+      { "label": "Fungal membrane", "icon": "cell" },
+      { "label": "Less Malassezia", "icon": "hair" }
+    ],
+    "bullets": [
+      "**Impairs ergosterol synthesis,** a fungal membrane part, in lab studies",
+      "**Seborrheic dermatitis:** label links effect to fewer M. ovale, unconfirmed",
+      "**Mouse studies** found more hair regrowth than in untreated mice",
+      "**For hair loss in people,** the mechanism is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved shampoos and cream for fungal skin", "Hair: one controlled study (1998), small", "2020 review: 5 human studies, 318 people"]
+  },
+  "notEstablished": [
+    { "text": "Hair effect in randomized trials", "icon": "question" },
+    { "text": "Long-term scalp use for hair", "icon": "calendar" },
+    { "text": "Compounded mixed sprays", "icon": "list" }
+  ],
+  "practical": {
+    "halfLife": "Not established for scalp use; not found in plasma",
+    "routes": "On the skin and scalp (shampoo, cream); tablets restricted",
+    "pharmacokinetics": "Not detected in plasma after months of shampooing",
+    "soldAs": "OTC 1% shampoo (Nizoral); Rx 2% shampoo and cream",
+    "monitored": "Hair density, hair diameter, scalp oil (studies)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for fungal skin and dandruff; not hair" },
+    { "agency": "FDA", "text": "Tablets: boxed warning (liver, heart rhythm)" },
+    { "agency": "EMA", "text": "Oral antifungal use suspended 2013; topical kept" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, ketoconazole shampoo 2% label (DailyMed), Jul 2026",
+    "Fields et al., Dermatol Ther, topical ketoconazole for hair loss (review), Jan 2020",
+    "EMA, ketoconazole-containing medicines referral, Jun 2014"
+  ],
+  "checked": "Nov 2026"
+}
