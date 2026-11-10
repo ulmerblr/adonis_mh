@@ -1,1 +1,59 @@
-{"slug":"vardenafil"}
+{
+  "slug": "vardenafil",
+  "lane": "vitality",
+  "number": "03",
+  "name": "Vardenafil",
+  "description": "Small-molecule PDE5 inhibitor taken by mouth; first sold as Levitra and Staxyn",
+  "status": {
+    "class": "PDE5 inhibitor",
+    "studiedFor": "Erectile dysfunction",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (generics; brands discontinued)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "2,203 men in placebo trials", "evidence": "Human", "tile": "erection" },
+      { "label": "ED with diabetes", "detail": "Phase III, 452 men", "evidence": "Human", "tile": "erection" }
+    ],
+    "note": { "lead": "Brands discontinued, not withdrawn.", "text": "FDA found Levitra and Staxyn were not discontinued for safety or effectiveness reasons. Generic tablets are approved." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Vardenafil", "icon": "pill" },
+      { "label": "PDE5 blocked", "icon": "enzyme" },
+      { "label": "More cGMP", "icon": "molecule" },
+      { "label": "Muscle relaxes", "icon": "vessel" }
+    ],
+    "bullets": [
+      "**Blocks PDE5,** the main cGMP-breaking enzyme in penile tissue",
+      "**Nitric oxide** from sexual stimulation raises cGMP",
+      "**Needs sexual stimulation** to work, per the label"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for ED in 2003", "17,000+ men in controlled and open trials", "Diabetes trial: 452 men, 12 weeks"]
+  },
+  "notEstablished": [
+    { "text": "Combining with other ED drugs", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "About 4 to 5 hours (drug and main metabolite)",
+    "routes": "By mouth (tablets; dissolving tablets now discontinued)",
+    "pharmacokinetics": "Peak in 30 minutes to 2 hours (median 60 minutes); liver (CYP3A4)",
+    "soldAs": "Prescription tablets (generics)",
+    "monitored": "Blood pressure, QT interval, vision and hearing changes",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for ED (2003); brands now discontinued" },
+    { "agency": "EMA", "text": "Levitra authorised 2003" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Levitra prescribing information, Mar 2023",
+    "FDA, vardenafil tablets label (DailyMed), Nov 2026",
+    "Goldstein et al., Diabetes Care, vardenafil in men with diabetes, Mar 2003"
+  ],
+  "checked": "Nov 2026"
+}

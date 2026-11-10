@@ -1,1 +1,59 @@
-{"slug":"apomorphine"}
+{
+  "slug": "apomorphine",
+  "lane": "vitality",
+  "number": "09",
+  "name": "Apomorphine",
+  "description": "Dopamine agonist small molecule that stimulates the brain’s dopamine receptors",
+  "status": {
+    "class": "Dopamine agonist",
+    "studiedFor": "Parkinson’s, erectile dysfunction",
+    "humanEvidence": "FDA approved (Parkinson’s); ED RCTs",
+    "usStatus": "FDA approved (Apokyn); not for ED"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Parkinson’s off times", "detail": "Approved use (injection)", "evidence": "Human", "tile": "brain" },
+      { "label": "Erections", "detail": "9 placebo RCTs, under the tongue", "evidence": "Human", "tile": "erection" }
+    ],
+    "note": { "lead": "ED approvals ended in Europe.", "text": "Uprima, Ixense and Taluvian were authorised EU-wide in 2001; all were withdrawn or expired by 2006 for commercial reasons." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Apomorphine", "icon": "pill" },
+      { "label": "Dopamine receptors", "icon": "receptor" },
+      { "label": "Brain signaling", "icon": "brain" },
+      { "label": "Erection response", "icon": "male" }
+    ],
+    "bullets": [
+      "**Binds dopamine receptors:** strongly D4; moderately D2, D3, D5 (label)",
+      "**For ED,** studied as a drug acting in the brain, not on penile vessels",
+      "**Sexual stimulation** was needed for Uprima to work (EMA)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for Parkinson’s (Apokyn, 2004)", "ED: 9 placebo-controlled trials, 4 to 8 weeks", "Head-to-head trial: sildenafil did better"]
+  },
+  "notEstablished": [
+    { "text": "Route of metabolism in humans", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 40 minutes (range 30 to 60), under-skin injection",
+    "routes": "Under-skin injection or infusion; under the tongue in ED trials",
+    "pharmacokinetics": "Peak in 10 to 60 minutes; human metabolism route not known",
+    "soldAs": "Prescription injection and infusion (Apokyn, Onapgo, generics)",
+    "monitored": "Blood pressure, sleepiness, QT interval, nausea",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for Parkinson’s (2004); never for ED" },
+    { "agency": "EMA", "text": "ED approvals (2001) withdrawn or expired by 2006" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Apokyn prescribing information (DailyMed), Oct 2024",
+    "Guillén et al., Arch Sex Behav, sublingual apomorphine for ED review, Nov 2020",
+    "EMA, Uprima public assessment record, May 2006"
+  ],
+  "checked": "Nov 2026"
+}

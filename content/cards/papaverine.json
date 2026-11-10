@@ -1,1 +1,59 @@
-{"slug":"papaverine"}
+{
+  "slug": "papaverine",
+  "lane": "vitality",
+  "number": "15",
+  "name": "Papaverine",
+  "description": "Alkaloid obtained from opium or made synthetically; relaxes smooth muscle directly",
+  "status": {
+    "class": "Alkaloid (smooth-muscle relaxant)",
+    "studiedFor": "Erectile dysfunction (injected)",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Not FDA approved; sold as unapproved Rx"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "Penile injection, often in mixes", "evidence": "Human", "tile": "erection" }
+    ],
+    "note": { "lead": "Label: not for penile injection.", "text": "The injection label says it is not indicated for impotence, and that penile injection has caused persistent priapism." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Papaverine", "icon": "molecule" },
+      { "label": "Smooth muscle", "icon": "muscle" },
+      { "label": "Arteries widen", "icon": "vessel" },
+      { "label": "Penile blood flow", "icon": "male" }
+    ],
+    "bullets": [
+      "**Relaxes smooth muscle directly,** especially in large arteries (label)",
+      "Acts on **blood vessels** and the gut, bile and urinary tracts",
+      "**Minimal effects on the brain,** per the label"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["1982 letter first reported penile injection", "Small comparison studies: 60 and 180 men", "No large placebo-controlled ED trial"]
+  },
+  "notEstablished": [
+    { "text": "Half-life (estimates vary)", "icon": "clock" },
+    { "text": "A standard Trimix recipe", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established; label says estimates vary widely",
+    "routes": "Injection (label); penile injection is off-label",
+    "pharmacokinetics": "Liver metabolism; about 90% bound to blood proteins",
+    "soldAs": "Unapproved Rx injection; compounded Bimix and Trimix",
+    "monitored": "Liver tests, eosinophils, prolonged erections",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; marketed as an unapproved drug" },
+    { "agency": "FDA", "text": "Label: not for injection into the penis" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "American Regent, papaverine injection label (DailyMed), Jul 2026",
+    "Bechara et al., J Urol, papaverine-phentolamine vs alprostadil, Jun 1997",
+    "Seyam et al., Int J Impot Res, Trimix vs alprostadil, Jul 2005"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,1 +1,61 @@
-{"slug":"phentolamine"}
+{
+  "slug": "phentolamine",
+  "lane": "vitality",
+  "number": "16",
+  "name": "Phentolamine",
+  "description": "Alpha-adrenergic blocker that widens blood vessels; given by injection or as eye drops",
+  "status": {
+    "class": "Alpha blocker",
+    "studiedFor": "Dental numbness; ED (off-label)",
+    "humanEvidence": "FDA approved (other uses); small ED trials",
+    "usStatus": "FDA approved, not for ED"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Dental numbness", "detail": "Approved use (OraVerse)", "evidence": "Human", "tile": "nerves" },
+      { "label": "Pheochromocytoma", "detail": "Approved use (injection)", "evidence": "Human", "tile": "blood-pressure" },
+      { "label": "Erections (oral)", "detail": "Vasomax trials", "evidence": "Human", "tile": "erection" },
+      { "label": "Erections (injected)", "detail": "In Bimix and Trimix mixes", "evidence": "Human", "tile": "erection" }
+    ],
+    "note": { "lead": "ED use is off-label.", "text": "No FDA-approved phentolamine lists ED. Oral Vasomax and compounded Bimix and Trimix are not FDA approved." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Phentolamine", "icon": "pill" },
+      { "label": "Alpha receptors", "icon": "receptor" },
+      { "label": "Vessels widen", "icon": "vessel" },
+      { "label": "Penile blood flow", "icon": "male" }
+    ],
+    "bullets": [
+      "**Blocks alpha-adrenergic receptors,** so blood vessels widen",
+      "**Penile arteries** appear mainly under alpha-adrenergic control",
+      "Alpha blockade helped erections in **animal and human lab models**"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved: pheochromocytoma 1952, OraVerse 2008", "Oral ED Phase 3 trials known mainly via reviews", "Injected ED data: small studies of mixes"]
+  },
+  "notEstablished": [
+    { "text": "Full oral Phase 3 trial reports", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "19 minutes in blood after a vein injection (label)",
+    "routes": "Injection, dental injection, eye drops; by mouth in ED trials",
+    "pharmacokinetics": "About 13% of a vein dose in urine unchanged",
+    "soldAs": "Prescription injection, OraVerse, Ryzumvi; Bimix and Trimix compounded",
+    "monitored": "Blood pressure, heart rate and rhythm",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: injection 1952, OraVerse 2008, Ryzumvi 2023" },
+    { "agency": "FDA", "text": "Not approved for ED; Bimix, Trimix compounded" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Hikma, phentolamine mesylate for injection label (DailyMed), Mar 2024",
+    "Goldstein et al., World J Urol, oral phentolamine review, Feb 2001",
+    "Bechara et al., J Urol, papaverine-phentolamine vs alprostadil, Jun 1997"
+  ],
+  "checked": "Nov 2026"
+}

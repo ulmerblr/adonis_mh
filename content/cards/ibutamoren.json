@@ -1,0 +1,66 @@
+{
+  "slug": "ibutamoren",
+  "lane": "sleep",
+  "number": "08",
+  "name": "Ibutamoren (MK-677)",
+  "description": "Small non-peptide molecule taken by mouth that mimics ghrelin",
+  "status": {
+    "class": "Small molecule (GH secretagogue)",
+    "studiedFor": "GH, aging, hip fracture",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved · FDA Category 2"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Older adults", "detail": "2-year RCT, 65 people", "evidence": "Human", "tile": "aging" },
+      { "label": "Alzheimer's disease", "detail": "RCT, 563 people; no difference", "evidence": "Human", "tile": "memory" },
+      { "label": "Hip fracture recovery", "detail": "2 RCTs; one stopped early", "evidence": "Human", "tile": "bone" },
+      { "label": "Child GH deficiency", "detail": "Phase III (LUM-201), recruiting", "evidence": "Human", "tile": "growth-hormone" },
+      { "label": "Sleep", "detail": "One 1997 study, 14 people", "evidence": "Human", "tile": "sleep" }
+    ],
+    "note": { "lead": "One hip fracture trial was stopped.", "text": "It was stopped early for a safety signal of congestive heart failure; FDA cites this in its Category 2 listing." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Ibutamoren", "icon": "pill" },
+      { "label": "GHS receptor", "icon": "receptor" },
+      { "label": "Growth hormone", "icon": "hormone" },
+      { "label": "IGF-1 rises", "icon": "trend" }
+    ],
+    "bullets": [
+      "**Mimics ghrelin** at the growth hormone secretagogue receptor",
+      "**Pituitary releases** more growth hormone, raising IGF-1",
+      "**IGF-1 rose** 73% to 84% in the Alzheimer's and hip fracture trials",
+      "**For sleep,** the effect rests on one small 1997 study"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Placebo RCTs in older adults and patients", "Sleep: one study, 14 people (1997)", "Phase III in children recruiting (2026)"]
+  },
+  "notEstablished": [
+    { "text": "Effect on sleep in larger trials", "icon": "question" },
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life", "icon": "clock" },
+    { "text": "Drug interactions", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "By mouth (trials)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "“Research use only” (not legal for human use)",
+    "monitored": "GH, IGF-1, glucose, insulin sensitivity, function",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved" },
+    { "agency": "FDA", "text": "Category 2 (503A, 503B): heart failure risk" },
+    { "agency": "WADA", "text": "Prohibited (S2.2.4)" }
+  ],
+  "references": [
+    "FDA, Category 2 bulk drug substances (significant safety risks), Apr 2026",
+    "Nass et al., Ann Intern Med, ibutamoren in older adults, Nov 2008",
+    "Copinschi et al., Neuroendocrinology, MK-677 and sleep, Oct 1997"
+  ],
+  "checked": "Nov 2026"
+}

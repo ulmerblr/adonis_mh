@@ -1,0 +1,61 @@
+{
+  "slug": "creatine",
+  "lane": "recovery",
+  "number": "05",
+  "name": "Creatine",
+  "description": "Compound the body makes and gets from meat and fish; stored mainly in muscle (supplement: monohydrate)",
+  "status": {
+    "class": "Dietary supplement",
+    "studiedFor": "Strength, lean mass",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Dietary supplement"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Strength", "detail": "With resistance training", "evidence": "Human", "tile": "exercise" },
+      { "label": "Lean mass", "detail": "Young and older men", "evidence": "Human", "tile": "muscle" },
+      { "label": "Hormones", "detail": "DHT in rugby players", "evidence": "Human", "tile": "hormones" }
+    ],
+    "note": { "lead": "Not every trial found an effect.", "text": "In men with prostate cancer on hormone therapy, lean mass and strength did not differ between creatine and placebo." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Creatine", "icon": "molecule" },
+      { "label": "Muscle stores up", "icon": "muscle" },
+      { "label": "Muscle energy", "icon": "bolt" },
+      { "label": "Strength studied", "icon": "trend" }
+    ],
+    "bullets": [
+      "**Stored mainly in skeletal muscle,** also heart, brain and testes",
+      "**Supplements raise muscle creatine:** up 22% after one week in a 1999 trial",
+      "**Broken down to creatinine,** which leaves in the urine",
+      "**Muscle energy** role described in lab and animal studies"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Many small RCTs, mostly in men", "Meta-analysis: 23 trials in adults under 50", "Not developed or approved as a drug"]
+  },
+  "notEstablished": [
+    { "text": "DHT effect on hair or prostate", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "By mouth (powder, drinks)",
+    "pharmacokinetics": "Stored in muscle; excreted as creatinine in urine",
+    "soldAs": "Dietary supplement",
+    "monitored": "Strength, lean mass, muscle creatine",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Dietary supplement; not an approved drug" },
+    { "agency": "FDA", "text": "GRAS notice 931 for some foods: no questions" },
+    { "agency": "WADA", "text": "Not prohibited" }
+  ],
+  "references": [
+    "FDA, Response letter to GRAS Notice 931 (creatine monohydrate), Dec 2020",
+    "Volek et al., creatine in resistance-trained men, Med Sci Sports Exerc, Aug 1999",
+    "Wang et al., creatine and strength meta-analysis, Nutrients, Oct 2024"
+  ],
+  "checked": "Nov 2026"
+}

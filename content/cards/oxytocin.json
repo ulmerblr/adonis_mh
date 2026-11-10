@@ -1,1 +1,65 @@
-{"slug":"oxytocin"}
+{
+  "slug": "oxytocin",
+  "lane": "vitality",
+  "number": "04",
+  "name": "Oxytocin",
+  "description": "Nine-amino-acid peptide hormone from the pituitary gland; the medicine form is synthetic",
+  "status": {
+    "class": "Peptide hormone",
+    "studiedFor": "Labor; sexual response in men",
+    "humanEvidence": "FDA approved (labor); small studies in men",
+    "usStatus": "FDA approved (Pitocin); men off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Labor and after birth", "detail": "Approved use (injection)", "evidence": "Human", "tile": "hormones" },
+      { "label": "Sexual experience", "detail": "Small nasal-spray studies", "evidence": "Human", "tile": "libido" },
+      { "label": "Ejaculation timing", "detail": "103 men: no difference", "evidence": "Human", "tile": "ejaculation" },
+      { "label": "Mating behavior", "detail": "Rat studies", "evidence": "Animal", "tile": "libido" }
+    ],
+    "note": { "lead": "All studies in men used a nasal spray.", "text": "No human study of oxytocin by mouth, strip, troche or gummy was found. Use for male sexual function is off-label." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Oxytocin", "icon": "molecule" },
+      { "label": "OT receptors", "icon": "receptor" },
+      { "label": "Calcium in cells", "icon": "cell" },
+      { "label": "Uterus contracts", "icon": "muscle" }
+    ],
+    "bullets": [
+      "**Binds its receptors** in the womb and raises calcium in muscle cells",
+      "**Holds water** in the kidneys; its structure is close to vasopressin",
+      "**In male rats,** brain oxytocin increased mating (animal research)",
+      "**In men,** an effect on sexual function is not established"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["FDA approved only for labor and after birth", "5 small studies in men, mostly one dose", "No Phase II or III trial in men"]
+  },
+  "notEstablished": [
+    { "text": "Effect on sexual function in men", "icon": "question" },
+    { "text": "Side effects in men", "icon": "list" },
+    { "text": "Oral, strip or gummy forms", "icon": "question" },
+    { "text": "Long-term use in men", "icon": "calendar" }
+  ],
+  "practical": {
+    "halfLife": "About 1 to 6 minutes in blood (label)",
+    "routes": "Vein or muscle injection (label); nasal spray in men’s studies",
+    "pharmacokinetics": "Removed from blood mainly by the kidney and liver",
+    "soldAs": "Prescription injection (Pitocin, generics); compounded forms unapproved",
+    "monitored": "Contractions, water balance, blood pressure (label, in labor)",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved injection for labor (Pitocin); not for men" },
+    { "agency": "FDA", "text": "Nasal spray approval withdrawn in 1997" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Pitocin prescribing information (DailyMed), May 2026",
+    "Behnia et al., Horm Behav, oxytocin in couples, Mar 2014",
+    "Burri et al., Psychoneuroendocrinology, oxytocin and sexual arousal, Jun 2008"
+  ],
+  "checked": "Nov 2026"
+}

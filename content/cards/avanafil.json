@@ -1,1 +1,60 @@
-{"slug":"avanafil"}
+{
+  "slug": "avanafil",
+  "lane": "vitality",
+  "number": "10",
+  "name": "Avanafil",
+  "description": "Small-molecule PDE5 inhibitor taken by mouth; active ingredient in Stendra (US) and Spedra (EU)",
+  "status": {
+    "class": "PDE5 inhibitor",
+    "studiedFor": "Erectile dysfunction",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Stendra, generics)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "4 placebo trials in the label", "evidence": "Human + animal", "tile": "erection" },
+      { "label": "ED with diabetes", "detail": "390 men, 12 weeks", "evidence": "Human", "tile": "erection" },
+      { "label": "ED after prostatectomy", "detail": "298 men, nerve-sparing surgery", "evidence": "Human", "tile": "prostate" }
+    ]
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Avanafil", "icon": "pill" },
+      { "label": "PDE5 blocked", "icon": "enzyme" },
+      { "label": "More cGMP", "icon": "molecule" },
+      { "label": "Muscle relaxes", "icon": "vessel" }
+    ],
+    "bullets": [
+      "**Blocks PDE5,** the enzyme that breaks down cGMP (label)",
+      "**No direct relaxing effect** on penile tissue by itself",
+      "**Needs sexual stimulation** to have an effect",
+      "**More selective** vs PDE6 and PDE1 than sildenafil in lab tests"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for ED in 2012 (Stendra)", "Given to 2,215 men in clinical trials", "Timing trial: attempts about 15 minutes after dose"]
+  },
+  "notEstablished": [
+    { "text": "Combining with other ED drugs", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "About 5 hours (terminal)",
+    "routes": "By mouth (tablets)",
+    "pharmacokinetics": "Peak in 30 to 45 minutes (median, fasted); liver (CYP3A4)",
+    "soldAs": "Prescription tablets (Stendra, generics)",
+    "monitored": "Blood pressure, vision and hearing changes, erections over 4 hours",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for ED (2012); generic tablets 2024" },
+    { "agency": "EMA", "text": "Spedra authorised 2013" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Stendra prescribing information (DailyMed), Jul 2024",
+    "Goldstein et al., J Sex Med, avanafil Phase 3 trial, Apr 2012",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,1 +1,60 @@
-{"slug":"sertraline"}
+{
+  "slug": "sertraline",
+  "lane": "vitality",
+  "number": "06",
+  "name": "Sertraline (Zoloft)",
+  "description": "SSRI antidepressant (selective serotonin reuptake inhibitor) taken by mouth",
+  "status": {
+    "class": "SSRI antidepressant",
+    "studiedFor": "Depression, premature ejaculation",
+    "humanEvidence": "Large trials; FDA approved (psychiatric)",
+    "usStatus": "FDA approved (Zoloft); PE off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Depression, anxiety", "detail": "6 approved psychiatric uses", "evidence": "Human", "tile": "mood" },
+      { "label": "Premature ejaculation", "detail": "Off-label; small RCTs", "evidence": "Human", "tile": "ejaculation" }
+    ],
+    "note": { "lead": "PE use is off-label.", "text": "A 2019 pooled analysis of 14 trials covered 977 men with PE. Most trials lasted 4 to 8 weeks." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Sertraline", "icon": "pill" },
+      { "label": "Reuptake blocked", "icon": "block" },
+      { "label": "More serotonin", "icon": "brain" },
+      { "label": "Ejaculation delay", "icon": "male" }
+    ],
+    "bullets": [
+      "**Blocks serotonin reuptake** by nerve cells, per the label",
+      "**Very weak effects** on noradrenaline and dopamine",
+      "**Delayed ejaculation** is a known SSRI side effect, the basis for PE studies"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for depression in 1991", "PE: small RCTs of 36 to 147 men", "PE pooled analysis: 977 men, 14 trials"]
+  },
+  "notEstablished": [
+    { "text": "Long-term use for PE", "icon": "calendar" },
+    { "text": "Large trials for PE", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 26 hours",
+    "routes": "By mouth (tablets, oral solution)",
+    "pharmacokinetics": "Peak in 4.5 to 8.4 hours; extensively metabolized",
+    "soldAs": "Prescription tablets and solution (Zoloft, generics)",
+    "monitored": "Mood and suicidal thoughts, sodium, bleeding, sexual effects",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved 1991 for 6 psychiatric uses; PE off-label" },
+    { "agency": "MHRA", "text": "Oct 2026: warning on lasting sexual problems" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Zoloft prescribing information (DailyMed), Jul 2025",
+    "Yi et al., Medicine (Baltimore), sertraline for PE meta-analysis, Jun 2019",
+    "MHRA, Drug Safety Update on antidepressants, Oct 2026"
+  ],
+  "checked": "Nov 2026"
+}

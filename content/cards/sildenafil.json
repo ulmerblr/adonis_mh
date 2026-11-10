@@ -1,1 +1,62 @@
-{"slug":"sildenafil"}
+{
+  "slug": "sildenafil",
+  "lane": "vitality",
+  "number": "01",
+  "name": "Sildenafil",
+  "description": "Small-molecule PDE5 inhibitor taken by mouth; active ingredient in Viagra and Revatio",
+  "status": {
+    "class": "PDE5 inhibitor",
+    "studiedFor": "Erectile dysfunction, lung hypertension",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Viagra, Revatio)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "21 trials, 3,000+ men", "evidence": "Human", "tile": "erection" },
+      { "label": "Lung artery pressure", "detail": "PAH (Revatio)", "evidence": "Human", "tile": "lungs" }
+    ],
+    "note": { "lead": "Compounded forms are off-label.", "text": "No published human study tested sildenafil as a gum, gummy or troche, or with oxytocin. Vybrique is the approved oral film." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Sildenafil", "icon": "pill" },
+      { "label": "PDE5 blocked", "icon": "enzyme" },
+      { "label": "More cGMP", "icon": "molecule" },
+      { "label": "Muscle relaxes", "icon": "vessel" }
+    ],
+    "bullets": [
+      "**Blocks PDE5,** the enzyme that breaks down cGMP, per the label",
+      "**Nitric oxide** released during sexual stimulation raises cGMP",
+      "**No effect without** sexual stimulation, per the label"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for ED in 1998, for PAH in 2005", "21 placebo-controlled trials, 3,000+ men", "PAH trial (SUPER-1): 278 people, 12 weeks"]
+  },
+  "notEstablished": [
+    { "text": "Combining with other PDE5 drugs", "icon": "interact" },
+    { "text": "Use after a recent heart attack", "icon": "heart" },
+    { "text": "Compounded gums and troches", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 4 hours (drug and main metabolite)",
+    "routes": "By mouth (tablets, oral film); vein (Revatio)",
+    "pharmacokinetics": "Peak in 30 to 120 minutes (median 60); liver (CYP3A4, CYP2C9)",
+    "soldAs": "Prescription tablets and film (Viagra, Revatio, Vybrique)",
+    "monitored": "Blood pressure, vision and hearing changes, erections over 4 hours",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved: Viagra 1998, Revatio 2005, Vybrique 2025" },
+    { "agency": "MHRA", "text": "Viagra Connect 50 mg: pharmacy medicine (2017)" },
+    { "agency": "EMA", "text": "Viagra authorised 1998; Revatio 2005" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Viagra prescribing information (DailyMed), Feb 2026",
+    "Goldstein et al., N Engl J Med, oral sildenafil for ED, May 1998",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

@@ -1,1 +1,62 @@
-{"slug":"alprostadil"}
+{
+  "slug": "alprostadil",
+  "lane": "vitality",
+  "number": "08",
+  "name": "Alprostadil",
+  "description": "Drug form of prostaglandin E1, a natural fatty-acid messenger; for ED, injected into the penis",
+  "status": {
+    "class": "Prostaglandin",
+    "studiedFor": "Erectile dysfunction",
+    "humanEvidence": "Large trials; FDA approved",
+    "usStatus": "FDA approved (Caverject, Edex)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections (injection)", "detail": "683-man self-injection study", "evidence": "Human", "tile": "erection" },
+      { "label": "Erections (urethral)", "detail": "Muse trial, 1,511 men", "evidence": "Human", "tile": "erection" },
+      { "label": "Newborn heart defects", "detail": "Infusion (Prostin VR Pediatric)", "evidence": "Human", "tile": "heart" }
+    ],
+    "note": { "lead": "Trimix is not FDA approved.", "text": "Compounded Trimix mixes alprostadil with papaverine and phentolamine. In one trial it caused more priapism than alprostadil alone." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Alprostadil", "icon": "molecule" },
+      { "label": "PGE1 receptors", "icon": "receptor" },
+      { "label": "More cAMP", "icon": "molecule" },
+      { "label": "Blood trapped", "icon": "vessel" }
+    ],
+    "bullets": [
+      "**Binds its receptors** in the penis and raises cAMP (label)",
+      "**Relaxes spongy smooth muscle** and widens penile arteries",
+      "**Filled spaces press** the small veins shut, trapping blood"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved for ED: Caverject 1995, Edex 1997", "Self-injection study: 683 men, 6 months", "Urethral trial (Muse): 1,511 men"]
+  },
+  "notEstablished": [
+    { "text": "Combining with other injections", "icon": "interact" },
+    { "text": "Bioavailability (penile route)", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established for penile injection",
+    "routes": "Injection into the penis; urethral pellet (now discontinued)",
+    "pharmacokinetics": "Main metabolite peaks at 30 minutes, back to baseline by 60",
+    "soldAs": "Prescription injection (Caverject, Caverject Impulse, Edex)",
+    "monitored": "Penile exam for scarring, erections over 4 hours, blood pressure",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved for ED: Caverject 1995, Edex 1997" },
+    { "agency": "FDA", "text": "Compounded Trimix is not approved" },
+    { "agency": "EMA", "text": "No EU-wide authorisation; national approvals" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Caverject prescribing information (DailyMed), May 2024",
+    "Linet and Ogrinc, N Engl J Med, intracavernosal alprostadil, Apr 1996",
+    "Padma-Nathan et al., N Engl J Med, urethral alprostadil (Muse), Jan 1997"
+  ],
+  "checked": "Nov 2026"
+}

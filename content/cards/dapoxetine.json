@@ -1,1 +1,61 @@
-{"slug":"dapoxetine"}
+{
+  "slug": "dapoxetine",
+  "lane": "vitality",
+  "number": "11",
+  "name": "Dapoxetine",
+  "description": "Short-acting SSRI (selective serotonin reuptake inhibitor) tablet, taken as needed before sex",
+  "status": {
+    "class": "SSRI",
+    "studiedFor": "Premature ejaculation",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Premature ejaculation", "detail": "5 Phase III trials, 6,081 men", "evidence": "Human", "tile": "ejaculation" },
+      { "label": "Ejaculation reflex", "detail": "Rat studies", "evidence": "Animal", "tile": "ejaculation" }
+    ],
+    "note": { "lead": "Approved in Europe, not the US.", "text": "Priligy is approved nationally in Spain (2009) and Ireland (2012) for PE in men aged 18 to 64." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Dapoxetine", "icon": "pill" },
+      { "label": "Reuptake blocked", "icon": "block" },
+      { "label": "Spinal reflex", "icon": "nerve" },
+      { "label": "Ejaculation delay", "icon": "male" }
+    ],
+    "bullets": [
+      "**Thought to block** serotonin reuptake, per the European label",
+      "**Delays the ejaculation reflex** run by a spinal-cord centre",
+      "**In rats,** it slowed the ejaculation reflex (animal research)"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["5 placebo-controlled Phase III trials", "6,081 men in 25+ countries, 9 to 24 weeks", "Trials run by the drug’s developers"]
+  },
+  "notEstablished": [
+    { "text": "Use in men with ED", "icon": "question" },
+    { "text": "Use with heart disease", "icon": "heart" }
+  ],
+  "practical": {
+    "halfLife": "About 1.5 hours initial; about 19 hours terminal (EU label)",
+    "routes": "By mouth (tablets), as needed",
+    "pharmacokinetics": "Peak in 1 to 2 hours; liver and kidney (CYP2D6, CYP3A4, FMO1)",
+    "soldAs": "Not available in the US; prescription tablets in Spain, Ireland",
+    "monitored": "Lying and standing blood pressure and pulse before starting",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; no Drugs@FDA record" },
+    { "agency": "AEMPS", "text": "Approved in Spain (Priligy), 2009" },
+    { "agency": "HPRA", "text": "Approved in Ireland (Priligy), 2012" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "AEMPS, Priligy summary of product characteristics, Jun 2021",
+    "Pryor et al., Lancet, dapoxetine Phase III trials, Sep 2006",
+    "McMahon et al., J Sex Med, pooled Phase III analysis, Feb 2011"
+  ],
+  "checked": "Nov 2026"
+}

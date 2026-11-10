@@ -1,0 +1,64 @@
+{
+  "slug": "ipamorelin",
+  "lane": "sleep",
+  "number": "09",
+  "name": "Ipamorelin",
+  "description": "Synthetic five-amino-acid growth hormone secretagogue, including amino acids not found in nature",
+  "status": {
+    "class": "Peptide (GH secretagogue)",
+    "studiedFor": "Bowel recovery after surgery",
+    "humanEvidence": "Controlled human trials",
+    "usStatus": "Not FDA approved · FDA Category 2 (503B)"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Bowel recovery", "detail": "Phase II RCT, 117 adults", "evidence": "Human + animal", "tile": "gut" },
+      { "label": "Growth hormone", "detail": "Dose study, 40 healthy men", "evidence": "Human + animal", "tile": "growth-hormone" }
+    ],
+    "note": { "lead": "No sleep study was found.", "text": "In the bowel-surgery trial, time to the first tolerated meal did not differ significantly from placebo." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Ipamorelin", "icon": "molecule" },
+      { "label": "Ghrelin receptor", "icon": "receptor" },
+      { "label": "Pituitary", "icon": "brain" },
+      { "label": "GH burst", "icon": "hormone" }
+    ],
+    "bullets": [
+      "**Acts on the ghrelin receptor** in the pituitary to release GH",
+      "**In pigs,** did not raise ACTH or cortisol, unlike GHRP-6 and GHRP-2",
+      "**In healthy men,** one GH burst, peaking at about 40 minutes (by vein)",
+      "**For sleep,** no effect or mechanism has been studied"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Phase II RCT, 117 adults: no significant benefit", "Second Phase II (320): no results posted", "No study of sleep"]
+  },
+  "notEstablished": [
+    { "text": "Effect on sleep", "icon": "question" },
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Safety of under-skin use", "icon": "list" },
+    { "text": "Effects on fertility", "icon": "sperm" }
+  ],
+  "practical": {
+    "halfLife": "About 2 hours (healthy men, by vein)",
+    "routes": "Into a vein (trials)",
+    "pharmacokinetics": "Drug levels rose in proportion to the dose",
+    "soldAs": "Not approved; FDA Category 2 for 503B compounding",
+    "monitored": "GH and drug levels; time to first meal, adverse events",
+    "sport": "Prohibited, class S2"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; Category 2 (503B) since Sep 2023" },
+    { "agency": "HHS", "text": "Not in the Oct 2026 peptide policy" },
+    { "agency": "TGA", "text": "Prescription-only (Schedule 4)" },
+    { "agency": "WADA", "text": "Prohibited (S2.2.4)" }
+  ],
+  "references": [
+    "FDA, Category 2 bulk drug substances (significant safety risks), Apr 2026",
+    "Beck et al., Int J Colorectal Dis, ipamorelin after bowel surgery, Dec 2014",
+    "Gobburu et al., Pharm Res, ipamorelin in healthy men, Sep 1999"
+  ],
+  "checked": "Nov 2026"
+}

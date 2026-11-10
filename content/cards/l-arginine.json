@@ -1,1 +1,60 @@
-{"slug":"l-arginine"}
+{
+  "slug": "l-arginine",
+  "lane": "vitality",
+  "number": "12",
+  "name": "L-arginine",
+  "description": "Amino acid found in food; the body uses it to make nitric oxide",
+  "status": {
+    "class": "Amino acid",
+    "studiedFor": "Erectile dysfunction",
+    "humanEvidence": "Small human studies",
+    "usStatus": "Dietary supplement; not FDA approved for ED"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "10 trials, 540 men (pooled)", "evidence": "Human + animal", "tile": "erection" },
+      { "label": "Growth hormone test", "detail": "Approved IV test (R-Gene 10)", "evidence": "Human", "tile": "growth-hormone" }
+    ],
+    "note": { "lead": "Results differ between trials.", "text": "Trials were mostly 30 to 100 men. Several in the pooled analysis combined arginine with other substances." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "L-arginine", "icon": "molecule" },
+      { "label": "Nitric oxide", "icon": "molecule" },
+      { "label": "Vessels relax", "icon": "vessel" },
+      { "label": "Penile blood flow", "icon": "male" }
+    ],
+    "bullets": [
+      "**Used by the body** to make nitric oxide, which relaxes blood vessels",
+      "**Erection effects** reported in rat and rabbit studies (animal)",
+      "**Penile blood flow:** unchanged in a 1999 trial, higher in a 2022 trial"
+    ]
+  },
+  "evidence": {
+    "level": 3,
+    "bullets": ["Pooled: 10 trials, 540 men", "Largest single trial: 98 men, 3 months", "No Phase III trial for ED"]
+  },
+  "notEstablished": [
+    { "text": "Long-term use for ED", "icon": "calendar" },
+    { "text": "Dose for ED", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established",
+    "routes": "By mouth in ED trials; vein (R-Gene 10 test)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Dietary supplement; Rx injection only as R-Gene 10",
+    "monitored": "Erection scores, penile blood flow, nitric oxide markers",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved for ED; R-Gene 10 test only" },
+    { "agency": "FDA", "text": "OTC sexual-performance claims need approval" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Rhim et al., J Sex Med, arginine for ED meta-analysis, Feb 2019",
+    "Menafra et al., J Endocrinol Invest, L-arginine in vascular ED, Jan 2022",
+    "FDA, R-Gene 10 prescribing information (DailyMed), Apr 2024"
+  ],
+  "checked": "Nov 2026"
+}

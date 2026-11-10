@@ -1,1 +1,63 @@
-{"slug":"l-citrulline"}
+{
+  "slug": "l-citrulline",
+  "lane": "vitality",
+  "number": "13",
+  "name": "L-citrulline",
+  "description": "Amino acid the body converts into L-arginine, which is used to make nitric oxide",
+  "status": {
+    "class": "Amino acid",
+    "studiedFor": "Erectile dysfunction",
+    "humanEvidence": "Very small human studies",
+    "usStatus": "Dietary supplement; not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "24-man study, no full placebo", "evidence": "Human + animal", "tile": "erection" },
+      { "label": "With resveratrol", "detail": "20 men on PDE5 drugs", "evidence": "Human", "tile": "erection" }
+    ],
+    "note": { "lead": "A larger trial is recruiting.", "text": "An Egyptian trial comparing L-citrulline with tadalafil, 133 men planned, began in 2026. No results yet." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "L-citrulline", "icon": "molecule" },
+      { "label": "Becomes arginine", "icon": "arrow" },
+      { "label": "Nitric oxide", "icon": "molecule" },
+      { "label": "Vessels relax", "icon": "vessel" }
+    ],
+    "bullets": [
+      "**Converted to L-arginine,** which is used to make nitric oxide",
+      "**Raises arginine** with less breakdown in gut and liver than arginine",
+      "**In rats,** improved erection pressure after 3 weeks (animal)",
+      "**In people,** the mechanism for ED is not established"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": ["2 small human studies, 24 and 20 men", "Most other data in rats", "No Phase II or III trial results"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Side-effect profile", "icon": "list" },
+    { "text": "Dose for ED", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "By mouth in the two studies",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Dietary supplement",
+    "monitored": "Erection hardness, erectile function score",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved for any use" },
+    { "agency": "FDA", "text": "Under evaluation for compounding (503A, 503B)" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "Cormio et al., Urology, oral L-citrulline for mild ED, Jan 2011",
+    "Shirai et al., Sex Med, citrulline with resveratrol, Dec 2018",
+    "WADA, 2026 Prohibited List"
+  ],
+  "checked": "Nov 2026"
+}

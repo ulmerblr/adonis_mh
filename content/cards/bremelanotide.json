@@ -1,1 +1,64 @@
-{"slug":"bremelanotide"}
+{
+  "slug": "bremelanotide",
+  "lane": "vitality",
+  "number": "05",
+  "name": "Bremelanotide (PT-141)",
+  "description": "Synthetic ring-shaped 7-amino-acid peptide modelled on alpha-melanocyte-stimulating hormone",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Low desire in women, ED in men",
+    "humanEvidence": "Trials in women; small studies in men",
+    "usStatus": "FDA approved (Vyleesi, women); men off-label"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Low desire (women)", "detail": "Approved use, 2 Phase III trials", "evidence": "Human", "tile": "libido" },
+      { "label": "Erections", "detail": "Small studies; 342-man trial", "evidence": "Human", "tile": "erection" },
+      { "label": "With sildenafil", "detail": "19 men, single doses", "evidence": "Human", "tile": "erection" }
+    ],
+    "note": { "lead": "One trial in men was flagged.", "text": "The 2008 trial of 342 men from Iran carries an expression of concern. Studies in men used a nasal spray or injection." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Bremelanotide", "icon": "molecule" },
+      { "label": "MC1R and MC4R", "icon": "receptor" },
+      { "label": "Brain neurons", "icon": "brain" },
+      { "label": "Sexual desire", "icon": "spark" }
+    ],
+    "bullets": [
+      "**Activates melanocortin receptors;** MC1R and MC4R matter most (label)",
+      "**MC4R** sits on nerve cells across the brain",
+      "**MC1R** on skin pigment cells explains skin darkening",
+      "**How it works** for low desire in women is unknown (label)"
+    ]
+  },
+  "evidence": {
+    "level": 5,
+    "bullets": ["Approved 2019 on 2 Phase III trials in women", "1,267 women in the two 24-week trials", "Men: small studies, 2004 to 2008"]
+  },
+  "notEstablished": [
+    { "text": "Side-effect profile in men", "icon": "list" },
+    { "text": "Long-term use in men", "icon": "calendar" },
+    { "text": "Oral, strip or troche forms", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "About 2.7 hours (range 1.9 to 4.0)",
+    "routes": "Injection under the skin (label); nasal spray in early studies in men",
+    "pharmacokinetics": "Peak in about 1 hour; broken down by peptide hydrolysis",
+    "soldAs": "Prescription injection (Vyleesi); compounded forms unapproved",
+    "monitored": "Blood pressure, heart rate, skin darkening, nausea",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Approved 2019 for HSDD in premenopausal women" },
+    { "agency": "FDA", "text": "Label: not indicated in men" },
+    { "agency": "EMA", "text": "No EU-wide authorisation" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "FDA, Vyleesi prescribing information (DailyMed), Nov 2025",
+    "Safarinejad and Hosseini, J Urol, bremelanotide in ED, Mar 2008",
+    "Diamond et al., Int J Impot Res, PT-141 nasal spray, Feb 2004"
+  ],
+  "checked": "Nov 2026"
+}

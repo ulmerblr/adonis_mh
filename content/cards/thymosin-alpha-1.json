@@ -1,1 +1,65 @@
-{"slug":"thymosin-alpha-1"}
+{
+  "slug": "thymosin-alpha-1",
+  "lane": "recovery",
+  "number": "10",
+  "name": "Thymosin alpha-1",
+  "description": "Synthetic 28-amino-acid peptide, same structure as natural thymosin alpha-1 from thymus tissue",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Hepatitis B, sepsis, immune response",
+    "humanEvidence": "Phase 3 trials; approved in Italy",
+    "usStatus": "Not FDA approved"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Sepsis", "detail": "Largest trial: no death effect", "evidence": "Human", "tile": "infection" },
+      { "label": "Hepatitis B", "detail": "US Phase 3: benefit not confirmed", "evidence": "Human", "tile": "liver" },
+      { "label": "Flu vaccine add-on", "detail": "Approved use in Italy", "evidence": "Human", "tile": "immune" },
+      { "label": "COVID-19 on dialysis", "detail": "Phase 2, open-label", "evidence": "Human", "tile": "infection" }
+    ],
+    "note": { "lead": "No muscle or injury trials.", "text": "It is an immune drug. No trial has tested it for muscle or injury recovery." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Thymosin alpha-1", "icon": "molecule" },
+      { "label": "Lymphocytes", "icon": "cell" },
+      { "label": "Immune signaling", "icon": "shield" },
+      { "label": "Immune response", "icon": "shield" }
+    ],
+    "bullets": [
+      "**Acts on immune cells,** especially lymphocytes, per the Italian label",
+      "Classed as an **immunostimulant** (thymic hormone, immunomodulator)",
+      "**Not a muscle or tissue-repair drug** in its approved use"
+    ]
+  },
+  "evidence": {
+    "level": 4,
+    "bullets": ["Sepsis trial, 1,106 people: no effect on death rates", "US hepatitis B Phase 3: benefit not confirmed", "No trials for muscle or injury recovery"]
+  },
+  "notEstablished": [
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Effects on sperm in men", "icon": "sperm" },
+    { "text": "Use for injury recovery", "icon": "question" },
+    { "text": "Compounded product quality", "icon": "question" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection under the skin",
+    "pharmacokinetics": "Peak about 6 hours after injection; baseline within 24 hours",
+    "soldAs": "Prescription injection in Italy (Zadaxin); not approved in the US",
+    "monitored": "28-day deaths, hepatitis B virus markers, liver enzymes",
+    "sport": "Not on the 2026 list"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; Category 2 nomination withdrawn" },
+    { "agency": "HHS", "text": "Not in the Oct 2026 peptide compounding policy" },
+    { "agency": "AIFA", "text": "Approved in Italy (Zadaxin), 1996" },
+    { "agency": "WADA", "text": "Not on the 2026 list" }
+  ],
+  "references": [
+    "AIFA, Zadaxin summary of product characteristics, Feb 2026",
+    "Wu J, et al., BMJ, TESTS sepsis trial, Jan 2025",
+    "FDA, bulk drug substances with significant safety risks (Category 2), Apr 2026"
+  ],
+  "checked": "Nov 2026"
+}

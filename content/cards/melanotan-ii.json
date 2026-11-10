@@ -1,1 +1,63 @@
-{"slug":"melanotan-ii"}
+{
+  "slug": "melanotan-ii",
+  "lane": "vitality",
+  "number": "14",
+  "name": "Melanotan II",
+  "description": "Lab-made ring-shaped 7-amino-acid peptide modelled on alpha-melanocyte-stimulating hormone",
+  "status": {
+    "class": "Peptide",
+    "studiedFor": "Erections, skin tanning",
+    "humanEvidence": "Tiny studies; case reports",
+    "usStatus": "Not FDA approved; “research use only”"
+  },
+  "studiedFor": {
+    "items": [
+      { "label": "Erections", "detail": "3 studies, 3 to 10 men each", "evidence": "Human", "tile": "erection" },
+      { "label": "Skin darkening", "detail": "Pilot study, 3 men", "evidence": "Human", "tile": "skin" }
+    ],
+    "note": { "lead": "Later reports are mostly of harm.", "text": "Case reports describe melanoma, priapism, muscle breakdown and a brain-swelling syndrome. Single cases cannot show cause." }
+  },
+  "mechanism": {
+    "steps": [
+      { "label": "Melanotan II", "icon": "molecule" },
+      { "label": "Melanocortin rec.", "icon": "receptor" },
+      { "label": "Brain and skin", "icon": "brain" },
+      { "label": "Erections, tanning", "icon": "male" }
+    ],
+    "bullets": [
+      "**Activates melanocortin receptors,** like natural alpha-MSH",
+      "**Darkened skin** and caused spontaneous erections in its first human test",
+      "**In people,** the mechanism for erections is not established"
+    ]
+  },
+  "evidence": {
+    "level": 2,
+    "bullets": ["3 small studies, 3 to 10 men, 1996 to 2000", "No larger trial published", "Serious harms described in case reports"]
+  },
+  "notEstablished": [
+    { "text": "Long-term safety", "icon": "calendar" },
+    { "text": "Half-life in people", "icon": "clock" },
+    { "text": "Product purity and dose", "icon": "question" },
+    { "text": "Drug interactions", "icon": "interact" }
+  ],
+  "practical": {
+    "halfLife": "Not established in people",
+    "routes": "Injection under the skin (1990s studies)",
+    "pharmacokinetics": "Limited human data",
+    "soldAs": "Not approved; sold labelled “research use only”",
+    "monitored": "Erections, skin colour, side effects",
+    "sport": "Not named; S0 may cover it (no WADA ruling)"
+  },
+  "regulatory": [
+    { "agency": "FDA", "text": "Not approved; Category 2 nomination withdrawn" },
+    { "agency": "FDA", "text": "“Research use” labels do not permit human sale" },
+    { "agency": "TGA", "text": "Prescription-only (Schedule 4) in Australia" },
+    { "agency": "WADA", "text": "Not named; S0 may cover it" }
+  ],
+  "references": [
+    "Wessells et al., J Urol, Melanotan II in psychogenic ED, Aug 1998",
+    "FDA, bulk drug substances with significant safety risks (Category 2), Apr 2026",
+    "Habbema et al., Int J Dermatol, melanotan review, Oct 2017"
+  ],
+  "checked": "Nov 2026"
+}
